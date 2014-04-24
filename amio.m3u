@@ -110,21 +110,21 @@ http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id=051 tvg-logo=051,Alarabiya HADAS
 http://livestream2.alarabiya.tv/files/hadath.m3u8
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera News Arabic
-rtmp://hd3.lsops.net/live playpath=aljazeer_ar_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=true live=true
+rtmp://hd3.lsops.net/live playpath=aljazeer_ar_838 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera News Arabic alternative
 http://hd3.lsops.net/live/smil:aljazeer_ar_hls/playlist.m3u8
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera Mubasher
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera News ENG
-rtmp://hd2.lsops.net/live playpath=aljazeer_en_838 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=true live=true
+rtmp://hd2.lsops.net/live playpath=aljazeer_en_838 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera News US
-rtmp://ajam.lsops.net/live/ playpath=ajam_en_584 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=true live=true
+rtmp://ajam.lsops.net/live/ playpath=ajam_en_584 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
 #EXTINF:-1 tvg-id=054 tvg-logo=054,Al Jazeera News US
 http://ajam.lsops.net/live/ajam_en_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=061 tvg-logo=061,Bloomberg
 http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=061 tvg-logo=061,Bloomberg
-rtmp://hd4.lsops.net/live/ playpath=bloomber_en_453 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1384724162 pageUrl=http://www.livestation.com/en/channels/bloomberg/en
+rtmpt://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_1000@18679
 #EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News Arabic PC
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=b18ddd2ed19ea62385a820848edf8e556fd98463cab01be05080c4bc6931a3c0a299017ce29bf1aa
 #EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News Arabic
@@ -132,11 +132,9 @@ rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_162 swfUrl=http://static.ls-cdn.c
 #EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News Arabic
 rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News
-rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1375015323 pageUrl=http://www.livestation.com/en/bbc-news live=1
+rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
 #EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News
-http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8
-#EXTINF:-1 tvg-id=063 tvg-logo=063,BBC News
-http://livestation_hls-lh.akamaihd.net/i/bbcworld_en@105465/master.m3u8
+http://u.to/r86MBg
 #EXTINF:-1 tvg-id=066 tvg-logo=066,CNBC Arabic
 http://livestream-f.akamaihd.net/3102016_1914609_e2ffa5f3_1_678@101498?v=3.0.3&fp=WIN%2011,9,900,170&r=CRKGC&g=BBPEXFAVJWNF
 #EXTINF:-1 tvg-id=066 tvg-logo=066,CNBC
@@ -146,7 +144,7 @@ rtmp://d.cdn.livenewschat.eu/edge/cnbc_live pageUrl=http://weplaylive.tv/live-ne
 #EXTINF:-1 tvg-id=068 tvg-logo=068,CNN International
 http://149.255.152.72/hls-live/livepkgr/cnnintl/cnnintl/cnnintl.m3u8
 #EXTINF:-1 tvg-id=068 tvg-logo=068,CNN 
-rtmp://lm04.everyon.tv:1935/ptv4/ playpath=phd16 swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf pageUrl=http://tv.webactu-webtv.com/usa/cnn3.html
+rtmp://hd1.lsops.net/live/ playpath=cnn_en_584 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
 #EXTINF:-1 tvg-id=068 tvg-logo=068,CNN International
 http://ts://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD177_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=070 tvg-logo=070,CNC
@@ -154,13 +152,13 @@ http://cnc.lsops.net/live/cnc_en_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=071 tvg-logo=071,DW Arabic
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1 tvg-id=073 tvg-logo=073,EuroNews AR
-rtmp://hd1.lsops.net/live/ swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf playpath=euronews_ar_340 pageUrl=http://www.livestation.com/ar/euronews
+rtmp://fr-par-10-stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_14.swf swfVfy=true live=true
 #EXTINF:-1 tvg-id=074 tvg-logo=074,FOX News
 rtmp://67.228.235.73/zenex playpath=foxbaq?id=1465 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbaq/1/500/400
 #EXTINF:-1 tvg-id=074 tvg-logo=074,FOX Business
 rtmp://159.253.143.20/zenex playpath=foxbusiness11?id=1505 swfUrl=http://www.zenex.tv/data/scripts/eplayer.swf pageUrl=http://www.zenex.tv/embedplayer/foxbusiness11/1/500/400 live=true timeout=10 Conn=S:OK
 #EXTINF:-1 tvg-id=075 tvg-logo=075,France 24 Arabic
-http://media10.lsops.net/live/france24_ar.smil/playlist.m3u8
+http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=077 tvg-logo=077,Nile News
 http://live.sis.gov.eg/ch1
 #EXTINF:-1 tvg-id=077 tvg-logo=077,Nile News PC Only
@@ -172,23 +170,23 @@ rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-c
 #EXTINF:-1 tvg-id=080 tvg-logo=080,NASA HD
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_1000 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1 tvg-id=083 tvg-logo=082,Russia Today Arabic
-http://rt.ashttp6.visionip.tv/live/Rusiya_Al_Yaum-SDh/playlist.m3u8
+http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=084 tvg-logo=084,Reuters Live Stream
-http://hd5.lsops.net/live/reuters_en_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=084 tvg-logo=084,Reuters Live Stream
-rtmp://hd5.lsops.net/live/ playpath=reuters_en_500 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1385214461 pageUrl=http://www.livestation.com/en/channels/reuters/en
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id=085 tvg-logo=085,Sky News International
 http://hd2.lsops.net/live/skynewsi_en_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=085 tvg-logo=085,Sky News International
-http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
+mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9MjAxMzEyMDkxNzA4MjMmZGlnZXN0PWNlYWMyOTQ5YjcyMjk1N2ZlZGRkNzcyOTRhMGFjMWQw
 #EXTINF:-1 tvg-id=086 tvg-logo=086,Sky News Arabia
-rtmp://hd7.lsops.net/live/ playpath=skynewsi_ar_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
+http://hd7.lsops.net/live/skynewsi_ar_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=088 tvg-logo=088 group-title=Arabic,AlMasria PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=b18ddd2ed19ea62385a820848edf8e556fd98463cab01be05080c4bc6931a3c0a299017ce29bf1aa
 #EXTINF:-1 tvg-id=090 tvg-logo=090,Al Thania PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=b18ddd2ed19ea62385a820848edf8e556fd98463cab01be05080c4bc6931a3c0a299017ce29bf1aa
 #EXTINF:-1 tvg-id=088 tvg-logo=088,Alola
 http://4.31.30.145:9084
+#EXTINF:-1 tvg-id=088 tvg-logo=088,ART Cinema
+rtmp://192.95.32.7:1935/live/ playpath=art_cinema?user=MjA5N2Q3YjA2M2Q2ZjhiNWNjODAzYWJmM2RmNzU4YWE=&pass=b0bb27ccda0b6ef15aeac9d09c04bb06 swfUrl=http://yoolive.com/player/player.swf pageUrl=http://yoolive.com/art_cinema.php
 #EXTINF:-1 tvg-id=092 tvg-logo=092,AlTahrir Tv PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=b18ddd2ed19ea62385a820848edf8e556fd98463cab01be05080c4bc6931a3c0a299017ce29bf1aa
 #EXTINF:-1 tvg-id=095 tvg-logo=095,Al Nahar
