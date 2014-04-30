@@ -8,7 +8,7 @@ http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
 #EXTINF:-1,ABNSAT
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
 #EXTINF:-1,ABNSAT PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.71&channel=ABN_Med&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.71&channel=ABN_Med&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat
@@ -16,7 +16,7 @@ http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 #EXTINF:-1,AlMukhales PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.150&channel=AlMukhales_LR&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.150&channel=AlMukhales_LR&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alkarma TV US
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
 #EXTINF:-1,Alkarma TV AU
@@ -24,11 +24,11 @@ rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
 #EXTINF:-1,Alkarma TV ME
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 #EXTINF:-1,Alkarma TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Aghapy TV
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,Aghapy TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alkalema
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,Amazing Facts TV
@@ -36,7 +36,7 @@ http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,CTV
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
 #EXTINF:-1,CTV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CTVEgypt_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CTVEgypt_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,CYC
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
 #EXTINF:-1,Copticsat TV
@@ -64,7 +64,7 @@ rtmp://cp45648.live.edgefcs.net/live/T01587-3@58798
 #EXTINF:-1,Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 #EXTINF:-1,Kingdom TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMalakot_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMalakot_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,KDEC
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,JCTV
@@ -74,7 +74,7 @@ rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
 #EXTINF:-1,Miracle TV
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
 #EXTINF:-1,Miracle TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Miracle_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Miracle_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,New Life Egypt
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
 #EXTINF:-1,Noursat AlShabab
@@ -126,7 +126,7 @@ http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
 #EXTINF:-1,Bloomberg
 rtmpt://cp116697.live.edgefcs.net:80/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_1000@18679
 #EXTINF:-1,BBC News Arabic PC
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=BBCArabic_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,BBC News Arabic
 rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_162 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1391524826 pageUrl=http://www.livestation.com/en/bbc-arabic
 #EXTINF:-1,BBC News Arabic
@@ -162,9 +162,9 @@ http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
 #EXTINF:-1,Nile News
 http://live.sis.gov.eg/ch1
 #EXTINF:-1,Nile News PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileNews_High&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileNews_High&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Nile TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileInt_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileInt_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,NASA TV
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1,NASA HD
@@ -180,13 +180,13 @@ mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9
 #EXTINF:-1,Sky News Arabia
 http://hd7.lsops.net/live/skynewsi_ar_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title=Arabic,AlMasria PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Al Thania PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alola
 http://4.31.30.145:9084
 #EXTINF:-1,AlTahrir Tv PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Al Nahar
 rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,Al Nahar +2
@@ -194,9 +194,9 @@ rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.co
 #EXTINF:-1,Al Nahar Drama
 rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnahardrama/
 #EXTINF:-1,Abu Dhabi TV1 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ADAlOula_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ADAlOula_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alhayat Cinema PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Alqahera Alyoum
 rtmp://839156450.e.541833257.r.w6cdn.com/541833257//mp4:freeegeYSbQLHNsFZa
 #EXTINF:-1,CBC
@@ -206,17 +206,17 @@ http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m
 #EXTINF:-1,CBC Sofra
 rtmp://41.196.200.11:9900/live/ playpath=ssoofra.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/cbc_sofra/0-557
 #EXTINF:-1,Cairo Cinema PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CairoCinema_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CairoCinema_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Dream 1 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream1_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream1_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Dream 2 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream2_High&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream2_High&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Dubai
 http://dmilivedubaitv.http.internapcdn.net/dmiLiveDubaiTV/dubaiTVLive130503.m3u8
 #EXTINF:-1,Dubai
 rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_3 app=dmiLiveDubaiTV/live_3 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,Dubai PC
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=DubaiEurope_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=DubaiEurope_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Dubai One
 http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 #EXTINF:-1,Fatafeat
@@ -224,7 +224,7 @@ rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,Fatafeat (Alternative Source)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 #EXTINF:-1,Mehwar PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Mehwar Drama
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDRAMA playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://www.elmehwartv.com/1/
 #EXTINF:-1,Melody Aflam
@@ -238,19 +238,19 @@ rtmp://38.96.148.24/MelodyArabia/MArabia_576p
 #EXTINF:-1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1
 #EXTINF:-1,Nile Cinma PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=drama live=1
 #EXTINF:-1,Nile Drama PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Nile Drama 2
 rtmp://tdsiptv.ddns.me/live playpath=ch132?code=w_0f8985c1ecbd254 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-137-3-4-NileDrama2.html
 #EXTINF:-1,Nile Drama 2 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileDrama2_High&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileDrama2_High&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Nile Comedy
 rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy live=1
 #EXTINF:-1,Nile Comedy PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileComedy_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileComedy_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Nile Culture
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=culture live=1
 #EXTINF:-1,Nile Family
@@ -264,11 +264,11 @@ http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ON TV Live
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ON TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Panaroma Film
 http://4.31.30.145:9075
 #EXTINF:-1 group-title=Sport,ALAHLY PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=0f9afc3e50a50795e88e85ed06531bfd924571548f5d894a757f55e50fc81dd3a299017ce29bf1aa
+http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=b35d5b0f3ce3b113b2c8b0f295f15d3b72b11c6b899ef3d07e1d0b9c1549b22da299017ce29bf1aa
 #EXTINF:-1,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,BEIN SPORTS HD1
@@ -358,7 +358,7 @@ rtmp://31.220.0.82:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwpl
 #EXTINF:-1,ESPN UK
 rtmp://31.220.0.82:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490
 #EXTINF:-1,ESPN
-rtmp://$OPT:rtmp-raw=rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/
+rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/
 #EXTINF:-1,ESPN UK
 rtmpe://play.finecast.tv/live playpath=espnukkk8 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/
 #EXTINF:-1,ESPN USA
@@ -964,6 +964,104 @@ http://202.75.23.33:8800/live/ch25/01.m3u8
 http://202.75.23.37:8800/live/ch16/01.m3u8
 #EXTINF:-1,Sports de combat
 http://202.75.23.37:8800/live/ch20/01.m3u8
+#EXTINF:-1,Nat Geo People HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1,Outdoor Channel HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?1c551f42019d40e8acf32e8218ef8703
+#EXTINF:-1,Nat Geo Music HD
+http://totiptv.duapp.com/live_proxy/totiptv/live?69c2eab6794344619a049c5dea60ca22
+#EXTINF:-1,Sky News HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?31b003ab7e7749a798fe00424e3dd9ff
+#EXTINF:-1,Bio Channel HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1,Comedy Central HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1,Crime and Investigation (CI) HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1,Fashion TV HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?df468a12ae6547de9637486bdc2025aa
+#EXTINF:-1,Fox Crime HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1,FX HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1,ITV Choice HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?e36b99bcd26648af9db2261785c77b7a
+#EXTINF:-1,Sony Entertainment TV HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?bd30e27f1c48430ba2104548a1b124ca
+#EXTINF:-1,Star World HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1,SYFY HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?71f197de056e499a85265c03b44bdab1
+#EXTINF:-1,Travel Channel 
+http://totiptv.duapp.com/live_proxy/totiptv/live?4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1,Thrill 
+http://totiptv.duapp.com/live_proxy/totiptv/live?c316ed9333e54442b25077f0bb3cc269
+#EXTINF:-1,Universal Channel HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1,WBTV (Thai/Eng) HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?06e717f5ec0c4657a8c76c4dfcf9449b
+#EXTINF:-1,Channel V International
+http://totiptv.duapp.com/live_proxy/totiptv/live?9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1,Deutsche Welle 
+http://totiptv.duapp.com/live_proxy/totiptv/live?6DE1E752A9974A5980166483C8ED6BB8
+#EXTINF:-1,Kix 
+http://totiptv.duapp.com/live_proxy/totiptv/live?e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1,Al Yazeera News 
+http://totiptv.duapp.com/live_proxy/totiptv/live?ea4c9d2666bc411d8e6777e8a1d2b747
+#EXTINF:-1,Euronews 
+http://totiptv.duapp.com/live_proxy/totiptv/live?3F35C4428A0D4004A38FF0ADBA7664F4
+#EXTINF:-1,France 24 News 
+http://totiptv.duapp.com/live_proxy/totiptv/live?82c764aa2d7f42579348b8717cb5b9a4
+#EXTINF:-1,Fox News 
+http://totiptv.duapp.com/live_proxy/totiptv/live?1e2041858ca543fa90ec95d28197e907
+#EXTINF:-1,MSNBC HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?7f2989e3f87e4efdb36bac56b64dca62
+#EXTINF:-1,Wealth TV HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?ce9a1585f45d4379970b95308df3f879
+#EXTINF:-1,M HD (This is K-POP) 
+http://totiptv.duapp.com/live_proxy/totiptv/live?8237601ce3ea4bae8332ebb0d88dba87
+#EXTINF:-1,MTV Live HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?8d45473ff4ca44d79e1abc4516c2fee0
+#EXTINF:-1,Animax 
+http://totiptv.duapp.com/live_proxy/totiptv/live?d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1,Baby TV 
+http://totiptv.duapp.com/live_proxy/totiptv/live?7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,Cartoonito 
+http://totiptv.duapp.com/live_proxy/totiptv/live?dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1,Edge HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1,FightBox HD 
+http://totiptv.duapp.com/live_proxy/totiptv/live?0d01fdc1362f427ca5527c645f5f908f
+#EXTINF:-1,Ten Cricket 
+http://totiptv.duapp.com/live_proxy/totiptv/live?07febaf06cea4afeba557b3836d959d6
+#EXTINF:-1,WeTV HD
+http://totiptv.duapp.com/live_proxy/totiptv/live?dea34fa045074639b3a18123d4b4eda0
+#EXTINF:-1,MTV Asia
+http://totiptv.duapp.com/live_proxy/totiptv/live?ebce2f5139c54eda8b111e5923af9c9e
+#EXTINF:-1,SUN CHANNEL HD-LA LIGA(SPANISH SOCCER)
+http://totiptv.duapp.com/live_proxy/totiptv/live?ce4efc6a833f424f8d6cdcad5573f369
+#EXTINF:-1,Choice Sport 1 HD
+http://totiptv.duapp.com/live_proxy/totiptv/live?614b0a940fa0486e8c4ad00e51ae22ff
+#EXTINF:-1,Choice Sport 2 HD
+http://totiptv.duapp.com/live_proxy/totiptv/live?3e169d2e76cb46c9b3702e34e51ecdba
+#EXTINF:-1,Al Jazeera America
+rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
+#EXTINF:-1,Sky News
+rtmp://b.cdn.newschat.tv/edge playpath=skyuk_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/sky/
+#EXTINF:-1,CBC
+rtmp://b.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/
+#EXTINF:-1,Al Jazeera International
+rtmp://d.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-news/
+#EXTINF:-1,Bloomberg
+rtmp://d.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
+#EXTINF:-1,HLN
+rtmp://b.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF:-1,MSNBC
+rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/
+#EXTINF:-1,CNN
+rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/breaking/
+#EXTINF:-1,CNBC
+rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
 #EXTINF:-1,nova sport
 http://w1.drundoo.com:1935/DrundooDVR/_definst_/smil:b0525ed5-1933-4408-9248-1569491c8448.smil/.m3u8
 #EXTINF:-1,Nova Sport_
