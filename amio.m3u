@@ -187,6 +187,8 @@ http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&por
 http://4.31.30.145:9084
 #EXTINF:-1,AlTahrir Tv PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
+#EXTINF:-1,AlHayat
+rtmp://109.123.123.68/live playpath=gto548?id=10373 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/gto548/1/600/450
 #EXTINF:-1,Al Nahar
 rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,Al Nahar +2
@@ -223,6 +225,8 @@ http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,Fatafeat (Alternative Source)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
+#EXTINF:-1,MBC4
+http://85.91.143.20:1935/56278/56278.stream/media_15212.m3u8
 #EXTINF:-1,Mehwar PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Mehwar Drama
@@ -235,6 +239,8 @@ rtmp://38.96.148.24/MelodyClassic/MClassic_576p
 rtmp://38.96.148.24/MelodyHits/MHits_576p
 #EXTINF:-1,Melody Arabia
 rtmp://38.96.148.24/MelodyArabia/MArabia_576p
+#EXTINF:-1,Moga Comedy 
+rtmp://198.105.219.132/live playpath=sfg9463?id=12649 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/sfg9463/1/600/450
 #EXTINF:-1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1
 #EXTINF:-1,Nile Cinma PC Only
@@ -676,17 +682,17 @@ rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe53e83b00b5fb4e932866463fa054b0301
 #EXTINF:-1,MSNBC
 rtmp://c.cdn.livenewschat.eu/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=1 live=1 pageUrl=http://weplaylive.tv timeout=15
 #EXTINF:-1,Rotana Aflam
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2618.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2618.high.stream
 #EXTINF:-1,Rotana
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2600.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2600.high.stream
 #EXTINF:-1,Rotana Clip
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2603.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2603.high.stream
 #EXTINF:-1,Rotana Classic
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2609.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2609.high.stream
 #EXTINF:-1,Rotana Masriya
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2612.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2612.high.stream
 #EXTINF:-1,Rotana Cinema
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbebd1618b414b5eda535f109d73ff08db4ed273bbf0fcdb592dc3014bb83359ef21a34dd78982eb044dddece30f32dfcde5e196169d9ab1def42405d462c916cf91631942d24bfb31a768783ae2f15b50ebf926c20f7e15301919c3177bc0ed7c8352251db9d1dd6ace50a211a49d147d923585537fa970e951a58481ccb46f553b7427228d903440fad2e09f8e7281dbd/2615.high.stream
+rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2615.high.stream
 #EXTINF:-1,The Pentagon
 rtmp://cp114761.live.edgefcs.net:443/live//tpc-live_1@44263
 #EXTINF:-1 tvg-id="fil-2026" tvg-name="PBS_Seattle_(KCTS_9.1)" group-title="Kids" tvg-logo="PBS Seattle (KCTS 9.1).png",PBS Seattle (KCTS 9.1)
@@ -1360,6 +1366,14 @@ rtmp://198.50.226.53:1935/send/_definst_/skyaction
 rtmp://198.50.226.53:1935/send/_definst_/skypremier
 #EXTINF:-1,Nova Cinema
 http://w1.drundoo.com:1935/DrundooDVR/_definst_/smil:084519c7-319f-49d6-b6a6-a18e1e41421d.smil/playlist.m3u8
+#EXTINF:-1,uk gold
+rtmp://198.50.226.53:1935/send/ukgold
+#EXTINF:-1,espn uk
+rtmp://198.50.226.53:1935/send/espnuk
+#EXTINF:-1,rte 1
+rtmp://198.50.226.53:1935/send/rte1
+#EXTINF:-1,rte 2
+rtmp://198.50.226.53:1935/send/rte2
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
