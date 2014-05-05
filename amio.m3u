@@ -273,6 +273,122 @@ http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Panaroma Film
 http://4.31.30.145:9075
+#EXTINF:-1,Al Ahly TV
+http://185.9.3.3:4242/udp/239.193.0.112:3301?auth=yes?
+#EXTINF:-1,Althanya
+http://185.9.3.3:4242/udp/239.193.0.220:3301?auth=yes?
+#EXTINF:-1,Al Hayat Cinema
+http://185.9.3.3:4242/udp/239.193.0.24:3301?auth=yes?
+#EXTINF:-1,Al Hayat
+http://185.9.3.3:4242/udp/239.193.0.25:3301?auth=yes?
+#EXTINF:-1,ALhayah Sport
+http://185.9.3.3:4242/udp/239.193.0.160:3301?auth=yes?
+#EXTINF:-1,Al-Nahar
+http://185.9.3.3:4242/udp/239.193.0.224:3301?auth=yes?
+#EXTINF:-1,Al-Nahar Drama
+http://185.9.3.3:4242/udp/239.193.0.225:3301?auth=yes?
+#EXTINF:-1,ALhayah ALaan
+http://185.9.3.3:4242/udp/239.193.0.231:3301?auth=yes?
+#EXTINF:-1,AD Nat Geo
+http://185.9.3.3:4242/udp/239.193.0.243:3301?auth=yes?
+#EXTINF:-1,CIMA METRO
+http://185.9.3.3:4242/udp/239.193.0.248:3301?auth=yes?
+#EXTINF:-1,CBC Drama
+http://185.9.3.3:4242/udp/239.193.0.226:3301?auth=yes?
+#EXTINF:-1,CBC
+http://185.9.3.3:4242/udp/239.193.0.227:3301?auth=yes?
+#EXTINF:-1,CBC eXtra
+http://185.9.3.3:4242/udp/239.193.0.228:3301?auth=yes?
+#EXTINF:-1,CBC Sofra
+http://185.9.3.3:4242/udp/239.193.0.229:3301?auth=yes?
+#EXTINF:-1,CBC two
+http://185.9.3.3:4242/udp/239.193.0.230:3301?auth=yes?
+#EXTINF:-1,CAIRO FILM
+http://185.9.3.3:4242/udp/239.193.0.32:3301?auth=yes?
+#EXTINF:-1,Cairo Drama
+http://185.9.3.3:4242/udp/239.193.0.49:3301?auth=yes?
+#EXTINF:-1,Cairo cinema
+http://185.9.3.3:4242/udp/239.193.0.50:3301?auth=yes?
+#EXTINF:-1,CN ARABIA
+http://185.9.3.3:4242/udp/239.193.0.14:3301?auth=yes?
+#EXTINF:-1,Dream2
+http://185.9.3.3:4242/udp/239.193.0.174:3301?auth=yes?
+#EXTINF:-1,FATAFEAT
+http://185.9.3.3:4242/udp/239.193.0.148:3301?auth=yes?
+#EXTINF:-1,Faraeen
+http://185.9.3.3:4242/udp/239.193.0.161:3301?auth=yes?
+#EXTINF:-1,Fox Movies
+http://185.9.3.3:4242/udp/239.193.0.8:3301?auth=yes?
+#EXTINF:-1,FOX
+http://185.9.3.3:4242/udp/239.193.0.3:3301?auth=yes?
+#EXTINF:-1,MBC 1
+http://185.9.3.3:4242/udp/239.193.0.118:3301?auth=yes?
+#EXTINF:-1,MBC 2
+http://185.9.3.3:4242/udp/239.193.0.124:3301?auth=yes?
+#EXTINF:-1,MBC 4
+http://185.9.3.3:4242/udp/239.193.0.120:3301?auth=yes?
+#EXTINF:-1,MBC Drama
+http://185.9.3.3:4242/udp/239.193.0.119:3301?auth=yes?
+#EXTINF:-1,MBC 3
+http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes?
+#EXTINF:-1,MBC Action
+http://185.9.3.3:4242/udp/239.193.0.123:3301?auth=yes?
+#EXTINF:-1,Mehwar 2
+http://185.9.3.3:4242/udp/239.193.0.222:3301?auth=yes?
+#EXTINF:-1,Nile Family
+http://185.9.3.3:4242/udp/239.193.0.170:3301?auth=yes?
+#EXTINF:-1,Nile News
+http://185.9.3.3:4242/udp/239.193.0.171:3301?auth=yes?
+#EXTINF:-1,Nile Life
+http://185.9.3.3:4242/udp/239.193.0.173:3301?auth=yes?
+#EXTINF:-1,Nile Culture
+http://185.9.3.3:4242/udp/239.193.0.176:3301?auth=yes?
+#EXTINF:-1,Nile Sport
+http://185.9.3.3:4242/udp/239.193.0.175:3301?auth=yes?
+#EXTINF:-1,Nile Comedy
+http://185.9.3.3:4242/udp/239.193.0.69:3301?auth=yes?
+#EXTINF:-1,Nile Drama
+http://185.9.3.3:4242/udp/239.193.0.71:3301?auth=yes?
+#EXTINF:-1,Nile Cinema
+http://185.9.3.3:4242/udp/239.193.0.74:3301?auth=yes?
+#EXTINF:-1,ONTV
+http://185.9.3.3:4242/udp/239.193.0.102:3301?auth=yes?
+#EXTINF:-1,Oscar Drama
+http://185.9.3.3:4242/udp/239.193.0.23:3301?auth=yes?
+#EXTINF:-1,Panorama Drama
+http://185.9.3.3:4242/udp/239.193.0.109:3301?auth=yes?
+#EXTINF:-1,Panorama Drama 2
+http://185.9.3.3:4242/udp/239.193.0.113:3301?auth=yes?
+#EXTINF:-1,Panorama Film
+http://185.9.3.3:4242/udp/239.193.0.159:3301?auth=yes?
+#EXTINF:-1,Rotana
+http://185.9.3.3:4242/udp/239.193.0.1:3301?auth=yes?
+#EXTINF:-1,Rotana Clip
+http://185.9.3.3:4242/udp/239.193.0.2:3301?auth=yes?
+#EXTINF:-1,Rotana Khalijiah
+http://185.9.3.3:4242/udp/239.193.0.4:3301?auth=yes?
+#EXTINF:-1,Rotana Classic
+http://185.9.3.3:4242/udp/239.193.0.5:3301?auth=yes?
+#EXTINF:-1,Rotana Masriya
+http://185.9.3.3:4242/udp/239.193.0.6:3301?auth=yes?
+#EXTINF:-1,Rotana Cinema
+http://185.9.3.3:4242/udp/239.193.0.7:3301?auth=yes?
+#EXTINF:-1,Rotana Aflam
+http://185.9.3.3:4242/udp/239.193.0.9:3301?auth=yes?
+#EXTINF:-1,STAR CINEMA 1
+http://185.9.3.3:4242/udp/239.193.0.137:3301?auth=yes?
+#EXTINF:-1,STAR CINEMA 2
+http://185.9.3.3:4242/udp/239.193.0.140:3301?auth=yes?
+#EXTINF:-1,SAMA CINEMA
+http://185.9.3.3:4242/udp/239.193.0.126:3301?auth=yes?
+#EXTINF:-1,TAHRIR
+http://185.9.3.3:4242/udp/239.193.0.136:3301?auth=yes?
+#EXTINF:-1,TIME COMEDY
+http://185.9.3.3:4242/udp/239.193.0.35:3301?auth=yes?
+#EXTINF:-1,TOP MOVIES
+http://185.9.3.3:4242/udp/239.193.0.190:3301?auth=yes?
+#EXTINF:-1,TAXI EL SAHRA
+http://185.9.3.3:4242/udp/239.193.0.196:3301?auth=yes?
 #EXTINF:-1 group-title=Sport,ALAHLY PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Al Nahar Sports
