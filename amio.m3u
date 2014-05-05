@@ -1510,72 +1510,10 @@ rtmp://198.50.226.53:1935/send/_definst_/skydrama
 rtmp://198.50.226.53:1935/send/_definst_/skyaction 
 #EXTINF:-1,skyprem 
 rtmp://198.50.226.53:1935/send/_definst_/skypremier
-#EXTINF:-1,Nova Cinema
-http://w1.drundoo.com:1935/DrundooDVR/_definst_/smil:084519c7-319f-49d6-b6a6-a18e1e41421d.smil/playlist.m3u8
 #EXTINF:-1,uk gold
 rtmp://198.50.226.53:1935/send/ukgold
 #EXTINF:-1,espn uk
 rtmp://198.50.226.53:1935/send/espnuk
-#EXTINF:-1,Discovery
-http://178.165.45.203:4022/udp/239.0.0.131:1234
-#EXTINF:-1,Discovery Science
-http://178.165.45.203:4022/udp/239.0.0.130:1234
-#EXTINF:-1,Discovery World
-http://178.165.45.203:4022/udp/239.0.0.129:1234
-#EXTINF:-1,ID Investigation Discovery
-http://178.165.45.203:4022/udp/239.0.0.158:1234
-#EXTINF:-1,TLC
-http://178.165.45.203:4022/udp/239.0.0.132:1234
-#EXTINF:-1,Animal Planet
-http://178.165.45.203:4022/udp/239.0.0.133:1234
-#EXTINF:-1,Sky Bundesliga 1
-http://84.73.251.138:8001/1:0:1:DF:4:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 1
-http://84.73.251.138:8001/1:0:19:69:C:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 2
-http://84.73.251.138:8001/1:0:19:10B:6:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 3
-http://84.73.251.138:8001/1:0:19:115:D:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 4
-http://84.73.251.138:8001/1:0:19:11F:C:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 5
-http://84.73.251.138:8001/1:0:19:129:B:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 6
-http://84.73.251.138:8001/1:0:19:133:A:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 7
-http://84.73.251.138:8001/1:0:19:13D:E:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 8
-http://84.73.251.138:8001/1:0:19:147:E:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 9
-http://84.73.251.138:8001/1:0:19:151:A:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga HD 10
-http://84.73.251.138:8001/1:0:19:101:E:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 1
-http://84.73.251.138:8001/1:0:1:106:2:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 10
-http://84.73.251.138:8001/1:0:1:160:1:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 11
-http://84.73.251.138:8001/1:0:1:FC:2:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 2
-http://84.73.251.138:8001/1:0:1:110:3:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 3
-http://84.73.251.138:8001/1:0:1:11A:3:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 4
-http://84.73.251.138:8001/1:0:1:124:3:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 5
-http://84.73.251.138:8001/1:0:1:12E:3:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 6
-http://84.73.251.138:8001/1:0:1:138:11:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 7
-http://84.73.251.138:8001/1:0:1:142:11:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 8
-http://84.73.251.138:8001/1:0:1:14C:11:85:C00000:0:0:0:
-#EXTINF:-1,Sky Bundesliga 9
-http://84.73.251.138:8001/1:0:1:156:1:85:C00000:0:0:0:
-#EXTINF:-1,Sky Sport 1
-http://84.73.251.138:8001/1:0:1:DD:4:85:C00000:0:0:0:
-#EXTINF:-1,Sky Sport 2
-http://84.73.251.138:8001/1:0:1:DE:4:85:C00000:0:0:0:
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
