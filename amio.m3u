@@ -225,6 +225,18 @@ http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,Fatafeat (Alternative Source)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
+#EXTINF:-1,MBC Action
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
+#EXTINF:-1,MBC MAX
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
+#EXTINF:-1,MBC1
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
+#EXTINF:-1,MBC2
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
+#EXTINF:-1,MBC3
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
+#EXTINF:-1,MBC4
+http://c144-203.i06-5.onvol.net:8001...1040000:0:0:0:
 #EXTINF:-1,MBC4
 http://85.91.143.20:1935/56278/56278.stream/media_15212.m3u8
 #EXTINF:-1,Mehwar PC Only
@@ -289,6 +301,8 @@ http://185.9.3.3:4242/udp/239.193.0.224:3301?auth=yes?
 http://185.9.3.3:4242/udp/239.193.0.225:3301?auth=yes?
 #EXTINF:-1,ALhayah ALaan
 http://185.9.3.3:4242/udp/239.193.0.231:3301?auth=yes?
+#EXTINF:-1,AL MASRAWIA 
+http://185.9.3.3:4242/udp/239.193.0.130:3301?auth=yes? 
 #EXTINF:-1,AD Nat Geo
 http://185.9.3.3:4242/udp/239.193.0.243:3301?auth=yes?
 #EXTINF:-1,CIMA METRO
@@ -321,16 +335,32 @@ http://185.9.3.3:4242/udp/239.193.0.161:3301?auth=yes?
 http://185.9.3.3:4242/udp/239.193.0.8:3301?auth=yes?
 #EXTINF:-1,FOX
 http://185.9.3.3:4242/udp/239.193.0.3:3301?auth=yes?
+#EXTINF:-1,MBC 
+http://185.9.3.3:4242/udp/239.193.0.116:3301?auth=yes?
 #EXTINF:-1,MBC 1
 http://185.9.3.3:4242/udp/239.193.0.118:3301?auth=yes?
 #EXTINF:-1,MBC 2
 http://185.9.3.3:4242/udp/239.193.0.124:3301?auth=yes?
+#EXTINF:-1,MBC2 
+http://185.9.3.3:4242/udp/239.193.0.119:3301?auth=yes? 
+#EXTINF:-1,MBC3 
+http://185.9.3.3:4242/udp/239.193.0.115:3301?auth=yes?
+#EXTINF:-1,MBC 3
+http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes? 
 #EXTINF:-1,MBC 4
 http://185.9.3.3:4242/udp/239.193.0.120:3301?auth=yes?
+#EXTINF:-1,MBC4 
+http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes?
+#EXTINF:-1,MBC MASR+2 
+http://185.9.3.3:4242/udp/239.193.0.117:3301?auth=yes? 
+#EXTINF:-1,MBC DRAMA 
+http://185.9.3.3:4242/udp/239.193.0.118:3301?auth=yes?
 #EXTINF:-1,MBC Drama
 http://185.9.3.3:4242/udp/239.193.0.119:3301?auth=yes?
-#EXTINF:-1,MBC 3
-http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes?
+#EXTINF:-1,MBC MAX 
+http://185.9.3.3:4242/udp/239.193.0.120:3301?auth=yes? 
+#EXTINF:-1,MBC ACTION 
+http://185.9.3.3:4242/udp/239.193.0.121:3301?auth=yes?
 #EXTINF:-1,MBC Action
 http://185.9.3.3:4242/udp/239.193.0.123:3301?auth=yes?
 #EXTINF:-1,Mehwar 2
@@ -1486,10 +1516,66 @@ http://w1.drundoo.com:1935/DrundooDVR/_definst_/smil:084519c7-319f-49d6-b6a6-a18
 rtmp://198.50.226.53:1935/send/ukgold
 #EXTINF:-1,espn uk
 rtmp://198.50.226.53:1935/send/espnuk
-#EXTINF:-1,rte 1
-rtmp://198.50.226.53:1935/send/rte1
-#EXTINF:-1,rte 2
-rtmp://198.50.226.53:1935/send/rte2
+#EXTINF:-1,Discovery
+http://178.165.45.203:4022/udp/239.0.0.131:1234
+#EXTINF:-1,Discovery Science
+http://178.165.45.203:4022/udp/239.0.0.130:1234
+#EXTINF:-1,Discovery World
+http://178.165.45.203:4022/udp/239.0.0.129:1234
+#EXTINF:-1,ID Investigation Discovery
+http://178.165.45.203:4022/udp/239.0.0.158:1234
+#EXTINF:-1,TLC
+http://178.165.45.203:4022/udp/239.0.0.132:1234
+#EXTINF:-1,Animal Planet
+http://178.165.45.203:4022/udp/239.0.0.133:1234
+#EXTINF:-1,Sky Bundesliga 1
+http://84.73.251.138:8001/1:0:1:DF:4:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 1
+http://84.73.251.138:8001/1:0:19:69:C:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 2
+http://84.73.251.138:8001/1:0:19:10B:6:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 3
+http://84.73.251.138:8001/1:0:19:115:D:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 4
+http://84.73.251.138:8001/1:0:19:11F:C:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 5
+http://84.73.251.138:8001/1:0:19:129:B:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 6
+http://84.73.251.138:8001/1:0:19:133:A:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 7
+http://84.73.251.138:8001/1:0:19:13D:E:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 8
+http://84.73.251.138:8001/1:0:19:147:E:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 9
+http://84.73.251.138:8001/1:0:19:151:A:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga HD 10
+http://84.73.251.138:8001/1:0:19:101:E:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 1
+http://84.73.251.138:8001/1:0:1:106:2:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 10
+http://84.73.251.138:8001/1:0:1:160:1:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 11
+http://84.73.251.138:8001/1:0:1:FC:2:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 2
+http://84.73.251.138:8001/1:0:1:110:3:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 3
+http://84.73.251.138:8001/1:0:1:11A:3:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 4
+http://84.73.251.138:8001/1:0:1:124:3:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 5
+http://84.73.251.138:8001/1:0:1:12E:3:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 6
+http://84.73.251.138:8001/1:0:1:138:11:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 7
+http://84.73.251.138:8001/1:0:1:142:11:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 8
+http://84.73.251.138:8001/1:0:1:14C:11:85:C00000:0:0:0:
+#EXTINF:-1,Sky Bundesliga 9
+http://84.73.251.138:8001/1:0:1:156:1:85:C00000:0:0:0:
+#EXTINF:-1,Sky Sport 1
+http://84.73.251.138:8001/1:0:1:DD:4:85:C00000:0:0:0:
+#EXTINF:-1,Sky Sport 2
+http://84.73.251.138:8001/1:0:1:DE:4:85:C00000:0:0:0:
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
