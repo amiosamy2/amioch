@@ -285,140 +285,6 @@ http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Panaroma Film
 http://4.31.30.145:9075
-#EXTINF:-1,Al Ahly TV
-http://185.9.3.3:4242/udp/239.193.0.112:3301?auth=yes?
-#EXTINF:-1,Althanya
-http://185.9.3.3:4242/udp/239.193.0.220:3301?auth=yes?
-#EXTINF:-1,Al Hayat Cinema
-http://185.9.3.3:4242/udp/239.193.0.24:3301?auth=yes?
-#EXTINF:-1,Al Hayat
-http://185.9.3.3:4242/udp/239.193.0.25:3301?auth=yes?
-#EXTINF:-1,ALhayah Sport
-http://185.9.3.3:4242/udp/239.193.0.160:3301?auth=yes?
-#EXTINF:-1,Al-Nahar
-http://185.9.3.3:4242/udp/239.193.0.224:3301?auth=yes?
-#EXTINF:-1,Al-Nahar Drama
-http://185.9.3.3:4242/udp/239.193.0.225:3301?auth=yes?
-#EXTINF:-1,ALhayah ALaan
-http://185.9.3.3:4242/udp/239.193.0.231:3301?auth=yes?
-#EXTINF:-1,AL MASRAWIA 
-http://185.9.3.3:4242/udp/239.193.0.130:3301?auth=yes? 
-#EXTINF:-1,AD Nat Geo
-http://185.9.3.3:4242/udp/239.193.0.243:3301?auth=yes?
-#EXTINF:-1,CIMA METRO
-http://185.9.3.3:4242/udp/239.193.0.248:3301?auth=yes?
-#EXTINF:-1,CBC Drama
-http://185.9.3.3:4242/udp/239.193.0.226:3301?auth=yes?
-#EXTINF:-1,CBC
-http://185.9.3.3:4242/udp/239.193.0.227:3301?auth=yes?
-#EXTINF:-1,CBC eXtra
-http://185.9.3.3:4242/udp/239.193.0.228:3301?auth=yes?
-#EXTINF:-1,CBC Sofra
-http://185.9.3.3:4242/udp/239.193.0.229:3301?auth=yes?
-#EXTINF:-1,CBC two
-http://185.9.3.3:4242/udp/239.193.0.230:3301?auth=yes?
-#EXTINF:-1,CAIRO FILM
-http://185.9.3.3:4242/udp/239.193.0.32:3301?auth=yes?
-#EXTINF:-1,Cairo Drama
-http://185.9.3.3:4242/udp/239.193.0.49:3301?auth=yes?
-#EXTINF:-1,Cairo cinema
-http://185.9.3.3:4242/udp/239.193.0.50:3301?auth=yes?
-#EXTINF:-1,CN ARABIA
-http://185.9.3.3:4242/udp/239.193.0.14:3301?auth=yes?
-#EXTINF:-1,Dream2
-http://185.9.3.3:4242/udp/239.193.0.174:3301?auth=yes?
-#EXTINF:-1,FATAFEAT
-http://185.9.3.3:4242/udp/239.193.0.148:3301?auth=yes?
-#EXTINF:-1,Faraeen
-http://185.9.3.3:4242/udp/239.193.0.161:3301?auth=yes?
-#EXTINF:-1,Fox Movies
-http://185.9.3.3:4242/udp/239.193.0.8:3301?auth=yes?
-#EXTINF:-1,FOX
-http://185.9.3.3:4242/udp/239.193.0.3:3301?auth=yes?
-#EXTINF:-1,MBC 
-http://185.9.3.3:4242/udp/239.193.0.116:3301?auth=yes?
-#EXTINF:-1,MBC 1
-http://185.9.3.3:4242/udp/239.193.0.118:3301?auth=yes?
-#EXTINF:-1,MBC 2
-http://185.9.3.3:4242/udp/239.193.0.124:3301?auth=yes?
-#EXTINF:-1,MBC2 
-http://185.9.3.3:4242/udp/239.193.0.119:3301?auth=yes? 
-#EXTINF:-1,MBC3 
-http://185.9.3.3:4242/udp/239.193.0.115:3301?auth=yes?
-#EXTINF:-1,MBC 3
-http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes? 
-#EXTINF:-1,MBC 4
-http://185.9.3.3:4242/udp/239.193.0.120:3301?auth=yes?
-#EXTINF:-1,MBC4 
-http://185.9.3.3:4242/udp/239.193.0.122:3301?auth=yes?
-#EXTINF:-1,MBC MASR+2 
-http://185.9.3.3:4242/udp/239.193.0.117:3301?auth=yes? 
-#EXTINF:-1,MBC DRAMA 
-http://185.9.3.3:4242/udp/239.193.0.118:3301?auth=yes?
-#EXTINF:-1,MBC Drama
-http://185.9.3.3:4242/udp/239.193.0.119:3301?auth=yes?
-#EXTINF:-1,MBC MAX 
-http://185.9.3.3:4242/udp/239.193.0.120:3301?auth=yes? 
-#EXTINF:-1,MBC ACTION 
-http://185.9.3.3:4242/udp/239.193.0.121:3301?auth=yes?
-#EXTINF:-1,MBC Action
-http://185.9.3.3:4242/udp/239.193.0.123:3301?auth=yes?
-#EXTINF:-1,Mehwar 2
-http://185.9.3.3:4242/udp/239.193.0.222:3301?auth=yes?
-#EXTINF:-1,Nile Family
-http://185.9.3.3:4242/udp/239.193.0.170:3301?auth=yes?
-#EXTINF:-1,Nile News
-http://185.9.3.3:4242/udp/239.193.0.171:3301?auth=yes?
-#EXTINF:-1,Nile Life
-http://185.9.3.3:4242/udp/239.193.0.173:3301?auth=yes?
-#EXTINF:-1,Nile Culture
-http://185.9.3.3:4242/udp/239.193.0.176:3301?auth=yes?
-#EXTINF:-1,Nile Sport
-http://185.9.3.3:4242/udp/239.193.0.175:3301?auth=yes?
-#EXTINF:-1,Nile Comedy
-http://185.9.3.3:4242/udp/239.193.0.69:3301?auth=yes?
-#EXTINF:-1,Nile Drama
-http://185.9.3.3:4242/udp/239.193.0.71:3301?auth=yes?
-#EXTINF:-1,Nile Cinema
-http://185.9.3.3:4242/udp/239.193.0.74:3301?auth=yes?
-#EXTINF:-1,ONTV
-http://185.9.3.3:4242/udp/239.193.0.102:3301?auth=yes?
-#EXTINF:-1,Oscar Drama
-http://185.9.3.3:4242/udp/239.193.0.23:3301?auth=yes?
-#EXTINF:-1,Panorama Drama
-http://185.9.3.3:4242/udp/239.193.0.109:3301?auth=yes?
-#EXTINF:-1,Panorama Drama 2
-http://185.9.3.3:4242/udp/239.193.0.113:3301?auth=yes?
-#EXTINF:-1,Panorama Film
-http://185.9.3.3:4242/udp/239.193.0.159:3301?auth=yes?
-#EXTINF:-1,Rotana
-http://185.9.3.3:4242/udp/239.193.0.1:3301?auth=yes?
-#EXTINF:-1,Rotana Clip
-http://185.9.3.3:4242/udp/239.193.0.2:3301?auth=yes?
-#EXTINF:-1,Rotana Khalijiah
-http://185.9.3.3:4242/udp/239.193.0.4:3301?auth=yes?
-#EXTINF:-1,Rotana Classic
-http://185.9.3.3:4242/udp/239.193.0.5:3301?auth=yes?
-#EXTINF:-1,Rotana Masriya
-http://185.9.3.3:4242/udp/239.193.0.6:3301?auth=yes?
-#EXTINF:-1,Rotana Cinema
-http://185.9.3.3:4242/udp/239.193.0.7:3301?auth=yes?
-#EXTINF:-1,Rotana Aflam
-http://185.9.3.3:4242/udp/239.193.0.9:3301?auth=yes?
-#EXTINF:-1,STAR CINEMA 1
-http://185.9.3.3:4242/udp/239.193.0.137:3301?auth=yes?
-#EXTINF:-1,STAR CINEMA 2
-http://185.9.3.3:4242/udp/239.193.0.140:3301?auth=yes?
-#EXTINF:-1,SAMA CINEMA
-http://185.9.3.3:4242/udp/239.193.0.126:3301?auth=yes?
-#EXTINF:-1,TAHRIR
-http://185.9.3.3:4242/udp/239.193.0.136:3301?auth=yes?
-#EXTINF:-1,TIME COMEDY
-http://185.9.3.3:4242/udp/239.193.0.35:3301?auth=yes?
-#EXTINF:-1,TOP MOVIES
-http://185.9.3.3:4242/udp/239.193.0.190:3301?auth=yes?
-#EXTINF:-1,TAXI EL SAHRA
-http://185.9.3.3:4242/udp/239.193.0.196:3301?auth=yes?
 #EXTINF:-1 group-title=Sport,ALAHLY PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Al Nahar Sports
@@ -439,14 +305,10 @@ rtmp://31.220.0.103:1935/live playpath=b6r swfUrl=http://p.jwpcdn.com/6/8/jwplay
 rtmp://31.220.0.82:1935/live playpath=b7r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b7r&vw=620&vh=490
 #EXTINF:-1,BEIN SPORTS HD8
 rtmp://31.220.0.134:1935/live playpath=b8r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b8r&vw=620&vh=490
-#EXTINF:-1,BEIN SPORTS HD9
-rtmp://31.220.0.104:1935/live playpath=b11r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
-#EXTINF:-1,BEIN SPORTS HD10
-rtmp://31.220.0.103:1935/live playpath=be12r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b12r&vw=620&vh=490
 #EXTINF:-1,BEIN SPORTS HD11
-rtmp://31.220.0.104:1935/live playpath=b11r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490
-#EXTINF:-1 tvg-id=197 tvg-logo=197,BEIN SPORTS HD12
-rtmp://31.220.0.103:1935/live playpath=b12r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b12r&vw=620&vh=490
+rtmp://31.220.0.196:1935/live playpath=b11r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
+#EXTINF:-1,BEIN SPORTS HD12
+rtmp://31.220.0.194:1935/live playpath=b12r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
 #EXTINF:-1,BeIN SPORT
 rtmpe://46.246.124.26:1935/redirect playpath=HDMBEIN swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BeIN SPORT 1
@@ -479,16 +341,26 @@ rtmpe://46.246.124.26:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/
 rtmpe://46.246.124.26:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,BeIN SPORT 15
 rtmpe://46.246.124.26:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN Sports 2
-http://80.241.208.43/evilstar/evilstar/39.ch
-#EXTINF:-1,BeIN Sports 3
-http://80.241.208.43/evilstar/evilstar/38.ch
-#EXTINF:-1,BeIN Sports 4
-http://80.241.208.43/evilstar/evilstar/37.ch
-#EXTINF:-1,BeIN Sports 5
-http://80.241.208.43/evilstar/evilstar/36.ch
-#EXTINF:-1,BeIN Sports News
-http://80.241.208.43/evilstar/evilstar/35.ch
+#EXTINF:-1,BEIN SPORTS 1
+http://www.eucast.tv:1935/live/b1r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 2 
+http://www.eucast.tv:1935/live/b2r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 3 
+http://www.eucast.tv:1935/live/b3r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 4 
+http://www.eucast.tv:1935/live/bb4/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 5 
+http://www.eucast.tv:1935/live/b5r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 6 
+http://www.eucast.tv:1935/live/b6r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 7 
+http://www.eucast.tv:1935/live/b7r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 8 
+http://www.eucast.tv:1935/live/b8r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 11 
+http://www.eucast.tv:1935/live/b11r/playlist.m3u8 
+#EXTINF:-1,BEIN SPORTS 12 
+http://www.eucast.tv:1935/live/b12r/playlist.m3u8
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
@@ -755,18 +627,6 @@ mms://vod.kab.tv/heb
 http://82.80.198.100:1935/live/live1/playlist.m3u8
 #EXTINF:-1,Hidabroot Channel
 http://liveedge.it.best-tv.com:1935/besttv14/stream_hidabroot01/playlist.m3u8
-#EXTINF:-1,Bip
-rtmp://sv5fl.castup.net:1935/993850033-123.flv/_definst_/_definst_ 
-#EXTINF:-1,Ramzor
-rtmp://s3ifl.castup.net:1935/993850086-123.flv/_definst_/_definst_ 
-#EXTINF:-1,Food Channel 24/7
-rtmp://s3ifl.castup.net:1935/993850080-123.flv/_definst_/_definst_
-#EXTINF:-1,Humour Channel 24/7
-rtmp://s3ifl.castup.net:1935/993850077-123.flv/_definst_/_definst_
-#EXTINF:-1,Clipim 24/7
-rtmp://s3ifl.castup.net:1935/993850083-123.flv/_definst_/_definst_
-#EXTINF:-1,Channel 2 internet NEWS
-rtmp://s4efl.castup.net:1935/993850063-123.flv/_definst_/_definst_
 #EXTINF:-1,ISRAIL-HEBREW:64
 http://s3yfl.castup.net:1935/993850064-123.flv/_definst_/hasbahca.m3u8
 #EXTINF:-1,ISRAIL-HEBREW:67
@@ -807,20 +667,8 @@ http://s3yfl.castup.net:1935/993850088-123.flv/_definst_/hasbahca.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,Animal Planet Puppy Bowl
 http://iphone-streaming.ustream.tv/ustreamVideo/13027422/streams/live/playlist.m3u8
-#EXTINF:-1,Canal+ 1
-http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1200/02.m3u8
-#EXTINF:-1,Canal+ 17
-http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1710/02.m3u8
-#EXTINF:-1,canal+ 8
-http://chunk-output-1.live.tv-radio.com/canalplus/android/index/1650/02.m3u8
-#EXTINF:-1,DocuBox HD
-http://spi-live.ercdn.net/spi/docuboxhd_0_1/playlist.m3u8
-#EXTINF:-1,FOX News
+#EXTINF:-1,FOX News.m3u8
 rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
-#EXTINF:-1,Fast & Fun Box HD 
-http://spi-live.ercdn.net/spi/fastnfunhd_0_1/playlist.m3u8
-#EXTINF:-1,FilmBox HD
-http://spi-live.ercdn.net:80/spi/filmboxhd_plczhu_0_1/playlist.m3u8
 #EXTINF:-1,Food Network+1
 rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe53e83b00b5fb4e932866463fa054b030163625f74438afba8aa1563fcfede65cb0fcf3edfc70cda2eb39653b966c07eb2e23ff1d7f60b54c0445c270f6ee86fd91426b60b158292a62ac762ea6b10e1085a211d47001325cca9c85fe164935fd99c565be8941c215ccf2121b42ef36eb59c2786d04abedd97f1a911981ba57f909ba215a095aed4af003623745159fa5/1829.low.stream
 #EXTINF:-1,MBC
@@ -841,368 +689,7 @@ rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90d
 rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90da82f402b9a74ce7f11072b1d617efb4a28ed66ba2c1ab8a4de8e066e6ec35134beb7681e9792a51e87be0b20318d58ec03748e3fad4ea6c2efd50916f4ad8b25c6c1d8849b675213068b5adb19d4f83bccf768d770db101080294d21f27514007702831dbf123ecbcfc0cc117dddfc99f93768831e717408f3eace1f7555260/2615.high.stream
 #EXTINF:-1,The Pentagon
 rtmp://cp114761.live.edgefcs.net:443/live//tpc-live_1@44263
-#EXTINF:-1 tvg-id="fil-2026" tvg-name="PBS_Seattle_(KCTS_9.1)" group-title="Kids" tvg-logo="PBS Seattle (KCTS 9.1).png",PBS Seattle (KCTS 9.1)
-rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbedf3e280d1d68b9c643c1b239bcdc3918b8233627583340c743d96093ee3720af679a45b47f67e125bf369ee884fa7eae0975c5cb03bcdb6fdb540b7ca661e4f96bf7673b39c7c4ef993894ca2ddde296807867a23318a63d77b3436e27589c45964e7698e0e23c66ad1f3e85f2bb891f221c2d426ba1fb137e221773542c909b688c86099101dc9d62369869587ba160 app=live/?id=0ad5aac39bb13fbedf3e280d1d68b9c643c1b239bcdc3918b8233627583340c743d96093ee3720af679a45b47f67e125bf369ee884fa7eae0975c5cb03bcdb6fdb540b7ca661e4f96bf7673b39c7c4ef993894ca2ddde296807867a23318a63d77b3436e27589c45964e7698e0e23c66ad1f3e85f2bb891f221c2d426ba1fb137e221773542c909b688c86099101dc9d62369869587ba160 playpath=2026.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2056" tvg-name="CKCK_CTV_Regina" group-title="Entertainment" tvg-logo="CKCK CTV Regina.png",CKCK CTV Regina
-rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbedf3e280d1d68b9c6e6382306d3ce32bb51dabc10dea2bbdf5095deac7cfbf098e3e9ec8341cdf790b731b5e0e822756cd7462f81ab08ad5acf216f8de6cdd781a55ebd1f5d256356d1f4f58bc51d73eea4576db972a528ad3d5f50755a408d7df87f5ecd80314492372db374fb87f664e33cb5d7c12118d3bc09d1e4fbddf008823616ef4a706552fb98eb600145ffa4 app=live/?id=0ad5aac39bb13fbedf3e280d1d68b9c6e6382306d3ce32bb51dabc10dea2bbdf5095deac7cfbf098e3e9ec8341cdf790b731b5e0e822756cd7462f81ab08ad5acf216f8de6cdd781a55ebd1f5d256356d1f4f58bc51d73eea4576db972a528ad3d5f50755a408d7df87f5ecd80314492372db374fb87f664e33cb5d7c12118d3bc09d1e4fbddf008823616ef4a706552fb98eb600145ffa4 playpath=2056.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-79" tvg-name="Dubai_Sports" group-title="Sport" tvg-logo="Dubai Sports.png",Dubai Sports
-rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe24abbafedc7c930106843ea41062bab47f358b1e0e8bf2cf5d1ed7de22b1cc8b7035dbf4bc527c4f1e244acab9082411661d71f208062e0893f51d6829215830e61367bba940ec350add5baf1cfe550a30587f25a558407f41876c032c8335e80026dd124bf73f10310c7c12c4093e2c22e957e00f5195e2d29009be3d98a8ab96ca038fbb6791dd36d768c477ae3faa app=live/?id=0ad5aac39bb13fbe24abbafedc7c930106843ea41062bab47f358b1e0e8bf2cf5d1ed7de22b1cc8b7035dbf4bc527c4f1e244acab9082411661d71f208062e0893f51d6829215830e61367bba940ec350add5baf1cfe550a30587f25a558407f41876c032c8335e80026dd124bf73f10310c7c12c4093e2c22e957e00f5195e2d29009be3d98a8ab96ca038fbb6791dd36d768c477ae3faa playpath=79.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-370" tvg-name="Dave" group-title="Entertainment" tvg-logo="Dave.png",Dave
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe24abbafedc7c93014e5b534a7c050c83813bf340132dc2d317a94ff0ee3d4db8cbdde0201a8a5687bdcf00a0cd29ca0dd55c789c399e55b77e0c2349b1e3af33cdd05ff9ae29730b6eca338c98232a3ee3f97055cd2193af0b131a25d6558fd18f4043d3acf1e4dd8ef978b956a6aaf83e408261b3aa495d99e8d9b1153309fd4bdc15650aa8d11a9c6a4dba8758c4a3 app=live/?id=0ad5aac39bb13fbe24abbafedc7c93014e5b534a7c050c83813bf340132dc2d317a94ff0ee3d4db8cbdde0201a8a5687bdcf00a0cd29ca0dd55c789c399e55b77e0c2349b1e3af33cdd05ff9ae29730b6eca338c98232a3ee3f97055cd2193af0b131a25d6558fd18f4043d3acf1e4dd8ef978b956a6aaf83e408261b3aa495d99e8d9b1153309fd4bdc15650aa8d11a9c6a4dba8758c4a3 playpath=370.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-8" tvg-name="Viva" group-title="Entertainment" tvg-logo="Viva.png",Viva
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe24abbafedc7c93010f3366806ffadb76e50ef11d186c085f1cfc82d0b2f8be8bb02e4db5ae0b2de3d7d6576ec8b7f0bddc49bcbf85f7a5a0c66189ccb35e24d27088306a9952be7ea3a90ef65216b224b02330d045c34cda6fc889b45582b42e32eb5314fc0c5a000b961ef6ca4c3179b1cb104d25b8baff389968e8aefadb1211bc21ee00e705f8417197d181344387 app=live/?id=0ad5aac39bb13fbe24abbafedc7c93010f3366806ffadb76e50ef11d186c085f1cfc82d0b2f8be8bb02e4db5ae0b2de3d7d6576ec8b7f0bddc49bcbf85f7a5a0c66189ccb35e24d27088306a9952be7ea3a90ef65216b224b02330d045c34cda6fc889b45582b42e32eb5314fc0c5a000b961ef6ca4c3179b1cb104d25b8baff389968e8aefadb1211bc21ee00e705f8417197d181344387 playpath=8.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-200" tvg-name="KDOC_56.1_Los_Angeles" group-title="Entertainment" tvg-logo="KDOC 56.1 Los Angeles.png",KDOC 56.1 Los Angeles
-rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe63fc7c73c8756b384975e153c2c0274d1b69227d5405051988773f60cb39aae91d0ec788dcc5d8d1c26c0a2926ec45f4002d1a987123ee274ce57676e8eaedbe6ca7c61ddd30562ce83ce5865f83e4a8586df2946d13a4b235aa23fc6b688c75c5e4d153f5e4d13b26490ab401f4efe45f3ec7bd850facbdebaf0ed37ac81de4968b431f79a975c471e34476dc7e4df2 app=live/?id=0ad5aac39bb13fbe63fc7c73c8756b384975e153c2c0274d1b69227d5405051988773f60cb39aae91d0ec788dcc5d8d1c26c0a2926ec45f4002d1a987123ee274ce57676e8eaedbe6ca7c61ddd30562ce83ce5865f83e4a8586df2946d13a4b235aa23fc6b688c75c5e4d153f5e4d13b26490ab401f4efe45f3ec7bd850facbdebaf0ed37ac81de4968b431f79a975c471e34476dc7e4df2 playpath=200.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-836" tvg-name="Horror_Channel" group-title="Entertainment" tvg-logo="Horror Channel.png",Horror Channel
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe63fc7c73c8756b387a5eec5ff3a4e157122ae568d2e36c4f5454cb3104aedb9572d5523e27dc98e50406dd2e90049cc13b71727ffc8a66c4bad93653b003ff116c42dd0c5e967a24b4879a370970ecdd89209eb514b96001ddcdc3ac1546a7fdfc887d0b7acc1fb65dba446c445b849cefb6b38d8da6a33314fa97f92159bd419f51c2012b96c6f21977db566b5f76fa app=live/?id=0ad5aac39bb13fbe63fc7c73c8756b387a5eec5ff3a4e157122ae568d2e36c4f5454cb3104aedb9572d5523e27dc98e50406dd2e90049cc13b71727ffc8a66c4bad93653b003ff116c42dd0c5e967a24b4879a370970ecdd89209eb514b96001ddcdc3ac1546a7fdfc887d0b7acc1fb65dba446c445b849cefb6b38d8da6a33314fa97f92159bd419f51c2012b96c6f21977db566b5f76fa playpath=836.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1672" tvg-name="Euronews_English" group-title="News" tvg-logo="Euronews English.png",Euronews English
-rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe63fc7c73c8756b38cc289520f83f72beb8831f99c6a07598b80167d98984995a217447ef001c902ce0f40a58e9245a2c61c19d0086ada50e033f355f2fb533dbbfb19c6d555b4e9fc57d1ecfc2044d05573bcfa7133742f94ea879a186ab1861064e7d18033912e08a804da6b37e3a730f19c891b8105249b52cc657ac1b500262874b1ddaf23201fb4dacb50c44b34e app=live/?id=0ad5aac39bb13fbe63fc7c73c8756b38cc289520f83f72beb8831f99c6a07598b80167d98984995a217447ef001c902ce0f40a58e9245a2c61c19d0086ada50e033f355f2fb533dbbfb19c6d555b4e9fc57d1ecfc2044d05573bcfa7133742f94ea879a186ab1861064e7d18033912e08a804da6b37e3a730f19c891b8105249b52cc657ac1b500262874b1ddaf23201fb4dacb50c44b34e playpath=1672.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1666" tvg-name="BBC_Parliament" group-title="News" tvg-logo="BBC Parliament.png",BBC Parliament
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbe63fc7c73c8756b385929dab36d9abda24f168bbfc7f1aa1638b6cfc77a21e608d4baca363f8dc4f4882890e0732a92f1c4024d891528193aa951a28a654bc9dc3f93dcc7c2e6a508d7140355e76cd16b64575c2273ef7e8a6a2dd31b34a2468a7f2e515c7b054c566c834aa0af59c2abdaef4767b43e4710d386cbe88cf699f3503bb575b6012d7bc01bec381f3d68ac app=live/?id=0ad5aac39bb13fbe63fc7c73c8756b385929dab36d9abda24f168bbfc7f1aa1638b6cfc77a21e608d4baca363f8dc4f4882890e0732a92f1c4024d891528193aa951a28a654bc9dc3f93dcc7c2e6a508d7140355e76cd16b64575c2273ef7e8a6a2dd31b34a2468a7f2e515c7b054c566c834aa0af59c2abdaef4767b43e4710d386cbe88cf699f3503bb575b6012d7bc01bec381f3d68ac playpath=1666.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-27" tvg-name="BBC_News" group-title="News" tvg-logo="BBC News.png",BBC News
-rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe77a8e110c13c08068dd6fcd4cc74ad2bf242bdd4a9c33a43e2b6b844d4f46f208af19a231865e818511b198b9ec5a2924db1ba7d0a9d5c3d03b787dd01b67d2fdd50608dc666b243889fa5dbc459a88614e7a095a05d836903cd7ead98b08de82088f36e236a13f50932432a140166bdb87deba8412e1d07bf40ef0c65e03a6bbbdc6a28c2229b9bb69f8eae5db48cab app=live/?id=0ad5aac39bb13fbe77a8e110c13c08068dd6fcd4cc74ad2bf242bdd4a9c33a43e2b6b844d4f46f208af19a231865e818511b198b9ec5a2924db1ba7d0a9d5c3d03b787dd01b67d2fdd50608dc666b243889fa5dbc459a88614e7a095a05d836903cd7ead98b08de82088f36e236a13f50932432a140166bdb87deba8412e1d07bf40ef0c65e03a6bbbdc6a28c2229b9bb69f8eae5db48cab playpath=27.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-384" tvg-name="The_Western_Channel" group-title="Entertainment" tvg-logo="The Western Channel.png",The Western Channel
-rtmp://live77.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe77a8e110c13c0806e64bfffbc938abb617331f2bbe511941b51a3f010eda1572b13b515573b72aeec5183d6e9e9841b74fdd0f3c8ef751aab9fe5db6f071176dce1615432261564f590f43445f057ef2e2d4f4fd88a78be753b68eb48cf8a644e34a301a8674205e516ae34f7057e7a10a52ddce84b94a050ba9ae36dc6d3c60443a1597ed879fa27b3fcc4db7cb5569 app=live/?id=0ad5aac39bb13fbe77a8e110c13c0806e64bfffbc938abb617331f2bbe511941b51a3f010eda1572b13b515573b72aeec5183d6e9e9841b74fdd0f3c8ef751aab9fe5db6f071176dce1615432261564f590f43445f057ef2e2d4f4fd88a78be753b68eb48cf8a644e34a301a8674205e516ae34f7057e7a10a52ddce84b94a050ba9ae36dc6d3c60443a1597ed879fa27b3fcc4db7cb5569 playpath=384.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-22" tvg-name="Channel_5" group-title="Entertainment" tvg-logo="Channel 5.png",Channel 5
-rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbe77a8e110c13c0806e79d73614cea8715ec424a6c74f0b138d1a6c2a34d800d33affdadf938083b2958ab561741233e11f633cf4793a7e040205c7e957431c12b2585efbe451833b299e8f81421c46ac86206ed273bb2050567fa1f9c8565fb2d632e7329004d8cfcc052d2b679c14214949b1e82ec87fbb99e13b0e022872a9ed3a671765b434b7742e11dd27515d134 app=live/?id=0ad5aac39bb13fbe77a8e110c13c0806e79d73614cea8715ec424a6c74f0b138d1a6c2a34d800d33affdadf938083b2958ab561741233e11f633cf4793a7e040205c7e957431c12b2585efbe451833b299e8f81421c46ac86206ed273bb2050567fa1f9c8565fb2d632e7329004d8cfcc052d2b679c14214949b1e82ec87fbb99e13b0e022872a9ed3a671765b434b7742e11dd27515d134 playpath=22.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1123" tvg-name="Fitness_TV" group-title="Documentary" tvg-logo="Fitness TV.png",Fitness TV
-rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbed80c016969fe451d8f5ff36f379984c125e5a3e80b63f1d38a229e98845074e34ae7eaf63e41ab01964fb030321e146f9526c31e6e27f36d68603b52c4e3f6619d5b6513bf66324591d8224677a125c85fc05b84e16ce751eb4447da0097f702d193278ec661e9283215b78767005ba94e2f21ccb3b5a1865a7b84925f6204eae7ed9b47e55495ea3a39137663f15253 app=live/?id=0ad5aac39bb13fbed80c016969fe451d8f5ff36f379984c125e5a3e80b63f1d38a229e98845074e34ae7eaf63e41ab01964fb030321e146f9526c31e6e27f36d68603b52c4e3f6619d5b6513bf66324591d8224677a125c85fc05b84e16ce751eb4447da0097f702d193278ec661e9283215b78767005ba94e2f21ccb3b5a1865a7b84925f6204eae7ed9b47e55495ea3a39137663f15253 playpath=1123.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1817" tvg-name="ITV+1" group-title="Entertainment" tvg-logo="ITV+1.png",ITV+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbed80c016969fe451d20edeb7b5230d2e6b1f2117c969ebdc93a5bef03e5ca600d35d62bf3518545ec7a6372b431e14df2c323805ea11d5565a0b84c75e71db9e21cd7a79aef19e946be42ba6959d0f8624f0f9fa96e7983ac5dc35ef5052f9ab416b1a20febfec72ba5555e3d22c8c1e5868ea55d970bdae152143fe485db885f9afa0f808a70a962d743a4f801ed25a9 app=live/?id=0ad5aac39bb13fbed80c016969fe451d20edeb7b5230d2e6b1f2117c969ebdc93a5bef03e5ca600d35d62bf3518545ec7a6372b431e14df2c323805ea11d5565a0b84c75e71db9e21cd7a79aef19e946be42ba6959d0f8624f0f9fa96e7983ac5dc35ef5052f9ab416b1a20febfec72ba5555e3d22c8c1e5868ea55d970bdae152143fe485db885f9afa0f808a70a962d743a4f801ed25a9 playpath=1817.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2509" tvg-name="WETA_UK_Washington" group-title="Entertainment" tvg-logo="WETA UK Washington.png",WETA UK Washington
-rtmp://38.84.225.122/live/?id=0ad5aac39bb13fbed80c016969fe451d6481b7a19e7c01712febe1d3ff1081b13ca39c4fa41e6ef718155ecfa84045d879e446047a4afd8ef5cec756571accedb072c3bb03d9682411daca16d5c6ce3399ac100cdc6b993472d1a0703b0b3cf214d105f642dd80636262e8b8a42729a88adca2ec94de5aa26fb641058132b7cd8af4c96f458f7c2e8d06495522e57d51b17b408e4801aa32 app=live/?id=0ad5aac39bb13fbed80c016969fe451d6481b7a19e7c01712febe1d3ff1081b13ca39c4fa41e6ef718155ecfa84045d879e446047a4afd8ef5cec756571accedb072c3bb03d9682411daca16d5c6ce3399ac100cdc6b993472d1a0703b0b3cf214d105f642dd80636262e8b8a42729a88adca2ec94de5aa26fb641058132b7cd8af4c96f458f7c2e8d06495522e57d51b17b408e4801aa32 playpath=2509.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-136" tvg-name="FOX_5_NY_(WNYW)" group-title="Entertainment" tvg-logo="FOX 5 NY (WNYW).png",FOX 5 NY (WNYW)
-rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbe8e762fe3cead490f3e2bc903fe724b93e2acc9687e4438b885314dcc356d2b06ac92231bffbdbf05d5d8c3a55b1f1c8d53600d86aae9529d1735270db3d1b06e58a2f8851ab0ccad2383e87d5a7c64ddff75b2a27c665f821e3dccaa38bd9e98971796b25f71e23c55033c2246e406687fd114d2b509110a97142abcdd136f867744f8c7799f376a4c56962c28f0f486 app=live/?id=0ad5aac39bb13fbe8e762fe3cead490f3e2bc903fe724b93e2acc9687e4438b885314dcc356d2b06ac92231bffbdbf05d5d8c3a55b1f1c8d53600d86aae9529d1735270db3d1b06e58a2f8851ab0ccad2383e87d5a7c64ddff75b2a27c665f821e3dccaa38bd9e98971796b25f71e23c55033c2246e406687fd114d2b509110a97142abcdd136f867744f8c7799f376a4c56962c28f0f486 playpath=136.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-81" tvg-name="Bloomberg" group-title="News" tvg-logo="Bloomberg.png",Bloomberg
-rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe8e762fe3cead490f712e487b9ecfb8fc120f392a2f5aab1624b6759032ba9370589ed5c4398fbd9b16e3a3c2175df35376b731aadffb04f3223ae102f93917c0b185bd84616a3e035f86e574f33edbd9b0d4d528fa3ba079664c2bd380bb6bc2124784f021d328f4a17185924f1cda5a1fbd812a8686f185a3dc4c3f6925a474bc12f328665482d71373ec84acbdd8e8 app=live/?id=0ad5aac39bb13fbe8e762fe3cead490f712e487b9ecfb8fc120f392a2f5aab1624b6759032ba9370589ed5c4398fbd9b16e3a3c2175df35376b731aadffb04f3223ae102f93917c0b185bd84616a3e035f86e574f33edbd9b0d4d528fa3ba079664c2bd380bb6bc2124784f021d328f4a17185924f1cda5a1fbd812a8686f185a3dc4c3f6925a474bc12f328665482d71373ec84acbdd8e8 playpath=81.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-11" tvg-name="ITV1" group-title="Entertainment" tvg-logo="ITV1.png",ITV1
-rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe8e762fe3cead490f4eef2316c3225103fa752326df1c54de03f4ed3b350453f021656346e42686da07b1728ee4524109921fd6e8ab901afb5b6f6c5ba6c1fc18a69b066d873cf8678a7cebec32aad0969bd08d9aa2602f6e23db526c303b1096beff89ffdfd4bc229c6d5c745ddbd3b1f941721ba266154a98685672bebf13c47158ff59d9acdaf35a06a1a9e4d74e98 app=live/?id=0ad5aac39bb13fbe8e762fe3cead490f4eef2316c3225103fa752326df1c54de03f4ed3b350453f021656346e42686da07b1728ee4524109921fd6e8ab901afb5b6f6c5ba6c1fc18a69b066d873cf8678a7cebec32aad0969bd08d9aa2602f6e23db526c303b1096beff89ffdfd4bc229c6d5c745ddbd3b1f941721ba266154a98685672bebf13c47158ff59d9acdaf35a06a1a9e4d74e98 playpath=11.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-209" tvg-name="CW_NY_(WPIX_11.1)" group-title="Entertainment" tvg-logo="CW NY (WPIX 11.1).png",CW NY (WPIX 11.1)
-rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe8e762fe3cead490feacb9ae9cf49e470a41138d660ae44aa9596d3d8caafd18f467d2673dd8f7a375df5ef1e58407bd73114ec84ad1d63650d3a8bfe53d8cf22d9d8e8838b382134d1bba75f5880388a79a06d4adf75d461b59a4754b5fbf14a20b86a24a0d8e362aa4b1dd4ba06785e031dd7ac976a63ddd12ca7040eaf57c10f8c26264d508c7f0151ae6a525340c7 app=live/?id=0ad5aac39bb13fbe8e762fe3cead490feacb9ae9cf49e470a41138d660ae44aa9596d3d8caafd18f467d2673dd8f7a375df5ef1e58407bd73114ec84ad1d63650d3a8bfe53d8cf22d9d8e8838b382134d1bba75f5880388a79a06d4adf75d461b59a4754b5fbf14a20b86a24a0d8e362aa4b1dd4ba06785e031dd7ac976a63ddd12ca7040eaf57c10f8c26264d508c7f0151ae6a525340c7 playpath=209.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1820" tvg-name="ITV2+1" group-title="Entertainment" tvg-logo="ITV2+1.png",ITV2+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe1789147874725feae38a25371994b54a3b1fcd7a60b8a7513216cff2788cddffe7c8a2c650f6ab3a947b3cc6013f376c86b36776d8a52aa076ef27bac413e62522e53cf4587853190576f2a68ea9e7311e229d5a05d9d720929ab59b56cff3c201cb24c5052d59615577a4273843b90d6013f37ff0329a27f9b3bf9f55ea690060b5e95f72764db775925ef3fa4b7260 app=live/?id=0ad5aac39bb13fbe1789147874725feae38a25371994b54a3b1fcd7a60b8a7513216cff2788cddffe7c8a2c650f6ab3a947b3cc6013f376c86b36776d8a52aa076ef27bac413e62522e53cf4587853190576f2a68ea9e7311e229d5a05d9d720929ab59b56cff3c201cb24c5052d59615577a4273843b90d6013f37ff0329a27f9b3bf9f55ea690060b5e95f72764db775925ef3fa4b7260 playpath=1820.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-20" tvg-name="Food_Network" group-title="Documentary" tvg-logo="Food Network.png",Food Network
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe1789147874725fea15dd2cd2b57cd75b1ff1cd4e1dd6036a48ddef134447d23ef4d7afbd4a223389e924177aaf09803b1382991e32f176ca0c4d15e95079b39b64958bb22ee85b70978a4cbf5e7d3f7268118d0f379d749af26d0d00d82c672191abb8e79a10dfad3ef3f54cf3c9617508caf44be151a68b1772daa0f78aa448ad80fddf337ca8a468c74acd4cda5b6d app=live/?id=0ad5aac39bb13fbe1789147874725fea15dd2cd2b57cd75b1ff1cd4e1dd6036a48ddef134447d23ef4d7afbd4a223389e924177aaf09803b1382991e32f176ca0c4d15e95079b39b64958bb22ee85b70978a4cbf5e7d3f7268118d0f379d749af26d0d00d82c672191abb8e79a10dfad3ef3f54cf3c9617508caf44be151a68b1772daa0f78aa448ad80fddf337ca8a468c74acd4cda5b6d playpath=20.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2864" tvg-name="GBH_Kids_44.4_Boston" group-title="Kids" tvg-logo="GBH Kids 44.4 Boston.png",GBH Kids 44.4 Boston
-rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbe1789147874725feaced111af4c41e926dad1047f5614caca22bf1f9eeea1a11a5610ac14c0029c19f6739e592e2ed5f66c569d986405bb2355f57c61fb1443cfb6b1cd377f6fcb5ea083219520340a59ca32c6b5a08db549c333817fe47b67b445f1d823455e7e9fd586832bf6c911c81995fa151ceaee89730160caaed83908eb638301ff9a495d3dd577580e3eea94 app=live/?id=0ad5aac39bb13fbe1789147874725feaced111af4c41e926dad1047f5614caca22bf1f9eeea1a11a5610ac14c0029c19f6739e592e2ed5f66c569d986405bb2355f57c61fb1443cfb6b1cd377f6fcb5ea083219520340a59ca32c6b5a08db549c333817fe47b67b445f1d823455e7e9fd586832bf6c911c81995fa151ceaee89730160caaed83908eb638301ff9a495d3dd577580e3eea94 playpath=2864.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-392" tvg-name="THIRTEEN_NY_(WNET_13.1)" group-title="Kids" tvg-logo="THIRTEEN NY (WNET 13.1).png",THIRTEEN NY (WNET 13.1)
-rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbeabd5fb35528cc92339ac22c61d2d230ff2a2f63e15d4eb4dac1b38da378f7f7d7a7d4329f0dc1b3f58a1e67caaae5e135aac07cf8c5ef814e2e8e0e8b90c7489cf9ac649d8826db2e40aa4c6ed3ccbd65ba1902bae0517e7fa7d020476c945eabe099887c2fd29c631cdaf953409de59caea6178647ab3f32c19c4225bab5e526be6acee72feb9893da02359c578f750 app=live/?id=0ad5aac39bb13fbeabd5fb35528cc92339ac22c61d2d230ff2a2f63e15d4eb4dac1b38da378f7f7d7a7d4329f0dc1b3f58a1e67caaae5e135aac07cf8c5ef814e2e8e0e8b90c7489cf9ac649d8826db2e40aa4c6ed3ccbd65ba1902bae0517e7fa7d020476c945eabe099887c2fd29c631cdaf953409de59caea6178647ab3f32c19c4225bab5e526be6acee72feb9893da02359c578f750 playpath=392.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1826" tvg-name="ITV4+1" group-title="Entertainment" tvg-logo="ITV4+1.png",ITV4+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbeabd5fb35528cc923c3227b39d8a796e08650a2981dbdc195d57d78c39330840814c3c90d0fe841bc4e22c5056892e2c34eafeaae86d1df42332de05e32ef551ca86eba20b9aef4c02ddba8d7f70f57ba74190ac33399e81ceadeecab4bad59c22e0eb13433eceed0abb25b3477e2787eebd0553a0a74956daaaf5a96991adaf3a59af32c746167e2322ec923e4e0289d app=live/?id=0ad5aac39bb13fbeabd5fb35528cc923c3227b39d8a796e08650a2981dbdc195d57d78c39330840814c3c90d0fe841bc4e22c5056892e2c34eafeaae86d1df42332de05e32ef551ca86eba20b9aef4c02ddba8d7f70f57ba74190ac33399e81ceadeecab4bad59c22e0eb13433eceed0abb25b3477e2787eebd0553a0a74956daaaf5a96991adaf3a59af32c746167e2322ec923e4e0289d playpath=1826.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1016" tvg-name="The_World_Of..." group-title="Documentary" tvg-logo="The World Of....png",The World Of...
-rtmp://live77.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbea03e57a6c95693372546a2b8c74114a6b5b0f845a47414a61f9de3661dd000187a1548e20b8fd9201713f97a6987466ba25c99c30c3ec088035b17efe64771d12d91c2f8cbc89decfced8b1db3f0318b53b641f2c1044236dfa2904d16a0cc46fbc4308d6b8ac12a33c69e66576a0206554a0c9eee1c5d011d2566e61ba683d920e47f5aa09a685d2cf08cee7b966643 app=live/?id=0ad5aac39bb13fbea03e57a6c95693372546a2b8c74114a6b5b0f845a47414a61f9de3661dd000187a1548e20b8fd9201713f97a6987466ba25c99c30c3ec088035b17efe64771d12d91c2f8cbc89decfced8b1db3f0318b53b641f2c1044236dfa2904d16a0cc46fbc4308d6b8ac12a33c69e66576a0206554a0c9eee1c5d011d2566e61ba683d920e47f5aa09a685d2cf08cee7b966643 playpath=1016.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1811" tvg-name="CBS_Reality+1" group-title="Documentary" tvg-logo="CBS Reality+1.png",CBS Reality+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbea03e57a6c956933740418fda8e230410dd9d5472a2da21bd4b6578944b4c51f124c4fc73d6fb8ba68aea98b93e4b1d000da723076558f95a50a452040eb43c3829fb8179d540ce5da59640694cb3ff6c456abd48084c23ff769a02fb0e055e6307497a77335e93ecdd28512eb19b4337206d59f882111f271a816165ed2798730190cf35cf0a986ca528f338ea67ba10 app=live/?id=0ad5aac39bb13fbea03e57a6c956933740418fda8e230410dd9d5472a2da21bd4b6578944b4c51f124c4fc73d6fb8ba68aea98b93e4b1d000da723076558f95a50a452040eb43c3829fb8179d540ce5da59640694cb3ff6c456abd48084c23ff769a02fb0e055e6307497a77335e93ecdd28512eb19b4337206d59f882111f271a816165ed2798730190cf35cf0a986ca528f338ea67ba10 playpath=1811.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-805" tvg-name="The_War_Channel" group-title="Documentary" tvg-logo="The War Channel.png",The War Channel
-rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbea03e57a6c9569337e1a3c69663378cb9fb1728a03a48352107a1f073f6173e87045d9e7293e501190f16c65f2ba585a9305abdf529502dd6758951cb8816e874bb64abf5b4c3d326269b18eed5d2ed7d65069dc21597539be894148b5204d282396c46fc68b887f39b47ca0710660d5ac33035a3480e4364a38e8267c033283660e4a1d06509885d36820c653bbfaf46 app=live/?id=0ad5aac39bb13fbea03e57a6c9569337e1a3c69663378cb9fb1728a03a48352107a1f073f6173e87045d9e7293e501190f16c65f2ba585a9305abdf529502dd6758951cb8816e874bb64abf5b4c3d326269b18eed5d2ed7d65069dc21597539be894148b5204d282396c46fc68b887f39b47ca0710660d5ac33035a3480e4364a38e8267c033283660e4a1d06509885d36820c653bbfaf46 playpath=805.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-113" tvg-name="BBC_Three" group-title="Entertainment" tvg-logo="BBC Three.png",BBC Three
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbea03e57a6c9569337668381957eff0146c64a9dfdd74d5d8c11e53a393f6ff9ca47962e4167ff0918026eeb72002c6cca8d981de089124d88bb61eb3fb2d3900ac7d5d924398cebba617598d8e2e2e3d9d8dcaac31f44ce29c9560bc410cba9375f0791dff788bbad681568f779485bdf5d821137e6a712480fdbe6fad13caabd4d28ff25a9b25a3378d2dca12912aa9e app=live/?id=0ad5aac39bb13fbea03e57a6c9569337668381957eff0146c64a9dfdd74d5d8c11e53a393f6ff9ca47962e4167ff0918026eeb72002c6cca8d981de089124d88bb61eb3fb2d3900ac7d5d924398cebba617598d8e2e2e3d9d8dcaac31f44ce29c9560bc410cba9375f0791dff788bbad681568f779485bdf5d821137e6a712480fdbe6fad13caabd4d28ff25a9b25a3378d2dca12912aa9e playpath=113.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1630" tvg-name="COZI-TV_NY_(WNBC_4.2)" group-title="Entertainment" tvg-logo="COZI-TV NY (WNBC 4.2).png",COZI-TV NY (WNBC 4.2)
-rtmp://live65.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbec48b4555f0c5b004d228d20e0504f3dcfa8bc4c42d90814616791b20fe457fa824444e9268239375b98797268a3e1361ee4e751e9f12b13892948ed4efc69c4f567414a25c409bbe1604f271a514ee91871f31aa0529d2f8c347d164bc02a2768004ec28df983904653871ad50650a9233f0c70309a4173fcabb6753697b121e12d4045a9d6f806c891fdffacae85d55 app=live/?id=0ad5aac39bb13fbec48b4555f0c5b004d228d20e0504f3dcfa8bc4c42d90814616791b20fe457fa824444e9268239375b98797268a3e1361ee4e751e9f12b13892948ed4efc69c4f567414a25c409bbe1604f271a514ee91871f31aa0529d2f8c347d164bc02a2768004ec28df983904653871ad50650a9233f0c70309a4173fcabb6753697b121e12d4045a9d6f806c891fdffacae85d55 playpath=1630.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2563" tvg-name="Rocky_Mountain_PBS_Denver_(KRMA_6.1)" group-title="Kids" tvg-logo="Rocky Mountain PBS Denver (KRMA 6.1).png",Rocky Mountain PBS Denver (KRMA 6.1)
-rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbec48b4555f0c5b00423c702d6922352a66d7a953827aaf66e33701c912f53b2c2269ed5bf06ecd0234d987d9a7cc1162a468e9887c18a27747949b3ae00b5b833184c15096f45c8087374d48202511cefc3ede2de6ab70c076e7995f4c22483c65a7cef7f9d008bf7d2d021f8c96a996d6bd21dcb837d6060e0c2bfd0a022199134190c376ed268c11830e0785e7c775d app=live/?id=0ad5aac39bb13fbec48b4555f0c5b00423c702d6922352a66d7a953827aaf66e33701c912f53b2c2269ed5bf06ecd0234d987d9a7cc1162a468e9887c18a27747949b3ae00b5b833184c15096f45c8087374d48202511cefc3ede2de6ab70c076e7995f4c22483c65a7cef7f9d008bf7d2d021f8c96a996d6bd21dcb837d6060e0c2bfd0a022199134190c376ed268c11830e0785e7c775d playpath=2563.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2" tvg-name="Channel_4" group-title="Entertainment" tvg-logo="Channel 4.png",Channel 4
-rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbec48b4555f0c5b00492e92715a66d7a70aeb34adc9ac325afe87414e1710810176bef12fc9a29162ec1d3ab31bfceab0ef37aca06a948807c01bc5d2933d5efd645e31931a5f4f34d1c4a5ad35f143349db549ad4fbc8864cb5a3429e4e8336b47bfd1796d12dae93942f977e6ecd8c1284a2d5cf86630f56f16c4b5e40e0abe241775051e4f9ccd8e392f5ec8225a6f5 app=live/?id=0ad5aac39bb13fbec48b4555f0c5b00492e92715a66d7a70aeb34adc9ac325afe87414e1710810176bef12fc9a29162ec1d3ab31bfceab0ef37aca06a948807c01bc5d2933d5efd645e31931a5f4f34d1c4a5ad35f143349db549ad4fbc8864cb5a3429e4e8336b47bfd1796d12dae93942f977e6ecd8c1284a2d5cf86630f56f16c4b5e40e0abe241775051e4f9ccd8e392f5ec8225a6f5 playpath=2.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1823" tvg-name="ITV3+1" group-title="Entertainment" tvg-logo="ITV3+1.png",ITV3+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe1053861f47ae98425626d82320c401515640d96f450555d85ea5793d6759acca404adb81cca8d87e124977836e72a77e64d3c993eadbb627e8a64d521e0a057d5352bba5a25ea85fde09dbb6f6c7ec84e57e25461276000ba952df1ed35d9a0ff181149a776212e5208173fc4e89a926945c2a3d8ab4ecf72340af12d19ffbe44e57aece9b4f4c5ae1d626e221fa03bd app=live/?id=0ad5aac39bb13fbe1053861f47ae98425626d82320c401515640d96f450555d85ea5793d6759acca404adb81cca8d87e124977836e72a77e64d3c993eadbb627e8a64d521e0a057d5352bba5a25ea85fde09dbb6f6c7ec84e57e25461276000ba952df1ed35d9a0ff181149a776212e5208173fc4e89a926945c2a3d8ab4ecf72340af12d19ffbe44e57aece9b4f4c5ae1d626e221fa03bd playpath=1823.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2633" tvg-name="Biography_TV" group-title="Documentary" tvg-logo="Biography TV.png",Biography TV
-rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbe1053861f47ae984267c317bd22dec2d13e1667c34866012bcbd2c4d98550c587b7bbfc0ba7feff1f304b9caa38f007c3dd070220c21257ea4f8da5503b8ca413c14aa7d16696197a38e4182360594582960a9e602e912d39a57670c1769342498ffe698a20672bb1a554b8c0fde0a9c1d5932c70ce45571ac1cf856fb69055f443827073381e8b5dc5686663a247ac98 app=live/?id=0ad5aac39bb13fbe1053861f47ae984267c317bd22dec2d13e1667c34866012bcbd2c4d98550c587b7bbfc0ba7feff1f304b9caa38f007c3dd070220c21257ea4f8da5503b8ca413c14aa7d16696197a38e4182360594582960a9e602e912d39a57670c1769342498ffe698a20672bb1a554b8c0fde0a9c1d5932c70ce45571ac1cf856fb69055f443827073381e8b5dc5686663a247ac98 playpath=2633.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2554" tvg-name="WTTW_11.1_Chicago" group-title="Entertainment" tvg-logo="WTTW 11.1 Chicago.png",WTTW 11.1 Chicago
-rtmp://204.107.26.244/live/?id=0ad5aac39bb13fbe1053861f47ae9842dcfd0946e77ca1dd8ef3af573c141a99fdb4d1e42e767534222b63927ec9813d0a84eb5fae340ea0594849d9d6cb50a2f9f68b94a2914cf9f74e728f0f4321c0892e0ceacc5d500e1f3ca2680c1752f61ca402ea44ae4843efa7deafc2c4c5213b907b23910165a2fe77063f6d7a5de3c323fc6cbe2d066e828a39573316b7703369319e6bd98d54 app=live/?id=0ad5aac39bb13fbe1053861f47ae9842dcfd0946e77ca1dd8ef3af573c141a99fdb4d1e42e767534222b63927ec9813d0a84eb5fae340ea0594849d9d6cb50a2f9f68b94a2914cf9f74e728f0f4321c0892e0ceacc5d500e1f3ca2680c1752f61ca402ea44ae4843efa7deafc2c4c5213b907b23910165a2fe77063f6d7a5de3c323fc6cbe2d066e828a39573316b7703369319e6bd98d54 playpath=2554.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-14" tvg-name="BBC_One" group-title="Entertainment" tvg-logo="BBC One.png",BBC One
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbed9de2665ee8206eb7e4529b0537f4dcd850db0ca47bd580c84fbfe9c42e7708e1e13f356f1a7bd3d4a0a905c81de4ec79afe2e246fb3d2d60cad91a26b51154f0062054617538de4aa78869f16a3713a6896593da21fdddcc0df3283110d6afc26bbc619926d7cce63b6eeb14066bdac1fc8ff81512ba1543f68e41bad9d2778343dda29884dcfacc99e5ca720f2d9c0 app=live/?id=0ad5aac39bb13fbed9de2665ee8206eb7e4529b0537f4dcd850db0ca47bd580c84fbfe9c42e7708e1e13f356f1a7bd3d4a0a905c81de4ec79afe2e246fb3d2d60cad91a26b51154f0062054617538de4aa78869f16a3713a6896593da21fdddcc0df3283110d6afc26bbc619926d7cce63b6eeb14066bdac1fc8ff81512ba1543f68e41bad9d2778343dda29884dcfacc99e5ca720f2d9c0 playpath=14.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-845" tvg-name="5USA" group-title="Entertainment" tvg-logo="5USA.png",5USA
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbed9de2665ee8206eb8d42285f7f1f5dcfefea37bd2aa53831f9595d0dc784bd4445c17df0a94989c94ea115da94c1c15f5aeda62b7a38ac1ceb2a208e0d4039b1422b048c4f47a96699200e11dcc0463adf35773bf3cbbbebf7040e159cf68d6aae0ad05bf053855887b24f1b167f85472842e84e07f8069c3751ea1e87ad38c526c2595c839a81c75b6e493b9d8464eb app=live/?id=0ad5aac39bb13fbed9de2665ee8206eb8d42285f7f1f5dcfefea37bd2aa53831f9595d0dc784bd4445c17df0a94989c94ea115da94c1c15f5aeda62b7a38ac1ceb2a208e0d4039b1422b048c4f47a96699200e11dcc0463adf35773bf3cbbbebf7040e159cf68d6aae0ad05bf053855887b24f1b167f85472842e84e07f8069c3751ea1e87ad38c526c2595c839a81c75b6e493b9d8464eb playpath=845.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-25" tvg-name="BBC_Two" group-title="Entertainment" tvg-logo="BBC Two.png",BBC Two
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbed9de2665ee8206eb0ca30bb06ba8c6f9119257dfcca76df55af36bbd233ed934c742e83ab486379c6811f53bec15410d9acc01ceab99df682d99c5e5507b137ed70a64e611195cdaacb92e185c8e7b1371aca30f50fe7cbdb4216b56229c1990f27654bfdee76adc1a0de56b5a799aa31cb7b4cd12a74e783470e39688c73052027803e2a13a8176e0568b0eb414389f app=live/?id=0ad5aac39bb13fbed9de2665ee8206eb0ca30bb06ba8c6f9119257dfcca76df55af36bbd233ed934c742e83ab486379c6811f53bec15410d9acc01ceab99df682d99c5e5507b137ed70a64e611195cdaacb92e185c8e7b1371aca30f50fe7cbdb4216b56229c1990f27654bfdee76adc1a0de56b5a799aa31cb7b4cd12a74e783470e39688c73052027803e2a13a8176e0568b0eb414389f playpath=25.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1711" tvg-name="Psychic_Today" group-title="Entertainment" tvg-logo="Psychic Today.png",Psychic Today
-rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe05c86ce77437a7c05c8a52bb7de47851568c2fe72f2b67483697b54c04cae48f5a7bc03942994cfbc844f125a92b5c90715fdc17b5cf0abbdb629d34b1ee86ebbea58aa1a487deaad1d9b57704df52f59708052a45b70d15cae72b39d256c64ed1d6aa2704f5d16ad9a77ceda8a61e7b68703e8a80f32046fb3cb34088495bebcef78e133a10f2626e76fe47c6477b40 app=live/?id=0ad5aac39bb13fbe05c86ce77437a7c05c8a52bb7de47851568c2fe72f2b67483697b54c04cae48f5a7bc03942994cfbc844f125a92b5c90715fdc17b5cf0abbdb629d34b1ee86ebbea58aa1a487deaad1d9b57704df52f59708052a45b70d15cae72b39d256c64ed1d6aa2704f5d16ad9a77ceda8a61e7b68703e8a80f32046fb3cb34088495bebcef78e133a10f2626e76fe47c6477b40 playpath=1711.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2062" tvg-name="CICC_CTV_Yorkton" group-title="Entertainment" tvg-logo="CICC CTV Yorkton.png",CICC CTV Yorkton
-rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbe05c86ce77437a7c0170eacc8b0682e91425521c84a2ff8fbaa44de25bd22c9ad4424592bf7a2cf907f0843a8f8b21cef6c087e86f6a95bdfa8d0e07b48079a8911a7002087c23f583fa5501e7856cff4a57382d3bdbcc044030dcdf3a21df72db37227d3bcc247a5477ad575bf81e3dd06cb16fba4a5f38f123462d1ff1f865f700e67d0e99f735ef4874e027741b556 app=live/?id=0ad5aac39bb13fbe05c86ce77437a7c0170eacc8b0682e91425521c84a2ff8fbaa44de25bd22c9ad4424592bf7a2cf907f0843a8f8b21cef6c087e86f6a95bdfa8d0e07b48079a8911a7002087c23f583fa5501e7856cff4a57382d3bdbcc044030dcdf3a21df72db37227d3bcc247a5477ad575bf81e3dd06cb16fba4a5f38f123462d1ff1f865f700e67d0e99f735ef4874e027741b556 playpath=2062.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-309" tvg-name="Classic_Arts_Showcase" group-title="Music" tvg-logo="Classic Arts Showcase.png",Classic Arts Showcase
-rtmp://live74.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe05c86ce77437a7c0005f542dfad9793342002c9e5fe36b043109716893bb615e180a2cf21cebba94d024ff937d672a20dc6742228fcf9892a0431c0587816490b115ef2a3812c527594cab0f8a0dcb7b910e0e1830a219b98ee4a8ebf021776c7d739701871068ffbb506f0d2241cb6ef78c6e6ece2a0db9aaeeda8d38969ae3f7f535f45cc1b7dd1370e03ed0dd941a app=live/?id=0ad5aac39bb13fbe05c86ce77437a7c0005f542dfad9793342002c9e5fe36b043109716893bb615e180a2cf21cebba94d024ff937d672a20dc6742228fcf9892a0431c0587816490b115ef2a3812c527594cab0f8a0dcb7b910e0e1830a219b98ee4a8ebf021776c7d739701871068ffbb506f0d2241cb6ef78c6e6ece2a0db9aaeeda8d38969ae3f7f535f45cc1b7dd1370e03ed0dd941a playpath=309.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1039" tvg-name="Yesterday" group-title="Documentary" tvg-logo="Yesterday.png",Yesterday
-rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbe05c86ce77437a7c008c0043451c96020c202dbf1eaf67f7abb61b5a97487dbcedbb8cd77fd9d7bc2dbda85efebe9e4ffee001e268a965a3e3c6eafbd538bb798c44e6043f88fdae8d2090b6149ef7865f486ef11e11e3ecc40a0d535086defb0cda5cfc29384bcd1c90e1ec0a027785aff26f4dca06af02a958755b346fabad7d9eb209067367bea07aabe64cc7c7267 app=live/?id=0ad5aac39bb13fbe05c86ce77437a7c008c0043451c96020c202dbf1eaf67f7abb61b5a97487dbcedbb8cd77fd9d7bc2dbda85efebe9e4ffee001e268a965a3e3c6eafbd538bb798c44e6043f88fdae8d2090b6149ef7865f486ef11e11e3ecc40a0d535086defb0cda5cfc29384bcd1c90e1ec0a027785aff26f4dca06af02a958755b346fabad7d9eb209067367bea07aabe64cc7c7267 playpath=1039.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-716" tvg-name="Popcorn_TV" group-title="Entertainment" tvg-logo="Popcorn TV.png",Popcorn TV
-rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbe01c0e177895f17ed8a6566bf97c45cfae8f9f6372dbf1fd6d94bb69823a5f4f0ef8ede6db966cb2d2e0440cb726772c0233b0319e6dc8ff94bdb6f916c36eea20582a343420357b5dc3117752f740a9e75fcee6202cb0096bad71d62d633299931308b1f0a4aacb434c96ba1fa22df3a51fb939c6d6eec4a655a062114df3853ca70b44144fffb1c51664d56a7f765ba app=live/?id=0ad5aac39bb13fbe01c0e177895f17ed8a6566bf97c45cfae8f9f6372dbf1fd6d94bb69823a5f4f0ef8ede6db966cb2d2e0440cb726772c0233b0319e6dc8ff94bdb6f916c36eea20582a343420357b5dc3117752f740a9e75fcee6202cb0096bad71d62d633299931308b1f0a4aacb434c96ba1fa22df3a51fb939c6d6eec4a655a062114df3853ca70b44144fffb1c51664d56a7f765ba playpath=716.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1829" tvg-name="Food_Network+1" group-title="Documentary" tvg-logo="Food Network+1.png",Food Network+1
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe01c0e177895f17ed4583070e800e66a4d42383219fd847f45aab6049f869883c5b475d4e07ed1b15d8a33518e092ca2551ce2887b54b298263eaf1e7c3bf0314c31ce226f5ec94365cc5ad5d483d098707203ebb03720bf056a819d4583c84bfb433da99f957c441224e635e7fce23a07820dce815d0ab4faa5f623071aa534add3391bf4bcebda6bb8b31cb95cba740 app=live/?id=0ad5aac39bb13fbe01c0e177895f17ed4583070e800e66a4d42383219fd847f45aab6049f869883c5b475d4e07ed1b15d8a33518e092ca2551ce2887b54b298263eaf1e7c3bf0314c31ce226f5ec94365cc5ad5d483d098707203ebb03720bf056a819d4583c84bfb433da99f957c441224e635e7fce23a07820dce815d0ab4faa5f623071aa534add3391bf4bcebda6bb8b31cb95cba740 playpath=1829.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-26" tvg-name="ITV3" group-title="Entertainment" tvg-logo="ITV3.png",ITV3
-rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe01c0e177895f17ed1ab489c207a7ac3adfb6f6eb8acf2dc618026fd59301a4fe34b0d87c2f68a29765585c25f1596e721f689a0da4a50da7834ae3e3fad84e2fb3c47d9586300af7efb35b24ae59af1c76790c0898bb4f20eb49734f45858604992f31e3b2ccfefa24eea334da59387f5bb8cafd0d3f6cbb4aab2ab7126f524b2a15ba8563bfc2e75b7da2d7235a845a app=live/?id=0ad5aac39bb13fbe01c0e177895f17ed1ab489c207a7ac3adfb6f6eb8acf2dc618026fd59301a4fe34b0d87c2f68a29765585c25f1596e721f689a0da4a50da7834ae3e3fad84e2fb3c47d9586300af7efb35b24ae59af1c76790c0898bb4f20eb49734f45858604992f31e3b2ccfefa24eea334da59387f5bb8cafd0d3f6cbb4aab2ab7126f524b2a15ba8563bfc2e75b7da2d7235a845a playpath=26.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1808" tvg-name="CBS_Reality" group-title="Documentary" tvg-logo="CBS Reality.png",CBS Reality
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe09d0d0444fc22c764d8406c002d9670c863e8576b239c5da9aa65cf2ec84b541760eb0ce81529e110df48918d9da630116c84ae30693759cd77ae2e7aeeff62a173806de2dcb21b51d3e1293c63b44269cc7ef9ba8f6322f3f6e1fede525d9c8aba914a45b2009916a5be6b7c25fd4098c1028880112bb6f97726743417ccc85eddcffd4de88d6b3d565718390c2765d app=live/?id=0ad5aac39bb13fbe09d0d0444fc22c764d8406c002d9670c863e8576b239c5da9aa65cf2ec84b541760eb0ce81529e110df48918d9da630116c84ae30693759cd77ae2e7aeeff62a173806de2dcb21b51d3e1293c63b44269cc7ef9ba8f6322f3f6e1fede525d9c8aba914a45b2009916a5be6b7c25fd4098c1028880112bb6f97726743417ccc85eddcffd4de88d6b3d565718390c2765d playpath=1808.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1675" tvg-name="CCTV_News" group-title="News" tvg-logo="CCTV News.png",CCTV News
-rtmp://live300.edge.filmon.com/live/?id=0ad5aac39bb13fbe09d0d0444fc22c76a7798804ccf0aefbbe89a2d9744a39c430f569fcac1ce400f083ef20c96c0f79e7694da7034ec788b7fe7ab7514f7c935aba6420080f3861be983c0df0d302a2f2630f291c9edab974c65533213d6b205cf57060777e58292364311b16fc6a2fd8c1e1c926ff3d94bbe35f97d8fa861fe332140a4f7d9599d7103e6b77cfeeed41d8c23ced09dca6 app=live/?id=0ad5aac39bb13fbe09d0d0444fc22c76a7798804ccf0aefbbe89a2d9744a39c430f569fcac1ce400f083ef20c96c0f79e7694da7034ec788b7fe7ab7514f7c935aba6420080f3861be983c0df0d302a2f2630f291c9edab974c65533213d6b205cf57060777e58292364311b16fc6a2fd8c1e1c926ff3d94bbe35f97d8fa861fe332140a4f7d9599d7103e6b77cfeeed41d8c23ced09dca6 playpath=1675.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-101" tvg-name="ITV4" group-title="Entertainment" tvg-logo="ITV4.png",ITV4
-rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe09d0d0444fc22c7660ac50edd98b6610824a6ccaf59fa07e921af874017021a1c2c16a305e3e3caea57f550bcb7f1d0a7aa8e429ed5ed7d87c655d289a373524d2f29f0712287aab999ef95ddf6fb2a406cbe71eca61f4c68b06950d8969730d68b40f7ead185dcba79a9e558b2d0487e65ee9314a26d828b4cb50128b8572dab7a458b7d05fae888d58a55b348a0438 app=live/?id=0ad5aac39bb13fbe09d0d0444fc22c7660ac50edd98b6610824a6ccaf59fa07e921af874017021a1c2c16a305e3e3caea57f550bcb7f1d0a7aa8e429ed5ed7d87c655d289a373524d2f29f0712287aab999ef95ddf6fb2a406cbe71eca61f4c68b06950d8969730d68b40f7ead185dcba79a9e558b2d0487e65ee9314a26d828b4cb50128b8572dab7a458b7d05fae888d58a55b348a0438 playpath=101.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-361" tvg-name="BBC_1_North_Ireland" group-title="Entertainment" tvg-logo="BBC 1 North Ireland.png",BBC 1 North Ireland
-rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe09d0d0444fc22c7693380e770a9e40459b3fee7b26c5821327a9f5ac1e53a988f1f6e0da25d5950fb118e87e54eee333aa21c81778d77a5518fc4c28c514afb4452f40fdfbe881e0d3f0c9dee25bd093c13e650b1374a78cfecf4e2790fe1021b8a46f8c2c0408a9bd60a9c3f01851e2779cca908aea7f6284c911c674eb325a9472f7647ce41e2a61cf9eeeb21e3a35 app=live/?id=0ad5aac39bb13fbe09d0d0444fc22c7693380e770a9e40459b3fee7b26c5821327a9f5ac1e53a988f1f6e0da25d5950fb118e87e54eee333aa21c81778d77a5518fc4c28c514afb4452f40fdfbe881e0d3f0c9dee25bd093c13e650b1374a78cfecf4e2790fe1021b8a46f8c2c0408a9bd60a9c3f01851e2779cca908aea7f6284c911c674eb325a9472f7647ce41e2a61cf9eeeb21e3a35 playpath=361.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2053" tvg-name="CFRN_CTV_Edmonton" group-title="Entertainment" tvg-logo="CFRN CTV Edmonton.png",CFRN CTV Edmonton
-rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbe7acc06ec99efa2d5e5df8d2aed78786360135dd3a8a2fac57027b7e9d9e79b5868fcb2cfc00cffe5a6db7e0aaaf825f29eb15433ba44570234164b0e6547332197b7bd8fda481481862d7ee0cbfdc4d570ba4a9ca10ee0d5a3e954d057f37e1edd80654270c6adbae26d21511ff1032d02e20a499ae80830078b8641bd2fcd008bf0e1f4144b10ffe2ac6b47bd06bb80 app=live/?id=0ad5aac39bb13fbe7acc06ec99efa2d5e5df8d2aed78786360135dd3a8a2fac57027b7e9d9e79b5868fcb2cfc00cffe5a6db7e0aaaf825f29eb15433ba44570234164b0e6547332197b7bd8fda481481862d7ee0cbfdc4d570ba4a9ca10ee0d5a3e954d057f37e1edd80654270c6adbae26d21511ff1032d02e20a499ae80830078b8641bd2fcd008bf0e1f4144b10ffe2ac6b47bd06bb80 playpath=2053.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-97" tvg-name="More4" group-title="Entertainment" tvg-logo="More4.png",More4
-rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe7acc06ec99efa2d536f9563a97e9ac3eff1e1f0156ac94972ac0b953643d63f050d3b15dec96d1adeac146e1d5a5b9c5cb1aa80e59f7a745d47cdf2c41cc6ba5403c6b63b55a1d994408590ee4ebdb4cc4b4f1b36c8fc0cedb063629a1428baccd6ec3dcde9124319b1b0db6ce2b293ba11f8831787241ba72c412781083a80f3b0045c7c3f919230d0a2849f8e47025 app=live/?id=0ad5aac39bb13fbe7acc06ec99efa2d536f9563a97e9ac3eff1e1f0156ac94972ac0b953643d63f050d3b15dec96d1adeac146e1d5a5b9c5cb1aa80e59f7a745d47cdf2c41cc6ba5403c6b63b55a1d994408590ee4ebdb4cc4b4f1b36c8fc0cedb063629a1428baccd6ec3dcde9124319b1b0db6ce2b293ba11f8831787241ba72c412781083a80f3b0045c7c3f919230d0a2849f8e47025 playpath=97.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-95" tvg-name="4_Music" group-title="Music" tvg-logo="4 Music.png",4 Music
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe7acc06ec99efa2d52d6180b5899c10b79524f895e84c891dc0ad7939d022e9fa5137d05fd3b885df1ceb8fb70b77401e7d80b4184642b9a9325c45405c3e0825077d529cd8f4bcf0c7ca83d380cfd31c2cccf48ca67d01635032f387fb5efb982072754adf6ad2ade560cd4df651f7a71b831af27da50eabf13c1d79c1af3f0cdbabf5884e0aa01f2d3d229ca378828e app=live/?id=0ad5aac39bb13fbe7acc06ec99efa2d52d6180b5899c10b79524f895e84c891dc0ad7939d022e9fa5137d05fd3b885df1ceb8fb70b77401e7d80b4184642b9a9325c45405c3e0825077d529cd8f4bcf0c7ca83d380cfd31c2cccf48ca67d01635032f387fb5efb982072754adf6ad2ade560cd4df651f7a71b831af27da50eabf13c1d79c1af3f0cdbabf5884e0aa01f2d3d229ca378828e playpath=95.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-67" tvg-name="ITV2" group-title="Entertainment" tvg-logo="ITV2.png",ITV2
-rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe3def7d90af767b5f3e69c26d041e65ca9e98cdeb94d9af42ac8ea4327d4492b559aa5480201cc3b1113cd1adaf8c2ea0dc4e43dfbec3f090fa2f1622faa46da74ada5d51720abd0a66533f7fc3dec76399073c112a526432b88036553f876b35fb50df4d46c339b4694d92f73487fb8310ba0dc1383c86433c06b0078518eba30684bbd0d3b6de98f2443446557d9a1e app=live/?id=0ad5aac39bb13fbe3def7d90af767b5f3e69c26d041e65ca9e98cdeb94d9af42ac8ea4327d4492b559aa5480201cc3b1113cd1adaf8c2ea0dc4e43dfbec3f090fa2f1622faa46da74ada5d51720abd0a66533f7fc3dec76399073c112a526432b88036553f876b35fb50df4d46c339b4694d92f73487fb8310ba0dc1383c86433c06b0078518eba30684bbd0d3b6de98f2443446557d9a1e playpath=67.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-1805" tvg-name="CBS_Drama" group-title="Entertainment" tvg-logo="CBS Drama.png",CBS Drama
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe3def7d90af767b5ff81079e9812d04f9d2c334e03b2b1b61773d4eff640075b10aa80ae9dd77756839e4d47f88b19840211094731d4277ebc08cbb95f80459f8db3bd506979f014c2a3d44fc35a9cadff8221828951ba98b927b876853af836e81c26d0dcda3b28009894f71863c6f94d3446db300615e2f4687ed6f8613c083e89abea71a007fffbab7394df4d6ff47 app=live/?id=0ad5aac39bb13fbe3def7d90af767b5ff81079e9812d04f9d2c334e03b2b1b61773d4eff640075b10aa80ae9dd77756839e4d47f88b19840211094731d4277ebc08cbb95f80459f8db3bd506979f014c2a3d44fc35a9cadff8221828951ba98b927b876853af836e81c26d0dcda3b28009894f71863c6f94d3446db300615e2f4687ed6f8613c083e89abea71a007fffbab7394df4d6ff47 playpath=1805.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-298" tvg-name="France24" group-title="News" tvg-logo="France24.png",France24
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe3def7d90af767b5f5a9fd761b8711ef25b409f76d2ee87ce735258136204c0f7e7452d26d43c139e289b9f618bee50eca899a9a4c160f521f9b6c7ee8327886fcfe73846422f5c44973ffe164c80a1798c926815dc15cac1edfe36f492ff42193c4c7f4865aa51cef9f5ad856a1a2a9740aa272e0bb8c1ecfd100542e0834ba50a34f8e090f608fe87e1e5e4caa16d20 app=live/?id=0ad5aac39bb13fbe3def7d90af767b5f5a9fd761b8711ef25b409f76d2ee87ce735258136204c0f7e7452d26d43c139e289b9f618bee50eca899a9a4c160f521f9b6c7ee8327886fcfe73846422f5c44973ffe164c80a1798c926815dc15cac1edfe36f492ff42193c4c7f4865aa51cef9f5ad856a1a2a9740aa272e0bb8c1ecfd100542e0834ba50a34f8e090f608fe87e1e5e4caa16d20 playpath=298.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-181" tvg-name="KTLA_5_Los_Angeles" group-title="Entertainment" tvg-logo="KTLA 5 Los Angeles.png",KTLA 5 Los Angeles
-rtmp://live223.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbe47ab0c64fd96ba644ac4fa9520e682abf8c2f886461a2e9b9e7cfa6d8b13ca939f9fc0328f0b9b3eba5dde31598d5038dd28d5e9af8dc5cb9a845fe9eb713f636a5a0e521f73c06e76a92a73dae34ad8c2987dd0bd5ca652a1e2991308fe02a9207af3ec683b79c5a7cacdbb06e411726430d4cf0615234866755cfcdf4bae6e5b5d7ba6eac88f8277ff1aab6c0bc0bb app=live/?id=0ad5aac39bb13fbe47ab0c64fd96ba644ac4fa9520e682abf8c2f886461a2e9b9e7cfa6d8b13ca939f9fc0328f0b9b3eba5dde31598d5038dd28d5e9af8dc5cb9a845fe9eb713f636a5a0e521f73c06e76a92a73dae34ad8c2987dd0bd5ca652a1e2991308fe02a9207af3ec683b79c5a7cacdbb06e411726430d4cf0615234866755cfcdf4bae6e5b5d7ba6eac88f8277ff1aab6c0bc0bb playpath=181.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2059" tvg-name="CFCN-5_CTV_Lethbridge" group-title="Entertainment" tvg-logo="CFCN-5 CTV Lethbridge.png",CFCN-5 CTV Lethbridge
-rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbe47ab0c64fd96ba64ce3329a8e5be3046f1066352cbe81e909326f1172f8124ae1fb2a74be664ee69ed31829e2d5ad131e05128589ec8940060f5edc20bca6aeb5fc51c908118d957100bcb0f51e3139d9ed23a0a642905490a597c75d023cfde6fe19d7e20780522103f60b9c8b647c75e535e343fbb8b64cc7ef1e6855d6319440539abfe0732de1f98c980140f662f app=live/?id=0ad5aac39bb13fbe47ab0c64fd96ba64ce3329a8e5be3046f1066352cbe81e909326f1172f8124ae1fb2a74be664ee69ed31829e2d5ad131e05128589ec8940060f5edc20bca6aeb5fc51c908118d957100bcb0f51e3139d9ed23a0a642905490a597c75d023cfde6fe19d7e20780522103f60b9c8b647c75e535e343fbb8b64cc7ef1e6855d6319440539abfe0732de1f98c980140f662f playpath=2059.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-371" tvg-name="Pick_TV" group-title="Entertainment" tvg-logo="Pick TV.png",Pick TV
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbe47ab0c64fd96ba641b03a84a2d5356541a4939a086b3a6ed3e7dd69779695d093e117350f36fd930a79962d506aee827ce2ef0d634a96933a85c26fe1cbdcd8c972545979d618dda378f0f519bbbd7808d8978b9e036b88a07effa20bab97e80a64477139b54c06db487e8fd2d7250b224e8ac51643c50f56a273130ed56b0868293ed5038b1040036b88da6a6c4548c app=live/?id=0ad5aac39bb13fbe47ab0c64fd96ba641b03a84a2d5356541a4939a086b3a6ed3e7dd69779695d093e117350f36fd930a79962d506aee827ce2ef0d634a96933a85c26fe1cbdcd8c972545979d618dda378f0f519bbbd7808d8978b9e036b88a07effa20bab97e80a64477139b54c06db487e8fd2d7250b224e8ac51643c50f56a273130ed56b0868293ed5038b1040036b88da6a6c4548c playpath=371.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-115" tvg-name="CNN_International" group-title="News" tvg-logo="CNN International.png",CNN International
-rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe47ab0c64fd96ba646342ad5143260c609d1c79ec240f9058802af7ed2a9c0017d963f7434e7c69c154e9b7b9925feaf7a6ca04daf0fde4c67724c57df822f87af9b1ef975bebc3e3e53773740f797939bb4aea0cac8e1514a4336aeecc3ccc7dce4c9b4ce4fe3d20c3df1a046d024f547cbead8d0f56ebeb4f2ceb001dd45fab02304f9d23b5933609b37c5a7e4c8886 app=live/?id=0ad5aac39bb13fbe47ab0c64fd96ba646342ad5143260c609d1c79ec240f9058802af7ed2a9c0017d963f7434e7c69c154e9b7b9925feaf7a6ca04daf0fde4c67724c57df822f87af9b1ef975bebc3e3e53773740f797939bb4aea0cac8e1514a4336aeecc3ccc7dce4c9b4ce4fe3d20c3df1a046d024f547cbead8d0f56ebeb4f2ceb001dd45fab02304f9d23b5933609b37c5a7e4c8886 playpath=115.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2710" tvg-name="Living_History_Channel" group-title="Documentary" tvg-logo="Living History Channel.png",Living History Channel
-rtmp://live58.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbee724e176480a4479d15c9bf3f2902b581e7faf1764b5811532ff3d531ea5961609b8481cd3c74c47ebea03beb53da64bc1ab4430429c008d4118d8661f3c7fb5ec85b9212e02f6282f1d0ec27f1d9415857f22d9015009204082f2e445be26c40e7bc89928aad9ab12af2bf0a294d69cac8bae771660af985146ab83af993d592123762155a4db78eaeec83536e2fa9c app=live/?id=0ad5aac39bb13fbee724e176480a4479d15c9bf3f2902b581e7faf1764b5811532ff3d531ea5961609b8481cd3c74c47ebea03beb53da64bc1ab4430429c008d4118d8661f3c7fb5ec85b9212e02f6282f1d0ec27f1d9415857f22d9015009204082f2e445be26c40e7bc89928aad9ab12af2bf0a294d69cac8bae771660af985146ab83af993d592123762155a4db78eaeec83536e2fa9c playpath=2710.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-381" tvg-name="WW2_TeeVee" group-title="Documentary" tvg-logo="WW2 TeeVee.png",WW2 TeeVee
-rtmp://live77.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbee724e176480a4479f844a104544931900a8e5871edbb9381e00920168efe41be5ee71d4d8ad5ade93ed61169c511d230427acf96b8318a4f1ef769c6a2c0f38f312d6a7d2ab64597870e813519302221ebc4b286c2b3aa7690cd0dd3fc39e4fc2e35a6b7e6d33ff4acb128b378d3372bea6c140cfdcc01fe6b1c701197b926d3756710a2ad462746979176aded0192d2 app=live/?id=0ad5aac39bb13fbee724e176480a4479f844a104544931900a8e5871edbb9381e00920168efe41be5ee71d4d8ad5ade93ed61169c511d230427acf96b8318a4f1ef769c6a2c0f38f312d6a7d2ab64597870e813519302221ebc4b286c2b3aa7690cd0dd3fc39e4fc2e35a6b7e6d33ff4acb128b378d3372bea6c140cfdcc01fe6b1c701197b926d3756710a2ad462746979176aded0192d2 playpath=381.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2575" tvg-name="WGBH_2.1_Boston" group-title="Kids" tvg-logo="WGBH 2.1 Boston.png",WGBH 2.1 Boston
-rtmp://204.107.26.245/live/?id=0ad5aac39bb13fbee724e176480a4479a557cf144b28b36e56bfe622af35a486f5620d5773aff67a4136ebe9d9fd7e5baf31770427190387e81179465c134d7f3f38f0b05b3b8fcd084731fe1d35ea6073fa14dfaf67863a0b707c1ab63b838d14b34916975d79b8dac5732f026d23b54a00036fe6628c781528a2ad18fb2f8e9dba01c9f13e3f3789dce9e62a355368cb2d55b124366bf7 app=live/?id=0ad5aac39bb13fbee724e176480a4479a557cf144b28b36e56bfe622af35a486f5620d5773aff67a4136ebe9d9fd7e5baf31770427190387e81179465c134d7f3f38f0b05b3b8fcd084731fe1d35ea6073fa14dfaf67863a0b707c1ab63b838d14b34916975d79b8dac5732f026d23b54a00036fe6628c781528a2ad18fb2f8e9dba01c9f13e3f3789dce9e62a355368cb2d55b124366bf7 playpath=2575.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-2707" tvg-name="QUEST" group-title="Documentary" tvg-logo="QUEST.png",QUEST
-rtmp://live307.edge.filmon.com/live/?id=0ad5aac39bb13fbed9affd6e5faa1025d1d0eeaa6248c282afdcb75d179317236a84c3f5024cdebe4594d58969cf570f92ae07302dce1d0a55c8f95c1583f1ec58d2c2045094c7b25dd6b55bb6e1aded03698b008a787d5ca4484d06afe457e6f4cfe0d00bf075c4f791d36ad611122095ac2ad1de21fa03642bfdf2c7427bca164e618080aa89e59941b2402eca87ad9e742e9d6a689a3a app=live/?id=0ad5aac39bb13fbed9affd6e5faa1025d1d0eeaa6248c282afdcb75d179317236a84c3f5024cdebe4594d58969cf570f92ae07302dce1d0a55c8f95c1583f1ec58d2c2045094c7b25dd6b55bb6e1aded03698b008a787d5ca4484d06afe457e6f4cfe0d00bf075c4f791d36ad611122095ac2ad1de21fa03642bfdf2c7427bca164e618080aa89e59941b2402eca87ad9e742e9d6a689a3a playpath=2707.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-400" tvg-name="JCTV" group-title="Music" tvg-logo="JCTV.png",JCTV
-rtmp://live53.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbed9affd6e5faa10253830956bc27a313ee59c6a219ca576812f181928eee982d42c14c2081bb1b048bf0b7b6f8f66a3a1049f28939b1b54522fb16d1fd9adc983edb69c5964388e36724f3209aeb5d16a444394295636ea9de1997fbf5172d07904d069394065223515ac8b68fd5d8c009e203e7baaef1f1dbff93af9488d9d6af61c122b5c6871c9956f1bd52a736077 app=live/?id=0ad5aac39bb13fbed9affd6e5faa10253830956bc27a313ee59c6a219ca576812f181928eee982d42c14c2081bb1b048bf0b7b6f8f66a3a1049f28939b1b54522fb16d1fd9adc983edb69c5964388e36724f3209aeb5d16a444394295636ea9de1997fbf5172d07904d069394065223515ac8b68fd5d8c009e203e7baaef1f1dbff93af9488d9d6af61c122b5c6871c9956f1bd52a736077 playpath=400.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-103" tvg-name="CBEEBIES" group-title="Kids" tvg-logo="CBEEBIES.png",CBEEBIES
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbed9affd6e5faa10254a2c16c81a77f421e4dfd72d1bbdfe37f3beb51307b4b56a79388d96957e2729014eeee55fa2802449b547bf6211396609587fb61ec064258229f8e6afbef9236c34bf5cec83be5dc98f689b88ddc661f4eb66d4f6d180920a66bbf25309096a7c21f79e12dff462fe7804044f8921a4e45eba1f5a8ae4937f2ebfdab0be4f581ba3ba729cc9541e app=live/?id=0ad5aac39bb13fbed9affd6e5faa10254a2c16c81a77f421e4dfd72d1bbdfe37f3beb51307b4b56a79388d96957e2729014eeee55fa2802449b547bf6211396609587fb61ec064258229f8e6afbef9236c34bf5cec83be5dc98f689b88ddc661f4eb66d4f6d180920a66bbf25309096a7c21f79e12dff462fe7804044f8921a4e45eba1f5a8ae4937f2ebfdab0be4f581ba3ba729cc9541e playpath=103.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-103" tvg-name="BBC_Four" group-title="Entertainment" tvg-logo="BBC Four.png",BBC Four
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602f219673e91e75565576ee8cc94d8b15504b9f07ac016dedaf32919710ceaa4a02b98992d199c53c7b40aeec2117a116eb55c3433d940b41e1c24efc92f5721492446babf91ba804f0568ab3fdbc78a891ade3dff74047a7be96985bf88e9f46ebf82a6a23d1c3600b3d3d2c184178651672aca253f4099199f35a988ece279446cbdefbb0cb11eca app=live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602f219673e91e75565576ee8cc94d8b15504b9f07ac016dedaf32919710ceaa4a02b98992d199c53c7b40aeec2117a116eb55c3433d940b41e1c24efc92f5721492446babf91ba804f0568ab3fdbc78a891ade3dff74047a7be96985bf88e9f46ebf82a6a23d1c3600b3d3d2c184178651672aca253f4099199f35a988ece279446cbdefbb0cb11eca playpath=103.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-13" tvg-name="Film4" group-title="Entertainment" tvg-logo="Film4.png",Film4
-rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602d8bf44e697bfd3e97159bc7bb06834355be0fe9b311426df61dc413950d02faad1938f3fcbe4d8bc0c1b62444deb0220844cc312cfc0d45cad7a2104d292a0e9fb38e1c54dc42e7d847c1cfe919b2fd8935ad4683e246075e217630dd27105dc989f208d3ddf943c71abe7a4a181184560267c6f8c96738e4a041e80849cbf922f99094dfbaacc7c app=live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602d8bf44e697bfd3e97159bc7bb06834355be0fe9b311426df61dc413950d02faad1938f3fcbe4d8bc0c1b62444deb0220844cc312cfc0d45cad7a2104d292a0e9fb38e1c54dc42e7d847c1cfe919b2fd8935ad4683e246075e217630dd27105dc989f208d3ddf943c71abe7a4a181184560267c6f8c96738e4a041e80849cbf922f99094dfbaacc7c playpath=13.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-65" tvg-name="E4" group-title="Entertainment" tvg-logo="E4.png",E4
-rtmp://live304.edge.filmon.com/live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602a51a3d52d700b9f3ecb24aff2816cd98d593f3c4520746d533b77b29829cd7c9756f6bdc03b7a128c93b93f428d4660bf4072e83cee65f648bbfd95cca57a68ac56e695e0a50f36dead29f5c38e278e4e7008ac6fb72d4018d96e137e413263a094421915bff0ce01be7ef716177ca3fd0ad75e7759d9e8ef0ed5c62d3b2660f7a1d66dda00da7b0 app=live/?id=0ad5aac39bb13fbe5ed8a7ca8b155602a51a3d52d700b9f3ecb24aff2816cd98d593f3c4520746d533b77b29829cd7c9756f6bdc03b7a128c93b93f428d4660bf4072e83cee65f648bbfd95cca57a68ac56e695e0a50f36dead29f5c38e278e4e7008ac6fb72d4018d96e137e413263a094421915bff0ce01be7ef716177ca3fd0ad75e7759d9e8ef0ed5c62d3b2660f7a1d66dda00da7b0 playpath=65.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-372" tvg-name="Really" group-title="Documentary" tvg-logo="Really.png",Really
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbeb83d62bbaf331c563bb51b84b9a7db24e944ba405fe21c445280ba39e145204f9d08f16e7fff2a8bdc764c046be13a5f48a3a7e10b970506efcb8b4919b18b4d63d5cae8b30c4a3c91a6f09481b8a251ddf46beeb62394f43fa3162108817107cef302d408e265caa855081a7e10b17d4e0d14acc3d55ecd93fd643d5ad87261066c2158e1747e10a4226a5d80690593 app=live/?id=0ad5aac39bb13fbeb83d62bbaf331c563bb51b84b9a7db24e944ba405fe21c445280ba39e145204f9d08f16e7fff2a8bdc764c046be13a5f48a3a7e10b970506efcb8b4919b18b4d63d5cae8b30c4a3c91a6f09481b8a251ddf46beeb62394f43fa3162108817107cef302d408e265caa855081a7e10b17d4e0d14acc3d55ecd93fd643d5ad87261066c2158e1747e10a4226a5d80690593 playpath=372.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-842" tvg-name="Travel_Channel+1" group-title="Documentary" tvg-logo="Travel Channel+1.png",Travel Channel+1
-rtmp://live308.edge.filmon.com/live/?id=0ad5aac39bb13fbeb83d62bbaf331c5648220a73c6f6450671be61c5521fc7256dc1f8b30ae16c24ecece264aaf440004b1582ca5d511d4cc8f32aa7f414a55828fb9464955852dbb4f6d3a157f992cb7975c9d84024a7610ff722e1f6cfdf45a526b449fad9af9cf7f09faa6128b915ac8a35c19d8c84925c9c292a0d3aca1bb38fa1efbe9e978275a72f44da26607f4ee0c7098e563487 app=live/?id=0ad5aac39bb13fbeb83d62bbaf331c5648220a73c6f6450671be61c5521fc7256dc1f8b30ae16c24ecece264aaf440004b1582ca5d511d4cc8f32aa7f414a55828fb9464955852dbb4f6d3a157f992cb7975c9d84024a7610ff722e1f6cfdf45a526b449fad9af9cf7f09faa6128b915ac8a35c19d8c84925c9c292a0d3aca1bb38fa1efbe9e978275a72f44da26607f4ee0c7098e563487 playpath=842.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-
-#EXTINF:-1 tvg-id="fil-113" tvg-name="CBBC" group-title="Kids" tvg-logo="CBBC.png",CBBC
-rtmp://live306.edge.filmon.com/live/?id=0ad5aac39bb13fbeb83d62bbaf331c56853621d93f542fece1ef2a2f5cab446633b81d53c812b693f79bc1286d0a866f9f6b9629a117db308dd4ad0588cdfdb9eaef5afeecc27090b74ca638d12ef6112214a91b1a97a2c8c1f6ede1d291cd643f49628178707bc85c7c7c61d203185c1e93a16bbeda1c6e452db85e33d597b1dbe59007f249a798ea0feb174672dcec79816abb6123b087 app=live/?id=0ad5aac39bb13fbeb83d62bbaf331c56853621d93f542fece1ef2a2f5cab446633b81d53c812b693f79bc1286d0a866f9f6b9629a117db308dd4ad0588cdfdb9eaef5afeecc27090b74ca638d12ef6112214a91b1a97a2c8c1f6ede1d291cd643f49628178707bc85c7c7c61d203185c1e93a16bbeda1c6e452db85e33d597b1dbe59007f249a798ea0feb174672dcec79816abb6123b087 playpath=113.high.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf swfVfy=true pageUrl=http://www.filmon.com/ live=true
-#EXTINF:-1 group-title=English,ASN sports
-http://202.75.23.33:8800/live/ch26/01.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://202.75.23.34:8800/live/ch31/01.m3u8
-#EXTINF:-1,BABY FIRST
-http://202.75.23.33:8800/live/ch27/01.m3u8
-#EXTINF:-1,BBC
-http://202.75.23.33:8800/live/ch28/01.m3u8
-#EXTINF:-1,Bio
-http://202.75.23.36:8800/live/ch46/01.m3u8
-#EXTINF:-1,Bein sports1
-http://202.75.23.37:8800/live/ch18/01.m3u8
-#EXTINF:-1,Bein sports2
-http://202.75.23.37:8800/live/ch19/01.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://202.75.23.36:8800/live/ch47/01.m3u8
-#EXTINF:-1,CARTOONITO
-http://202.75.23.36:8800/live/ch49/01.m3u8
-#EXTINF:-1,Discovery
-http://202.75.23.34:8800/live/ch29/01.m3u8
-#EXTINF:-1,DISCOVERY HD WORLD
-http://202.75.23.34:8800/live/ch30/01.m3u8
-#EXTINF:-1,Discovery kids
-http://202.75.23.35:8800/live/ch36/01.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://202.75.23.34:8800/live/ch32/01.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://202.75.23.34:8800/live/ch33/01.m3u8
-#EXTINF:-1,Eurosport
-http://202.75.23.37:8800/live/ch21/01.m3u8
-#EXTINF:-1,Fashion one
-http://202.75.23.35:8800/live/ch37/01.m3u8
-#EXTINF:-1,History
-http://202.75.23.36:8800/live/ch45/01.m3u8
-#EXTINF:-1,HD
-http://202.75.23.35:8800/live/ch38/01.m3u8
-#EXTINF:-1,HOME & HEALTH
-http://202.75.23.34:8800/live/ch34/01.m3u8
-#EXTINF:-1,Jim Jam
-http://202.75.23.37:8800/live/ch17/01.m3u8
-#EXTINF:-1,LIFE TIME
-http://202.75.23.36:8800/live/ch48/01.m3u8
-#EXTINF:-1,MGM
-http://202.75.23.35:8800/live/ch40/01.m3u8
-#EXTINF:-1,MTV live hd
-http://202.75.23.37:8800/live/ch50/01.m3u8
-#EXTINF:-1,MTV rock
-http://202.75.23.35:8800/live/ch42/01.m3u8
-#EXTINF:-1,METRO TV
-http://202.75.23.33:8800/live/ch22/01.m3u8
-#EXTINF:-1,Mediacorp
-http://202.75.23.37:8800/live/ch15/01.m3u8
-#EXTINF:-1,Nat geo wild
-http://202.75.23.35:8800/live/ch39/01.m3u8
-#EXTINF:-1,Nickelodeon
-http://202.75.23.36:8800/live/ch43/01.m3u8
-#EXTINF:-1,Setanta sports
-http://202.75.23.36:8800/live/ch44/01.m3u8
-#EXTINF:-1,Travel
-http://202.75.23.35:8800/live/ch41/01.m3u8
-#EXTINF:-1,TLC
-http://202.75.23.34:8800/live/ch35/01.m3u8
-#EXTINF:-1,TRANSTV
-http://202.75.23.33:8800/live/ch23/01.m3u8
-#EXTINF:-1,TRANS 7
-http://202.75.23.33:8800/live/ch24/01.m3u8
-#EXTINF:-1,TVRI
-http://202.75.23.33:8800/live/ch25/01.m3u8
-#EXTINF:-1,VJ fashion
-http://202.75.23.37:8800/live/ch16/01.m3u8
-#EXTINF:-1,Sports de combat
-http://202.75.23.37:8800/live/ch20/01.m3u8
-#EXTINF:-1,Nat Geo People HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?7ad09373f65c48d5bb6aa6c3b2ca519a
-#EXTINF:-1,Outdoor Channel HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?1c551f42019d40e8acf32e8218ef8703
-#EXTINF:-1,Nat Geo Music HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?69c2eab6794344619a049c5dea60ca22
-#EXTINF:-1,Sky News HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?31b003ab7e7749a798fe00424e3dd9ff
-#EXTINF:-1,Bio Channel HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?169a149fd1ef40edba0bbfc8e0f1bdd1
-#EXTINF:-1,Comedy Central HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?2f18d4ba25224edaa8bb9aac94b00d4f
-#EXTINF:-1,Crime and Investigation (CI) HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1,Fashion TV HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?df468a12ae6547de9637486bdc2025aa
-#EXTINF:-1,Fox Crime HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?5028f7ff1d1b4d5f8189690233364737
-#EXTINF:-1,FX HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?2e0e4b05aa6e428593f3b45b710045b7
-#EXTINF:-1,ITV Choice HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?e36b99bcd26648af9db2261785c77b7a
-#EXTINF:-1,Sony Entertainment TV HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?bd30e27f1c48430ba2104548a1b124ca
-#EXTINF:-1,Star World HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?65f7358b813048a0898f5677e1793cf9
-#EXTINF:-1,SYFY HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?71f197de056e499a85265c03b44bdab1
-#EXTINF:-1,Travel Channel 
-http://totiptv.duapp.com/live_proxy/totiptv/live?4c136f4cb1fd4f62a583a029c2eb6c77
-#EXTINF:-1,Thrill 
-http://totiptv.duapp.com/live_proxy/totiptv/live?c316ed9333e54442b25077f0bb3cc269
-#EXTINF:-1,Universal Channel HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?a7105ed1bb0a44bba1f4f71f2352b892
-#EXTINF:-1,WBTV (Thai/Eng) HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?06e717f5ec0c4657a8c76c4dfcf9449b
-#EXTINF:-1,Channel V International
-http://totiptv.duapp.com/live_proxy/totiptv/live?9e38a0084e6d45d080139a166c60a102
-#EXTINF:-1,Deutsche Welle 
-http://totiptv.duapp.com/live_proxy/totiptv/live?6DE1E752A9974A5980166483C8ED6BB8
-#EXTINF:-1,Kix 
-http://totiptv.duapp.com/live_proxy/totiptv/live?e584e0adae6440eab366f5fe3a824f91
-#EXTINF:-1,Al Yazeera News 
-http://totiptv.duapp.com/live_proxy/totiptv/live?ea4c9d2666bc411d8e6777e8a1d2b747
-#EXTINF:-1,Euronews 
-http://totiptv.duapp.com/live_proxy/totiptv/live?3F35C4428A0D4004A38FF0ADBA7664F4
-#EXTINF:-1,France 24 News 
-http://totiptv.duapp.com/live_proxy/totiptv/live?82c764aa2d7f42579348b8717cb5b9a4
-#EXTINF:-1,Fox News 
-http://totiptv.duapp.com/live_proxy/totiptv/live?1e2041858ca543fa90ec95d28197e907
-#EXTINF:-1,MSNBC HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?7f2989e3f87e4efdb36bac56b64dca62
-#EXTINF:-1,Wealth TV HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?ce9a1585f45d4379970b95308df3f879
-#EXTINF:-1,M HD (This is K-POP) 
-http://totiptv.duapp.com/live_proxy/totiptv/live?8237601ce3ea4bae8332ebb0d88dba87
-#EXTINF:-1,MTV Live HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?8d45473ff4ca44d79e1abc4516c2fee0
-#EXTINF:-1,Animax 
-http://totiptv.duapp.com/live_proxy/totiptv/live?d3edb48a8bb847c78432270e23ddca73
-#EXTINF:-1,Baby TV 
-http://totiptv.duapp.com/live_proxy/totiptv/live?7773f3cef0334a28ad248552ea63d9e7
-#EXTINF:-1,Cartoonito 
-http://totiptv.duapp.com/live_proxy/totiptv/live?dff1502eb25c4912aea009df5d0fde9b
-#EXTINF:-1,Edge HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?3764586b28544a0fa379b1d4e400c100
-#EXTINF:-1,FightBox HD 
-http://totiptv.duapp.com/live_proxy/totiptv/live?0d01fdc1362f427ca5527c645f5f908f
-#EXTINF:-1,Ten Cricket 
-http://totiptv.duapp.com/live_proxy/totiptv/live?07febaf06cea4afeba557b3836d959d6
-#EXTINF:-1,WeTV HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?dea34fa045074639b3a18123d4b4eda0
-#EXTINF:-1,MTV Asia
-http://totiptv.duapp.com/live_proxy/totiptv/live?ebce2f5139c54eda8b111e5923af9c9e
-#EXTINF:-1,SUN CHANNEL HD-LA LIGA(SPANISH SOCCER)
-http://totiptv.duapp.com/live_proxy/totiptv/live?ce4efc6a833f424f8d6cdcad5573f369
-#EXTINF:-1,Choice Sport 1 HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?614b0a940fa0486e8c4ad00e51ae22ff
-#EXTINF:-1,Choice Sport 2 HD
-http://totiptv.duapp.com/live_proxy/totiptv/live?3e169d2e76cb46c9b3702e34e51ecdba
-#EXTINF:-1,Al Jazeera America
+#EXTINF:-1 group-title=English,Al Jazeera America
 rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
 #EXTINF:-1,Sky News
 rtmp://b.cdn.newschat.tv/edge playpath=skyuk_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/sky/
@@ -1328,6 +815,397 @@ rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://muda
 rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
 #EXTINF:-1,AXN
 rtmp://198.23.71.102/stream playpath=aaxn5?id=119539 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
+#EXTINF:-1,Canal+ 1 HD-AZBOX *
+rtmp://5.79.72.3/vl/_definst_ playpath=maderoscabrones1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1,Canal+ 1 HD-AZBOX *
+rtmp://82.192.95.75/vl/_definst_ playpath=maderoscabrones1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1,Canal+ 1 HD-AZBOX *
+rtmp://82.192.95.75/vl/_definst_ playpath=jajaja5 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1,Canal+ 1 HD-AZBOX *
+rtmp://95.211.168.161/vl/_definst_ playpath=jajaja5 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
+#EXTINF:-1,Cartoon Network-AZBOX *
+rtmp://206.190.140.36/live playpath=cartoonperu?id=11173 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,NICKELODEON-AZBOX *
+rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Disney XD-AZBOX*
+rtmp://206.190.140.36/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Disney XD-AZBOX*
+rtmp://198.105.219.132/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,DISCOVERY KIDS-AZBOX *
+rtmp://206.190.140.20/live playpath=kids10?id=1987 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/kids10/1/585/385 Conn=S:OK
+#EXTINF:-1,Disney junior-AZBOX*
+rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+#EXTINF:-1,Disney junior-AZBOX*
+rtmp://206.190.140.36/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/junior10/1/585/385 Conn=S:OK
+#EXTINF:-1,Tooncast-AZBOX
+rtmp://146.185.25.74/live playpath=tooncasttelevall?id=13267 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+#EXTINF:-1,CINE INFANTIL-AZBOX *
+rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_mega_kids swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_kids token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1,FOXCRIME-AZBOX *
+http://st60.u1.videomega.tv/v/8fc49eebffa195ebe66750ba1b6c250a.mp4
+
+#EXTINF:-1,TNT-LATINO-AZBOX-*
+rtmp://206.190.140.20/live playpath=tnt2014?id=6387 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,TNT-LATINO-AZBOX-*
+rtmp://109.123.123.68/live playpath=tnt2014?id=6387 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+
+#EXTINF:-1,FOX- LATINO-AZBOX *
+rtmp://206.190.140.20/live playpath=fox2290?id=6388 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+
+#EXTINF:-1,FOX- LATINO-AZBOX *
+rtmp://198.105.219.132/live playpath=fox2290?id=6388 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Peliculas -latino-AZBOX *
+rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_vitatotv swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/vitatotv token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,Peliculas -latino-AZBOX *
+rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_universal_movies swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/universal_movies token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,Peliculas -latino-AZBOX *
+rtmp://edge3.video.vaughnsoft.net:443/live?undefined playpath=live_mega_movieshd swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/mega_movieshd  token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,Peliculas -latino-AZBOX *
+rtmp://edge3.video.vaughnsoft.net:443/live?undefined playpath=live_hbostarztv swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/hbostarztv  token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,Xnxtv-AZBOX *
+rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,Moviecity Premieres HD-AZBOX*
+rtmp://198.144.158.83:443/kuyo playpath=moviecha7?id=574493afcb43338e891e1c0720663517&pid=38342e3132342e3136302e323336 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/364436463736363936353633363836313337/2a189711028737fe89a2d4c433b0cc96/680/480
+
+#EXTINF:-1,CINEMA-AZBOX*
+rtmp://edge5.video.vaughnsoft.net:443/live?undefined playpath=live_cinemalatinohd swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/cinemalatinohd token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,MAX PRIME-AZBOX *
+rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/ token=30dabc4871922a1314192e925ab7961d
+#EXTINF:-1, CINEMA LATINO *AZBOX
+rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_cinemalatinohd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1, FX-AZBOX *
+rtmp://37.130.228.52/live playpath=fxtelevall?id=13263 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,MOVIES HD-AZBOX*
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_movieshd token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,UNIVERSAL-AZBOX * 
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_universal_movies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/universal_movies token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,WARNER-AZBOX*
+rtmp://46.28.53.18/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner10/1/585/385 Conn=S:OK --live
+
+#EXTINF:-1,WARNER-AZBOX*
+rtmp://206.190.139.28/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,WARNER-AZBOX*
+rtmp://46.28.53.38/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,WARNER-AZBOX*
+rtmp://198.105.219.132/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner10/1/585/400 Conn=S:OK
+#EXTINF:-1,HBO 2-AZBOX *
+rtmp://206.190.129.12/live playpath=channelhbo2?id=199124 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
+
+#EXTINF:-1,HBO 2-AZBOX *
+rtmp://208.43.33.101/live playpath=channelhbo2?id=199124 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/channelhbo2/1/600/400 Conn=S:OK --live
+
+#EXTINF:-1,HBO Accion-AZBOX*
+rtmp://107.155.71.58/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=580&height=360&channel=/1/HBO&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,DISCOVERY CHANNEL(latino)*AZBOX
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_discomar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/discomar token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX*
+rtmp://edge4.video.vaughnsoft.net:443/live? playpath=live_discomar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX*
+rtmp://46.28.53.38/live playpath=DC2015?id=8081 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
+
+#EXTINF:-1,HISTORIA-latino-AZBOX *
+rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mfv_01 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mfv_01 token=30dabc4871922a1314192e925ab7961d
+
+#EXTINF:-1,PlayBoy-AZBOX*
+rtmp://111.118.21.77/ptv3//phd499
+
+#EXTINF:-1,PlayBoy-AZBOX*
+rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd499 swfUrl=https://bf8793d7-a-62cb3a1a-s-sites.googlegroups.com/site/archivosdirect/idtvplayer.swf?attachauth=ANoY7cpWVGBTKMklTcEgA5fChyjJeGL7262MCMqIO7HrlhNGUQ9w1_4Fjnmgg-PpDChjjzlfpt6sXgWRdenoqdNbz8Uy1B19I9nCtpv6a29opRW_lgdtH_zljlGNfqa-4OVzzxJiu5ty4iLbYh9wErQ8jLCxHYHbvRlu2rr0SgQn8u-ESeqF-X3XGeyZJ8Y6smnq8Du24TxIWmK6iXWbqOaYQEieXSFIeA%3D%3D&attredirects=0 live=1 pageUrl=http://miscanalestvenvivoxxx.blogspot.com/2013/05/blog-post.html
+
+#EXTINF:-1,Venus
+rtmp://199.167.138.188/live/?u=vvveeennnuuussss playpath=vvveeennnuuussss swfUrl=http://stream4u.eu/player/player.swf live=1 pageUrl=http://www.stream4u.eu/embed.php?v=vvveeennnuuussss&vw=489&vh=370&domain=www.mill-tv.com
+
+#EXTINF:-1,Spice tv hd(porno)-AZBOX
+rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.cracketzaa.tv/canales-tv/SpiceTV3.html
+
+#EXTINF:-1,CANAL BUTGO-AZBOX *
+rtmp://111.118.21.76:1935/ptv/ playpath=phd772 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://plusligaonline.com/canales/putgo.php
+
+#EXTINF:-1,PLAYY 19+-AZBOX *
+rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd769 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://plusligaonline.com/canales/playy19.php
+#EXTINF:-1,Sportmania-AZBOX *
+rtmp://37.130.228.52/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Sportmania-AZBOX *
+rtmp://146.185.25.130/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Sportmania-AZBOX *
+rtmp://109.123.114.162/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/maderoscabroness/1/645/395 Conn=S:OK
+
+#EXTINF:-1,Gol Tv-AZBOX *
+rtmp://stream.farm.cdnline.com:80/liveedge playpath=rtmp://live.zecast.tv/zecast/todofutbo00 swfUrl=http://www.kbps.tv/jl/player.swf live=1
+
+#EXTINF:-1,CANAL+ FUTBOL-AZBOX *
+rtmp://50.7.189.66/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ FUTBOL-AZBOX *
+rtmp://50.7.137.82/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
+rtmp://live.intcast.net:1935/live/ playpath=152121 swfUrl=http://intcast.net/embed/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://intcast.net/channels/id100113.php
+
+#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
+rtmp://5.79.72.3/vl/_definst_ playpath=abralacabra1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=abralacabra1&vw=645&vh=395&domain=www.tvonlinegratis.mobi
+
+#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
+rtmp://82.192.95.75/vl/_definst_ playpath=abralacabra1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=abralacabra1&vw=645&vh=395&domain=www.tvonlinegratis.mobi
+
+#EXTINF:-1,Canal+ LIGA-AZBOX *
+rtmp://50.7.189.66/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Canal+ LIGA-AZBOX *
+rtmp://50.7.137.82/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Canal+ LIGA-AZBOX *
+rtmp://50.7.137.90/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Canal+ LIGA-AZBOX *
+rtmp://50.7.133.98/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=12147&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Canal+ LIGA-AZBOX *
+rtmp://50.7.133.122/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://46.165.210.40/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://50.7.189.66/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://50.7.137.90/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://50.7.137.98/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://50.7.137.114/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://107.155.68.138/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,CANAL+ TOROS-AZBOX *
+rtmp://50.7.191.234/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+#EXTINF:-1,Sevilla FC-AZBOX*
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
+
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+http://iphonelive.rtve.es/TDP_LV3_IPH_1C/TDP_LV3_IPH_1C.m3u8
+
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Rtve.es -Teledeporte-AZBOX *
+rtmp://rtvegeofs.fplive.net:443/rtvegeo-live-live?ovpfv=2.1.2 playpath=RTVE_TDP_LV3_WEB_GEO swfUrl=http://www.irtve.es/swf/4.1.16/RTVEPlayerVideo.swf pageUrl=http://verlatvendirecto.com/canales/deportes/teledeporte/ swfVfy=true live=true timeout=10
+
+#EXTINF:-1,Euronews-AZBOX*
+rtmp://149.11.34.78/live playpath=euronewses.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?82 live=1 pageUrl=http://www.lasteles.com/es/directo/INTERNACIONALES/video/Euronews/10235
+
+#EXTINF:-1,CNN En Espa?ol(LATINO)
+http://iphone-streaming.ustream.tv/uhls/17323372/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,CNN En Espa?ol(LATINO)
+http://iphone-streaming.ustream.tv/watch/playlist.m3u8?cid=17323372
+#EXTINF:-Rtve.es-Tve 24h -AZBOX*
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+
+#EXTINF:-Rtve.es-Tve 24h -AZBOX*
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+rtmp://rtvegeofs.fplive.net:1935/rtvegeo-live-live?ovpfv=2.1.2 playpath=RTVE_THD_LV3_WHD_GEO swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/deportes/champions-league/directo/alta-calidad/ swfVfy=true live=true timeout=10
+
+#EXTINF:-1,Rtve.es -Tve2-AZBOX *
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+
+#EXTINF:-1,Rtve.es -Tve2-AZBOX *
+rtmp://rtvefs.fplive.net:1935/rtve-live-live?ovpfv=2.1.2 playpath=RTVE_LA2_LV3_WEB_NOG swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/television/la-2-directo/ swfVfy=true live=true timeout=10
+
+#EXTINF:-1,Antena 3 HD-AZBOX*
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1,Antena 3-AZBOX*
+rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-antena-3.php --live
+
+#EXTINF:-1,ANTENA 3-AZBOX *
+rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://latelete.com/reproductores/player.swf live=1 pageUrl=http://latelete.com/canales/nacionales/antena-3.php --live
+
+#EXTINF:-1,TDT:ANTENA 3-AZBOX *
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-antena3_1 swfUrl=http://www.antena3.com/static/swf/A...l=0&autoplay=1&controlButtons=volume,fullScr& live=1 pageUrl=http://www.antena3.com/static/swf/A...l=0&autoplay=1&controlButtons=volume,fullScr&
+
+#EXTINF:-1,TDT:ANTENA 3-AZBOX *
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://mtv.com.lb/Player/485/jwplayer.flash.swf live=1 pageUrl=http://globaltoptv.blogspot.com.es/2013/08/antena-3-tv-en-directo-antena-3.htm
+
+#EXTINF:-1,Cuatro-AZBOX *
+http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
+
+#EXTINF:-1,Telecinco-AZBOX *
+rtmp://146.185.25.162/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,Telecinco-AZBOX *
+rtmp://5.63.149.180/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
+
+#EXTINF:-1,La Sexta-AZBOX*
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/ --live
+
+#EXTINF:-1,La SEXTA-AZBOX *
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.lasexta.com/static/swf/l...l=0&autoplay=1&controlButtons=volume,fullScr& live=1 pageUrl=http://www.lasexta.com/static/swf/l...l=0&autoplay=1&controlButtons=volume,fullScr&
+
+#EXTINF:-1,La SEXTA-AZBOX *
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
+
+#EXTINF:-1,La SEXTA-AZBOX *
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
+
+#EXTINF:-1,Xplora-AZBOX*
+rtmp://antena3fms35geobloqueolivefs.fplive.net:1935/antena3fms35geobloqueolive-live/stream-xplorafdgeo_1
+
+#EXTINF:-1,Xplora-AZBOX*
+rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/ playpath=stream-xplorageo_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-xplora-la-sexta.php --live
+
+#EXTINF:-1,XPLORA-AZBOX *
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
+
+#EXTINF:-1,XPLORA-AZBOX *
+rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live//stream-xplorageo_1
+
+#EXTINF:-1,XPLORA-AZBOX *
+rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/ playpath=stream-xplorageo_1 swfUrl=http://verlatvendirecto.com/reproductores/player.swf?file=stream-xplorageo_1&type=flv&streamer=rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/&autostart=true&stretching=exactfit&mute=false&type= live=1 pageUrl=http://tvenganchado.com/xploraop1.php
+
+#EXTINF:-1,Neox-AZBOX *
+rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/stream-eventos2geo_1
+
+#EXTINF:-1,Neox-AZBOX *
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel12/index.m3u8
+
+#EXTINF:-1,ENERGY-AZBOX *
+http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
+
+#EXTINF:-1,NITRO-AZBOX *(neox)(nova)
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
+
+#EXTINF:-1,Nova-AZBOX*
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-eventos6_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 pageUrl=http://www.atresplayer.com/directos/television/neox/
+
+#EXTINF:-1,Nova-AZBOX*
+rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
+
+#EXTINF:-1,NOVA-AZBOX *
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel12/index.m3u8
+
+#EXTINF:-1,LOBAS TV-AZBOX(musica)
+rtmp://149.11.34.78/live playpath=lobas.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?191live=1 pageUrl=http://www.lasteles.com/es/directo/LOBAS-TV/video/LOBAS-TV/1159
+
+#EXTINF:-1,Gotica tv (musica)-AZBOX *
+rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://tvonlineapp.com/player/jwplayer/player.swf live=1 pageUrl=http://tvonlineapp.com/app/containerEmbed.php?p=11641
+
+#EXTINF:-1,STAGE TV-(musica)-AZBOX* 24 horas de los mejores Directos-AZBOX *
+rtmp://149.11.34.6/live playpath=stagetv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?922 live=1 pageUrl=http://www.lasteles.com/es/directo/STAGE-TV/
+
+#EXTINF:-1,UNLOVE TV-(Musica)-AZBOX *
+rtmp://149.11.34.6/live playpath=unlovechannel.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?785 live=1 pageUrl=http://www.lasteles.com/es/directo/UNLOVE-TV/video/Unlove-TV/7313
+
+#EXTINF:-1,PARTY TV-(Musica)-AZBOX*
+rtmp://149.11.34.6/live playpath=partytv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?729 live=1 pageUrl=http://www.lasteles.com/es/directo/PARTY-TV/video/Party-TV/10870
+
+#EXTINF:-1,Imprescindibles TV(ROCK)-azboz*
+rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
+
+#EXTINF:-1,Formula 30tv (Musica)-AZBOX **
+rtmp://cdns724ste1021.multistream.net:80/tvhuelvalive playpath=formula30-500 swfUrl=http://api.codistream.net/videoplayergenerator/embedVideoPlayerCodistream-v3.6.swf live=1 pageUrl=http://www.lookfortv.com/es/countmedia.php?c=5492
+
+#EXTINF:-1,Single TV
+rtmp://149.11.34.78/live playpath=singletv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?153 live=1 pageUrl=http://www.lasteles.com/es/musica/SENCILLOS/
+
+#EXTINF:-1,MTV live hd-AZBOX*
+http://202.75.23.37:8800/live/ch50/01.m3u8
+
+#EXTINF:-1,VH1-AZBOX*
+http://212.26.130.32:1234/udp/238.1.16.11:1234
+
+#EXTINF:-1,MTV HITS-AZBOX*
+http://212.26.130.32:1234/udp/238.1.16.12:1234
+
+#EXTINF:-1,MTV DANCE-AZBOX*
+http://212.26.130.32:1234/udp/238.1.16.13:1234
+
+#EXTINF:-1,MTV ROCKS-AZBOX*
+http://212.26.130.32:1234/udp/238.1.16.14:1234
+
+#EXTINF:-1,1 CLASSIC-AZBOX*
+http://212.26.130.32:1234/udp/238.1.16.16:1234
+
+#EXTINF:-1,MTV latino -AZBOX *
+rtmp://206.190.140.36/live playpath=mtv10?id=1991 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
+
+#EXTINF:-1,Kiss tv (Musica)-AZBOX*
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+ #EXTINF:-1,Kiss tv (Musica)-AZBOX*
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=vcx7
+
+#EXTINF:-1,VIRGIN TV(MUSICA)-AZBOX*
+rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://verlatelegratis.com/canales/virgintv.php
+
+#EXTINF:-1, First Music HD 1080p-AZBOX
+rtmp://109.239.142.62/live/livestream3
+
+#EXTINF:-1, First Music HD 1080p
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+
+#EXTINF:-1,JAZZ TV (MUSICA)-AZBOX?
+rtmp://149.11.34.78/live playpath=jazztv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?426 live=1 pageUrl=http://lasteles.com/es/directo/
+
+#EXTINF:-1,TDT:Esport 3 (Catalan)-AZBOX*
+rtmp://tv-geoespanya-flashlivefs.fplive.net/tv-geoespanya-flashlive-live/ playpath=stream_ES_ES3_FLV swfUrl=http://zonatv.net/cadenas-autonomicas/media/canales/esport-3-clipping-67845763463457569789.swf/
+
+#EXTINF:-1,TDT:TV 13-AZBOX
+rtmp://xiiitvlivefs.fplive.net/xiiitvlive-live//stream13tv
+
+#EXTINF:-1,13 TV-AZBOX *
+http://149.11.34.6:1935/live/13TV.stream/playlist.m3u8
+
+#EXTINF:-1,13 TV-AZBOX *
+rtmp://xiiitvlivefs.fplive.net/xiiitvlive-live playpath=stream13tv swfUrl=http://static.hollybyte.com/public/players/flowplayer/swf/flowplayer.commercial.swf live=1 pageUrl=http://live.13tv.hollybyte.tv/
+
+#EXTINF:-1,13 TV-AZBOX *
+rtmp://149.11.34.6/live playpath=13TV.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?237 live=1 pageUrl=http://www.lasteles.com/es/player.php?auto=0&id=6254
+
+#EXTINF:-1,Libertad Digital TV-AZBOX *
+http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
+
+#EXTINF:-1,Localia tv-AZBOX
+rtmp://streaming2.radiohuesca.com/live/ playpath=huescatv swfUrl=http://www.lookfortv.com/player22.swf live=1 pageUrl=http://www.lookfortv.com/es/countmedia.php?c=2974 --live
+
 #EXTINF:-1,CANAL+LIGA
 rtmp://146.185.25.162/live playpath=holaholaliga?id=13874 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/holaholaliga/1/645/395 Conn=S:OK
 #EXTINF:-1,CANAL+LIGA
@@ -1450,70 +1328,44 @@ rtmp://146.185.25.74/live playpath=tnnnttt7?id=12989 swfUrl=http://www.ezcast.tv
 rtmp://146.185.25.74/live playpath=tvcdepligatv?id=13268 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 #EXTINF:-1,WARNER
 rtmp://206.190.139.28/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
-#EXTINF:-1 group-title=New,sky sports 1
-rtmp://198.50.226.53:1935/send/_definst_/sky1
-#EXTINF:-1,sky sports 2
-rtmp://198.50.226.53:1935/send/_definst_/sky2
-#EXTINF:-1,sky sports 3
-rtmp://198.50.226.53:1935/send/_definst_/sky3
-#EXTINF:-1,sky sports 4
-rtmp://198.50.226.53:1935/send/_definst_/sky4
-#EXTINF:-1,sky sports f1
-rtmp://198.50.226.53:1935/send/_definst_/skyf1
-#EXTINF:-1,sky sports news
-rtmp://198.50.226.53:1935/send/_definst_/skynews
-#EXTINF:-1,bt 1
-rtmp://198.50.226.53:1935/send/_definst_/bt1
-#EXTINF:-1,bt 2
-rtmp://198.50.226.53:1935/send/_definst_/bt2
-#EXTINF:-1,bein 1
-rtmp://198.50.226.53:1935/send/_definst_/jsc
-#EXTINF:-1,bein 2
-rtmp://198.50.226.53:1935/send/_definst_/jsc2
-#EXTINF:-1,bein 3
-rtmp://198.50.226.53:1935/send/_definst_/jsc3
-#EXTINF:-1,bein 4
-rtmp://198.50.226.53:1935/send/_definst_/jsc4
-#EXTINF:-1,bein 5
-rtmp://198.50.226.53:1935/send/_definst_/jsc5
-#EXTINF:-1,bein 6
-rtmp://198.50.226.53:1935/send/_definst_/jsc6
-#EXTINF:-1,bein 7
-rtmp://198.50.226.53:1935/send/_definst_/jsc7
-#EXTINF:-1,bein 8
-rtmp://198.50.226.53:1935/send/_definst_/jsc8
-#EXTINF:-1,bbc 1
-rtmp://198.50.226.53:1935/send/_definst_/bbcone
-#EXTINF:-1,bbc 2
-rtmp://198.50.226.53:1935/send/_definst_/bbctwo
-#EXTINF:-1,itv 1
-rtmp://198.50.226.53:1935/send/_definst_/itv1
-#EXTINF:-1,itv 2
-rtmp://198.50.226.53:1935/send/_definst_/itv2
-#EXTINF:-1,itv 3
-rtmp://198.50.226.53:1935/send/_definst_/itv3
-#EXTINF:-1,itv4
-rtmp://198.50.226.53:1935/send/_definst_/itv4
-#EXTINF:-1,sky one
-rtmp://198.50.226.53:1935/send/_definst_/skyone
-#EXTINF:-1,discovery
-rtmp://198.50.226.53:1935/send/_definst_/discovery
-#EXTINF:-1,nickelodeon
-rtmp://198.50.226.53:1935/send/_definst_/nick
-#EXTINF:-1,sky comedy 
-rtmp://198.50.226.53:1935/send/_definst_/skycomedy 
-#EXTINF:-1,sky family 
-rtmp://198.50.226.53:1935/send/_definst_/skyfamily 
-#EXTINF:-1,sky drama 
-rtmp://198.50.226.53:1935/send/_definst_/skydrama 
-#EXTINF:-1,sky action 
-rtmp://198.50.226.53:1935/send/_definst_/skyaction 
-#EXTINF:-1,skyprem 
-rtmp://198.50.226.53:1935/send/_definst_/skypremier
 #EXTINF:-1,uk gold
 rtmp://198.50.226.53:1935/send/ukgold
 #EXTINF:-1,espn uk
 rtmp://198.50.226.53:1935/send/espnuk
+#EXTINF:-1,BEIN SPORTS 
+rtmp://85.91.143.23/23688/23688.stream 
+#EXTINF:-1,NAT Geo ABU DHABI 
+rtmp://85.91.143.23/11667/11667.stream
+#EXTINF:-1,DREAM 1 
+rtmp://85.91.143.23/87521//87521.stream 
+#EXTINF:-1,MBC 3 
+rtmp://85.91.143.20/15678//15678.stream 
+#EXTINF:-1,MBC 4 
+rtmp://85.91.143.20/56278//56278.stream 
+#EXTINF:-1,MBC DRAMA 
+rtmp://85.91.143.20/96514/96514.stream 
+#EXTINF:-1,MBC BOLLYWOOD 
+rtmp://85.91.143.23/35657//35657.stream
+#EXTINF:-1,AD SPORTS 1 
+rtmp://85.91.143.21/15675//15675.stream 
+#EXTINF:-1,AD SPORTS 2 
+rtmp://85.91.143.21/35428//35428.stream 
+#EXTINF:-1,NILE SPORT 
+rtmp://85.91.143.21/79248//79248.stream 
+#EXTINF:-1,MTV 
+rtmp://85.91.143.20/54682/54682.stream
+#EXTINF:-1,MAZZIKA ZOOM 
+rtmp://85.91.143.23/96533/96533.stream 
+#EXTINF:-1,AD DRAMA 
+rtmp://85.91.143.23/58891/58891.stream 
+#EXTINF:-1,SPACE TOON 
+rtmp://85.91.143.21/35985/35985.stream
+#EXTINF:-1,OSN
+http://212.68.33.139:8001
+#EXTINF:-1,OSN
+http://212.68.33.139:8002
+#EXTINF:-1,OSN
+http://212.68.33.139:8003
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
