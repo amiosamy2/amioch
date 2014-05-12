@@ -737,16 +737,10 @@ rtmp://204.107.27.248/live/?id=0ad5aac39bb13fbe57c93b6500ae0501509e3da2f39cfc90d
 rtmp://cp114761.live.edgefcs.net:443/live//tpc-live_1@44263
 #EXTINF:-1 group-title=English,Al Jazeera America
 rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
-#EXTINF:-1,Sky News
-rtmp://b.cdn.newschat.tv/edge playpath=skyuk_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/sky/
-#EXTINF:-1,CBC
-rtmp://b.cdn.newschat.tv/edge playpath=canadas_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/canada/
 #EXTINF:-1,Al Jazeera International
 rtmp://d.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-news/
 #EXTINF:-1,Bloomberg
 rtmp://d.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
-#EXTINF:-1,HLN
-rtmp://b.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/twoons/
 #EXTINF:-1,MSNBC
 rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/
 #EXTINF:-1,CNN
@@ -754,9 +748,7 @@ rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/playe
 #EXTINF:-1,CNBC
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
 #EXTINF:-1,UNIVERSAL1
-
 http://aya02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=ae106e11b83cd655106616b889dc32c3
-
 #EXTINF:-1,UNIVERSAL2
 
 http://aya02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
@@ -951,219 +943,133 @@ rtmpe://107.150.45.130:1935/goLive playpath=KUrd8VgVeAXis42 swfUrl=http://b17014
 rtmpe://107.150.45.130:1935/goLive playpath=a0JvBbGBECShl4d swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,SPIKE
 rtmpe://173.208.201.162:1935/goLive playpath=OuTMDUaJxi3Hmqh swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
-#EXTINF:-1 group-title=Spain,AXN BLACK
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnblack swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnblack
-#EXTINF:-1,AXN WHITE
-rtmp://liveedge.tvplanetsoft.com:1469/live/ playpath=axnwhite swfUrl=http://mudade5em5dias.tvzune.com/player_que_vai_mudar.swf live=1 pageUrl=http://www.tvzune.tv/soft.htm?token=h1xbc&axnwhite
-#EXTINF:-1,AXN
-rtmp://198.23.71.102/stream playpath=aaxn5?id=119539 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.liveflash.tv/ Conn=S:OK --live
-#EXTINF:-1,Canal+ 1 HD-AZBOX *
-rtmp://5.79.72.3/vl/_definst_ playpath=maderoscabrones1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Canal+ 1 HD-AZBOX *
-rtmp://82.192.95.75/vl/_definst_ playpath=maderoscabrones1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Canal+ 1 HD-AZBOX *
-rtmp://82.192.95.75/vl/_definst_ playpath=jajaja5 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Canal+ 1 HD-AZBOX *
-rtmp://95.211.168.161/vl/_definst_ playpath=jajaja5 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,Cartoon Network-AZBOX *
+#EXTINF:-1 group-title=Spain,Cartoon Network-AZBOX 
 rtmp://206.190.140.36/live playpath=cartoonperu?id=11173 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,NICKELODEON-AZBOX *
+#EXTINF:-1,NICKELODEON-AZBOX 
 rtmp://206.190.140.36/live playpath=nick10?id=1984 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,Disney XD-AZBOX*
+#EXTINF:-1,Disney XD-AZBOX
 rtmp://206.190.140.36/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,Disney XD-AZBOX*
-rtmp://198.105.219.132/live playpath=dxd10?id=1986 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,DISCOVERY KIDS-AZBOX *
+#EXTINF:-1,DISCOVERY KIDS-AZBOX 
 rtmp://206.190.140.20/live playpath=kids10?id=1987 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/kids10/1/585/385 Conn=S:OK
-#EXTINF:-1,Disney junior-AZBOX*
+#EXTINF:-1,Disney junior-AZBOX
 rtmp://46.28.53.18/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-#EXTINF:-1,Disney junior-AZBOX*
-rtmp://206.190.140.36/live playpath=junior10?id=1980 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/junior10/1/585/385 Conn=S:OK
 #EXTINF:-1,Tooncast-AZBOX
 rtmp://146.185.25.74/live playpath=tooncasttelevall?id=13267 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,CINE INFANTIL-AZBOX *
+#EXTINF:-1,CINE INFANTIL-AZBOX 
 rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_mega_kids swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/mega_kids token=30dabc4871922a1314192e925ab7961d
-#EXTINF:-1,FOXCRIME-AZBOX *
+#EXTINF:-1,FOXCRIME-AZBOX 
 http://st60.u1.videomega.tv/v/8fc49eebffa195ebe66750ba1b6c250a.mp4
 
-#EXTINF:-1,TNT-LATINO-AZBOX-*
+#EXTINF:-1,TNT-LATINO-AZBOX-
 rtmp://206.190.140.20/live playpath=tnt2014?id=6387 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
 
-#EXTINF:-1,TNT-LATINO-AZBOX-*
-rtmp://109.123.123.68/live playpath=tnt2014?id=6387 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-
-#EXTINF:-1,FOX- LATINO-AZBOX *
+#EXTINF:-1,FOX- LATINO-AZBOX 
 rtmp://206.190.140.20/live playpath=fox2290?id=6388 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 
-#EXTINF:-1,FOX- LATINO-AZBOX *
-rtmp://198.105.219.132/live playpath=fox2290?id=6388 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
-
-#EXTINF:-1,Peliculas -latino-AZBOX *
+#EXTINF:-1,Peliculas -latino-AZBOX 
 rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_vitatotv swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/vitatotv token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,Peliculas -latino-AZBOX *
+#EXTINF:-1,Peliculas -latino-AZBOX 
 rtmp://edge4.video.vaughnsoft.net:443/live?undefined playpath=live_universal_movies swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/universal_movies token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,Peliculas -latino-AZBOX *
+#EXTINF:-1,Peliculas -latino-AZBOX 
 rtmp://edge3.video.vaughnsoft.net:443/live?undefined playpath=live_mega_movieshd swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/mega_movieshd  token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,Peliculas -latino-AZBOX *
+#EXTINF:-1,Peliculas -latino-AZBOX 
 rtmp://edge3.video.vaughnsoft.net:443/live?undefined playpath=live_hbostarztv swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/hbostarztv  token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,Xnxtv-AZBOX *
+#EXTINF:-1,Xnxtv-AZBOX 
 rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_alx_nxtv swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,Moviecity Premieres HD-AZBOX*
+#EXTINF:-1,Moviecity Premieres HD-AZBOX
 rtmp://198.144.158.83:443/kuyo playpath=moviecha7?id=574493afcb43338e891e1c0720663517&pid=38342e3132342e3136302e323336 swfUrl=http://yukons.net/yplay2.swf live=1 pageUrl=http://yukons.net/embed/364436463736363936353633363836313337/2a189711028737fe89a2d4c433b0cc96/680/480
 
-#EXTINF:-1,CINEMA-AZBOX*
+#EXTINF:-1,CINEMA-AZBOX
 rtmp://edge5.video.vaughnsoft.net:443/live?undefined playpath=live_cinemalatinohd swfUrl=https://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=https://vaughnlive.tv/embed/video/cinemalatinohd token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,MAX PRIME-AZBOX *
+#EXTINF:-1,MAX PRIME-AZBOX 
 rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/embed/video/ token=30dabc4871922a1314192e925ab7961d
-#EXTINF:-1, CINEMA LATINO *AZBOX
-rtmp://edge3.video.vaughnsoft.net:443/live? playpath=live_cinemalatinohd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/ token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1, FX-AZBOX *
+#EXTINF:-1, FX-AZBOX 
 rtmp://37.130.228.52/live playpath=fxtelevall?id=13263 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 
-#EXTINF:-1,MOVIES HD-AZBOX*
+#EXTINF:-1,MOVIES HD-AZBOX
 rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mega_movieshd swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mega_movieshd token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,UNIVERSAL-AZBOX * 
-rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_universal_movies swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/universal_movies token=30dabc4871922a1314192e925ab7961d
-
-#EXTINF:-1,WARNER-AZBOX*
+#EXTINF:-1,WARNER-AZBOX
 rtmp://46.28.53.18/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner10/1/585/385 Conn=S:OK --live
-
-#EXTINF:-1,WARNER-AZBOX*
-rtmp://206.190.139.28/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
-
-#EXTINF:-1,WARNER-AZBOX*
-rtmp://46.28.53.38/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
-
-#EXTINF:-1,WARNER-AZBOX*
-rtmp://198.105.219.132/live playpath=warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/warner10/1/585/400 Conn=S:OK
-#EXTINF:-1,HBO 2-AZBOX *
+#EXTINF:-1,HBO 2-AZBOX 
 rtmp://206.190.129.12/live playpath=channelhbo2?id=199124 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
 
-#EXTINF:-1,HBO 2-AZBOX *
-rtmp://208.43.33.101/live playpath=channelhbo2?id=199124 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/channelhbo2/1/600/400 Conn=S:OK --live
-
-#EXTINF:-1,HBO Accion-AZBOX*
+#EXTINF:-1,HBO Accion-AZBOX
 rtmp://107.155.71.58/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=580&height=360&channel=/1/HBO&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,DISCOVERY CHANNEL(latino)*AZBOX
+#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX
 rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_discomar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/discomar token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX*
+#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX
 rtmp://edge4.video.vaughnsoft.net:443/live? playpath=live_discomar swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX*
+#EXTINF:-1,DISCOVERY CHANNEL(latino)AZBOX
 rtmp://46.28.53.38/live playpath=DC2015?id=8081 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ Conn=S:OK --live
 
-#EXTINF:-1,HISTORIA-latino-AZBOX *
+#EXTINF:-1,HISTORIA-latino-AZBOX 
 rtmp://edge3.video.vaughnsoft.net:443/ app=live?undefined playpath=live_mfv_01 swfUrl=http://vaughnlive.tv/800021294/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/mfv_01 token=30dabc4871922a1314192e925ab7961d
 
-#EXTINF:-1,PlayBoy-AZBOX*
+#EXTINF:-1,PlayBoy-AZBOX
 rtmp://111.118.21.77/ptv3//phd499
 
-#EXTINF:-1,PlayBoy-AZBOX*
+#EXTINF:-1,PlayBoy-AZBOX
 rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd499 swfUrl=https://bf8793d7-a-62cb3a1a-s-sites.googlegroups.com/site/archivosdirect/idtvplayer.swf?attachauth=ANoY7cpWVGBTKMklTcEgA5fChyjJeGL7262MCMqIO7HrlhNGUQ9w1_4Fjnmgg-PpDChjjzlfpt6sXgWRdenoqdNbz8Uy1B19I9nCtpv6a29opRW_lgdtH_zljlGNfqa-4OVzzxJiu5ty4iLbYh9wErQ8jLCxHYHbvRlu2rr0SgQn8u-ESeqF-X3XGeyZJ8Y6smnq8Du24TxIWmK6iXWbqOaYQEieXSFIeA%3D%3D&attredirects=0 live=1 pageUrl=http://miscanalestvenvivoxxx.blogspot.com/2013/05/blog-post.html
 
 #EXTINF:-1,Venus
 rtmp://199.167.138.188/live/?u=vvveeennnuuussss playpath=vvveeennnuuussss swfUrl=http://stream4u.eu/player/player.swf live=1 pageUrl=http://www.stream4u.eu/embed.php?v=vvveeennnuuussss&vw=489&vh=370&domain=www.mill-tv.com
 
-#EXTINF:-1,Spice tv hd(porno)-AZBOX
-rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd497 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.cracketzaa.tv/canales-tv/SpiceTV3.html
-
-#EXTINF:-1,CANAL BUTGO-AZBOX *
+#EXTINF:-1,CANAL BUTGO-AZBOX 
 rtmp://111.118.21.76:1935/ptv/ playpath=phd772 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://plusligaonline.com/canales/putgo.php
 
-#EXTINF:-1,PLAYY 19+-AZBOX *
+#EXTINF:-1,PLAYY 19+-AZBOX 
 rtmp://lm03.everyon.tv:1935/ptv3/ playpath=phd769 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://plusligaonline.com/canales/playy19.php
-#EXTINF:-1,Sportmania-AZBOX *
+#EXTINF:-1,Sportmania-AZBOX 
 rtmp://37.130.228.52/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 
-#EXTINF:-1,Sportmania-AZBOX *
-rtmp://146.185.25.130/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-
-#EXTINF:-1,Sportmania-AZBOX *
-rtmp://109.123.114.162/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/maderoscabroness/1/645/395 Conn=S:OK
-
-#EXTINF:-1,Gol Tv-AZBOX *
+#EXTINF:-1,Gol Tv-AZBOX 
 rtmp://stream.farm.cdnline.com:80/liveedge playpath=rtmp://live.zecast.tv/zecast/todofutbo00 swfUrl=http://www.kbps.tv/jl/player.swf live=1
 
-#EXTINF:-1,CANAL+ FUTBOL-AZBOX *
+#EXTINF:-1,CANAL+ FUTBOL-AZBOX 
 rtmp://50.7.189.66/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,CANAL+ FUTBOL-AZBOX *
-rtmp://50.7.137.82/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
+#EXTINF:-1,Canal+ Liga de Campeones-AZBOX 
 rtmp://live.intcast.net:1935/live/ playpath=152121 swfUrl=http://intcast.net/embed/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://intcast.net/channels/id100113.php
 
-#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
+#EXTINF:-1,Canal+ Liga de Campeones-AZBOX 
 rtmp://5.79.72.3/vl/_definst_ playpath=abralacabra1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=abralacabra1&vw=645&vh=395&domain=www.tvonlinegratis.mobi
 
-#EXTINF:-1,Canal+ Liga de Campeones-AZBOX *
-rtmp://82.192.95.75/vl/_definst_ playpath=abralacabra1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=abralacabra1&vw=645&vh=395&domain=www.tvonlinegratis.mobi
-
-#EXTINF:-1,Canal+ LIGA-AZBOX *
+#EXTINF:-1,Canal+ LIGA-AZBOX 
 rtmp://50.7.189.66/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,Canal+ LIGA-AZBOX *
-rtmp://50.7.137.82/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,Canal+ LIGA-AZBOX *
-rtmp://50.7.137.90/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,Canal+ LIGA-AZBOX *
-rtmp://50.7.133.98/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=12147&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,Canal+ LIGA-AZBOX *
-rtmp://50.7.133.122/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
+#EXTINF:-1,CANAL+ TOROS-AZBOX 
 rtmp://46.165.210.40/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://50.7.189.66/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://50.7.137.90/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://50.7.137.98/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://50.7.137.114/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://107.155.68.138/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,CANAL+ TOROS-AZBOX *
-rtmp://50.7.191.234/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-
-#EXTINF:-1,Sevilla FC-AZBOX*
+#EXTINF:-1,Sevilla FC-AZBOX
 rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
 
-#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX 
 http://iphonelive.rtve.es/TDP_LV3_IPH_1C/TDP_LV3_IPH_1C.m3u8
 
-#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX 
 http://iphonelive.rtve.es/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
 
-#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX 
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_1.m3u8
 
-#EXTINF:-1,Rtve.es-Teledeporte-AZBOX *
+#EXTINF:-1,Rtve.es-Teledeporte-AZBOX 
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1,Rtve.es -Teledeporte-AZBOX *
+#EXTINF:-1,Rtve.es -Teledeporte-AZBOX 
 rtmp://rtvegeofs.fplive.net:443/rtvegeo-live-live?ovpfv=2.1.2 playpath=RTVE_TDP_LV3_WEB_GEO swfUrl=http://www.irtve.es/swf/4.1.16/RTVEPlayerVideo.swf pageUrl=http://verlatvendirecto.com/canales/deportes/teledeporte/ swfVfy=true live=true timeout=10
 
-#EXTINF:-1,Euronews-AZBOX*
+#EXTINF:-1,Euronews-AZBOX
 rtmp://149.11.34.78/live playpath=euronewses.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?82 live=1 pageUrl=http://www.lasteles.com/es/directo/INTERNACIONALES/video/Euronews/10235
 
 #EXTINF:-1,CNN En Espa?ol(LATINO)
@@ -1171,151 +1077,123 @@ http://iphone-streaming.ustream.tv/uhls/17323372/streams/live/iphone/playlist.m3
 
 #EXTINF:-1,CNN En Espa?ol(LATINO)
 http://iphone-streaming.ustream.tv/watch/playlist.m3u8?cid=17323372
-#EXTINF:-Rtve.es-Tve 24h -AZBOX*
+#EXTINF:-Rtve.es-Tve 24h -AZBOX
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
 
-#EXTINF:-Rtve.es-Tve 24h -AZBOX*
+#EXTINF:-Rtve.es-Tve 24h -AZBOX
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX 
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX 
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
 
-#EXTINF:-1,Rtve.es -Tve 1-AZBOX *
+#EXTINF:-1,Rtve.es -Tve 1-AZBOX 
 rtmp://rtvegeofs.fplive.net:1935/rtvegeo-live-live?ovpfv=2.1.2 playpath=RTVE_THD_LV3_WHD_GEO swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/deportes/champions-league/directo/alta-calidad/ swfVfy=true live=true timeout=10
 
-#EXTINF:-1,Rtve.es -Tve2-AZBOX *
+#EXTINF:-1,Rtve.es -Tve2-AZBOX 
 http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
 
-#EXTINF:-1,Rtve.es -Tve2-AZBOX *
-rtmp://rtvefs.fplive.net:1935/rtve-live-live?ovpfv=2.1.2 playpath=RTVE_LA2_LV3_WEB_NOG swfUrl=http://swf.rtve.es/swf/4.2.27/RTVEPlayerVideo.swf pageUrl=http://www.rtve.es/television/la-2-directo/ swfVfy=true live=true timeout=10
-
-#EXTINF:-1,Antena 3 HD-AZBOX*
+#EXTINF:-1,Antena 3 HD-AZBOX
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
-#EXTINF:-1,Antena 3-AZBOX*
+#EXTINF:-1,Antena 3-AZBOX
 rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-antena-3.php --live
-
-#EXTINF:-1,ANTENA 3-AZBOX *
-rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://latelete.com/reproductores/player.swf live=1 pageUrl=http://latelete.com/canales/nacionales/antena-3.php --live
-
-#EXTINF:-1,TDT:ANTENA 3-AZBOX *
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-antena3_1 swfUrl=http://www.antena3.com/static/swf/A...l=0&autoplay=1&controlButtons=volume,fullScr& live=1 pageUrl=http://www.antena3.com/static/swf/A...l=0&autoplay=1&controlButtons=volume,fullScr&
-
-#EXTINF:-1,TDT:ANTENA 3-AZBOX *
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-antena3_1 swfUrl=http://mtv.com.lb/Player/485/jwplayer.flash.swf live=1 pageUrl=http://globaltoptv.blogspot.com.es/2013/08/antena-3-tv-en-directo-antena-3.htm
-
-#EXTINF:-1,Cuatro-AZBOX *
+#EXTINF:-1,Cuatro-AZBOX 
 http://mdsiosgeo2-lh.akamaihd.net/i/mitele/esmediaset_22@168498/index_0_av-p.m3u8
 
-#EXTINF:-1,Telecinco-AZBOX *
+#EXTINF:-1,Telecinco-AZBOX 
 rtmp://146.185.25.162/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 
-#EXTINF:-1,Telecinco-AZBOX *
-rtmp://5.63.149.180/live playpath=tele5ptc?id=13633 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-
-#EXTINF:-1,La Sexta-AZBOX*
+#EXTINF:-1,La Sexta-AZBOX
 rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/ --live
 
-#EXTINF:-1,La SEXTA-AZBOX *
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.lasexta.com/static/swf/l...l=0&autoplay=1&controlButtons=volume,fullScr& live=1 pageUrl=http://www.lasexta.com/static/swf/l...l=0&autoplay=1&controlButtons=volume,fullScr&
-
-#EXTINF:-1,La SEXTA-AZBOX *
+#EXTINF:-1,La SEXTA-AZBOX 
 rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nocache=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
 
-#EXTINF:-1,La SEXTA-AZBOX *
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-lasexta_1 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 live=1 pageUrl=http://www.atresplayer.com/directos/television/lasexta/
-
-#EXTINF:-1,Xplora-AZBOX*
+#EXTINF:-1,Xplora-AZBOX
 rtmp://antena3fms35geobloqueolivefs.fplive.net:1935/antena3fms35geobloqueolive-live/stream-xplorafdgeo_1
 
-#EXTINF:-1,Xplora-AZBOX*
+#EXTINF:-1,Xplora-AZBOX
 rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/ playpath=stream-xplorageo_1 swfUrl=http://player.longtailvideo.com/player.swf live=1 pageUrl=http://www.omegateam.byethost7.com/ch/i-xplora-la-sexta.php --live
 
-#EXTINF:-1,XPLORA-AZBOX *
+#EXTINF:-1,XPLORA-AZBOX 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
 
-#EXTINF:-1,XPLORA-AZBOX *
+#EXTINF:-1,XPLORA-AZBOX 
 rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live//stream-xplorageo_1
 
-#EXTINF:-1,XPLORA-AZBOX *
-rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/ playpath=stream-xplorageo_1 swfUrl=http://verlatvendirecto.com/reproductores/player.swf?file=stream-xplorageo_1&type=flv&streamer=rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/&autostart=true&stretching=exactfit&mute=false&type= live=1 pageUrl=http://tvenganchado.com/xploraop1.php
-
-#EXTINF:-1,Neox-AZBOX *
+#EXTINF:-1,Neox-AZBOX 
 rtmp://antena3fms35geobloqueolivefs.fplive.net/antena3fms35geobloqueolive-live/stream-eventos2geo_1
 
-#EXTINF:-1,Neox-AZBOX *
+#EXTINF:-1,Neox-AZBOX 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel12/index.m3u8
 
-#EXTINF:-1,ENERGY-AZBOX *
+#EXTINF:-1,ENERGY-AZBOX 
 http://mdsiosgeo0-lh.akamaihd.net/i/mitele/esmedia_01@175317/index_0_av-b.m3u8
 
-#EXTINF:-1,NITRO-AZBOX *(neox)(nova)
+#EXTINF:-1,NITRO-AZBOX (neox)(nova)
 rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
 
-#EXTINF:-1,Nova-AZBOX*
+#EXTINF:-1,Nova-AZBOX
 rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live playpath=stream-eventos6_2 swfUrl=http://www.atresplayer.com/static/swf/AtresPlayer.swf?nc=200 pageUrl=http://www.atresplayer.com/directos/television/neox/
 
-#EXTINF:-1,Nova-AZBOX*
-rtmp://antena3fms35livefs.fplive.net:1935/antena3fms35live-live/ playpath=stream-eventos6_1 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf live=1
-
-#EXTINF:-1,NOVA-AZBOX *
+#EXTINF:-1,NOVA-AZBOX 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel12/index.m3u8
 
 #EXTINF:-1,LOBAS TV-AZBOX(musica)
 rtmp://149.11.34.78/live playpath=lobas.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?191live=1 pageUrl=http://www.lasteles.com/es/directo/LOBAS-TV/video/LOBAS-TV/1159
 
-#EXTINF:-1,Gotica tv (musica)-AZBOX *
+#EXTINF:-1,Gotica tv (musica)-AZBOX 
 rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://tvonlineapp.com/player/jwplayer/player.swf live=1 pageUrl=http://tvonlineapp.com/app/containerEmbed.php?p=11641
 
-#EXTINF:-1,STAGE TV-(musica)-AZBOX* 24 horas de los mejores Directos-AZBOX *
+#EXTINF:-1,STAGE TV-(musica)-AZBOX 24 horas de los mejores Directos-AZBOX 
 rtmp://149.11.34.6/live playpath=stagetv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?922 live=1 pageUrl=http://www.lasteles.com/es/directo/STAGE-TV/
 
-#EXTINF:-1,UNLOVE TV-(Musica)-AZBOX *
+#EXTINF:-1,UNLOVE TV-(Musica)-AZBOX 
 rtmp://149.11.34.6/live playpath=unlovechannel.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?785 live=1 pageUrl=http://www.lasteles.com/es/directo/UNLOVE-TV/video/Unlove-TV/7313
 
-#EXTINF:-1,PARTY TV-(Musica)-AZBOX*
+#EXTINF:-1,PARTY TV-(Musica)-AZBOX
 rtmp://149.11.34.6/live playpath=partytv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?729 live=1 pageUrl=http://www.lasteles.com/es/directo/PARTY-TV/video/Party-TV/10870
 
-#EXTINF:-1,Imprescindibles TV(ROCK)-azboz*
+#EXTINF:-1,Imprescindibles TV(ROCK)-azboz
 rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
 
-#EXTINF:-1,Formula 30tv (Musica)-AZBOX **
+#EXTINF:-1,Formula 30tv (Musica)-AZBOX 
 rtmp://cdns724ste1021.multistream.net:80/tvhuelvalive playpath=formula30-500 swfUrl=http://api.codistream.net/videoplayergenerator/embedVideoPlayerCodistream-v3.6.swf live=1 pageUrl=http://www.lookfortv.com/es/countmedia.php?c=5492
 
 #EXTINF:-1,Single TV
 rtmp://149.11.34.78/live playpath=singletv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?153 live=1 pageUrl=http://www.lasteles.com/es/musica/SENCILLOS/
 
-#EXTINF:-1,MTV live hd-AZBOX*
+#EXTINF:-1,MTV live hd-AZBOX
 http://202.75.23.37:8800/live/ch50/01.m3u8
 
-#EXTINF:-1,VH1-AZBOX*
+#EXTINF:-1,VH1-AZBOX
 http://212.26.130.32:1234/udp/238.1.16.11:1234
 
-#EXTINF:-1,MTV HITS-AZBOX*
+#EXTINF:-1,MTV HITS-AZBOX
 http://212.26.130.32:1234/udp/238.1.16.12:1234
 
-#EXTINF:-1,MTV DANCE-AZBOX*
+#EXTINF:-1,MTV DANCE-AZBOX
 http://212.26.130.32:1234/udp/238.1.16.13:1234
 
-#EXTINF:-1,MTV ROCKS-AZBOX*
+#EXTINF:-1,MTV ROCKS-AZBOX
 http://212.26.130.32:1234/udp/238.1.16.14:1234
 
-#EXTINF:-1,1 CLASSIC-AZBOX*
+#EXTINF:-1,1 CLASSIC-AZBOX
 http://212.26.130.32:1234/udp/238.1.16.16:1234
 
-#EXTINF:-1,MTV latino -AZBOX *
+#EXTINF:-1,MTV latino -AZBOX 
 rtmp://206.190.140.36/live playpath=mtv10?id=1991 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/ conn=S:OK --live
 
-#EXTINF:-1,Kiss tv (Musica)-AZBOX*
+#EXTINF:-1,Kiss tv (Musica)-AZBOX
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
- #EXTINF:-1,Kiss tv (Musica)-AZBOX*
+ #EXTINF:-1,Kiss tv (Musica)-AZBOX
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=vcx7
 
-#EXTINF:-1,VIRGIN TV(MUSICA)-AZBOX*
+#EXTINF:-1,VIRGIN TV(MUSICA)-AZBOX
 rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://verlatelegratis.com/canales/virgintv.php
 
 #EXTINF:-1, First Music HD 1080p-AZBOX
@@ -1327,22 +1205,22 @@ http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 #EXTINF:-1,JAZZ TV (MUSICA)-AZBOX?
 rtmp://149.11.34.78/live playpath=jazztv.stream swfUrl=http://lasteles.com/js/mediaplayer-5.10/player.swf?426 live=1 pageUrl=http://lasteles.com/es/directo/
 
-#EXTINF:-1,TDT:Esport 3 (Catalan)-AZBOX*
+#EXTINF:-1,TDT:Esport 3 (Catalan)-AZBOX
 rtmp://tv-geoespanya-flashlivefs.fplive.net/tv-geoespanya-flashlive-live/ playpath=stream_ES_ES3_FLV swfUrl=http://zonatv.net/cadenas-autonomicas/media/canales/esport-3-clipping-67845763463457569789.swf/
 
 #EXTINF:-1,TDT:TV 13-AZBOX
 rtmp://xiiitvlivefs.fplive.net/xiiitvlive-live//stream13tv
 
-#EXTINF:-1,13 TV-AZBOX *
+#EXTINF:-1,13 TV-AZBOX 
 http://149.11.34.6:1935/live/13TV.stream/playlist.m3u8
 
-#EXTINF:-1,13 TV-AZBOX *
+#EXTINF:-1,13 TV-AZBOX 
 rtmp://xiiitvlivefs.fplive.net/xiiitvlive-live playpath=stream13tv swfUrl=http://static.hollybyte.com/public/players/flowplayer/swf/flowplayer.commercial.swf live=1 pageUrl=http://live.13tv.hollybyte.tv/
 
-#EXTINF:-1,13 TV-AZBOX *
+#EXTINF:-1,13 TV-AZBOX 
 rtmp://149.11.34.6/live playpath=13TV.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?237 live=1 pageUrl=http://www.lasteles.com/es/player.php?auto=0&id=6254
 
-#EXTINF:-1,Libertad Digital TV-AZBOX *
+#EXTINF:-1,Libertad Digital TV-AZBOX 
 http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
 
 #EXTINF:-1,Localia tv-AZBOX
