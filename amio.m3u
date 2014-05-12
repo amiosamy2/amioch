@@ -289,16 +289,16 @@ http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=20
 http://4.31.30.145:9075
 #EXTINF:-1,AD ALOULA
 http://cdn-streamer2.magictvbox.com/40.m3u8
+#EXTINF:-1,AD DRAMA 
+rtmp://85.91.143.23/58891/58891.stream 
+#EXTINF:-1,AD SPORTS 1 
+rtmp://85.91.143.21/15675//15675.stream 
+#EXTINF:-1,AD SPORTS 2 
+rtmp://85.91.143.21/35428//35428.stream 
 #EXTINF:-1,AL AHLY TV
 http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
 #EXTINF:-1,ALQAHIRA WA NASS 2
 http://cdn-streamer1.magictvbox.com/live/10170.stream/chunklist.m3u8
-#EXTINF:-1,AL JAZEERA ARABIC
-http://162.246.18.114/AbouWassim21/AbouWassim21/45.ch
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-http://162.246.18.114/AbouWassim21/AbouWassim21/47.ch
-#EXTINF:-1,Animal_Planet
-http://162.246.18.114/AbouWassim21/AbouWassim21/50.ch
 #EXTINF:-1,ANNAHAR
 http://cdn-delay1.magictvbox.com/5.m3u8
 #EXTINF:-1,ANNAHAR DRAMA
@@ -309,12 +309,6 @@ http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
 #EXTINF:-1,ALHAYAT 2
 http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:-1,ART Cinema
-http://162.246.18.114/AbouWassim21/AbouWassim21/32.ch
-#EXTINF:-1,ART Hekayat
-http://162.246.18.114/AbouWassim21/AbouWassim21/33.ch
-#EXTINF:-1,ART Hekayat 2
-http://162.246.18.114/AbouWassim21/AbouWassim21/34.ch
 #EXTINF:-1,CAIRO CINEMA
 http://cdn-delay1.magictvbox.com/1.m3u8
 #EXTINF:-1,CAIRO DRAMA
@@ -327,96 +321,36 @@ http://cdn-delay1.magictvbox.com/13.m3u8
 http://cdn-streamer1.magictvbox.com/live/10148.stream/chunklist.m3u8
 #EXTINF:-1,CBC DRAMA
 http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8
-#EXTINF:-1,Cbc Drama
-http://162.246.18.114/AbouWassim21/AbouWassim21/67.ch
-#EXTINF:-1,CBC EXTRA
-http://162.246.18.114/AbouWassim21/AbouWassim21/68.ch
-#EXTINF:-1,Fox Life
-http://162.246.18.114/AbouWassim21/AbouWassim21/49.ch
+#EXTINF:-1,DREAM 1 
+rtmp://85.91.143.23/87521//87521.stream 
 #EXTINF:-1,LCD AFLAM
 http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8
-#EXTINF:-1,MBC 1
-http://162.246.18.114/AbouWassim21/AbouWassim21/38.ch
-#EXTINF:-1,MBC 2
-http://162.246.18.114/AbouWassim21/AbouWassim21/37.ch
-#EXTINF:-1,MBC3
-http://162.246.18.114/AbouWassim21/AbouWassim21/39.ch
-#EXTINF:-1,MBC 4
-http://162.246.18.114/AbouWassim21/AbouWassim21/40.ch
-#EXTINF:-1,MBC Action
-http://162.246.18.114/AbouWassim21/AbouWassim21/41.ch
-#EXTINF:-1,MBC Drama
-http://162.246.18.114/AbouWassim21/AbouWassim21/42.ch
-#EXTINF:-1,MBC Masr
-http://162.246.18.114/AbouWassim21/AbouWassim21/43.ch
-#EXTINF:-1,MBC MAX
-http://162.246.18.114/AbouWassim21/AbouWassim21/44.ch
-#EXTINF:-1,Moga Comedy
-http://162.246.18.114/AbouWassim21/AbouWassim21/66.ch
 #EXTINF:-1,METV
 http://cdn-streamer2.magictvbox.com/41.m3u8
+#EXTINF:-1,MTV 
+rtmp://85.91.143.20/54682/54682.stream
+#EXTINF:-1,MAZZIKA ZOOM 
+rtmp://85.91.143.23/96533/96533.stream 
+#EXTINF:-1,MBC 3 
+rtmp://85.91.143.20/15678//15678.stream 
+#EXTINF:-1,MBC 4 
+rtmp://85.91.143.20/56278//56278.stream 
+#EXTINF:-1,MBC DRAMA 
+rtmp://85.91.143.20/96514/96514.stream 
+#EXTINF:-1,MBC BOLLYWOOD 
+rtmp://85.91.143.23/35657//35657.stream
 #EXTINF:-1,NILE CINEMA
 http://cdn-delay1.magictvbox.com/14.m3u8
-#EXTINF:-1,Nickelodeon
-http://162.246.18.114/AbouWassim21/AbouWassim21/48.ch
-#EXTINF:-1,Orbit Cinema 1
-http://162.246.18.114/AbouWassim21/AbouWassim21/58.ch
-#EXTINF:-1,Orbit Cinema 2
-http://162.246.18.114/AbouWassim21/AbouWassim21/59.ch
-#EXTINF:-1,Orbit Alyawm
-http://162.246.18.114/AbouWassim21/AbouWassim21/60.ch
-#EXTINF:-1,Orbit Fann
-http://162.246.18.114/AbouWassim21/AbouWassim21/61.ch
-#EXTINF:-1,Orbit Mmousalsalat
-http://162.246.18.114/AbouWassim21/AbouWassim21/62.ch
-#EXTINF:-1,Orbit Alsafwa
-http://162.246.18.114/AbouWassim21/AbouWassim21/63.ch
-#EXTINF:-1,Orbit MusicNow
-http://162.246.18.114/AbouWassim21/AbouWassim21/64.ch
-#EXTINF:-1,On Tv
-http://162.246.18.114/AbouWassim21/AbouWassim21/69.ch
+#EXTINF:-1,NILE SPORT 
+rtmp://85.91.143.21/79248//79248.stream 
+#EXTINF:-1,NAT Geo ABU DHABI 
+rtmp://85.91.143.23/11667/11667.stream
 #EXTINF:-1,ONTV
 http://cdn-delay1.magictvbox.com/10.m3u8
-#EXTINF:-1,OSN First HD
-http://162.246.18.114/AbouWassim21/AbouWassim21/23.ch
-#EXTINF:-1,OSN Moies Action HD
-http://162.246.18.114/AbouWassim21/AbouWassim21/24.ch
-#EXTINF:-1,OSN Movies HD +2
-http://162.246.18.114/AbouWassim21/AbouWassim21/25.ch
-#EXTINF:-1,OSN Movies Comedy HD
-http://162.246.18.114/AbouWassim21/AbouWassim21/26.ch
-#EXTINF:-1,OSN Movies Premiere HD
-http://162.246.18.114/AbouWassim21/AbouWassim21/27.ch
-#EXTINF:-1,OSN Yahala Drama
-http://162.246.18.114/AbouWassim21/AbouWassim21/28.ch
-#EXTINF:-1,OSN Yahala HD +2
-http://162.246.18.114/AbouWassim21/AbouWassim21/29.ch
-#EXTINF:-1,OSN Yahala
-http://162.246.18.114/AbouWassim21/AbouWassim21/30.ch
-#EXTINF:-1,OSN Shabab
-http://162.246.18.114/AbouWassim21/AbouWassim21/31.ch
 #EXTINF:-1,PANORAMA DRAMA
 http://cdn-streamer1.magictvbox.com/live/10163.stream/chunklist.m3u8
 #EXTINF:-1,PANORAMA CINEMA
 http://cdn-streamer1.magictvbox.com/live/10176.stream/chunklist.m3u8
-#EXTINF:-1,PINK FILM
-http://162.246.18.114/AbouWassim21/AbouWassim21/51.ch
-#EXTINF:-1,PINK PREMIUM
-http://162.246.18.114/AbouWassim21/AbouWassim21/52.ch
-#EXTINF:-1,PINK HORROR
-http://162.246.18.114/AbouWassim21/AbouWassim21/53.ch
-#EXTINF:-1,PINK MOVIES 2
-http://162.246.18.114/AbouWassim21/AbouWassim21/54.ch
-#EXTINF:-1,PINK MOVIES 3
-http://162.246.18.114/AbouWassim21/AbouWassim21/55.ch
-#EXTINF:-1,PINK ACTION 2
-http://162.246.18.114/AbouWassim21/AbouWassim21/56.ch
-#EXTINF:-1,PINK ACTION 3
-http://162.246.18.114/AbouWassim21/AbouWassim21/57.ch
-#EXTINF:-1,Rotana Cinema
-http://162.246.18.114/AbouWassim21/AbouWassim21/70.ch
-#EXTINF:-1,Rotana Aflam
-http://162.246.18.114/AbouWassim21/AbouWassim21/71.ch
 #EXTINF:-1,SADA ALBALAD DRAMA
 http://cdn-streamer1.magictvbox.com/live/10169.stream/chunklist.m3u8
 #EXTINF:-1,SADA ALBALAD HD
@@ -433,37 +367,12 @@ http://cdn-streamer1.magictvbox.com/live/10147.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10144.stream/chunklist.m3u8
 #EXTINF:-1,TIME COMEDY
 http://cdn-delay1.magictvbox.com/15.m3u8
+#EXTINF:-1,SPACE TOON 
+rtmp://85.91.143.21/35985/35985.stream
 #EXTINF:-1,TIME COMEDY
 http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 #EXTINF:-1,TIME CINEMA
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
-
-#EXTINF:-1,NAT Geo ABU DHABI 
-rtmp://85.91.143.23/11667/11667.stream
-#EXTINF:-1,DREAM 1 
-rtmp://85.91.143.23/87521//87521.stream 
-#EXTINF:-1,MBC 3 
-rtmp://85.91.143.20/15678//15678.stream 
-#EXTINF:-1,MBC 4 
-rtmp://85.91.143.20/56278//56278.stream 
-#EXTINF:-1,MBC DRAMA 
-rtmp://85.91.143.20/96514/96514.stream 
-#EXTINF:-1,MBC BOLLYWOOD 
-rtmp://85.91.143.23/35657//35657.stream
-#EXTINF:-1,AD SPORTS 1 
-rtmp://85.91.143.21/15675//15675.stream 
-#EXTINF:-1,AD SPORTS 2 
-rtmp://85.91.143.21/35428//35428.stream 
-#EXTINF:-1,NILE SPORT 
-rtmp://85.91.143.21/79248//79248.stream 
-#EXTINF:-1,MTV 
-rtmp://85.91.143.20/54682/54682.stream
-#EXTINF:-1,MAZZIKA ZOOM 
-rtmp://85.91.143.23/96533/96533.stream 
-#EXTINF:-1,AD DRAMA 
-rtmp://85.91.143.23/58891/58891.stream 
-#EXTINF:-1,SPACE TOON 
-rtmp://85.91.143.21/35985/35985.stream
 #EXTINF:-1 group-title=Sport,ALAHLY PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Al Nahar Sports
@@ -488,104 +397,6 @@ rtmp://31.220.0.134:1935/live playpath=b8r swfUrl=http://p.jwpcdn.com/6/8/jwplay
 rtmp://31.220.0.196:1935/live playpath=b11r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
 #EXTINF:-1,BEIN SPORTS HD12
 rtmp://31.220.0.194:1935/live playpath=b12r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
-#EXTINF:-1,BeIN SPORT
-rtmpe://46.246.124.26:1935/redirect playpath=HDMBEIN swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 1
-rtmpe://46.246.124.26:1935/redirect playpath=BST1 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 2
-rtmpe://46.246.124.26:1935/redirect playpath=BST2 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 3
-rtmpe://46.246.124.26:1935/redirect playpath=BST3 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 4
-rtmpe://46.246.124.26:1935/redirect playpath=BST4 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 5
-rtmpe://46.246.124.26:1935/redirect playpath=BST5 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 6
-rtmpe://46.246.124.26:1935/redirect playpath=BST6 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 7
-rtmpe://46.246.124.26:1935/redirect playpath=BST7 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 8
-rtmpe://46.246.124.26:1935/redirect playpath=BST8 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 9
-rtmpe://46.246.124.26:1935/redirect playpath=BST9 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 10
-rtmpe://46.246.124.26:1935/redirect playpath=BST10 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 11
-rtmpe://46.246.124.26:1935/redirect playpath=BST11 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 12
-rtmpe://46.246.124.26:1935/redirect playpath=BST12 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 13
-rtmpe://46.246.124.26:1935/redirect playpath=BST13 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 14
-rtmpe://46.246.124.26:1935/redirect playpath=BST14 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BeIN SPORT 15
-rtmpe://46.246.124.26:1935/redirect playpath=BST15 swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/
-#EXTINF:-1,BEIN SPORTS 1
-http://www.eucast.tv:1935/live/b1r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 2 
-http://www.eucast.tv:1935/live/b2r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 3 
-http://www.eucast.tv:1935/live/b3r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 4 
-http://www.eucast.tv:1935/live/bb4/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 5 
-http://www.eucast.tv:1935/live/b5r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 6 
-http://www.eucast.tv:1935/live/b6r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 7 
-http://www.eucast.tv:1935/live/b7r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 8 
-http://www.eucast.tv:1935/live/b8r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 11 
-http://www.eucast.tv:1935/live/b11r/playlist.m3u8 
-#EXTINF:-1,BEIN SPORTS 12 
-http://www.eucast.tv:1935/live/b12r/playlist.m3u8
-#EXTINF:-1,beINSPORT1
-http://162.246.18.114/AbouWassim21/AbouWassim21/1.ch
-#EXTINF:-1,beINSPORT2
-http://162.246.18.114/AbouWassim21/AbouWassim21/2.ch
-#EXTINF:-1,beINSPORT3
-http://162.246.18.114/AbouWassim21/AbouWassim21/3.ch
-#EXTINF:-1,beINSPORT4
-http://162.246.18.114/AbouWassim21/AbouWassim21/4.ch
-#EXTINF:-1,beINSPORT5
-http://162.246.18.114/AbouWassim21/AbouWassim21/5.ch
-#EXTINF:-1,beINSPORT6
-http://162.246.18.114/AbouWassim21/AbouWassim21/6.ch
-#EXTINF:-1,beINSPORT7
-http://162.246.18.114/AbouWassim21/AbouWassim21/7.ch
-#EXTINF:-1,beINSPORT8
-http://162.246.18.114/AbouWassim21/AbouWassim21/36.ch
-#EXTINF:-1,beIN Sports HD1
-http://162.246.18.114/AbouWassim21/AbouWassim21/8.ch
-#EXTINF:-1,beIN Sports HD2
-http://162.246.18.114/AbouWassim21/AbouWassim21/9.ch
-#EXTINF:-1,beIN Sports HD3
-http://162.246.18.114/AbouWassim21/AbouWassim21/10.ch
-#EXTINF:-1,beIN Sports HD4
-http://162.246.18.114/AbouWassim21/AbouWassim21/11.ch
-#EXTINF:-1,beIN Sports HD5
-http://162.246.18.114/AbouWassim21/AbouWassim21/12.ch
-#EXTINF:-1,beIN Sports HD6
-http://162.246.18.114/AbouWassim21/AbouWassim21/13.ch
-#EXTINF:-1,beIN Sports HD7
-http://162.246.18.114/AbouWassim21/AbouWassim21/14.ch
-#EXTINF:-1,beIN Sports HD8
-http://162.246.18.114/AbouWassim21/AbouWassim21/15.ch
-#EXTINF:-1,beIN Sports HD9
-http://162.246.18.114/AbouWassim21/AbouWassim21/16.ch
-#EXTINF:-1,beIN Sports HD10
-http://162.246.18.114/AbouWassim21/AbouWassim21/17.ch
-#EXTINF:-1,beIN Sports HD11
-http://162.246.18.114/AbouWassim21/AbouWassim21/18.ch
-#EXTINF:-1,beIN Sports HD12
-http://162.246.18.114/AbouWassim21/AbouWassim21/19.ch
-#EXTINF:-1,beIN Sports HD13
-http://162.246.18.114/AbouWassim21/AbouWassim21/20.ch
-#EXTINF:-1,beIN Sports HD14
-http://162.246.18.114/AbouWassim21/AbouWassim21/21.ch
-#EXTINF:-1,beIN Sports HD15
-http://162.246.18.114/AbouWassim21/AbouWassim21/22.ch
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
@@ -646,8 +457,6 @@ rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwpla
 rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
 #EXTINF:-1,SKY F1
 rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
-#EXTINF:-1,SKY SPORTS NEWS
-rtmp://37.220.32.54:443/liverepeater playpath=23701 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1,SKY SPORTS 1
 rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1,SKY SPORTS 2
@@ -656,7 +465,7 @@ rtmp://37.220.32.44:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv
 rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1,SKY SPORTS 4
 rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1,SKY SPORTS:SKY SPORTS 1
+#EXTINF:-1,SKY SPORTS 1
 rtmp://37.220.34.61:443/liverepeater playpath=stream31 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
 #EXTINF:-1,Sky Calcio HD
 rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490
@@ -944,6 +753,102 @@ rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/pla
 rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/breaking/
 #EXTINF:-1,CNBC
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
+#EXTINF:-1,UNIVERSAL1
+
+http://aya02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?pt=1&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,UNIVERSAL2
+
+http://aya02.livem3u8.me.totiptv.com/live/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,STAR-GOLD
+
+http://aya02.livem3u8.me.totiptv.com/live/53c2bf7e52a44fd8b6df7f9e83891bbc.m3u8?pt=1&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,FOXCrime HD
+
+http://aya02.livem3u8.me.totiptv.com/live/5028f7ff1d1b4d5f8189690233364737.m3u8?pt=1&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,FX HD
+
+http://aya02.livem3u8.me.totiptv.com/live/2e0e4b05aa6e428593f3b45b710045b7.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,CARTOONITO
+
+http://aya02.livem3u8.me.totiptv.com/live/dff1502eb25c4912aea009df5d0fde9b.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,ANIMAX
+
+http://aya02.livem3u8.me.totiptv.com/live/d3edb48a8bb847c78432270e23ddca73.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,BIO HD
+
+http://aya02.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,CRIME AND INVESTIGATION HD
+
+http://aya02.livem3u8.me.totiptv.com/live/9961a963920f45f4bc0d81c3e478b334.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,DOCUBOX HD
+
+http://aya02.livem3u8.me.totiptv.com/live/77774220bb8e40aa94e549e29ff3ed8a.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,NAT GEO WILD HD
+
+http://aya02.livem3u8.me.totiptv.com/live/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,THRILL
+
+http://aya02.livem3u8.me.totiptv.com/live/c316ed9333e54442b25077f0bb3cc269.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,MTV LIVE HD
+
+http://aya02.livem3u8.me.totiptv.com/live/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,NAT GEO MUSIC HD
+
+http://aya02.livem3u8.me.totiptv.com/live/69c2eab6794344619a049c5dea60ca22.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,CHANNEL V
+
+http://aya02.livem3u8.me.totiptv.com/live/9102f3553f3246ecbbc9738dd4803344.m3u8?pt=1&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,STAR MAX
+
+http://aya02.livem3u8.me.totiptv.com/live/4e38ed2fa4dd43999828eab81196deff.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+#EXTINF:-1,Travel Channel International
+
+http://aya02.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,Nat Geo Adventure HD
+
+http://aya02.livem3u8.me.totiptv.com/live/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,Biography Channel
+
+http://aya02.livem3u8.me.totiptv.com/live/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,FASHION TV HD
+
+http://aya02.livem3u8.me.totiptv.com/live/91fbba1d5af544ac92a2c64e5d177e9d.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+#EXTINF:-1,Sky News HD
+
+http://aya02.livem3u8.me.totiptv.com/live/31b003ab7e7749a798fe00424e3dd9ff.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,MSNBC HD
+
+http://aya02.livem3u8.me.totiptv.com/live/7f2989e3f87e4efdb36bac56b64dca62.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,France 24
+
+http://aya02.livem3u8.me.totiptv.com/live/82c764aa2d7f42579348b8717cb5b9a4.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+#EXTINF:-1,Edge HD
+
+http://aya02.livem3u8.me.totiptv.com/live/3764586b28544a0fa379b1d4e400c100.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
+
+#EXTINF:-1,Syfy
+
+http://aya02.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8?bitrate=800&code=ae106e11b83cd655106616b889dc32c3
 #EXTINF:-1,nova sport
 http://w1.drundoo.com:1935/DrundooDVR/_definst_/smil:b0525ed5-1933-4408-9248-1569491c8448.smil/.m3u8
 #EXTINF:-1,Nova Sport_
