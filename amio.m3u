@@ -671,6 +671,36 @@ rtmp://31.220.0.134:1935/live playpath=b8r swfUrl=http://p.jwpcdn.com/6/8/jwplay
 rtmp://31.220.0.196:1935/live playpath=b11r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
 #EXTINF:-1,BEIN SPORTS HD12
 rtmp://31.220.0.194:1935/live playpath=b12r  swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
+#EXTINF:-1,Bein Sport 1 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b1575 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 2 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b2458 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 3 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b3356 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 4 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b4870 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 5 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b5441 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 6 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b6690 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 7 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b7377 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 8 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b8174 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 9 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b9195 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 10 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b10697 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 11 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b11405 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 12 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b12405 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 13 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b13925 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 14 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b14598 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/ 
+#EXTINF:-1,Bein Sport 15 HD 
+rtmpe://80.82.70.225:443/liveedge1 app=liveedge1 playpath=b15293 swfUrl=http://xuscacamusca.se/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://xuscacamusca.se/
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
