@@ -3,6 +3,8 @@
 http://257925-lh.akamaihd.net/ACC_hdflash_600@146109?bandwidthEstimationTest=true&v=3.0.3&fp=WIN%2011,9,900,170&r=OEXPU&g=RWAJHYXDAGTT
 #EXTINF:-1,Alwaad
 http://mediaserver3.stimme-der-hoffnung.de/hcname_iphone.m3u8
+#EXTINF:-1,Al Waad Tv
+rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
 #EXTINF:-1,ATV SAT
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
 #EXTINF:-1,ATTARIK
@@ -295,8 +297,6 @@ http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ON TV PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Panaroma Film
-http://4.31.30.145:9075
 #EXTINF:-1,AD ALOULA
 http://cdn-streamer2.magictvbox.com/40.m3u8
 #EXTINF:-1,AD DRAMA 
@@ -385,10 +385,6 @@ http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 http://livestream2.alarabiya.tv/files/hadath.m3u8
 #EXTINF:-1,Al Arabiya News
 http://livestream2.alarabiya.tv/files/mainarabia.m3u8
-#EXTINF:-1,AL HAYAT
-rtmp://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p
-#EXTINF:-1,Al Waad Tv
-rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
 #EXTINF:-1,Aljazeera Arabic
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.watcharab.com/tv/swf/aljazeera.swf pageUrl=http://www.elahmad.com/tv/Webtv/Arabian.htm swfVfy=true live=true timeout=60
 #EXTINF:-1,ALJAZEERA ARABIC
@@ -399,40 +395,32 @@ rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_do
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1,INFINITY TV
 rtsp://202.142.207.150:1935/live/liveinfinity1
-#EXTINF:-1,INFINITY TV
-rtsp://202.142.207.150:1935/live/liveinfinity1
-#EXTINF:-1,MTV Lubnan
-rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
-#EXTINF:-1,mbc action
-http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
 #EXTINF:-1,dubaitv
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,nilefamily
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily/livestream
-#EXTINF:-1,mbc4
-http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
 #EXTINF:-1,Dubai one
 http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
-#EXTINF:-1,STAR MOVIES
-rtmp://202.117.80.19/live//live2
 #EXTINF:-1,SAMIRA
-rtmp://iptv.web-medias.net/live playpath=samira_tv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/samira-tv-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â³Ø¸â€¦Ø¸Ù¹Ø·Â±Ø·Â©-Ø·Ú¾Ø¸Ù¹-Ø¸Ù¾Ø¸Ù¹-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_9afd80c5b.html
+rtmp://iptv.web-medias.net/live/samira_tv
 #EXTINF:-1,AD DRAMA
-rtmp://iptv.web-medias.net/live playpath=abu_dhabi_drama swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/abu-dhabi-drama-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â£Ø·Â¨Ø¸Ë†Ø·Â¸Ø·Â¨Ø¸Ù¹-Ø·Â¯Ø·Â±Ø·Â§Ø¸â€¦Ø·Â§-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_0924ddc86.html
+rtmp://iptv.web-medias.net/live/abu_dhabi_drama
 #EXTINF:-1,MBC3
-rtmp://iptv.web-medias.net/live playpath=mbc_3 swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/mbc-3-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â¥Ø¸â€¦Ø·Â¨Ø¸Ù¹Ø·Â³Ø¸Ù¹-3-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_43d5f93f1.html
+rtmp://iptv.web-medias.net/live/mbc_3
 #EXTINF:-1,MBC4
-rtmp://iptv.web-medias.net/live playpath=mbc_4 swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/mbc-4-en-direct-live-Ø·Â§Ø¸â€¦-Ø·Â¨Ø¸Ù¹-Ø·Â³Ø¸Ù¹-4-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_afae7466f.html
+rtmp://iptv.web-medias.net/live/mbc_4
 #EXTINF:-1,MBC MAX
-rtmp://iptv.web-medias.net/live playpath=mbc_max swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/mbc-max-en-direct-live-Ø·Â§Ø¸â€¦-Ø·Â¨Ø¸Ù¹-Ø·Â³Ø¸Ù¹-Ø¸â€¦Ø·Â§Ø¸Æ’Ø·Â³-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_0a915c1da.html
+rtmp://iptv.web-medias.net/live/mbc_max
+#EXTINF:-1,MBC Drama
+rtmp://iptv.web-medias.net/live/mbc_drama
 #EXTINF:-1,MBC BOLLYWOOD
-rtmp://iptv.web-medias.net/live playpath=mbc_bollywood swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/mbc-bollywood-en-direct-live-Ø·Â§Ø¸â€¦-Ø·Â¨Ø¸Ù¹-Ø·Â³Ø¸Ù¹-Ø·Â¨Ø¸Ë†Ø¸â€žØ¸Ù¹Ø¸Ë†Ø·Â¯-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_d84380d20.html
+rtmp://iptv.web-medias.net/live/mbc_bollywood
 #EXTINF:-1,AD TV1
 rtmp://abudhabitvRTMP.giniko.com:80/livepkgr/ playpath=abudhabitv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/abu-dhabi-aloula-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â£Ø·Â¨Ø¸Ë†Ø·Â¸Ø·Â¨Ø¸Ù¹-Ø·Â§Ø¸â€žØ·Â£Ø¸Ë†Ø¸â€žØ¸â€°-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_74ce36b1c.html
 #EXTINF:-1,ZEE AFLAM
-rtmp://iptv.web-medias.net/live playpath=zee_aflam swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â²Ø¸Ù¹-Ø·Â§Ø¸Ù¾Ø¸â€žØ·Â§Ø¸â€¦-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_c8fa1d2c1.html
+rtmp://iptv.web-medias.net/live/zee_aflam
 #EXTINF:-1,FOXMOVIES
-rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/fox-movies-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø¸Ù¾Ø¸Ë†Ø¸Æ’Ø·Â³-Ø¸â€¦Ø¸Ë†Ø¸Ù¾Ø¸Ù¹Ø·Â²-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_bb9ad992b.html
+rtmp://iptv.web-medias.net/live/fox_movies
 #EXTINF:-1,FMTV
 rtmp://fml.4120.gravlab.net/204120/ playpath=fmtv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/fm-tv-en-direct-live-Ø·Â§Ø¸Ù¾-Ø·Â§Ø¸â€¦-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_7120cf816.html
 #EXTINF:-1,MELODY DRAMA
@@ -440,199 +428,11 @@ rtmp://38.96.148.24/MelodyDrama playpath=MDrama swfUrl=http://www.web-medias.net
 #EXTINF:-1,MELODY HITS
 rtmp://38.96.148.24/MelodyHits/ playpath=MHits swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/melody-hits-hd-en-direct-live-Ø¸â€¦Ø¸Ù¹Ø¸â€žØ¸Ë†Ø·Â¯Ø¸Ù¹-Ø·Â£Ø·Ø›Ø·Â§Ø¸â€ Ø¸Ù¹-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_3a5c2deb8.html
 #EXTINF:-1,ALHAYAT SERIES
-rtmp://iptv.web-medias.net/live playpath=alhayat_series swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/al-hayat-series-en-direct-live-streaming-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â§Ø¸â€žØ·Â­Ø¸Ù¹Ø·Â§Ø·Â©-Ø¸â€¦Ø·Â³Ø¸â€žØ·Â³Ø¸â€žØ·Â§Ø·Ú¾-Ø·Â§Ø¸â€žØ¸â€¦Ø·ÂµØ·Â±Ø¸Ù¹Ø·Â©-video_98e184c04.html
+rtmp://iptv.web-medias.net/live/alhayat_series
 #EXTINF:-1,ALHAYAT CINEMA
-rtmp://iptv.web-medias.net/live playpath=alhayat_cinema swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/al-hayat-cinema-en-direct-live-streaming-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â§Ø¸â€žØ·Â­Ø¸Ù¹Ø·Â§Ø·Â©-Ø·Â³Ø¸Ù¹Ø¸â€ Ø¸â€¦Ø·Â§-Ø·Â§Ø¸â€žØ¸â€¦Ø·ÂµØ·Â±Ø¸Ù¹Ø·Â©-video_bcbf336e4.html
+rtmp://iptv.web-medias.net/live/alhayat_cinema
 #EXTINF:-1,ALHAYAT1
-rtmp://iptv.web-medias.net/live playpath=alhayat_1 swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/al-hayat-en-direct-live-streaming-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â§Ø¸â€žØ·Â­Ø¸Ù¹Ø·Â§Ø·Â©-Ø·Â¯Ø·Â±Ø·Â§Ø¸â€¦Ø·Â§-Ø·Â§Ø¸â€žØ¸â€¦Ø·ÂµØ·Â±Ø¸Ù¹Ø·Â©-video_d23102aa7.html
-#EXTINF:-1,ALMAYADEEN
-rtmp://almayadeen.rtsp.fms-01.visionip.tv/live/almayadeentv-almayadeen-live-16x9-SDq/ playpath=almayadeentv-almayadeen-live-16x9-SD swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/al-mayadeen-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â§Ø¸â€žØ¸â€¦Ø¸Ù¹Ø·Â§Ø·Â¯Ø¸Ù¹Ø¸â€ -Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_b0ad649b9.html
-#EXTINF:-1,ALMAGRIBIA
-rtmp://ca-edge-2.cdn2.streamago.tv:80/streamagoedge/1922?idutente=1922&idcanale=815&pwd= playpath=815 swfUrl=http://www.streamago.tv/inc/app/StreamVideo.swf live=1 pageUrl=http://www.streamago.tv/channel/815/default/iframe/
-#EXTINF:-1,ANNAHAR TV ALGERIE
-rtmp://87.98.155.194/live playpath=EnnaharTV swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/ennahar-tv-algerie-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â§Ø¸â€žØ¸â€ Ø¸â€¡Ø·Â§Ø·Â±-Ø·Ú¾Ø¸Ù¹-Ø¸Ù¾Ø¸Ù¹-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_062221e3e.html
-#EXTINF:-1,OSN First HD
-http://88.150.198.74/maroc65/maroc65/24.ch
-#EXTINF:-1,OSN Moies Action HD
-http://88.150.198.74/maroc65/maroc65/25.ch
-#EXTINF:-1,OSN Movies HD +2
-http://88.150.198.74/maroc65/maroc65/26.ch
-#EXTINF:-1,OSN Movies Premiere HD
-http://88.150.198.74/maroc65/maroc65/28.ch
-#EXTINF:-1,OSN Movies Comedy HD
-http://88.150.198.74/maroc65/maroc65/27.ch
-#EXTINF:-1,OSN Yahala Drama
-http://88.150.198.74/maroc65/maroc65/29.ch
-#EXTINF:-1,OSN Yahala HD +2
-http://88.150.198.74/maroc65/maroc65/30.ch
-#EXTINF:-1,OSN Yahala
-http://88.150.198.74/maroc65/maroc65/31.ch
-#EXTINF:-1,OSN Shabab
-http://88.150.198.74/maroc65/maroc65/32.ch
-#EXTINF:-1,ART Cinema
-http://88.150.198.74/maroc65/maroc65/33.ch
-#EXTINF:-1,ART Hekayat
-http://88.150.198.74/maroc65/maroc65/34.ch
-#EXTINF:-1,ART Hekayat 2
-http://88.150.198.74/maroc65/maroc65/35.ch
-#EXTINF:-1,AL JAZEERA ARABIC
-http://88.150.198.74/maroc65/maroc65/44.ch
-#EXTINF:-1,AL JAZEERA BALKAN
-http://88.150.198.74/maroc65/maroc65/45.ch
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-http://88.150.198.74/maroc65/maroc65/46.ch
-#EXTINF:-1,Nickelodeon
-http://88.150.198.74/maroc65/maroc65/47.ch
-#EXTINF:-1,Fox Life
-http://88.150.198.74/maroc65/maroc65/48.ch
-#EXTINF:-1,Animal_Planet
-http://88.150.198.74/maroc65/maroc65/49.ch
-#EXTINF:-1,TLC
-http://88.150.198.74/maroc65/maroc65/50.ch
-#EXTINF:-1,PINK FILM
-http://88.150.198.74/maroc65/maroc65/51.ch
-#EXTINF:-1,PINK PREMIUM
-http://88.150.198.74/maroc65/maroc65/52.ch
-#EXTINF:-1,PINK HORROR
-http://88.150.198.74/maroc65/maroc65/53.ch
-#EXTINF:-1,PINK MOVIES 2
-http://88.150.198.74/maroc65/maroc65/54.ch
-#EXTINF:-1,PINK MOVIES 3
-http://88.150.198.74/maroc65/maroc65/55.ch
-#EXTINF:-1,PINK ACTION 2
-http://88.150.198.74/maroc65/maroc65/56.ch
-#EXTINF:-1,PINK ACTION 3
-http://88.150.198.74/maroc65/maroc65/57.ch
-#EXTINF:-1,Orbit Cinema 2
-http://88.150.198.74/maroc65/maroc65/59.ch
-#EXTINF:-1,Orbit Cinema 1
-http://88.150.198.74/maroc65/maroc65/58.ch
-#EXTINF:-1,Orbit  Alyawm
-http://88.150.198.74/maroc65/maroc65/60.ch
-#EXTINF:-1,Orbit Fann
-http://88.150.198.74/maroc65/maroc65/61.ch
-#EXTINF:-1,Orbit Mmousalsalat
-http://88.150.198.74/maroc65/maroc65/62.ch
-#EXTINF:-1,Orbit Alsafwa
-http://88.150.198.74/maroc65/maroc65/63.ch
-#EXTINF:-1,Orbit MusicNow
-http://88.150.198.74/maroc65/maroc65/64.ch
-#EXTINF:-1,MBC 2
-http://88.150.198.74/maroc65/maroc65/37.ch
-#EXTINF:-1,MBC 1
-http://88.150.198.74/maroc65/maroc65/36.ch
-#EXTINF:-1,MBC3
-http://88.150.198.74/maroc65/maroc65/38.ch
-#EXTINF:-1,MBC 4
-http://88.150.198.74/maroc65/maroc65/39.ch
-#EXTINF:-1,MBC Action
-http://88.150.198.74/maroc65/maroc65/40.ch
-#EXTINF:-1,MBC Drama
-http://88.150.198.74/maroc65/maroc65/41.ch
-#EXTINF:-1,MBC Masr
-http://88.150.198.74/maroc65/maroc65/42.ch
-#EXTINF:-1,MBC MAX
-http://88.150.198.74/maroc65/maroc65/43.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/1.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/2.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/3.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/4.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/5.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/6.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/7.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/8.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/9.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/10.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/11.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/12.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/13.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/14.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/15.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/16.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/17.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/18.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/19.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/20.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/21.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/22.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/23.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/24.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/25.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/26.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/27.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/28.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/29.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/30.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/31.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/32.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/33.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/34.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/35.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/36.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/37.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/38.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/39.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/40.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/41.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/42.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/43.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/44.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/45.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/46.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/47.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/48.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/49.ch
-#EXTINF:-1,CHANNEL
-http://iptv4q:iptv4q@matchfree1to10.no-ip.net/50.ch
+rtmp://iptv.web-medias.net/live/alhayat_1
 #EXTINF:-1,OSN box office1
 http://212.68.33.139:8001
 #EXTINF:-1,OSN box office2
