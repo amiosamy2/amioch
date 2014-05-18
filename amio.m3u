@@ -226,7 +226,7 @@ http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&por
 #EXTINF:-1,Alola
 http://4.31.30.145:9084
 #EXTINF:-1,Aljazeera Documentary TV
-rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
 #EXTINF:-1,Al Jazeera Docu
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
 #EXTINF:-1,AlTahrir Tv PC Only
@@ -246,7 +246,7 @@ rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.stream
 #EXTINF:-1,Al Nahar +2
 rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,Al Nahar Drama
-rtmp://50.7.180.18/nahar1 playpath=alnahardrama.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnahardrama/
+rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
 #EXTINF:-1,Alhayat Cinema PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Alqahera Alyoum
@@ -320,25 +320,27 @@ rtmp://85.91.143.20/54682/54682.stream
 #EXTINF:-1,MAZZIKA ZOOM 
 rtmp://85.91.143.23/96533/96533.stream 
 #EXTINF:-1,MBC 3 
-rtmp://85.91.143.20/15678//15678.stream 
+rtmp://85.91.143.20/15678//15678.stream
+#EXTINF:-1,MBC3
+rtmp://iptv.web-medias.net/live/mbc_3
 #EXTINF:-1,MBC 4 
 rtmp://85.91.143.20/56278//56278.stream
 #EXTINF:-1,MBC4
 http://85.91.143.20:1935/56278/56278.stream/media_15212.m3u8
-#EXTINF:-1,MBC DRAMA 
-rtmp://85.91.143.20/96514/96514.stream 
-#EXTINF:-1,MBC BOLLYWOOD 
-rtmp://85.91.143.23/35657//35657.stream
-#EXTINF:-1,MBC3
-rtmp://iptv.web-medias.net/live/mbc_3
 #EXTINF:-1,MBC4
 rtmp://iptv.web-medias.net/live/mbc_4
 #EXTINF:-1,MBC MAX
 rtmp://iptv.web-medias.net/live/mbc_max
+#EXTINF:-1,MBC DRAMA 
+rtmp://85.91.143.20/96514/96514.stream 
 #EXTINF:-1,MBC Drama
 rtmp://iptv.web-medias.net/live/mbc_drama
+#EXTINF:-1,MBC BOLLYWOOD 
+rtmp://85.91.143.23/35657//35657.stream
 #EXTINF:-1,MBC BOLLYWOOD
 rtmp://iptv.web-medias.net/live/mbc_bollywood
+#EXTINF:-1,MBC BOLLYWOOD
+rtmp://206.190.129.12/live playpath=aflam4youddd?id=152675 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 conn=S:OK --live
 #EXTINF:-1,Mehwar PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Mehwar Drama
@@ -447,9 +449,11 @@ rtmp://85.91.143.21/15675//15675.stream
 rtmp://85.91.143.21/35428//35428.stream 
 #EXTINF:-1,BEIN SPORTS
 rtmp://85.91.143.23/23688// playpath=23688.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/bein_sport/0-582
-#EXTINF:-1,BEIN SPORTS ENG
+#EXTINF:-1,Bein Sport News
+rtmp://85.91.143.23/23688/ playpath=23688.stream swfUrl=http://tv.webactu-webtv.com/jwplayer1/jwplayer.flash.swf live=1 pageUrl=http://www.mytvonline.org/arabic-orient/Beinsports1-ar.html
+#EXTINF:-1,BEIN USA HD 720p
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-liveplaypath=beinsport_eng_4 swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/bein_us/0-519
-#EXTINF:-1,BEIN SPORTS SPA
+#EXTINF:-1,BEIN ESP
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live<playpath>beinsport_spa_4 <swfUrl>http://ezfilms.do.am/jw-premium/jwplayer.flash.swf <pageUrl>http://free-eg.com/index/bein_spa/0-518
 #EXTINF:-1,BEIN SPORTS HD1
 rtmp://31.220.0.134:1935/live playpath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490
@@ -571,8 +575,6 @@ rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/playe
 rtmp://89.248.172.239:443/share/live2-bipmr swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
 #EXTINF:-1,SportTV 3 / Benfica TV
 rtmp://80.82.70.239:443/share/live3-qszlx swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
-#EXTINF:-1,SportTV Live
-rtmp://89.248.162.212:443/share/live4-w04by swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live4-w04by
 #EXTINF:-1group-title=Documentary,ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1,Animal Planet
