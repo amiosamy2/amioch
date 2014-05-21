@@ -265,6 +265,8 @@ rtmp://iptv.web-medias.net/live/alhayat_series
 rtmp://iptv.web-medias.net/live/alhayat_cinema
 #EXTINF:-1,ALHAYAT1
 rtmp://iptv.web-medias.net/live/alhayat_1
+#EXTINF:-1,Alhaya TV
+rtmp://$OPT:rtmp-raw=rtmp://46.165.210.32:1935/live playpath=alhaya43?id=195970 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/alhaya43/1/500/400 conn=S:OK
 #EXTINF:-1,CAIRO CINEMA
 http://cdn-delay1.magictvbox.com/1.m3u8
 #EXTINF:-1,CAIRO DRAMA
@@ -581,6 +583,50 @@ http://88.150.198.74/Amir/9685/48.ch
 http://88.150.198.74/Amir/9685/50.ch
 #EXTINF:-1,Fox Life
 http://88.150.198.74/Amir/9685/49.ch
+#EXTINF:-1,BEIN SPORTS
+rtmp://85.91.143.23/23688/23688.stream
+#EXTINF:-1,NATIONAL GEOGRAPHIC ABU DHABI
+rtmp://85.91.143.23/11667/11667.stream
+#EXTINF:-1,2M
+rtmp://85.91.143.22/06551//06551.stream
+#EXTINF:-1,ARRIADIA
+rtmp://85.91.143.20/25813//25813.stream
+#EXTINF:-1,DREAM 1
+rtmp://85.91.143.23/87521//87521.stream
+#EXTINF:-1,MBC 3
+rtmp://85.91.143.20/15678//15678.stream
+#EXTINF:-1,MBC 4
+rtmp://85.91.143.20/56278//56278.stream
+#EXTINF:-1,MBC DRAMA
+rtmp://85.91.143.20/96514/96514.stream
+#EXTINF:-1,MBC BOLLYWOOD
+rtmp://85.91.143.23/35657//35657.stream
+#EXTINF:-1,TV5 MONDE EUROPE
+rtmp://85.91.143.22/90457/90457.stream
+#EXTINF:-1,AD SPORTS 1
+rtmp://85.91.143.21/15675//15675.stream
+#EXTINF:-1,AD SPORTS 2
+rtmp://85.91.143.21/35428//35428.stream
+#EXTINF:-1,NILE SPORT
+rtmp://85.91.143.21/79248//79248.stream
+#EXTINF:-1,AL MAYADEEN
+rtmp://85.91.143.20/57921/57921.stream
+#EXTINF:-1,MTV
+rtmp://85.91.143.20/54682/54682.stream
+#EXTINF:-1,ASHARQIYA DRAMA
+rtmp://85.91.143.21/22356/22356.stream
+#EXTINF:-1,AL RAI
+rtmp://85.91.143.22/58130/58130.stream
+#EXTINF:-1,JORDAN TV
+rtmp://85.91.143.22/47910/47910.stream
+#EXTINF:-1,MAZZIKA ZOOM
+rtmp://85.91.143.23/96533/96533.stream
+#EXTINF:-1,AD DRAMA
+rtmp://85.91.143.23/58891/58891.stream
+#EXTINF:-1,SPACE TOON
+rtmp://85.91.143.21/35985/35985.stream
+#EXTINF:-1,ASHARQIYA
+rtmp://85.91.143.21/22356/22356.stream
 #EXTINF:-1 group-title=Sport,ALAHLY PC Only
 http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,AL AHLY TV
@@ -771,6 +817,18 @@ mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
 rtmp://206.190.139.28/live playpath=ssfoxcrime?id=12570 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ssfoxcrime/1/900/64 Conn=S:OK
 #EXTINF:-1,AXN
 rtmp://46.28.53.18/live playpath=ef47axn?id=12795 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ef47axn/1/630/440 Conn=S:OK
+#EXTINF:-1,Movie Gold HD
+http://tvhappyhd.homepc.it:1111/
+#EXTINF:-1,Atv HD
+http://tvhappyhd.homepc.it:2222/
+#EXTINF:-1,Show HD
+http://tvhappyhd.homepc.it:3333/
+#EXTINF:-1,Fox HD
+http://tvhappyhd.homepc.it:4444/
+#EXTINF:-1,Star HD
+http://tvhappyhd.homepc.it:5555/
+#EXTINF:-1,KanalD HD
+http://tvhappyhd.homepc.it:6666/
 #EXTINF:-1,Sky Movies Action
 rtmp://198.50.226.53:1935/send/_definst_/skyaction
 #EXTINF:-1,Sky Movies Greats
