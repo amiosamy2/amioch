@@ -11,8 +11,6 @@ http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
 http://cdn-streamer2.magictvbox.com/43.m3u8
 #EXTINF:-1,ABNSAT
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
-#EXTINF:-1,ABNSAT PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.71&channel=ABN_Med&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Alfady TV
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Al Hayat
@@ -21,20 +19,14 @@ http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 #EXTINF:-1,ALHAYAT 2
 http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:-1,AlMukhales PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.150&channel=AlMukhales_LR&port=2077&mode=3&user=ntp33dqbxmaxijzixt5tdo45&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Alkarma TV US
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
 #EXTINF:-1,Alkarma TV AU
 rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
 #EXTINF:-1,Alkarma TV ME
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
-#EXTINF:-1,Alkarma TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlKarma_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Aghapy TV
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Aghapy TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Aghapy_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Alkalema
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,LE ROYAUM SAT
@@ -45,8 +37,6 @@ http://cdn-streamer2.magictvbox.com/58.m3u8
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
 #EXTINF:-1,CTV
 http://cdn-streamer2.magictvbox.com/32.m3u8
-#EXTINF:-1,CTV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CTVEgypt_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,CYC
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
 #EXTINF:-1,CYC
@@ -81,8 +71,6 @@ http://cdn-streamer2.magictvbox.com/33.m3u8
 rtmp://cp45648.live.edgefcs.net/live/T01587-3@58798
 #EXTINF:-1,Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:-1,Kingdom TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMalakot_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,KDEC
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,JCTV
@@ -91,8 +79,6 @@ http://ooyalahd2-f.akamaihd.net/i/tbn03_delivery@120260/master.m3u8
 rtmp://stream.s15.mediaserve.com/coptictvlive/livestream
 #EXTINF:-1,Miracle TV
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
-#EXTINF:-1,Miracle TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Miracle_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,New Life Egypt
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
 #EXTINF:-1,Noursat AlShabab
@@ -219,100 +205,66 @@ http://hd2.lsops.net/live/skynewsi_en_hls.smil/playlist.m3u8
 mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9MjAxMzEyMDkxNzA4MjMmZGlnZXN0PWNlYWMyOTQ5YjcyMjk1N2ZlZGRkNzcyOTRhMGFjMWQw
 #EXTINF:-1,Sky News Arabia
 http://hd7.lsops.net/live/skynewsi_ar_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title=Arabic,AlMasria PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlMasriyah_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Al Thania PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlThanya_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Alola
+#EXTINF:-1 group-title=Arabic,Alola
 http://4.31.30.145:9084
 #EXTINF:-1,Aljazeera Documentary TV
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
 #EXTINF:-1,Al Jazeera Docu
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
-#EXTINF:-1,AlTahrir Tv PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Tahrir_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,ALQAHIRA WA NASS 2
 http://cdn-streamer1.magictvbox.com/live/10170.stream/chunklist.m3u8
 #EXTINF:-1,ANNAHAR
 http://cdn-delay1.magictvbox.com/5.m3u8
-#EXTINF:-1,ANNAHAR DRAMA
-http://cdn-delay1.magictvbox.com/11.m3u8
 #EXTINF:-1,ANNAHAR
 http://cdn-streamer1.magictvbox.com/live/10150.stream/chunklist.m3u8
-#EXTINF:-1,ANNAHAR DRAMA
-http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
 #EXTINF:-1,Al Nahar
 rtmp://50.7.180.18/nahar1 playpath=nahar1.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,Al Nahar +2
 rtmp://50.7.180.18/nahar1/alnahar2.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/Alnahar/
+#EXTINF:-1,ANNAHAR DRAMA
+http://cdn-delay1.magictvbox.com/11.m3u8
+#EXTINF:-1,ANNAHAR DRAMA
+http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
 #EXTINF:-1,Al Nahar Drama
 rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
-#EXTINF:-1,Alhayat Cinema PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlHayatCinema_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Alqahera Alyoum
-rtmp://471574690.e.541833257.r.w6cdn.com/541833257/_definst_//mp4:freeegeYSbQLHNsFZa
+rtmp://471574690.e.541833257.r.w6cdn.com/541833257/_definst_/ playpath=mp4:onlyyouonyouc1DQyGRod0n9 swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/connect/0-569
 #EXTINF:-1,AD ALOULA
 http://cdn-streamer2.magictvbox.com/40.m3u8
-#EXTINF:-1,AD TV1
-rtmp://abudhabitvRTMP.giniko.com:80/livepkgr/ playpath=abudhabitv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/abu-dhabi-aloula-en-direct-live-Ø¸â€šØ¸â€ Ø·Â§Ø·Â©-Ø·Â£Ø·Â¨Ø¸Ë†Ø·Â¸Ø·Â¨Ø¸Ù¹-Ø·Â§Ø¸â€žØ·Â£Ø¸Ë†Ø¸â€žØ¸â€°-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_74ce36b1c.html
-#EXTINF:-1,AD DRAMA 
-rtmp://85.91.143.23/58891/58891.stream
 #EXTINF:-1,AD DRAMA
 rtmp://iptv.web-medias.net/live/abu_dhabi_drama
-#EXTINF:-1,ALHAYAT SERIES
-rtmp://iptv.web-medias.net/live/alhayat_series
-#EXTINF:-1,ALHAYAT CINEMA
-rtmp://iptv.web-medias.net/live/alhayat_cinema
-#EXTINF:-1,ALHAYAT1
-rtmp://iptv.web-medias.net/live/alhayat_1
 #EXTINF:-1,Alhaya TV
-rtmp://$OPT:rtmp-raw=rtmp://46.165.210.32:1935/live playpath=alhaya43?id=195970 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/alhaya43/1/500/400 conn=S:OK
+rtmp://46.165.210.32:1935/live playpath=alhaya43?id=195970 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/alhaya43/1/500/400 conn=S:OK
 #EXTINF:-1,CAIRO CINEMA
 http://cdn-delay1.magictvbox.com/1.m3u8
 #EXTINF:-1,CAIRO DRAMA
 http://cdn-delay1.magictvbox.com/3.m3u8
-#EXTINF:-1,Cairo Cinema PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=CairoCinema_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,CBC DRAMA
 http://cdn-delay1.magictvbox.com/6.m3u8
 #EXTINF:-1,CBC
 http://cdn-delay1.magictvbox.com/13.m3u8
 #EXTINF:-1,CBC
 http://cdn-streamer1.magictvbox.com/live/10148.stream/chunklist.m3u8
-#EXTINF:-1,CBC DRAMA
-http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8
 #EXTINF:-1,CBC
 http://iphone-streaming.ustream.tv/ustreamVideo/8707800/streams/live/playlist.m3u8
 #EXTINF:-1,CBC +2
 http://iphone-streaming.ustream.tv/ustreamVideo/12794820/streams/live/playlist.m3u8
+#EXTINF:-1,CBC DRAMA
+http://cdn-streamer1.magictvbox.com/live/10149.stream/chunklist.m3u8
 #EXTINF:-1,CBC Sofra
 rtmp://41.196.200.11:9900/live/ playpath=ssoofra.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/cbc_sofra/0-557
 #EXTINF:-1,DREAM 1 
-rtmp://85.91.143.23/87521//87521.stream 
-#EXTINF:-1,Dream 1 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream1_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Dream 2 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=Dream2_High&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Dubai
-http://dmilivedubaitv.http.internapcdn.net/dmiLiveDubaiTV/dubaiTVLive130503.m3u8
+rtmp://85.91.143.23/87521//87521.stream
 #EXTINF:-1,dubaitv
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
-#EXTINF:-1,Dubai
-rtmp://dmiLiveDubaiTV.flash.internapcdn.net/dmiLiveDubaiTV/live_3 app=dmiLiveDubaiTV/live_3 playpath=dmilivedubaitv_4 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/jwplayer.flash.swf pageUrl=http://vod.dmi.ae/jwplayer/player16.php?width=630&height=461&channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,Dubai PC
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=DubaiEurope_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Dubai One
-http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 #EXTINF:-1,Fatafeat
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,Fatafeat (Alternative Source)
 http://212.179.77.42/live/livestream3/gmswf.m3u8
 #EXTINF:-1,FOXMOVIES
-rtmp://iptv.web-medias.net/live/fox_movies
+rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html
 #EXTINF:-1,FMTV
 rtmp://fml.4120.gravlab.net/204120/ playpath=fmtv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/fm-tv-en-direct-live-Ø·Â§Ø¸Ù¾-Ø·Â§Ø¸â€¦-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_7120cf816.html
-#EXTINF:-1,INFINITY TV
-rtsp://202.142.207.150:1935/live/liveinfinity1
 #EXTINF:-1,LCD AFLAM
 http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8
 #EXTINF:-1,METV
@@ -323,30 +275,22 @@ rtmp://85.91.143.20/54682/54682.stream
 rtmp://85.91.143.23/96533/96533.stream 
 #EXTINF:-1,MBC 3 
 rtmp://85.91.143.20/15678//15678.stream
-#EXTINF:-1,MBC3
-rtmp://iptv.web-medias.net/live/mbc_3
 #EXTINF:-1,MBC 4 
 rtmp://85.91.143.20/56278//56278.stream
 #EXTINF:-1,MBC4
 http://85.91.143.20:1935/56278/56278.stream/media_15212.m3u8
-#EXTINF:-1,MBC4
-rtmp://iptv.web-medias.net/live/mbc_4
 #EXTINF:-1,MBC MAX
-rtmp://iptv.web-medias.net/live/mbc_max
+rtmp://iptv.web-medias.net/live playpath=mbc_max  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html
 #EXTINF:-1,MBC DRAMA 
-rtmp://85.91.143.20/96514/96514.stream 
-#EXTINF:-1,MBC Drama
-rtmp://iptv.web-medias.net/live/mbc_drama
+rtmp://iptv.web-medias.net/live playpath=mbc_drama  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/mbc-drama-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_729b51e16.html
+#EXTINF:-1,MBC DRAMA PLUS
+rtmp://iptv.web-medias.net/live playpath=mbc_plus  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/mbc-drama-plus-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d9%84%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_b094a4888.html
 #EXTINF:-1,MBC BOLLYWOOD 
 rtmp://85.91.143.23/35657//35657.stream
 #EXTINF:-1,MBC BOLLYWOOD
-rtmp://iptv.web-medias.net/live/mbc_bollywood
+rtmp://92.222.18.168:8080/live/ playpath=mbc_bollywood  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/mbc-bollywood-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d8%a8%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_d84380d20.html
 #EXTINF:-1,MBC BOLLYWOOD
 rtmp://206.190.129.12/live playpath=aflam4youddd?id=152675 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 conn=S:OK --live
-#EXTINF:-1,Mehwar PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ElMehwar_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
-#EXTINF:-1,Mehwar Drama
-rtmp://livestreaming4.onlinehorizons.net/MehwarTVDRAMA playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://www.elmehwartv.com/1/
 #EXTINF:-1,Melody Aflam
 rtmp://38.96.148.24/MelodyAflam/MAflam_576p
 #EXTINF:-1,Melody Classic
@@ -355,12 +299,6 @@ rtmp://38.96.148.24/MelodyClassic/MClassic_576p
 rtmp://38.96.148.24/MelodyHits/MHits_576p
 #EXTINF:-1,Melody Arabia
 rtmp://38.96.148.24/MelodyArabia/MArabia_576p
-#EXTINF:-1,MELODY DRAMA
-rtmp://38.96.148.24/MelodyDrama playpath=MDrama swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/melody-drama-hd-en-direct-live-Ø¸â€¦Ø¸Ù¹Ø¸â€žØ¸Ë†Ø·Â¯Ø¸Ù¹-Ø·Â¯Ø·Â±Ø·Â§Ø¸â€¦Ø·Â§-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_393cfaf50.html
-#EXTINF:-1,MELODY HITS
-rtmp://38.96.148.24/MelodyHits/ playpath=MHits swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/melody-hits-hd-en-direct-live-Ø¸â€¦Ø¸Ù¹Ø¸â€žØ¸Ë†Ø·Â¯Ø¸Ù¹-Ø·Â£Ø·Ø›Ø·Â§Ø¸â€ Ø¸Ù¹-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_3a5c2deb8.html
-#EXTINF:-1,Moga Comedy 
-rtmp://198.105.219.132/live playpath=sfg9463?id=12649 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/sfg9463/1/600/450
 #EXTINF:-1,NAT Geo ABU DHABI 
 rtmp://85.91.143.23/11667/11667.stream
 #EXTINF:-1,National Geographic Abu Dhabi
@@ -371,20 +309,12 @@ http://cdn-delay1.magictvbox.com/14.m3u8
 rtmp://85.91.143.21/79248//79248.stream
 #EXTINF:-1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=cinema live=1
-#EXTINF:-1,Nile Cinma PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=drama live=1
-#EXTINF:-1,Nile Drama PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileCinema_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Nile Drama 2
 rtmp://tdsiptv.ddns.me/live playpath=ch132?code=w_0f8985c1ecbd254 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf pageUrl=http://www.livetv.tn/tv-137-3-4-NileDrama2.html
-#EXTINF:-1,Nile Drama 2 PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileDrama2_High&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Nile Comedy
 rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy live=1
-#EXTINF:-1,Nile Comedy PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=NileComedy_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,Nile Culture
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=culture live=1
 #EXTINF:-1,Nile Family
@@ -399,8 +329,6 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ON TV Live
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,ON TV PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=ONTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,ONTV
 http://cdn-delay1.magictvbox.com/10.m3u8
 #EXTINF:-1,OSN box office1
@@ -432,13 +360,13 @@ http://cdn-delay1.magictvbox.com/15.m3u8
 #EXTINF:-1,SPACE TOON 
 rtmp://85.91.143.21/35985/35985.stream
 #EXTINF:-1,SAMIRA
-rtmp://iptv.web-medias.net/live/samira_tv
+rtmp://37.187.40.209:8080/live/ playpath=samira_tv  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/samira-tv-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b3%d9%85%d9%8a%d8%b1%d8%a9-%d8%aa%d9%8a-%d9%81%d9%8a-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_9afd80c5b.html
 #EXTINF:-1,TIME COMEDY
 http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 #EXTINF:-1,TIME CINEMA
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 #EXTINF:-1,ZEE AFLAM
-rtmp://iptv.web-medias.net/live/zee_aflam
+rtmp://iptv.web-medias.net/live playpath=zee_aflam  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b2%d9%8a-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_c8fa1d2c1.html
 #EXTINF:-1,SMART MOVIES ACTION HD
 http://88.150.198.74/Amir/9685/113.ch
 #EXTINF:-1,SMART SPORT HD
@@ -619,8 +547,6 @@ rtmp://85.91.143.23/58891/58891.stream
 rtmp://85.91.143.21/35985/35985.stream
 #EXTINF:-1,ASHARQIYA
 rtmp://85.91.143.21/22356/22356.stream
-#EXTINF:-1 group-title=Sport,ALAHLY PC Only
-http://192.168.0.2:4500/channel.flv?server=38.99.146.69&channel=AlAhlyTV_Med&port=2077&mode=3&user=&session=c9e0ef6ffffa49c210887468e86ea428725055972c811cc2a98ed23944293f40
 #EXTINF:-1,AL AHLY TV
 http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
 #EXTINF:-1,Al Nahar Sports
