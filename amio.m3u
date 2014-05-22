@@ -554,7 +554,9 @@ rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.s
 #EXTINF:-1,AD SPORTS 1 
 rtmp://85.91.143.21/15675//15675.stream 
 #EXTINF:-1,AD SPORTS 2 
-rtmp://85.91.143.21/35428//35428.stream 
+rtmp://85.91.143.21/35428//35428.stream
+#EXTINF:-1,Astro Supersport1
+rtmp://fmaster.servep2p.com:1935/live/sport6.stream 
 #EXTINF:-1,BEIN SPORTS
 rtmp://85.91.143.23/23688// playpath=23688.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/bein_sport/0-582
 #EXTINF:-1,Bein Sport News
@@ -606,6 +608,8 @@ rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=ht
 #EXTINF:-1,Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,Eurosport 1
+rtmp://fmaster.servep2p.com:1935/live/sport4.stream
+#EXTINF:-1,Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490
 #EXTINF:-1,Eurosport 2
 rtmp://31.220.0.134:1935/live playpath=euro2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro2x&vw=620&vh=490
@@ -633,6 +637,10 @@ rtmp://203.144.138.114:1935/live/fox2
 rtmp://203.144.138.114:1935/live/fox3
 #EXTINF:-1,FOX Footy
 rtmp://203.144.138.114:1935/live/foxfooty
+#EXTINF:-1,FOX SPORTS
+rtmp://fmaster.servep2p.com:1935/live/sport1.stream
+#EXTINF:-1,FOX SPORTS PLUS
+rtmp://fmaster.servep2p.com:1935/live/sport3.stream
 #EXTINF:-1,SPEED
 rtmp://203.144.138.114:1935/live/speed
 #EXTINF:-1,Fox Sports
@@ -683,10 +691,10 @@ rtmp://31.220.0.104:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8
 rtmp://31.220.0.133:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490
 #EXTINF:-1,Sky Sport italia 3
 rtmp://31.220.0.103:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490
-#EXTINF:-1,Sportsnet World
-rtmp://31.220.0.134:1935/live playpath=dsee swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsd33ww&vw=620&vh=490
 #EXTINF:-1,STAR SPORTS
-rtmp://31.220.0.103:1935/live playpath=sdsh swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=sdsh&vw=620&vh=490
+rtmp://fmaster.servep2p.com:1935/live/sport2.stream
+#EXTINF:-1,SETANTA
+rtmp://fmaster.servep2p.com:1935/live/sport5.stream
 #EXTINF:-1,SportTV 1
 rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 #EXTINF:-1,SportTV 2
