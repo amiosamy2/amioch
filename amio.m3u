@@ -335,14 +335,6 @@ http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 #EXTINF:-1,ZEE AFLAM
 rtmp://iptv.web-medias.net/live playpath=zee_aflam  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b2%d9%8a-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_c8fa1d2c1.html
-#EXTINF:-1,Alfajer Palestine TV
-http://88.150.198.74/Amir/9685/195.ch
-#EXTINF:-1,Dubai Sports3
-http://88.150.198.74/Amir/9685/189.ch
-#EXTINF:-1,Nahar Sport
-http://88.150.198.74/Amir/9685/182.ch
-#EXTINF:-1,Iraqiya Sport
-http://88.150.198.74/Amir/9685/136.ch
 #EXTINF:-1,beINSPORT1
 http://88.150.198.74/Amir/9685/1.ch
 #EXTINF:-1,beINSPORT2
@@ -387,48 +379,74 @@ http://88.150.198.74/Amir/9685/62.ch
 http://88.150.198.74/Amir/9685/64.ch
 #EXTINF:-1,Orbit Alsafwa
 http://88.150.198.74/Amir/9685/63.ch
+#EXTINF:-1,EnnaharTV
+http://88.150.198.74/Amir/9685/232.ch
+#EXTINF:-1,Gulli
+http://88.150.198.74/Amir/9685/227.ch
+#EXTINF:-1,Alfajer Palestine TV
+http://88.150.198.74/Amir/9685/195.ch
+#EXTINF:-1,Dubai Sports3
+http://88.150.198.74/Amir/9685/189.ch
+#EXTINF:-1,Nahar Sport
+http://88.150.198.74/Amir/9685/182.ch
+#EXTINF:-1,Iraqiya Sport
+http://88.150.198.74/Amir/9685/136.ch
+#EXTINF:-1,CBC
+http://88.150.198.74/Amir/9685/217.ch
+#EXTINF:-1,Rotana Music
+http://88.150.198.74/Amir/9685/153.ch
+#EXTINF:-1,Rotana Clip
+http://88.150.198.74/Amir/9685/152.ch
 #EXTINF:-1,Rotana Aflam
 http://88.150.198.74/Amir/9685/71.ch
 #EXTINF:-1,Rotana Cinema
 http://88.150.198.74/Amir/9685/70.ch
 #EXTINF:-1,Rotana Classic
 http://88.150.198.74/Amir/9685/154.ch
+#EXTINF:-1,Rotana Masriya
+http://88.150.198.74/Amir/9685/155.ch
+#EXTINF:-1,Rotana Khalijiya
+http://88.150.198.74/Amir/9685/141.ch
+#EXTINF:-1,Nile Cinema
+http://88.150.198.74/Amir/9685/114.ch
+#EXTINF:-1,Nile Comedy
+http://88.150.198.74/Amir/9685/164.ch
+#EXTINF:-1,Nile Sport
+http://88.150.198.74/Amir/9685/247.ch
+#EXTINF:-1,Nile News
+http://88.150.198.74/Amir/9685/165.ch
+#EXTINF:-1,Cairo Film
+http://88.150.198.74/Amir/9685/168.ch
+#EXTINF:-1,Cairo Cinema
+http://88.150.198.74/Amir/9685/99.ch
+#EXTINF:-1,Cairo Drama
+http://88.150.198.74/Amir/9685/161.ch
 #EXTINF:-1,STAR CINEMA 1
 http://88.150.198.74/Amir/9685/90.ch
 #EXTINF:-1,STAR CINEMA 2
 http://88.150.198.74/Amir/9685/91.ch
-#EXTINF:-1,TokTok Cinema
-http://88.150.198.74/Amir/9685/160.ch
-#EXTINF:-1,Cairo Film
-http://88.150.198.74/Amir/9685/168.ch
-#EXTINF:-1,Nile Cinema
-http://88.150.198.74/Amir/9685/114.ch
-#EXTINF:-1,Cairo Cinema
-http://88.150.198.74/Amir/9685/99.ch
-#EXTINF:-1,SAMA CINEMA
-http://88.150.198.74/Amir/9685/92.ch
 #EXTINF:-1,PANORAMA CINEMA
 http://88.150.198.74/Amir/9685/93.ch
-#EXTINF:-1,LCD AFLAM
-http://88.150.198.74/Amir/9685/115.ch
-#EXTINF:-1,Taxi Elsahra
-http://88.150.198.74/Amir/9685/169.ch
-#EXTINF:-1,TIME COMEDY
-http://88.150.198.74/Amir/9685/123.ch
-#EXTINF:-1,Nile Comedy
-http://88.150.198.74/Amir/9685/164.ch
-#EXTINF:-1,Moga Comedy
-http://88.150.198.74/Amir/9685/66.ch
-#EXTINF:-1,Cairo Drama
-http://88.150.198.74/Amir/9685/161.ch
-#EXTINF:-1,MBC Drama
-http://88.150.198.74/Amir/9685/42.ch
-#EXTINF:-1,AD DRAMA
-http://88.150.198.74/Amir/9685/133.ch
 #EXTINF:-1,Panorama Drama
 http://88.150.198.74/Amir/9685/94.ch
 #EXTINF:-1,Panorama Drama 2
 http://88.150.198.74/Amir/9685/163.ch
+#EXTINF:-1,TokTok Cinema
+http://88.150.198.74/Amir/9685/160.ch
+#EXTINF:-1,TIME COMEDY
+http://88.150.198.74/Amir/9685/123.ch
+#EXTINF:-1,SAMA CINEMA
+http://88.150.198.74/Amir/9685/92.ch
+#EXTINF:-1,LCD AFLAM
+http://88.150.198.74/Amir/9685/115.ch
+#EXTINF:-1,Taxi Elsahra
+http://88.150.198.74/Amir/9685/169.ch
+#EXTINF:-1,Moga Comedy
+http://88.150.198.74/Amir/9685/66.ch
+#EXTINF:-1,MBC Drama
+http://88.150.198.74/Amir/9685/42.ch
+#EXTINF:-1,AD DRAMA
+http://88.150.198.74/Amir/9685/133.ch
 #EXTINF:-1,SYRIA DRAMA
 http://88.150.198.74/Amir/9685/96.ch
 #EXTINF:-1,NAHAR DRAMA
@@ -453,16 +471,6 @@ http://88.150.198.74/Amir/9685/174.ch
 http://88.150.198.74/Amir/9685/167.ch
 #EXTINF:-1,MAZZIKA ZOOM
 http://88.150.198.74/Amir/9685/132.ch
-#EXTINF:-1,Rotana Music
-http://88.150.198.74/Amir/9685/153.ch
-#EXTINF:-1,Rotana Clip
-http://88.150.198.74/Amir/9685/152.ch
-#EXTINF:-1,Rotana Khalijiya
-http://88.150.198.74/Amir/9685/141.ch
-#EXTINF:-1,Rotana Masriya
-http://88.150.198.74/Amir/9685/155.ch
-#EXTINF:-1,Nile News
-http://88.150.198.74/Amir/9685/165.ch
 #EXTINF:-1,Alarabiya
 http://88.150.198.74/Amir/9685/177.ch
 #EXTINF:-1,Al Alam
@@ -475,8 +483,6 @@ http://88.150.198.74/Amir/9685/175.ch
 http://88.150.198.74/Amir/9685/176.ch
 #EXTINF:-1,AL JAZEERA BALKAN
 http://88.150.198.74/Amir/9685/46.ch
-#EXTINF:-1,BBC Arabic
-http://88.150.198.74/Amir/9685/166.ch
 #EXTINF:-1,Russia Today
 http://88.150.198.74/Amir/9685/188.ch
 #EXTINF:-1,France 24
@@ -525,8 +531,6 @@ http://88.150.198.74/Amir/9685/147.ch
 http://88.150.198.74/Amir/9685/139.ch
 #EXTINF:-1,Iqra America
 http://88.150.198.74/Amir/9685/145.ch
-#EXTINF:-1,AD NAT Geo
-http://88.150.198.74/Amir/9685/135.ch
 #EXTINF:-1,AL JAZEERA DOCUMENTARY
 http://88.150.198.74/Amir/9685/47.ch
 #EXTINF:-1,Alrisalah
@@ -543,6 +547,10 @@ http://88.150.198.74/Amir/9685/190.ch
 http://88.150.198.74/Amir/9685/172.ch
 #EXTINF:-1,Dubai Sama
 http://88.150.198.74/Amir/9685/173.ch
+#EXTINF:-1,Dubai Sport 1
+http://88.150.198.74/Amir/9685/251.ch
+#EXTINF:-1,Dubai Sport 2
+http://88.150.198.74/Amir/9685/252.ch
 #EXTINF:-1,Alforat TV
 http://88.150.198.74/Amir/9685/181.ch
 #EXTINF:-1,qatar1
@@ -829,42 +837,6 @@ mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
 rtmp://206.190.139.28/live playpath=ssfoxcrime?id=12570 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ssfoxcrime/1/900/64 Conn=S:OK
 #EXTINF:-1,AXN
 rtmp://46.28.53.18/live playpath=ef47axn?id=12795 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ef47axn/1/630/440 Conn=S:OK
-#EXTINF:-1,Movie Gold HD
-http://tvhappyhd.homepc.it:1111/
-#EXTINF:-1,Atv HD
-http://tvhappyhd.homepc.it:2222/
-#EXTINF:-1,Show HD
-http://tvhappyhd.homepc.it:3333/
-#EXTINF:-1,Fox HD
-http://tvhappyhd.homepc.it:4444/
-#EXTINF:-1,Star HD
-http://tvhappyhd.homepc.it:5555/
-#EXTINF:-1,KanalD HD
-http://tvhappyhd.homepc.it:6666/
-#EXTINF:-1,Sky Action 
-rtmp://ovh2.is-leet.com/ntv1/8_Sky_Action.stream 
-#EXTINF:-1,Sky Comedy 
-rtmp://ovh2.is-leet.com/ntv1/9_Sky_Comedy.stream 
-#EXTINF:-1,Sky Disney 
-rtmp://ovh2.is-leet.com/ntv2/298_Sky_Disney.stream 
-#EXTINF:-1,Sky Drama 
-rtmp://ovh2.is-leet.com/ntv1/26_Sky_Drama.stream 
-#EXTINF:-1,Sky Family 
-rtmp://ovh2.is-leet.com/ntv1/27_Sky_Family.stream 
-#EXTINF:-1,Sky Modern Greats 
-rtmp://ovh2.is-leet.com/ntv2/29_Sky_Modern_Greats.stream 
-#EXTINF:-1,Sky Premiere 
-rtmp://ovh2.is-leet.com/ntv1/30_Sky_Premiere.stream 
-#EXTINF:-1,Sky SciFi&Horror 
-rtmp://ovh2.is-leet.com/ntv1/10_Sky_Sci-Fi_and_Horror.stream 
-#EXTINF:-1,Sky Select 
-rtmp://ovh2.is-leet.com/ntv2/93_Sky_Select.stream 
-#EXTINF:-1,Sky Showcase 
-rtmp://ovh2.is-leet.com/ntv2/33_Sky_Showcase.stream 
-#EXTINF:-1,Sky Thriller 
-rtmp://ovh2.is-leet.com/ntv1/11_Sky_Thriller.stream 
-#EXTINF:-1,Comedy Central 
-rtmp://ovh2.is-leet.com/ntv2/101_Comedy_Central.stream
 #EXTINF:-1,Sky Movies Greats
 rtmp://31.220.0.103:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490
 #EXTINF:-1,Sky Movies SCI FI
@@ -1003,6 +975,8 @@ rtmpe://watch.playfooty.tv/live playpath=fx1569 swfUrl=http://www.playfooty.tv/p
 rtmpe://watch.playfooty.tv/live playpath=fox1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fox1569&vw=600&vh=430
 #EXTINF:-1,FOX 5
 rtmpe://198.24.172.218:1935/goLive playpath=fox.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
+#EXTINF:-1,FOX HD
+http://tvth.m3u8.cdn-live.com/app/tvth/2e0e4b05aa6e428593f3b45b710045b7.m3u8
 #EXTINF:-1,FX
 rtmpe://198.24.172.218:1935/goLive playpath=fx.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,HBO
@@ -1061,40 +1035,6 @@ rtmpe://198.24.172.218:1935/goLive playpath=usa.stream swfUrl=http://b1701425510
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,USA Network
 rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430
-#EXTINF:-1,Sky1
-rtmp://ovh2.is-leet.com/ntv2/7_Sky_1.stream
-#EXTINF:-1,Sky2
-rtmp://ovh2.is-leet.com/ntv2/40_Sky_2.stream
-#EXTINF:-1,Gold
-rtmp://ovh2.is-leet.com/ntv2/79_Gold.stream
-#EXTINF:-1,Yesterday
-rtmp://ovh2.is-leet.com/ntv2/80_Yesterday.stream
-#EXTINF:-1,Alibi
-rtmp://ovh2.is-leet.com/ntv2/84_Alibi.stream
-#EXTINF:-1,SkyAtlantic
-rtmp://ovh2.is-leet.com/ntv2/94_Sky_Atlantic.stream
-#EXTINF:-1,Home
-rtmp://ovh2.is-leet.com/ntv2/99_Home.stream
-#EXTINF:-1,Eden
-rtmp://ovh2.is-leet.com/ntv2/100_Eden.stream
-#EXTINF:-1,Fox
-rtmp://ovh2.is-leet.com/ntv2/102_Fox.stream
-#EXTINF:-1,More4
-rtmp://ovh2.is-leet.com/ntv2/108_More_4.stream
-#EXTINF:-1,E4
-rtmp://ovh2.is-leet.com/ntv2/106_E4.stream
-#EXTINF:-1,5Star
-rtmp://ovh2.is-leet.com/ntv2/125_5_Star.stream
-#EXTINF:-1,BBCTwo
-rtmp://ovh2.is-leet.com/ntv2/5_BBC_Two.stream
-#EXTINF:-1,ITV4
-rtmp://ovh2.is-leet.com/ntv2/59_ITV_4.stream
-#EXTINF:-1,Channel4
-rtmp://ovh2.is-leet.com/ntv2/65_Channel_4.stream
-#EXTINF:-1,BBCOne
-rtmp://ovh2.is-leet.com/ntv2/4_BBC_One.stream
-#EXTINF:-1,5USA
-rtmp://ovh2.is-leet.com/ntv2/61_5_USA.stream
 #EXTINF:-1 group-title=Spain,CANAL+ FUTBOL
 rtmp://50.7.189.66/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,Canal+ Liga de Campeones
