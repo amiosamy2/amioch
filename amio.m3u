@@ -657,8 +657,12 @@ rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.s
 rtmp://85.91.143.21/15675//15675.stream 
 #EXTINF:-1,AD SPORTS 2 
 rtmp://85.91.143.21/35428//35428.stream
-#EXTINF:-1,Astro Supersport1
-rtmp://fmaster.servep2p.com:1935/live/sport6.stream 
+#EXTINF:-1,Astro Supersport 1
+http://122.155.203.9:8081/get/assp1/playlist.m3u8
+#EXTINF:-1,Astro Supersport 2
+http://122.155.203.9:8081/get/assp2/playlist.m3u8
+#EXTINF:-1,Astro Supersport 3
+http://122.155.203.9:8081/get/assp3/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS
 rtmp://85.91.143.23/23688// playpath=23688.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/bein_sport/0-582
 #EXTINF:-1,BEIN SPORTS HD1
@@ -681,38 +685,32 @@ rtmp://31.220.0.134:1935/live playpath=b8r swfUrl=http://p.jwpcdn.com/6/8/jwplay
 rtmp://31.220.0.196:1935/live playpath=b11r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
 #EXTINF:-1,BEIN SPORTS HD12
 rtmp://31.220.0.194:1935/live playpath=b12r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=b11r&vw=620&vh=490  live=1
-#EXTINF:-1,beIN SPORT 1HD
-rtmp://ovh4.is-leet.com:1935/source5 playpath=beINSPORT1
-#EXTINF:-1,beIN SPORT 2HD
-rtmp://ovh4.is-leet.com:1935/source5 playpath=beINSPORT2
 #EXTINF:-1,Bein sport1
 http://202.75.23.37:8800/live/ch18/01.m3u8
 #EXTINF:-1,Bein sports2
 http://202.75.23.37:8800/live/ch19/01.m3u8
-#EXTINF:-1,Bein sports 1
-rtmp://ovh2.is-leet.com/ntv1/214_beIN_SPORTS_1.stream 
-#EXTINF:-1,Bein sports 2
-rtmp://ovh2.is-leet.com/ntv1/215_beIN_SPORTS_2.stream 
-#EXTINF:-1,Bein sports 3
-rtmp://ovh2.is-leet.com/ntv1/216_beIN_SPORTS_3.stream 
-#EXTINF:-1,Bein sports 4
-rtmp://ovh2.is-leet.com/ntv1/217_beIN_SPORTS_4.stream
-#EXTINF:-1,bt1 HD
-rtmp://ovh2.is-leet.com:1935/steal2 playpath=bt1  
-#EXTINF:-1,bt2 HD
-rtmp://ovh2.is-leet.com:1935/steal2 playpath=bt2 
+#EXTINF‬:-1,Bein1 
+http://cms.prosatiptv.com/getChannel?channelId=9&sn=12576902&byPass=987 
+#EXTINF:-1,Bein2 
+http://cms.prosatiptv.com/getChannel?channelId=10&sn=12576902&byPass=987 
+#EXTINF:-1,Bein3 
+http://cms.prosatiptv.com/getChannel?channelId=11&sn=12576902&byPass=987 
+#EXTINF:-1,Bein4 
+http://cms.prosatiptv.com/getChannel?channelId=12&sn=12576902&byPass=987 
+#EXTINF:-1,Bein5 
+http://cms.prosatiptv.com/getChannel?channelId=13&sn=12576902&byPass=987 
+#EXTINF:-1,Bein6 
+http://cms.prosatiptv.com/getChannel?channelId=14&sn=12576902&byPass=987 
+#EXTINF:-1,Bein7 
+http://cms.prosatiptv.com/getChannel?channelId=15&sn=12576902&byPass=987
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
 rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
-#EXTINF:-1,CANAL+ SPORT HD
-rtmp://ovh4.is-leet.com:1935/source5 playpath=CANAL+SPORT
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,Eurosport 1
-rtmp://fmaster.servep2p.com:1935/live/sport4.stream
 #EXTINF:-1,Eurosport 1
 rtmp://31.220.0.134:1935/live playpath=euro1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=euro1x&vw=620&vh=490
 #EXTINF:-1,Eurosport 2
@@ -725,22 +723,6 @@ rtmp://31.220.0.82:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwpla
 rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=1 pageUrl=http://thecdn.04stream.com/
 #EXTINF:-1,ESPN2
 rtmp://31.220.0.82:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490
-#EXTINF:-1,FOX Sport 1
-rtmp://203.144.138.114:1935/live/fox1
-#EXTINF:-1,FOX Sport 2
-rtmp://203.144.138.114:1935/live/fox2
-#EXTINF:-1,FOX Sport 3
-rtmp://203.144.138.114:1935/live/fox3
-#EXTINF:-1,FOX Footy
-rtmp://203.144.138.114:1935/live/foxfooty
-#EXTINF:-1,FOX SPORTS
-rtmp://fmaster.servep2p.com:1935/live/sport1.stream
-#EXTINF:-1,FOX SPORTS PLUS
-rtmp://fmaster.servep2p.com:1935/live/sport3.stream
-#EXTINF:-1,SPEED
-rtmp://203.144.138.114:1935/live/speed
-#EXTINF:-1,Fox Sports
-rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1,FOX Sports
 rtmp://31.220.0.104:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
 #EXTINF:-1,Nile Sport
@@ -755,20 +737,6 @@ rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com
 rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
-#EXTINF:-1,NFL
-rtmp://46.246.29.144:1935/stream/ playpath=gdfhdfytty.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=k554o5p5l5o5t4n42636n244w274u2s23424v2v2x2t22394&adx=&stream=g5u2n574n5e4a4x2j524u2h55474c4n2m5k5c4c444d4x4262676t22403w234w2s2p2s284z2z32303y384m5n5p5m5a4s426y5i2l5c4x5d484u546n2p2n4s2x4n51634t2y3z28494u264r2y28454h50323h5s2d484m5l513039444v24403k5e45444l594w2l2s2t2343434t226c4n424r2&sooor=MzM=&str=is&idom=firstrownow.eu live=1 timeout=10
-#EXTINF:-1,Sky Bundesliga HD1 
-rtmp://ovh4.is-leet.com:1935/source4 playpath=SkyBundesligaHD1  
-#EXTINF:-1,Sky Sport DE 1HD
-rtmp://ovh4.is-leet.com:1935/source4 playpath=SkySportDE1  
-#EXTINF:-1,Sky Sports 1HD
-rtmp://ovh2.is-leet.com:1935/ntv1 playpath=12_Sky_Sports_1.stream  
-#EXTINF:-1,Sky Sports 2HD
-rtmp://ovh2.is-leet.com:1935/ntv1 playpath=39_Sky_Sports_2.stream  
-#EXTINF:-1,Sky Sports 3HD
-rtmp://ovh2.is-leet.com:1935/ntv1 playpath=13_Sky_Sports_3.stream  
-#EXTINF:-1,Sky Sports 4HD
-rtmp://ovh2.is-leet.com:1935/ntv1 playpath=51_Sky_Sports_4.stream  
 #EXTINF:-1,Sky Sports 1
 rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
 #EXTINF:-1,Sky Sports 2
@@ -799,14 +767,10 @@ rtmp://31.220.0.104:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8
 rtmp://31.220.0.133:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490
 #EXTINF:-1,Sky Sport italia 3
 rtmp://31.220.0.103:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490
-#EXTINF:-1,STAR SPORTS
-rtmp://fmaster.servep2p.com:1935/live/sport2.stream
 #EXTINF:-1,Star Sports 1
 rtmp://206.190.139.28/live playpath=s247estar1?id=13667 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/s247estar1/2/600/420 conn=S:OK
 #EXTINF:-1,Star Sports 4
 rtmp://206.190.151.24/live playpath=esponaaas?id=13361 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/esponaaas/2/600/420 conn=S:OK
-#EXTINF:-1,SETANTA
-rtmp://fmaster.servep2p.com:1935/live/sport5.stream
 #EXTINF:-1,SportTV 1
 rtmp://89.248.168.130:443/share/live1-rbi6c swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c
 #EXTINF:-1,SportTV 2
@@ -815,60 +779,8 @@ rtmp://89.248.172.239:443/share/live2-bipmr swfUrl=http://adbuck.cc/player/playe
 rtmp://80.82.70.239:443/share/live3-qszlx swfUrl=http://adbuck.cc/player/player2.swf pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #EXTINF:-1group-title=Documentary,ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://iphone-streaming.ustream.tv/ustreamVideo/13027422/streams/live/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://178.49.132.73/streaming/animalplanet/tvrec/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-rtmp://s01.webport.tv/promo/mtv pageURL=http://www.hqtv.biz swfUrl=http://www.hqtv.biz/1/wp-content/themes/hqtv/player/jwplayer.flash.swf live=true timeout=10
-#EXTINF:-1,ANIMAL PLANET HD
-http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 rtmp://s01.webport.tv/promo/mtv live=2
-#EXTINF:-1,Discovery Word
-http://178.49.132.73/streaming/discoveryworld/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery science
-http://178.49.132.73/streaming/discoveryscience/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery ID
-http://178.49.132.73/streaming/investigationdiscovery/tvrec/playlist.m3u8
-#EXTINF:-1,Discovery ID
-http://iphone-streaming.ustream.tv/ustreamVideo/14315001/streams/live/playlist.m3u8
-#EXTINF:-1,Nat Wild
-rtmp://27.254.84.3:1935/live/rdddis.stream
-#EXTINF:-1,Discovery Science HD
-rtsp://173.193.20.136:1935/mtv/130hd
-#EXTINF:-1,DISC. SCIENCE
-http://212.33.237.113:8047/
-#EXTINF:-1,DISCOVERY WORLD HD
-http://27.254.84.3:1935/live/rdddis.stream/zgs.m3u8
-#EXTINF:-1,Natgeo
-http://178.49.132.73/streaming/natgeo/tvrec/playlist.m3u8
-#EXTINF:-1,Natgeo Wild
-http://178.49.132.73/streaming/nat_geo_wild/tvrec/playlist.m3u8
-#EXTINF:-1,Travel & Adventure
-http://178.49.132.73/streaming/traveladventure/tvrec/playlist.m3u8
-#EXTINF:-1,Outdoor Channel
-rtmp://lm02.everyon.tv:1935/ptv2/pld613
-#EXTINF:-1,ViasatEXPLORER
-http://91.224.16.9:43211/udp/239.100.0.166:1234
-#EXTINF:-1,Viasat Nature
-http://91.224.16.9:43211/udp/239.100.0.168:1234
-#EXTINF:-1,National Geographic
-http://91.224.16.9:43211/udp/239.100.0.191:1234
-#EXTINF:-1,National Geographic WILD
-http://91.224.16.9:43211/udp/239.100.0.192:1234
-#EXTINF:-1,Discovery
-http://91.224.16.9:43211/udp/239.100.0.193:1234
-#EXTINF:-1,Discovery WORLD
-http://91.224.16.9:43211/udp/239.100.0.193:1234
-#EXTINF:-1,Discovery Science
-http://91.224.16.9:43211/udp/239.100.0.194:1234
-#EXTINF:-1,ID
-http://91.224.16.9:43211/udp/239.100.0.197:1234
-#EXTINF:-1,TLC.
-http://91.224.16.9:43211/udp/239.100.0.197:1234
-#EXTINF:-1,ANIMAL PLANET
-http://91.224.16.9:43211/udp/239.100.0.198:1234
 #EXTINF:-1 group-title=Kids,Cartoon Network
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1,ANIMATED FILMS
@@ -5621,8 +5533,6 @@ http://37.58.68.221/index.php?file=467&start=0&hd=0&auth=19691719ec1afa62ec2c141
 
 http://37.58.68.221/index.php?file=956&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
 
-#EXTINF:-1,The Iron Mask (1929)
-
 #EXTINF:-1,The Italian Job
 
 http://37.58.68.221/index.php?file=478&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
@@ -5700,1127 +5610,526 @@ http://37.58.68.221/index.php?file=1664&start=0&hd=0&auth=19691719ec1afa62ec2c14
 http://37.58.68.221/index.php?file=1734&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
 
 #EXTINF:-1,The Ledge
-
 http://37.58.68.221/index.php?file=251&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Legend Is Born: Ip Man
-
 http://37.58.68.221/index.php?file=1749&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Legend of Zorro
-
 http://37.58.68.221/index.php?file=92&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lesser Blessed
-
 http://37.58.68.221/index.php?file=1752&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Liability
-
 http://37.58.68.221/index.php?file=1607&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Life Aquatic with Steve Zissou
-
 http://37.58.68.221/index.php?file=1588&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,The Light of Western Stars (1940)
-
 #EXTINF:-1,The Lion King
-
 http://37.58.68.221/index.php?file=835&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lion King 2: Simba’s Pride
-
 http://37.58.68.221/index.php?file=836&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lion King 3: Hakuna Matata
-
 http://37.58.68.221/index.php?file=837&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Living Daylights
-
 http://37.58.68.221/index.php?file=132&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,The Long Shot (1939)
-
 #EXTINF:-1,The Longest Yard
-
 http://37.58.68.221/index.php?file=988&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lorax
-
 http://37.58.68.221/index.php?file=757&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lord of the Rings: The Fellowship of the Ring
-
 http://37.58.68.221/index.php?file=23&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lord of the Rings: The Return of the King
-
 http://37.58.68.221/index.php?file=25&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lord of the Rings: The Two Towers
-
 http://37.58.68.221/index.php?file=24&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lost Boys
-
 http://37.58.68.221/index.php?file=1331&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lost World: Jurassic Park
-
 http://37.58.68.221/index.php?file=34&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Lucky One
-
 http://37.58.68.221/index.php?file=397&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Machinist
-
 http://37.58.68.221/index.php?file=886&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Magic of Belle Isle
-
 http://37.58.68.221/index.php?file=214&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Magnificent Seven Ride!
-
 http://37.58.68.221/index.php?file=1870&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Man from Earth
-
 http://37.58.68.221/index.php?file=511&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Man with the Golden Gun
-
 http://37.58.68.221/index.php?file=138&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Marine
-
 http://37.58.68.221/index.php?file=1634&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Marine 2
-
 http://37.58.68.221/index.php?file=1635&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Marine 3: Homefront
-
 http://37.58.68.221/index.php?file=1636&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Mask
-
 http://37.58.68.221/index.php?file=485&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Master
-
 http://37.58.68.221/index.php?file=765&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Matrix
-
 http://37.58.68.221/index.php?file=376&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Matrix Reloaded
-
 http://37.58.68.221/index.php?file=375&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Matrix Revolutions
-
 http://37.58.68.221/index.php?file=374&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Men Who Stare at Goats
-
 http://37.58.68.221/index.php?file=86&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Messenger
-
 http://37.58.68.221/index.php?file=1892&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Mighty Ducks
-
 http://37.58.68.221/index.php?file=1130&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Mummy
-
 http://37.58.68.221/index.php?file=1122&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Mummy Returns
-
 http://37.58.68.221/index.php?file=1123&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Mummy: Tomb of the Dragon Emperor
-
 http://37.58.68.221/index.php?file=1124&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Muppet Movie
-
 http://37.58.68.221/index.php?file=1913&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Muppets
-
 http://37.58.68.221/index.php?file=1443&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Nightmare Before Christmas
-
 http://37.58.68.221/index.php?file=289&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Notebook
-
 http://37.58.68.221/index.php?file=810&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Numbers Station
-
 http://37.58.68.221/index.php?file=1462&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Nutcracker in 3D
-
 http://37.58.68.221/index.php?file=156&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Nutty Professor
-
 http://37.58.68.221/index.php?file=12&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Odd Life of Timothy Green
-
 http://37.58.68.221/index.php?file=176&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The One
-
 http://37.58.68.221/index.php?file=618&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Pact
-
 http://37.58.68.221/index.php?file=79&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Pagemaster
-
 http://37.58.68.221/index.php?file=1911&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Paperboy
-
 http://37.58.68.221/index.php?file=653&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Passion of the Christ
-
 http://37.58.68.221/index.php?file=859&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Perks of Being a Wallflower
-
 http://37.58.68.221/index.php?file=925&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Pianist
-
 http://37.58.68.221/index.php?file=368&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Pink Panther
-
 http://37.58.68.221/index.php?file=1481&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Pink Panther 2
-
 http://37.58.68.221/index.php?file=1482&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Place Beyond the Pines
-
 http://37.58.68.221/index.php?file=1633&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Possession
-
 http://37.58.68.221/index.php?file=857&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Prestige
-
 http://37.58.68.221/index.php?file=887&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Princess and the Frog
-
 http://37.58.68.221/index.php?file=684&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,The Private Life of Don Juan (1934)
-
 #EXTINF:-1,The Proposal
-
 http://37.58.68.221/index.php?file=682&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Raid: Redemption
-
 http://37.58.68.221/index.php?file=501&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rambler
-
 http://37.58.68.221/index.php?file=1757&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Raven
-
 http://37.58.68.221/index.php?file=262&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Recruit
-
 http://37.58.68.221/index.php?file=480&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rite
-
 http://37.58.68.221/index.php?file=1406&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rock
-
 http://37.58.68.221/index.php?file=586&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rocker
-
 http://37.58.68.221/index.php?file=187&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rocky Horror Picture Show
-
 http://37.58.68.221/index.php?file=1663&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Rookie
-
 http://37.58.68.221/index.php?file=496&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Roommate
-
 http://37.58.68.221/index.php?file=1363&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Royal Tenenbaums
-
 http://37.58.68.221/index.php?file=1587&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sandlot
-
 http://37.58.68.221/index.php?file=1281&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Santa Clause
-
 http://37.58.68.221/index.php?file=1084&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Santa Clause 2
-
 http://37.58.68.221/index.php?file=1085&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sapphires
-
 http://37.58.68.221/index.php?file=1822&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The School of Rock
-
 http://37.58.68.221/index.php?file=580&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Shawshank Redemption
-
 http://37.58.68.221/index.php?file=50&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Silence of the Lambs
-
 http://37.58.68.221/index.php?file=276&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sitter
-
 http://37.58.68.221/index.php?file=724&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sixth Sense
-
 http://37.58.68.221/index.php?file=863&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Skeleton Key
-
 http://37.58.68.221/index.php?file=444&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Slammin’ Salmon
-
 http://37.58.68.221/index.php?file=1827&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Smurfs
-
 http://37.58.68.221/index.php?file=1514&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sound of Music
-
 http://37.58.68.221/index.php?file=421&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Spy Next Door
-
 http://37.58.68.221/index.php?file=758&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Spy Who Loved Me
-
 http://37.58.68.221/index.php?file=137&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Sweeney
-
 http://37.58.68.221/index.php?file=1079&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Taking of Pelham 1 2 3
-
 http://37.58.68.221/index.php?file=1367&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Tale of Despereaux
-
 http://37.58.68.221/index.php?file=74&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Terminator
-
 http://37.58.68.221/index.php?file=1055&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Texas Chain Saw Massacre
-
 http://37.58.68.221/index.php?file=451&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Texas Chainsaw Massacre
-
 http://37.58.68.221/index.php?file=617&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Thin Red Line
-
 http://37.58.68.221/index.php?file=482&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Thing
-
 http://37.58.68.221/index.php?file=1283&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Thing
-
 http://37.58.68.221/index.php?file=1856&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Three Musketeers
-
 http://37.58.68.221/index.php?file=1711&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Three Stooges
-
 http://37.58.68.221/index.php?file=181&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Time Being
-
 http://37.58.68.221/index.php?file=1843&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,The Town Went Wild (1944)
-
 #EXTINF:-1,The Transporter
-
 http://37.58.68.221/index.php?file=662&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Truman Show
-
 http://37.58.68.221/index.php?file=1034&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Twilight Saga: Breaking Dawn – Part 1
-
 http://37.58.68.221/index.php?file=69&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Twilight Saga: Eclipse
-
 http://37.58.68.221/index.php?file=68&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Twilight Saga: New Moon
-
 http://37.58.68.221/index.php?file=67&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Unborn
-
 http://37.58.68.221/index.php?file=400&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Uninvited
-
 http://37.58.68.221/index.php?file=470&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Untouchables
-
 http://37.58.68.221/index.php?file=1095&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Verdict
-
 http://37.58.68.221/index.php?file=1740&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Virgin Suicides
-
 http://37.58.68.221/index.php?file=1830&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Vow
-
 http://37.58.68.221/index.php?file=961&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Warriors
-
 http://37.58.68.221/index.php?file=1866&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Warrior’s Way
-
 http://37.58.68.221/index.php?file=1075&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Watch
-
 http://37.58.68.221/index.php?file=1&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Waterboy
-
 http://37.58.68.221/index.php?file=1088&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Way Back
-
 http://37.58.68.221/index.php?file=1098&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Weather Man
-
 http://37.58.68.221/index.php?file=1488&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Wedding Singer
-
 http://37.58.68.221/index.php?file=1430&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Wee Man
-
 http://37.58.68.221/index.php?file=1797&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Wicker Man
-
 http://37.58.68.221/index.php?file=73&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Wizard of Oz
-
 http://37.58.68.221/index.php?file=1240&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The Words
-
 http://37.58.68.221/index.php?file=381&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,The World Is Not Enough
-
 http://37.58.68.221/index.php?file=128&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,There Goes the Bride (1932)
-
 #EXTINF:-1,There Will Be Blood
-
 http://37.58.68.221/index.php?file=834&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,There’s Something About Mary
-
 http://37.58.68.221/index.php?file=1103&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Think Like a Man
-
 http://37.58.68.221/index.php?file=635&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Thirteen Ghosts
-
 http://37.58.68.221/index.php?file=481&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,This Is 40
-
 http://37.58.68.221/index.php?file=1119&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,This Is England
-
 http://37.58.68.221/index.php?file=1154&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,This Means War
-
 http://37.58.68.221/index.php?file=431&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Thor
-
 http://37.58.68.221/index.php?file=1164&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Three Kings
-
 http://37.58.68.221/index.php?file=1706&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,Thunder in the City (1937)
-
 #EXTINF:-1,Thunderball
-
 http://37.58.68.221/index.php?file=142&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tinker Bell
-
 http://37.58.68.221/index.php?file=1127&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tinker Bell and the Great Fairy Rescue
-
 http://37.58.68.221/index.php?file=1126&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tinker Tailor Soldier Spy
-
 http://37.58.68.221/index.php?file=1004&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Titanic
-
 http://37.58.68.221/index.php?file=1121&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,To the Wonder
-
 http://37.58.68.221/index.php?file=1703&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tom and Jerry in Shiver Me Whiskers
-
 http://37.58.68.221/index.php?file=1460&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tombstone
-
 http://37.58.68.221/index.php?file=204&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tomorrow Never Dies
-
 http://37.58.68.221/index.php?file=129&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tomorrow You’re Gone
-
 http://37.58.68.221/index.php?file=1369&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tooth Fairy
-
 http://37.58.68.221/index.php?file=1366&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tootsie
-
 http://37.58.68.221/index.php?file=1449&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Top Gun
-
 http://37.58.68.221/index.php?file=1519&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Total Recall
-
 http://37.58.68.221/index.php?file=652&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Total Recall
-
 http://37.58.68.221/index.php?file=47&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tower Heist
-
 http://37.58.68.221/index.php?file=1293&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Toy Story
-
 http://37.58.68.221/index.php?file=342&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Toy Story 2
-
 http://37.58.68.221/index.php?file=339&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Toy Story 3
-
 http://37.58.68.221/index.php?file=338&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,TPB AFK: The Pirate Bay Away from Keyboard
-
 http://37.58.68.221/index.php?file=849&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Traffic
-
 http://37.58.68.221/index.php?file=1719&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Training Day
-
 http://37.58.68.221/index.php?file=959&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Trainspotting
-
 http://37.58.68.221/index.php?file=1245&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Trance
-
 http://37.58.68.221/index.php?file=1782&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Transformers
-
 http://37.58.68.221/index.php?file=816&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Transformers: Revenge of the Fallen
-
 http://37.58.68.221/index.php?file=817&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Transporter 2
-
 http://37.58.68.221/index.php?file=663&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Treasure Planet
-
 http://37.58.68.221/index.php?file=760&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Trick ‘r Treat
-
 http://37.58.68.221/index.php?file=301&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,TRON
-
 http://37.58.68.221/index.php?file=1183&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,TRON: Legacy
-
 http://37.58.68.221/index.php?file=1247&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Tropic Thunder
-
 http://37.58.68.221/index.php?file=878&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Troy
-
 http://37.58.68.221/index.php?file=902&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,True Romance
-
 http://37.58.68.221/index.php?file=1484&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Trust
-
 http://37.58.68.221/index.php?file=1660&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Turistas
-
 http://37.58.68.221/index.php?file=302&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Twilight
-
 http://37.58.68.221/index.php?file=66&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Twister
-
 http://37.58.68.221/index.php?file=1620&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Two for the Money
-
 http://37.58.68.221/index.php?file=1483&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,U-571
-
 http://37.58.68.221/index.php?file=106&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Ultraviolet
-
 http://37.58.68.221/index.php?file=1441&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Unbreakable
-
 http://37.58.68.221/index.php?file=446&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Undefeated
-
 http://37.58.68.221/index.php?file=924&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Under Siege 2: Dark Territory
-
 http://37.58.68.221/index.php?file=1104&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Under the Bed
-
 http://37.58.68.221/index.php?file=1390&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Underworld
-
 http://37.58.68.221/index.php?file=979&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Underworld: Awakening
-
 http://37.58.68.221/index.php?file=982&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Underworld: Evolution
-
 http://37.58.68.221/index.php?file=980&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Undisputed
-
 http://37.58.68.221/index.php?file=1736&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Undisputed 3: Redemption
-
 http://37.58.68.221/index.php?file=1738&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Undisputed II: Last Man Standing
-
 http://37.58.68.221/index.php?file=1737&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Unfaithful
-
 http://37.58.68.221/index.php?file=1244&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Unforgiven
-
 http://37.58.68.221/index.php?file=449&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,United 93
-
 http://37.58.68.221/index.php?file=440&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Universal Soldier: Day of Reckoning
-
 http://37.58.68.221/index.php?file=1113&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Unleashed
-
 http://37.58.68.221/index.php?file=1364&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Unstoppable
-
 http://37.58.68.221/index.php?file=750&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Up
-
 http://37.58.68.221/index.php?file=845&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Up in the Air
-
 http://37.58.68.221/index.php?file=297&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Upside Down
-
 http://37.58.68.221/index.php?file=754&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Upstream Color
-
 http://37.58.68.221/index.php?file=1414&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1,Uptown New York (1932)
-
 #EXTINF:-1,V/H/S
-
 http://37.58.68.221/index.php?file=1493&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vacancy
-
 http://37.58.68.221/index.php?file=29&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Valhalla Rising
-
 http://37.58.68.221/index.php?file=191&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Valkyrie
-
 http://37.58.68.221/index.php?file=722&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vampires Suck
-
 http://37.58.68.221/index.php?file=294&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vamps
-
 http://37.58.68.221/index.php?file=76&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Van Helsing
-
 http://37.58.68.221/index.php?file=114&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Van Wilder
-
 http://37.58.68.221/index.php?file=1881&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vehicle 19
-
 http://37.58.68.221/index.php?file=1489&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vertigo
-
 http://37.58.68.221/index.php?file=1285&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vicky Cristina Barcelona
-
 http://37.58.68.221/index.php?file=1214&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Vile
-
 http://37.58.68.221/index.php?file=731&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Visible Scars
-
 http://37.58.68.221/index.php?file=1824&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Waiting…
-
 http://37.58.68.221/index.php?file=579&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Walk the Line
-
 http://37.58.68.221/index.php?file=707&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wall Street
-
 http://37.58.68.221/index.php?file=275&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wall Street: Money Never Sleeps
-
 http://37.58.68.221/index.php?file=1547&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,WALL-E
-
 http://37.58.68.221/index.php?file=267&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wanderlust
-
 http://37.58.68.221/index.php?file=1894&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wanted
-
 http://37.58.68.221/index.php?file=513&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,War Horse
-
 http://37.58.68.221/index.php?file=1609&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,War of the Worlds
-
 http://37.58.68.221/index.php?file=1231&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Warm Bodies
-
 http://37.58.68.221/index.php?file=1556&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Warrior
-
 http://37.58.68.221/index.php?file=874&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Watchmen
-
 http://37.58.68.221/index.php?file=285&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Water for Elephants
-
 http://37.58.68.221/index.php?file=1500&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Waterworld
-
 http://37.58.68.221/index.php?file=1840&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,We Own the Night
-
 http://37.58.68.221/index.php?file=512&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,We Were Soldiers
-
 http://37.58.68.221/index.php?file=1161&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wedding Crashers
-
 http://37.58.68.221/index.php?file=1433&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Welcome to the Punch
-
 http://37.58.68.221/index.php?file=1550&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Welcome to the Rileys
-
 http://37.58.68.221/index.php?file=1771&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What Dreams May Come
-
 http://37.58.68.221/index.php?file=1834&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What Maisie Knew
-
 http://37.58.68.221/index.php?file=1837&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What Richard Did
-
 http://37.58.68.221/index.php?file=1463&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What to Expect When You’re Expecting
-
 http://37.58.68.221/index.php?file=503&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What Women Want
-
 http://37.58.68.221/index.php?file=1102&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,What’s Eating Gilbert Grape
-
 http://37.58.68.221/index.php?file=1743&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,When Harry Met Sally…
-
 http://37.58.68.221/index.php?file=1878&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,When’s Your Birthday? (1937)
-
 #EXTINF:-1,Where the Wild Things Are
-
 http://37.58.68.221/index.php?file=1246&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Why Stop Now
-
 http://37.58.68.221/index.php?file=254&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wild Wild West
-
 http://37.58.68.221/index.php?file=1227&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Win Win
-
 http://37.58.68.221/index.php?file=219&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Winter’s Bone
-
 http://37.58.68.221/index.php?file=1355&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wish You Were Here
-
 http://37.58.68.221/index.php?file=457&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Without a Paddle
-
 http://37.58.68.221/index.php?file=479&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Womb
-
 http://37.58.68.221/index.php?file=1569&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,World Trade Center
-
 http://37.58.68.221/index.php?file=193&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Would You Rather
-
 http://37.58.68.221/index.php?file=1791&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wrath of the Titans
-
 http://37.58.68.221/index.php?file=1446&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wrong
-
 http://37.58.68.221/index.php?file=1545&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wrong Turn 2: Dead End
-
 http://37.58.68.221/index.php?file=63&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wrong Turn 3: Left for Dead
-
 http://37.58.68.221/index.php?file=64&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Wrong Turn 5: Bloodlines
-
 http://37.58.68.221/index.php?file=37&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,X-Men
-
 http://37.58.68.221/index.php?file=1067&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,X-Men 3: The Last Stand
-
 http://37.58.68.221/index.php?file=1069&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,X-Men Origins: Wolverine
-
 http://37.58.68.221/index.php?file=1070&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,xXx
-
 http://37.58.68.221/index.php?file=1101&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,xXx: State of the Union
-
 http://37.58.68.221/index.php?file=1100&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Yes Man
-
 http://37.58.68.221/index.php?file=997&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,You Got Served: Beat the World
-
 http://37.58.68.221/index.php?file=185&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,You Only Live Twice
-
 http://37.58.68.221/index.php?file=143&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,You, Me and Dupree
-
 http://37.58.68.221/index.php?file=1891&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Young Frankenstein
-
 http://37.58.68.221/index.php?file=310&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,You’ve Got Mail
-
 http://37.58.68.221/index.php?file=6&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Zack and Miri Make a Porno
-
 http://37.58.68.221/index.php?file=774&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Zambezia
-
 http://37.58.68.221/index.php?file=296&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Zathura: A Space Adventure
-
 http://37.58.68.221/index.php?file=1203&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Zero Dark Thirty
-
 http://37.58.68.221/index.php?file=1097&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,Zoolander
-
 http://37.58.68.221/index.php?file=1617&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
-#EXTINF:-1 group-title=Music,MTV
-rtmp://94.242.221.176:1937/live/ playpath=stream80 swfUrl=http://www.portaltv.ro/jw6/jwplayer.flash.swf live=1
-#EXTINF:-1,MTV
-rtmp://live.cast-tv.us/stream playpath=z00028.live swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://cast-tv.us/channel.php? live=true timeout=10
-#EXTINF:-1,VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1,VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1,VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1,VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,VEVO 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,VEVO 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,VEVO 4
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,VEVO 5
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,VEVO 6
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 group-title=Israel,Channel 10
-rtmp://s3yfl.castup.net:1935/993860016-123.flv/_definst_/_definst_
-#EXTINF:-1,Channel 10 s2
-rtmp://S0hfl.castup.net:1935/993860018-123.flv/_definst_/_definst_
-#EXTINF:-1,Channel 24
-rtmp://s3ifl.castup.net:1935/993850044-123.flv/_definst_/_definst_
-#EXTINF:-1,Channel 66 Kabbalah Tv
-mms://vod.kab.tv/heb
-#EXTINF:-1,ISRAIL-HEBREW:64
-http://s3yfl.castup.net:1935/993850064-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:67
-http://s3yfl.castup.net:1935/993850067-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:68
-http://s3yfl.castup.net:1935/993850068-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:70
-http://s3yfl.castup.net:1935/993850070-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:71
-http://s3yfl.castup.net:1935/993850071-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:77
-http://s3yfl.castup.net:1935/993850077-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:78
-http://s3yfl.castup.net:1935/993850078-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:79
-http://s3yfl.castup.net:1935/993850079-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:80
-http://s3yfl.castup.net:1935/993850080-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:81
-http://s3yfl.castup.net:1935/993850081-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:81
-http://s3yfl.castup.net:1935/993850081-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:82
-http://s3yfl.castup.net:1935/993850082-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:83
-http://s3yfl.castup.net:1935/993850083-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:84
-http://s3yfl.castup.net:1935/993850084-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:85
-http://s3yfl.castup.net:1935/993850085-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:86
-http://s3yfl.castup.net:1935/993850086-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:87
-http://s3yfl.castup.net:1935/993850087-123.flv/_definst_/hasbahca.m3u8
-#EXTINF:-1,ISRAIL-HEBREW:88
-http://s3yfl.castup.net:1935/993850088-123.flv/_definst_/hasbahca.m3u8
 #EXTINF:-1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC
@@ -6917,14 +6226,6 @@ rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.
 rtmp://46.19.139.146:1935/stream// playpath=w4a0X5H0.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=sportstv
 #EXTINF:-1,SPORTS 1
 rtmp://46.246.29.140:1935/stream// playpath=M4A6S3o5.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=sportstv1
-#EXTINF:-1,SHOW Time
-rtmpe://watch.playfooty.tv/live playpath=show1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=show1569&vw=600&vh=430
-#EXTINF:-1,SYFY HD
-rtmpe://watch.playfooty.tv/live playpath=syfy1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=syfy1569&vw=600&vh=430
-#EXTINF:-1,TBS
-rtmpe://watch.playfooty.tv/live playpath=tbs1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tbs1569&vw=600&vh=430
-#EXTINF:-1,TNT
-rtmpe://watch.playfooty.tv/live playpath=tnt1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=tnt1569&vw=600&vh=430
 #EXTINF:-1,TBS
 rtmpe://198.24.172.218:1935/goLive playpath=tbs.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,TNT
@@ -6933,84 +6234,12 @@ rtmpe://198.24.172.218:1935/goLive playpath=tnt.stream swfUrl=http://b1701425510
 rtmpe://198.24.172.218:1935/goLive playpath=usa.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,Wisconsin Channel
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
-#EXTINF:-1,USA Network
-rtmpe://watch.playfooty.tv/live playpath=usanet1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=usanet1569&vw=600&vh=430
 #EXTINF:-1 group-title=Spain,CANAL+ FUTBOL
 rtmp://50.7.189.66/iguide playpath=yr9edw1f4e8s567 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Canal+ Liga de Campeones
-rtmp://live.intcast.net:1935/live/ playpath=152121 swfUrl=http://intcast.net/embed/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://intcast.net/channels/id100113.php
 #EXTINF:-1,Canal+ Liga de Campeones
 rtmp://5.79.72.3/vl/_definst_ playpath=abralacabra1 swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php?v=abralacabra1&vw=645&vh=395&domain=www.tvonlinegratis.mobi
 #EXTINF:-1,Canal+ LIGA
 rtmp://50.7.189.66/iguide playpath=euxk7ataczy5ri5 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,CANAL+ TOROS
-rtmp://46.165.210.40/iguide playpath=a1lnmnmpgnc6f9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=645&height=395&channel=11949&autoplay=true token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,CANAL+LIGA
-rtmp://146.185.25.162/live playpath=holaholaliga?id=13874 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/holaholaliga/1/645/395 Conn=S:OK
-#EXTINF:-1,CANAL+LIGA
-rtmp://50.7.133.90/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,CANAL+FUTBOL
-rtmp://109.123.114.162/live playpath=hola82?id=12956 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/hola82/1/645/395 Conn=S:OK
-#EXTINF:-1,CANAL+FUTBOL
-rtmp://50.22.223.52/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/futbolmas/1/650/400 Conn=S:OK
-#EXTINF:-1,CANAL+DEPORTES
-rtmp://95.211.168.161/vl/_definst_ playpath=kakabakad swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/embed.php
-#EXTINF:-1,CANAL+DEPORTES
-rtmp://109.123.116.154/live playpath=ddeportess2?id=65738 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/ddeportess2/1/650/400 Conn=S:OK
-#EXTINF:-1,CANAL+LIGA DE CAMPEONES
-rtmp://146.185.23.154/live playpath=holaholalc?id=13040 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/holaholalc/1/645/395 Conn=S:OK
-#EXTINF:-1,Canal+ LIGA
-rtmp://50.7.133.98/iguide playpath=x4xacom3nv091wu swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Canal+ FUTBOL
-rtmp://46.28.50.116/live playpath=futbolmas?id=62391 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,CANAL+ DEPORTES
-rtmp://95.211.168.144/vl/_definst_ playpath=koalad swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/
-#EXTINF:-1,DEPORTV
-rtmp://fl04.iviplanet.com/DeporTV/ playpath=myStream.sdp swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportplayer.php
-#EXTINF:-1,Esport 3
-rtmp://tv-geoespanya-flashlivefs.fplive.net/tv-geoespanya-flashlive-live/ playpath=stream_ES_ES3_FLV swfUrl=http://zonatv.net/cadenas-autonomicas/media/canales/esport-3-clipping-67845763463457569789.swf/
-#EXTINF:-1,ESPORT 3
-rtmp://tv-geoespanya-flashlivefs.fplive.net:1935/tv-geoespanya-flashlive-live?ovpfv=1.1/stream_ES_ES3_FLV
-#EXTINF:-1,EUROSPORT
-rtmp://173.193.46.104/live playpath=eurosports99?id=197203 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
-#EXTINF:-1,EUROSPORT
-rtmp://50.7.133.122/iguide playpath=l75qhfjgsy4v614 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7
-#EXTINF:-1,ESPN DEPORTES
-rtmp://149.255.34.122/live playpath=lizzy1223?id=197267 swfUrl=http://www.mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://www.mips.tv/ Conn=S:OK --live
-#EXTINF:-1,ESPN 
-rtsp://173.193.20.150:1935/mtv/1
-#EXTINF:-1,ESPN DEPORTES
-rtmp://199.167.138.188/live/?u=adfeespn playpath=adfeespn swfUrl=http://stream4u.eu/player/player.swf live=1 pageUrl=http://www.stream4u.eu/embed.php?v=adfeespn&vw=489&vh=370&domain=www.mill-tv.com
-#EXTINF:-1,FUTEBOL PREMIERE 
-rtsp://173.193.20.136:1935/mtv/futebolgrande
-#EXTINF:-1,FOX SPORTS ESPAÑOL
-rtmp://146.185.25.162/live playpath=comunicado76?id=64467 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK
-#EXTINF:-1,GOL TV
-rtmp://109.123.116.26/live playpath=goltvucaster?id=61259 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/embedded/goltvucaster/1/650/400 Conn=S:OK
-#EXTINF:-1,GOL TV
-rtmp://50.7.181.90/iguide playpath=yjng52equwrawn0 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,Gol Tv
-rtmp://stream.farm.cdnline.com:80/liveedge playpath=rtmp://live.zecast.tv/zecast/todofutbo00 swfUrl=http://www.kbps.tv/jl/player.swf live=1
-#EXTINF:-1,NHL USA
-rtmp://37.220.36.7:443/liverepeater playpath=19340 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT
-#EXTINF:-1,NBA TV
-rtmpe://watch.playfooty.tv/live playpath=nba1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/
-#EXTINF:-1,NBA TV HD
-rtmp://46.246.29.141:1935/stream/ playpath=K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=schuster92 pageUrl=http://04stream.com/
-#EXTINF:-1,NBA TV HD 2
-rtmp://46.246.29.157:1935/stream/ playpath=y8m0NU0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/
-#EXTINF:-1,PREMIER LIVE
-rtmp://37.220.32.43:443/liverepeater/13903 live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT
-#EXTINF:-1,SPORTMANIA
-rtmp://5.63.149.180/live playpath=kakabakas?id=13687 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/embedded/kakabakas/1/645/395 Conn=S:OK
-#EXTINF:-1,Sportmania
-rtmp://37.130.228.52/live playpath=maderoscabroness?id=14450 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,SPORTMANIA 
-rtmp://46.23.67.68/live playpath=koalas?id=12980 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
-#EXTINF:-1,SPORTSNET WORD
-rtmp://31.220.0.103:1935/live playpath=sw swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/
-#EXTINF:-1,SPORTMANIA
-rtmp://146.185.23.154/live playpath=caraperrohd?id=13535 swfUrl=http://www.ezcast.tv/static/scripts/eplayer.swf live=1 pageUrl=http://www.ezcast.tv/ Conn=S:OK --live
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
