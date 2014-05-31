@@ -163,6 +163,8 @@ rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/pla
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1,NASA HD
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_1000 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
+#EXTINF:-1,Nile News
+rtmp://livestreaming4.onlinehorizons.net/NileTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/NileTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/NileTV/
 #EXTINF:-1,Russia Today Arabic
 http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8
 #EXTINF:-1,Reuters Live Stream
@@ -201,8 +203,6 @@ http://cdn-delay1.magictvbox.com/11.m3u8
 http://cdn-streamer1.magictvbox.com/live/10151.stream/chunklist.m3u8
 #EXTINF:-1,Al Nahar Drama
 rtmp://50.7.180.18/nahar1/alnahardrama.stream_720p app=nahar1 playPath=alnahardrama.stream_720p pageUrl=http://demos.streamtrix.com/alnahardrama/ swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf
-#EXTINF:-1,Alqahera Alyoum
-rtmp://471574690.e.541833257.r.w6cdn.com/541833257/_definst_/ playpath=mp4:onlyyouonyouc1DQyGRod0n9 swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/connect/0-569
 #EXTINF:-1,AD ALOULA
 http://cdn-streamer2.magictvbox.com/40.m3u8
 #EXTINF:-1,AD DRAMA
@@ -249,6 +249,8 @@ rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias
 rtmp://fml.4120.gravlab.net/204120/ playpath=fmtv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/fm-tv-en-direct-live-Ø·Â§Ø¸Ù¾-Ø·Â§Ø¸â€¦-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_7120cf816.html
 #EXTINF:-1,LCD AFLAM
 http://cdn-streamer1.magictvbox.com/live/10186.stream/chunklist.m3u8
+#EXTINF:-1,Mehwar Tv
+rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
 #EXTINF:-1,METV
 http://cdn-streamer2.magictvbox.com/41.m3u8
 #EXTINF:-1,MTV 
@@ -325,6 +327,8 @@ http://cdn-delay1.magictvbox.com/14.m3u8
 rtmp://85.91.143.21/79248//79248.stream
 #EXTINF:-1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
+#EXTINF:-1,NILE CINEMA
+http://cdn-delay1.magictvbox.com/14.m3u8
 #EXTINF:-1,Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
 #EXTINF:-1,Nile Comedy
@@ -681,8 +685,10 @@ rtmp://85.91.143.21/35985/35985.stream
 rtmp://85.91.143.21/22356/22356.stream
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
-#EXTINF:-1,Al Nahar Sports
-http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
+#EXTINF:-1,ANNAHAR SPORT
+http://cdn-streamer1.magictvbox.com/live/10179.stream/chunklist.m3u8
+#EXTINF:-1,AL AHLY TV
+http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
 #EXTINF:-1,AD SPORTS 1 
 rtmp://85.91.143.21/15675//15675.stream 
 #EXTINF:-1,AD SPORTS 2 
@@ -753,6 +759,10 @@ http://test:test@iptvroom.selfip.com:9000/13.ch
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
 rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
+#EXTINF:-1,BT SPORT 1
+rtmp://37.220.36.64:443/liverepeater playpath=stream1 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,BT SPORT 2
+rtmp://37.220.36.64:443/liverepeater playpath=stream2 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
@@ -805,6 +815,16 @@ rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv
 rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1,SKY SPORTS 1
 rtmp://37.220.34.61:443/liverepeater playpath=stream31 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,SKY SPORTS NEWS
+rtmp://37.220.32.52:443/liverepeater playpath=23701 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,SKY SPORTS 1
+rtmp://37.220.36.68:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,SKY SPORTS 2
+rtmp://37.220.36.65:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,SKY SPORTS 3
+rtmp://37.220.32.43:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
+#EXTINF:-1,SKY SPORTS 4
+rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
 #EXTINF:-1,Sky Calcio HD
 rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490
 #EXTINF:-1,Sky Sport italia 1
