@@ -805,6 +805,14 @@ rtmp://31.220.0.104:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8
 rtmp://31.220.0.133:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490
 #EXTINF:-1,Sky Sport italia 3
 rtmp://31.220.0.103:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490
+#EXTINF:-1,Sky Sport italia 1
+rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1,Sky Sport italia 2
+rtmp://31.220.0.86:1935/live playpath=sky2italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1,Sky Sport italia 3
+rtmp://31.220.0.86:1935/live playpath=sky3italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1,Sky Calcio HD
+rtmp://31.220.0.86:1935/live playpath=skycalcioit swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,Star Sports 1
 rtmp://206.190.139.28/live playpath=s247estar1?id=13667 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/s247estar1/2/600/420 conn=S:OK
 #EXTINF:-1,Star Sports 4
