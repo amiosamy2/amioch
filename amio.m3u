@@ -129,6 +129,14 @@ rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/
 rtmp://d.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
 #EXTINF:-1,Bloomberg
 http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
+#EXTINF:-1,Bloomberg (USA)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,Bloomberg (Europe)
+http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
+#EXTINF:-1,Bloomberg (Asia)
+http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
+#EXTINF:-1,Bloomberg (Live Event)
+http://cdn3.videos.bloomberg.com/btv/event/master.m3u8
 #EXTINF:-1,BBC News Arabic
 rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_162 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1391524826 pageUrl=http://www.livestation.com/en/bbc-arabic
 #EXTINF:-1,BBC News Arabic
@@ -861,49 +869,57 @@ mms://72.13.93.186/comedymovies?MSWMExt=.asf
 mms://72.13.93.186/calvinandthecolonel?MSWMExt=.asf 
 #EXTINF:-1,TubTub Roundup Westerns
 mms://72.13.93.186/rangerider?MSWMExt=.asf
-
+#EXTINF:-1,Bullet (2014)
+http://st60.u1.videomega.tv/v/4c110fdbbd18fe3a2dac97243a3ed352.mp4?st=-Nn1PKilLqYdINw-G-STpA&start=0
+#EXTINF:-1,Veronica Mars (2014)
+http://st59.u1.videomega.tv/v/b4ce4a2f9ca5bfe04bbc2315e819ee7f.mp4?st=EekYBWbCX2shTyUE22lc2Q&start=0
+#EXTINF:-1,Man of Steel (2013)
+http://st59.u1.videomega.tv/v/1eb27014a435c7f3bce0ffcf35bba48b.mp4?st=HyxwF26fqYYKNkhHi_WMQQ&start=0
+#EXTINF:-1,12 Years a Slave (2013)
+http://st61.u1.videomega.tv/v/9ee268ed0c510c07d11f5075dc80fbc1.mp4?st=46AxJlvHRC80l-NCnB_wng&start=0
+#EXTINF:-1,The Wolf of Wall Street (2013)
+http://st62.u1.videomega.tv/v/b862ce8a5ed337343260cd6cb3da5fe4.mp4?st=u9R_metPAptmtIwRfoGSew&start=0
+#EXTINF:-1,47 Ronin (2013)
+http://st62.u1.videomega.tv/v/c8c2176c5322ac07746eaf26d03909be.mp4?st=oU5BoHmHoIVBrJ953u7hqg&start=0
+#EXTINF:-1,This Is the End (2013)
+http://st61.u1.videomega.tv/v/f9964770742e799cd7a6f6745877cd01.mp4?st=mQHyBlYrpFfgzPcHfbdfyg&start=0
+#EXTINF:-1,The Outsider (2014)
+http://st62.u1.videomega.tv/v/ac9ec850299cfa6c834982c8f05e8ef7.mp4?st=3fxb79ArA3BX68Ng2318aQ&start=0
+#EXTINF:-1,The Counsellor (2013)
+http://st63.u1.videomega.tv/v/39d4a16374921b5e9ebf29c21c0fd3e7.mp4?st=chC3YX4C7EWyGNRNz8gxkw&start=0
+#EXTINF:-1,Pain & Gain (2013)
+http://st59.u1.videomega.tv/v/71fe93dbf83ae49c62db93bebc6f19a7.mp4?st=FxADJa81BslZe3VyNAoCHg&start=0
+#EXTINF:-1,Escape Plan (2013)
+http://st63.u1.videomega.tv/v/775480fc878feebf19d73b59782c581b.mp4?st=D2DXpKJvRcZN-qjvDA3cIA&start=0
+#EXTINF:-1,300: Rise of an Empire (2014) – SD
+http://st62.u1.videomega.tv/v/3d2895b746e483bf9483dd717e95e65d.mp4?st=ccIgzeGANdAikkYpcDkSfQ&start=0
+#EXTINF:-1,3 Days to Kill (2014)
+http://st60.u1.videomega.tv/v/ef2a9c7aaa40d4004bd1b888282a46c7.mp4?st=05yFiCN-1DxBR3KPdwhGyA&start=0
+#EXTINF:-1,The Legend of Hercules (2014)
+http://st61.u1.videomega.tv/v/44a510699a776ebc2635bf970cca75d7.mp4?st=wnPWc7h-w6OaNBKlBLEGYA&start=0
+#EXTINF:-1,About Last Night (2014)
+http://st60.u1.videomega.tv/v/290b9ff496455eea9392f48d4789e2c3.mp4?st=ULNAZ7WHYTrPrWuM5czX0w&start=0
 #EXTINF:-1,10 Things I Hate About You
-
 http://37.58.68.221/index.php?file=1659&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,10 Years
-
 http://37.58.68.221/index.php?file=336&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,10,000 BC
-
 http://37.58.68.221/index.php?file=1360&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,101 Dalmatians II: Patch’s London Adventure
-
 http://37.58.68.221/index.php?file=243&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,12 Rounds
-
 http://37.58.68.221/index.php?file=1641&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,12 Rounds: Reloaded
-
 http://37.58.68.221/index.php?file=1638&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,127 Hours
-
 http://37.58.68.221/index.php?file=740&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,17 Again
-
 http://37.58.68.221/index.php?file=507&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,2012
-
 http://37.58.68.221/index.php?file=631&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,21
-
 http://37.58.68.221/index.php?file=1537&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
-
 #EXTINF:-1,21 & Over
-
 http://37.58.68.221/index.php?file=1645&start=0&hd=0&auth=19691719ec1afa62ec2c141667&type=flv&tv=0
 
 #EXTINF:-1,21 Grams
