@@ -251,7 +251,7 @@ http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 rtmp://live-f01.vustream.net:1935/live/livestream2
 #EXTINF:-1,Fatafeat (Alternative Source)
 http://www.vlc.eu.pn@live-f01.vustream.net/live/livestream3/marocforum.m3u8
-#EXTINF:-1,FOXMOVIES
+#EXTINF:-1,FOX MOVIES
 rtmp://iptv.web-medias.net/live playpath=fox_movies swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html
 #EXTINF:-1,FMTV
 rtmp://fml.4120.gravlab.net/204120/ playpath=fmtv swfUrl=http://www.web-medias.net/jwplayer.swf live=1 pageUrl=http://www.web-medias.net/fm-tv-en-direct-live-Ø·Â§Ø¸Ù¾-Ø·Â§Ø¸â€¦-Ø·Â¨Ø·Â«-Ø¸â€¦Ø·Â¨Ø·Â§Ø·Â´Ø·Â±-video_7120cf816.html
@@ -289,24 +289,6 @@ rtmp://85.91.143.23/35657//35657.stream
 rtmp://iptv.web-medias.net/live playpath=mbc_bollywood swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/iptv/%3Fch%3Dmbc_bollywood live=true timeout=15
 #EXTINF:-1,MBC BOLLYWOOD
 rtmp://206.190.129.12/live playpath=aflam4youddd?id=152675 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 conn=S:OK --live
-#EXTINF:-1,MBC 1
-rtmp://www.livetv.tn/live playpath=ch30?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC 2
-rtmp://www.livetv.tn/live playpath=ch31?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC 3
-rtmp://www.livetv.tn/live playpath=ch32?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC 4
-rtmp://www.livetv.tn/live playpath=ch33?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC ACTION
-rtmp://www.livetv.tn/live playpath=ch34?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC BOLLYWOOD
-rtmp://www.livetv.tn/live playpath=ch35?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC DRAMA
-rtmp://www.livetv.tn/live playpath=ch36?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC MASR
-rtmp://www.livetv.tn/live playpath=ch37?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
-#EXTINF:-1,MBC MAX
-rtmp://www.livetv.tn/live playpath=ch38?c=cff8036ec19547aab45144833e76a322 swfUrl=http://www.livetv.tn/flowplayer-3.2.7.swf live=1 pageUrl=http://www.livetv.tn/
 #EXTINF:-1,Melody Aflam
 rtmp://38.96.148.24/MelodyAflam/MAflam_576p
 #EXTINF:-1,Melody Aflam
