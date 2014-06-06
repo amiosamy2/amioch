@@ -245,8 +245,6 @@ rtmp://41.196.200.11:9900/live//ssoofra.stream
 rtmp://85.91.143.23/87521//87521.stream
 #EXTINF:-1,dubaitv
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
-#EXTINF:-1,Dubai One
-http://cdnedvrdubaione.endavomedia.com/smil:dmilivedubaione.smil/playlist.m3u8
 #EXTINF:-1,Fatafeat
 rtmp://live-f01.vustream.net:1935/live/livestream2
 #EXTINF:-1,Fatafeat (Alternative Source)
@@ -275,8 +273,6 @@ rtmp://iptv.web-medias.net/live playpath=mbc_3 swfUrl=http://www.web-medias.net/
 rtmp://85.91.143.20/56278//56278.stream
 #EXTINF:-1,MBC 4
 rtmp://iptv.web-medias.net/live playpath=mbc_4 swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/iptv/%3Fch%3Dmbc_4 live=true timeout=15
-#EXTINF:-1,MBC4
-http://85.91.143.20:1935/56278/56278.stream/media_15212.m3u8
 #EXTINF:-1,MBC MAX
 rtmp://iptv.web-medias.net/live playpath=mbc_max swfUrl=http://www.web-medias.net/jwplayer.swf pageUrl=http://www.web-medias.net/iptv/%3Fch%3Dmbc_max live=true timeout=15
 #EXTINF:-1,MBC DRAMA 
@@ -298,18 +294,14 @@ rtmp://38.96.148.24/MelodyClassic/MClassic_576p
 #EXTINF:-1,Melody Classic
 rtmp://38.96.148.206/Melody/MClassicWeb
 #EXTINF:-1,Melody Hits
-http://38.96.148.24//MelodyHits/MHits_576p/playlist.m3u8
-#EXTINF:-1,Melody Hits
 rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 timeout=15
 #EXTINF:-1,Melody Arabia
 http://38.96.148.24/MelodyArabia/MArabia_576p/playlist.m3u8
 #EXTINF:-1,Melody Drama
 rtmp://38.96.148.206/Melody/MDramaWeb
-#EXTINF:-1,Melody Drama
-http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8
 #EXTINF:-1,NAT Geo ABU DHABI 
 rtmp://85.91.143.23/11667/11667.stream
-#EXTINF:-1,National Geographic Abu Dhabi
+#EXTINF:-1,Sharqia
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1,NILE CINEMA
 http://cdn-delay1.magictvbox.com/14.m3u8
@@ -317,8 +309,6 @@ http://cdn-delay1.magictvbox.com/14.m3u8
 rtmp://85.91.143.21/79248//79248.stream
 #EXTINF:-1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
-#EXTINF:-1,NILE CINEMA
-http://cdn-delay1.magictvbox.com/14.m3u8
 #EXTINF:-1,Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
 #EXTINF:-1,Nile Comedy
@@ -375,46 +365,82 @@ http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 #EXTINF:-1,ZEE AFLAM
 rtmp://iptv.web-medias.net/live playpath=zee_aflam  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b2%d9%8a-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_c8fa1d2c1.html
-#EXTINF:-1,beIN Sports HD8
-http://88.150.198.74/Amir/9685/19.ch
+#EXTINF:-1,Fox Movies
+http://88.150.198.74/Amir/9685/346.ch
+#EXTINF:-1,Iraq Elgarbia
+http://88.150.198.74/Amir/9685/345.ch
+#EXTINF:-1,Iqraa Arabic
+http://88.150.198.74/Amir/9685/341.ch
+#EXTINF:-1,Iqraa Asia
+http://88.150.198.74/Amir/9685/340.ch
+#EXTINF:-1,Iqraa Europe
+http://88.150.198.74/Amir/9685/339.ch
+#EXTINF:-1,Iqra America
+http://88.150.198.74/Amir/9685/145.ch
+#EXTINF:-1,ART HEKAYAT
+http://88.150.198.74/Amir/9685/328.ch
+#EXTINF:-1,ART HEKAYAT2
+http://88.150.198.74/Amir/9685/329.ch
+#EXTINF:-1,Nessma Elhamraa
+http://88.150.198.74/Amir/9685/326.ch
+#EXTINF:-1,Medi1
+http://88.150.198.74/Amir/9685/349.ch
+#EXTINF:-1,CBC
+http://88.150.198.74/Amir/9685/217.ch
+#EXTINF:-1,CBC Extra
+http://88.150.198.74/Amir/9685/293.ch
+#EXTINF:-1,CBC Drama
+http://88.150.198.74/Amir/9685/292.ch
+#EXTINF:-1,CBC Sofra
+http://88.150.198.74/Amir/9685/294.ch
+#EXTINF:-1,beINSPORT1
+http://88.150.198.74/Amir/9685/1.ch
+#EXTINF:-1,beINSPORT2
+http://88.150.198.74/Amir/9685/2.ch
+#EXTINF:-1,beINSPORT3
+http://88.150.198.74/Amir/9685/3.ch
+#EXTINF:-1,beINSPORT4
+http://88.150.198.74/Amir/9685/4.ch
+#EXTINF:-1,beINSPORT5
+http://88.150.198.74/Amir/9685/5.ch
+#EXTINF:-1,beINSPORT6
+http://88.150.198.74/Amir/9685/6.ch
+#EXTINF:-1,beINSPORT7
+http://88.150.198.74/Amir/9685/7.ch
+#EXTINF:-1,beINSPORT8
+http://88.150.198.74/Amir/9685/36.ch
+#EXTINF:-1,beIN Sports 9
+http://88.150.198.74/Amir/9685/284.ch
+#EXTINF:-1,beIN Sports 10
+http://88.150.198.74/Amir/9685/285.ch
+#EXTINF:-1,beINSPORT11
+http://88.150.198.74/Amir/9685/358.ch
+#EXTINF:-1,beINSPORT 12
+http://88.150.198.74/Amir/9685/359.ch
+#EXTINF:-1,beINSPORT 13
+http://88.150.198.74/Amir/9685/360.ch
+#EXTINF:-1,beINSPORT 14
+http://88.150.198.74/Amir/9685/361.ch
+#EXTINF:-1,beIN Sports 15
+http://88.150.198.74/Amir/9685/312.ch
+#EXTINF:-1,beIN Sports HD1
+http://88.150.198.74/Amir/9685/8.ch
+#EXTINF:-1,beIN Sports HD2
+http://88.150.198.74/Amir/9685/9.ch
+#EXTINF:-1,beIN Sports HD3
+http://88.150.198.74/Amir/9685/10.ch
+#EXTINF:-1,beIN Sports HD4
+http://88.150.198.74/Amir/9685/11.ch
+#EXTINF:-1,beIN Sports HD5
+http://88.150.198.74/Amir/9685/12.ch
 #EXTINF:-1,beIN Sports HD9
 http://88.150.198.74/Amir/9685/16.ch
 #EXTINF:-1,beIN Sports HD10
 http://88.150.198.74/Amir/9685/17.ch
 #EXTINF:-1,beIN Sports HD 11
 http://88.150.198.74/Amir/9685/309.ch
-#EXTINF:-1,Libya Alamontada
-http://88.150.198.74/Amir/9685/147.ch
-#EXTINF:-1,E 1 KIDS
-http://88.150.198.74/Amir/9685/128.ch
-#EXTINF:-1,Algerie 3
-http://88.150.198.74/Amir/9685/143.ch
-#EXTINF:-1,Elmaghribya 2
-http://88.150.198.74/Amir/9685/142.ch
-#EXTINF:-1,Lbc America
-http://88.150.198.74/Amir/9685/139.ch
-#EXTINF:-1,Nissma Elhamra
-http://88.150.198.74/Amir/9685/140.ch
-#EXTINF:-1,Iraqiya Sport
-http://88.150.198.74/Amir/9685/136.ch
-#EXTINF:-1,Baghdad TV
-http://88.150.198.74/Amir/9685/137.ch
-#EXTINF:-1,Dubai
-http://88.150.198.74/Amir/9685/190.ch
-#EXTINF:-1,STAR CINEMA 1
-http://88.150.198.74/Amir/9685/90.ch
-#EXTINF:-1,Alfajer Palestine TV
-http://88.150.198.74/Amir/9685/195.ch
-#EXTINF:-1,Baraem
-http://88.150.198.74/Amir/9685/197.ch
-#EXTINF:-1,AL JAZEERA BALKAN
-http://88.150.198.74/Amir/9685/46.ch
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-http://88.150.198.74/Amir/9685/47.ch
-#EXTINF:-1,SAMA CINEMA
-http://88.150.198.74/Amir/9685/92.ch
-#EXTINF:-1,PANORAMA CINEMA
-http://88.150.198.74/Amir/9685/93.ch
+#EXTINF:-1,beIN Sports HD12
+http://88.150.198.74/Amir/9685/19.ch
 #EXTINF:-1,Orbit Cinema 1
 http://88.150.198.74/Amir/9685/58.ch
 #EXTINF:-1,Orbit  Alyawm
@@ -423,210 +449,178 @@ http://88.150.198.74/Amir/9685/60.ch
 http://88.150.198.74/Amir/9685/61.ch
 #EXTINF:-1,Orbit Mmousalsalat
 http://88.150.198.74/Amir/9685/62.ch
-#EXTINF:-1,Orbit Alsafwa
-http://88.150.198.74/Amir/9685/63.ch
 #EXTINF:-1,Orbit MusicNow
 http://88.150.198.74/Amir/9685/64.ch
-#EXTINF:-1,Moga Comedy
-http://88.150.198.74/Amir/9685/66.ch
-#EXTINF:-1,Panorama Drama
-http://88.150.198.74/Amir/9685/94.ch
-#EXTINF:-1,On Tv
-http://88.150.198.74/Amir/9685/69.ch
-#EXTINF:-1,Rotana Cinema
-http://88.150.198.74/Amir/9685/70.ch
-#EXTINF:-1,Rotana Aflam
-http://88.150.198.74/Amir/9685/71.ch
-#EXTINF:-1,NAHAR DRAMA
-http://88.150.198.74/Amir/9685/95.ch
-#EXTINF:-1,Alrisalah
-http://88.150.198.74/Amir/9685/144.ch
-#EXTINF:-1,SYRIA DRAMA
-http://88.150.198.74/Amir/9685/96.ch
-#EXTINF:-1,Karameesh
-http://88.150.198.74/Amir/9685/98.ch
-#EXTINF:-1,STAR CINEMA 2
-http://88.150.198.74/Amir/9685/91.ch
-#EXTINF:-1,Cairo Cinema
-http://88.150.198.74/Amir/9685/99.ch
-#EXTINF:-1,AlQahera W Elnas
-http://88.150.198.74/Amir/9685/117.ch
-#EXTINF:-1,LCD AFLAM
-http://88.150.198.74/Amir/9685/115.ch
-#EXTINF:-1,Nile Cinema
-http://88.150.198.74/Amir/9685/114.ch
-#EXTINF:-1,MaZika
-http://88.150.198.74/Amir/9685/354.ch
-#EXTINF:-1,Iraqiya Doc
-http://88.150.198.74/Amir/9685/337.ch
-#EXTINF:-1,Elmaghribya
-http://88.150.198.74/Amir/9685/122.ch
-#EXTINF:-1,TIME COMEDY
-http://88.150.198.74/Amir/9685/123.ch
-#EXTINF:-1,SEMSEM
-http://88.150.198.74/Amir/9685/124.ch
-#EXTINF:-1,SADA ALBALAD DRAMA
-http://88.150.198.74/Amir/9685/125.ch
-#EXTINF:-1,Alhiwar Tv
-http://88.150.198.74/Amir/9685/191.ch
-#EXTINF:-1,Elmaghreb tv
-http://88.150.198.74/Amir/9685/149.ch
-#EXTINF:-1,MAZZIKA ZOOM
-http://88.150.198.74/Amir/9685/132.ch
-#EXTINF:-1,AD DRAMA
-http://88.150.198.74/Amir/9685/133.ch
-#EXTINF:-1,SPACE TOON
-http://88.150.198.74/Amir/9685/134.ch
-#EXTINF:-1,Libya Alhrar
-http://88.150.198.74/Amir/9685/146.ch
-#EXTINF:-1,Iqra America
-http://88.150.198.74/Amir/9685/145.ch
-#EXTINF:-1,Alnas
-http://88.150.198.74/Amir/9685/151.ch
-#EXTINF:-1,Rotana Clip
-http://88.150.198.74/Amir/9685/152.ch
+#EXTINF:-1,Orbit Alsafwa
+http://88.150.198.74/Amir/9685/63.ch
+#EXTINF:-1,EnnaharTV
+http://88.150.198.74/Amir/9685/232.ch
+#EXTINF:-1,Gulli
+http://88.150.198.74/Amir/9685/227.ch
+#EXTINF:-1,Alfajer Palestine TV
+http://88.150.198.74/Amir/9685/195.ch
+#EXTINF:-1,Dubai Sports3
+http://88.150.198.74/Amir/9685/189.ch
+#EXTINF:-1,Nahar Sport
+http://88.150.198.74/Amir/9685/182.ch
 #EXTINF:-1,Rotana Music
 http://88.150.198.74/Amir/9685/153.ch
+#EXTINF:-1,Rotana Clip
+http://88.150.198.74/Amir/9685/152.ch
+#EXTINF:-1,Rotana Aflam
+http://88.150.198.74/Amir/9685/71.ch
+#EXTINF:-1,Rotana Cinema
+http://88.150.198.74/Amir/9685/70.ch
 #EXTINF:-1,Rotana Classic
 http://88.150.198.74/Amir/9685/154.ch
-#EXTINF:-1,Rotana Khalijiya
-http://88.150.198.74/Amir/9685/141.ch
 #EXTINF:-1,Rotana Masriya
 http://88.150.198.74/Amir/9685/155.ch
-#EXTINF:-1,Elbaghdadia
-http://88.150.198.74/Amir/9685/158.ch
-#EXTINF:-1,qatar1
-http://88.150.198.74/Amir/9685/156.ch
-#EXTINF:-1,Alsharqiya
-http://88.150.198.74/Amir/9685/192.ch
-#EXTINF:-1,TokTok Cinema
-http://88.150.198.74/Amir/9685/160.ch
-#EXTINF:-1,Alqithara
-http://88.150.198.74/Amir/9685/162.ch
+#EXTINF:-1,Rotana Khalijiya
+http://88.150.198.74/Amir/9685/141.ch
+#EXTINF:-1,Nile Cinema
+http://88.150.198.74/Amir/9685/114.ch
 #EXTINF:-1,Nile Comedy
 http://88.150.198.74/Amir/9685/164.ch
+#EXTINF:-1,Nile Sport
+http://88.150.198.74/Amir/9685/247.ch
 #EXTINF:-1,Nile News
 http://88.150.198.74/Amir/9685/165.ch
 #EXTINF:-1,Cairo Film
 http://88.150.198.74/Amir/9685/168.ch
+#EXTINF:-1,Cairo Cinema
+http://88.150.198.74/Amir/9685/99.ch
+#EXTINF:-1,Cairo Drama
+http://88.150.198.74/Amir/9685/161.ch
+#EXTINF:-1,STAR CINEMA 1
+http://88.150.198.74/Amir/9685/90.ch
+#EXTINF:-1,STAR CINEMA 2
+http://88.150.198.74/Amir/9685/91.ch
+#EXTINF:-1,PANORAMA CINEMA
+http://88.150.198.74/Amir/9685/93.ch
+#EXTINF:-1,Panorama Drama
+http://88.150.198.74/Amir/9685/94.ch
+#EXTINF:-1,TokTok Cinema
+http://88.150.198.74/Amir/9685/160.ch
+#EXTINF:-1,TIME COMEDY
+http://88.150.198.74/Amir/9685/123.ch
+#EXTINF:-1,SAMA CINEMA
+http://88.150.198.74/Amir/9685/92.ch
+#EXTINF:-1,LCD AFLAM
+http://88.150.198.74/Amir/9685/115.ch
 #EXTINF:-1,Taxi Elsahra
 http://88.150.198.74/Amir/9685/169.ch
+#EXTINF:-1,Moga Comedy
+http://88.150.198.74/Amir/9685/66.ch
+#EXTINF:-1,AD DRAMA
+http://88.150.198.74/Amir/9685/133.ch
+#EXTINF:-1,SYRIA DRAMA
+http://88.150.198.74/Amir/9685/96.ch
+#EXTINF:-1,NAHAR DRAMA
+http://88.150.198.74/Amir/9685/95.ch
+#EXTINF:-1,SADA ALBALAD DRAMA
+http://88.150.198.74/Amir/9685/125.ch
+#EXTINF:-1,SPACE TOON
+http://88.150.198.74/Amir/9685/134.ch
+#EXTINF:-1,Karameesh
+http://88.150.198.74/Amir/9685/98.ch
+#EXTINF:-1,Baraem
+http://88.150.198.74/Amir/9685/197.ch
+#EXTINF:-1,E 1 KIDS
+http://88.150.198.74/Amir/9685/128.ch
 #EXTINF:-1,Koky Kids
 http://88.150.198.74/Amir/9685/170.ch
-#EXTINF:-1,Elshargia
-http://88.150.198.74/Amir/9685/171.ch
-#EXTINF:-1,Dubai One
-http://88.150.198.74/Amir/9685/172.ch
-#EXTINF:-1,Dubai Sama
-http://88.150.198.74/Amir/9685/173.ch
-#EXTINF:-1,AL JAZEERA Mubasher
-http://88.150.198.74/Amir/9685/176.ch
-#EXTINF:-1,AL JAZEERA MISR
-http://88.150.198.74/Amir/9685/175.ch
-#EXTINF:-1,Nahar Sport
-http://88.150.198.74/Amir/9685/182.ch
+#EXTINF:-1,SEMSEM
+http://88.150.198.74/Amir/9685/124.ch
+#EXTINF:-1,Stop1
+http://88.150.198.74/Amir/9685/167.ch
+#EXTINF:-1,MaZika
+http://88.150.198.74/Amir/9685/354.ch
+#EXTINF:-1,MAZZIKA ZOOM
+http://88.150.198.74/Amir/9685/132.ch
 #EXTINF:-1,Alarabiya
 http://88.150.198.74/Amir/9685/177.ch
 #EXTINF:-1,Al Alam
 http://88.150.198.74/Amir/9685/179.ch
-#EXTINF:-1,Al Aan
-http://88.150.198.74/Amir/9685/180.ch
-#EXTINF:-1,Alforat TV
-http://88.150.198.74/Amir/9685/181.ch
-#EXTINF:-1,Nahar
-http://88.150.198.74/Amir/9685/183.ch
-#EXTINF:-1,Dubai Sports3
-http://88.150.198.74/Amir/9685/189.ch
-#EXTINF:-1,CBC
-http://88.150.198.74/Amir/9685/217.ch
-#EXTINF:-1,CBC Extra
-http://88.150.198.74/Amir/9685/293.ch
-#EXTINF:-1,CBC Sofra
-http://88.150.198.74/Amir/9685/294.ch
-#EXTINF:-1,CBC Drama
-http://88.150.198.74/Amir/9685/292.ch
-#EXTINF:-1,Nile Sport
-http://88.150.198.74/Amir/9685/247.ch
-#EXTINF:-1,ART HEKAYAT
-http://88.150.198.74/Amir/9685/328.ch
-#EXTINF:-1,ART HEKAYAT2
-http://88.150.198.74/Amir/9685/329.ch
-#EXTINF:-1,Gulli
-http://88.150.198.74/Amir/9685/227.ch
+#EXTINF:-1,stop2
+http://88.150.198.74/Amir/9685/45.ch
 #EXTINF:-1,Aljazeera
 http://88.150.198.74/Amir/9685/355.ch
-#EXTINF:-1,EnnaharTV
-http://88.150.198.74/Amir/9685/232.ch
-#EXTINF:-1,Medi1
-http://88.150.198.74/Amir/9685/349.ch
-#EXTINF:-1,Iqraa Arabic
-http://88.150.198.74/Amir/9685/341.ch
-#EXTINF:-1,Iqraa Asia
-http://88.150.198.74/Amir/9685/340.ch
-#EXTINF:-1,Nessma Elhamraa
-http://88.150.198.74/Amir/9685/326.ch
+#EXTINF:-1,AL JAZEERA MISR
+http://88.150.198.74/Amir/9685/175.ch
+#EXTINF:-1,AL JAZEERA Mubasher
+http://88.150.198.74/Amir/9685/176.ch
+#EXTINF:-1,AL JAZEERA BALKAN
+http://88.150.198.74/Amir/9685/46.ch
+#EXTINF:-1,On Tv
+http://88.150.198.74/Amir/9685/69.ch
+#EXTINF:-1,Sada Albalad
+http://88.150.198.74/Amir/9685/126.ch
+#EXTINF:-1,AlQahera W Elnas
+http://88.150.198.74/Amir/9685/117.ch
+#EXTINF:-1,Alhiwar Tv
+http://88.150.198.74/Amir/9685/191.ch
+#EXTINF:-1,Nahar
+http://88.150.198.74/Amir/9685/183.ch
+#EXTINF:-1,stop3
+http://88.150.198.74/Amir/9685/159.ch
+#EXTINF:-1,Elshargia
+http://88.150.198.74/Amir/9685/171.ch
+#EXTINF:-1,Alsharqiya
+http://88.150.198.74/Amir/9685/192.ch
 #EXTINF:-1,Iraq
 http://88.150.198.74/Amir/9685/343.ch
-#EXTINF:-1,Fox Movies
-http://88.150.198.74/Amir/9685/346.ch
-#EXTINF:-1,Iraq Elgarbia
-http://88.150.198.74/Amir/9685/345.ch
-#EXTINF:-1,Iqraa Europe
-http://88.150.198.74/Amir/9685/339.ch
-#EXTINF:-1,BEIN SPORTS
-rtmp://85.91.143.23/23688/23688.stream
-#EXTINF:-1,NATIONAL GEOGRAPHIC ABU DHABI
-rtmp://85.91.143.23/11667/11667.stream
-#EXTINF:-1,2M
-rtmp://85.91.143.22/06551//06551.stream
-#EXTINF:-1,ARRIADIA
-rtmp://85.91.143.20/25813//25813.stream
-#EXTINF:-1,DREAM 1
-rtmp://85.91.143.23/87521//87521.stream
-#EXTINF:-1,MBC 3
-rtmp://85.91.143.20/15678//15678.stream
-#EXTINF:-1,MBC 4
-rtmp://85.91.143.20/56278//56278.stream
-#EXTINF:-1,MBC DRAMA
-rtmp://85.91.143.20/96514/96514.stream
-#EXTINF:-1,MBC BOLLYWOOD
-rtmp://85.91.143.23/35657//35657.stream
-#EXTINF:-1,TV5 MONDE EUROPE
-rtmp://85.91.143.22/90457/90457.stream
-#EXTINF:-1,AD SPORTS 1
-rtmp://85.91.143.21/15675//15675.stream
-#EXTINF:-1,AD SPORTS 2
-rtmp://85.91.143.21/35428//35428.stream
-#EXTINF:-1,NILE SPORT
-rtmp://85.91.143.21/79248//79248.stream
-#EXTINF:-1,AL MAYADEEN
-rtmp://85.91.143.20/57921/57921.stream
-#EXTINF:-1,MTV
-rtmp://85.91.143.20/54682/54682.stream
-#EXTINF:-1,ASHARQIYA DRAMA
-rtmp://85.91.143.21/22356/22356.stream
-#EXTINF:-1,AL RAI
-rtmp://85.91.143.22/58130/58130.stream
-#EXTINF:-1,JORDAN TV
-rtmp://85.91.143.22/47910/47910.stream
-#EXTINF:-1,MAZZIKA ZOOM
-rtmp://85.91.143.23/96533/96533.stream
-#EXTINF:-1,AD DRAMA
-rtmp://85.91.143.23/58891/58891.stream
-#EXTINF:-1,SPACE TOON
-rtmp://85.91.143.21/35985/35985.stream
-#EXTINF:-1,ASHARQIYA
-rtmp://85.91.143.21/22356/22356.stream
+#EXTINF:-1,Iraqiya Sport
+http://88.150.198.74/Amir/9685/136.ch
+#EXTINF:-1,Iraqiya Doc
+http://88.150.198.74/Amir/9685/337.ch
+#EXTINF:-1,Alsumaria
+http://88.150.198.74/Amir/9685/138.ch
+#EXTINF:-1,Elbaghdadia
+http://88.150.198.74/Amir/9685/158.ch
+#EXTINF:-1,Baghdad TV
+http://88.150.198.74/Amir/9685/137.ch
+#EXTINF:-1,Algerie 3
+http://88.150.198.74/Amir/9685/143.ch
+#EXTINF:-1,Elmaghreb tv
+http://88.150.198.74/Amir/9685/149.ch
+#EXTINF:-1,Elmaghribya
+http://88.150.198.74/Amir/9685/122.ch
+#EXTINF:-1,Elmaghribya 2
+http://88.150.198.74/Amir/9685/142.ch
+#EXTINF:-1,Nissma Elhamra
+http://88.150.198.74/Amir/9685/140.ch
+#EXTINF:-1,Libya Alhrar
+http://88.150.198.74/Amir/9685/146.ch
+#EXTINF:-1,Libya Alamontada
+http://88.150.198.74/Amir/9685/147.ch
+#EXTINF:-1,Lbc America
+http://88.150.198.74/Amir/9685/139.ch
+#EXTINF:-1,AL JAZEERA DOCUMENTARY
+http://88.150.198.74/Amir/9685/47.ch
+#EXTINF:-1,Alrisalah
+http://88.150.198.74/Amir/9685/144.ch
+#EXTINF:-1,Alnas
+http://88.150.198.74/Amir/9685/151.ch
+#EXTINF:-1,Alqithara
+http://88.150.198.74/Amir/9685/162.ch
+#EXTINF:-1,Dubai
+http://88.150.198.74/Amir/9685/190.ch
+#EXTINF:-1,Dubai One
+http://88.150.198.74/Amir/9685/172.ch
+#EXTINF:-1,Dubai Sama
+http://88.150.198.74/Amir/9685/173.ch
+#EXTINF:-1,Alforat TV
+http://88.150.198.74/Amir/9685/181.ch
+#EXTINF:-1,qatar1
+http://88.150.198.74/Amir/9685/156.ch
+#EXTINF:-1,Al Aan
+http://88.150.198.74/Amir/9685/180.ch
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,ANNAHAR SPORT
 http://cdn-streamer1.magictvbox.com/live/10179.stream/chunklist.m3u8
 #EXTINF:-1,AL AHLY TV
 http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
-#EXTINF:-1,AD SPORTS 1 
-rtmp://85.91.143.21/15675//15675.stream 
-#EXTINF:-1,AD SPORTS 2 
-rtmp://85.91.143.21/35428//35428.stream
 #EXTINF:-1,Astro Supersport 1
 http://122.155.203.9:8081/get/assp1/playlist.m3u8
 #EXTINF:-1,Astro Supersport 2
@@ -687,44 +681,10 @@ rtmpe://5.153.29.68:1935/redirect playpath=bein13 swfUrl=http://cdn.watchjsc.us/
 rtmpe://5.153.29.68:1935/redirect playpath=bein14 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein14t&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,bien15
 rtmpe://5.153.29.68:1935/redirect playpath=bein15 swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=bein15t&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,Sky Sports 1
-rtmp://46.246.124.22:1935/private/_definst_/sky1hqsport
-#EXTINF:-1,Sky Sports 2
-rtmp://46.246.124.22:1935/private/_definst_/sky2hqsport
-#EXTINF:-1,Sky Sports 3
-rtmp://46.246.124.22:1935/private/_definst_/sky3hqsport
-#EXTINF:-1,Sky Sports 1
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315
-#EXTINF:-1,Sky Sports 3
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151316
-#EXTINF:-1,Sky Sports 4
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151317
-#EXTINF:-1,Sky Sport F1
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151326
-#EXTINF:-1,BT 1
-rtmp://46.246.124.22:1935/private/_definst_/bt1hqsport
-#EXTINF:-1,BT 2
-rtmp://46.246.124.22:1935/private/_definst_/bt2hqsport
-#EXTINF:-1,Boxnation
-rtmp://46.246.124.22:1935/private/_definst_/boxnation
-#EXTINF:-1,Sky One
-rtmp://46.246.124.22:1935/private/_definst_/skyone
-#EXTINF:-1,Premier
-rtmp://46.246.124.22:1935/private/_definst_/premier
-#EXTINF:-1,ITV SPORT
-rtmp://46.246.124.22:1935/private/_definst_/itv
-#EXTINF:-1,Itv 1
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151733
-#EXTINF:-1,Sportsnet World
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151734
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
 rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
-#EXTINF:-1,BT SPORT 1
-rtmp://37.220.36.64:443/liverepeater playpath=stream1 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,BT SPORT 2
-rtmp://37.220.36.64:443/liverepeater playpath=stream2 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
@@ -743,18 +703,26 @@ rtmp://31.7.58.250:1935/stream/5654ygt.stream swfUrl=http://thecdn.04stream.com/
 rtmp://31.220.0.82:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490
 #EXTINF:-1,FOX Sports
 rtmp://31.220.0.104:1935/live playpath=fox1 swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:-1,Itv 1
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151733
 #EXTINF:-1,Nile Sport
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
 #EXTINF:-1,NBC Sports
 rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc
-#EXTINF:-1,NHL Network
-rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf live=true timeout=15 swfVfy=1 pageUrl=http://www.04stream.com
 #EXTINF:-1,NBA TV
 rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=truepageUrl=http://www.04stream.com/
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
+#EXTINF:-1,Sky Sports 1
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315
+#EXTINF:-1,Sky Sports 3
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151316
+#EXTINF:-1,Sky Sports 4
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151317
+#EXTINF:-1,Sky Sport F1
+rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151326
 #EXTINF:-1,Sky Sports 1
 rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
 #EXTINF:-1,Sky Sports 2
@@ -767,26 +735,6 @@ rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwpla
 rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
 #EXTINF:-1,SKY F1
 rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
-#EXTINF:-1,SKY SPORTS 1
-rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1,SKY SPORTS 2
-rtmp://37.220.32.44:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1,SKY SPORTS 3
-rtmp://37.220.36.71:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1,SKY SPORTS 4
-rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1,SKY SPORTS 1
-rtmp://37.220.34.61:443/liverepeater playpath=stream31 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,SKY SPORTS NEWS
-rtmp://37.220.32.52:443/liverepeater playpath=23701 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,SKY SPORTS 1
-rtmp://37.220.36.68:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,SKY SPORTS 2
-rtmp://37.220.36.65:443/liverepeater playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,SKY SPORTS 3
-rtmp://37.220.32.43:443/liverepeater playpath=23699 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
-#EXTINF:-1,SKY SPORTS 4
-rtmp://37.220.32.53:443/liverepeater playpath=23700 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/
 #EXTINF:-1,Sky Calcio HD
 rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490
 #EXTINF:-1,Sky Sport italia 1
