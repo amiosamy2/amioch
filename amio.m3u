@@ -365,16 +365,332 @@ http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 #EXTINF:-1,ZEE AFLAM
 rtmp://iptv.web-medias.net/live playpath=zee_aflam  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b2%d9%8a-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_c8fa1d2c1.html
-#EXTINF:-1,ALAHLY SPORT
-http://88.150.198.74/Amir/9685/522.ch
-#EXTINF:-1,NILE SPORT
-http://88.150.198.74/Amir/9685/247.ch
-#EXTINF:-1,NAHAR SPORT
-http://88.150.198.74/Amir/9685/182.ch
-#EXTINF:-1,Dubai Sports3
-http://88.150.198.74/Amir/9685/189.ch
+#EXTINF:-1,beINSPORT1
+http://88.150.198.74/Amir/9685/1.ch
+#EXTINF:-1,beINSPORT2
+http://88.150.198.74/Amir/9685/2.ch
+#EXTINF:-1,beINSPORT3
+http://88.150.198.74/Amir/9685/3.ch
+#EXTINF:-1,beINSPORT4
+http://88.150.198.74/Amir/9685/4.ch
+#EXTINF:-1,beINSPORT5
+http://88.150.198.74/Amir/9685/5.ch
+#EXTINF:-1,beINSPORT6
+http://88.150.198.74/Amir/9685/6.ch
+#EXTINF:-1,beINSPORT7
+http://88.150.198.74/Amir/9685/7.ch
+#EXTINF:-1,OSN-Yahal-HD-Drama
+http://88.150.198.74/Amir/9685/24.ch
+#EXTINF:-1,OSN-Yahala-Drama-HD
+http://88.150.198.74/Amir/9685/25.ch
+#EXTINF:-1,OSN-Yahala-HD+2
+http://88.150.198.74/Amir/9685/26.ch
+#EXTINF:-1,stop2
+http://88.150.198.74/Amir/9685/45.ch
+#EXTINF:-1,AL JAZEERA BALKAN
+http://88.150.198.74/Amir/9685/46.ch
+#EXTINF:-1,AL JAZEERA DOCUMENTARY
+http://88.150.198.74/Amir/9685/47.ch
+#EXTINF:-1,Orbit Cinema 1
+http://88.150.198.74/Amir/9685/58.ch
+#EXTINF:-1,Orbit  Alyawm
+http://88.150.198.74/Amir/9685/60.ch
+#EXTINF:-1,Orbit Fann
+http://88.150.198.74/Amir/9685/61.ch
+#EXTINF:-1,Orbit Mmousalsalat
+http://88.150.198.74/Amir/9685/62.ch
+#EXTINF:-1,Orbit Alsafwa
+http://88.150.198.74/Amir/9685/63.ch
+#EXTINF:-1,Orbit MusicNow
+http://88.150.198.74/Amir/9685/64.ch
+#EXTINF:-1,Moga Comedy
+http://88.150.198.74/Amir/9685/66.ch
+#EXTINF:-1,On Tv
+http://88.150.198.74/Amir/9685/69.ch
+#EXTINF:-1,Rotana Cinema
+http://88.150.198.74/Amir/9685/70.ch
+#EXTINF:-1,Rotana Aflam
+http://88.150.198.74/Amir/9685/71.ch
+#EXTINF:-1,STAR CINEMA 1
+http://88.150.198.74/Amir/9685/90.ch
+#EXTINF:-1,STAR CINEMA 2
+http://88.150.198.74/Amir/9685/91.ch
+#EXTINF:-1,SAMA CINEMA
+http://88.150.198.74/Amir/9685/92.ch
+#EXTINF:-1,PANORAMA CINEMA
+http://88.150.198.74/Amir/9685/93.ch
+#EXTINF:-1,Panorama Drama
+http://88.150.198.74/Amir/9685/94.ch
+#EXTINF:-1,NAHAR DRAMA
+http://88.150.198.74/Amir/9685/95.ch
+#EXTINF:-1,SYRIA DRAMA
+http://88.150.198.74/Amir/9685/96.ch
+#EXTINF:-1,Karameesh
+http://88.150.198.74/Amir/9685/98.ch
+#EXTINF:-1,Cairo Cinema
+http://88.150.198.74/Amir/9685/99.ch
+#EXTINF:-1,Nile Cinema
+http://88.150.198.74/Amir/9685/114.ch
+#EXTINF:-1,LCD AFLAM
+http://88.150.198.74/Amir/9685/115.ch
+#EXTINF:-1,AlQahera W Elnas
+http://88.150.198.74/Amir/9685/117.ch
+#EXTINF:-1,Elmaghribya
+http://88.150.198.74/Amir/9685/122.ch
+#EXTINF:-1,TIME COMEDY
+http://88.150.198.74/Amir/9685/123.ch
+#EXTINF:-1,SEMSEM
+http://88.150.198.74/Amir/9685/124.ch
+#EXTINF:-1,SADA ALBALAD DRAMA
+http://88.150.198.74/Amir/9685/125.ch
+#EXTINF:-1,Sada Albalad
+http://88.150.198.74/Amir/9685/126.ch
+#EXTINF:-1,E 1 KIDS
+http://88.150.198.74/Amir/9685/128.ch
+#EXTINF:-1,MAZZIKA ZOOM
+http://88.150.198.74/Amir/9685/132.ch
+#EXTINF:-1,AD DRAMA
+http://88.150.198.74/Amir/9685/133.ch
+#EXTINF:-1,SPACE TOON
+http://88.150.198.74/Amir/9685/134.ch
 #EXTINF:-1,Iraqiya Sport
 http://88.150.198.74/Amir/9685/136.ch
+#EXTINF:-1,Baghdad TV
+http://88.150.198.74/Amir/9685/137.ch
+#EXTINF:-1,Alsumaria
+http://88.150.198.74/Amir/9685/138.ch
+#EXTINF:-1,Lbc America
+http://88.150.198.74/Amir/9685/139.ch
+#EXTINF:-1,Nissma Elhamra
+http://88.150.198.74/Amir/9685/140.ch
+#EXTINF:-1,Rotana Khalijiya
+http://88.150.198.74/Amir/9685/141.ch
+#EXTINF:-1,Elmaghribya 2
+http://88.150.198.74/Amir/9685/142.ch
+#EXTINF:-1,Algerie 3
+http://88.150.198.74/Amir/9685/143.ch
+#EXTINF:-1,Alrisalah
+http://88.150.198.74/Amir/9685/144.ch
+#EXTINF:-1,Iqra America
+http://88.150.198.74/Amir/9685/145.ch
+#EXTINF:-1,Libya Alhrar
+http://88.150.198.74/Amir/9685/146.ch
+#EXTINF:-1,Libya Alamontada
+http://88.150.198.74/Amir/9685/147.ch
+#EXTINF:-1,Elmaghreb tv
+http://88.150.198.74/Amir/9685/149.ch
+#EXTINF:-1,Alnas
+http://88.150.198.74/Amir/9685/151.ch
+#EXTINF:-1,Rotana Clip
+http://88.150.198.74/Amir/9685/152.ch
+#EXTINF:-1,Rotana Music
+http://88.150.198.74/Amir/9685/153.ch
+#EXTINF:-1,Rotana Classic
+http://88.150.198.74/Amir/9685/154.ch
+#EXTINF:-1,Rotana Masriya
+http://88.150.198.74/Amir/9685/155.ch
+#EXTINF:-1,qatar1
+http://88.150.198.74/Amir/9685/156.ch
+#EXTINF:-1,Elbaghdadia
+http://88.150.198.74/Amir/9685/158.ch
+#EXTINF:-1,NAHAR +2
+http://88.150.198.74/Amir/9685/159.ch
+#EXTINF:-1,TokTok Cinema
+http://88.150.198.74/Amir/9685/160.ch
+#EXTINF:-1,Cairo Drama
+http://88.150.198.74/Amir/9685/161.ch
+#EXTINF:-1,Alqithara
+http://88.150.198.74/Amir/9685/162.ch
+#EXTINF:-1,Nile Comedy
+http://88.150.198.74/Amir/9685/164.ch
+#EXTINF:-1,Nile News
+http://88.150.198.74/Amir/9685/165.ch
+#EXTINF:-1,Stop1
+http://88.150.198.74/Amir/9685/167.ch
+#EXTINF:-1,Cairo Film
+http://88.150.198.74/Amir/9685/168.ch
+#EXTINF:-1,Taxi Elsahra
+http://88.150.198.74/Amir/9685/169.ch
+#EXTINF:-1,Koky Kids
+http://88.150.198.74/Amir/9685/170.ch
+#EXTINF:-1,Elshargia
+http://88.150.198.74/Amir/9685/171.ch
+#EXTINF:-1,Dubai One
+http://88.150.198.74/Amir/9685/172.ch
+#EXTINF:-1,Dubai Sama
+http://88.150.198.74/Amir/9685/173.ch
+#EXTINF:-1,AL JAZEERA MISR
+http://88.150.198.74/Amir/9685/175.ch
+#EXTINF:-1,AL JAZEERA Mubasher
+http://88.150.198.74/Amir/9685/176.ch
+#EXTINF:-1,Alarabiya
+http://88.150.198.74/Amir/9685/177.ch
+#EXTINF:-1,Al Alam
+http://88.150.198.74/Amir/9685/179.ch
+#EXTINF:-1,Al Aan
+http://88.150.198.74/Amir/9685/180.ch
+#EXTINF:-1,Alforat TV
+http://88.150.198.74/Amir/9685/181.ch
+#EXTINF:-1,NAHAR SPORT
+http://88.150.198.74/Amir/9685/182.ch
+#EXTINF:-1,NAHAR
+http://88.150.198.74/Amir/9685/183.ch
+#EXTINF:-1,Dubai Sports3
+http://88.150.198.74/Amir/9685/189.ch
+#EXTINF:-1,Dubai
+http://88.150.198.74/Amir/9685/190.ch
+#EXTINF:-1,Alhiwar Tv
+http://88.150.198.74/Amir/9685/191.ch
+#EXTINF:-1,Alsharqiya
+http://88.150.198.74/Amir/9685/192.ch
+#EXTINF:-1,Alfajer Palestine TV
+http://88.150.198.74/Amir/9685/195.ch
+#EXTINF:-1,Baraem
+http://88.150.198.74/Amir/9685/197.ch
+#EXTINF:-1,BTSPORT1HD
+http://88.150.198.74/Amir/9685/198.ch
+#EXTINF:-1,BTSPORT2HD
+http://88.150.198.74/Amir/9685/199.ch
+#EXTINF:-1,CBC
+http://88.150.198.74/Amir/9685/217.ch
+#EXTINF:-1,Gulli
+http://88.150.198.74/Amir/9685/227.ch
+#EXTINF:-1,EnnaharTV
+http://88.150.198.74/Amir/9685/232.ch
+#EXTINF:-1,NILE SPORT
+http://88.150.198.74/Amir/9685/247.ch
+#EXTINF:-1,beIN Sports 9
+http://88.150.198.74/Amir/9685/284.ch
+#EXTINF:-1,beIN Sports 10
+http://88.150.198.74/Amir/9685/285.ch
+#EXTINF:-1,CBC Drama
+http://88.150.198.74/Amir/9685/292.ch
+#EXTINF:-1,CBC Extra
+http://88.150.198.74/Amir/9685/293.ch
+#EXTINF:-1,CBC Sofra
+http://88.150.198.74/Amir/9685/294.ch
+#EXTINF:-1,beIN Sports 15
+http://88.150.198.74/Amir/9685/312.ch
+#EXTINF:-1,Nessma Elhamraa
+http://88.150.198.74/Amir/9685/326.ch
+#EXTINF:-1,ART HEKAYAT
+http://88.150.198.74/Amir/9685/328.ch
+#EXTINF:-1,ART HEKAYAT2
+http://88.150.198.74/Amir/9685/329.ch
+#EXTINF:-1,Iraqiya Doc
+http://88.150.198.74/Amir/9685/337.ch
+#EXTINF:-1,Iqraa Europe
+http://88.150.198.74/Amir/9685/339.ch
+#EXTINF:-1,Iqraa Asia
+http://88.150.198.74/Amir/9685/340.ch
+#EXTINF:-1,Iqraa Arabic
+http://88.150.198.74/Amir/9685/341.ch
+#EXTINF:-1,Iraq
+http://88.150.198.74/Amir/9685/343.ch
+#EXTINF:-1,Iraq Elgarbia
+http://88.150.198.74/Amir/9685/345.ch
+#EXTINF:-1,Fox Movies
+http://88.150.198.74/Amir/9685/346.ch
+#EXTINF:-1,Medi1
+http://88.150.198.74/Amir/9685/349.ch
+#EXTINF:-1,MaZika
+http://88.150.198.74/Amir/9685/354.ch
+#EXTINF:-1,Aljazeera
+http://88.150.198.74/Amir/9685/355.ch
+#EXTINF:-1,beINSPORT 11
+http://88.150.198.74/Amir/9685/358.ch
+#EXTINF:-1,beINSPORT 12
+http://88.150.198.74/Amir/9685/359.ch
+#EXTINF:-1,beINSPORT 12
+http://88.150.198.74/Amir/9685/359.ch
+#EXTINF:-1,beINSPORT 13
+http://88.150.198.74/Amir/9685/360.ch
+#EXTINF:-1,beINSPORT 14
+http://88.150.198.74/Amir/9685/361.ch
+#EXTINF:-1,OSN SPORT 1
+http://88.150.198.74/Amir/9685/363.ch
+#EXTINF:-1,OSN SPORT 2
+http://88.150.198.74/Amir/9685/364.ch
+#EXTINF:-1,OSN SPORT 3
+http://88.150.198.74/Amir/9685/365.ch
+#EXTINF:-1,OSN SPORT 4
+http://88.150.198.74/Amir/9685/366.ch
+#EXTINF:-1,SKY SPORT 1
+http://88.150.198.74/Amir/9685/367.ch
+#EXTINF:-1,SKY SPORT 2
+http://88.150.198.74/Amir/9685/368.ch
+#EXTINF:-1,SKY SPORT 3
+http://88.150.198.74/Amir/9685/369.ch
+#EXTINF:-1,SKY SPORT 4
+http://88.150.198.74/Amir/9685/370.ch
+#EXTINF:-1,SKY SPORT F1
+http://88.150.198.74/Amir/9685/371.ch
+#EXTINF:-1,SKY SPORT NEWS
+http://88.150.198.74/Amir/9685/372.ch
+#EXTINF:-1,LIGTV 1
+http://88.150.198.74/Amir/9685/373.ch
+#EXTINF:-1,LIGTV 2
+http://88.150.198.74/Amir/9685/374.ch
+#EXTINF:-1,LIGTV 3
+http://88.150.198.74/Amir/9685/375.ch
+#EXTINF:-1,ART AFLAM 1
+http://88.150.198.74/Amir/9685/376.ch
+#EXTINF:-1,ART AFLAM 2
+http://88.150.198.74/Amir/9685/377.ch
+#EXTINF:-1,MBC 1
+http://88.150.198.74/Amir/9685/379.ch
+#EXTINF:-1,MBC 2
+http://88.150.198.74/Amir/9685/380.ch
+#EXTINF:-1,MBC 3
+http://88.150.198.74/Amir/9685/381.ch
+#EXTINF:-1,MBC 4
+http://88.150.198.74/Amir/9685/382.ch
+#EXTINF:-1,MBC Masr
+http://88.150.198.74/Amir/9685/383.ch
+#EXTINF:-1,MBC Action
+http://88.150.198.74/Amir/9685/384.ch
+#EXTINF:-1,MBC Bollywood
+http://88.150.198.74/Amir/9685/385.ch
+#EXTINF:-1,MBC Drama
+http://88.150.198.74/Amir/9685/386.ch
+#EXTINF:-1,MBC Max
+http://88.150.198.74/Amir/9685/387.ch
+#EXTINF:-1,MBC Persia
+http://88.150.198.74/Amir/9685/388.ch
+#EXTINF:-1,Al Tunisia
+http://88.150.198.74/Amir/9685/389.ch
+#EXTINF:-1,Hannibal TV
+http://88.150.198.74/Amir/9685/390.ch
+#EXTINF:-1,Tounesna
+http://88.150.198.74/Amir/9685/391.ch
+#EXTINF:-1,TNN
+http://88.150.198.74/Amir/9685/392.ch
+#EXTINF:-1,Al Moutawasit
+http://88.150.198.74/Amir/9685/393.ch
+#EXTINF:-1,Tunis 1
+http://88.150.198.74/Amir/9685/397.ch
+#EXTINF:-1,Dubai Noor
+http://88.150.198.74/Amir/9685/398.ch
+#EXTINF:-1,Dubai Racing
+http://88.150.198.74/Amir/9685/399.ch
+#EXTINF:-1,2M Maroc
+http://88.150.198.74/Amir/9685/400.ch
+#EXTINF:-1,Shada TV
+http://88.150.198.74/Amir/9685/401.ch
+#EXTINF:-1,Alfalastinia
+http://88.150.198.74/Amir/9685/404.ch
+#EXTINF:-1,Alwatan Plus
+http://88.150.198.74/Amir/9685/405.ch
+#EXTINF:-1,Alwatan
+http://88.150.198.74/Amir/9685/406.ch
+#EXTINF:-1,Wesal TV
+http://88.150.198.74/Amir/9685/407.ch
+#EXTINF:-1,NBN Lebanon
+http://88.150.198.74/Amir/9685/408.ch
+#EXTINF:-1,beINSPORT2
+http://88.150.198.74/Amir/9685/503.ch
+#EXTINF:-1,beINSPORT8
+http://88.150.198.74/Amir/9685/504.ch
 #EXTINF:-1,beIN Sports News
 http://88.150.198.74/Amir/9685/506.ch
 #EXTINF:-1,beIN Sports 1_2
@@ -407,314 +723,92 @@ http://88.150.198.74/Amir/9685/519.ch
 http://88.150.198.74/Amir/9685/520.ch
 #EXTINF:-1,beIN SPORT 15_2
 http://88.150.198.74/Amir/9685/521.ch
-#EXTINF:-1,beINSPORT1
-http://88.150.198.74/Amir/9685/1.ch
-#EXTINF:-1,beINSPORT2
-http://88.150.198.74/Amir/9685/503.ch
-#EXTINF:-1,beINSPORT3
-http://88.150.198.74/Amir/9685/3.ch
-#EXTINF:-1,beINSPORT4
-http://88.150.198.74/Amir/9685/4.ch
-#EXTINF:-1,beINSPORT5
-http://88.150.198.74/Amir/9685/5.ch
-#EXTINF:-1,beINSPORT6
-http://88.150.198.74/Amir/9685/6.ch
-#EXTINF:-1,beINSPORT7
-http://88.150.198.74/Amir/9685/7.ch
-#EXTINF:-1,beINSPORT8
-http://88.150.198.74/Amir/9685/504.ch
-#EXTINF:-1,beIN Sports 9
-http://88.150.198.74/Amir/9685/284.ch
-#EXTINF:-1,beIN Sports 10
-http://88.150.198.74/Amir/9685/285.ch
-#EXTINF:-1,beINSPORT 11
-http://88.150.198.74/Amir/9685/358.ch
-#EXTINF:-1,beINSPORT 12
-http://88.150.198.74/Amir/9685/359.ch
-#EXTINF:-1,beINSPORT 13
-http://88.150.198.74/Amir/9685/360.ch
-#EXTINF:-1,beINSPORT 14
-http://88.150.198.74/Amir/9685/361.ch
-#EXTINF:-1,beIN Sports 15
-http://88.150.198.74/Amir/9685/312.ch
-#EXTINF:-1,OSN SPORT 1
-http://88.150.198.74/Amir/9685/363.ch
-#EXTINF:-1,OSN SPORT 2
-http://88.150.198.74/Amir/9685/364.ch
-#EXTINF:-1,OSN SPORT 3
-http://88.150.198.74/Amir/9685/365.ch
-#EXTINF:-1,OSN SPORT 4
-http://88.150.198.74/Amir/9685/366.ch
-#EXTINF:-1,SKY SPORT 1
-http://88.150.198.74/Amir/9685/367.ch
-#EXTINF:-1,SKY SPORT 2
-http://88.150.198.74/Amir/9685/368.ch
-#EXTINF:-1,SKY SPORT 3
-http://88.150.198.74/Amir/9685/369.ch
-#EXTINF:-1,SKY SPORT 4
-http://88.150.198.74/Amir/9685/370.ch
-#EXTINF:-1,SKY SPORT F1
-http://88.150.198.74/Amir/9685/371.ch
-#EXTINF:-1,SKY SPORT NEWS
-http://88.150.198.74/Amir/9685/372.ch
-#EXTINF:-1,LIGTV 1
-http://88.150.198.74/Amir/9685/373.ch
-#EXTINF:-1,LIGTV 2
-http://88.150.198.74/Amir/9685/374.ch
-#EXTINF:-1,LIGTV 3
-http://88.150.198.74/Amir/9685/375.ch
-#EXTINF:-1,MBC 1
-http://88.150.198.74/Amir/9685/379.ch
-#EXTINF:-1,MBC 2
-http://88.150.198.74/Amir/9685/380.ch
-#EXTINF:-1,MBC 3
-http://88.150.198.74/Amir/9685/381.ch
-#EXTINF:-1,MBC 4
-http://88.150.198.74/Amir/9685/382.ch
-#EXTINF:-1,MBC Max
-http://88.150.198.74/Amir/9685/387.ch
-#EXTINF:-1,MBC Masr
-http://88.150.198.74/Amir/9685/383.ch
-#EXTINF:-1,MBC Action
-http://88.150.198.74/Amir/9685/384.ch
-#EXTINF:-1,MBC Bollywood
-http://88.150.198.74/Amir/9685/385.ch
-#EXTINF:-1,MBC Drama
-http://88.150.198.74/Amir/9685/386.ch
-#EXTINF:-1,MBC Persia
-http://88.150.198.74/Amir/9685/388.ch
-#EXTINF:-1,ART AFLAM 1
-http://88.150.198.74/Amir/9685/376.ch
-#EXTINF:-1,ART AFLAM 2
-http://88.150.198.74/Amir/9685/377.ch
-#EXTINF:-1,ART HEKAYAT
-http://88.150.198.74/Amir/9685/328.ch
-#EXTINF:-1,ART HEKAYAT2
-http://88.150.198.74/Amir/9685/329.ch
-#EXTINF:-1,Orbit Cinema 1
-http://88.150.198.74/Amir/9685/58.ch
-#EXTINF:-1,Orbit  Alyawm
-http://88.150.198.74/Amir/9685/60.ch
-#EXTINF:-1,Orbit Mmousalsalat
-http://88.150.198.74/Amir/9685/62.ch
-#EXTINF:-1,Orbit Fann
-http://88.150.198.74/Amir/9685/61.ch
-#EXTINF:-1,Orbit MusicNow
-http://88.150.198.74/Amir/9685/64.ch
-#EXTINF:-1,Orbit Alsafwa
-http://88.150.198.74/Amir/9685/63.ch
-#EXTINF:-1,NBN Lebanon
-http://88.150.198.74/Amir/9685/408.ch
-#EXTINF:-1,2M Maroc
-http://88.150.198.74/Amir/9685/400.ch
-#EXTINF:-1,Tunis 1
-http://88.150.198.74/Amir/9685/397.ch
-#EXTINF:-1,Al Tunisia
-http://88.150.198.74/Amir/9685/389.ch
-#EXTINF:-1,Tounesna
-http://88.150.198.74/Amir/9685/391.ch
-#EXTINF:-1,Hannibal TV
-http://88.150.198.74/Amir/9685/390.ch
-#EXTINF:-1,TNN
-http://88.150.198.74/Amir/9685/392.ch
-#EXTINF:-1,Al Moutawasit
-http://88.150.198.74/Amir/9685/393.ch
-#EXTINF:-1,Shada TV
-http://88.150.198.74/Amir/9685/401.ch
-#EXTINF:-1,Wesal TV
-http://88.150.198.74/Amir/9685/407.ch
-#EXTINF:-1,Alfalastinia
-http://88.150.198.74/Amir/9685/404.ch
-#EXTINF:-1,Alwatan Plus
-http://88.150.198.74/Amir/9685/405.ch
-#EXTINF:-1,Alwatan
-http://88.150.198.74/Amir/9685/406.ch
-#EXTINF:-1,Fox Movies
-http://88.150.198.74/Amir/9685/346.ch
-#EXTINF:-1,Iraq Elgarbia
-http://88.150.198.74/Amir/9685/345.ch
-#EXTINF:-1,Iqraa Arabic
-http://88.150.198.74/Amir/9685/341.ch
-#EXTINF:-1,Iqraa Asia
-http://88.150.198.74/Amir/9685/340.ch
-#EXTINF:-1,Iqraa Europe
-http://88.150.198.74/Amir/9685/339.ch
-#EXTINF:-1,Iqra America
-http://88.150.198.74/Amir/9685/145.ch
-#EXTINF:-1,Nessma Elhamraa
-http://88.150.198.74/Amir/9685/326.ch
-#EXTINF:-1,Medi1
-http://88.150.198.74/Amir/9685/349.ch
-#EXTINF:-1,CBC
-http://88.150.198.74/Amir/9685/217.ch
-#EXTINF:-1,CBC Extra
-http://88.150.198.74/Amir/9685/293.ch
-#EXTINF:-1,CBC Drama
-http://88.150.198.74/Amir/9685/292.ch
-#EXTINF:-1,CBC Sofra
-http://88.150.198.74/Amir/9685/294.ch
-#EXTINF:-1,CBC TWO
-http://88.150.198.74/Amir/9685/526.ch
-#EXTINF:-1,EnnaharTV
-http://88.150.198.74/Amir/9685/232.ch
-#EXTINF:-1,Gulli
-http://88.150.198.74/Amir/9685/227.ch
-#EXTINF:-1,Alfajer Palestine TV
-http://88.150.198.74/Amir/9685/195.ch
-#EXTINF:-1,Rotana Music
-http://88.150.198.74/Amir/9685/153.ch
-#EXTINF:-1,Rotana Clip
-http://88.150.198.74/Amir/9685/152.ch
-#EXTINF:-1,Rotana Aflam
-http://88.150.198.74/Amir/9685/71.ch
-#EXTINF:-1,Rotana Cinema
-http://88.150.198.74/Amir/9685/70.ch
-#EXTINF:-1,Rotana Classic
-http://88.150.198.74/Amir/9685/154.ch
-#EXTINF:-1,Rotana Masriya
-http://88.150.198.74/Amir/9685/155.ch
-#EXTINF:-1,Rotana Khalijiya
-http://88.150.198.74/Amir/9685/141.ch
-#EXTINF:-1,Nile Cinema
-http://88.150.198.74/Amir/9685/114.ch
-#EXTINF:-1,Nile Comedy
-http://88.150.198.74/Amir/9685/164.ch
-#EXTINF:-1,Nile News
-http://88.150.198.74/Amir/9685/165.ch
-#EXTINF:-1,Cairo Film
-http://88.150.198.74/Amir/9685/168.ch
-#EXTINF:-1,Cairo Cinema
-http://88.150.198.74/Amir/9685/99.ch
-#EXTINF:-1,Cairo Drama
-http://88.150.198.74/Amir/9685/161.ch
-#EXTINF:-1,STAR CINEMA 1
-http://88.150.198.74/Amir/9685/90.ch
-#EXTINF:-1,STAR CINEMA 2
-http://88.150.198.74/Amir/9685/91.ch
-#EXTINF:-1,PANORAMA CINEMA
-http://88.150.198.74/Amir/9685/93.ch
-#EXTINF:-1,Panorama Drama
-http://88.150.198.74/Amir/9685/94.ch
-#EXTINF:-1,TokTok Cinema
-http://88.150.198.74/Amir/9685/160.ch
-#EXTINF:-1,TIME COMEDY
-http://88.150.198.74/Amir/9685/123.ch
-#EXTINF:-1,SAMA CINEMA
-http://88.150.198.74/Amir/9685/92.ch
-#EXTINF:-1,LCD AFLAM
-http://88.150.198.74/Amir/9685/115.ch
-#EXTINF:-1,Taxi Elsahra
-http://88.150.198.74/Amir/9685/169.ch
-#EXTINF:-1,Moga Comedy
-http://88.150.198.74/Amir/9685/66.ch
-#EXTINF:-1,AD DRAMA
-http://88.150.198.74/Amir/9685/133.ch
-#EXTINF:-1,SYRIA DRAMA
-http://88.150.198.74/Amir/9685/96.ch
-#EXTINF:-1,NAHAR DRAMA
-http://88.150.198.74/Amir/9685/95.ch
-#EXTINF:-1,SADA ALBALAD DRAMA
-http://88.150.198.74/Amir/9685/125.ch
-#EXTINF:-1,SPACE TOON
-http://88.150.198.74/Amir/9685/134.ch
-#EXTINF:-1,Karameesh
-http://88.150.198.74/Amir/9685/98.ch
-#EXTINF:-1,Baraem
-http://88.150.198.74/Amir/9685/197.ch
-#EXTINF:-1,E 1 KIDS
-http://88.150.198.74/Amir/9685/128.ch
-#EXTINF:-1,Koky Kids
-http://88.150.198.74/Amir/9685/170.ch
-#EXTINF:-1,SEMSEM
-http://88.150.198.74/Amir/9685/124.ch
-#EXTINF:-1,Stop1
-http://88.150.198.74/Amir/9685/167.ch
-#EXTINF:-1,MaZika
-http://88.150.198.74/Amir/9685/354.ch
-#EXTINF:-1,MAZZIKA ZOOM
-http://88.150.198.74/Amir/9685/132.ch
-#EXTINF:-1,Alarabiya
-http://88.150.198.74/Amir/9685/177.ch
-#EXTINF:-1,Al Alam
-http://88.150.198.74/Amir/9685/179.ch
-#EXTINF:-1,stop2
-http://88.150.198.74/Amir/9685/45.ch
-#EXTINF:-1,Aljazeera
-http://88.150.198.74/Amir/9685/355.ch
-#EXTINF:-1,AL JAZEERA MISR
-http://88.150.198.74/Amir/9685/175.ch
-#EXTINF:-1,AL JAZEERA Mubasher
-http://88.150.198.74/Amir/9685/176.ch
-#EXTINF:-1,AL JAZEERA BALKAN
-http://88.150.198.74/Amir/9685/46.ch
-#EXTINF:-1,AL JAZEERA DOCUMENTARY
-http://88.150.198.74/Amir/9685/47.ch
-#EXTINF:-1,On Tv
-http://88.150.198.74/Amir/9685/69.ch
-#EXTINF:-1,Sada Albalad
-http://88.150.198.74/Amir/9685/126.ch
-#EXTINF:-1,AlQahera W Elnas
-http://88.150.198.74/Amir/9685/117.ch
-#EXTINF:-1,Alhiwar Tv
-http://88.150.198.74/Amir/9685/191.ch
-#EXTINF:-1,NAHAR
-http://88.150.198.74/Amir/9685/183.ch
-#EXTINF:-1,NAHAR +2
-http://88.150.198.74/Amir/9685/159.ch
+#EXTINF:-1,ALAHLY SPORT
+http://88.150.198.74/Amir/9685/522.ch
+#EXTINF:-1,ABU DHABI SPORT 1
+http://88.150.198.74/Amir/9685/523.ch
+#EXTINF:-1,ABU DHABI SPORT 2
+http://88.150.198.74/Amir/9685/524.ch
 #EXTINF:-1,NAHAR ALYAOUM
 http://88.150.198.74/Amir/9685/525.ch
-#EXTINF:-1,Elshargia
-http://88.150.198.74/Amir/9685/171.ch
-#EXTINF:-1,Alsharqiya
-http://88.150.198.74/Amir/9685/192.ch
-#EXTINF:-1,Iraq
-http://88.150.198.74/Amir/9685/343.ch
-#EXTINF:-1,Iraqiya Doc
-http://88.150.198.74/Amir/9685/337.ch
-#EXTINF:-1,Alsumaria
-http://88.150.198.74/Amir/9685/138.ch
-#EXTINF:-1,Elbaghdadia
-http://88.150.198.74/Amir/9685/158.ch
-#EXTINF:-1,Baghdad TV
-http://88.150.198.74/Amir/9685/137.ch
-#EXTINF:-1,Algerie 3
-http://88.150.198.74/Amir/9685/143.ch
-#EXTINF:-1,Elmaghreb tv
-http://88.150.198.74/Amir/9685/149.ch
-#EXTINF:-1,Elmaghribya
-http://88.150.198.74/Amir/9685/122.ch
-#EXTINF:-1,Elmaghribya 2
-http://88.150.198.74/Amir/9685/142.ch
-#EXTINF:-1,Nissma Elhamra
-http://88.150.198.74/Amir/9685/140.ch
-#EXTINF:-1,Libya Alhrar
-http://88.150.198.74/Amir/9685/146.ch
-#EXTINF:-1,Libya Alamontada
-http://88.150.198.74/Amir/9685/147.ch
-#EXTINF:-1,Lbc America
-http://88.150.198.74/Amir/9685/139.ch
-#EXTINF:-1,Alrisalah
-http://88.150.198.74/Amir/9685/144.ch
-#EXTINF:-1,Alnas
-http://88.150.198.74/Amir/9685/151.ch
-#EXTINF:-1,Alqithara
-http://88.150.198.74/Amir/9685/162.ch
-#EXTINF:-1,Dubai
-http://88.150.198.74/Amir/9685/190.ch
-#EXTINF:-1,Alforat TV
-http://88.150.198.74/Amir/9685/181.ch
-#EXTINF:-1,qatar1
-http://88.150.198.74/Amir/9685/156.ch
-#EXTINF:-1,Al Aan
-http://88.150.198.74/Amir/9685/180.ch
-#EXTINF:-1,Dubai One
-http://88.150.198.74/Amir/9685/172.ch
-#EXTINF:-1,Dubai Sama
-http://88.150.198.74/Amir/9685/173.ch
-#EXTINF:-1,Dubai Noor
-http://88.150.198.74/Amir/9685/398.ch
-#EXTINF:-1,Dubai Racing
-http://88.150.198.74/Amir/9685/399.ch
+#EXTINF:-1,CBC TWO
+http://88.150.198.74/Amir/9685/526.ch
+#EXTINF:-1,SADUDI SPORT 1
+http://88.150.198.74/Amir/9685/527.ch
+#EXTINF:-1,SADUDI 1
+http://88.150.198.74/Amir/9685/528.ch
+#EXTINF:-1,beINSPORT1HD
+http://88.150.198.74/Amir/9685/702.ch
+#EXTINF:-1,beINSPORT2HD
+http://88.150.198.74/Amir/9685/703.ch
+#EXTINF:-1,beINSPORT3HD
+http://88.150.198.74/Amir/9685/704.ch
+#EXTINF:-1,beINSPORT4HD
+http://88.150.198.74/Amir/9685/705.ch
+#EXTINF:-1,beINSPORT5HD
+http://88.150.198.74/Amir/9685/706.ch
+#EXTINF:-1,beINSPORT6HD
+http://88.150.198.74/Amir/9685/707.ch
+#EXTINF:-1,beINSPORT7HD
+http://88.150.198.74/Amir/9685/708.ch
+#EXTINF:-1,beINSPORT13HD
+http://88.150.198.74/Amir/9685/714.ch
+#EXTINF:-1,beINSPORT8
+http://88.150.198.74/Amir/9685/717.ch
+#EXTINF:-1,MBC 2
+http://88.150.198.74/Amir/9685/720.ch
+#EXTINF:-1,MBC 3
+http://88.150.198.74/Amir/9685/721.ch
+#EXTINF:-1,Fatafet
+http://88.150.198.74/Amir/9685/722.ch
+#EXTINF:-1,Arte
+http://88.150.198.74/Amir/9685/725.ch
+#EXTINF:-1,Mens up
+http://88.150.198.74/Amir/9685/727.ch
+#EXTINF:-1,LCP
+http://88.150.198.74/Amir/9685/728.ch
+#EXTINF:-1,Weo
+http://88.150.198.74/Amir/9685/729.ch
+#EXTINF:-1,Mirabelle TV
+http://88.150.198.74/Amir/9685/730.ch
+#EXTINF:-1,Yvelines Premi&#232;re
+http://88.150.198.74/Amir/9685/731.ch
+#EXTINF:-1,Air
+http://88.150.198.74/Amir/9685/732.ch
+#EXTINF:-1,TVR Renne 35 Bretagne
+http://88.150.198.74/Amir/9685/734.ch
+#EXTINF:-1,Grande Lille TV
+http://88.150.198.74/Amir/9685/735.ch
+#EXTINF:-1,Alsace20
+http://88.150.198.74/Amir/9685/736.ch
+#EXTINF:-1,D8
+http://88.150.198.74/Amir/9685/739.ch
+#EXTINF:-1,France 4
+http://88.150.198.74/Amir/9685/740.ch
+#EXTINF:-1,France O
+http://88.150.198.74/Amir/9685/741.ch
+#EXTINF:-1,France 3
+http://88.150.198.74/Amir/9685/742.ch
+#EXTINF:-1,France 5
+http://88.150.198.74/Amir/9685/743.ch
+#EXTINF:-1,BFM TV
+http://88.150.198.74/Amir/9685/744.ch
+#EXTINF:-1,D17
+http://88.150.198.74/Amir/9685/745.ch
+#EXTINF:-1,KTO
+http://88.150.198.74/Amir/9685/746.ch
+#EXTINF:-1,beINSPORT9HD
+http://88.150.198.74/Amir/9685/747.ch
+#EXTINF:-1,beIN Sports HD11
+http://88.150.198.74/Amir/9685/748.ch
+#EXTINF:-1,beIN Sports14HD
+http://88.150.198.74/Amir/9685/749.ch
+#EXTINF:-1,beINSPORT15HD
+http://88.150.198.74/Amir/9685/750.ch
+#EXTINF:-1,beINSPORT8HD
+http://88.150.198.74/Amir/9685/751.ch
+#EXTINF:-1,beINSPORT12HD
+http://88.150.198.74/Amir/9685/752.ch
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,ANNAHAR SPORT
