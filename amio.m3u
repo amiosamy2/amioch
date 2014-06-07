@@ -809,6 +809,14 @@ http://88.150.198.74/Amir/9685/750.ch
 http://88.150.198.74/Amir/9685/751.ch
 #EXTINF:-1,beINSPORT12HD
 http://88.150.198.74/Amir/9685/752.ch
+#EXTINF:-1,SMART SPORT HD
+http://88.150.198.74/Amir/9685/753.ch
+#EXTINF:-1,SMART MOVIES HD
+http://88.150.198.74/Amir/9685/754.ch
+#EXTINF:-1,ABU DHABI DRAMA
+http://88.150.198.74/Amir/9685/755.ch
+#EXTINF:-1,BOX OFFICE MOVES VOD
+http://88.150.198.74/Amir/9685/756.ch
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,ANNAHAR SPORT
