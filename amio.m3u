@@ -411,18 +411,68 @@ http://cdn-streamer1.magictvbox.com/live/10145.stream/chunklist.m3u8
 http://cdn-streamer1.magictvbox.com/live/10174.stream/chunklist.m3u8
 #EXTINF:-1,ZEE AFLAM
 rtmp://iptv.web-medias.net/live playpath=zee_aflam  swfUrl=http://www.web-medias.net/jwplayer.swf  pageUrl=http://www.web-medias.net/zee-aflam-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%b2%d9%8a-%d8%a7%d9%81%d9%84%d8%a7%d9%85-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_c8fa1d2c1.html
+#EXTINF:-1,Arabiya 1
+rtsp://108.178.42.58:1935/live/10144.stream
+#EXTINF:-1,Arabiya 2
+rtsp://108.178.42.58:1935/live/10145.stream
+#EXTINF:-1,Arabiya 3
+rtsp://108.178.42.58:1935/live/10146.stream
+#EXTINF:-1,Arabiya 4
+rtsp://108.178.42.58:1935/live/10147.stream
+#EXTINF:-1,Arabiya 5
+rtsp://108.178.42.58:1935/live/10148.stream
+#EXTINF:-1,Arabiya 6
+rtsp://108.178.42.58:1935/live/10149.stream
+#EXTINF:-1,Arabiya 7
+rtsp://108.178.42.58:1935/live/10150.stream
+#EXTINF:-1,Arabiya 8
+rtsp://108.178.42.58:1935/live/10151.stream
+#EXTINF:-1,Arabiya 9
+rtsp://108.178.42.58:1935/live/10156.stream
+#EXTINF:-1,Arabiya 10
+rtsp://108.178.42.58:1935/live/10163.stream
+#EXTINF:-1,Arabiya 11
+rtsp://108.178.42.58:1935/live/10165.stream
+#EXTINF:-1,Arabiya 12
+rtsp://108.178.42.58:1935/live/10169.stream
+#EXTINF:-1,Arabiya 13
+rtsp://108.178.42.58:1935/live/10170.stream
+#EXTINF:-1,Arabiya 14
+rtsp://108.178.42.58:1935/live/10171.stream
+#EXTINF:-1,Arabiya 15
+rtsp://108.178.42.58:1935/live/10172.stream
+#EXTINF:-1,Arabiya 16
+rtsp://108.178.42.58:1935/live/10174.stream
+#EXTINF:-1,Arabiya 17
+rtsp://108.178.42.58:1935/live/10175.stream
+#EXTINF:-1,Arabiya 18
+rtsp://108.178.42.58:1935/live/10176.stream
+#EXTINF:-1,Arabiya 19
+rtsp://108.178.42.58:1935/live/10179.stream
+#EXTINF:-1,Arabiya 20
+rtsp://108.178.42.58:1935/live/10182.stream
+#EXTINF:-1,Arabiya 21
+rtsp://108.178.42.58:1935/live/10186.stream
+#EXTINF:-1,Arabiya 22
+rtsp://108.178.42.58:1935/live/10187.stream
+#EXTINF:-1,Arabiya 23
+rtsp://108.178.40.250:1935/live/10129.stream
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,ANNAHAR SPORT
 http://cdn-streamer1.magictvbox.com/live/10179.stream/chunklist.m3u8
 #EXTINF:-1,AL AHLY TV
 http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
-#EXTINF:-1,Astro Supersport 1
-http://122.155.203.9:8081/get/assp1/playlist.m3u8
-#EXTINF:-1,Astro Supersport 2
-http://122.155.203.9:8081/get/assp2/playlist.m3u8
-#EXTINF:-1,Astro Supersport 3
-http://122.155.203.9:8081/get/assp3/playlist.m3u8
+#EXTINF:-1,Arenasport 1
+rtmp://95.211.137.231/live/ playpath=arena11 swfUrl=http://www.sports-x.net/player/jwplayer.flash.swf pageUrl=http://www.sports-x.net/player/index.php?id=arena11
+#EXTINF:-1,Arenasport 2
+rtmp://95.211.137.231/live/ playpath=arena22 swfUrl=http://www.sports-x.net/player/jwplayer.flash.swf pageUrl=http://www.sports-x.net/player/index.php?id=arena22
+#EXTINF:-1,Arenasport 3
+rtmp://95.211.137.231/live/ playpath=arena33 swfUrl=http://www.sports-x.net/player/jwplayer.flash.swf pageUrl=http://www.sports-x.net/player/index.php?id=arena33
+#EXTINF:-1,Arenasport 4
+rtmp://95.211.137.231/live/ playpath=arena44 swfUrl=http://www.sports-x.net/player/jwplayer.flash.swf pageUrl=http://www.sports-x.net/player/index.php?id=arena44
+#EXTINF:-1,Bein sport1
+rtmp://video2.uvlog.com/uvlog_video/3142 playpath=stream swfUrl=http://www.kora-online.tv/player_uvlog.swf pageUrl=http://www.kora-online.tv/kora4.html
 #EXTINF:-1,Bein sport1
 rtmp://mootem.com/live//mootembein
 #EXTINF:-1,Bein sports2
@@ -498,14 +548,6 @@ rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04strea
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
 #EXTINF:-1,Sky Sports 1
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315
-#EXTINF:-1,Sky Sports 3
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151316
-#EXTINF:-1,Sky Sports 4
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151317
-#EXTINF:-1,Sky Sport F1
-rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151326
-#EXTINF:-1,Sky Sports 1
 rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
 #EXTINF:-1,Sky Sports 2
 rtmp://31.220.0.82:1935/live playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
@@ -517,14 +559,14 @@ rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwpla
 rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
 #EXTINF:-1,SKY F1
 rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
-#EXTINF:-1,Sky Calcio HD
-rtmp://31.220.0.133:1935/live playpath=skycalcioit swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=skycalcioit&vw=620&vh=490
-#EXTINF:-1,Sky Sport italia 1
-rtmp://31.220.0.104:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490
-#EXTINF:-1,Sky Sport italia 2
-rtmp://31.220.0.133:1935/live playpath=sky2italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky2italia&vw=620&vh=490
-#EXTINF:-1,Sky Sport italia 3
-rtmp://31.220.0.103:1935/live playpath=sky3italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky3italia&vw=620&vh=490
+#EXTINF:-1,SKY CALCIO:SKY SPORT 24
+rtmp://31.220.0.134:1935/live playpath=calcio swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKY CALCIO:SKY SPORT 1
+rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKY CALCIO:SKY SPORT 2
+rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SKY CALCIO:SKY SPORT 3
+rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,Sky Sport italia 1
 rtmp://31.220.0.86:1935/live playpath=sky1italia swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,Sky Sport italia 2
@@ -622,19 +664,17 @@ rtmpe://watch.playfooty.tv/live playpath=cartoonet100 swfUrl=http://www.playfoot
 #EXTINF:-1,DIRECT TV
 rtmp://46.246.29.140:1935/stream// playpath=fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=dircttv
 #EXTINF:-1,Fashion Box
-http://stream1.zoovision.com//livespi/fashionbox/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:fashionbox_source/playlist.m3u8
 #EXTINF:-1,360 Tune Box
-http://stream1.zoovision.com//livespi/360tunebox/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:360tunebox_source/playlist.m3u8
 #EXTINF:-1,Docu Box
-http://stream1.zoovision.com//livespi/docubox/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:docubox_source/playlist.m3u8
 #EXTINF:-1,Fight Box
-http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:fightbox_source/playlist.m3u8
 #EXTINF:-1,ART House
-http://stream1.zoovision.com//livespi/arthouse/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:arthouse_source/playlist.m3u8
 #EXTINF:-1,FASTNFUN
-http://stream1.zoovision.com//livespi/fastnfun/playlist.m3u8
-#EXTINF:-1,EROXX
-http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8
+http://stream1.zoovision.com//livespi/_definst_/mp4:fastnfun_source/playlist.m3u8
 #EXTINF:-1,ESPN
 rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
 #EXTINF:-1,ESPN
