@@ -457,6 +457,36 @@ rtsp://108.178.42.58:1935/live/10186.stream
 rtsp://108.178.42.58:1935/live/10187.stream
 #EXTINF:-1,Arabiya 23
 rtsp://108.178.40.250:1935/live/10129.stream
+#EXTINF:-1,MBC 1
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/4.ch
+#EXTINF:-1,MBC 2
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/5.ch
+#EXTINF:-1,MBC 3
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/6.ch
+#EXTINF:-1,MBC 4
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/7.ch
+#EXTINF:-1,MBC Action
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/8.ch
+#EXTINF:-1,MBC Bollywood
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/9.ch
+#EXTINF:-1,MBC Masr
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/10.ch
+#EXTINF:-1,MBC Max
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/11.ch
+#EXTINF:-1,Al Sharqiya
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/1.ch
+#EXTINF:-1,Al Aoula Maroc
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/2.ch
+#EXTINF:-1,2M
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/3.ch
+#EXTINF:-1,Bein Sport 1
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/12.ch
+#EXTINF:-1,Dubai
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/13.ch
+#EXTINF:-1,Dubai One
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/14.ch
+#EXTINF:-1,National Geo Ad
+http://93.104.213.202/EiaXlRetxT/brahim/iptv/15.ch
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 rtmp://50.7.180.18/nahar1 playpath=naharsports.stream_480p swfUrl=http://demos.streamtrix.com/swf/flowplayer.commercial-3.2.15.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,ANNAHAR SPORT
@@ -472,41 +502,19 @@ rtmp://95.211.137.231/live/ playpath=arena33 swfUrl=http://www.sports-x.net/play
 #EXTINF:-1,Arenasport 4
 rtmp://95.211.137.231/live/ playpath=arena44 swfUrl=http://www.sports-x.net/player/jwplayer.flash.swf pageUrl=http://www.sports-x.net/player/index.php?id=arena44
 #EXTINF:-1,Bein sport1
-rtmp://video2.uvlog.com/uvlog_video/3142 playpath=stream swfUrl=http://www.kora-online.tv/player_uvlog.swf pageUrl=http://www.kora-online.tv/kora4.html
-#EXTINF:-1,Bein sport1
-rtmp://mootem.com/live//mootembein
-#EXTINF:-1,Bein sports2
-rtmp://mootem.com/live//mootembeinn
-#EXTINF:-1,bien1
-rtmp://mootem.com/live//mootembein1
-#EXTINF:-1,bien2
-rtmp://mootem.com/live//mootembein2
-#EXTINF:-1,bien3
-rtmp://mootem.com/live//mootembein3
-#EXTINF:-1,bien4
-rtmp://mootem.com/live//mootembein4
-#EXTINF:-1,bien5
-rtmp://mootem.com/live//mootembein5
-#EXTINF:-1,bien6
-rtmp://mootem.com/live//mootembein6
-#EXTINF:-1,bien7
-rtmp://mootem.com/live//mootembein7
-#EXTINF:-1,bien8
-rtmp://mootem.com/live//mootembein8
-#EXTINF:-1,bien9
-rtmp://mootem.com/live//mootembein9
-#EXTINF:-1,bien10
-rtmp://mootem.com/live//mootembein10
-#EXTINF:-1,bien11
-rtmp://mootem.com/live//mootembein11
-#EXTINF:-1,bien12
-rtmp://mootem.com/live//mootembein12
-#EXTINF:-1,bien13
-rtmp://mootem.com/live//mootembein13
-#EXTINF:-1,bien14
-rtmp://mootem.com/live//mootembein14
-#EXTINF:-1,bien15
-rtmp://mootem.com/live//mootembein15
+http://93.104.213.202/EiaXlRetxT/get.php?username=daz&password=iptv2&type=m3u
+#EXTINF:-1,beIN Sport 1 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/1.ch
+#EXTINF:-1,beIN Sport 2 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/2.ch
+#EXTINF:-1,beIN Sport 3 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/3.ch
+#EXTINF:-1,beIN Sport 4 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/4.ch
+#EXTINF:-1,beIN Sport 5 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/5.ch
+#EXTINF:-1,beIN Sport 6 HD
+http://iuu8000:iuu8000@romo.selfip.com:5002/6.ch
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
