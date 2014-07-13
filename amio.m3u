@@ -148,9 +148,7 @@ http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
 #EXTINF:-1,Bloomberg (Live Event)
 http://cdn3.videos.bloomberg.com/btv/event/master.m3u8
 #EXTINF:-1,BBC News Arabic
-http://cdn.magictvbox.com/live/10136.stream/playlist.m3u8
-#EXTINF:-1,BBC News Arabic
-rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_162 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf?1391524826 pageUrl=http://www.livestation.com/en/bbc-arabic
+http://www.bbc.co.uk/arabic/meta/tx/live/atv_live_bb.asx
 #EXTINF:-1,BBC News Arabic
 rtmp://hd7.lsops.net/live/ playpath=bbcarab_ar_364 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
 #EXTINF:-1,BBC Arabic
@@ -392,11 +390,17 @@ http://cdn-streamer1.magictvbox.com/live/10179.stream/chunklist.m3u8
 #EXTINF:-1,AL AHLY TV
 http://cdn-streamer1.magictvbox.com/live/10165.stream/chunklist.m3u8
 #EXTINF:-1,beIN Sport 1 HD
-rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports1
+rtmp://204.45.157.186/flash playpath=18951?MTQwNTI3Mjk2ODtkN2M1OTc0MmUxMzE5OWFiNGU2MDI1ZTBmZmRlOTQ2Zg== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/BhMTI4NzQwNjgzMWJlNzY0MTM2ZTQ_/bmJjc246YmNkOWRmNTk0NTE5MTIwMWVjNjhhNTI0OTJhM2Y5YjM6NTNhMDg4NTAzZT
+#EXTINF:-1,beIN Sport 1 HD
+rtmp://50.7.28.162/flash playpath=18951?MTQwNTI3Mjk1NDszZDgxMWI3NWJiZWMzZjUxMjY1ZWJlYTRiNWQ1YWM2Nw== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/M0MjlkOGJhYWYxNGFkMDk2NmM2MDA_/bmJjc246YmNkOWRmNTk0NTE5MTIwMWVjNjhhNTI0OTJhM2Y5YjM6ZGI1YWYyOTkxOW
 #EXTINF:-1,beIN Sport 2 HD
-rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports2
+rtmp://50.7.28.82/flash playpath=18950?MTQwNTI3MzE4ODs2Yjc2MGVkZGI3MTc4NjJlMjI5NTIwZTEzNTVkMGY3ZA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IzY2E0MzNiY2VjNzkyMjI2MzBhNzM_/c2V0YW46NWNiMzQwODBjNWNjYjY2MjIxYWZkZjM4MzQ4YWQ4N2Y6MzU0MjIyMjBkZG
 #EXTINF:-1,beIN Sport 3 HD
-rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports3
+rtmp://50.7.28.178/flash playpath=19024?MTQwNTI3MzE5NztiN2VhYTZiN2YzNDkxMjJkYWRiODY2ZGYxNTJjZTM1OA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/VkZmU1NjRlZTg2YzFmOGRlOGMwZGM_/YmVpbjM6ZDU4N2U2MDUxZGI5MGNjZGExMGE5ZDA5OWE1NTM2ZjU6YjNlMjAzZjgwYm
+#EXTINF:-1,beIN Sport 4 HD
+rtmp://204.45.157.234/flash playpath=19026?MTQwNTI3MzE5OTs1NDY0YjQ1ZGU1MDk3NjFlODQ4NDFmMWFhN2YwM2E4NA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/kzNmEyNTViN2E0NzNjNDFhOTI5Nzc_/YmVpbjQ6YzE5MTlhZGVmZWVmNjJiMDg5NWJlOGZiZWMzYmU2YWM6NGFkZGFmOWJlNT
+#EXTINF:-1,beIN Sport 5 HD
+rtmp://50.7.28.210/flash playpath=19027?MTQwNTI3MzIwMzswZjk2NDJkYzVlN2VhNWU4MTRiNmIwYTViNThiOTBkZQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/A0YTQ1YzJmNWNhZDEyMGVlNTkyZDc_/YmVpbjU6YWRjYzFkMjE1NTAwNjIxNzY1NmY1MTk4MzExOTg1NmI6OGIwNDAzYjQyMz
 #EXTINF:-1,BT Sport 1
 rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
 #EXTINF:-1,BT Sport 2
@@ -485,12 +489,30 @@ http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
 rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:-1,Kids1
 rtmp://175.103.51.2:1935/live/kids1.stream
-#EXTINF:-1 group-title=Movies,Cinema Pictures
-mms://72.13.93.186/moviesofthe50s?MSWMExt=.asf
-#EXTINF:-1,FOX Crime
-rtmp://206.190.139.28/live playpath=ssfoxcrime?id=12570 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ssfoxcrime/1/900/64 Conn=S:OK
-#EXTINF:-1,AXN
-rtmp://46.28.53.18/live playpath=ef47axn?id=12795 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/ef47axn/1/630/440 Conn=S:OK
+#EXTINF:-1 group-title=Movies,Moviegold
+http://moviegold.homepc.it:1111
+#EXTINF:-1,Moviemax TURK
+http://moviegold.homepc.it:1112
+#EXTINF:-1,Moviemax Premier
+http://moviegold.homepc.it:1113
+#EXTINF:-1,Moviesmart Premium
+http://moviegold.homepc.it:1114
+#EXTINF:-1,Moviegold Black
+http://moviegold.homepc.it:1116
+#EXTINF:-1,Moviegold Animasyon
+http://moviegold.homepc.it:1117
+#EXTINF:-1,Moviegold Comedy
+http://moviegold.homepc.it:1118
+#EXTINF:-1,Sky Movies Premiere
+http://87.121.34.2:9987/udp/239.100.0.104:1234
+#EXTINF:-1,Sky Movies Comedy
+http://87.121.34.2:9987/udp/239.100.0.105:1234
+#EXTINF:-1,Sky Movies Sci-Fi & Horror
+http://87.121.34.2:9987/udp/239.100.0.106:1234
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://87.121.34.2:9987/udp/239.100.0.107:1234
+#EXTINF:-1,Sky Movies Drama & Romance
+http://87.121.34.2:9987/udp/239.100.0.108:1234
 #EXTINF:-1,Sky Movies Greats
 rtmp://31.220.0.103:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490
 #EXTINF:-1,Sky Movies SCI FI
