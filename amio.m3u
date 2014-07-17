@@ -299,18 +299,36 @@ http://cdn-delay1.magictvbox.com/2.m3u8
 http://cdn-delay1.magictvbox.com/15.m3u8
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
-#EXTINF:-1,beIN Sport 1 HD
-rtmp://204.45.157.186/flash playpath=18951?MTQwNTI3Mjk2ODtkN2M1OTc0MmUxMzE5OWFiNGU2MDI1ZTBmZmRlOTQ2Zg== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/BhMTI4NzQwNjgzMWJlNzY0MTM2ZTQ_/bmJjc246YmNkOWRmNTk0NTE5MTIwMWVjNjhhNTI0OTJhM2Y5YjM6NTNhMDg4NTAzZT
-#EXTINF:-1,beIN Sport 1 HD
-rtmp://50.7.28.162/flash playpath=18951?MTQwNTI3Mjk1NDszZDgxMWI3NWJiZWMzZjUxMjY1ZWJlYTRiNWQ1YWM2Nw== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/M0MjlkOGJhYWYxNGFkMDk2NmM2MDA_/bmJjc246YmNkOWRmNTk0NTE5MTIwMWVjNjhhNTI0OTJhM2Y5YjM6ZGI1YWYyOTkxOW
-#EXTINF:-1,beIN Sport 2 HD
-rtmp://50.7.28.82/flash playpath=18950?MTQwNTI3MzE4ODs2Yjc2MGVkZGI3MTc4NjJlMjI5NTIwZTEzNTVkMGY3ZA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IzY2E0MzNiY2VjNzkyMjI2MzBhNzM_/c2V0YW46NWNiMzQwODBjNWNjYjY2MjIxYWZkZjM4MzQ4YWQ4N2Y6MzU0MjIyMjBkZG
-#EXTINF:-1,beIN Sport 3 HD
-rtmp://50.7.28.178/flash playpath=19024?MTQwNTI3MzE5NztiN2VhYTZiN2YzNDkxMjJkYWRiODY2ZGYxNTJjZTM1OA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/VkZmU1NjRlZTg2YzFmOGRlOGMwZGM_/YmVpbjM6ZDU4N2U2MDUxZGI5MGNjZGExMGE5ZDA5OWE1NTM2ZjU6YjNlMjAzZjgwYm
-#EXTINF:-1,beIN Sport 4 HD
-rtmp://204.45.157.234/flash playpath=19026?MTQwNTI3MzE5OTs1NDY0YjQ1ZGU1MDk3NjFlODQ4NDFmMWFhN2YwM2E4NA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/kzNmEyNTViN2E0NzNjNDFhOTI5Nzc_/YmVpbjQ6YzE5MTlhZGVmZWVmNjJiMDg5NWJlOGZiZWMzYmU2YWM6NGFkZGFmOWJlNT
-#EXTINF:-1,beIN Sport 5 HD
-rtmp://50.7.28.210/flash playpath=19027?MTQwNTI3MzIwMzswZjk2NDJkYzVlN2VhNWU4MTRiNmIwYTViNThiOTBkZQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/A0YTQ1YzJmNWNhZDEyMGVlNTkyZDc_/YmVpbjU6YWRjYzFkMjE1NTAwNjIxNzY1NmY1MTk4MzExOTg1NmI6OGIwNDAzYjQyMz
+#EXTINF:-BEIN SPORT 1
+rtmpe://46.246.124.22:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 2
+rtmpe://46.246.124.22:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 3
+rtmpe://46.246.124.22:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 4
+rtmpe://46.246.124.22:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 5
+rtmpe://46.246.124.22:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 6
+rtmpe://46.246.124.22:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 7
+rtmpe://46.246.124.22:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 8
+rtmpe://46.246.124.22:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 9
+rtmpe://46.246.124.22:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 10
+rtmpe://46.246.124.22:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 11
+rtmpe://46.246.124.22:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 12
+rtmpe://46.246.124.22:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 13
+rtmpe://46.246.124.22:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 14
+rtmpe://46.246.124.22:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-BEIN SPORT 15
+rtmpe://46.246.124.22:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
