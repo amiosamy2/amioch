@@ -311,10 +311,6 @@ rtmp://50.7.28.178/flash playpath=19024?MTQwNTI3MzE5NztiN2VhYTZiN2YzNDkxMjJkYWRi
 rtmp://204.45.157.234/flash playpath=19026?MTQwNTI3MzE5OTs1NDY0YjQ1ZGU1MDk3NjFlODQ4NDFmMWFhN2YwM2E4NA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/kzNmEyNTViN2E0NzNjNDFhOTI5Nzc_/YmVpbjQ6YzE5MTlhZGVmZWVmNjJiMDg5NWJlOGZiZWMzYmU2YWM6NGFkZGFmOWJlNT
 #EXTINF:-1,beIN Sport 5 HD
 rtmp://50.7.28.210/flash playpath=19027?MTQwNTI3MzIwMzswZjk2NDJkYzVlN2VhNWU4MTRiNmIwYTViNThiOTBkZQ== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/A0YTQ1YzJmNWNhZDEyMGVlNTkyZDc_/YmVpbjU6YWRjYzFkMjE1NTAwNjIxNzY1NmY1MTk4MzExOTg1NmI6OGIwNDAzYjQyMz
-#EXTINF:-1,BT Sport 1
-rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490
-#EXTINF:-1,BT Sport 2
-rtmp://31.220.0.103:1935/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
@@ -463,6 +459,171 @@ rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04str
 rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
 #EXTINF:-1,Wisconsin Channel
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.74:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.76:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.77:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.79:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.80:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.81:1234?by_HasBahCa
+#EXTINF:-1,BBC News
+http://87.121.34.2:9987/udp/239.100.0.82:1234?by_HasBahCa
+#EXTINF:-1,BBC 2
+http://87.121.34.2:9987/udp/239.100.0.83:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.84:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.85:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.86:1234?by_HasBahCa
+#EXTINF:-1,5
+http://87.121.34.2:9987/udp/239.100.0.87:1234?by_HasBahCa
+#EXTINF:-1,euronews
+http://87.121.34.2:9987/udp/239.100.0.89:1234?by_HasBahCa
+#EXTINF:-1,France 24
+http://87.121.34.2:9987/udp/239.100.0.90:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.91:1234?by_HasBahCa
+#EXTINF:-1,BBC 4
+http://87.121.34.2:9987/udp/239.100.0.92:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.93:1234?by_HasBahCa
+#EXTINF:-1,CNBC
+http://87.121.34.2:9987/udp/239.100.0.94:1234?by_HasBahCa
+#EXTINF:-1,6
+http://87.121.34.2:9987/udp/239.100.0.95:1234?by_HasBahCa
+#EXTINF:-1,Film
+http://87.121.34.2:9987/udp/239.100.0.96:1234?by_HasBahCa
+#EXTINF:-1,TV Shop
+http://87.121.34.2:9987/udp/239.100.0.97:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.104:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.105:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.106:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.107:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.108:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.109:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.110:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports 1
+http://87.121.34.2:9987/udp/239.100.0.111:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.113:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.114:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.115:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.116:1234?by_HasBahCa
+#EXTINF:-1,Eurosport 2 UK
+http://87.121.34.2:9987/udp/239.100.0.117:1234?by_HasBahCa
+#EXTINF:-1,British Eurosport
+http://87.121.34.2:9987/udp/239.100.0.118:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.119:1234?by_HasBahCa
+#EXTINF:-1,Disney
+http://87.121.34.2:9987/udp/239.100.0.120:1234?by_HasBahCa
+#EXTINF:-1,Nick
+http://87.121.34.2:9987/udp/239.100.0.121:1234?by_HasBahCa
+#EXTINF:-1,CN
+http://87.121.34.2:9987/udp/239.100.0.122:1234?by_HasBahCa
+#EXTINF:-1,Discovery
+http://87.121.34.2:9987/udp/239.100.0.123:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.124:1234?by_HasBahCa
+#EXTINF:-1,Discovery Science
+http://87.121.34.2:9987/udp/239.100.0.125:1234?by_HasBahCa
+#EXTINF:-1,Animal plant
+http://87.121.34.2:9987/udp/239.100.0.126:1234?by_HasBahCa
+#EXTINF:-1,National Geographics
+http://87.121.34.2:9987/udp/239.100.0.127:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.128:1234?by_HasBahCa
+#EXTINF:-1,History
+http://87.121.34.2:9987/udp/239.100.0.129:1234?by_HasBahCa
+#EXTINF:-1,Racing
+http://87.121.34.2:9987/udp/239.100.0.130:1234?by_HasBahCa
+#EXTINF:-1,ESPN
+http://87.121.34.2:9987/udp/239.100.0.131:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.132:1234?by_HasBahCa
+#EXTINF:-1,ID
+http://87.121.34.2:9987/udp/239.100.0.133:1234?by_HasBahCa
+#EXTINF:-1,Sky News
+http://87.121.34.2:9987/udp/239.100.0.134:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports 2
+http://87.121.34.2:9987/udp/239.100.0.135:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.136:1234?by_HasBahCa
+#EXTINF:-1,Channel 4
+http://87.121.34.2:9987/udp/239.100.0.137:1234?by_HasBahCa
+#EXTINF:-1,Bloomberg
+http://87.121.34.2:9987/udp/239.100.0.138:1234?by_HasBahCa
+#EXTINF:-1,BBC News
+http://87.121.34.2:9987/udp/239.100.0.139:1234?by_HasBahCa
+#EXTINF:-1,BBC Three
+http://87.121.34.2:9987/udp/239.100.0.140:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.141:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports 3
+http://87.121.34.2:9987/udp/239.100.0.142:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports F1
+http://87.121.34.2:9987/udp/239.100.0.143:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports 4
+http://87.121.34.2:9987/udp/239.100.0.144:1234?by_HasBahCa
+#EXTINF:-1,Sky Sports News
+http://87.121.34.2:9987/udp/239.100.0.145:1234?by_HasBahCa
+#EXTINF:-1,Comedy Central
+http://87.121.34.2:9987/udp/239.100.0.146:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.147:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.148:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.149:1234?by_HasBahCa
+#EXTINF:-1,VOX
+http://87.121.34.2:9987/udp/239.100.0.152:1234?by_HasBahCa
+#EXTINF:-1,Dubai Racing
+http://87.121.34.2:9987/udp/239.100.0.156:1234?by_HasBahCa
+#EXTINF:-1,CNN
+http://87.121.34.2:9987/udp/239.100.0.161:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.168:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.171:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.176:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.178:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.179:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.180:1234?by_HasBahCa
+#EXTINF:-1,
+http://87.121.34.2:9987/udp/239.100.0.183:1234?by_HasBahCa
+#EXTINF:-1,OSN Sports 3
+http://87.121.34.2:9987/udp/239.100.0.185:1234?by_HasBahCa
+#EXTINF:-1,OSN Sports 4
+http://87.121.34.2:9987/udp/239.100.0.186:1234?by_HasBahCa
+#EXTINF:-1,BT Sport 1
+http://87.121.34.2:9987/udp/239.100.0.227:1234?by_HasBahCa
+#EXTINF:-1,BT Sport 2
+http://87.121.34.2:9987/udp/239.100.0.228:1234?by_HasBahCa
+http://87.121.34.2:9987/udp/239.100.0.229:1234?by_HasBahCa
+#EXTINF:-1,World Travel
+http://87.121.34.2:9987/udp/239.100.0.235:1234?by_HasBahCa
+#EXTINF:-1,BeIN Sports
+http://87.121.34.2:9987/udp/239.100.0.246:1234?by_HasBahCa
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
