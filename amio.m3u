@@ -425,10 +425,6 @@ rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePla
 rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,Sports de combat
 http://202.75.23.37:8800/live/ch20/01.m3u8
-#EXTINF:-1group-title=Documentary,ANIMAL PLANET HD
-http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-rtmp://s01.webport.tv/promo/mtv live=2
 #EXTINF:-1 group-title=Kids,Cartoon Network
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1,ANIMATED FILMS
@@ -439,54 +435,16 @@ http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
 rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 #EXTINF:-1,Kids1
 rtmp://175.103.51.2:1935/live/kids1.stream
-#EXTINF:-1 group-title=Movies,Moviegold
-http://moviegold.homepc.it:1111
-#EXTINF:-1,Moviemax TURK
-http://moviegold.homepc.it:1112
-#EXTINF:-1,Moviemax Premier
-http://moviegold.homepc.it:1113
-#EXTINF:-1,Moviesmart Premium
-http://moviegold.homepc.it:1114
-#EXTINF:-1,Moviegold Black
-http://moviegold.homepc.it:1116
-#EXTINF:-1,Moviegold Animasyon
-http://moviegold.homepc.it:1117
-#EXTINF:-1,Moviegold Comedy
-http://moviegold.homepc.it:1118
-#EXTINF:-1,Sky Movies Premiere
-http://87.121.34.2:9987/udp/239.100.0.104:1234
-#EXTINF:-1,Sky Movies Comedy
-http://87.121.34.2:9987/udp/239.100.0.105:1234
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://87.121.34.2:9987/udp/239.100.0.106:1234
-#EXTINF:-1,Sky Movies Crime & Thriller
-http://87.121.34.2:9987/udp/239.100.0.107:1234
-#EXTINF:-1,Sky Movies Drama & Romance
-http://87.121.34.2:9987/udp/239.100.0.108:1234
-#EXTINF:-1,Sky Movies Greats
-rtmp://31.220.0.103:1935/live playpath=greatx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=greatx&vw=620&vh=490
-#EXTINF:-1,Sky Movies SCI FI
-rtmp://31.220.0.103:1935/live playpath=scifi swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=scifi&vw=620&vh=490
-#EXTINF:-1,Sky Movies Crime
-rtmp://31.220.0.133:1935/live playpath=thrlieer swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=thrlieer&vw=620&vh=490
-#EXTINF:-1,TubTub Laughs Tr
-mms://72.13.93.186/kidsmovies?MSWMExt=.asf 
-#EXTINF:-1,TubTub Bonanza Western
-mms://72.13.93.186/BONANZA?MSWMExt=.asf 
-#EXTINF:-1,TubTub Western
-mms://72.13.93.186/tvwesterns?MSWMExt=.asf 
-#EXTINF:-1,TubTub Comedies
-mms://72.13.93.186/comedymovies?MSWMExt=.asf
-#EXTINF:-1,TubTub Toon TV Studios
-mms://72.13.93.186/calvinandthecolonel?MSWMExt=.asf 
-#EXTINF:-1,TubTub Roundup Westerns
-mms://72.13.93.186/rangerider?MSWMExt=.asf
 #EXTINF:-1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC
 rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
 #EXTINF:-1,AMC
 rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430
+#EXTINF:-1,ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+rtmp://s01.webport.tv/promo/mtv live=2
 #EXTINF:-1,CBS
 rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430
 #EXTINF:-1,Cinemax
@@ -539,171 +497,6 @@ rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04str
 rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
 #EXTINF:-1,Wisconsin Channel
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.74:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.76:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.77:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.79:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.80:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.81:1234?by_HasBahCa
-#EXTINF:-1,BBC News
-http://87.121.34.2:9987/udp/239.100.0.82:1234?by_HasBahCa
-#EXTINF:-1,BBC 2
-http://87.121.34.2:9987/udp/239.100.0.83:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.84:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.85:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.86:1234?by_HasBahCa
-#EXTINF:-1,5
-http://87.121.34.2:9987/udp/239.100.0.87:1234?by_HasBahCa
-#EXTINF:-1,euronews
-http://87.121.34.2:9987/udp/239.100.0.89:1234?by_HasBahCa
-#EXTINF:-1,France 24
-http://87.121.34.2:9987/udp/239.100.0.90:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.91:1234?by_HasBahCa
-#EXTINF:-1,BBC 4
-http://87.121.34.2:9987/udp/239.100.0.92:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.93:1234?by_HasBahCa
-#EXTINF:-1,CNBC
-http://87.121.34.2:9987/udp/239.100.0.94:1234?by_HasBahCa
-#EXTINF:-1,6
-http://87.121.34.2:9987/udp/239.100.0.95:1234?by_HasBahCa
-#EXTINF:-1,Film
-http://87.121.34.2:9987/udp/239.100.0.96:1234?by_HasBahCa
-#EXTINF:-1,TV Shop
-http://87.121.34.2:9987/udp/239.100.0.97:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.104:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.105:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.106:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.107:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.108:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.109:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.110:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports 1
-http://87.121.34.2:9987/udp/239.100.0.111:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.113:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.114:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.115:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.116:1234?by_HasBahCa
-#EXTINF:-1,Eurosport 2 UK
-http://87.121.34.2:9987/udp/239.100.0.117:1234?by_HasBahCa
-#EXTINF:-1,British Eurosport
-http://87.121.34.2:9987/udp/239.100.0.118:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.119:1234?by_HasBahCa
-#EXTINF:-1,Disney
-http://87.121.34.2:9987/udp/239.100.0.120:1234?by_HasBahCa
-#EXTINF:-1,Nick
-http://87.121.34.2:9987/udp/239.100.0.121:1234?by_HasBahCa
-#EXTINF:-1,CN
-http://87.121.34.2:9987/udp/239.100.0.122:1234?by_HasBahCa
-#EXTINF:-1,Discovery
-http://87.121.34.2:9987/udp/239.100.0.123:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.124:1234?by_HasBahCa
-#EXTINF:-1,Discovery Science
-http://87.121.34.2:9987/udp/239.100.0.125:1234?by_HasBahCa
-#EXTINF:-1,Animal plant
-http://87.121.34.2:9987/udp/239.100.0.126:1234?by_HasBahCa
-#EXTINF:-1,National Geographics
-http://87.121.34.2:9987/udp/239.100.0.127:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.128:1234?by_HasBahCa
-#EXTINF:-1,History
-http://87.121.34.2:9987/udp/239.100.0.129:1234?by_HasBahCa
-#EXTINF:-1,Racing
-http://87.121.34.2:9987/udp/239.100.0.130:1234?by_HasBahCa
-#EXTINF:-1,ESPN
-http://87.121.34.2:9987/udp/239.100.0.131:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.132:1234?by_HasBahCa
-#EXTINF:-1,ID
-http://87.121.34.2:9987/udp/239.100.0.133:1234?by_HasBahCa
-#EXTINF:-1,Sky News
-http://87.121.34.2:9987/udp/239.100.0.134:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports 2
-http://87.121.34.2:9987/udp/239.100.0.135:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.136:1234?by_HasBahCa
-#EXTINF:-1,Channel 4
-http://87.121.34.2:9987/udp/239.100.0.137:1234?by_HasBahCa
-#EXTINF:-1,Bloomberg
-http://87.121.34.2:9987/udp/239.100.0.138:1234?by_HasBahCa
-#EXTINF:-1,BBC News
-http://87.121.34.2:9987/udp/239.100.0.139:1234?by_HasBahCa
-#EXTINF:-1,BBC Three
-http://87.121.34.2:9987/udp/239.100.0.140:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.141:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports 3
-http://87.121.34.2:9987/udp/239.100.0.142:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports F1
-http://87.121.34.2:9987/udp/239.100.0.143:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports 4
-http://87.121.34.2:9987/udp/239.100.0.144:1234?by_HasBahCa
-#EXTINF:-1,Sky Sports News
-http://87.121.34.2:9987/udp/239.100.0.145:1234?by_HasBahCa
-#EXTINF:-1,Comedy Central
-http://87.121.34.2:9987/udp/239.100.0.146:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.147:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.148:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.149:1234?by_HasBahCa
-#EXTINF:-1,VOX
-http://87.121.34.2:9987/udp/239.100.0.152:1234?by_HasBahCa
-#EXTINF:-1,Dubai Racing
-http://87.121.34.2:9987/udp/239.100.0.156:1234?by_HasBahCa
-#EXTINF:-1,CNN
-http://87.121.34.2:9987/udp/239.100.0.161:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.168:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.171:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.176:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.178:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.179:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.180:1234?by_HasBahCa
-#EXTINF:-1,
-http://87.121.34.2:9987/udp/239.100.0.183:1234?by_HasBahCa
-#EXTINF:-1,OSN Sports 3
-http://87.121.34.2:9987/udp/239.100.0.185:1234?by_HasBahCa
-#EXTINF:-1,OSN Sports 4
-http://87.121.34.2:9987/udp/239.100.0.186:1234?by_HasBahCa
-#EXTINF:-1,BT Sport 1
-http://87.121.34.2:9987/udp/239.100.0.227:1234?by_HasBahCa
-#EXTINF:-1,BT Sport 2
-http://87.121.34.2:9987/udp/239.100.0.228:1234?by_HasBahCa
-http://87.121.34.2:9987/udp/239.100.0.229:1234?by_HasBahCa
-#EXTINF:-1,World Travel
-http://87.121.34.2:9987/udp/239.100.0.235:1234?by_HasBahCa
-#EXTINF:-1,BeIN Sports
-http://87.121.34.2:9987/udp/239.100.0.246:1234?by_HasBahCa
 #EXTINF:-1,Jim Jam
 http://202.75.23.37:8800/live/ch17/01.m3u8
 #EXTINF:-1,MTV live hd
