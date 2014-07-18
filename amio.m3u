@@ -329,6 +329,38 @@ rtmpe://46.246.124.22:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/
 rtmpe://46.246.124.22:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-BEIN SPORT 15
 rtmpe://46.246.124.22:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-1,Bein Sports HD1 
+http://shehabtito2010iptv.no-ip.org/test/1234/2.ch 
+#EXTINF:-1,Bein  sport1 full hd test 
+http://shehabtito2010iptv.no-ip.org/test/1234/102.ch 
+#EXTINF:-1,Bein Sport HD2 
+http://shehabtito2010iptv.no-ip.org/test/1234/3.ch 
+#EXTINF:-1,Bein Sport HD3 
+http://shehabtito2010iptv.no-ip.org/test/1234/4.ch 
+#EXTINF:-1,Bein Sport HD4 
+http://shehabtito2010iptv.no-ip.org/test/1234/5.ch 
+#EXTINF:-1,Bein Sport HD5 
+http://shehabtito2010iptv.no-ip.org/test/1234/6.ch 
+#EXTINF:-1,Bein Sport HD6 
+http://shehabtito2010iptv.no-ip.org/test/1234/7.ch 
+#EXTINF:-1,Bein Sport HD7 
+http://shehabtito2010iptv.no-ip.org/test/1234/8.ch 
+#EXTINF:-1,Bein Sport-HD8 
+http://shehabtito2010iptv.no-ip.org/test/1234/9.ch 
+#EXTINF:-1,Bein Sport HD9 
+http://shehabtito2010iptv.no-ip.org/test/1234/10.ch 
+#EXTINF:-1,Bein Sport HD10 
+http://shehabtito2010iptv.no-ip.org/test/1234/11.ch 
+#EXTINF:-1,Bein Sport HD11 
+http://shehabtito2010iptv.no-ip.org/test/1234/12.ch 
+#EXTINF:-1,Bein Sport HD12 
+http://shehabtito2010iptv.no-ip.org/test/1234/13.ch 
+#EXTINF:-1,Bein Sport-HD13 
+http://shehabtito2010iptv.no-ip.org/test/1234/14.ch 
+#EXTINF:-1,Bein Sport HD14 
+http://shehabtito2010iptv.no-ip.org/test/1234/15.ch 
+#EXTINF:-1,Bein Sport HD15 
+http://shehabtito2010iptv.no-ip.org/test/1234/16.ch
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
