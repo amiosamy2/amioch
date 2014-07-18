@@ -299,6 +299,10 @@ http://cdn-delay1.magictvbox.com/2.m3u8
 http://cdn-delay1.magictvbox.com/15.m3u8
 #EXTINF:-1 group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
+#EXTINF:-1,Bein sports1
+http://202.75.23.37:8800/live/ch18/01.m3u8
+#EXTINF:-1,Bein sports2
+http://202.75.23.37:8800/live/ch19/01.m3u8
 #EXTINF:-BEIN SPORT 1
 rtmpe://46.246.124.22:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-BEIN SPORT 2
@@ -365,16 +369,40 @@ http://shehabtito2010iptv.no-ip.org/test/1234/16.ch
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
+#EXTINF:-1,Eurosport
+http://202.75.23.37:8800/live/ch21/01.m3u8
+#EXTINF:-1, Eurosport
+http://91.218.128.34:1234/udp/224.1.1.25:1234
+#EXTINF:-1, Eurosport 2
+http://91.218.128.34:1234/udp/224.1.1.26:1234
 #EXTINF:-1,Nile Sport
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
 #EXTINF:-1,NBC Sports
 rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc
+#EXTINF:-1,NBA TV(Usa)
+rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,NBA TV S2(Usa)
+rtmp://46.246.29.140:1935/stream//K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,ESPN USA
+rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,Fox Sports Live(Usa)
+rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,NBA TV(Usa)
+rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,NBA TV S2(Usa)
+rtmp://46.246.29.140:1935/stream//K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,ESPN USA
+rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1
+#EXTINF:-1,NFL Network(Usa)
+rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1
 #EXTINF:-1,NBA TV
 rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=truepageUrl=http://www.04stream.com/
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
 #EXTINF:-1,NBA TV
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
+#EXTINF:-1,Setanta sports
+http://202.75.23.36:8800/live/ch44/01.m3u8
 #EXTINF:-1,Sky Sports 1
 rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
 #EXTINF:-1,Sky Sports 2
@@ -395,6 +423,8 @@ rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://www.flashtv.co/ePla
 rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,SKY CALCIO:SKY SPORT 3
 rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,Sports de combat
+http://202.75.23.37:8800/live/ch20/01.m3u8
 #EXTINF:-1group-title=Documentary,ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
@@ -674,6 +704,68 @@ http://87.121.34.2:9987/udp/239.100.0.229:1234?by_HasBahCa
 http://87.121.34.2:9987/udp/239.100.0.235:1234?by_HasBahCa
 #EXTINF:-1,BeIN Sports
 http://87.121.34.2:9987/udp/239.100.0.246:1234?by_HasBahCa
+#EXTINF:-1,Jim Jam
+http://202.75.23.37:8800/live/ch17/01.m3u8
+#EXTINF:-1,MTV live hd
+http://202.75.23.37:8800/live/ch50/01.m3u8
+#EXTINF:-1,Mediacorp
+http://202.75.23.37:8800/live/ch15/01.m3u8
+#EXTINF:-1,VJ fashion
+http://202.75.23.37:8800/live/ch16/01.m3u8
+#EXTINF:-1,Nickelodeon
+http://202.75.23.36:8800/live/ch43/01.m3u8
+#EXTINF:-1,History
+http://202.75.23.36:8800/live/ch45/01.m3u8
+#EXTINF:-1,Bio
+http://202.75.23.36:8800/live/ch46/01.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http://202.75.23.36:8800/live/ch47/01.m3u8
+#EXTINF:-1,LIFE TIME
+http://202.75.23.36:8800/live/ch48/01.m3u8
+#EXTINF:-1,CARTOONITO
+http://202.75.23.36:8800/live/ch49/01.m3u8
+#EXTINF:-1,Discovery kids
+http://202.75.23.35:8800/live/ch36/01.m3u8
+#EXTINF:-1,Fashion one
+http://202.75.23.35:8800/live/ch37/01.m3u8
+#EXTINF:-1,HD
+http://202.75.23.35:8800/live/ch38/01.m3u8
+#EXTINF:-1,Nat geo wild
+http://202.75.23.35:8800/live/ch39/01.m3u8
+#EXTINF:-1,MGM
+http://202.75.23.35:8800/live/ch40/01.m3u8
+#EXTINF:-1,Travel
+http://202.75.23.35:8800/live/ch41/01.m3u8
+#EXTINF:-1,MTV rock
+http://202.75.23.35:8800/live/ch42/01.m3u8
+#EXTINF:-1,Discovery
+http://202.75.23.34:8800/live/ch29/01.m3u8
+#EXTINF:-1,DISCOVERY HD WORLD
+http://202.75.23.34:8800/live/ch30/01.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://202.75.23.34:8800/live/ch31/01.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://202.75.23.34:8800/live/ch32/01.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://202.75.23.34:8800/live/ch33/01.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://202.75.23.34:8800/live/ch34/01.m3u8
+#EXTINF:-1,TLC
+http://202.75.23.34:8800/live/ch35/01.m3u8
+#EXTINF:-1,METRO TV
+http://202.75.23.33:8800/live/ch22/01.m3u8
+#EXTINF:-1,TRANSTV
+http://202.75.23.33:8800/live/ch23/01.m3u8
+#EXTINF:-1,TRANS 7
+http://202.75.23.33:8800/live/ch24/01.m3u8
+#EXTINF:-1,TVRI
+http://202.75.23.33:8800/live/ch25/01.m3u8
+#EXTINF:-1,ASN sports
+http://202.75.23.33:8800/live/ch26/01.m3u8
+#EXTINF:-1,BABY FIRST
+http://202.75.23.33:8800/live/ch27/01.m3u8
+#EXTINF:-1,BBC
+http://202.75.23.33:8800/live/ch28/01.m3u8
 #EXTINF:-1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1 radio=true,Altareeq
