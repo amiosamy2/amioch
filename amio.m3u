@@ -1,617 +1,585 @@
 #EXTM3U
-#EXTINF:-1 group-title=Christian,ACC
+#EXTINF:-1,1 group-title=Christian,ACC
 http://stream.acctv.com.au/index.m3u8
-#EXTINF:-1,Al Waad Tv
+#EXTINF:-1,1,Al Waad Tv
 rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
-#EXTINF:-1,ATV SAT
+#EXTINF:-1,1,ATV SAT
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
-#EXTINF:-1,ATTARIK
+#EXTINF:-1,1,ATTARIK
 http://cdn-streamer2.magictvbox.com/43.m3u8
-#EXTINF:-1,ABNSAT
+#EXTINF:-1,1,ABNSAT
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
-#EXTINF:-1,Alfady TV
+#EXTINF:-1,1,Alfady TV
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
-#EXTINF:-1,Al Hayat
+#EXTINF:-1,1,Al Hayat
 http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
-#EXTINF:-1,Al Hayat 2
+#EXTINF:-1,1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,ALHAYAT 2
+#EXTINF:-1,1,ALHAYAT 2
 http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:-1,Alkarma TV
+#EXTINF:-1,1,Alkarma TV
 http://cdn-streamer2.magictvbox.com/41.m3u8
-#EXTINF:-1,Alkarma TV
+#EXTINF:-1,1,Alkarma TV
 http://cdn.magictvbox.com/live/karma-me.stream/playlist.m3u8
-#EXTINF:-1,Alkarma TV US
+#EXTINF:-1,1,Alkarma TV US
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
-#EXTINF:-1,Alkarma TV AU
+#EXTINF:-1,1,Alkarma TV AU
 rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
-#EXTINF:-1,Alkarma TV ME
+#EXTINF:-1,1,Alkarma TV ME
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
-#EXTINF:-1,Aghapy TV
+#EXTINF:-1,1,Aghapy TV
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Alkalema
+#EXTINF:-1,1,Alkalema
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,1,Kingdom TV
 http://cdn-streamer2.magictvbox.com/56.m3u8
-#EXTINF:-1,ALKARAZA
+#EXTINF:-1,1,ALKARAZA
 http://cdn-streamer2.magictvbox.com/58.m3u8
-#EXTINF:-1,CTV
+#EXTINF:-1,1,CTV
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
-#EXTINF:-1,CTV
+#EXTINF:-1,1,CTV
 http://cdn-streamer2.magictvbox.com/32.m3u8
-#EXTINF:-1,CYC
+#EXTINF:-1,1,CYC
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
-#EXTINF:-1,CYC
+#EXTINF:-1,1,CYC
 http://cdn-streamer2.magictvbox.com/34.m3u8
-#EXTINF:-1,Copticsat TV
+#EXTINF:-1,1,Copticsat TV
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
-#EXTINF:-1,Copticsat TV
+#EXTINF:-1,1,Copticsat TV
 http://cdn-streamer2.magictvbox.com/55.m3u8
-#EXTINF:-1,CBN TV
+#EXTINF:-1,1,CBN TV
 mmsh://live1.cbn.org/iptv1
-#EXTINF:-1,CBN News
+#EXTINF:-1,1,CBN News
 rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
-#EXTINF:-1,Charity
+#EXTINF:-1,1,Charity
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
-#EXTINF:-1,Daystar TV
+#EXTINF:-1,1,Daystar TV
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
-#EXTINF:-1,Good Shepherd TV
+#EXTINF:-1,1,Good Shepherd TV
 http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m3u8
-#EXTINF:-1,Hope TV
+#EXTINF:-1,1,Hope TV
 rtmp://cp101680.live.edgefcs.net/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
-#EXTINF:-1,Hope Church Channel
+#EXTINF:-1,1,Hope Church Channel
 rtmp://cp101680.live.edgefcs.net/live?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChurchChannel_1@52768?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
-#EXTINF:-1,Logos TV
+#EXTINF:-1,1,Logos TV
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
-#EXTINF:-1,LOGOS
+#EXTINF:-1,1,LOGOS
 http://cdn-streamer2.magictvbox.com/33.m3u8
-#EXTINF:-1,LLBN
+#EXTINF:-1,1,LLBN
 http://telvuehls_t01587-i.akamaihd.net/hls/live/215639-b/T01587-arabic/master_3.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,1,Kingdom TV
 http://cdn-streamer2.magictvbox.com/56.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,1,Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:-1,KDEC
+#EXTINF:-1,1,KDEC
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
-#EXTINF:-1,JCTV
+#EXTINF:-1,1,JCTV
 http://ooyalahd2-f.akamaihd.net/i/tbn03_delivery@120260/master.m3u8
-#EXTINF:-1,MESAT
+#EXTINF:-1,1,MESAT
 rtmp://stream.s17.cpanelservices.com/coptictvlive/livestream
-#EXTINF:-1,Miracle TV
+#EXTINF:-1,1,Miracle TV
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
-#EXTINF:-1,New Life Egypt
+#EXTINF:-1,1,New Life Egypt
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
-#EXTINF:-1,Noursat AlShabab
+#EXTINF:-1,1,Noursat AlShabab
 http://fl1.viastreaming.net/nouralchabab/livestream/playlist.m3u8
-#EXTINF:-1,Noursat
+#EXTINF:-1,1,Noursat
 http://fl1.viastreaming.net/noursat/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Alkalima
+#EXTINF:-1,1,Noursat Alkalima
 http://fl1.viastreaming.net/nouralkalima/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Alshark
+#EXTINF:-1,1,Noursat Alshark
 http://fl1.viastreaming.net/nouralshark/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Kids
+#EXTINF:-1,1,Noursat Kids
 http://fl1.viastreaming.net/nourkids/livestream/playlist.m3u8
-#EXTINF:-1,River of Life
+#EXTINF:-1,1,River of Life
 http://riversoflife.flashedgesvr.com:1935/riversoflifelive/live100/playlist.m3u8
-#EXTINF:-1,SAT 7
+#EXTINF:-1,1,SAT 7
 http://cdn.magictvbox.com/live/10116.stream/playlist.m3u8
-#EXTINF:-1,SAT 7
+#EXTINF:-1,1,SAT 7
 rtmp://unirtmp.tulix.tv/sat7arabic/sat7arabic1
-#EXTINF:-1,SAT 7 Kids
+#EXTINF:-1,1,SAT 7 Kids
 http://cdn.magictvbox.com/live/10117.stream/playlist.m3u8
-#EXTINF:-1,SAT 7 Kids
+#EXTINF:-1,1,SAT 7 Kids
 rtmp://unirtmp.tulix.tv/sat7kids/sat7kids1
-#EXTINF:-1,Spirit TV
+#EXTINF:-1,1,Spirit TV
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
-#EXTINF:-1,Smile of a Child
+#EXTINF:-1,1,Smile of a Child
 http://ooyalahd2-f.akamaihd.net/i/tbn04_delivery@149649/master.m3u8
-#EXTINF:-1,Smile of a Child
+#EXTINF:-1,1,Smile of a Child
 http://cdn-streamer2.magictvbox.com/59.m3u8
-#EXTINF:-1,TBN
+#EXTINF:-1,1,TBN
 http://ooyalahd2-f.akamaihd.net/i/tbn01_delivery@120258/master.m3u8
-#EXTINF:-1,The Church Channel
+#EXTINF:-1,1,The Church Channel
 http://ooyalahd2-f.akamaihd.net/i/tbn02_delivery@120259/master.m3u8
-#EXTINF:-1,The Word 
+#EXTINF:-1,1,The Word 
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,The Freedom
+#EXTINF:-1,1,The Freedom
 rtmp://fms.pwmcdn.com/alhorreya/alhorreya2
-#EXTINF:-1 group-title=News,Alarabiya
+#EXTINF:-1,1 group-title=News,Alarabiya
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
-#EXTINF:-1,Alarabiya HADAS
+#EXTINF:-1,1,Alarabiya HADAS
 http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
-#EXTINF:-1,Al Arabiya News
+#EXTINF:-1,1,Al Arabiya News
 http://livestream2.alarabiya.tv/files/mainarabia.m3u8
-#EXTINF:-1,Aljazeera Arabic
+#EXTINF:-1,1,Aljazeera Arabic
 rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_ara_high
-#EXTINF:-1,Aljazeera Arabic
+#EXTINF:-1,1,Aljazeera Arabic
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,Al Jazeera Misr
+#EXTINF:-1,1,Al Jazeera Misr
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_misr_high
-#EXTINF:-1,Al Jazeera Mubasher
+#EXTINF:-1,1,Al Jazeera Mubasher
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,Al Jazeera America
+#EXTINF:-1,1,Al Jazeera America
 rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,1,Bloomberg
 rtmp://d.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,1,Bloomberg
 http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
-#EXTINF:-1,Bloomberg (USA)
+#EXTINF:-1,1,Bloomberg (USA)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg (Europe)
+#EXTINF:-1,1,Bloomberg (Europe)
 http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
-#EXTINF:-1,Bloomberg (Asia)
+#EXTINF:-1,1,Bloomberg (Asia)
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1,Bloomberg (Live Event)
+#EXTINF:-1,1,Bloomberg (Live Event)
 http://cdn3.videos.bloomberg.com/btv/event/master.m3u8
-#EXTINF:-1,BBC News Arabic
+#EXTINF:-1,1,BBC News Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,BBC News Arabic
+#EXTINF:-1,1,BBC News Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,BBC Arabic
+#EXTINF:-1,1,BBC Arabic
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
-#EXTINF:-1,BBC News
+#EXTINF:-1,1,BBC News
 rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
-#EXTINF:-1,CNBC Arabic
+#EXTINF:-1,1,CNBC Arabic
 http://livestream-f.akamaihd.net/3102016_1914609_ea3f3d33_1_678@101498?v=3.0.3&fp=WIN%2013,0,0,214&r=QUQGY&g=KKADGWIJEZQE
-#EXTINF:-1,CNBC
+#EXTINF:-1,1,CNBC
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1,1,CNBC
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
-#EXTINF:-1,CNN
+#EXTINF:-1,1,CNN
 rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/breaking/
-#EXTINF:-1,DW Arabic
+#EXTINF:-1,1,DW Arabic
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,EuroNews AR
+#EXTINF:-1,1,EuroNews AR
 rtmp://fr-par-10-stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_14.swf swfVfy=true live=true
-#EXTINF:-1,FOX News
+#EXTINF:-1,1,FOX News
 rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
-#EXTINF:-1,France 24 Arabic
+#EXTINF:-1,1,France 24 Arabic
 http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
-#EXTINF:-1,MSNBC
+#EXTINF:-1,1,MSNBC
 rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/
-#EXTINF:-1,NASA TV
+#EXTINF:-1,1,NASA TV
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
-#EXTINF:-1,NASA HD
+#EXTINF:-1,1,NASA HD
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_1000 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
-#EXTINF:-1,Nile News
+#EXTINF:-1,1,Nile News
 rtmp://livestreaming4.onlinehorizons.net/NileTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/NileTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/NileTV/
-#EXTINF:-1,Russia Today Arabic
+#EXTINF:-1,1,Russia Today Arabic
 http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8
-#EXTINF:-1,Reuters Live Stream
+#EXTINF:-1,1,Reuters Live Stream
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
-#EXTINF:-1,Sky News International
+#EXTINF:-1,1,Sky News International
 mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9MjAxMzEyMDkxNzA4MjMmZGlnZXN0PWNlYWMyOTQ5YjcyMjk1N2ZlZGRkNzcyOTRhMGFjMWQw
-#EXTINF:-1,Sky News Arabia
+#EXTINF:-1,1,Sky News Arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1,Sky News Arabia
+#EXTINF:-1,1,Sky News Arabia
 rtmp://llnwvps231.fc.llnwd.net/llnwvps231/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://assets.delvenetworks.com/player/loader.swf live=1 pageUrl=http://www.skynewsarabia.com/web/home?view=live
-#EXTINF:-1 group-title=Arabic,Egypt 1
+#EXTINF:-1,1 group-title=Arabic,Egypt 1
 http://4.31.30.145:9084
-#EXTINF:-1,Egypt 1
+#EXTINF:-1,1,Egypt 1
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15
-#EXTINF:-1,Al Masriyah
+#EXTINF:-1,1,Al Masriyah
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15
-#EXTINF:-1,Al Masriyah
+#EXTINF:-1,1,Al Masriyah
 rtmp://livestreaming4.itworkscdn.com/masira playpath=livetv1 swfUrl=http://www.almaserahtv.com/player.swf pageUrl=http://www.almasirah.tv/ live=1 timeout=20
-#EXTINF:-1,Egypt 2
+#EXTINF:-1,1,Egypt 2
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch2.html live=true timeout=15
-#EXTINF:-1,Aljazeera Documentary TV
+#EXTINF:-1,1,Aljazeera Documentary TV
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
-#EXTINF:-1,Al Jazeera Docu
+#EXTINF:-1,1,Al Jazeera Docu
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
-#EXTINF:-1,ANNAHAR
+#EXTINF:-1,1,ANNAHAR
 http://cdn-delay1.magictvbox.com/5.m3u8
-#EXTINF:-1,Al Nahar
+#EXTINF:-1,1,Al Nahar
 http://50.7.180.18:1935/nahar1/smil:nahar1-smil.smil/playlist.m3u8
-#EXTINF:-1,Al Nahar +2
+#EXTINF:-1,1,Al Nahar +2
 http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/playlist.m3u8
-#EXTINF:-1,ANNAHAR DRAMA
+#EXTINF:-1,1,ANNAHAR DRAMA
 http://cdn-delay1.magictvbox.com/11.m3u8
-#EXTINF:-1,Al Nahar Drama
+#EXTINF:-1,1,Al Nahar Drama
 http://50.7.180.18:1935/nahar1/smil:alnahardrama-smil.smil/playlist.m3u8
-#EXTINF:-1,AD ALOULA
+#EXTINF:-1,1,AD ALOULA
 http://cdn-streamer2.magictvbox.com/40.m3u8
-#EXTINF:-1,AD DRAMA
+#EXTINF:-1,1,AD DRAMA
 rtmp://iptv2.web-medias.net:8080/live/ playpath=abu_dhabi_drama?e=1405510971&st=3Fx8ZAcOGWoIWbvcCgo74w swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/abu-dhabi-drama-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0924ddc86.html
-#EXTINF:-1,Alhaya TV
+#EXTINF:-1,1,Alhaya TV
 rtmp://iptv5.web-medias.net:8080/live playpath=alhayat_1?e=1405510821&st=MKrnVa-h-XnXqJvIUsZ61g swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_d23102aa7.html
-#EXTINF:-1,Alhayat-Series
+#EXTINF:-1,1,Alhayat-Series
 rtmp://iptv5.web-medias.net:8080/live playpath=alhayat_series?e=1405510867&st=9hQTR6rxhR69AKAXImH3JQ swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-series-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_98e184c04.html
-#EXTINF:-1,Alhaya Cinema
+#EXTINF:-1,1,Alhaya Cinema
 rtmp://iptv2.web-medias.net:8080/live/ playpath=alhayat_cinema?e=1405510907&st=8lG0KPW_fzQcu5BVaSBl4A swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html
-#EXTINF:-1,Baraem
+#EXTINF:-1,1,Baraem
 http://78.100.40.198:1935/brm/brm/gmswf.m3u8?keylive87-163-224-792014-05-18-16-28-09&amp;v=hghpl]
-#EXTINF:-1,CAIRO CINEMA
+#EXTINF:-1,1,CAIRO CINEMA
 http://cdn-delay1.magictvbox.com/1.m3u8
-#EXTINF:-1,CAIRO DRAMA
+#EXTINF:-1,1,CAIRO DRAMA
 http://cdn-delay1.magictvbox.com/3.m3u8
-#EXTINF:-1,CBC DRAMA
+#EXTINF:-1,1,CBC DRAMA
 http://cdn-delay1.magictvbox.com/6.m3u8
-#EXTINF:-1,CBC
+#EXTINF:-1,1,CBC
 http://cdn-delay1.magictvbox.com/13.m3u8
-#EXTINF:-1,CBC Sofra
+#EXTINF:-1,1,CBC Sofra
 rtmp://41.196.200.11:9900/live/ playpath=ssoofra.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/cbc_sofra/0-557
-#EXTINF:-1,Dubai TV
+#EXTINF:-1,1,Dubai TV
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
-#EXTINF:-1,Dubai TV
+#EXTINF:-1,1,Dubai TV
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-#EXTINF:-1,E 1 KIDS
+#EXTINF:-1,1,E 1 KIDS
 http://cdn-streamer2.magictvbox.com/59.m3u8
-#EXTINF:-1,FOX MOVIES
+#EXTINF:-1,1,FOX MOVIES
 rtmp://iptv5.web-medias.net:8080/live playpath=fox_movies?e=1405511162&st=sWouMWWuLf-d_qeJrUl7wA swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html
-#EXTINF:-1,Mehwar Tv
+#EXTINF:-1,1,Mehwar Tv
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
-#EXTINF:-1,METV
+#EXTINF:-1,1,METV
 http://cdn-streamer2.magictvbox.com/41.m3u8
-#EXTINF:-1,MBC 2
+#EXTINF:-1,1,MBC 2
 rtmp://live-f01.vustream.net:1935/live/livestream2
-#EXTINF:-1,MBC 3 
+#EXTINF:-1,1,MBC 3 
 rtmp://iptv2.web-medias.net:8080/live/ playpath=mbc_3?e=1405511388&st=AaGLtEDfTE0xO06GGnyajQ swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html
-#EXTINF:-1,MBC 4
+#EXTINF:-1,1,MBC 4
 rtmp://iptv4.web-medias.net:8080/live playpath=mbc_4?e=1405511345&st=9yRhOO1gzSet4ZlLG59rPw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html
-#EXTINF:-1,MBC MAX
+#EXTINF:-1,1,MBC MAX
 rtmp://iptv2.web-medias.net:8080/live/ playpath=mbc_max?e=1405511515&st=wuKQ5V1aciTN5OzdZgNBag swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html
-#EXTINF:-1,MBC DRAMA 
+#EXTINF:-1,1,MBC DRAMA 
 rtmp://iptv5.web-medias.net:8080/live playpath=mbc_drama?e=1405511429&st=Ua-bl7cxUohVR4lDIRIlwA swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-drama-plus-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d9%84%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_b094a4888.html
-#EXTINF:-1,MBC DRAMA PLUS
+#EXTINF:-1,1,MBC DRAMA PLUS
 rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_drama?e=1405511469&st=5yFulDLr39MoHhj7gm-Lqw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-drama-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_729b51e16.html
-#EXTINF:-1,MBC BOLLYWOOD
+#EXTINF:-1,1,MBC BOLLYWOOD
 rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_bollywood?e=1405511557&st=2SuPDbwcSzCTsROd3Buozw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-bollywood-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d8%a8%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_d84380d20.html
-#EXTINF:-1,Melody Aflam
+#EXTINF:-1,1,Melody Aflam
 rtmp://38.96.148.24/MelodyAflam/MAflam_576p
-#EXTINF:-1,Melody Classic
+#EXTINF:-1,1,Melody Classic
 rtmp://38.96.148.24/MelodyClassic/MClassic_576p
-#EXTINF:-1,Melody Hits
+#EXTINF:-1,1,Melody Hits
 rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 timeout=15
-#EXTINF:-1,Melody Drama
+#EXTINF:-1,1,Melody Drama
 rtmp://38.96.148.206/Melody/MDramaWeb
-#EXTINF:-1,Sharqia
+#EXTINF:-1,1,Sharqia
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,NILE CINEMA
+#EXTINF:-1,1,NILE CINEMA
 http://cdn-delay1.magictvbox.com/14.m3u8
-#EXTINF:-1,Nile Cinma
+#EXTINF:-1,1,Nile Cinma
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
-#EXTINF:-1,Nile Drama
+#EXTINF:-1,1,Nile Drama
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
-#EXTINF:-1,Nile Comedy
+#EXTINF:-1,1,Nile Comedy
 rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60
-#EXTINF:-1,Nile Culture
+#EXTINF:-1,1,Nile Culture
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture
-#EXTINF:-1,Nile Family
+#EXTINF:-1,1,Nile Family
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family
-#EXTINF:-1,Nile Learning
+#EXTINF:-1,1,Nile Learning
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLearning playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=learning live=1
-#EXTINF:-1,Nile Life
+#EXTINF:-1,1,Nile Life
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
-#EXTINF:-1,ON TV
+#EXTINF:-1,1,ON TV
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,ON TV Live
+#EXTINF:-1,1,ON TV Live
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,ONTV
+#EXTINF:-1,1,ONTV
 http://cdn-delay1.magictvbox.com/OnTV-SD.m3u8
-#EXTINF:-1,ONTV
+#EXTINF:-1,1,ONTV
 http://cdn-delay1.magictvbox.com/10.m3u8
-#EXTINF:-1,STAR CINEMA 2
+#EXTINF:-1,1,STAR CINEMA 2
 http://cdn-delay1.magictvbox.com/4.m3u8
-#EXTINF:-1,STAR CINEMA 1
+#EXTINF:-1,1,STAR CINEMA 1
 http://cdn-delay1.magictvbox.com/2.m3u8
-#EXTINF:-1,TIME COMEDY
+#EXTINF:-1,1,TIME COMEDY
 http://cdn-delay1.magictvbox.com/15.m3u8
-#EXTINF:-1 group-title=Sports,Al Nahar Sports
+#EXTINF:-1,1 group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
-#EXTINF:-1,Bein sports1
+#EXTINF:-1,1,Bein sports1
 http://202.75.23.37:8800/live/ch18/01.m3u8
-#EXTINF:-1,Bein sports2
+#EXTINF:-1,1,Bein sports2
 http://202.75.23.37:8800/live/ch19/01.m3u8
-#EXTINF:-BEIN SPORT 1
+#EXTINF:-1,BEIN SPORT 1
 rtmpe://46.246.124.22:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 2
+#EXTINF:-1,BEIN SPORT 2
 rtmpe://46.246.124.22:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 3
+#EXTINF:-1,BEIN SPORT 3
 rtmpe://46.246.124.22:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 4
+#EXTINF:-1,BEIN SPORT 4
 rtmpe://46.246.124.22:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 5
+#EXTINF:-1,BEIN SPORT 5
 rtmpe://46.246.124.22:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 6
+#EXTINF:-1,BEIN SPORT 6
 rtmpe://46.246.124.22:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 7
+#EXTINF:-1,BEIN SPORT 7
 rtmpe://46.246.124.22:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 8
+#EXTINF:-1,BEIN SPORT 8
 rtmpe://46.246.124.22:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 9
+#EXTINF:-1,BEIN SPORT 9
 rtmpe://46.246.124.22:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 10
+#EXTINF:-1,BEIN SPORT 10
 rtmpe://46.246.124.22:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 11
+#EXTINF:-1,BEIN SPORT 11
 rtmpe://46.246.124.22:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 12
+#EXTINF:-1,BEIN SPORT 12
 rtmpe://46.246.124.22:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 13
+#EXTINF:-1,BEIN SPORT 13
 rtmpe://46.246.124.22:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 14
+#EXTINF:-1,BEIN SPORT 14
 rtmpe://46.246.124.22:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-BEIN SPORT 15
+#EXTINF:-1,BEIN SPORT 15
 rtmpe://46.246.124.22:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,Bein Sports HD1 
-http://shehabtito2010iptv.no-ip.org/test/1234/2.ch 
-#EXTINF:-1,Bein  sport1 full hd test 
-http://shehabtito2010iptv.no-ip.org/test/1234/102.ch 
-#EXTINF:-1,Bein Sport HD2 
-http://shehabtito2010iptv.no-ip.org/test/1234/3.ch 
-#EXTINF:-1,Bein Sport HD3 
-http://shehabtito2010iptv.no-ip.org/test/1234/4.ch 
-#EXTINF:-1,Bein Sport HD4 
-http://shehabtito2010iptv.no-ip.org/test/1234/5.ch 
-#EXTINF:-1,Bein Sport HD5 
-http://shehabtito2010iptv.no-ip.org/test/1234/6.ch 
-#EXTINF:-1,Bein Sport HD6 
-http://shehabtito2010iptv.no-ip.org/test/1234/7.ch 
-#EXTINF:-1,Bein Sport HD7 
-http://shehabtito2010iptv.no-ip.org/test/1234/8.ch 
-#EXTINF:-1,Bein Sport-HD8 
-http://shehabtito2010iptv.no-ip.org/test/1234/9.ch 
-#EXTINF:-1,Bein Sport HD9 
-http://shehabtito2010iptv.no-ip.org/test/1234/10.ch 
-#EXTINF:-1,Bein Sport HD10 
-http://shehabtito2010iptv.no-ip.org/test/1234/11.ch 
-#EXTINF:-1,Bein Sport HD11 
-http://shehabtito2010iptv.no-ip.org/test/1234/12.ch 
-#EXTINF:-1,Bein Sport HD12 
-http://shehabtito2010iptv.no-ip.org/test/1234/13.ch 
-#EXTINF:-1,Bein Sport-HD13 
-http://shehabtito2010iptv.no-ip.org/test/1234/14.ch 
-#EXTINF:-1,Bein Sport HD14 
-http://shehabtito2010iptv.no-ip.org/test/1234/15.ch 
-#EXTINF:-1,Bein Sport HD15 
-http://shehabtito2010iptv.no-ip.org/test/1234/16.ch
-#EXTINF:-1,Chelsea TV 
+#EXTINF:-1,1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
-#EXTINF:-1,Dubai Sports
+#EXTINF:-1,1,Dubai Sports
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,Eurosport
+#EXTINF:-1,1,Eurosport
 http://202.75.23.37:8800/live/ch21/01.m3u8
-#EXTINF:-1, Eurosport
+#EXTINF:-1,1, Eurosport
 http://91.218.128.34:1234/udp/224.1.1.25:1234
-#EXTINF:-1, Eurosport 2
+#EXTINF:-1,1, Eurosport 2
 http://91.218.128.34:1234/udp/224.1.1.26:1234
-#EXTINF:-1,Nile Sport
+#EXTINF:-1,1,Nile Sport
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,NBC Sports
+#EXTINF:-1,1,NBC Sports
 rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc
-#EXTINF:-1,NBA TV(Usa)
+#EXTINF:-1,1,NBA TV(Usa)
 rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,NBA TV S2(Usa)
+#EXTINF:-1,1,NBA TV S2(Usa)
 rtmp://46.246.29.140:1935/stream//K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,ESPN USA
+#EXTINF:-1,1,ESPN USA
 rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,Fox Sports Live(Usa)
+#EXTINF:-1,1,Fox Sports Live(Usa)
 rtmp://46.246.29.140:1935/stream//fsgdf78gds.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,NBA TV(Usa)
+#EXTINF:-1,1,NBA TV(Usa)
 rtmp://46.246.29.130:1935/stream/W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,NBA TV S2(Usa)
+#EXTINF:-1,1,NBA TV S2(Usa)
 rtmp://46.246.29.140:1935/stream//K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,ESPN USA
+#EXTINF:-1,1,ESPN USA
 rtmp://31.7.58.122:1935/stream/Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,NFL Network(Usa)
+#EXTINF:-1,1,NFL Network(Usa)
 rtmp://46.246.29.130:1935/stream/bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1
-#EXTINF:-1,NBA TV
+#EXTINF:-1,1,NBA TV
 rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=truepageUrl=http://www.04stream.com/
-#EXTINF:-1,NBA TV
+#EXTINF:-1,1,NBA TV
 rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
-#EXTINF:-1,NBA TV
+#EXTINF:-1,1,NBA TV
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
-#EXTINF:-1,Setanta sports
+#EXTINF:-1,1,Setanta sports
 http://202.75.23.36:8800/live/ch44/01.m3u8
-#EXTINF:-1,Sky Sports 1
+#EXTINF:-1,1,Sky Sports 1
 rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 2
+#EXTINF:-1,1,Sky Sports 2
 rtmp://31.220.0.82:1935/live playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 3
+#EXTINF:-1,1,Sky Sports 3
 rtmp://31.220.0.103:1935/live playpath=ss3x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 4
+#EXTINF:-1,1,Sky Sports 4
 rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490
-#EXTINF:-1,Sky Sports News
+#EXTINF:-1,1,Sky Sports News
 rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
-#EXTINF:-1,SKY F1
+#EXTINF:-1,1,SKY F1
 rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
-#EXTINF:-1,SKY CALCIO:SKY SPORT 24
+#EXTINF:-1,1,SKY CALCIO:SKY SPORT 24
 rtmp://31.220.0.134:1935/live playpath=calcio swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 1
+#EXTINF:-1,1,SKY CALCIO:SKY SPORT 1
 rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 2
+#EXTINF:-1,1,SKY CALCIO:SKY SPORT 2
 rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 3
+#EXTINF:-1,1,SKY CALCIO:SKY SPORT 3
 rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,Sports de combat
+#EXTINF:-1,1,Sports de combat
 http://202.75.23.37:8800/live/ch20/01.m3u8
-#EXTINF:-1 group-title=Kids,Cartoon Network
+#EXTINF:-1,1 group-title=Kids,Cartoon Network
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,ANIMATED FILMS
+#EXTINF:-1,1,ANIMATED FILMS
 mms://72.13.93.186/animatedfilms
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1,1,NICKELODEON
 http://178.49.132.73/streaming/nickelodeon/tvrec/playlist.m3u8
-#EXTINF:-1,Tom & Jerry Channel
+#EXTINF:-1,1,Tom & Jerry Channel
 rtmp://204.45.108.34/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:-1,Kids1
+#EXTINF:-1,1,Kids1
 rtmp://175.103.51.2:1935/live/kids1.stream
-#EXTINF:-1 group-title=English,ABC News
+#EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
-#EXTINF:-1,ABC
+#EXTINF:-1,1,ABC
 rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
-#EXTINF:-1,AMC
+#EXTINF:-1,1,AMC
 rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=amc1569&vw=600&vh=430
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1,1,ANIMAL PLANET HD
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1,1,ANIMAL PLANET HD
 rtmp://s01.webport.tv/promo/mtv live=2
-#EXTINF:-1,CBS
+#EXTINF:-1,1,CBS
 rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430
-#EXTINF:-1,Cinemax
+#EXTINF:-1,1,Cinemax
 rtmpe://watch.playfooty.tv/live playpath=cinemax1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cinemax1569&vw=600&vh=430
-#EXTINF:-1,CNN
+#EXTINF:-1,1,CNN
 rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430
-#EXTINF:-1,Fashion Box
+#EXTINF:-1,1,Fashion Box
 http://stream1.zoovision.com//livespi/_definst_/mp4:fashionbox_source/playlist.m3u8
-#EXTINF:-1,360 Tune Box
+#EXTINF:-1,1,360 Tune Box
 http://stream1.zoovision.com//livespi/_definst_/mp4:360tunebox_source/playlist.m3u8
-#EXTINF:-1,Docu Box
+#EXTINF:-1,1,Docu Box
 http://stream1.zoovision.com//livespi/_definst_/mp4:docubox_source/playlist.m3u8
-#EXTINF:-1,Fight Box
+#EXTINF:-1,1,Fight Box
 http://stream1.zoovision.com//livespi/_definst_/mp4:fightbox_source/playlist.m3u8
-#EXTINF:-1,ART House
+#EXTINF:-1,1,ART House
 http://stream1.zoovision.com//livespi/_definst_/mp4:arthouse_source/playlist.m3u8
-#EXTINF:-1,FASTNFUN
+#EXTINF:-1,1,FASTNFUN
 http://stream1.zoovision.com//livespi/_definst_/mp4:fastnfun_source/playlist.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,1,ESPN
 rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
-#EXTINF:-1,ESports 3
+#EXTINF:-1,1,ESports 3
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
-#EXTINF:-1,FOX NEWS
+#EXTINF:-1,1,FOX NEWS
 rtmpe://watch.playfooty.tv/live playpath=foxnews1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php
-#EXTINF:-1,FX
+#EXTINF:-1,1,FX
 rtmpe://watch.playfooty.tv/live playpath=fx1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fx1569&vw=600&vh=430
-#EXTINF:-1,FOX
+#EXTINF:-1,1,FOX
 rtmpe://watch.playfooty.tv/live playpath=fox1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fox1569&vw=600&vh=430
-#EXTINF:-1,HBO
+#EXTINF:-1,1,HBO
 rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430
-#EXTINF:-1,MNC
+#EXTINF:-1,1,MNC
 rtmp://edge.okeinfo.net/live// playpath=mncoke12_256.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=MNC
-#EXTINF:-1,MS NBC
+#EXTINF:-1,1,MS NBC
 rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569&vw=600&vh=430
-#EXTINF:-1,MTV
+#EXTINF:-1,1,MTV
 rtmpe://watch.playfooty.tv/live playpath=mtv1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=mtv1569&vw=600&vh=430
-#EXTINF:-1,Nick
+#EXTINF:-1,1,Nick
 rtmpe://watch.playfooty.tv/live playpath=nick1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=nick1569&vw=600&vh=430
-#EXTINF:-1,NBA HD
+#EXTINF:-1,1,NBA HD
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/hasbahca.m3u8
-#EXTINF:-1,NBA
+#EXTINF:-1,1,NBA
 rtmp://46.246.29.140:1935/stream// playpath=K8l9h6j8.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba
-#EXTINF:-1,NBA
+#EXTINF:-1,1,NBA
 rtmp://46.246.29.130:1935/stream/ playpath=W3h4q9Z6.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nba1
-#EXTINF:-1,NBC
+#EXTINF:-1,1,NBC
 rtmp://31.7.58.122:1935/stream/ playpath=Nugfgfdgf4343.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=nbc
-#EXTINF:-1,NFL
+#EXTINF:-1,1,NFL
 rtmp://46.246.29.130:1935/stream/ playpath=bdpZdSfpz0.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=NFL1
-#EXTINF:-1,SMMTV
+#EXTINF:-1,1,SMMTV
 rtmp://202.162.77.38/live/ playpath=iSMM.sdp swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=SMMTV
-#EXTINF:-1,Wisconsin Channel
+#EXTINF:-1,1,Wisconsin Channel
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
-#EXTINF:-1,Jim Jam
+#EXTINF:-1,1,Jim Jam
 http://202.75.23.37:8800/live/ch17/01.m3u8
-#EXTINF:-1,MTV live hd
+#EXTINF:-1,1,MTV live hd
 http://202.75.23.37:8800/live/ch50/01.m3u8
-#EXTINF:-1,Mediacorp
+#EXTINF:-1,1,Mediacorp
 http://202.75.23.37:8800/live/ch15/01.m3u8
-#EXTINF:-1,VJ fashion
+#EXTINF:-1,1,VJ fashion
 http://202.75.23.37:8800/live/ch16/01.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,1,Nickelodeon
 http://202.75.23.36:8800/live/ch43/01.m3u8
-#EXTINF:-1,History
+#EXTINF:-1,1,History
 http://202.75.23.36:8800/live/ch45/01.m3u8
-#EXTINF:-1,Bio
+#EXTINF:-1,1,Bio
 http://202.75.23.36:8800/live/ch46/01.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
+#EXTINF:-1,1,CRIME INVESTIGATION
 http://202.75.23.36:8800/live/ch47/01.m3u8
-#EXTINF:-1,LIFE TIME
+#EXTINF:-1,1,LIFE TIME
 http://202.75.23.36:8800/live/ch48/01.m3u8
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1,1,CARTOONITO
 http://202.75.23.36:8800/live/ch49/01.m3u8
-#EXTINF:-1,Discovery kids
+#EXTINF:-1,1,Discovery kids
 http://202.75.23.35:8800/live/ch36/01.m3u8
-#EXTINF:-1,Fashion one
+#EXTINF:-1,1,Fashion one
 http://202.75.23.35:8800/live/ch37/01.m3u8
-#EXTINF:-1,HD
+#EXTINF:-1,1,HD
 http://202.75.23.35:8800/live/ch38/01.m3u8
-#EXTINF:-1,Nat geo wild
+#EXTINF:-1,1,Nat geo wild
 http://202.75.23.35:8800/live/ch39/01.m3u8
-#EXTINF:-1,MGM
+#EXTINF:-1,1,MGM
 http://202.75.23.35:8800/live/ch40/01.m3u8
-#EXTINF:-1,Travel
+#EXTINF:-1,1,Travel
 http://202.75.23.35:8800/live/ch41/01.m3u8
-#EXTINF:-1,MTV rock
+#EXTINF:-1,1,MTV rock
 http://202.75.23.35:8800/live/ch42/01.m3u8
-#EXTINF:-1,Discovery
+#EXTINF:-1,1,Discovery
 http://202.75.23.34:8800/live/ch29/01.m3u8
-#EXTINF:-1,DISCOVERY HD WORLD
+#EXTINF:-1,1,DISCOVERY HD WORLD
 http://202.75.23.34:8800/live/ch30/01.m3u8
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1,1,ANIMAL PLANET
 http://202.75.23.34:8800/live/ch31/01.m3u8
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1,1,DISCOVERY TURBO
 http://202.75.23.34:8800/live/ch32/01.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1,1,DISCOVERY SCIENCE
 http://202.75.23.34:8800/live/ch33/01.m3u8
-#EXTINF:-1,HOME & HEALTH
+#EXTINF:-1,1,HOME & HEALTH
 http://202.75.23.34:8800/live/ch34/01.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1,1,TLC
 http://202.75.23.34:8800/live/ch35/01.m3u8
-#EXTINF:-1,METRO TV
+#EXTINF:-1,1,METRO TV
 http://202.75.23.33:8800/live/ch22/01.m3u8
-#EXTINF:-1,TRANSTV
+#EXTINF:-1,1,TRANSTV
 http://202.75.23.33:8800/live/ch23/01.m3u8
-#EXTINF:-1,TRANS 7
+#EXTINF:-1,1,TRANS 7
 http://202.75.23.33:8800/live/ch24/01.m3u8
-#EXTINF:-1,TVRI
+#EXTINF:-1,1,TVRI
 http://202.75.23.33:8800/live/ch25/01.m3u8
-#EXTINF:-1,ASN sports
+#EXTINF:-1,1,ASN sports
 http://202.75.23.33:8800/live/ch26/01.m3u8
-#EXTINF:-1,BABY FIRST
+#EXTINF:-1,1,BABY FIRST
 http://202.75.23.33:8800/live/ch27/01.m3u8
-#EXTINF:-1,BBC
+#EXTINF:-1,1,BBC
 http://202.75.23.33:8800/live/ch28/01.m3u8
-#EXTINF:-1 radio=true group-title=Radio,Abana
+#EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
-#EXTINF:-1 radio=true,Altareeq
+#EXTINF:-1,1 radio=true,Altareeq
 mms://75.125.78.77/AltareeqH?MSWMExt=.asf
-#EXTINF:-1 radio=true,Albishara
+#EXTINF:-1,1 radio=true,Albishara
 http://www.radioalbishara.org/radioalbishara.asx
-#EXTINF:-1 radio=true,Almahabba
+#EXTINF:-1,1 radio=true,Almahabba
 http://radioalmahabba.com:8000/
-#EXTINF:-1 radio=true,Call To Salvation
+#EXTINF:-1,1 radio=true,Call To Salvation
 http://s8.streammonster.com:8218&title=Call%20to%20Salvation%20Radio
-#EXTINF:-1 radio=true,Holy FM
+#EXTINF:-1,1 radio=true,Holy FM
 http://bitsmitter.com:9008/listen.pls
-#EXTINF:-1 radio=true,Orthodox Live
+#EXTINF:-1,1 radio=true,Orthodox Live
 http://s5.viastreaming.net:7040
-#EXTINF:-1 radio=true,Rakoty
+#EXTINF:-1,1 radio=true,Rakoty
 rtmp://sc-lb1.streamcyclone.com/rakotyaudio_live/rakotyaudio
-#EXTINF:-1 radio=true,Sky Key Radio
+#EXTINF:-1,1 radio=true,Sky Key Radio
 mms://stream.skykeyradio.com/858788
-#EXTINF:-1 radio=true,St Markos church
+#EXTINF:-1,1 radio=true,St Markos church
 mms://stream.stmarkos.org/audio
-#EXTINF:-1 radio=true,Radio Ibrahim
+#EXTINF:-1,1 radio=true,Radio Ibrahim
 http://www.me.radioibrahim.com:8000/ri_mp3_96/
-#EXTINF:-1 radio=true,Arabesk
+#EXTINF:-1,1 radio=true,Arabesk
 http://173.193.219.163:8455/
-#EXTINF:-1 radio=true,Amr Diab
+#EXTINF:-1,1 radio=true,Amr Diab
 http://s7.voscast.com:7888/;stream.mp3
-#EXTINF:-1 radio=true,BBC Arabic
+#EXTINF:-1,1 radio=true,BBC Arabic
 rtmp://wsliveflash.bbc.co.uk/live//araba_live@8369
-#EXTINF:-1 radio=true,Elshaab Egypt
+#EXTINF:-1,1 radio=true,Elshaab Egypt
 http://5.63.151.52:8004/live
-#EXTINF:-1 radio=true,Horytna
+#EXTINF:-1,1 radio=true,Horytna
 mms://196.205.121.43/horytna
-#EXTINF:-1 radio=true,Hits Radio
+#EXTINF:-1,1 radio=true,Hits Radio
 http://rhstrm8.twesto.com:6365/stream2.nsv
-#EXTINF:-1 radio=true,Mahatet Masr
+#EXTINF:-1,1 radio=true,Mahatet Masr
 http://stream.mahatetmasr.com/mahatetmasr
-#EXTINF:-1 radio=true,Misrfone Radio
+#EXTINF:-1,1 radio=true,Misrfone Radio
 http://95.154.254.153:10336/;.mp3
-#EXTINF:-1 radio=true,Mega FM 92.7
+#EXTINF:-1,1 radio=true,Mega FM 92.7
 http://mgstrm9.twesto.com:7281/stream1.nsv
-#EXTINF:-1 radio=true,Nile FM 104
+#EXTINF:-1,1 radio=true,Nile FM 104
 http://ice31.securenetsystems.net/NILE?type=.flv&playSessionID=9BBDE925-E06C-4518-B168EF9109F27933&start=0
-#EXTINF:-1 radio=true,Nogoum FM
+#EXTINF:-1,1 radio=true,Nogoum FM
 http://ice31.securenetsystems.net/NOGOUM?type=.flv&playSessionID=303E2671-C1F1-BF6F-66E5BFA2E8D14F11&start=0
-#EXTINF:-1 radio=true,Sharkawsat
+#EXTINF:-1,1 radio=true,Sharkawsat
 http://arabic-media.com/asx/sharkawsat.asx
-#EXTINF:-1 radio=true,Shbab w Reyada
+#EXTINF:-1,1 radio=true,Shbab w Reyada
 rtsp://radio.onlinehorizons.net/shabawreada
-#EXTINF:-1 radio=true,Sound of Sakia
+#EXTINF:-1,1 radio=true,Sound of Sakia
 http://38.96.148.18:4896/live
-#EXTINF:-1 radio=true,Sotak
+#EXTINF:-1,1 radio=true,Sotak
 http://www.radiosotak.com/player/sotak_64mp3.m3u
-#EXTINF:-1 radio=true,Sawa Egypt
+#EXTINF:-1,1 radio=true,Sawa Egypt
 http://www.alhurra-sawa.com/livestreams/radiosawa.asx
-#EXTINF:-1 radio=true,Sky News Arabia
+#EXTINF:-1,1 radio=true,Sky News Arabia
 http://sc12.ams.llnw.net/stream/skynews_skynewsarabia
