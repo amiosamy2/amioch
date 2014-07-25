@@ -304,35 +304,35 @@ http://202.75.23.37:8800/live/ch18/01.m3u8
 #EXTINF:-1,Bein sports2
 http://202.75.23.37:8800/live/ch19/01.m3u8
 #EXTINF:-1,BEIN SPORT 1
-rtmpe://46.246.124.22:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.104:1935/live playpath=j1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j1&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 2
-rtmpe://46.246.124.22:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.104:1935/live playpath=j2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j2&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 3
-rtmpe://46.246.124.22:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.104:1935/live playpath=j3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j3&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 4
-rtmpe://46.246.124.22:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j4&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 5
-rtmpe://46.246.124.22:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j5&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 6
-rtmpe://46.246.124.22:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j6 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j6&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 7
-rtmpe://46.246.124.22:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j7&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 8
-rtmpe://46.246.124.22:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j8 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j8&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 9
-rtmpe://46.246.124.22:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j9 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j9&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 10
-rtmpe://46.246.124.22:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j10 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j10&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 11
-rtmpe://46.246.124.22:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j11 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j11&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 12
-rtmpe://46.246.124.22:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j12&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 13
-rtmpe://46.246.124.22:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j13 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j13&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 14
-rtmpe://46.246.124.22:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j14 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j14&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 15
-rtmpe://46.246.124.22:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+rtmp://31.220.0.133:1935/live playpath=j15 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j15&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,ESPN
 http://87.121.34.253:9987/udp/239.100.0.131:1234
 #EXTINF:-1,beIN Sports
