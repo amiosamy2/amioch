@@ -19,8 +19,6 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
 http://cdn-streamer2.magictvbox.com/63.m3u8
 #EXTINF:-1,Alkarma TV
 http://cdn-streamer2.magictvbox.com/41.m3u8
-#EXTINF:-1,Alkarma TV
-http://cdn.magictvbox.com/live/karma-me.stream/playlist.m3u8
 #EXTINF:-1,Alkarma TV US
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
 #EXTINF:-1,Alkarma TV AU
@@ -35,7 +33,7 @@ http://www.alkalema.tv/extra/fms/liveevent.m3u8
 http://cdn-streamer2.magictvbox.com/56.m3u8
 #EXTINF:-1,ALKARAZA
 http://cdn-streamer2.magictvbox.com/58.m3u8
-#EXTINF:0,Amazing Facts 
+#EXTINF:-1,Amazing Facts 
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,CTV
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
@@ -268,6 +266,8 @@ http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,1 group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
 #EXTINF:-1,BEIN SPORT 1
+http://demo.xtream-codes.com/GWf27vUG8U/ALB/012alex/7.ch
+#EXTINF:-1,BEIN SPORT 1
 rtmp://31.220.0.104:1935/live playpath=j1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j1&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,BEIN SPORT 2
 rtmp://31.220.0.104:1935/live playpath=j2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j2&vw=620&vh=490  token=%ZZri(nKa@#Z
@@ -313,6 +313,28 @@ rtmpe://46.246.29.154:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/
 rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-BEIN SPORT 15
 rtmpe://46.246.29.154:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sport 1
+rtmp://195.154.220.115:1935/private/sky12014
+#EXTINF:-1,Sky Sport 2
+rtmp://195.154.220.115:1935/private/sky22014
+#EXTINF:-1,Sky Sport 3
+rtmp://195.154.220.115:1935/private/sky32014
+#EXTINF:-1,Sky Sport 4
+rtmp://195.154.220.115:1935/private/sky42014
+#EXTINF:-1,Sky Sport f1
+rtmp://195.154.220.115:1935/private/skyf12014
+#EXTINF:-1,BT Sport 1
+rtmp://195.154.220.115:1935/private/bt12014
+#EXTINF:-1,BT Sport 2
+rtmp://195.154.220.115:1935/private/bt22014
+#EXTINF:-1,Premier
+rtmp://195.154.220.115:1935/private/premierx
+#EXTINF:-1,Action
+rtmp://195.154.220.115:1935/private/action
+#EXTINF:-1,Box Nation Live
+rtmp://195.154.220.115:1935/private/boxnation
+#EXTINF:-1,ESPN Live
+rtmp://195.154.220.115:1935/private/espnuk
 #EXTINF:-1,Chelsea TV 
 rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/Chelsea TV on k1m05 Live TV
 #EXTINF:-1,Dubai Sports
@@ -387,15 +409,15 @@ rtmpe://watch.playfooty.tv/live playpath=amc1569 swfUrl=http://www.playfooty.tv/
 http://iphone-streaming.ustream.tv/ustreamVideo/12762028/streams/live/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
 rtmp://s01.webport.tv/promo/mtv live=2
-#EXTINF:0,American Horrors 
+#EXTINF:-1,American Horrors 
 rtmp://204.107.26.252:8086/live/393.high.stream
-#EXTINF:0,Bloomberg
+#EXTINF:-1,Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,Bloomberg UK
+#EXTINF:-1,Bloomberg UK
 http://www.bloomberg.com/streams/video/LiveUK_nb.asx
-#EXTINF:0,CBS
+#EXTINF:-1,CBS
 http://8.12.105.26:8085/btv_00563/?uid=b906cdf6ff69e5ee480f6b9a1dc8dfcf
-#EXTINF:0,Clubbing TV 
+#EXTINF:-1,Clubbing TV 
 rtmp://204.107.26.252:8086/live/691.high.stream 
 #EXTINF:-1,CBS
 rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cbss1569&vw=600&vh=430
@@ -403,15 +425,15 @@ rtmpe://watch.playfooty.tv/live playpath=cbss1569 swfUrl=http://www.playfooty.tv
 rtmpe://watch.playfooty.tv/live playpath=cinemax1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cinemax1569&vw=600&vh=430
 #EXTINF:-1,CNN
 rtmpe://watch.playfooty.tv/live playpath=cnn1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cnn1569&vw=600&vh=430
-#EXTINF:0,C-SPAN 1 TV 
+#EXTINF:-1,C-SPAN 1 TV 
 rtmp://cp82346.live.edgefcs.net/live/CSPAN1@14845 
-#EXTINF:0,C-SPAN 2 TV 
+#EXTINF:-1,C-SPAN 2 TV 
 rtmp://cp82347.live.edgefcs.net/live/CSPAN2@14846 
-#EXTINF:0,C-SPAN 2 TV 
+#EXTINF:-1,C-SPAN 2 TV 
 rtmp://cp82348.live.edgefcs.net/live/CSPAN3@14847
-#EXTINF:0,EI (EN)
+#EXTINF:-1,EI (EN)
 http://8.12.105.26:8085/btv_00562/?uid=b906cdf6ff69e5ee480f6b9a1dc8dfcf
-#EXTINF:0,eScapes HD TV 
+#EXTINF:-1,eScapes HD TV 
 rtmp://204.107.26.252:8086/live/341.high.stream 
 #EXTINF:-1,ESPN
 rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
