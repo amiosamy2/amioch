@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,1 group-title=Christian,ACC
+#EXTINF:-1, group-title=Christian,ACC
 http://stream.acctv.com.au/index.m3u8
 #EXTINF:-1,Al Waad Tv
 rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
@@ -111,7 +111,7 @@ http://ooyalahd2-f.akamaihd.net/i/tbn02_delivery@120259/master.m3u8
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,The Freedom
 rtmp://fms.pwmcdn.com/alhorreya/alhorreya2
-#EXTINF:-1,1 group-title=News,Alarabiya
+#EXTINF:-1, group-title=News,Alarabiya
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 #EXTINF:-1,Alarabiya HADAS
 http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
@@ -181,7 +181,7 @@ mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1,Sky News Arabia
 rtmp://llnwvps231.fc.llnwd.net/llnwvps231/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://assets.delvenetworks.com/player/loader.swf live=1 pageUrl=http://www.skynewsarabia.com/web/home?view=live
-#EXTINF:-1,1 group-title=Arabic,Egypt 1
+#EXTINF:-1, group-title=Arabic,Egypt 1
 http://4.31.30.145:9084
 #EXTINF:-1,Egypt 1
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15
@@ -263,8 +263,142 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,ON TV Live
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Syrian Drama TV 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syriadramatv.stream 
+#EXTINF:-1,Al Arabyia 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alarabyia.stream 
+#EXTINF:-1,Aljazeera 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljazeera.stream 
+#EXTINF:-1,Hawacom 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hawacom.stream 
+#EXTINF:-1,LBC EUROPE 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/lbc.stream 
+#EXTINF:-1,Abu Dhabi Al Oula 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/adaloula.stream 
+#EXTINF:-1,AD Sport 1 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/adsport1.stream 
+#EXTINF:-1,Alhayat 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alhayat.stream 
+#EXTINF:-1,AL JADEED 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljadeed.stream 
+#EXTINF:-1,Arabica TV 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/arabicatv.stream 
+#EXTINF:-1,BBC Arabic 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de//bbcarabic.stream 
+#EXTINF:-1,Dream1 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dream1.stream 
+#EXTINF:-1,Dubai TV 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dubaitv.stream 
+#EXTINF:-1,DW-TV- ARABIA 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dwtvarabia.stream 
+#EXTINF:-1,France24 Arabic 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/france24arabic.stream
+#EXTINF:-1,Mazzika 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mazzika.stream 
+#EXTINF:-1,Mazzika Zoom 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mazzikazoom.stream 
+#EXTINF:-1,MTV Lebanon 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mtvlebanon.stream 
+#EXTINF:-1,NBN 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/nbn.stream 
+#EXTINF:-1,Orient 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/orient.stream
+#EXTINF:-1,Sama DUBAI 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/samadubai.stream 
+#EXTINF:-1,SHARJAH 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sharjah.stream 
+#EXTINF:-1,SHARQIYA 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sharqya.stream 
+#EXTINF:-1,Sky News Arabia 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/skynewsarabia.stream 
+#EXTINF:-1,Sumaria 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sumaria.stream 
+#EXTINF:-1,Syria News 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syrianews.stream 
+#EXTINF:-1,TV A3 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/tva3.stream 
+#EXTINF:-1,Zee Aflam 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/zeeaflam.stream 
+#EXTINF:-1,ALAAN TV 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alaantv.stream
+#EXTINF:-1,Al GHAD AL ARABY 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alghadalaraby.stream
+#EXTINF:-1,ESC 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/esc.stream 
+#EXTINF:-1,FOX 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/fox.stream 
+#EXTINF:-1,Fox Movies 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/fox_cinema.stream
+#EXTINF:-1,Alhayat Cinema 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/al_hayat_cinema.stream 
+#EXTINF:-1,Oscar Drama 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/oscar_drama.stream 
+#EXTINF:-1,OTV Lebanon 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/otv_lebanon.stream 
+#EXTINF:-1,Cima 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi0.stream
+#EXTINF:-1,MBC 1 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc1.stream 
+#EXTINF:-1,MBC 2 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc2.stream 
+#EXTINF:-1,MBC 3 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc3.stream 
+#EXTINF:-1,MBC 4 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc4.stream 
+#EXTINF:-1,MBC Action 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcaction.stream 
+#EXTINF:-1,MBC Drama 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcdrama.stream 
+#EXTINF:-1,MBC Max 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcmax.stream 
+#EXTINF:-1,MBC Bollywood 
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcbollywood.stream
+#EXTINF:-1, Smart Movie HD
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi3.stream
+#EXTINF:-1,ART Cinema
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/cinema.stream
+#EXTINF:-1,ART Aflam 1
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aflam1.stream
+#EXTINF:-1,ART Aflam 2
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aflam2.stream
+#EXTINF:-1,ART Hekayat
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hekaiat.stream
+#EXTINF:-1,ART Hekayat2
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hekaiat2.stream
+#EXTINF:-1,Rotana Cinema
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_aflam.stream
+#EXTINF:-1,Rotana Masriya
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_masrsiya.stream
+#EXTINF:-1,Rotana Music
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana.stream
+#EXTINF:-1,Rotana Clip
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_clip.stream
+#EXTINF:-1,Rotana Khalijiah
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_khalijiah.stream
+#EXTINF:-1,Rotana Cinema
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_cinema.stream
+#EXTINF:-1,Rotana Classic
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_clasic.stream
+#EXTINF:-1,Syrian Drama TV
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syriadramatv.stream
+#EXTINF:-1,Al Arabyia
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alarabyia.stream
+#EXTINF:-1,Aljazeera
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljazeera.stream
 #EXTINF:-1,1 group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
+#EXTINF:-1, beIN Sports Global
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/2hdmi3.stream
+#EXTINF:-1, beIN Sports News
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi4.stream
+#EXTINF:-1, Dubai Sport 3
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dubaisport3.stream
+#EXTINF:-1, TRT 3 Spor
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/trt3spor.stream
+#EXTINF:-1, ZDF
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/zdf.stream
+#EXTINF:-1, Smart Sport HD
+rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi1.stream
 #EXTINF:-1,BEIN SPORT 1
 http://demo.xtream-codes.com/GWf27vUG8U/ALB/012alex/7.ch
 #EXTINF:-1,BEIN SPORT 1
@@ -447,12 +581,18 @@ rtmpe://watch.playfooty.tv/live playpath=fx1569 swfUrl=http://www.playfooty.tv/p
 rtmpe://watch.playfooty.tv/live playpath=fox1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=fox1569&vw=600&vh=430
 #EXTINF:-1,HBO
 rtmpe://watch.playfooty.tv/live playpath=hbo1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=hbo1569&vw=600&vh=430
+#EXTINF:-1,HBO Family
+rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,MNC
 rtmp://edge.okeinfo.net/live// playpath=mncoke12_256.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=MNC
 #EXTINF:-1,MS NBC
 rtmpe://watch.playfooty.tv/live playpath=msnbc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=msnbc1569&vw=600&vh=430
+#EXTINF:-1,MAX HD
+rtmp://109.200.202.124:1935/live playpath=maxhd swfUrl=http://www.tv-msn.com/… pageUrl=http://tv-msn.com/maxhd.html token=ef8e8620da151301dfa07b3886ab30ad live=1 
 #EXTINF:-1,MTV
 rtmpe://watch.playfooty.tv/live playpath=mtv1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=mtv1569&vw=600&vh=430
+#EXTINF:-1,MGM
+rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,Nick
 rtmpe://watch.playfooty.tv/live playpath=nick1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=nick1569&vw=600&vh=430
 #EXTINF:-1,NBA HD
