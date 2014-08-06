@@ -519,57 +519,37 @@ rtmpe://46.246.29.154:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/
 rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-1,[COLOR blue]BEIN SPORT 15[/COLOR]
 rtmpe://46.246.29.154:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,Sky Sport 1
+#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://195.154.220.115:1935/private/sky12014
-#EXTINF:-1,Sky Sport 2
+#EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
 rtmp://195.154.220.115:1935/private/sky22014
-#EXTINF:-1,Sky Sport 3
+#EXTINF:-1,[COLOR yellow]Sky Sports 3[/COLOR]
 rtmp://195.154.220.115:1935/private/sky32014
-#EXTINF:-1,Sky Sport 4
+#EXTINF:-1,[COLOR yellow]Sky Sports 4[/COLOR]
 rtmp://195.154.220.115:1935/private/sky42014
-#EXTINF:-1,Sky Sport f1
+#EXTINF:-1,[COLOR yellow]Sky Sports f1[/COLOR]
 rtmp://195.154.220.115:1935/private/skyf12014
-#EXTINF:-1,Sky Sports 1
-rtmp://31.220.0.103:1935/live playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 2
-rtmp://31.220.0.82:1935/live playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 3
-rtmp://31.220.0.103:1935/live playpath=ss3x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss3x&vw=620&vh=490
-#EXTINF:-1,Sky Sports 4
-rtmp://31.220.0.104:1935/live playpath=ss4x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490
-#EXTINF:-1,Sky Sports News
-rtmp://31.220.0.82:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490
-#EXTINF:-1,SKY F1
-rtmp://31.220.0.103:1935/live playpath=ssf1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://www.eucast.tv/embed.php?live=ssf1x&vw=620&vh=490
-#EXTINF:-1,SKY CALCIO:SKY SPORT 24
-rtmp://31.220.0.134:1935/live playpath=calcio swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 1
-rtmp://31.220.0.134:1935/live playpath=sky1ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 2
-rtmp://31.220.0.134:1935/live playpath=sky2ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SKY CALCIO:SKY SPORT 3
-rtmp://31.220.0.134:1935/live playpath=sky3ita swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 1 V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://31.220.0.134:1935/live playpath=s1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=s1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR yellow]Sky Sports 1 V2[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://94.102.51.67:443/liverepeater playpath=66 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=66&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
 rtmp://80.82.78.38:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=43&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 2 V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
 rtmp://89.248.168.57:443/liverepeater playpath=67 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports 3[/COLOR]
 rtmp://94.102.52.186:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 3 V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports 3[/COLOR]
 rtmp://93.174.93.29:443/liverepeater playpath=68 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=68&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports 4[/COLOR]
 rtmp://93.174.93.67:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=45&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 4V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports 4[/COLOR]
 rtmp://93.174.93.200:443/liverepeater playpath=69 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=69&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
 rtmp://31.220.0.134:1935/live playpath=sf1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=sf1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR yellow]Sky Sports F1 V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
 rtmp://89.248.174.51:443/liverepeater playpath=73 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
 rtmp://46.165.196.149/spull/ playpath=dfghdfgdfgdfg7facfaa?keys=4n4yHjuFXVai50hJ70_DOg&keyt=1406486777 swfUrl=http://files.leton.tv/jwplayer.flash.swf  live=1 pageUrl=http://leton.tv/player.php?streampage=dfghdfgdfgdfg7facfaa&width=600&height=450
@@ -585,16 +565,6 @@ rtmp://195.154.220.115:1935/private/sky42014
 rtmp://195.154.220.115:1935/private/skyf12014
 #EXTINF:-1,[COLOR blue]Sky Sports 1 HD[/COLOR]
 rtmp://195.154.220.115:1935/private/skysp1
-#EXTINF:-1,[COLOR blue]Sky Sports 1[/COLOR]
-rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue]Sky Sports 2[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=43&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue]Sky Sports 3[/COLOR]
-rtmp://94.102.52.186:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue]Sky Sports 4[/COLOR]
-rtmp://93.174.93.67:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=45&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue]Sky Sports F1[/COLOR]
-rtmp://89.248.174.51:443/liverepeater playpath=73 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
 rtmp://195.154.220.115:1935/private/bt12014
 #EXTINF:-1,[COLOR yellow]BT Sports 2[/COLOR]
@@ -603,14 +573,10 @@ rtmp://195.154.220.115:1935/private/bt22014
 rtmp://80.82.78.38:443/liverepeater playpath=1 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
 rtmp://94.102.56.211:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=77&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]BT Sports 1 V1[/COLOR]
+#EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
 rtmp://80.82.78.38:443/liverepeater playpath=3 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=3&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]BT Sports 2[/COLOR]
 rtmp://89.248.169.48:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue]BT Sports 1[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR blue]BT Sports 2[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,Premier
 rtmp://195.154.220.115:1935/private/premierx
 #EXTINF:-1,[COLOR yellow]Premiere Live[/COLOR]
