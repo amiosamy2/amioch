@@ -1,442 +1,294 @@
 #EXTM3U
-#EXTINF:-1, group-title=Christian,ACC
+#EXTINF:-1,group-title=Christian,[COLOR red]ACC[/COLOR]
 http://stream.acctv.com.au/index.m3u8
-#EXTINF:-1,Al Waad Tv
+#EXTINF:-1,[COLOR red]Al Waad Tv[/COLOR]
 rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
-#EXTINF:-1,ATV SAT
+#EXTINF:-1,[COLOR red]ATV SAT[/COLOR]
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
-#EXTINF:-1,ATTARIK
+#EXTINF:-1,[COLOR red]ATTARIK[/COLOR]
 http://cdn-streamer2.magictvbox.com/43.m3u8
-#EXTINF:-1,ABNSAT
+#EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
-#EXTINF:-1,Alfady TV
+#EXTINF:-1,[COLOR red]Alfady TV[/COLOR]
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
-#EXTINF:-1,Al Hayat
+#EXTINF:-1,[COLOR red]Al Hayat[/COLOR]
 http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
-#EXTINF:-1,Al Hayat 2
+#EXTINF:-1,[COLOR red]Al Hayat 2[/COLOR]
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,ALHAYAT 2
+#EXTINF:-1,[COLOR red]ALHAYAT 2[/COLOR]
 http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:-1,Alkarma TV
+#EXTINF:-1,[COLOR red]Alkarma TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/41.m3u8
-#EXTINF:-1,Alkarma TV US
+#EXTINF:-1,[COLOR red]Alkarma TV US[/COLOR]
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
-#EXTINF:-1,Alkarma TV AU
+#EXTINF:-1,[COLOR red]Alkarma TV AU[/COLOR]
 rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
-#EXTINF:-1,Alkarma TV ME
+#EXTINF:-1,[COLOR red]Alkarma TV ME[/COLOR]
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
-#EXTINF:-1,Aghapy TV
+#EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Alkalema
+#EXTINF:-1,[COLOR red]Alkalema[/COLOR]
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/56.m3u8
-#EXTINF:-1,ALKARAZA
+#EXTINF:-1,[COLOR red]ALKARAZA[/COLOR]
 http://cdn-streamer2.magictvbox.com/58.m3u8
-#EXTINF:-1,Amazing Facts 
+#EXTINF:-1,[COLOR red]Amazing Facts [/COLOR]
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
-#EXTINF:-1,CTV
+#EXTINF:-1,[COLOR red]CTV[/COLOR]
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
-#EXTINF:-1,CTV
+#EXTINF:-1,[COLOR red]CTV[/COLOR]
 http://cdn-streamer2.magictvbox.com/32.m3u8
-#EXTINF:-1,CYC
+#EXTINF:-1,[COLOR red]CYC[/COLOR]
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
-#EXTINF:-1,CYC
+#EXTINF:-1,[COLOR red]CYC[/COLOR]
 http://cdn-streamer2.magictvbox.com/34.m3u8
-#EXTINF:-1,Copticsat TV
+#EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
-#EXTINF:-1,Copticsat TV
+#EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/55.m3u8
-#EXTINF:-1,CBN TV
+#EXTINF:-1,[COLOR red]CBN TV[/COLOR]
 mmsh://live1.cbn.org/iptv1
-#EXTINF:-1,CBN News
+#EXTINF:-1,[COLOR red]CBN News[/COLOR]
 rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
-#EXTINF:-1,Charity
+#EXTINF:-1,[COLOR red]Charity[/COLOR]
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
-#EXTINF:-1,Daystar TV
+#EXTINF:-1,[COLOR red]Daystar TV[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
-#EXTINF:-1,Good Shepherd TV
+#EXTINF:-1,[COLOR red]Good Shepherd TV[/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m3u8
-#EXTINF:-1,Hope TV
+#EXTINF:-1,[COLOR red]Hope TV[/COLOR]
 rtmp://cp101680.live.edgefcs.net/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
-#EXTINF:-1,Hope Church Channel
+#EXTINF:-1,[COLOR red]Hope Church Channel[/COLOR]
 rtmp://cp101680.live.edgefcs.net/live?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChurchChannel_1@52768?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
-#EXTINF:-1,Logos TV
+#EXTINF:-1,[COLOR red]Logos TV[/COLOR]
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
-#EXTINF:-1,LOGOS
+#EXTINF:-1,[COLOR red]LOGOS[/COLOR]
 http://cdn-streamer2.magictvbox.com/33.m3u8
-#EXTINF:-1,LLBN
+#EXTINF:-1,[COLOR red]LLBN[/COLOR]
 http://telvuehls_t01587-i.akamaihd.net/hls/live/215639-b/T01587-arabic/master_3.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/56.m3u8
-#EXTINF:-1,Kingdom TV
+#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:-1,KDEC
+#EXTINF:-1,[COLOR red]KDEC[/COLOR]
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
-#EXTINF:-1,JCTV
+#EXTINF:-1,[COLOR red]JCTV[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/tbn03_delivery@120260/master.m3u8
-#EXTINF:-1,MESAT
+#EXTINF:-1,[COLOR red]MESAT[/COLOR]
 rtmp://stream.s17.cpanelservices.com/coptictvlive/livestream
-#EXTINF:-1,Miracle TV
+#EXTINF:-1,[COLOR red]Miracle TV[/COLOR]
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
-#EXTINF:-1,New Life Egypt
+#EXTINF:-1,[COLOR red]New Life Egypt[/COLOR]
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
-#EXTINF:-1,Noursat AlShabab
+#EXTINF:-1,[COLOR red]Noursat AlShabab[/COLOR]
 http://fl1.viastreaming.net/nouralchabab/livestream/playlist.m3u8
-#EXTINF:-1,Noursat
+#EXTINF:-1,[COLOR red]Noursat[/COLOR]
 http://fl1.viastreaming.net/noursat/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Alkalima
+#EXTINF:-1,[COLOR red]Noursat Alkalima[/COLOR]
 http://fl1.viastreaming.net/nouralkalima/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Alshark
+#EXTINF:-1,[COLOR red]Noursat Alshark[/COLOR]
 http://fl1.viastreaming.net/nouralshark/livestream/playlist.m3u8
-#EXTINF:-1,Noursat Kids
+#EXTINF:-1,[COLOR red]Noursat Kids[/COLOR]
 http://fl1.viastreaming.net/nourkids/livestream/playlist.m3u8
-#EXTINF:-1,River of Life
+#EXTINF:-1,[COLOR red]River of Life[/COLOR]
 http://riversoflife.flashedgesvr.com:1935/riversoflifelive/live100/playlist.m3u8
-#EXTINF:-1,SAT 7
+#EXTINF:-1,[COLOR red]SAT 7[/COLOR]
 rtmp://unirtmp.tulix.tv/sat7arabic/sat7arabic1
-#EXTINF:-1,SAT 7 Kids
+#EXTINF:-1,[COLOR red]SAT 7 Kids[/COLOR]
 rtmp://unirtmp.tulix.tv/sat7kids/sat7kids1
-#EXTINF:-1,Spirit TV
+#EXTINF:-1,[COLOR red]Spirit TV[/COLOR]
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
-#EXTINF:-1,Smile of a Child
+#EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/tbn04_delivery@149649/master.m3u8
-#EXTINF:-1,Smile of a Child
+#EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
 http://cdn-streamer2.magictvbox.com/59.m3u8
-#EXTINF:-1,TBN
+#EXTINF:-1,[COLOR red]TBN[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/tbn01_delivery@120258/master.m3u8
-#EXTINF:-1,The Church Channel
+#EXTINF:-1,[COLOR red]The Church Channel[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/tbn02_delivery@120259/master.m3u8
-#EXTINF:-1,The Word 
+#EXTINF:-1,[COLOR red]The Word [/COLOR]
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,The Freedom
+#EXTINF:-1,[COLOR red]The Freedom[/COLOR]
 rtmp://fms.pwmcdn.com/alhorreya/alhorreya2
-#EXTINF:-1, group-title=News,Alarabiya
+#EXTINF:-1, group-title=News,[COLOR blue]Alarabiya[/COLOR]
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
-#EXTINF:-1,Alarabiya HADAS
+#EXTINF:-1,[COLOR blue]Alarabiya HADAS[/COLOR]
 http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
-#EXTINF:-1,Al Arabiya News
+#EXTINF:-1,[COLOR blue]Al Arabiya News[/COLOR]
 http://livestream2.alarabiya.tv/files/mainarabia.m3u8
-#EXTINF:-1,Aljazeera Arabic
+#EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
 rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_ara_high
-#EXTINF:-1,Aljazeera Arabic
+#EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,Al Jazeera Misr
+#EXTINF:-1,[COLOR blue]Al Jazeera Misr[/COLOR]
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_misr_high
-#EXTINF:-1,Al Jazeera Mubasher
+#EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
-#EXTINF:-1,Al Jazeera America
+#EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,[COLOR blue]Bloomberg[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,[COLOR blue]Bloomberg[/COLOR]
 http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
-#EXTINF:-1,Bloomberg (USA)
+#EXTINF:-1,[COLOR blue]Bloomberg (USA)[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Bloomberg (Europe)
+#EXTINF:-1,[COLOR blue]Bloomberg (Europe)[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
-#EXTINF:-1,Bloomberg (Asia)
+#EXTINF:-1,[COLOR blue]Bloomberg (Asia)[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/asia/master.m3u8
-#EXTINF:-1,Bloomberg (Live Event)
+#EXTINF:-1,[COLOR blue]Bloomberg (Live Event)[/COLOR]
 http://cdn3.videos.bloomberg.com/btv/event/master.m3u8
-#EXTINF:-1,BBC News Arabic
+#EXTINF:-1,[COLOR blue]BBC News Arabic[/COLOR]
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,BBC News Arabic
+#EXTINF:-1,[COLOR blue]BBC News Arabic[/COLOR]
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,BBC Arabic
+#EXTINF:-1,[COLOR blue]BBC Arabic[/COLOR]
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
-#EXTINF:-1,BBC News
+#EXTINF:-1,[COLOR blue]BBC News[/COLOR]
 rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
-#EXTINF:-1,CNBC Arabic
+#EXTINF:-1,[COLOR blue]CNBC Arabic[/COLOR]
 http://livestream-f.akamaihd.net/3102016_1914609_ea3f3d33_1_678@101498?v=3.0.3&fp=WIN%2013,0,0,214&r=QUQGY&g=KKADGWIJEZQE
-#EXTINF:-1,CNBC
+#EXTINF:-1,[COLOR blue]CNBC[/COLOR]
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1,[COLOR blue]CNBC[/COLOR]
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
-#EXTINF:-1,CNN
+#EXTINF:-1,[COLOR blue]CNN[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/breaking/
-#EXTINF:-1,DW Arabic
+#EXTINF:-1,[COLOR blue]DW Arabic[/COLOR]
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,EuroNews AR
+#EXTINF:-1,[COLOR blue]EuroNews AR[/COLOR]
 rtmp://fr-par-10-stream-relay.hexaglobe.net/rtpeuronewslive/ar_video750_rtp.sdp swfUrl=http://www.euronews.com/media/player_live_1_14.swf swfVfy=true live=true
-#EXTINF:-1,FOX News
+#EXTINF:-1,[COLOR blue]FOX News[/COLOR]
 rtmpe://watch.playfooty.tv/live/foxnews1569 swfurl=http://www.playfooty.tv/play/player/player.swf pageurl=http://www.playfooty.tv/play/embed.php?u=foxnews1569&vw=600&vh=430
-#EXTINF:-1,France 24 Arabic
+#EXTINF:-1,[COLOR blue]France 24 Arabic[/COLOR]
 http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
-#EXTINF:-1,MSNBC
+#EXTINF:-1,[COLOR blue]MSNBC[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/
-#EXTINF:-1,NASA TV
+#EXTINF:-1,[COLOR blue]NASA TV[/COLOR]
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_400 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
-#EXTINF:-1,NASA HD
+#EXTINF:-1,[COLOR blue]NASA HD[/COLOR]
 rtmp://infozen.fc.llnwd.net/infozen/ playpath=nasa_1000 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=1 live=1
-#EXTINF:-1,Nile News
+#EXTINF:-1,[COLOR blue]Nile News[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NileTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/NileTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/NileTV/
-#EXTINF:-1,Russia Today Arabic
+#EXTINF:-1,[COLOR blue]Russia Today Arabic[/COLOR]
 http://odna.octoshape.net/f3f5m2v4/cds/smil:ch3_auto.smil/playlist.m3u8
-#EXTINF:-1,Reuters Live Stream
+#EXTINF:-1,[COLOR blue]Reuters Live Stream[/COLOR]
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
-#EXTINF:-1,Sky News International
+#EXTINF:-1,[COLOR blue]Sky News International[/COLOR]
 mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9MjAxMzEyMDkxNzA4MjMmZGlnZXN0PWNlYWMyOTQ5YjcyMjk1N2ZlZGRkNzcyOTRhMGFjMWQw
-#EXTINF:-1,Sky News Arabia
+#EXTINF:-1,[COLOR blue]Sky News Arabia[/COLOR]
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1,Sky News Arabia
+#EXTINF:-1,[COLOR blue]Sky News Arabia[/COLOR]
 rtmp://llnwvps231.fc.llnwd.net/llnwvps231/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://assets.delvenetworks.com/player/loader.swf live=1 pageUrl=http://www.skynewsarabia.com/web/home?view=live
-#EXTINF:-1, group-title=Arabic,Egypt 1
+#EXTINF:-1,group-title=Arabic,[COLOR yellow]Egypt 1[/COLOR]
 http://4.31.30.145:9084
-#EXTINF:-1,Egypt 1
+#EXTINF:-1,[COLOR yellow]Egypt 1[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15
-#EXTINF:-1,Al Masriyah
+#EXTINF:-1,[COLOR yellow]Al Masriyah[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUEgy playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch1.html live=true timeout=15
-#EXTINF:-1,Al Masriyah
+#EXTINF:-1,[COLOR yellow]Al Masriyah[/COLOR]
 rtmp://livestreaming4.itworkscdn.com/masira playpath=livetv1 swfUrl=http://www.almaserahtv.com/player.swf pageUrl=http://www.almasirah.tv/ live=1 timeout=20
-#EXTINF:-1,Egypt 2
+#EXTINF:-1,[COLOR yellow]Egypt 2[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch2.html live=true timeout=15
-#EXTINF:-1,Aljazeera Documentary TV
+#EXTINF:-1,[COLOR yellow]Aljazeera Documentary TV[/COLOR]
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
-#EXTINF:-1,Al Jazeera Docu
+#EXTINF:-1,[COLOR yellow]Al Jazeera Docu[/COLOR]
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
-#EXTINF:-1,Al Nahar
+#EXTINF:-1,[COLOR yellow]Al Nahar[/COLOR]
 http://50.7.180.18:1935/nahar1/smil:nahar1-smil.smil/playlist.m3u8
-#EXTINF:-1,Al Nahar +2
+#EXTINF:-1,[COLOR yellow]Al Nahar +2[/COLOR]
 http://50.7.180.18:1935/nahar1/smil:alnahar2-smil.smil/playlist.m3u8
-#EXTINF:-1,Al Nahar Drama
+#EXTINF:-1,[COLOR yellow]Al Nahar Drama[/COLOR]
 http://50.7.180.18:1935/nahar1/smil:alnahardrama-smil.smil/playlist.m3u8
-#EXTINF:-1,AD DRAMA
+#EXTINF:-1,[COLOR yellow]AD DRAMA[/COLOR]
 rtmp://iptv2.web-medias.net:8080/live/ playpath=abu_dhabi_drama?e=1405510971&st=3Fx8ZAcOGWoIWbvcCgo74w swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/abu-dhabi-drama-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a3%d8%a8%d9%88%d8%b8%d8%a8%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0924ddc86.html
-#EXTINF:-1,Alhaya TV
+#EXTINF:-1,[COLOR yellow]Alhaya TV[/COLOR]
 rtmp://iptv5.web-medias.net:8080/live playpath=alhayat_1?e=1405510821&st=MKrnVa-h-XnXqJvIUsZ61g swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_d23102aa7.html
-#EXTINF:-1,Alhayat-Series
+#EXTINF:-1,[COLOR yellow]Alhayat-Series[/COLOR]
 rtmp://iptv5.web-medias.net:8080/live playpath=alhayat_series?e=1405510867&st=9hQTR6rxhR69AKAXImH3JQ swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-series-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_98e184c04.html
-#EXTINF:-1,Alhaya Cinema
+#EXTINF:-1,[COLOR yellow]Alhaya Cinema[/COLOR]
 rtmp://iptv2.web-medias.net:8080/live/ playpath=alhayat_cinema?e=1405510907&st=8lG0KPW_fzQcu5BVaSBl4A swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/al-hayat-cinema-en-direct-live-streaming-%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d8%b3%d9%8a%d9%86%d9%85%d8%a7-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-video_bcbf336e4.html
-#EXTINF:-1,Baraem
+#EXTINF:-1,[COLOR yellow]Baraem[/COLOR]
 http://78.100.40.198:1935/brm/brm/gmswf.m3u8?keylive87-163-224-792014-05-18-16-28-09&amp;v=hghpl]
-#EXTINF:-1,CBC Sofra
+#EXTINF:-1,[COLOR yellow]CBC Sofra[/COLOR]
 rtmp://41.196.200.11:9900/live/ playpath=ssoofra.stream swfUrl=http://ezfilms.do.am/jw-premium/jwplayer.flash.swf pageUrl=http://free-eg.com/index/cbc_sofra/0-557
-#EXTINF:-1,Dream2
+#EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m3u8
-#EXTINF:-1,Dubai TV
+#EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
-#EXTINF:-1,Dubai TV
+#EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-#EXTINF:-1,Fatafet
+#EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 rtmp://live-f01.vustream.net/live/ playpath=livestream3 swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.20sat.com/new/fatafet_on.htm
-#EXTINF:-1,FOX MOVIES
+#EXTINF:-1,[COLOR yellow]FOX MOVIES[/COLOR]
 rtmp://iptv5.web-medias.net:8080/live playpath=fox_movies?e=1405511162&st=sWouMWWuLf-d_qeJrUl7wA swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/fox-movies-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d9%81%d9%88%d9%83%d8%b3-%d9%85%d9%88%d9%81%d9%8a%d8%b2-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_bb9ad992b.html
-#EXTINF:-1,Mehwar Tv
+#EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
-#EXTINF:-1,Mehwar Tv 2
+#EXTINF:-1,[COLOR yellow]Mehwar Tv 2[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/index2.html
-#EXTINF:-1,MBC 2
+#EXTINF:-1,[COLOR yellow]MBC 2[/COLOR]
 rtmp://live-f01.vustream.net:1935/live/livestream2
-#EXTINF:-1,MBC 3 
+#EXTINF:-1,[COLOR yellow]MBC 3[/COLOR]
 rtmp://iptv2.web-medias.net:8080/live/ playpath=mbc_3?e=1405511388&st=AaGLtEDfTE0xO06GGnyajQ swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-3-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_43d5f93f1.html
-#EXTINF:-1,MBC 4
+#EXTINF:-1,[COLOR yellow]MBC 4[/COLOR]
 rtmp://iptv4.web-medias.net:8080/live playpath=mbc_4?e=1405511345&st=9yRhOO1gzSet4ZlLG59rPw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-4-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-4-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_afae7466f.html
-#EXTINF:-1,MBC MAX
+#EXTINF:-1,[COLOR yellow]MBC MAX[/COLOR]
 rtmp://iptv2.web-medias.net:8080/live/ playpath=mbc_max?e=1405511515&st=wuKQ5V1aciTN5OzdZgNBag swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-max-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d9%85%d8%a7%d9%83%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_0a915c1da.html
-#EXTINF:-1,MBC DRAMA 
+#EXTINF:-1,[COLOR yellow]MBC DRAMA [/COLOR]
 rtmp://iptv5.web-medias.net:8080/live playpath=mbc_drama?e=1405511429&st=Ua-bl7cxUohVR4lDIRIlwA swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-drama-plus-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a8%d9%84%d8%b3-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_b094a4888.html
-#EXTINF:-1,MBC DRAMA PLUS
+#EXTINF:-1,[COLOR yellow]MBC DRAMA PLUS[/COLOR]
 rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_drama?e=1405511469&st=5yFulDLr39MoHhj7gm-Lqw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-drama-en-direct-live-%d9%82%d9%86%d8%a7%d8%a9-%d8%a5%d9%85%d8%a8%d9%8a%d8%b3%d9%8a-%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_729b51e16.html
-#EXTINF:-1,MBC BOLLYWOOD
+#EXTINF:-1,[COLOR yellow]MBC BOLLYWOOD[/COLOR]
 rtmp://iptv1.web-medias.net:8080/live/ playpath=mbc_bollywood?e=1405511557&st=2SuPDbwcSzCTsROd3Buozw swfUrl=http://www.tele-live.net/jwplayer.swf pageUrl=http://www.tele-live.net/mbc-bollywood-en-direct-live-%d8%a7%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-%d8%a8%d9%88%d9%84%d9%8a%d9%88%d8%af-%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-video_d84380d20.html
-#EXTINF:-1,Melody Aflam
+#EXTINF:-1,[COLOR yellow]Melody Aflam[/COLOR]
 rtmp://38.96.148.206/Melody/ playpath=MAflamWeb swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.20sat.com/new/melodyA.htm
-#EXTINF:-1,Melody Classic
+#EXTINF:-1,[COLOR yellow]Melody Classic[/COLOR]
 rtmp://38.96.148.206/Melody/ playpath=MClassicWeb swfUrl=http://www.watchfomny.net/jwplayer/jwplayer.flash.swf pageUrl=http://www.20sat.com/new/melodyC.htm
-#EXTINF:-1,Melody Hits
+#EXTINF:-1,[COLOR yellow]Melody Hits[/COLOR]
 rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf pageUrl=http://freetv247.com/content/melody-hits-channel live=1 timeout=15
-#EXTINF:-1,Melody Drama
+#EXTINF:-1,[COLOR yellow]Melody Drama[/COLOR]
 rtmp://38.96.148.206/Melody/MDramaWeb
-#EXTINF:-1,Sharqia
+#EXTINF:-1,[COLOR yellow]Sharqia[/COLOR]
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1,Nile Cinma
+#EXTINF:-1,[COLOR yellow]Nile Cinma[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCinema playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=cinema
-#EXTINF:-1,Nile Drama
+#EXTINF:-1,[COLOR yellow]Nile Drama[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileDrama playpath=livestream?ch=drama swfUrl=http://ntn.onlinehorizons.net/player/player.swf pageUrl=http://www.ntnegypt.net/stream.php live=1
-#EXTINF:-1,Nile Comedy
+#EXTINF:-1,[COLOR yellow]Nile Comedy[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileComedy/ playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy swfVfy=true live=true timeout=60
-#EXTINF:-1,Nile Culture
+#EXTINF:-1,[COLOR yellow]Nile Culture[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=culture
-#EXTINF:-1,Nile Family
+#EXTINF:-1,[COLOR yellow]Nile Family[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=family
-#EXTINF:-1,Nile Learning
+#EXTINF:-1,[COLOR yellow]Nile Learning[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLearning playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=learning live=1
-#EXTINF:-1,Nile Life
+#EXTINF:-1,[COLOR yellow]Nile Life[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
-#EXTINF:-1,ON TV
+#EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,ON TV Live
+#EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Syrian Drama TV 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syriadramatv.stream 
-#EXTINF:-1,Al Arabyia 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alarabyia.stream 
-#EXTINF:-1,Aljazeera 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljazeera.stream 
-#EXTINF:-1,Hawacom 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hawacom.stream 
-#EXTINF:-1,LBC EUROPE 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/lbc.stream 
-#EXTINF:-1,Abu Dhabi Al Oula 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/adaloula.stream 
-#EXTINF:-1,AD Sport 1 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/adsport1.stream 
-#EXTINF:-1,Alhayat 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alhayat.stream 
-#EXTINF:-1,AL JADEED 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljadeed.stream 
-#EXTINF:-1,Arabica TV 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/arabicatv.stream 
-#EXTINF:-1,BBC Arabic 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de//bbcarabic.stream 
-#EXTINF:-1,Dream1 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dream1.stream 
-#EXTINF:-1,Dubai TV 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dubaitv.stream 
-#EXTINF:-1,DW-TV- ARABIA 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/dwtvarabia.stream 
-#EXTINF:-1,France24 Arabic 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/france24arabic.stream
-#EXTINF:-1,Mazzika 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mazzika.stream 
-#EXTINF:-1,Mazzika Zoom 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mazzikazoom.stream 
-#EXTINF:-1,MTV Lebanon 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mtvlebanon.stream 
-#EXTINF:-1,NBN 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/nbn.stream 
-#EXTINF:-1,Orient 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/orient.stream
-#EXTINF:-1,Sama DUBAI 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/samadubai.stream 
-#EXTINF:-1,SHARJAH 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sharjah.stream 
-#EXTINF:-1,SHARQIYA 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sharqya.stream 
-#EXTINF:-1,Sky News Arabia 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/skynewsarabia.stream 
-#EXTINF:-1,Sumaria 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/sumaria.stream 
-#EXTINF:-1,Syria News 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syrianews.stream 
-#EXTINF:-1,TV A3 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/tva3.stream 
-#EXTINF:-1,Zee Aflam 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/zeeaflam.stream 
-#EXTINF:-1,ALAAN TV 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alaantv.stream
-#EXTINF:-1,Al GHAD AL ARABY 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alghadalaraby.stream
-#EXTINF:-1,ESC 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/esc.stream 
-#EXTINF:-1,FOX 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/fox.stream 
-#EXTINF:-1,Fox Movies 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/fox_cinema.stream
-#EXTINF:-1,Alhayat Cinema 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/al_hayat_cinema.stream 
-#EXTINF:-1,Oscar Drama 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/oscar_drama.stream 
-#EXTINF:-1,OTV Lebanon 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/otv_lebanon.stream 
-#EXTINF:-1,Cima 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi0.stream
-#EXTINF:-1,MBC 1 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc1.stream 
-#EXTINF:-1,MBC 2 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc2.stream 
-#EXTINF:-1,MBC 3 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc3.stream 
-#EXTINF:-1,MBC 4 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbc4.stream 
-#EXTINF:-1,MBC Action 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcaction.stream 
-#EXTINF:-1,MBC Drama 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcdrama.stream 
-#EXTINF:-1,MBC Max 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcmax.stream 
-#EXTINF:-1,MBC Bollywood 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/mbcbollywood.stream
-#EXTINF:-1, Smart Movie HD
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi3.stream
-#EXTINF:-1,ART Cinema
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/cinema.stream
-#EXTINF:-1,ART Aflam 1
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aflam1.stream
-#EXTINF:-1,ART Aflam 2
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aflam2.stream
-#EXTINF:-1,ART Hekayat
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hekaiat.stream
-#EXTINF:-1,ART Hekayat2
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/hekaiat2.stream
-#EXTINF:-1,Rotana Cinema
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_aflam.stream
-#EXTINF:-1,Rotana Masriya
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_masrsiya.stream
-#EXTINF:-1,Rotana Music
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana.stream
-#EXTINF:-1,Rotana Clip
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_clip.stream
-#EXTINF:-1,Rotana Khalijiah
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_khalijiah.stream
-#EXTINF:-1,Rotana Cinema
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_cinema.stream
-#EXTINF:-1,Rotana Classic
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/rotana_clasic.stream
-#EXTINF:-1,Syrian Drama TV
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/syriadramatv.stream
-#EXTINF:-1,Al Arabyia
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/alarabyia.stream
-#EXTINF:-1,Aljazeera
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/aljazeera.stream
-#EXTINF:-1,1 group-title=Sports,Al Nahar Sports
+#EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 http://50.7.180.18:1935/nahar1/smil:naharsports-smil.smil/playlist.m3u8
-#EXTINF:-1,[COLOR blue]beIN Sport NEWS[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi4.stream
-#EXTINF:-1,[COLOR blue] beIN Sports Global[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/2hdmi3.stream
-#EXTINF:-1,[COLOR blue] beIN Sports 1 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein1hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 2 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein2hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 3 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein3hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 4 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein4hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 5 HD[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein5hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 6 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein6hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 7 HD[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein7hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 8 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein8hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 9 HD[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein9hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 10 HD[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein10hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 11 HD[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein11hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 12 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein12hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 13 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein13hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 14 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein14hd.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 15 HD[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein15hd.stream
-#EXTINF:-1,[COLOR blue] beIN Sports 1 HD FR[/COLOR] 
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein1hdfr.stream 
-#EXTINF:-1,[COLOR blue] beIN Sports 2 HD FR[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/bein2hdfr.stream
-#EXTINF:-1,[COLOR blue] beIN Sports Global[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/2hdmi3.stream 
-#EXTINF:-1,[COLOR blue]beIN Sport NEWS[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi4.stream
-#EXTINF:-1,[COLOR blue]beIN Sport NEWS[/COLOR]
-rtmp://80.252.165.110/traum?mac=00:09:34:2e:c9:de/1hdmi4.stream
+#EXTINF:-1,[COLOR blue]Bein Sports 1 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein1
+#EXTINF:-1,[COLOR blue]Bein Sports 2 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein2
+#EXTINF:-1,[COLOR blue]Bein Sports 3 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein3
+#EXTINF:-1,[COLOR blue]Bein Sports 4 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein4
+#EXTINF:-1,[COLOR blue]Bein Sports 5 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein5
+#EXTINF:-1,[COLOR blue]Bein Sports 6 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein6
+#EXTINF:-1,[COLOR blue]Bein Sports 7 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein7
+#EXTINF:-1,[COLOR blue]Bein Sports 8 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein8
+#EXTINF:-1,[COLOR blue]Bein Sports 9 HD[/COLOR]
+rtmp://195.154.220.115:1935/private/sbein9
 #EXTINF:-1,[COLOR blue]Bein Sports 10 HD[/COLOR]
 rtmp://195.154.220.115:1935/private/sbein10
 #EXTINF:-1,[COLOR blue]Bein Sports 11 HD[/COLOR]
@@ -489,36 +341,6 @@ rtmp://31.220.0.133:1935/live playpath=j6 swfUrl=http://www.flashtv.co/ePlayerr.
 rtmp://31.220.0.133:1935/live playpath=j7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j7&vw=620&vh=490  token=%ZZri(nKa@#Z
 #EXTINF:-1,[COLOR blue]beIN SPORT 8[/COLOR]
 rtmp://31.220.0.133:1935/live playpath=j8 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=j8&vw=620&vh=490  token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR blue]BEIN SPORT 1[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 2[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bch2&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 3[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch3 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 4[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch4 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 5[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch5 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 6[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch6 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 7[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch7 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 8[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch8 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 9[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch9 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 10[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch10 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 11[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch11 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 12[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch12 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 13[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 14[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
-#EXTINF:-1,[COLOR blue]BEIN SPORT 15[/COLOR]
-rtmpe://46.246.29.154:1935/redirect playpath=bch15 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku
 #EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://195.154.220.115:1935/private/sky12014
 #EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
