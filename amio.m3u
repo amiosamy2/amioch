@@ -146,7 +146,12 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&amp
 #EXTINF:-1,[COLOR blue]BBC Arabic[/COLOR]
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1,[COLOR blue]BBC News[/COLOR]
-rtmp://hd4.lsops.net/live/ playpath=bbcnews_en_364 swfUrl="http://static.ls-cdn.com/player/5.10/livestation-player.swf" swfVfy=true live=true
+#EXTINF:-1,[COLOR blue]C-SPAN 1 TV[/COLOR]
+rtmp://cp82346.live.edgefcs.net/live/CSPAN1@14845 
+#EXTINF:-1,[COLOR blue]C-SPAN 2 TV[/COLOR]
+rtmp://cp82347.live.edgefcs.net/live/CSPAN2@14846 
+#EXTINF:-1,[COLOR blue]C-SPAN 3 TV[/COLOR]
+rtmp://cp82348.live.edgefcs.net/live/CSPAN3@14847
 #EXTINF:-1,[COLOR blue]CNBC Arabic[/COLOR]
 http://livestream-f.akamaihd.net/3102016_1914609_ea3f3d33_1_678@101498?v=3.0.3&fp=WIN%2013,0,0,214&r=QUQGY&g=KKADGWIJEZQE
 #EXTINF:-1,[COLOR blue]CNBC[/COLOR]
@@ -199,11 +204,11 @@ rtmp://50.7.180.18/nahar_tv playpath=nahar_tvprofile1.stream  swfUrl=http://demo
 rtmp://50.7.180.18/nahar_tv playpath=nahar_youmprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahar2/
 #EXTINF:-1,[COLOR yellow]Al Nahar Drama[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_dramaprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahardrama/
-#EXTINF:-1,Alhayat Cinema
+#EXTINF:-1,[COLOR yellow]Alhayat Cinema[/COLOR]
 http://38.99.146.44:7777/AlHayatCinema/AlHayatCinema_Low.m3u8?user=HTTP_Proxy_ZIXI44_75874&session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_409678
-#EXTINF:-1,Alhayat Drama
+#EXTINF:-1,[COLOR yellow]Alhayat Drama[/COLOR]
 http://38.99.146.44:7777/AlHayatMousalsalat/AlHayatMousalsalat_Low.m3u8?user=HTTP_Proxy_ZIXI44_75874&session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_413615
-#EXTINF:-1,Cairo Cinema
+#EXTINF:-1,[COLOR yellow]Cairo Cinema[/COLOR]
 http://38.99.146.44:7777/CairoCinema/CairoCinema_Low.m3u8?user=HTTP_Proxy_ZIXI44_75874&session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_408424
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m3u8
@@ -359,9 +364,9 @@ rtmp://93.174.93.29:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/at
 rtmp://80.82.64.117:443/liverepeater playpath=84 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=84&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Chelsea Tv[/COLOR]
 rtmp://5.63.151.204:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=35&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,Dubai Sports
+#EXTINF:-1,[COLOR yellow]Dubai Sports[/COLOR]
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,ESports 3
+#EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR yellow]ESPN[/COLOR]
 rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=71&width=640&height=460 token=#atd%#$ZH
@@ -369,49 +374,41 @@ rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atd
 rtmp://31.220.0.82:1935/live playpath=f1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=f1&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,[COLOR yellow] Fox Sport 2 [/COLOR]
 rtmp://89.248.169.48:443/liverepeater playpath=96 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=96&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,Nile Sport
+#EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,1 group-title=English,ABC News
+#EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1,[COLOR red]ANIMAL PLANET HD[/COLOR]
 rtmp://s01.webport.tv/promo/mtv live=2
-#EXTINF:-1,American Horrors 
+#EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
 rtmp://204.107.26.252:8086/live/393.high.stream
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1,Clubbing TV 
+#EXTINF:-1,[COLOR red]Clubbing TV [/COLOR]
 rtmp://204.107.26.252:8086/live/691.high.stream
-#EXTINF:-1,C-SPAN 1 TV 
-rtmp://cp82346.live.edgefcs.net/live/CSPAN1@14845 
-#EXTINF:-1,C-SPAN 2 TV 
-rtmp://cp82347.live.edgefcs.net/live/CSPAN2@14846 
-#EXTINF:-1,C-SPAN 2 TV 
-rtmp://cp82348.live.edgefcs.net/live/CSPAN3@14847
-#EXTINF:-1,eScapes HD TV 
+#EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
 rtmp://204.107.26.252:8086/live/341.high.stream
-#EXTINF:-1,HBO Family
+#EXTINF:-1,[COLOR red]HBO Family[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-#EXTINF:-1,MAX HD
+#EXTINF:-1,[COLOR red]MAX HD[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=maxhd swfUrl=http://www.tv-msn.com/… pageUrl=http://tv-msn.com/maxhd.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-#EXTINF:-1,MGM
+#EXTINF:-1,[COLOR red]MGM[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-#EXTINF:-1,Nat Geo 
+#EXTINF:-1,[COLOR red]Nat Geo [/COLOR]
 http://hls01-01.az.myvideo.az/hls-live/livepkgr/natgeo/natgeo/natgeo.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Nat Geo Wild 
+#EXTINF:-1,[COLOR red]Nat Geo Wild [/COLOR]
 http://hls01-03.az.myvideo.az/hls-live/livepkgr/natgeowild/natgeowild/natgeowild.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Animal Planet 
+#EXTINF:-1,[COLOR red]Animal Planet [/COLOR]
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/animalplanet/animalplanet/animalplanet.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Discovery Channel 
+#EXTINF:-1,[COLOR red]Discovery Channel [/COLOR]
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/discovery/discovery/discovery.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Discovery World 
+#EXTINF:-1,[COLOR red]Discovery World [/COLOR]
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoveryworld/discoveryworld/discoveryworld.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Discovery Science 
+#EXTINF:-1,[COLOR red]Discovery Science [/COLOR]
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/discoverysci/discoverysci/discoverysci.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Viasat History 
+#EXTINF:-1,[COLOR red]Viasat History [/COLOR]
 http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist.m3u8?mfamwuUL6IpOXDJ8WwxJ 
-#EXTINF:-1,Viasat Explorer 
+#EXTINF:-1,[COLOR red]Viasat Explorer [/COLOR]
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
-#EXTINF:-1,Wisconsin Channel
+#EXTINF:-1,[COLOR red]Wisconsin Channel[/COLOR]
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,[COLOR red]BBC One[/COLOR]
 http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
@@ -419,9 +416,9 @@ http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
 http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
 #EXTINF:-1,[COLOR blue] MOVIES! [/COLOR][COLOR gold] BOSTON [/COLOR]
 rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbe0ab2ad8de135c4d566149009f982fae9c3b1a8f2fa126897935de44f16ecb7806c368cf699672562651ad415c4be6926bdcbdd29bdd059ca2fd0102916af132b47150705871ed5c23ffd1aad38718c43c499e81a6f4626924f9548215cd7ed30b1c329c38752c44e3127f4618ef59aebb17962ebd158c7ccbdb0127c111722ddb1b6f8871ecbb1b17707beb3c26645ca playpath=2857.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/group/local-tv
-#EXTINF:-1,ShowTime 
+#EXTINF:-1,[COLOR blue]ShowTime[/COLOR] 
 mmsh://mediafilmcenter.ro:10
-#EXTINF:-1,MGM
+#EXTINF:-1,[COLOR blue]MGM[/COLOR]
 http://93.184.81.71:8097/
 #EXTINF:-1,[COLOR blue] BBC One HD [/COLOR]
 rtmp://94.102.52.186:443/liverepeater playpath=14 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=14&width=640&height=460 token=#atd%#$ZH
