@@ -314,36 +314,6 @@ http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&amp;hlsid=HLS_2487419
-#EXTINF:-1,[COLOR blue]Bein Sports 1 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein1
-#EXTINF:-1,[COLOR blue]Bein Sports 2 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein2
-#EXTINF:-1,[COLOR blue]Bein Sports 3 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein3
-#EXTINF:-1,[COLOR blue]Bein Sports 4 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein4
-#EXTINF:-1,[COLOR blue]Bein Sports 5 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein5
-#EXTINF:-1,[COLOR blue]Bein Sports 6 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein6
-#EXTINF:-1,[COLOR blue]Bein Sports 7 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein7
-#EXTINF:-1,[COLOR blue]Bein Sports 8 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein8
-#EXTINF:-1,[COLOR blue]Bein Sports 9 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein9
-#EXTINF:-1,[COLOR blue]Bein Sports 10 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein10
-#EXTINF:-1,[COLOR blue]Bein Sports 11 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein11
-#EXTINF:-1,[COLOR blue]Bein Sports 12 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein12
-#EXTINF:-1,[COLOR blue]Bein Sports 13 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein13
-#EXTINF:-1,[COLOR blue]Bein Sports 14 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein14
-#EXTINF:-1,[COLOR blue]Bein Sports 15 HD[/COLOR]
-rtmp://195.154.220.115:1935/private/sbein15
 #EXTINF:-1,[COLOR blue]Bein Sports 1[/COLOR]
 rtmp://31.220.0.194:1935/live playpath=j1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j1&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,[COLOR blue]Bein Sports 2[/COLOR]
@@ -368,6 +338,44 @@ rtmp://31.220.0.103:1935/live playpath=j10 swfUrl=http://www.flashtv.co/ePlayerr
 rtmp://31.220.0.103:1935/live playpath=j11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j11&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,[COLOR blue]Bein Sports 12[/COLOR]
 rtmp://31.220.0.103:1935/live playpath=j12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j12&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:-1,[COLOR yellow]SKY SPROT 1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel12
+#EXTINF:-1,[COLOR yellow]SKY SPROT 24[/COLOR]
+rtmp://94.102.49.192/liveedge//channel10
+#EXTINF:-1,[COLOR yellow]SRF SPORT[/COLOR]
+rtmp://94.102.49.192/liveedge//channel11
+#EXTINF:-1,[COLOR yellow]SPORT 1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel1
+#EXTINF:-1,[COLOR yellow]BT SPORT 1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel4
+#EXTINF:-1,[COLOR yellow]SPORT TV PORTUGAL[/COLOR]
+rtmp://94.102.49.192/liveedge//channel5
+#EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel8
+#EXTINF:-1,[COLOR yellow]SPORT TV 1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel2
+#EXTINF:-1,[COLOR yellow]SPORT TV 2[/COLOR]
+rtmp://94.102.49.192/liveedge//channel5
+#EXTINF:-1,[COLOR yellow]SKY SPORTS 1[/COLOR]
+rtmp://94.102.49.192/liveedge//channel8
+#EXTINF:-1,[COLOR yellow]SKY SPORTS 1HD[/COLOR]
+rtmp://37.187.133.146:1935/gtfo/prem2
+#EXTINF:-1,[COLOR yellow]FUTBOLL LİVE[/COLOR]
+rtmp://94.102.49.192/liveedge//channel15
+#EXTINF:-1,[COLOR yellow]CANAL 8 SPORTS[/COLOR]
+rtmp://94.102.49.192/liveedge//channel1
+#EXTINF:-1,[COLOR yellow]SUPER SPORT[/COLOR]
+rtmp://94.102.49.192/liveedge//channel4
+#EXTINF:-1,[COLOR yellow]FOX SPORTS[/COLOR]
+rtmp://94.102.49.192/liveedge//channel10
+#EXTINF:-1,[COLOR yellow]ORANGE SPORT[/COLOR]
+rtmp://94.102.49.192/liveedge//channel11
+#EXTINF:-1,[COLOR yellow]ESPN[/COLOR]
+rtmp://94.102.49.192/liveedge//channel12
+#EXTINF:-1,[COLOR yellow]Sport 1[/COLOR]
+rtmp://5.135.135.200:80/live/sport1.stream
+#EXTINF:-1,[COLOR yellow]BT SPORT 1[/COLOR]
+rtmp://37.187.133.146:1935/gtfo/prem1
 #EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
 rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
