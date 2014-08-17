@@ -462,28 +462,26 @@ http://hls01-11.az.myvideo.az/hls-live/livepkgr/viasathist/viasathist/viasathist
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/viasatexp/viasatexp/viasatexp.m3u8?mfamwuUL6IpOXDJ8WwxJ
 #EXTINF:-1,[COLOR red]Wisconsin Channel[/COLOR]
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
-#EXTINF:-1,[COLOR red]BBC One[/COLOR]
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:-1,[COLOR red]BBC Two[/COLOR]
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:-1,[COLOR blue] MOVIES! [/COLOR][COLOR gold] BOSTON [/COLOR]
-rtmp://38.79.128.43/live/?id=0ad5aac39bb13fbe0ab2ad8de135c4d566149009f982fae9c3b1a8f2fa126897935de44f16ecb7806c368cf699672562651ad415c4be6926bdcbdd29bdd059ca2fd0102916af132b47150705871ed5c23ffd1aad38718c43c499e81a6f4626924f9548215cd7ed30b1c329c38752c44e3127f4618ef59aebb17962ebd158c7ccbdb0127c111722ddb1b6f8871ecbb1b17707beb3c26645ca playpath=2857.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/group/local-tv
 #EXTINF:-1,[COLOR blue]ShowTime[/COLOR] 
 mmsh://mediafilmcenter.ro:10
 #EXTINF:-1,[COLOR blue]MGM[/COLOR]
 http://93.184.81.71:8097/
-#EXTINF:-1,[COLOR blue] BBC One HD [/COLOR]
-rtmp://94.102.52.186:443/liverepeater playpath=14 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=14&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR blue] Sky Movies GREATS[/COLOR]
+#EXTINF:-1,[COLOR blue]BBC One[/COLOR]
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:-1,[COLOR blue]BBC Two[/COLOR]
+http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1,[COLOR blue] Sky Movies Premiere NEW[/COLOR]
+rtmp://195.154.220.115:1935/private/premierx
+#EXTINF:-1,[COLOR blue] Sky Movies Action NEW[/COLOR]
+rtmp://195.154.220.115:1935/private/action
+#EXTINF:-1,[COLOR blue] Sky Movies Greats NEW[/COLOR]
 rtmp://195.154.220.115:1935/private/greats
-#EXTINF:-1,[COLOR blue] Sky Movies Comedy[/COLOR]
-rtmp://195.154.220.115:1935/private/comedy swfUrl=http://www.hdcast.org/players.swf token=?#vd?%ub#t@25u timeout=15 swfVfy=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
-rtmp://195.154.220.115:1935/private/premierx swfUrl=http://www.hdcast.org/players.swf token=?#vd?%ub#t@25u timeout=15 swfVfy=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,[COLOR blue] Sky Movies action[/COLOR]
-rtmp://195.154.220.115:1935/private/action swfUrl=http://www.hdcast.org/players.swf token=?#vd?%ub#t@25u timeout=15 swfVfy=1 pageUrl=http://www.hdcast.org
-#EXTINF:-1,[COLOR blue] Sky Movies Thriller[/COLOR]
-rtmp://195.154.220.115:1935/private/thriller swfUrl=http://www.hdcast.org/players.swf  token=?#vd?%ub#t@25u timeout=15 swfVfy=1 pageUrl=http://www.hdcast.org
+#EXTINF:-1,[COLOR blue] Sky Movies Thriller NEW[/COLOR]
+rtmp://195.154.220.115:1935/private/thriller
+#EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror NEW[/COLOR]
+rtmp://195.154.220.115:1935/private/scifi
+#EXTINF:-1,[COLOR blue]SKY News[/COLOR]
+rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
