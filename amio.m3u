@@ -336,37 +336,43 @@ http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,BeIN Sports
+#EXTINF:-1,[COLOR blue]Bein Sports[/COLOR]
 http://iptvp.net/stream/beINSports_HD.m3u8
 #EXTINF:-1,beIN Sports News
-http://38.99.146.37:7777/beINSportsNews_HD/beINSportsNews_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/beINSportsNews.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR blue]Bein Sports 1[/COLOR]
-rtmp://31.220.0.194:1935/live playpath=j1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j1&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/iflw
 #EXTINF:-1,[COLOR blue]Bein Sports 2[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=j2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j2&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/vo3k
 #EXTINF:-1,[COLOR blue]Bein Sports 3[/COLOR]
-rtmp://31.220.0.104:1935/live playpath=j3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j3&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/7baj
 #EXTINF:-1,[COLOR blue]Bein Sports 4[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=j4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j4&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/ag8e
 #EXTINF:-1,[COLOR blue]Bein Sports 5[/COLOR]
-rtmp://31.220.0.86:1935/live playpath=j5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j5&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/da17
 #EXTINF:-1,[COLOR blue]Bein Sports 6[/COLOR]
-rtmp://31.220.0.133:1935/live playpath=j6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j6&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/jfkz
 #EXTINF:-1,[COLOR blue]Bein Sports 7[/COLOR]
-rtmp://31.220.0.196:1935/live playpath=j7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j7&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/py1z
 #EXTINF:-1,[COLOR blue]Bein Sports 8[/COLOR]
-rtmp://31.220.0.196:1935/live playpath=j8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j8&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/pglh
 #EXTINF:-1,[COLOR blue]Bein Sports 9[/COLOR]
-rtmp://31.220.0.196:1935/live playpath=j9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j9&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/ipdn
 #EXTINF:-1,[COLOR blue]Bein Sports 10[/COLOR]
-rtmp://31.220.0.103:1935/live playpath=j10 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j10&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/0nyr
 #EXTINF:-1,[COLOR blue]Bein Sports 11[/COLOR]
-rtmp://31.220.0.103:1935/live playpath=j11 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j11&vw=620&vh=490 token=%ZZri(nKa@#Z
+http://q9r.me/fsr3
 #EXTINF:-1,[COLOR blue]Bein Sports 12[/COLOR]
-rtmp://31.220.0.103:1935/live playpath=j12 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=j12&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1, DubaiSport
+http://q9r.me/02w
+#EXTINF:-1,[COLOR blue]Bein Sports 13[/COLOR]
+http://q9r.me/jx6r
+#EXTINF:-1,[COLOR blue]Bein Sports 14[/COLOR]
+http://q9r.me/6061
+#EXTINF:-1,[COLOR blue]Bein Sports 15[/COLOR]
+http://q9r.me/77zb
+#EXTINF:-1,DubaiSport
 http://iptvp.net/stream/DubaiSport_HD.m3u8
-#EXTINF:-1, DubaiSport 2
+#EXTINF:-1,DubaiSport 2
 http://iptvp.net/stream/DubaiSport2_HD.m3u8
 #EXTINF:-1,Dubai Sport
 http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
@@ -392,8 +398,6 @@ rtmp://94.102.49.192/liveedge//channel2
 rtmp://94.102.49.192/liveedge//channel5
 #EXTINF:-1,[COLOR yellow]SKY SPORTS 1[/COLOR]
 rtmp://94.102.49.192/liveedge//channel8
-#EXTINF:-1,[COLOR yellow]SKY SPORTS 1HD[/COLOR]
-rtmp://37.187.133.146:1935/gtfo/prem2
 #EXTINF:-1,[COLOR yellow]FUTBOLL LİVE[/COLOR]
 rtmp://94.102.49.192/liveedge//channel15
 #EXTINF:-1,[COLOR yellow]CANAL 8 SPORTS[/COLOR]
@@ -408,82 +412,14 @@ rtmp://94.102.49.192/liveedge//channel11
 rtmp://94.102.49.192/liveedge//channel12
 #EXTINF:-1,[COLOR yellow]Sport 1[/COLOR]
 rtmp://5.135.135.200:80/live/sport1.stream
-#EXTINF:-1,[COLOR yellow]BT SPORT 1[/COLOR]
-rtmp://37.187.133.146:1935/gtfo/prem1
-#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
-rtmp://89.248.172.239:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=42&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=s1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=s1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR yellow]Sky Sports 1[/COLOR]
-rtmp://94.102.51.67:443/liverepeater playpath=66 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=66&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=43&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 2[/COLOR]
-rtmp://89.248.168.57:443/liverepeater playpath=67 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 3[/COLOR]
-rtmp://94.102.52.186:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=44&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 3[/COLOR]
-rtmp://93.174.93.29:443/liverepeater playpath=68 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=68&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 4[/COLOR]
-rtmp://93.174.93.67:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=45&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports 4[/COLOR]
-rtmp://93.174.93.200:443/liverepeater playpath=69 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=69&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
-rtmp://31.220.0.134:1935/live playpath=sf1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=sf1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
-rtmp://89.248.174.51:443/liverepeater playpath=73 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=73&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=1 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
-rtmp://94.102.56.211:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=77&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]BT Sports 1[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=3 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=3&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]BT Sports 2[/COLOR]
-rtmp://89.248.169.48:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Premiere Live[/COLOR]
-rtmp://89.248.169.48:443/liverepeater playpath=74 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR blue]BBC THREE HD[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
-#EXTINF:-1,[COLOR yellow]Box Nation[/COLOR]
-rtmp://93.174.93.29:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=38&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Setanta Ireland[/COLOR]
-rtmp://80.82.64.117:443/liverepeater playpath=84 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=84&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow]Chelsea Tv[/COLOR]
-rtmp://5.63.151.204:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://renatabenj.in/player2.php?id=35&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR yellow]Dubai Sports[/COLOR]
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
-#EXTINF:-1,[COLOR yellow]ESPN[/COLOR]
-rtmp://80.82.78.38:443/liverepeater playpath=71 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=71&width=640&height=460 token=#atd%#$ZH
-#EXTINF:-1,[COLOR yellow] Fox Sport 1 [/COLOR]
-rtmp://31.220.0.82:1935/live playpath=f1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=f1&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,[COLOR yellow] Fox Sport 2 [/COLOR]
-rtmp://89.248.169.48:443/liverepeater playpath=96 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=96&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:0,ARENA SPORT 1 HD
-http://146.0.42.56:2063
-#EXTINF:0,ARENA SPORT 2 HD
-http://146.0.42.56:2064
-#EXTINF:0,ARENA SPORT 3 HD
-http://146.0.42.56:2065
-#EXTINF:0,ARENA SPORT 4 HD
-http://146.0.42.56:2066
-#EXTINF:0,ARENA SPORT 1
-http://146.0.42.56:17213
-#EXTINF:0,ARENA SPORT 2
-http://146.0.42.56:2034
-#EXTINF:0,ARENA SPORT 3
-http://146.0.42.56:2047
-#EXTINF:0,ARENA SPORT 4
-http://146.0.42.56:2048
-#EXTINF:0,SPORT KLUB 1
-http://146.0.42.56:2050
-#EXTINF:0,SPORT KLUB 2
-http://146.0.42.56:2049
-#EXTINF:0,SPORT KLUB 3
-http://146.0.42.56:2052
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]ANIMAL PLANET HD[/COLOR]
@@ -524,19 +460,15 @@ mmsh://mediafilmcenter.ro:10
 http://93.184.81.71:8097/
 #EXTINF:-1,BBC
 http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u8
-#EXTINF:-1,[COLOR blue]BBC One[/COLOR]
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:-1,[COLOR blue]BBC Two[/COLOR]
-http://bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
-#EXTINF:-1,[COLOR blue] Sky Movies Premiere NEW[/COLOR]
+#EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
 rtmp://195.154.220.115:1935/private/premierx
-#EXTINF:-1,[COLOR blue] Sky Movies Action NEW[/COLOR]
+#EXTINF:-1,[COLOR blue] Sky Movies Action[/COLOR]
 rtmp://195.154.220.115:1935/private/action
-#EXTINF:-1,[COLOR blue] Sky Movies Greats NEW[/COLOR]
+#EXTINF:-1,[COLOR blue] Sky Movies Greats[/COLOR]
 rtmp://195.154.220.115:1935/private/greats
-#EXTINF:-1,[COLOR blue] Sky Movies Thriller NEW[/COLOR]
+#EXTINF:-1,[COLOR blue] Sky Movies Thriller[/COLOR]
 rtmp://195.154.220.115:1935/private/thriller
-#EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror NEW[/COLOR]
+#EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
 #EXTINF:-1,[COLOR blue]SKY News[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
