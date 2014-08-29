@@ -332,6 +332,94 @@ http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.44:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:0,ARTAflam1 
+http://91.215.156.102:8082/TV1100 
+#EXTINF:0,???? 
+http://91.215.156.102:8082/TV1102 
+#EXTINF:0,ARTAflam2 
+http://91.215.156.102:8082/TV1103 
+#EXTINF:0,OSNMoviesPremiereHD 
+http://91.215.156.102:8082/TV1124 
+#EXTINF:0,OSNMoviesDramaHD 
+http://91.215.156.102:8082/TV1022 
+#EXTINF:0,OSNMoviesHD 
+http://91.215.156.102:8082/TV1023 
+#EXTINF:0,OSNMoviesPremiereHD 
+http://91.215.156.102:8082/TV1024 
+#EXTINF:0,OSNMoviesActionHD 
+http://91.215.156.102:8082/TV1025 
+#EXTINF:0,MGM 
+http://91.215.156.102:8082/TV1050 
+#EXTINF:0,OSNYahalaHD 
+http://91.215.156.102:8082/TV1052 
+#EXTINF:0,OSNFirst+2 
+http://91.215.156.102:8082/TV1062 
+#EXTINF:0,OSNFirstHD 
+http://91.215.156.102:8082/TV1063 
+#EXTINF:0,OSNYahalaHD+2 
+http://91.215.156.102:8082/TV1065 
+#EXTINF:0,MovieTrailersEnglish1 
+http://91.215.156.102:8082/TV1075 
+#EXTINF:0,OSNFirstComedy+2 
+http://91.215.156.102:8082/TV1087 
+#EXTINF:0,OSNMoviesKids 
+http://91.215.156.102:8082/TV0053 
+#EXTINF:0,MovieTrailersEnglish2 
+http://91.215.156.102:8082/TV1077 
+#EXTINF:0,OSNFirst+2 
+http://91.215.156.102:8082/TV1092 
+#EXTINF:0,OSNFirstHD 
+http://91.215.156.102:8082/TV1093 
+#EXTINF:0,OSNYahalaHD+2 
+http://91.215.156.102:8082/TV1094 
+#EXTINF:0,OSNMoviesDrama+2 
+http://91.215.156.102:8082/TV1098 
+#EXTINF:0,OSNYahalaDramaHD 
+http://91.215.156.102:8082/TV1099 
+#EXTINF:0,Arabic 
+http://91.215.156.102:8082/TV1118 
+#EXTINF:0,ID 
+http://91.215.156.102:8082/TV1120 
+#EXTINF:0,ci 
+http://91.215.156.102:8082/TV1005 
+#EXTINF:0,12 
+http://91.215.156.102:8082/TV1042 
+#EXTINF:0,HistoryHD 
+http://91.215.156.102:8082/TV1051 
+#EXTINF:0,French 
+http://91.215.156.102:8082/TV1054 
+#EXTINF:0,OSNMoviesDrama+2 
+http://91.215.156.102:8082/TV1055 
+#EXTINF:0,OSNFirstComedy+2 
+http://91.215.156.102:8082/TV1056 
+#EXTINF:0,Arabic 
+http://91.215.156.102:8082/TV1059 
+#EXTINF:0,ArabicMusicOldies 
+http://91.215.156.102:8082/TV1060 
+#EXTINF:0,StarMovies 
+http://91.215.156.102:8082/TV1080 
+#EXTINF:0,Arabic 
+http://91.215.156.102:8082/TV1082 
+#EXTINF:0,StarMoviesHD 
+http://91.215.156.102:8082/TV1070 
+#EXTINF:0,OSNMoviesHD+2 
+http://91.215.156.102:8082/TV1071 
+#EXTINF:0,itvCHOICE 
+http://91.215.156.102:8082/TV1074 
+#EXTINF:0,StarWorldHD 
+http://91.215.156.102:8082/TV1091 
+#EXTINF:0,DiscoveryHD 
+http://91.215.156.102:8082/TV1088 
+#EXTINF:0,EHD 
+http://91.215.156.102:8082/TV0021 
+#EXTINF:0,MBCHD 
+http://91.215.156.102:8082/TV0023
+#EXTINF:0,MBC PRO Sports 1
+http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+#EXTINF:0,MBC PRO Sports 2
+http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+#EXTINF:0,MBC PRO Sports 3
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
@@ -583,9 +671,19 @@ http://mobi3.ibrod.tv:1935/ibusa/mtv.stream/playlist.m3u8
 #EXTINF:-1,FX USA
 http://mobi3.ibrod.tv:1935/ibusa/fx.stream/playlist.m3u8
 #EXTINF:-1,CBS USA
-http://mobi3.ibrod.tv:1935/ibusa/cbs.stream/playlist.m3u8  
-#EXTINF:-1,Sky News
-http://iptvp.net/stream/SkyNews_HD.m3u8
+http://mobi3.ibrod.tv:1935/ibusa/cbs.stream/playlist.m3u8 
+#EXTINF:-1,Max HD
+rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
+#EXTINF:-1,‎Warner TV
+rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
+#EXTINF:-1,HBO PLUS
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hboplus.html
+#EXTINF:-1,MGM
+rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/mgm.html
+#EXTINF:-1,SYFY
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
+#EXTINF:-1,HBO Family
+rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
