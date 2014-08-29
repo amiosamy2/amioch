@@ -332,102 +332,46 @@ http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.44:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:0,ARTAflam1 
-http://91.215.156.102:8082/TV1100 
-#EXTINF:0,???? 
-http://91.215.156.102:8082/TV1102 
-#EXTINF:0,ARTAflam2 
-http://91.215.156.102:8082/TV1103 
-#EXTINF:0,OSNMoviesPremiereHD 
-http://91.215.156.102:8082/TV1124 
-#EXTINF:0,OSNMoviesDramaHD 
-http://91.215.156.102:8082/TV1022 
-#EXTINF:0,OSNMoviesHD 
-http://91.215.156.102:8082/TV1023 
-#EXTINF:0,OSNMoviesPremiereHD 
-http://91.215.156.102:8082/TV1024 
-#EXTINF:0,OSNMoviesActionHD 
-http://91.215.156.102:8082/TV1025 
-#EXTINF:0,MGM 
-http://91.215.156.102:8082/TV1050 
-#EXTINF:0,OSNYahalaHD 
-http://91.215.156.102:8082/TV1052 
-#EXTINF:0,OSNFirst+2 
-http://91.215.156.102:8082/TV1062 
-#EXTINF:0,OSNFirstHD 
-http://91.215.156.102:8082/TV1063 
-#EXTINF:0,OSNYahalaHD+2 
-http://91.215.156.102:8082/TV1065 
-#EXTINF:0,MovieTrailersEnglish1 
-http://91.215.156.102:8082/TV1075 
-#EXTINF:0,OSNFirstComedy+2 
-http://91.215.156.102:8082/TV1087 
-#EXTINF:0,OSNMoviesKids 
-http://91.215.156.102:8082/TV0053 
-#EXTINF:0,MovieTrailersEnglish2 
-http://91.215.156.102:8082/TV1077 
-#EXTINF:0,OSNFirst+2 
-http://91.215.156.102:8082/TV1092 
-#EXTINF:0,OSNFirstHD 
-http://91.215.156.102:8082/TV1093 
-#EXTINF:0,OSNYahalaHD+2 
-http://91.215.156.102:8082/TV1094 
-#EXTINF:0,OSNMoviesDrama+2 
-http://91.215.156.102:8082/TV1098 
-#EXTINF:0,OSNYahalaDramaHD 
-http://91.215.156.102:8082/TV1099 
-#EXTINF:0,Arabic 
-http://91.215.156.102:8082/TV1118 
-#EXTINF:0,ID 
-http://91.215.156.102:8082/TV1120 
-#EXTINF:0,ci 
-http://91.215.156.102:8082/TV1005 
-#EXTINF:0,12 
-http://91.215.156.102:8082/TV1042 
-#EXTINF:0,HistoryHD 
-http://91.215.156.102:8082/TV1051 
-#EXTINF:0,French 
-http://91.215.156.102:8082/TV1054 
-#EXTINF:0,OSNMoviesDrama+2 
-http://91.215.156.102:8082/TV1055 
-#EXTINF:0,OSNFirstComedy+2 
-http://91.215.156.102:8082/TV1056 
-#EXTINF:0,Arabic 
-http://91.215.156.102:8082/TV1059 
-#EXTINF:0,ArabicMusicOldies 
-http://91.215.156.102:8082/TV1060 
-#EXTINF:0,StarMovies 
-http://91.215.156.102:8082/TV1080 
-#EXTINF:0,Arabic 
-http://91.215.156.102:8082/TV1082 
-#EXTINF:0,StarMoviesHD 
-http://91.215.156.102:8082/TV1070 
-#EXTINF:0,OSNMoviesHD+2 
-http://91.215.156.102:8082/TV1071 
-#EXTINF:0,itvCHOICE 
-http://91.215.156.102:8082/TV1074 
-#EXTINF:0,StarWorldHD 
-http://91.215.156.102:8082/TV1091 
-#EXTINF:0,DiscoveryHD 
-http://91.215.156.102:8082/TV1088 
-#EXTINF:0,EHD 
-http://91.215.156.102:8082/TV0021 
-#EXTINF:0,MBCHD 
-http://91.215.156.102:8082/TV0023
+#EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
+rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
+#EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
+http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:0,MBC PRO Sports 1
 http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:0,MBC PRO Sports 2
 http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
 #EXTINF:0,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
-rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
-#EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
-http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR blue]Bein Sports[/COLOR]
-http://iptvp.net/stream/beINSports_HD.m3u8
-#EXTINF:-1,beIN Sports News
-http://38.99.146.37:7777/beINSportsNews.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:-1,BEIN SPORTS 1
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/48.ch
+#EXTINF:-1,BEIN SPORTS 2
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/49.ch
+#EXTINF:-1,BEIN SPORTS 3
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/50.ch
+#EXTINF:-1,BEIN SPORTS 4
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/51.ch
+#EXTINF:-1,BEIN SPORTS 5
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/52.ch
+#EXTINF:-1,BEIN SPORTS 6
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/53.ch
+#EXTINF:-1,BEIN SPORTS 7
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/54.ch
+#EXTINF:-1,BEIN SPORTS 8
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/55.ch
+#EXTINF:-1,BEIN SPORTS 9
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/56.ch
+#EXTINF:-1,BEIN SPORTS 10
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/57.ch
+#EXTINF:-1,BEIN SPORTS 11
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/58.ch
+#EXTINF:-1,BEIN SPORTS 12
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/59.ch
+#EXTINF:-1,BEIN SPORTS 13
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/60.ch
+#EXTINF:-1,BEIN SPORTS 14
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/61.ch
+#EXTINF:-1,BEIN SPORTS 15
+http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/62.ch
 #EXTINF:-1,[COLOR blue]Bein Sports 1[/COLOR]
 http://q9r.me/iflw
 #EXTINF:-1,[COLOR blue]Bein Sports 2[/COLOR]
