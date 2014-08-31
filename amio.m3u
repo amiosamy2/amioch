@@ -202,6 +202,10 @@ mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
 #EXTINF:-1,[COLOR blue]Sky News Arabia[/COLOR]
 rtmp://llnwvps231.fc.llnwd.net/llnwvps231/ playpath=eND-IS0mT2csspFA-2vGVs_NjZq-ZuZTMIgeu3aYyqcFI_640_360_3 swfUrl=http://assets.delvenetworks.com/player/loader.swf live=1 pageUrl=http://www.skynewsarabia.com/web/home?view=live
+#EXTINF:-1,i24 News Arabia
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+#EXTINF:-1,Sky News Arabia
+rtmp://hd7.lsops.net/live//skynewsi_ar_372
 #EXTINF:-1,group-title=Arabic,[COLOR yellow]Egypt 1[/COLOR]
 http://4.31.30.145:9084
 #EXTINF:-1,[COLOR yellow]Egypt 1[/COLOR]
@@ -332,6 +336,102 @@ http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.44:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+ARTCinema
+http://80.252.165.110:554/traum/cinema.stream/STARTVARABIA.m3u8
+ARTAflam1
+http://80.252.165.110:554/traum/aflam1.stream/STARTVARABIA.m3u8
+ARTAflam2
+http://80.252.165.110:554/traum/aflam2.stream/STARTVARABIA.m3u8
+ARTHekayat
+http://80.252.165.110:554/traum/hekaiat.stream/STARTVARABIA.m3u8
+ARTHekayat2
+http://80.252.165.110:554/traum/hekaiat2.stream/STARTVARABIA.m3u8
+:MBC1
+http://80.252.165.110:554/traum/mbc1.stream/STARTVARABIA.m3u8
+:MBC2
+http://80.252.165.110:554/traum/mbc2.stream/STARTVARABIA.m3u8
+:MBC3
+http://80.252.165.110:554/traum/mbc3.stream/STARTVARABIA.m3u8
+:MBC4
+http://80.252.165.110:554/traum/mbc4.stream/STARTVARABIA.m3u8
+:MBCAction
+http://80.252.165.110:554/traum/mbcaction.stream/STARTVARABIA.m3u8
+:MBCDrama
+http://80.252.165.110:554/traum/mbcdrama.stream/STARTVARABIA.m3u8
+:MBCMax
+http://80.252.165.110:554/traum/mbcmax.stream/STARTVARABIA.m3u8
+:MBCBollywood
+http://80.252.165.110:554/traum/mbcbollywood.stream/STARTVARABIA.m3u8
+:RotanaCinema
+http://80.252.165.110:554/traum/rotana_aflam.stream/STARTVARABIA.m3u8
+:RotanaMasriya
+http://80.252.165.110:554/traum/rotana_masrsiya.stream/STARTVARABIA.m3u8
+:RotanaMusic
+http://80.252.165.110:554/traum/rotana.stream/STARTVARABIA.m3u8
+:RotanaClip
+http://80.252.165.110:554/traum/rotana_clip.stream/STARTVARABIA.m3u8
+:RotanaKhalijiah
+http://80.252.165.110:554/traum/rotana_khalijiah.stream/STARTVARABIA.m3u8
+:RotanaCinema
+http://80.252.165.110:554/traum/rotana_cinema.stream/STARTVARABIA.m3u8
+:RotanaClassic
+http://80.252.165.110:554/traum/rotana_clasic.stream/STARTVARABIA.m3u8
+SyrianDramaTV
+http://80.252.165.110:554/traum/syriadramatv.stream/STARTVARABIA.m3u8
+AlArabyia
+http://80.252.165.110:554/traum/alarabyia.stream/STARTVARABIA.m3u8
+Aljazeera
+http://80.252.165.110:554/traum/aljazeera.stream/STARTVARABIA.m3u8
+LBCEUROPE
+http://80.252.165.110:554/traum/lbc.stream/STARTVARABIA.m3u8
+:AbuDhabiAlOula
+http://80.252.165.110:554/traum/adaloula.stream/STARTVARABIA.m3u8
+:ADSport1
+http://80.252.165.110:554/traum/adsport1.stream/STARTVARABIA.m3u8
+:Alhayat
+http://80.252.165.110:554/traum/alhayat.stream/STARTVARABIA.m3u8
+:ArabicaTV
+http://80.252.165.110:554/traum/arabicatv.stream/STARTVARABIA.m3u8
+:BBCArabic
+http://80.252.165.110:554/traum//bbcarabic.stream/STARTVARABIA.m3u8
+:Dream1
+http://80.252.165.110:554/traum/dream1.stream/STARTVARABIA.m3u8
+:DubaiTV
+http://80.252.165.110:554/traum/dubaitv.stream/STARTVARABIA.m3u8
+:DW-TV-ARABIA
+http://80.252.165.110:554/traum/dwtvarabia.stream/STARTVARABIA.m3u8
+:France24Arabic
+http://80.252.165.110:554/traum/france24arabic.stream/STARTVARABIA.m3u8
+:Mazzika
+http://80.252.165.110:554/traum/mazzika.stream/STARTVARABIA.m3u8
+:MazzikaZoom
+http://80.252.165.110:554/traum/mazzikazoom.stream/STARTVARABIA.m3u8
+:SamaDUBAI
+http://80.252.165.110:554/traum/samadubai.stream/STARTVARABIA.m3u8
+:SkyNewsArabia
+http://80.252.165.110:554/traum/skynewsarabia.stream/STARTVARABIA.m3u8
+:ZeeAflam
+http://80.252.165.110:554/traum/zeeaflam.stream/STARTVARABIA.m3u8
+:ESC
+http://80.252.165.110:554/traum/esc.stream/STARTVARABIA.m3u8
+:FOX
+http://80.252.165.110:554/traum/fox.stream/STARTVARABIA.m3u8
+:FoxMovies
+http://80.252.165.110:554/traum/fox_cinema.stream/STARTVARABIA.m3u8
+:AlhayatCinema
+http://80.252.165.110:554/traum/al_hayat_cinema.stream/STARTVARABIA.m3u8
+:OscarDrama
+http://80.252.165.110:554/traum/oscar_drama.stream/STARTVARABIA.m3u8
+:OTVLebanon
+http://80.252.165.110:554/traum/otv_lebanon.stream/STARTVARABIA.m3u8
+:Cima
+http://80.252.165.110:554/traum/1hdmi0.stream/STARTVARABIA.m3u8
+:SmartSportHD
+http://80.252.165.110:554/traum/1hdmi1.stream/STARTVARABIA.m3u8
+:SmartMovieHD
+http://80.252.165.110:554/traum/1hdmi3.stream/STARTVARABIA.m3u8
+:DubaiSport3
+http://80.252.165.110:554/traum/dubaisport3.stream/STARTVARABIA.m3u8
 #EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream  swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
@@ -342,66 +442,172 @@ http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_
 http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
 #EXTINF:0,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,BEIN SPORTS 1
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/48.ch
-#EXTINF:-1,BEIN SPORTS 2
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/49.ch
-#EXTINF:-1,BEIN SPORTS 3
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/50.ch
-#EXTINF:-1,BEIN SPORTS 4
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/51.ch
-#EXTINF:-1,BEIN SPORTS 5
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/52.ch
-#EXTINF:-1,BEIN SPORTS 6
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/53.ch
-#EXTINF:-1,BEIN SPORTS 7
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/54.ch
-#EXTINF:-1,BEIN SPORTS 8
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/55.ch
-#EXTINF:-1,BEIN SPORTS 9
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/56.ch
-#EXTINF:-1,BEIN SPORTS 10
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/57.ch
-#EXTINF:-1,BEIN SPORTS 11
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/58.ch
-#EXTINF:-1,BEIN SPORTS 12
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/59.ch
-#EXTINF:-1,BEIN SPORTS 13
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/60.ch
-#EXTINF:-1,BEIN SPORTS 14
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/61.ch
-#EXTINF:-1,BEIN SPORTS 15
-http://demo.xtream-codes.com/g3XfX6xdiH/daz/iptv/62.ch
-#EXTINF:-1,[COLOR blue]Bein Sports 1[/COLOR]
-http://q9r.me/iflw
-#EXTINF:-1,[COLOR blue]Bein Sports 2[/COLOR]
-http://q9r.me/vo3k
-#EXTINF:-1,[COLOR blue]Bein Sports 3[/COLOR]
-http://q9r.me/7baj
-#EXTINF:-1,[COLOR blue]Bein Sports 4[/COLOR]
-http://q9r.me/ag8e
-#EXTINF:-1,[COLOR blue]Bein Sports 5[/COLOR]
-http://q9r.me/da17
-#EXTINF:-1,[COLOR blue]Bein Sports 6[/COLOR]
-http://q9r.me/jfkz
-#EXTINF:-1,[COLOR blue]Bein Sports 7[/COLOR]
-http://q9r.me/py1z
-#EXTINF:-1,[COLOR blue]Bein Sports 8[/COLOR]
-http://q9r.me/pglh
-#EXTINF:-1,[COLOR blue]Bein Sports 9[/COLOR]
-http://q9r.me/ipdn
-#EXTINF:-1,[COLOR blue]Bein Sports 10[/COLOR]
-http://q9r.me/0nyr
-#EXTINF:-1,[COLOR blue]Bein Sports 11[/COLOR]
-http://q9r.me/fsr3
-#EXTINF:-1,[COLOR blue]Bein Sports 12[/COLOR]
-http://q9r.me/02w
-#EXTINF:-1,[COLOR blue]Bein Sports 13[/COLOR]
-http://q9r.me/jx6r
-#EXTINF:-1,[COLOR blue]Bein Sports 14[/COLOR]
-http://q9r.me/6061
-#EXTINF:-1,[COLOR blue]Bein Sports 15[/COLOR]
-http://q9r.me/77zb
+#EXTINF:-1,beINSports1HD
+http://80.252.165.110:554/traum/bein1hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports2HD
+http://80.252.165.110:554/traum/bein2hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports3HD
+http://80.252.165.110:554/traum/bein3hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports4HD
+http://80.252.165.110:554/traum/bein4hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports5HD
+http://80.252.165.110:554/traum/bein5hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports6HD
+http://80.252.165.110:554/traum/bein6hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports7HD
+http://80.252.165.110:554/traum/bein7hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports8HD
+http://80.252.165.110:554/traum/bein8hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports9HD
+http://80.252.165.110:554/traum/bein9hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports10HD
+http://80.252.165.110:554/traum/bein10hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports11HD
+http://80.252.165.110:554/traum/bein11hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports12HD
+http://80.252.165.110:554/traum/bein12hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports13HD
+http://80.252.165.110:554/traum/bein13hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports14HD
+http://80.252.165.110:554/traum/bein14hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports15HD
+http://80.252.165.110:554/traum/bein15hd.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports1HDFR
+http://80.252.165.110:554/traum/bein1hdfr.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSports2HDFR
+http://80.252.165.110:554/traum/bein2hdfr.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSportsGlobal
+http://80.252.165.110:554/traum/2hdmi3.stream/STARTVARABIA.m3u8
+#EXTINF:-1,beINSportsNews
+http://80.252.165.110:554/traum/1hdmi4.stream/STARTVARABIA.m3u8
+#EXTINF:-1,BeINsport_HD1
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/136.ch
+#EXTINF:-1,BeINsport_HD2
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/137.ch
+#EXTINF:-1,BeINsport_HD3
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/138.ch
+#EXTINF:-1,BeINsport_HD4
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/139.ch
+#EXTINF:-1,BeINsport_HD5
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/140.ch
+#EXTINF:-1,BeINsport_HD6
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/141.ch
+#EXTINF:-1,BeINsport_HD7
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/142.ch
+#EXTINF:-1,BeINsport_HD8
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/143.ch
+#EXTINF:-1,BeINsport_HD9
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/144.ch
+#EXTINF:-1,BeINsport_HD10
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/145.ch
+#EXTINF:-1,BeINsport_HD11
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/146.ch
+#EXTINF:-1,BeINsport_HD12
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/147.ch
+#EXTINF:-1,BeINsport_HD13
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/148.ch
+#EXTINF:-1,BeINsport_HD14
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/149.ch
+#EXTINF:-1,BeINsport_HD15
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/150.ch
+#EXTINF:-1,beIN1 
+rtmpe://209.95.34.60:1935/live playpath=jsc1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN2 
+rtmpe://209.95.34.60:1935/live playpath=jsc2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN3 
+rtmpe://209.95.34.60:1935/live playpath=jsc3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN4 
+rtmpe://209.95.34.60:1935/live playpath=jsc4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN5 
+rtmpe://209.95.34.60:1935/live playpath=jsc5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN6 
+rtmpe://209.95.34.60:1935/live playpath=jsc6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN7 
+rtmpe://209.95.34.60:1935/live playpath=jsc7 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN8 
+rtmpe://209.95.34.60:1935/live playpath=jsc8 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN9 
+rtmpe://209.95.34.60:1935/live playpath=jsc9 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN10 
+rtmpe://209.95.34.60:1935/live playpath=jsc10 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,beIN11 
+rtmpe://209.95.34.60:1935/live playpath=jsc11 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN12 
+rtmpe://209.95.34.60:1935/live playpath=jsc12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN13 
+rtmpe://209.95.34.60:1935/live playpath=jsc13 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN14 
+rtmpe://209.95.34.60:1935/live playpath=jsc14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN 15 
+rtmpe://209.95.34.60:1935/live playpath=jsc15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,beIN1 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN2 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN3 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN4 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN5 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN6 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN7 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein7 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN8 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein8 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN9 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein9 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN10 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein10 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,beIN11 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein11 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN12 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN13 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein13 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
+#EXTINF:-1,beIN14 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,beIN15 
+rtmpe://46.246.124.23:1935/live/ playpath=xsbein15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,SK S UK 1 
+rtmp://31.220.0.196:1935/live playpath=sskk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK
+rtmp://31.220.0.196:1935/live playpath=sskk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK 3 
+rtmp://31.220.0.196:1935/live playpath=sskk3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK4 
+rtmp://31.220.0.196:1935/live playpath=skks4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK 5
+rtmp://31.220.0.196:1935/live playpath=sskk5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK F1 
+rtmp://31.220.0.196:1935/live playpath=skksnf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,SK S UK NEWS 
+rtmp://31.220.0.196:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT S 1 31-8
+rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT S 2 31-8
+rtmp://31.220.0.196:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,16-SPORT_TIME_1
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/151.ch
+#EXTINF:-1,17-SPORT_TIME_2
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/152.ch
+#EXTINF:-1,18-SPORT_TIME_3
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/153.ch
+#EXTINF:-1,19-SPORT_TIME_4
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/154.ch
+#EXTINF:-1,20-SPORT_TIME_5
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/155.ch
+#EXTINF:-1,21-SPORT_TIME_6
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/156.ch
+#EXTINF:-1,22-SPORT_TIME_7
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/157.ch
+#EXTINF:-1,23-MBC_PRO_1
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/158.ch
+#EXTINF:-1,24-MBC_PRO_2
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/159.ch
+#EXTINF:-1,25-MBC_PRO_3
+http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/160.ch
 #EXTINF:-1,DubaiSport
 http://iptvp.net/stream/DubaiSport_HD.m3u8
 #EXTINF:-1,DubaiSport 2
@@ -411,19 +617,7 @@ http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe
 #EXTINF:-1,Dubai Sport2
 http://38.99.146.37:7777/DubaiSport2_HD/DubaiSport2_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]SKY SPROT 1[/COLOR]
-rtmp://94.102.49.192/liveedge//channel12
-#EXTINF:-1,[COLOR yellow]SKY SPROT 24[/COLOR]
-rtmp://94.102.49.192/liveedge//channel10
-#EXTINF:-1,[COLOR yellow]SRF SPORT[/COLOR]
-rtmp://94.102.49.192/liveedge//channel11
-#EXTINF:-1,[COLOR yellow]SPORT 1[/COLOR]
-rtmp://94.102.49.192/liveedge//channel1
-#EXTINF:-1,[COLOR yellow]BT SPORT 1[/COLOR]
-rtmp://94.102.49.192/liveedge//channel4
-#EXTINF:-1,[COLOR yellow]SPORT TV PORTUGAL[/COLOR]
-rtmp://94.102.49.192/liveedge//channel5
-#EXTINF:-1,[COLOR yellow]Sky Sports F1[/COLOR]
-rtmp://94.102.49.192/liveedge//channel8
+rtmp://live.2caster.com/live//thesportszoneeu
 #EXTINF:-1,[COLOR yellow]SPORT TV 1[/COLOR]
 rtmp://94.102.49.192/liveedge//channel2
 #EXTINF:-1,[COLOR yellow]SPORT TV 2[/COLOR]
@@ -628,6 +822,14 @@ rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player5.sw
 rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
 #EXTINF:-1,HBO Family
 rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
+#EXTINF:-1,History Channel
+http://tinyurl.com/tvfanknighthistory
+#EXTINF:-1,Lifetime
+http://tinyurl.com/tvfanknightlifetime
+#EXTINF:-1,Bio
+http://tinyurl.com/tvfanknightbio
+#EXTINF:-1,Net Geo
+http://tinyurl.com/tvfanknightnatgeo
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
