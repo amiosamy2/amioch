@@ -386,104 +386,6 @@ http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_
 http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
 #EXTINF:0,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,beINSports1HD
-http://80.252.165.110:554/traum/bein1hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports2HD
-http://80.252.165.110:554/traum/bein2hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports3HD
-http://80.252.165.110:554/traum/bein3hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports4HD
-http://80.252.165.110:554/traum/bein4hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports5HD
-http://80.252.165.110:554/traum/bein5hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports6HD
-http://80.252.165.110:554/traum/bein6hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports7HD
-http://80.252.165.110:554/traum/bein7hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports8HD
-http://80.252.165.110:554/traum/bein8hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports9HD
-http://80.252.165.110:554/traum/bein9hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports10HD
-http://80.252.165.110:554/traum/bein10hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports11HD
-http://80.252.165.110:554/traum/bein11hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports12HD
-http://80.252.165.110:554/traum/bein12hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports13HD
-http://80.252.165.110:554/traum/bein13hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports14HD
-http://80.252.165.110:554/traum/bein14hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports15HD
-http://80.252.165.110:554/traum/bein15hd.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports1HDFR
-http://80.252.165.110:554/traum/bein1hdfr.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSports2HDFR
-http://80.252.165.110:554/traum/bein2hdfr.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSportsGlobal
-http://80.252.165.110:554/traum/2hdmi3.stream/STARTVARABIA.m3u8
-#EXTINF:-1,beINSportsNews
-http://80.252.165.110:554/traum/1hdmi4.stream/STARTVARABIA.m3u8
-#EXTINF:-1,BeINsport_HD1
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/136.ch
-#EXTINF:-1,BeINsport_HD2
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/137.ch
-#EXTINF:-1,BeINsport_HD3
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/138.ch
-#EXTINF:-1,BeINsport_HD4
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/139.ch
-#EXTINF:-1,BeINsport_HD5
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/140.ch
-#EXTINF:-1,BeINsport_HD6
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/141.ch
-#EXTINF:-1,BeINsport_HD7
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/142.ch
-#EXTINF:-1,BeINsport_HD8
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/143.ch
-#EXTINF:-1,BeINsport_HD9
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/144.ch
-#EXTINF:-1,BeINsport_HD10
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/145.ch
-#EXTINF:-1,BeINsport_HD11
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/146.ch
-#EXTINF:-1,BeINsport_HD12
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/147.ch
-#EXTINF:-1,BeINsport_HD13
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/148.ch
-#EXTINF:-1,BeINsport_HD14
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/149.ch
-#EXTINF:-1,BeINsport_HD15
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/150.ch
-#EXTINF:-1,beIN1 
-rtmpe://209.95.34.60:1935/live playpath=jsc1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN2 
-rtmpe://209.95.34.60:1935/live playpath=jsc2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN3 
-rtmpe://209.95.34.60:1935/live playpath=jsc3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN4 
-rtmpe://209.95.34.60:1935/live playpath=jsc4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN5 
-rtmpe://209.95.34.60:1935/live playpath=jsc5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN6 
-rtmpe://209.95.34.60:1935/live playpath=jsc6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN7 
-rtmpe://209.95.34.60:1935/live playpath=jsc7 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN8 
-rtmpe://209.95.34.60:1935/live playpath=jsc8 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN9 
-rtmpe://209.95.34.60:1935/live playpath=jsc9 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN10 
-rtmpe://209.95.34.60:1935/live playpath=jsc10 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-#EXTINF:-1,beIN11 
-rtmpe://209.95.34.60:1935/live playpath=jsc11 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN12 
-rtmpe://209.95.34.60:1935/live playpath=jsc12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN13 
-rtmpe://209.95.34.60:1935/live playpath=jsc13 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN14 
-rtmpe://209.95.34.60:1935/live playpath=jsc14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN 15 
-rtmpe://209.95.34.60:1935/live playpath=jsc15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 #EXTINF:-1,beIN1 
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 #EXTINF:-1,beIN2 
@@ -514,6 +416,16 @@ rtmpe://46.246.124.23:1935/live/ playpath=xsbein13 pageUrl=http://www.hdcast.org
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 #EXTINF:-1,beIN15 
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, Sky Sports 1
+rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
+#EXTINF:-1, Sky Sports 2
+rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky2&vw=600&vh=430 –live
+#EXTINF:-1, Sky Sports 3
+rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky3&vw=600&vh=430 –live
+#EXTINF:-1, Sky Sports 4
+rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky4&vw=600&vh=430 –live
+#EXTINF:-1, Sky Sports 5
+rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,SK S UK 1 
 rtmp://31.220.0.196:1935/live playpath=sskk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,SK S UK
@@ -532,26 +444,6 @@ rtmp://31.220.0.196:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePl
 rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,BT S 2 31-8
 rtmp://31.220.0.196:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,16-SPORT_TIME_1
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/151.ch
-#EXTINF:-1,17-SPORT_TIME_2
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/152.ch
-#EXTINF:-1,18-SPORT_TIME_3
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/153.ch
-#EXTINF:-1,19-SPORT_TIME_4
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/154.ch
-#EXTINF:-1,20-SPORT_TIME_5
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/155.ch
-#EXTINF:-1,21-SPORT_TIME_6
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/156.ch
-#EXTINF:-1,22-SPORT_TIME_7
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/157.ch
-#EXTINF:-1,23-MBC_PRO_1
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/158.ch
-#EXTINF:-1,24-MBC_PRO_2
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/159.ch
-#EXTINF:-1,25-MBC_PRO_3
-http://iptvserver.is-by.us/iptv-panal/starlive_v3/qaHo9InL7Z/160.ch
 #EXTINF:-1,DubaiSport
 http://iptvp.net/stream/DubaiSport_HD.m3u8
 #EXTINF:-1,DubaiSport 2
