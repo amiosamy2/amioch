@@ -43,8 +43,6 @@ http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
 #EXTINF:-1,CTVEgypt
 http://38.99.146.37:7777/CTVEgypt_HD/CTVEgypt_HD.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR red]CTV[/COLOR]
-http://cdn-streamer2.magictvbox.com/32.m3u8
 #EXTINF:-1,[COLOR red]CYC[/COLOR]
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
 #EXTINF:-1,[COLOR red]CYC[/COLOR]
@@ -576,26 +574,48 @@ http://80.77.52.6:4022/udp/230.0.3.56:12345
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
-#EXTINF:-1,GMG
-http://80.77.52.6:4022/udp/230.0.6.3:12345
-#EXTINF:-1,GMG
-http://80.77.52.6:4022/udp/230.0.6.2:12345
-#EXTINF:-1,GMG
-http://80.77.52.6:4022/udp/230.0.6.4:12345
-#EXTINF:-1,GMG
-http://80.77.52.6:4022/udp/230.0.6.5:12345
-#EXTINF:-1,GMG
-http://80.77.52.6:4022/udp/230.0.6.6:12345
-#EXTINF:-1,Eurosport
-http://80.77.52.6:4022/udp/230.0.3.11:12345
-#EXTINF:-1,Eurosport 2
-http://80.77.52.6:4022/udp/230.0.3.12:12345
-#EXTINF:-1,Setanta Sports
-http://80.77.52.6:4022/udp/230.0.4.1:12345
 #EXTINF:-1,NOVA SPORT
 http://gogo.jksw.cz:8023/
-#EXTINF:-1,Via Sport
-http://80.77.52.6:4022/udp/230.0.3.58:12345
+#EXTINF:-1,Sky Movies Action & Adventure
+http://acabsw.doiptv.com/sky_action/playlist.m3u8
+#EXTINF:-1,Sky Movies Family
+http://acabsw.doiptv.com/sky_family/playlist.m3u8
+#EXTINF:-1,Sky Movies Comedy
+http://acabsw.doiptv.com/sky_comedy/playlist.m3u8
+#EXTINF:-1,Sky Movies Modern Greats
+http://acabsw.doiptv.com/sky_greats/playlist.m3u8
+#EXTINF:-1,sky drama
+http://acabsw.doiptv.com/sky_drama/playlist.m3u8
+#EXTINF:-1,sky thriller
+http://acabsw.doiptv.com/sky_thriller/playlist.m3u8
+#EXTINF:-1,sky1
+http://acabsw.doiptv.com/sky_1/playlist.m3u8
+#EXTINF:-1,sky2
+http://acabsw.doiptv.com/sky_2/playlist.m3u8
+#EXTINF:-1,sky living
+http://acabsw.doiptv.com/sky_living/playlist.m3u8
+#EXTINF:-1,sky atlantic
+http://acabsw.doiptv.com/sky_atlantic/playlist.m3u8
+#EXTINF:-1,Canal + Liga De Campeones HD
+http://acabsw.doiptv.com/cs_ligachamp/playlist.m3u8
+#EXTINF:-1,canal+ golf
+http://acabsw.doiptv.com/cs_golf/playlist.m3u8
+#EXTINF:-1,canal+ toros
+http://acabsw.doiptv.com/cs_toros/playlist.m3u8
+#EXTINF:-1,canal+ liga
+http://acabsw.doiptv.com/cs_liga/playlist.m3u8
+#EXTINF:-1,canal+ futbol
+http://acabsw.doiptv.com/cs_futbol/playlist.m3u8
+#EXTINF:-1,CANAL+ COMEDİA
+http://acabsw.doiptv.com/cs_comedia/playlist.m3u8
+#EXTINF:-1,AXN
+http://acabsw.doiptv.com/cs_axn/playlist.m3u8
+#EXTINF:-1,FOX
+http://acabsw.doiptv.com/cs_fox/playlist.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8
+#EXTINF:-1,TNT
+http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
