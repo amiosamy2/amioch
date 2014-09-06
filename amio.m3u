@@ -233,6 +233,8 @@ http://38.99.146.43:7777/CBC.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92
 http://38.99.146.43:7777/CBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]CBC Drama[/COLOR]
 http://38.99.146.43:7777/CBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:-1,[COLOR yellow]CBC Sofra[/COLOR]
+rtmp://92.222.10.66:1935/live/ playpath=cbc_sofra?st=T_ucGLZwquz7RRbFPyzb6g&e=1410012616 swfUrl=http://telvza-online.com/jwplayer/jwplayer.flash.swf pageUrl=http://telvza-online.com/cbc-sofra
 #EXTINF:-1,[COLOR yellow]Dream1[/COLOR]
 http://38.99.146.43:7777/Dream1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
@@ -243,6 +245,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
+#EXTINF:-1,Dubai
+http://38.99.146.43:7777/DubaiEurope.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]FOX[/COLOR]
 http://38.99.146.43:7777/Fox.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]FOX Movies[/COLOR]
@@ -327,6 +331,8 @@ http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTM3U: 0,AD Sport
+http://38.99.146.43:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:0,MBC PRO Sports 1
 http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:0,MBC PRO Sports 2
@@ -375,10 +381,14 @@ http://38.99.146.37:7777/DubaiSport2_HD/DubaiSport2_High.m3u8?session=bdc4847b38
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+#EXTINF:-1,ESPN
+http://mobi3.ibrod.tv:1935/ibusa/espn.stream/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
+#EXTINF:-1,NileSport
+http://38.99.146.43:7777/NileSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -437,6 +447,12 @@ http://202.75.23.34:1400/live/ch31/01.m3u8
 http://80.77.52.6:4022/udp/230.0.3.18:12345
 #EXTINF:-1,A&E USA
 http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
+#EXTINF:-1,ABC
+http://mobi3.ibrod.tv:1935/ibusa/nbc.stream/playlist.m3u8
+#EXTINF:-1,AMC
+http://mobi3.ibrod.tv:1935/ibusa/AMC.stream/playlist.m3u8
+#EXTINF:-1,A&E USA
+http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
 #EXTINF:-1,BRAVO USA
 http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
 #EXTINF:-1,Bio CH HD 
@@ -445,6 +461,8 @@ http://202.75.23.36:1400/live/ch46/04.m3u8
 http://202.75.23.36:1400/live/ch46/03.m3u8 
 #EXTINF:-1,Bio CH Low 
 http://202.75.23.36:1400/live/ch46/01.m3u8
+#EXTINF:-1,BRAVO
+http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
 #EXTINF:-1,BIO
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
 #EXTINF:-1,CBS USA
@@ -459,6 +477,8 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba252
 rtmp://204.107.26.252:8086/live/691.high.stream
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:4022/udp/230.0.3.15:12345
+#EXTINF:-1,Cartoon Network
+http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
@@ -486,10 +506,9 @@ http://202.75.23.34:1400/live/ch30/01.m3u8
 #EXTINF:-1,Discovery
 http://80.77.52.6:4022/udp/230.0.3.17:12345
 #EXTINF:-1,DISNEY CHANNEL USA
-http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8 
+http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
 rtmp://204.107.26.252:8086/live/341.high.stream
-
 #EXTINF:-1,Fight Sports HD 
 http://202.75.23.37:1400/live/ch20/04.m3u8 
 #EXTINF:-1,Fight Sports SD 
@@ -500,6 +519,8 @@ http://202.75.23.37:1400/live/ch20/03.m3u8
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1,FX USA
 http://mobi3.ibrod.tv:1935/ibusa/fx.stream/playlist.m3u8
+#EXTINF:-1,HBO
+http://mobi3.ibrod.tv:1935/ibusa/hbo.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]HBO Family[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,HBO PLUS
@@ -533,7 +554,9 @@ rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player5.
 #EXTINF:-1,MTV
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
 #EXTINF:-1,MTV USA
-http://mobi3.ibrod.tv:1935/ibusa/mtv.stream/playlist.m3u8 
+http://mobi3.ibrod.tv:1935/ibusa/mtv.stream/playlist.m3u8
+#EXTINF:-1,NBC
+http://mobi3.ibrod.tv:1935/ibusa/nbc.stream/playlist.m3u8
 #EXTINF:-1,NatGeo HD 
 http://202.75.23.35:1400/live/ch38/04.m3u8 
 #EXTINF:-1,NatGeo SD 
@@ -550,6 +573,8 @@ http://202.75.23.36:1400/live/ch43/03.m3u8
 http://202.75.23.36:1400/live/ch43/01.m3u8
 #EXTINF:-1,Nickelodeon
 http://80.77.52.6:4022/udp/230.0.3.45:12345
+#EXTINF:-1,Nick
+http://mobi3.ibrod.tv:1935/ibusa/nick.stream/playlist.m3u8
 #EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
 rtmp://195.154.220.115:1935/private/premierx
 #EXTINF:-1,[COLOR blue] Sky Movies Action[/COLOR]
@@ -561,15 +586,25 @@ rtmp://195.154.220.115:1935/private/thriller
 #EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
 #EXTINF:-1,SYFY
+http://mobi3.ibrod.tv:1935/ibusa/syfy.stream/playlist.m3u8
+#EXTINF:-1,SPIKE
+http://mobi3.ibrod.tv:1935/ibusa/spike.stream/playlist.m3u8
+#EXTINF:-1,ShowTime
+http://mobi3.ibrod.tv:1935/ibusa/showtime.stream/playlist.m3u8
+#EXTINF:-1,SYFY
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
 #EXTINF:-1,SYFY
 rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
 #EXTINF:-1,TNT
 http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8
+#EXTINF:-1,TBS
+http://mobi3.ibrod.tv:1935/ibusa/tbs.stream/playlist.m3u8
 #EXTINF:-1,Viasat Explorer
 http://80.77.52.6:4022/udp/230.0.3.55:12345
 #EXTINF:-1,Viasat History
 http://80.77.52.6:4022/udp/230.0.3.56:12345
+#EXTINF:-1,USA
+http://mobi3.ibrod.tv:1935/ibusa/usa.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]Wisconsin Channel[/COLOR]
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
