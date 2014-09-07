@@ -327,17 +327,17 @@ http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.43:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,1 group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
+#EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTM3U: 0,AD Sport
+#EXTINF:-1,AD Sport
 http://38.99.146.43:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:0,MBC PRO Sports 1
+#EXTINF:-1,MBC PRO Sports 1
 http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:0,MBC PRO Sports 2
+#EXTINF:-1,MBC PRO Sports 2
 http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
-#EXTINF:0,MBC PRO Sports 3
+#EXTINF:-1,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,beIN1 
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
@@ -573,7 +573,7 @@ http://202.75.23.36:1400/live/ch43/03.m3u8
 http://202.75.23.36:1400/live/ch43/01.m3u8
 #EXTINF:-1,Nickelodeon
 http://80.77.52.6:4022/udp/230.0.3.45:12345
-#EXTINF:-1,Nick
+#EXTINF:-1,Nickelodeon
 http://mobi3.ibrod.tv:1935/ibusa/nick.stream/playlist.m3u8
 #EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
 rtmp://195.154.220.115:1935/private/premierx
@@ -655,8 +655,6 @@ http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
 mms://75.125.78.77/AltareeqH?MSWMExt=.asf
-#EXTINF:-1,1 radio=true,Albishara
-http://www.radioalbishara.org/radioalbishara.asx
 #EXTINF:-1,1 radio=true,Almahabba
 http://radioalmahabba.com:8000/
 #EXTINF:-1,1 radio=true,Call To Salvation
@@ -668,27 +666,21 @@ http://s5.viastreaming.net:7040
 #EXTINF:-1,1 radio=true,Rakoty
 rtmp://sc-lb1.streamcyclone.com/rakotyaudio_live/rakotyaudio
 #EXTINF:-1,1 radio=true,Sky Key Radio
-mms://stream.skykeyradio.com/858788
+mms://ams01.egihosting.com/858788
 #EXTINF:-1,1 radio=true,St Markos church
 mms://stream.stmarkos.org/audio
 #EXTINF:-1,1 radio=true,Radio Ibrahim
 http://www.me.radioibrahim.com:8000/ri_mp3_96/
-#EXTINF:-1,1 radio=true,Arabesk
-http://173.193.219.163:8455/
 #EXTINF:-1,1 radio=true,Amr Diab
 http://s7.voscast.com:7888/;stream.mp3
-#EXTINF:-1,1 radio=true,BBC Arabic
-rtmp://wsliveflash.bbc.co.uk/live//araba_live@8369
-#EXTINF:-1,1 radio=true,Elshaab Egypt
-http://5.63.151.52:8004/live
 #EXTINF:-1,1 radio=true,Horytna
-mms://196.205.121.43/horytna
+http://79.143.177.29:8000/easyonair_64
 #EXTINF:-1,1 radio=true,Hits Radio
 http://rhstrm8.twesto.com:6365/stream2.nsv
 #EXTINF:-1,1 radio=true,Mahatet Masr
 http://stream.mahatetmasr.com/mahatetmasr
 #EXTINF:-1,1 radio=true,Misrfone Radio
-http://95.154.254.153:10336/;.mp3
+http://s2.voscast.com:8612/;stream.mp3
 #EXTINF:-1,1 radio=true,Mega FM 92.7
 http://mgstrm9.twesto.com:7281/stream1.nsv
 #EXTINF:-1,1 radio=true,Nile FM 104
@@ -698,12 +690,10 @@ http://ice31.securenetsystems.net/NOGOUM?type=.flv&playSessionID=303E2671-C1F1-B
 #EXTINF:-1,1 radio=true,Sharkawsat
 http://arabic-media.com/asx/sharkawsat.asx
 #EXTINF:-1,1 radio=true,Shbab w Reyada
-rtsp://radio.onlinehorizons.net/shabawreada
+rtmp://LiveRadio.onlinehorizons.net/shabawreada playpath=livestream swfUrl=http://lr.onlinehorizons.net/player.swf pageUrl=http://lr.onlinehorizons.net/shabawreada.html
 #EXTINF:-1,1 radio=true,Sound of Sakia
-http://38.96.148.18:4896/live
+http://soundofsakia.serverroom.us:4896/live
 #EXTINF:-1,1 radio=true,Sotak
 http://www.radiosotak.com/player/sotak_64mp3.m3u
 #EXTINF:-1,1 radio=true,Sawa Egypt
 http://www.alhurra-sawa.com/livestreams/radiosawa.asx
-#EXTINF:-1,1 radio=true,Sky News Arabia
-http://sc12.ams.llnw.net/stream/skynews_skynewsarabia
