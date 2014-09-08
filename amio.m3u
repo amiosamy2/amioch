@@ -453,11 +453,11 @@ rtmpe://162.219.178.154/live playpath=skysports4fifaembed pageUrl=http://www.dca
 rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmpe://162.219.178.154/live playpath=skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#‎EXTINF‬:0,Sky Sports 1
+#EXTINF:-1,Sky Sports 1
 http://iptv4.me:4321/skysp1
-#‎EXTINF‬:0,Sky Sports 2
+#EXTINF:-1,Sky Sports 2
 http://iptv4.me:4321/skysp2
-#‎EXTINF‬:0,Sky Sports 3
+#EXTINF:-1,Sky Sports 3
 http://iptv4.me:4321/skysp3
 #EXTINF:-1,Sky Sports 4
 http://iptv4.me:4321/skysp4
