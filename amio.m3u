@@ -351,6 +351,28 @@ http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.43:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:-1,MBC Action
+http://185.6.104.114:9983/udp/239.210.10.41:1234
+#EXTINF:-1,MBC Drama
+http://185.6.104.114:9983/udp/239.210.10.42:1234
+#EXTINF:-1,MBC 2
+http://185.6.104.114:9983/udp/239.210.10.43:1234
+#EXTINF:-1,MBC 4
+http://185.6.104.114:9983/udp/239.210.10.44:1234
+#EXTINF:-1,MBC Max
+http://185.6.104.114:9983/udp/239.210.10.45:1234
+#EXTINF:-1,Nile Cinema
+http://185.6.104.114:9983/udp/239.210.10.58:1234
+#EXTINF:-1,Nile Comedy
+http://185.6.104.114:9983/udp/239.210.10.59:1234
+#EXTINF:-1,Nile Family and Kids
+http://185.6.104.114:9983/udp/239.210.10.62:1234
+#EXTINF:-1,Nile News
+http://185.6.104.114:9983/udp/239.210.10.63:1234
+#EXTINF:-1,Nile Drama
+http://185.6.104.114:9983/udp/239.210.10.64:1234
+#EXTINF:-1,Dubai One
+http://185.6.104.114:9983/udp/239.210.10.65:1234
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
@@ -741,222 +763,6 @@ http://acabsw.doiptv.com/cs_fox/playlist.m3u8
 http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8
 #EXTINF:-1,TNT
 http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
-#EXTINF:-1,1 group-title=IPTV,[COLOR red]BeinSport-HD1[/COLOR]
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/1.ch
-#EXTINF:-1,BeinSport-HD2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/2.ch
-#EXTINF:-1,BeinSport-HD3
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/3.ch
-#EXTINF:-1,BeinSport-HD4
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/4.ch
-#EXTINF:-1,BeinSport-HD5
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/5.ch
-#EXTINF:-1,BeinSport-HD6
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/6.ch
-#EXTINF:-1,BeinSport-HD7
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/7.ch
-#EXTINF:-1,BeinSport-HD8
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/8.ch
-#EXTINF:-1,BeinSport-HD9
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/9.ch
-#EXTINF:-1,BeinSport-HD10
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/10.ch
-#EXTINF:-1,BeinSport-HD11
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/119.ch
-#EXTINF:-1,BeinSport-HD12
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/116.ch
-#EXTINF:-1,BeinSport-HD13
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/117.ch
-#EXTINF:-1,beinsport-HD14
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/118.ch
-#EXTINF:-1,BeinSport-HD15
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/11.ch
-#EXTINF:-1,beIN-SPORT1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/125.ch
-#EXTINF:-1,beIN-SPORT2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/126.ch
-#EXTINF:-1,beIN-SPORT3
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/127.ch
-#EXTINF:-1,beIN-SPORT4
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/128.ch
-#EXTINF:-1,beIN-SPORT5
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/129.ch
-#EXTINF:-1,beIN-SPORT6
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/130.ch
-#EXTINF:-1,beIN-SPORT7
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/131.ch
-#EXTINF:-1,beIN-SPORT8
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/132.ch
-#EXTINF:-1,beIN-SPORT9
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/133.ch
-#EXTINF:-1,beIN-SPORT10
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/134.ch
-#EXTINF:-1,beIN-SPORT11
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/136.ch
-#EXTINF:-1,beIN-SPORT12
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/135.ch
-#EXTINF:-1,beIN-SPORT13
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/189.ch
-#EXTINF:-1,beIN-SPORT14
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/190.ch
-#EXTINF:-1,beIN-SPORT15
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/191.ch
-#EXTINF:-1,Bein-1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/176.ch
-#EXTINF:-1,Bein-2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/177.ch
-#EXTINF:-1,Bein-HD-FR1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/93.ch
-#EXTINF:-1,Bein-HD-FR2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/150.ch
-#EXTINF:-1,OSN-AlYoum
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/160.ch
-#EXTINF:-1,OSN-FAN
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/13.ch
-#EXTINF:-1,OSN-CINEMA1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/15.ch
-#EXTINF:-1,OSN-Mosalslat
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/14.ch
-#EXTINF:-1,OSN-MusicNow
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/198.ch
-#EXTINF:-1,OSN-MOVIES-HD
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/22.ch
-#EXTINF:-1,OSN-MOVIES-ACTION
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/151.ch
-#EXTINF:-1,OSN-MOVIES-KIDS
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/111.ch
-#EXTINF:-1,OSN-Firest-HD
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/20.ch
-#EXTINF:-1,OSN-FESTIVAL
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/195.ch
-#EXTINF:-1,OSN-MGM
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/96.ch
-#EXTINF:-1,OSN-TCM
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/25.ch
-#EXTINF:-1,AXN-Movies
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/94.ch
-#EXTINF:-1,Home-Cinema1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/98.ch
-#EXTINF:-1,Home-Cinema2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/99.ch
-#EXTINF:-1,Home-Cinema3
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/100.ch
-#EXTINF:-1,Home-Cinema4
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/101.ch
-#EXTINF:-1,Home-Cinema5
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/102.ch
-#EXTINF:-1,Home-Cinema6
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/103.ch
-#EXTINF:-1,Home-Cinema7
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/105.ch
-#EXTINF:-1,Home-Cinema8
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/104.ch
-#EXTINF:-1,Home-Cinema9
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/106.ch
-#EXTINF:-1,Home-Cinema10
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/107.ch
-#EXTINF:-1,ART-Hekayat
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/32.ch
-#EXTINF:-1,ART-Hekayat2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/33.ch
-#EXTINF:-1,ART-AFLAM1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/168.ch
-#EXTINF:-1,ART-AFLAM2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/34.ch
-#EXTINF:-1,ART-Cinema
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/115.ch
-#EXTINF:-1,ALNAHAR
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/174.ch
-#EXTINF:-1,ALNHAR-DRAMA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/152.ch
-#EXTINF:-1,ALNAHAR-ALYOUM
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/17.ch
-#EXTINF:-1,ALNAHAR-SPORT
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/224.ch
-#EXTINF:-1,CBC TV
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/19.ch
-#EXTINF:-1,CBC+2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/171.ch
-#EXTINF:-1,CBC-Sofra
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/173.ch
-#EXTINF:-1,CBC-DRAMA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/179.ch
-#EXTINF:-1,MBC-1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/146.ch
-#EXTINF:-1,MBC-2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/170.ch
-#EXTINF:-1,MBC-3
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/161.ch
-#EXTINF:-1,MBC-4
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/223.ch
-#EXTINF:-1,MBC-PRO1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/225.ch
-#EXTINF:-1,MBC-PRO3
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/91.ch
-#EXTINF:-1,MBC-PRO4
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/49.ch
-#EXTINF:-1,MBC-ACTION
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/184.ch
-#EXTINF:-1,MBC-MAX
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/186.ch
-#EXTINF:-1,StarCinema1
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/158.ch
-#EXTINF:-1,StarCinema2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/169.ch
-#EXTINF:-1,PANORMA FILM
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/215.ch
-#EXTINF:-1,Nile-Family
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/220.ch
-#EXTINF:-1,Nile-Cinema
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/157.ch
-#EXTINF:-1,NILE-Comedy
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/219.ch
-#EXTINF:-1,NILE-DRAMA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/16.ch
-#EXTINF:-1,CAIRO-CINEMA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/180.ch
-#EXTINF:-1,Rotana-Cinema
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/27.ch
-#EXTINF:-1,Rotana-Masria
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/182.ch
-#EXTINF:-1,AD DRAMA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/140.ch
-#EXTINF:-1,AD-Sport
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/175.ch
-#EXTINF:-1,AlHayat
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/172.ch
-#EXTINF:-1,ON-TV
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/178.ch
-#EXTINF:-1,ME-SAT
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/222.ch
-#EXTINF:-1,DISCOVERY
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/92.ch
-#EXTINF:-1,AsiaNet-Plus
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/38.ch
-#EXTINF:-1,Sky-News-Arabia
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/29.ch
-#EXTINF:-1,DUBAI TV
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/159.ch
-#EXTINF:-1,SAMA-DUBAI
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/221.ch
-#EXTINF:-1,NOOR-DUBAI
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/47.ch
-#EXTINF:-1,Ftafeet-food
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/213.ch
-#EXTINF:-1,Fox-Movies
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/57.ch
-#EXTINF:-1,CBC-EXTRA
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/183.ch
-#EXTINF:-1,ALNAHAR-2
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/185.ch
-#EXTINF:-1,AL JAZEERA MISIR
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/218.ch
-#EXTINF:-1,AL JAZEERA ENGLİSH
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/216.ch
-#EXTINF:-1,Al Jazeera Documentary
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/214.ch
-#EXTINF:-1,RT NEWS
-http://royal-iptv.dyndns.tv/online00002014/JKu8sajs999SOXA9ol0pd/23.ch
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
