@@ -503,8 +503,6 @@ http://202.75.23.34:1400/live/ch31/03.m3u8
 http://202.75.23.34:1400/live/ch31/01.m3u8
 #EXTINF:-1,Animal Planet
 http://80.77.52.6:4022/udp/230.0.3.18:12345
-#EXTINF:-1,animal planet
-http://iptv4.me:4321/animal-planet
 #EXTINF:-1,A&E USA
 http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
 #EXTINF:-1,ABC
@@ -539,20 +537,6 @@ rtmp://204.107.26.252:8086/live/691.high.stream
 http://80.77.52.6:4022/udp/230.0.3.15:12345
 #EXTINF:-1,Cartoon Network
 http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8
-#EXTINF:-1,Discovery
-http://iptv4.me:4321/discovery
-#EXTINF:-1,discovery history
-http://iptv4.me:4321/discovery-history
-#EXTINF:-1,discovery science
-http://iptv4.me:4321/discovery-science
-#EXTINF:-1,discovery turbo
-http://iptv4.me:4321/discovery-turbo
-#EXTINF:-1,discovery2
-http://iptv4.me:4321/discovery2
-#EXTINF:-1,discovery+1
-http://iptv4.me:4321/discovery+1
-#EXTINF:-1,discovery ID
-http://iptv4.me:4321/ID
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
@@ -579,16 +563,6 @@ http://202.75.23.34:1400/live/ch30/03.m3u8
 http://202.75.23.34:1400/live/ch30/01.m3u8
 #EXTINF:-1,Discovery
 http://80.77.52.6:4022/udp/230.0.3.17:12345
-#EXTINF:-1,DisneyXD
-http://iptv4.me:4321/juniorxd
-#EXTINF:-1,DisneyXD +1
-http://iptv4.me:4321/juniorxd-plus
-#EXTINF:-1,DisneyXD +1
-http://iptv4.me:4321/disneych1
-#EXTINF:-1,disney junior
-http://iptv4.me:4321/disneych
-#EXTINF:-1,disney junior
-http://iptv4.me:4321/disneyjunior
 #EXTINF:-1,DISNEY CHANNEL USA
 http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
@@ -669,32 +643,6 @@ rtmp://195.154.220.115:1935/private/greats
 rtmp://195.154.220.115:1935/private/thriller
 #EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
-#EXTINF:-1,sky+1
-http://iptv4.me:4321/sky-plus
-#EXTINF:-1,Sky Movies Premiere
-http://iptv4.me:4321/skypremiere
-#EXTINF:-1,Sky Movies Premiere+1
-http://iptv4.me:4321/skypremiere-plus
-#EXTINF:-1,sky showcase
-http://iptv4.me:4321/skyshowcase
-#EXTINF:-1,sky movies Greats
-http://iptv4.me:4321/skygreats
-#EXTINF:-1,Sky Movies Disney
-http://iptv4.me:4321/skydisney
-#EXTINF:-1,sky Movies Family
-http://iptv4.me:4321/skyfamily
-#EXTINF:-1,sky movies action
-http://iptv4.me:4321/skyaction
-#EXTINF:-1,Sky Movies Comedy
-http://iptv4.me:4321/skycomedy
-#EXTINF:-1,sky movies thriller
-http://iptv4.me:4321/skythriller
-#EXTINF:-1,sky movies drama
-http://iptv4.me:4321/skydrama
-#EXTINF:-1,sky movies horror
-http://iptv4.me:4321/skyhorr
-#EXTINF:-1,sky movies select
-http://iptv4.me:4321/skyselect
 #EXTINF:-1,SYFY
 http://mobi3.ibrod.tv:1935/ibusa/syfy.stream/playlist.m3u8
 #EXTINF:-1,SPIKE
@@ -709,8 +657,6 @@ rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.s
 http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8
 #EXTINF:-1,TBS
 http://mobi3.ibrod.tv:1935/ibusa/tbs.stream/playlist.m3u8
-#EXTINF:-1,tlc
-http://iptv4.me:4321/TLC-summer
 #EXTINF:-1,Viasat Explorer
 http://80.77.52.6:4022/udp/230.0.3.55:12345
 #EXTINF:-1,Viasat History
@@ -723,46 +669,6 @@ rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
 #EXTINF:-1,NOVA SPORT
 http://gogo.jksw.cz:8023/
-#EXTINF:-1,Sky Movies Action & Adventure
-http://acabsw.doiptv.com/sky_action/playlist.m3u8
-#EXTINF:-1,Sky Movies Family
-http://acabsw.doiptv.com/sky_family/playlist.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://acabsw.doiptv.com/sky_comedy/playlist.m3u8
-#EXTINF:-1,Sky Movies Modern Greats
-http://acabsw.doiptv.com/sky_greats/playlist.m3u8
-#EXTINF:-1,sky drama
-http://acabsw.doiptv.com/sky_drama/playlist.m3u8
-#EXTINF:-1,sky thriller
-http://acabsw.doiptv.com/sky_thriller/playlist.m3u8
-#EXTINF:-1,sky1
-http://acabsw.doiptv.com/sky_1/playlist.m3u8
-#EXTINF:-1,sky2
-http://acabsw.doiptv.com/sky_2/playlist.m3u8
-#EXTINF:-1,sky living
-http://acabsw.doiptv.com/sky_living/playlist.m3u8
-#EXTINF:-1,sky atlantic
-http://acabsw.doiptv.com/sky_atlantic/playlist.m3u8
-#EXTINF:-1,Canal + Liga De Campeones HD
-http://acabsw.doiptv.com/cs_ligachamp/playlist.m3u8
-#EXTINF:-1,canal+ golf
-http://acabsw.doiptv.com/cs_golf/playlist.m3u8
-#EXTINF:-1,canal+ toros
-http://acabsw.doiptv.com/cs_toros/playlist.m3u8
-#EXTINF:-1,canal+ liga
-http://acabsw.doiptv.com/cs_liga/playlist.m3u8
-#EXTINF:-1,canal+ futbol
-http://acabsw.doiptv.com/cs_futbol/playlist.m3u8
-#EXTINF:-1,CANAL+ COMEDİA
-http://acabsw.doiptv.com/cs_comedia/playlist.m3u8
-#EXTINF:-1,AXN
-http://acabsw.doiptv.com/cs_axn/playlist.m3u8
-#EXTINF:-1,FOX
-http://acabsw.doiptv.com/cs_fox/playlist.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://acabsw.doiptv.com/cs_hollywood/playlist.m3u8
-#EXTINF:-1,TNT
-http://acabsw.doiptv.com/cs_tnt/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
