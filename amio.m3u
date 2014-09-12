@@ -419,6 +419,16 @@ rtmpe://46.246.124.23:1935/live/ playpath=xsbein15 pageUrl=http://www.hdcast.org
 rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,BT S 2 31-8
 rtmp://31.220.0.196:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,+FUTBOL
+rtmp://95.211.211.222/iguide/ufaphfz0s5vpcc7 playpath=ufaphfz0s5vpcc7 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,+DEPORTES
+rtmp://5.79.72.3/vl/_definst_/putadond playpath=putadond swfUrl=http://www.veemi.com/player/player-licensed.swf live=1 pageUrl=http://www.veemi.com/ Conn=S:OK –live
+#EXTINF:-1,GOL TV
+rtmp://212.7.209.18/live/comemelnabo3?id=73051 playpath=comemelnabo3?id=73051 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK –live
+#EXTINF:-1,+LIGA DE CAMPEONES
+rtmp://46.28.50.124/live/cacarotolc?id=72541 playpath=cacarotolc?id=72541 swfUrl=http://www.ucaster.eu/static/scripts/fplayer.swf live=1 pageUrl=http://www.ucaster.eu/ Conn=S:OK –live
+#EXTINF:-1,CANAL+
+rtmp://46.165.210.32/live/cagarruta111?id=211987 playpath=cagarruta111?id=211987 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/cagarruta111/1/645/395 Conn=S:OK
 #EXTINF:-1,Dubai Sport
 http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,Dubai Sport2
