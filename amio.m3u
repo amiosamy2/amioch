@@ -386,6 +386,12 @@ http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 #EXTINF:-1,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,beIN1 
+http://wzmatch.uforone.net:1935/live/beinsports1/playlist.m3u8?wowzasessionid=1233187389
+#EXTINF:-1,beIN2
+http://wzmatch.uforone.net:1935/live/beinsports2/playlist.m3u8?wowzasessionid=1587112301
+#EXTINF:-1,beIN3
+http://wzmatch.uforone.net:1935/live/beinsports3/playlist.m3u8?wowzasessionid=103404190
+#EXTINF:-1,beIN1 
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
 #EXTINF:-1,beIN2 
 rtmpe://46.246.124.23:1935/live/ playpath=xsbein2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
@@ -489,6 +495,42 @@ http://iptv4.me:4321/skysp5
 http://iptv4.me:4321/skyspf1
 #EXTINF:-1,[COLOR yellow]Sport 1[/COLOR]
 rtmp://5.135.135.200:80/live/sport1.stream
+#EXTINF:-1,eurosport hd
+http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
+#EXTINF:-1,eurosport2 hd
+http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
+#EXTINF:-1,C+Liga
+rtmp://95.211.186.156/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Lig
+rtmp://207.244.77.15/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Liga31-8
+rtmp://46.165.220.225/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,DC+Liga
+rtmp://178.162.199.141/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Liga31-8
+rtmp://178.162.199.141/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Lig31-8
+rtmp://207.244.67.9/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Lig
+rtmp://207.244.89.23/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+Lig
+rtmp://207.244.76.206/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+1-Arenavision
+rtmp://95.211.186.156/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+1-Arenavision
+rtmp://46.165.220.225/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHu
+#EXTINF:-1,C+1-Arenavision
+rtmp://207.244.77.15/iguide/ playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+1-Arenavision
+rtmp://178.162.199.141/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+1-Arenavision
+rtmp://178.162.199.141/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,DC+1-Arenavision
+rtmp://207.244.67.9/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,C+1-Arenavision
+rtmp://207.244.89.23/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1,:C+1-Arenavision
+rtmp://207.244.76.206/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
@@ -671,6 +713,50 @@ rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
 #EXTINF:-1,NOVA SPORT
 http://gogo.jksw.cz:8023/
+#EXTINF:0, HBO
+rtmp://207.244.76.207/ibusa/hbo.stream
+#EXTINF:0, FX
+rtmp://207.244.76.207/ibusa/fx.stream
+#EXTINF:0, CBS
+rtmp://207.244.76.207/ibusa/cbs.stream
+#EXTINF:0, FOX
+rtmp://207.244.76.207/ibusa/fox.stream
+#EXTINF:0, MTV
+rtmp://207.244.76.207/ibusa/mtv.stream
+#EXTINF:0, SPIKE
+rtmp://207.244.76.207/ibusa/spike.stream
+#EXTINF:0, TBS
+rtmp://207.244.76.207/ibusa/tbs.stream
+#EXTINF:0, AMC
+rtmp://207.244.76.207/ibusa/amc.stream
+#EXTINF:0, ABC
+rtmp://207.244.76.207/ibusa/abc.stream
+#EXTINF:0, BRAVO
+rtmp://207.244.76.207/ibusa/bravo.stream
+#EXTINF:0, DISNEY
+rtmp://207.244.76.207/ibusa/disney.stream
+#EXTINF:0, SYFY
+rtmp://207.244.76.207/ibusa/syfy.stream
+#EXTINF:0, AETV
+rtmp://207.244.76.207/ibusa/aetv.stream
+#EXTINF:0, USA
+rtmp://207.244.76.207/ibusa/usa.stream
+#EXTINF:0, TNT
+rtmp://207.244.76.207/ibusa/tnt.stream
+#EXTINF:0, SHOWTIME
+rtmp://207.244.76.207/ibusa/showtime.stream
+#‎EXTINF‬:-1,Anımal PLANET
+http://85.248.234.45:8430/
+#EXTINF:-1,Boomerang
+http://85.248.234.40:8552/
+#EXTINF:-1,Disney Junior
+http://85.248.234.51:8547/
+#EXTINF:-1,Disney XD
+http://85.248.234.38:8539/
+#EXTINF:-1,Disney XD
+http://85.248.234.43:8540/
+#EXTINF:-1,Disney XD
+http://85.248.234.50:8541/
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
