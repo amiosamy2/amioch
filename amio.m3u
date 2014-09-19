@@ -10,7 +10,7 @@ http://cdn-streamer2.magictvbox.com/43.m3u8
 #EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
 rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
 #EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
-http://38.99.146.43:7777/ABN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/ABN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Alfady TV[/COLOR]
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
 #EXTINF:-1,[COLOR red]Al Hayat[/COLOR]
@@ -30,13 +30,13 @@ rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 #EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
-http://38.99.146.43:7777/Aghapy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Aghapy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Alkalema[/COLOR]
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,[COLOR red]ALKARAZA[/COLOR]
 http://cdn-streamer2.magictvbox.com/58.m3u8
 #EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
-http://38.99.146.43:7777/AlMukhales.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlMukhales.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Amazing Facts [/COLOR]
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,[COLOR red]CTV[/COLOR]
@@ -52,7 +52,7 @@ rtmp://154.obj.netromedia.net/Copticsat/Copticsat
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/55.m3u8
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
-http://38.99.146.43:7777/CTVEgypt.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CTVEgypt.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]CBN TV[/COLOR]
 mmsh://live1.cbn.org/iptv1
 #EXTINF:-1,[COLOR red]CBN News[/COLOR]
@@ -72,13 +72,13 @@ http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
 #EXTINF:-1,[COLOR red]LOGOS[/COLOR]
 http://cdn-streamer2.magictvbox.com/33.m3u8
 #EXTINF:-1,[COLOR red]LLBN[/COLOR]
-http://38.99.146.43:7777/LLBN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/LLBN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://cdn-streamer2.magictvbox.com/56.m3u8
 #EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 #EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
-http://38.99.146.43:7777/AlMalakot.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlMalakot.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]KDEC[/COLOR]
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,[COLOR red]JCTV[/COLOR]
@@ -108,7 +108,7 @@ rtmp://unirtmp.tulix.tv/sat7arabic/sat7arabic1
 #EXTINF:-1,[COLOR red]SAT 7 Kids[/COLOR]
 rtmp://unirtmp.tulix.tv/sat7kids/sat7kids1
 #EXTINF:-1,[COLOR red]SAT 7 Kids[/COLOR]
-http://38.99.146.43:7777/Sat7Kid.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Sat7Kid.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Spirit TV[/COLOR]
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
 #EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
@@ -130,7 +130,7 @@ http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
 #EXTINF:-1,[COLOR blue]Al Arabiya News[/COLOR]
 http://livestream2.alarabiya.tv/files/mainarabia.m3u8
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
-http://38.99.146.43:7777/AlJazeera.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlJazeera.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
@@ -200,11 +200,11 @@ rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH1 playpath=livestream swfUrl
 #EXTINF:-1,[COLOR yellow]Al Masriyah[/COLOR]
 rtmp://livestreaming4.itworkscdn.com/masira playpath=livetv1 swfUrl=http://www.almaserahtv.com/player.swf pageUrl=http://www.almasirah.tv/ live=1 timeout=20
 #EXTINF:-1,[COLOR yellow]Al Masriyah[/COLOR]
-http://38.99.146.43:7777/AlMasriyah.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlMasriyah.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Egypt 2[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch2.html live=true timeout=15
 #EXTINF:-1,[COLOR yellow]Egypt 2[/COLOR]
-http://38.99.146.43:7777/AlThanya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlThanya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Aljazeera Documentary TV[/COLOR]
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
 #EXTINF:-1,[COLOR yellow]Al Jazeera Docu[/COLOR]
@@ -212,7 +212,7 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazee
 #EXTINF:-1,[COLOR yellow]Al Jazeera Docu[/COLOR]
 http://38.99.146.37:7777/AlJazeeraDocument_HD/AlJazeeraDocument_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Al Tahrir[/COLOR]
-http://38.99.146.43:7777/Tahrir.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Tahrir.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Al Nahar[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_tvprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,[COLOR yellow]Al Nahar +2[/COLOR]
@@ -220,19 +220,19 @@ rtmp://50.7.180.18/nahar_tv playpath=nahar_youmprofile1.stream swfUrl=http://dem
 #EXTINF:-1,[COLOR yellow]Al Nahar Drama[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_dramaprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahardrama/
 #EXTINF:-1,[COLOR yellow]Alhayat Cinema[/COLOR]
-http://38.99.146.43:7777/AlHayatCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlHayatCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Alhayat Drama[/COLOR]
-http://38.99.146.43:7777/AlHayatMousalsalat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlHayatMousalsalat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Cairo Cinema[/COLOR]
-http://38.99.146.43:7777/CairoCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CairoCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Cairo Drama[/COLOR]
-http://38.99.146.43:7777/CairoDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CairoDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]CBC[/COLOR]
-http://38.99.146.43:7777/CBC.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CBC.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]CBC2[/COLOR]
-http://38.99.146.43:7777/CBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]CBC Drama[/COLOR]
-http://38.99.146.43:7777/CBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/CBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,CBC
 rtmp://176.58.79.15:1936/live/CBC
 #EXTINF:-1,CBC DRAMA
@@ -242,9 +242,9 @@ rtmp://176.58.79.15:1936/live/CBCSofra
 #EXTINF:-1,CARTOON NETWORK ARABIA
 rtmp://176.58.79.15:1936/live/CNArabia
 #EXTINF:-1,[COLOR yellow]Dream1[/COLOR]
-http://38.99.146.43:7777/Dream1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Dream1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
-http://38.99.146.43:7777/Dream2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Dream2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
@@ -252,15 +252,15 @@ rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1,Dubai
-http://38.99.146.43:7777/DubaiEurope.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/DubaiEurope.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]FOX[/COLOR]
-http://38.99.146.43:7777/Fox.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Fox.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]FOX Movies[/COLOR]
-http://38.99.146.43:7777/FoxMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/FoxMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
-http://38.99.146.43:7777/Fatafeat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/Fatafeat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
 #EXTINF:-1,[COLOR yellow]Mehwar Tv 2[/COLOR]
@@ -268,23 +268,23 @@ rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=ht
 #EXTINF:-1,[COLOR yellow]Mehwar Drama[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/indexD.html
 #EXTINF:-1,[COLOR yellow]MBC 1[/COLOR]
-http://38.99.146.43:7777/MBC1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBC1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC 1[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/mbc1
 #EXTINF:-1,[COLOR yellow]MBC 2[/COLOR]
-http://38.99.146.43:7777/MBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC 3[/COLOR]
-http://38.99.146.43:7777/MBC3.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBC3.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC 4[/COLOR]
-http://38.99.146.43:7777/MBC4.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBC4.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC Masr[/COLOR]
-http://38.99.146.43:7777/MBCMasr.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBCMasr.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC Drama[/COLOR]
-http://38.99.146.43:7777/MBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC Action[/COLOR]
-http://38.99.146.43:7777/MBCAction.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBCAction.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC Max[/COLOR]
-http://38.99.146.43:7777/MBCMax.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MBCMax.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC 1
 rtmp://176.58.79.15:1936/live/mbc1
 #EXTINF:-1,MBC 2
@@ -314,43 +314,43 @@ rtmp://38.96.148.206/Melody/MDramaWeb
 #EXTINF:-1,[COLOR yellow]Melody Arabia[/COLOR]
 rtmp://38.96.148.206/Melody/MArabiaWeb
 #EXTINF:-1,[COLOR yellow]Moga Comedy[/COLOR]
-http://38.99.146.43:7777/MogaComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/MogaComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Nile Cinema[/COLOR]
-http://38.99.146.43:7777/NileCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/NileCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Nile Comedy[/COLOR]
-http://38.99.146.43:7777/NileComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/NileComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Nile Drama 2[/COLOR]
-http://38.99.146.43:7777/NileDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/NileDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Nile Drama[/COLOR]
-http://38.99.146.43:7777/NileDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/NileDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Panorama Movies[/COLOR]
-http://38.99.146.43:7777/PanoramaFilm.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/PanoramaFilm.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Panorama Drama[/COLOR]
-http://38.99.146.43:7777/PanoramaDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/PanoramaDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Panorama Drama2[/COLOR]
-http://38.99.146.43:7777/PanoramaDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/PanoramaDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
-http://38.99.146.43:7777/ONTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/ONTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Oscar Drama[/COLOR]
-http://38.99.146.43:7777/OscarDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/OscarDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
-http://38.99.146.43:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
-http://38.99.146.43:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
-http://38.99.146.43:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Classic[/COLOR]
-http://38.99.146.43:7777/RotanaZaman.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/RotanaZaman.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Masryia[/COLOR]
-http://38.99.146.43:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Sama Cinema[/COLOR]
-http://38.99.146.43:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
-http://38.99.146.43:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC Action
 http://185.6.104.114:9983/udp/239.210.10.41:1234
 #EXTINF:-1,MBC Drama
@@ -376,9 +376,10 @@ http://185.6.104.114:9983/udp/239.210.10.65:1234
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
-http://38.99.146.43:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/AlAhlyTV_HD/AlAhlyTV_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1343589&amp;session=a8bdea41975ced3f90c039b93263252625e75e1c90ba88b56f96e19944618298&amp;hlsid=HLS_1883052
 #EXTINF:-1,AD Sport
-http://38.99.146.43:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC PRO Sports 1
 http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,MBC PRO Sports 2
@@ -391,39 +392,9 @@ http://wzmatch.uforone.net:1935/live/beinsports1/playlist.m3u8?wowzasessionid=12
 http://wzmatch.uforone.net:1935/live/beinsports2/playlist.m3u8?wowzasessionid=1587112301
 #EXTINF:-1,beIN3
 http://wzmatch.uforone.net:1935/live/beinsports3/playlist.m3u8?wowzasessionid=103404190
-#EXTINF:-1,beIN1 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN2 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN3 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN4 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN5 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN6 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein6 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN7 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein7 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN8 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein8 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN9 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein9 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN10 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein10 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-#EXTINF:-1,beIN11 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein11 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN12 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein12 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN13 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein13 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku 
-#EXTINF:-1,beIN14 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein14 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-#EXTINF:-1,beIN15 
-rtmpe://46.246.124.23:1935/live/ playpath=xsbein15 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-#EXTINF:-1,BT S 1 31-8
+#EXTINF:-1,BT S 1
 rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BT S 2 31-8
+#EXTINF:-1,BT S 2
 rtmp://31.220.0.196:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,Dubai Sport
 http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
@@ -433,14 +404,18 @@ http://38.99.146.37:7777/DubaiSport2_HD/DubaiSport2_High.m3u8?session=bdc4847b38
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
-#EXTINF:-1,ESPN
-http://mobi3.ibrod.tv:1935/ibusa/espn.stream/playlist.m3u8
+#EXTINF:-1,Eurosport hd
+http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
+#EXTINF:-1,Eurosport2 hd
+http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
+#EXTINF:-1, GrandPrix
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e05107e8304b4d118c92b5dffa636715
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
 #EXTINF:-1,NileSport
-http://38.99.146.43:7777/NileSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://38.99.146.37:7777/NileSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -481,58 +456,12 @@ rtmpe://162.219.178.154/live playpath=skysports4fifaembed pageUrl=http://www.dca
 rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmpe://162.219.178.154/live playpath=skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,Sky Sports 1
-http://iptv4.me:4321/skysp1
-#EXTINF:-1,Sky Sports 2
-http://iptv4.me:4321/skysp2
-#EXTINF:-1,Sky Sports 3
-http://iptv4.me:4321/skysp3
-#EXTINF:-1,Sky Sports 4
-http://iptv4.me:4321/skysp4
-#EXTINF:-1,SKy sport 5
-http://iptv4.me:4321/skysp5
-#EXTINF:-1,sky F1
-http://iptv4.me:4321/skyspf1
-#EXTINF:-1,[COLOR yellow]Sport 1[/COLOR]
-rtmp://5.135.135.200:80/live/sport1.stream
-#EXTINF:-1,eurosport hd
-http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
-#EXTINF:-1,eurosport2 hd
-http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
-#EXTINF:-1,C+Liga
-rtmp://95.211.186.156/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Lig
-rtmp://207.244.77.15/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Liga31-8
-rtmp://46.165.220.225/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,DC+Liga
-rtmp://178.162.199.141/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Liga31-8
-rtmp://178.162.199.141/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Lig31-8
-rtmp://207.244.67.9/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Lig
-rtmp://207.244.89.23/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+Lig
-rtmp://207.244.76.206/iguide/ playpath=gsjaap2bwvlbasi swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+1-Arenavision
-rtmp://95.211.186.156/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+1-Arenavision
-rtmp://46.165.220.225/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHu
-#EXTINF:-1,C+1-Arenavision
-rtmp://207.244.77.15/iguide/ playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+1-Arenavision
-rtmp://178.162.199.141/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+1-Arenavision
-rtmp://178.162.199.141/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,DC+1-Arenavision
-rtmp://207.244.67.9/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,C+1-Arenavision
-rtmp://207.244.89.23/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
-#EXTINF:-1,:C+1-Arenavision
-rtmp://207.244.76.206/iguide/mvu912lm6c5dzz6 playpath=mvu912lm6c5dzz6 swfUrl=http://cdn1.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=710&height=415&channel=16289&autoplay=true token=#ed%h0#w18623jsda6523lDGDHur
+#EXTINF:-1, Ten Cricket
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
+#EXTINF:-1,4th dimension
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d2dc7d7f3d234b5a9ef526e2fc16fb7b
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
 rtmp://204.107.26.252:8086/live/393.high.stream
 #EXTINF:-1,[COLOR red]ANIMAL PLANET HD[/COLOR]
@@ -545,30 +474,24 @@ http://202.75.23.34:1400/live/ch31/03.m3u8
 http://202.75.23.34:1400/live/ch31/01.m3u8
 #EXTINF:-1,Animal Planet
 http://80.77.52.6:4022/udp/230.0.3.18:12345
-#EXTINF:-1,A&E USA
-http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
-#EXTINF:-1,ABC
-http://mobi3.ibrod.tv:1935/ibusa/nbc.stream/playlist.m3u8
-#EXTINF:-1,AMC
-http://mobi3.ibrod.tv:1935/ibusa/AMC.stream/playlist.m3u8
-#EXTINF:-1,A&E USA
-http://mobi3.ibrod.tv:1935/ibusa/aetv.stream/playlist.m3u8
-#EXTINF:-1,BRAVO USA
-http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
+#EXTINF:-1,Anımal PLANET
+http://85.248.234.45:8430/
+#EXTINF:-1,Animax
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1,Boomerang
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
+#EXTINF:-1,Baby tv HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,BIO HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
 #EXTINF:-1,Bio CH HD 
 http://202.75.23.36:1400/live/ch46/04.m3u8 
 #EXTINF:-1,Bio CH SD 
 http://202.75.23.36:1400/live/ch46/03.m3u8 
 #EXTINF:-1,Bio CH Low 
 http://202.75.23.36:1400/live/ch46/01.m3u8
-#EXTINF:-1,BRAVO
-http://mobi3.ibrod.tv:1935/ibusa/bravo.stream/playlist.m3u8
 #EXTINF:-1,BIO
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
-#EXTINF:-1,CBS USA
-http://mobi3.ibrod.tv:1935/ibusa/cbs.stream/playlist.m3u8
-#EXTINF:-1,CW
-http://mobi3.ibrod.tv:1935/ibusa/cw.stream/playlist.m3u8
 #EXTINF:-1,CIN
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
 #EXTINF:-1,Comedy Central
@@ -577,8 +500,12 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba252
 rtmp://204.107.26.252:8086/live/691.high.stream
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:4022/udp/230.0.3.15:12345
-#EXTINF:-1,Cartoon Network
-http://mobi3.ibrod.tv:1935/ibusa/cn.stream/playlist.m3u8
+#EXTINF:-1,Cartoonito HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1,Celestial Classic Movies
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
+#EXTINF:-1,Comedy Central HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
@@ -605,10 +532,12 @@ http://202.75.23.34:1400/live/ch30/03.m3u8
 http://202.75.23.34:1400/live/ch30/01.m3u8
 #EXTINF:-1,Discovery
 http://80.77.52.6:4022/udp/230.0.3.17:12345
-#EXTINF:-1,DISNEY CHANNEL USA
-http://mobi3.ibrod.tv:1935/ibusa/disney.stream/playlist.m3u8
+#EXTINF:-1,DMAX
+http://202.75.23.34/live/ch32/01.m3u8
 #EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
 rtmp://204.107.26.252:8086/live/341.high.stream
+#EXTINF:-1,FOX Crime HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
 #EXTINF:-1,Food Network
 http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
 #EXTINF:-1,Fight Sports HD 
@@ -619,10 +548,6 @@ http://202.75.23.37:1400/live/ch20/03.m3u8
 http://202.75.23.37:1400/live/ch20/03.m3u8
 #EXTINF:-1,FX
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
-#EXTINF:-1,FX USA
-http://mobi3.ibrod.tv:1935/ibusa/fx.stream/playlist.m3u8
-#EXTINF:-1,HBO
-http://mobi3.ibrod.tv:1935/ibusa/hbo.stream/playlist.m3u8
 #EXTINF:-1,[COLOR red]HBO Family[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,HBO PLUS
@@ -638,7 +563,11 @@ http://202.75.23.36:1400/live/ch48/04.m3u8
 #EXTINF:-1,Lifetime SD 
 http://202.75.23.36:1400/live/ch48/03.m3u8 
 #EXTINF:-1,Lifetime Low 
-http://202.75.23.36:1400/live/ch48/01.m3u8 
+http://202.75.23.36:1400/live/ch48/01.m3u8
+#EXTINF:-1,Farm Channel
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=817c9a06488c4ff7bc8d505038a7652a
+#EXTINF:-1,Miracle
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=25713d0629f148adbfedbdf4284afb09
 #EXTINF:-1,Mix Music HD 
 http://202.75.23.49:1400/live/ch1/04.m3u8 
 #EXTINF:-1,Mix Music SD 
@@ -655,10 +584,10 @@ rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/Strov
 rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
 #EXTINF:-1,MTV
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
-#EXTINF:-1,MTV USA
-http://mobi3.ibrod.tv:1935/ibusa/mtv.stream/playlist.m3u8
-#EXTINF:-1,NBC
-http://mobi3.ibrod.tv:1935/ibusa/nbc.stream/playlist.m3u8
+#EXTINF:-1,Nat Geo People
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1,Nat Geo Wild
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
 #EXTINF:-1,NatGeo HD 
 http://202.75.23.35:1400/live/ch38/04.m3u8 
 #EXTINF:-1,NatGeo SD 
@@ -673,10 +602,8 @@ http://202.75.23.36:1400/live/ch43/04.m3u8
 http://202.75.23.36:1400/live/ch43/03.m3u8 
 #EXTINF:-1,Nickelodeon Low 
 http://202.75.23.36:1400/live/ch43/01.m3u8
-#EXTINF:-1,Nickelodeon
-http://80.77.52.6:4022/udp/230.0.3.45:12345
-#EXTINF:-1,Nickelodeon
-http://mobi3.ibrod.tv:1935/ibusa/nick.stream/playlist.m3u8
+#EXTINF:-1,Nick Jr
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
 #EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
 rtmp://195.154.220.115:1935/private/premierx
 #EXTINF:-1,[COLOR blue] Sky Movies Action[/COLOR]
@@ -687,76 +614,32 @@ rtmp://195.154.220.115:1935/private/greats
 rtmp://195.154.220.115:1935/private/thriller
 #EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
-#EXTINF:-1,SYFY
-http://mobi3.ibrod.tv:1935/ibusa/syfy.stream/playlist.m3u8
-#EXTINF:-1,SPIKE
-http://mobi3.ibrod.tv:1935/ibusa/spike.stream/playlist.m3u8
-#EXTINF:-1,ShowTime
-http://mobi3.ibrod.tv:1935/ibusa/showtime.stream/playlist.m3u8
+#EXTINF:-1,Star World HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1,Star World HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1,Sun Channel Laliga HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ce4efc6a833f424f8d6cdcad5573f369
 #EXTINF:-1,SYFY
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
 #EXTINF:-1,SYFY
 rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
-#EXTINF:-1,TNT
-http://mobi3.ibrod.tv:1935/ibusa/tnt.stream/playlist.m3u8
-#EXTINF:-1,TBS
-http://mobi3.ibrod.tv:1935/ibusa/tbs.stream/playlist.m3u8
-#EXTINF:-1,Viasat Explorer
-http://80.77.52.6:4022/udp/230.0.3.55:12345
-#EXTINF:-1,Viasat History
-http://80.77.52.6:4022/udp/230.0.3.56:12345
-#EXTINF:-1,USA
-http://mobi3.ibrod.tv:1935/ibusa/usa.stream/playlist.m3u8
+#EXTINF:-1,TGN
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e362c185f33d4e2d8ae8921cbff3ca4e
+#EXTINF:-1,TGN1
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9782e7e7da814652a62cfca2f97f781a
+#EXTINF:-1,Thrill
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=c316ed9333e54442b25077f0bb3cc269
+#EXTINF:-1,Travel channel International
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1,The Africa Channel
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=eea31a4e48aa4d51a4ce8cdaa1c3a957
+#EXTINF:-1,Universal channel
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
 #EXTINF:-1,[COLOR red]Wisconsin Channel[/COLOR]
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
-#EXTINF:-1,NOVA SPORT
-http://gogo.jksw.cz:8023/
-#EXTINF:0, HBO
-rtmp://207.244.76.207/ibusa/hbo.stream
-#EXTINF:0, FX
-rtmp://207.244.76.207/ibusa/fx.stream
-#EXTINF:0, CBS
-rtmp://207.244.76.207/ibusa/cbs.stream
-#EXTINF:0, FOX
-rtmp://207.244.76.207/ibusa/fox.stream
-#EXTINF:0, MTV
-rtmp://207.244.76.207/ibusa/mtv.stream
-#EXTINF:0, SPIKE
-rtmp://207.244.76.207/ibusa/spike.stream
-#EXTINF:0, TBS
-rtmp://207.244.76.207/ibusa/tbs.stream
-#EXTINF:0, AMC
-rtmp://207.244.76.207/ibusa/amc.stream
-#EXTINF:0, ABC
-rtmp://207.244.76.207/ibusa/abc.stream
-#EXTINF:0, BRAVO
-rtmp://207.244.76.207/ibusa/bravo.stream
-#EXTINF:0, DISNEY
-rtmp://207.244.76.207/ibusa/disney.stream
-#EXTINF:0, SYFY
-rtmp://207.244.76.207/ibusa/syfy.stream
-#EXTINF:0, AETV
-rtmp://207.244.76.207/ibusa/aetv.stream
-#EXTINF:0, USA
-rtmp://207.244.76.207/ibusa/usa.stream
-#EXTINF:0, TNT
-rtmp://207.244.76.207/ibusa/tnt.stream
-#EXTINF:0, SHOWTIME
-rtmp://207.244.76.207/ibusa/showtime.stream
-#‎EXTINF‬:-1,Anımal PLANET
-http://85.248.234.45:8430/
-#EXTINF:-1,Boomerang
-http://85.248.234.40:8552/
-#EXTINF:-1,Disney Junior
-http://85.248.234.51:8547/
-#EXTINF:-1,Disney XD
-http://85.248.234.38:8539/
-#EXTINF:-1,Disney XD
-http://85.248.234.43:8540/
-#EXTINF:-1,Disney XD
-http://85.248.234.50:8541/
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
