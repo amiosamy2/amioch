@@ -351,33 +351,10 @@ http://38.99.146.37:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b13
 http://38.99.146.37:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
 http://38.99.146.37:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,MBC Action
-http://185.6.104.114:9983/udp/239.210.10.41:1234
-#EXTINF:-1,MBC Drama
-http://185.6.104.114:9983/udp/239.210.10.42:1234
-#EXTINF:-1,MBC 2
-http://185.6.104.114:9983/udp/239.210.10.43:1234
-#EXTINF:-1,MBC 4
-http://185.6.104.114:9983/udp/239.210.10.44:1234
-#EXTINF:-1,MBC Max
-http://185.6.104.114:9983/udp/239.210.10.45:1234
-#EXTINF:-1,Nile Cinema
-http://185.6.104.114:9983/udp/239.210.10.58:1234
-#EXTINF:-1,Nile Comedy
-http://185.6.104.114:9983/udp/239.210.10.59:1234
-#EXTINF:-1,Nile Family and Kids
-http://185.6.104.114:9983/udp/239.210.10.62:1234
-#EXTINF:-1,Nile News
-http://185.6.104.114:9983/udp/239.210.10.63:1234
-#EXTINF:-1,Nile Drama
-http://185.6.104.114:9983/udp/239.210.10.64:1234
-#EXTINF:-1,Dubai One
-http://185.6.104.114:9983/udp/239.210.10.65:1234
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.37:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-http://38.99.146.37:7777/AlAhlyTV_HD/AlAhlyTV_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1343589&amp;session=a8bdea41975ced3f90c039b93263252625e75e1c90ba88b56f96e19944618298&amp;hlsid=HLS_1883052
 #EXTINF:-1,AD Sport
 http://38.99.146.37:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC PRO Sports 1
@@ -392,6 +369,14 @@ http://wzmatch.uforone.net:1935/live/beinsports1/playlist.m3u8?wowzasessionid=12
 http://wzmatch.uforone.net:1935/live/beinsports2/playlist.m3u8?wowzasessionid=1587112301
 #EXTINF:-1,beIN3
 http://wzmatch.uforone.net:1935/live/beinsports3/playlist.m3u8?wowzasessionid=103404190
+#EXTINF:-1,BT1 HD
+http://foxy1:brown1@178.239.54.90:8000/bt1hd
+#EXTINF:-1,BT1 SD
+http://foxy1:brown1@178.239.54.90:8000/bt1sd
+#EXTINF:-1,BT2HD
+http://foxy1:brown1@178.239.54.90:8000/bt2hd
+#EXTINF:-1,BT2 SD
+http://foxy1:brown1@178.239.54.90:8000/bt2sd
 #EXTINF:-1,BT S 1
 rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,BT S 2
@@ -402,6 +387,10 @@ http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe
 http://38.99.146.37:7777/DubaiSport2_HD/DubaiSport2_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Dubai Sports[/COLOR]
 rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
+#EXTINF:-1,ESPN UK SD
+http://foxy1:brown1@178.239.54.90:8000/espnuksd
+#EXTINF:-1,ESPN UK HD
+http://foxy1:brown1@178.239.54.90:8000/espnukhd
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,Eurosport hd
@@ -410,12 +399,16 @@ http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
 http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
-#EXTINF:-1, GrandPrix
+#EXTINF:-1,GrandPrix
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e05107e8304b4d118c92b5dffa636715
+#EXTINF:-1,LFC (Liverpool F.C.)
+http://foxy1:brown1@178.239.54.90:8000/lfc
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
 #EXTINF:-1,NileSport
 http://38.99.146.37:7777/NileSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:-1,SKY F1
+http://foxy1:brown1@178.239.54.90:8000/skyf1sd
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -614,6 +607,26 @@ rtmp://195.154.220.115:1935/private/greats
 rtmp://195.154.220.115:1935/private/thriller
 #EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
+#EXTINF:-1,Sky Movies Drama & Romance
+http://foxy1:brown1@178.239.54.90:8000/skydramasd
+#EXTINF:-1,Sky Movies Action & Adventure
+http://foxy1:brown1@178.239.54.90:8000/skyactionsd
+#EXTINF:-1,Sky Movies Comedy
+http://foxy1:brown1@178.239.54.90:8000/skycomedysd
+#EXTINF:-1,Sky Movies Family
+http://foxy1:brown1@178.239.54.90:8000/skyfamilysd
+#EXTINF:-1,Sky Movies Greats
+http://foxy1:brown1@178.239.54.90:8000/skygreatssd
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://foxy1:brown1@178.239.54.90:8000/skythrillersd
+#EXTINF:-1,Sky Movies Premiere
+http://foxy1:brown1@178.239.54.90:8000/skypremiersd
+#EXTINF:-1,Sky Movies Select
+http://foxy1:brown1@178.239.54.90:8000/skyselectsd
+#EXTINF:-1,Sky Movies Showcase
+http://foxy1:brown1@178.239.54.90:8000/skyshowcasesd
+#EXTINF:-1,Sky Movies Sci Fi & Horror
+http://foxy1:brown1@178.239.54.90:8000/skyscifisd
 #EXTINF:-1,Star World HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
 #EXTINF:-1,Star World HD
@@ -640,6 +653,60 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
+#EXTINF:-1,4Seven
+http://foxy1:brown1@178.239.54.90:8000/4seven
+#EXTINF:-1,5USA
+http://foxy1:brown1@178.239.54.90:8000/5usa
+#EXTINF:-1,5Star
+http://foxy1:brown1@178.239.54.90:8000/5star
+#EXTINF:-1,ALİBİ
+http://foxy1:brown1@178.239.54.90:8000/alibisd
+#EXTINF:-1,BBC1
+http://foxy1:brown1@178.239.54.90:8000/bbc1hd
+#EXTINF:-1,BBC2
+http://foxy1:brown1@178.239.54.90:8000/bbc2hd
+#EXTINF:-1,BBC3
+http://foxy1:brown1@178.239.54.90:8000/bbc3hd
+#EXTINF:-1,BBC4
+http://foxy1:brown1@178.239.54.90:8000/bbc4cebiehd
+#EXTINF:-1,C4
+http://foxy1:brown1@178.239.54.90:8000/c4hd
+#EXTINF:-1,C5
+http://foxy1:brown1@178.239.54.90:8000/c5sd
+#EXTINF:-1,DAVE
+http://foxy1:brown1@178.239.54.90:8000/davesd
+#EXTINF:-1,DRAMA
+http://foxy1:brown1@178.239.54.90:8000/drama
+#EXTINF:-1,E4
+http://foxy1:brown1@178.239.54.90:8000/e4sd
+#EXTINF:-1,EDEN
+http://foxy1:brown1@178.239.54.90:8000/edensd
+#EXTINF:-1,Five24
+http://foxy1:brown1@178.239.54.90:8000/five24
+#EXTINF:-1,ITV1
+http://foxy1:brown1@178.239.54.90:8000/itv1hd
+#EXTINF:-1,ITV2
+http://foxy1:brown1@178.239.54.90:8000/itv2sd2
+#EXTINF:-1,ITV3
+http://foxy1:brown1@178.239.54.90:8000/itv3sd1
+#EXTINF:-1,ITV4
+http://foxy1:brown1@178.239.54.90:8000/itv4sd2
+#EXTINF:-1,More4
+http://foxy1:brown1@178.239.54.90:8000/more4sd
+#EXTINF:-1,RTE1
+http://foxy1:brown1@178.239.54.90:8000/rte1
+#EXTINF:-1,RTE2
+http://foxy1:brown1@178.239.54.90:8000/rte2sd
+#EXTINF:-1,SKY ONE
+http://foxy1:brown1@178.239.54.90:8000/skyonesd
+#EXTINF:-1,SKY TWO
+http://foxy1:brown1@178.239.54.90:8000/skytwo
+#EXTINF:-1,TLC
+http://foxy1:brown1@178.239.54.90:8000/tlcsd
+#EXTINF:-1,VH1
+http://foxy1:brown1@178.239.54.90:8000/vh1
+#EXTINF:-1,UNİVERSAL
+http://foxy1:brown1@178.239.54.90:8000/universalsd
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
