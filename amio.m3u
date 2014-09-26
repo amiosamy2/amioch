@@ -35,8 +35,8 @@ http://38.99.146.37:7777/Aghapy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,[COLOR red]ALKARAZA[/COLOR]
 http://cdn-streamer2.magictvbox.com/58.m3u8
-#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
-http://38.99.146.37:7777/AlMukhales.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+#EXTINF:-1,[COLOR red]Al-Horreya[/COLOR]
+http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 #EXTINF:-1,[COLOR red]Amazing Facts [/COLOR]
 http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,[COLOR red]CTV[/COLOR]
@@ -112,13 +112,13 @@ http://38.99.146.37:7777/Sat7Kid.m3u8?session=bdc4847b38fe5ede816551e38b136d11b1
 #EXTINF:-1,[COLOR red]Spirit TV[/COLOR]
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
 #EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/tbn04_delivery@149649/master.m3u8
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 #EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
 http://cdn-streamer2.magictvbox.com/59.m3u8
 #EXTINF:-1,[COLOR red]TBN[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/tbn01_delivery@120258/master.m3u8
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 #EXTINF:-1,[COLOR red]The Church Channel[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/tbn02_delivery@120259/master.m3u8
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 #EXTINF:-1,[COLOR red]The Word [/COLOR]
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
 #EXTINF:-1,[COLOR red]The Freedom[/COLOR]
@@ -135,6 +135,8 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 http://38.99.146.37:7777/AlJazeera.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
+#EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=aljazusa_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-america/
 #EXTINF:-1,[COLOR blue]Bloomberg[/COLOR]
@@ -157,6 +159,8 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8?sd=10&amp
 mms://livewmstream-ws.bbc.co.uk.edgestreams.net/reflector:43117?.wma
 #EXTINF:-1,[COLOR blue]BBC News[/COLOR]
 http://uneapple-i.akamaihd.net/hls/live/205014/grupoune_st5@205014/st5_index.m3u8
+#EXTINF:-1,[COLOR blue]BBC News[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1,[COLOR blue]CNBC Arabic[/COLOR]
 http://livestream-f.akamaihd.net/3102016_1914609_30b7e5a0_1_678@101498?v=3.0.3&fp=WIN%2014,0,0,177&r=SIOMK&g=FVHKNMPFLCTJ
 #EXTINF:-1,[COLOR blue]CNBC[/COLOR]
