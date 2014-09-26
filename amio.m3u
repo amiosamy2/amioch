@@ -6,7 +6,7 @@ rtmp://amsix3.streamkit.tv:80/edge/_definst_ playpath=hcmena_200 swfUrl=http://w
 #EXTINF:-1,[COLOR red]ATV SAT[/COLOR]
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
 #EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
-rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live/ playpath=stream-900k?streamType=LiveStream swfUrl=http://www.abnsat.com/LLNWPlayer.swf pageUrl=http://www.abnsat.com/index.php?option=com_content&view=article&id=119&Itemid=178&lang=en
+rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
 #EXTINF:-1,[COLOR red]Alfady TV[/COLOR]
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
 #EXTINF:-1,[COLOR red]Al Hayat[/COLOR]
@@ -33,8 +33,6 @@ rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
-#EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
-http://38.99.146.37:7777/CTVEgypt.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]CBN TV[/COLOR]
 mmsh://live1.cbn.org/iptv1
 #EXTINF:-1,[COLOR red]CBN News[/COLOR]
