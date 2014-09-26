@@ -359,6 +359,12 @@ rtmp://88.86.125.177:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlaye
 rtmp://88.86.125.177:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
 #EXTINF:-1,bein sports hd 15
 rtmp://88.86.125.177:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
+#EXTINF:-1,BT 1
+rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
+#EXTINF:-1,BT 2
+rtmpe://31.220.0.198/live playpath=bt2 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,ESPN UK
+rtmpe://31.220.0.198/live playpath=espnuk pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,Eurosport hd
@@ -369,6 +375,16 @@ http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
+#EXTINF:-1,SKY Sports 1
+rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY Sports 2
+rtmpe://31.220.0.198/live playpath=sky2 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY Sports 3
+rtmpe://31.220.0.198/live playpath=sky3 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY Sports 4
+rtmpe://31.220.0.198/live playpath=sky4 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY Sports 5
+rtmpe://31.220.0.198/live playpath=sky5 pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
