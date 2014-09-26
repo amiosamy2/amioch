@@ -2,25 +2,17 @@
 #EXTINF:-1,group-title=Christian,[COLOR red]ACC[/COLOR]
 http://stream.acctv.com.au/index.m3u8
 #EXTINF:-1,[COLOR red]Al Waad Tv[/COLOR]
-rtmp://streaming.stimme-der-hoffnung.de/hcname2/livestreamhcname
+rtmp://amsix3.streamkit.tv:80/edge/_definst_ playpath=hcmena_200 swfUrl=http://web.streamkit.tv/clientStrobe/StrobeMediaPlayback.swf pageUrl=http://play.streamkit.tv/content/channel/hcmena/live/hcmena.fplayer.html?autoPlay=true
 #EXTINF:-1,[COLOR red]ATV SAT[/COLOR]
 http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
-#EXTINF:-1,[COLOR red]ATTARIK[/COLOR]
-http://cdn-streamer2.magictvbox.com/43.m3u8
 #EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
-rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
-#EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
-http://38.99.146.37:7777/ABN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live/ playpath=stream-900k?streamType=LiveStream swfUrl=http://www.abnsat.com/LLNWPlayer.swf pageUrl=http://www.abnsat.com/index.php?option=com_content&view=article&id=119&Itemid=178&lang=en
 #EXTINF:-1,[COLOR red]Alfady TV[/COLOR]
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
 #EXTINF:-1,[COLOR red]Al Hayat[/COLOR]
 http://media.islamexplained.com:1935/live/ngrp:ahme.stream_all/playlist.m3u8
 #EXTINF:-1,[COLOR red]Al Hayat 2[/COLOR]
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/playlist.m3u8
-#EXTINF:-1,[COLOR red]ALHAYAT 2[/COLOR]
-http://cdn-streamer2.magictvbox.com/63.m3u8
-#EXTINF:-1,[COLOR red]Alkarma TV[/COLOR]
-http://cdn-streamer2.magictvbox.com/41.m3u8
 #EXTINF:-1,[COLOR red]Alkarma TV US[/COLOR]
 rtmp://flash.alkarmatv.com/karmatv_na/karmatv_na2
 #EXTINF:-1,[COLOR red]Alkarma TV AU[/COLOR]
@@ -29,28 +21,18 @@ rtmp://flash.alkarmatv.com/karmatv_au/karmatv_au1
 rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 #EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
-http://38.99.146.37:7777/Aghapy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Alkalema[/COLOR]
 http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,[COLOR red]ALKARAZA[/COLOR]
-http://cdn-streamer2.magictvbox.com/58.m3u8
+#EXTINF:-1,[COLOR red]Alkaraza[/COLOR]
+rtmp://156.obj.netromedia.net/elkerazatv playpath=elkerazatv swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=472f5c87-9b5f-49be-8cda-5749fa192682&iframe=true&autoPlay=true&scaling=scale&content=true
 #EXTINF:-1,[COLOR red]Al-Horreya[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
-#EXTINF:-1,[COLOR red]Amazing Facts [/COLOR]
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,[COLOR red]CTV[/COLOR]
 rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
-#EXTINF:-1,CTVEgypt
-http://38.99.146.37:7777/CTVEgypt_HD/CTVEgypt_HD.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]CYC[/COLOR]
 http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
-#EXTINF:-1,[COLOR red]CYC[/COLOR]
-http://cdn-streamer2.magictvbox.com/34.m3u8
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 rtmp://154.obj.netromedia.net/Copticsat/Copticsat
-#EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
-http://cdn-streamer2.magictvbox.com/55.m3u8
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
 http://38.99.146.37:7777/CTVEgypt.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]CBN TV[/COLOR]
@@ -61,34 +43,22 @@ rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
 rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
 #EXTINF:-1,[COLOR red]Daystar TV[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
-#EXTINF:-1,[COLOR red]Good Shepherd TV[/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/12463854/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR red]Hope TV[/COLOR]
-rtmp://cp101680.live.edgefcs.net/live?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChannelNorthAmerica_1@52768?videoId=867377935001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
+http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-1/2.m3u8
 #EXTINF:-1,[COLOR red]Hope Church Channel[/COLOR]
-rtmp://cp101680.live.edgefcs.net/live?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=/HopeChurchChannel_1@52768?videoId=867654092001&lineUpId=&pubId=753071706001&playerId=2225999904001&affiliateId=
+http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-3/2.m3u8
 #EXTINF:-1,[COLOR red]Logos TV[/COLOR]
 http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
-#EXTINF:-1,[COLOR red]LOGOS[/COLOR]
-http://cdn-streamer2.magictvbox.com/33.m3u8
-#EXTINF:-1,[COLOR red]LLBN[/COLOR]
-http://38.99.146.37:7777/LLBN.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
-http://cdn-streamer2.magictvbox.com/56.m3u8
 #EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
-#EXTINF:-1,[COLOR red]Kingdom TV[/COLOR]
-http://38.99.146.37:7777/AlMalakot.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]KDEC[/COLOR]
 http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,[COLOR red]JCTV[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/tbn03_delivery@120260/master.m3u8
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186244/master.m3u8
 #EXTINF:-1,[COLOR red]MESAT[/COLOR]
-rtmp://stream.s17.cpanelservices.com/coptictvlive/livestream
+rtmp://sc-e1.streamcyclone.com/MeSatWeb playpath=MeSatChannel swfUrl=http://mesat.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://mesat.tv/2012/06/02/streaming/
 #EXTINF:-1,[COLOR red]Miracle TV[/COLOR]
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
-#EXTINF:-1,Miracle
-http://38.99.146.37:7777/Miracle_HD/Miracle_HD.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]New Life Egypt[/COLOR]
 rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
 #EXTINF:-1,[COLOR red]Noursat AlShabab[/COLOR]
@@ -107,22 +77,14 @@ http://riversoflife.flashedgesvr.com:1935/riversoflifelive/live100/playlist.m3u8
 rtmp://unirtmp.tulix.tv/sat7arabic/sat7arabic1
 #EXTINF:-1,[COLOR red]SAT 7 Kids[/COLOR]
 rtmp://unirtmp.tulix.tv/sat7kids/sat7kids1
-#EXTINF:-1,[COLOR red]SAT 7 Kids[/COLOR]
-http://38.99.146.37:7777/Sat7Kid.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR red]Spirit TV[/COLOR]
 rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_//mp4:spirit1
 #EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
-#EXTINF:-1,[COLOR red]Smile of a Child[/COLOR]
-http://cdn-streamer2.magictvbox.com/59.m3u8
 #EXTINF:-1,[COLOR red]TBN[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 #EXTINF:-1,[COLOR red]The Church Channel[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
-#EXTINF:-1,[COLOR red]The Word [/COLOR]
-http://www.alkalema.tv/extra/fms/liveevent.m3u8
-#EXTINF:-1,[COLOR red]The Freedom[/COLOR]
-rtmp://fms.pwmcdn.com/alhorreya/alhorreya2
 #EXTINF:-1, group-title=News,[COLOR blue]Alarabiya[/COLOR]
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 #EXTINF:-1,[COLOR blue]Alarabiya HADAS[/COLOR]
@@ -361,8 +323,6 @@ http://38.99.146.37:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
 http://38.99.146.37:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,AD Sport
-http://38.99.146.37:7777/ADSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC PRO Sports 1
 http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,MBC PRO Sports 2
@@ -401,28 +361,6 @@ rtmp://88.86.125.177:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlaye
 rtmp://88.86.125.177:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn14&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
 #EXTINF:-1,bein sports hd 15
 rtmp://88.86.125.177:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn15&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,BT1 HD
-http://foxy1:brown1@178.239.54.90:8000/bt1hd
-#EXTINF:-1,BT1 SD
-http://foxy1:brown1@178.239.54.90:8000/bt1sd
-#EXTINF:-1,BT2HD
-http://foxy1:brown1@178.239.54.90:8000/bt2hd
-#EXTINF:-1,BT2 SD
-http://foxy1:brown1@178.239.54.90:8000/bt2sd
-#EXTINF:-1,BT S 1
-rtmp://31.220.0.196:1935/live playpath=btssk1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BT S 2
-rtmp://31.220.0.196:1935/live playpath=btssk2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,Dubai Sport
-http://38.99.146.37:7777/DubaiSport_HD/DubaiSport_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,Dubai Sport2
-http://38.99.146.37:7777/DubaiSport2_HD/DubaiSport2_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Dubai Sports[/COLOR]
-rtmp://dmiLiveDubaiSports3.flash.internapcdn.net/dmiLiveDubaiSports3/live_1/ playpath=dmilivedubaisports3_3 swfUrl=http://vod.dmi.ae/bundles/endavoenhance/js/lib/jwplayer/grhnstvlnk/jwplayer.flash.swf pageUrl=http://www.elahmad.com/tv/dubai_media.php?channel=dubaitv swfVfy=true live=true timeout=15
-#EXTINF:-1,ESPN UK SD
-http://foxy1:brown1@178.239.54.90:8000/espnuksd
-#EXTINF:-1,ESPN UK HD
-http://foxy1:brown1@178.239.54.90:8000/espnukhd
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,Eurosport hd
@@ -431,16 +369,8 @@ http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
 http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
-#EXTINF:-1,GrandPrix
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e05107e8304b4d118c92b5dffa636715
-#EXTINF:-1,LFC (Liverpool F.C.)
-http://foxy1:brown1@178.239.54.90:8000/lfc
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,NileSport
-http://38.99.146.37:7777/NileSport.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,SKY F1
-http://foxy1:brown1@178.239.54.90:8000/skyf1sd
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -451,22 +381,8 @@ rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/
 rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky4&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 5
 rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
-#EXTINF:-1,SK S UK 1 
-rtmp://31.220.0.196:1935/live playpath=sskk1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SK S UK
-rtmp://31.220.0.196:1935/live playpath=sskk2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SK S UK 3 
-rtmp://31.220.0.196:1935/live playpath=sskk3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SK S UK4 
-rtmp://31.220.0.196:1935/live playpath=skks4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SK S UK 5
-rtmp://31.220.0.196:1935/live playpath=sskk5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,Sky Sports 5
 http://178.162.192.214:2006
-#EXTINF:-1,SK S UK F1 
-rtmp://31.220.0.196:1935/live playpath=skksnf1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,SK S UK NEWS 
-rtmp://31.220.0.196:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,SKY SPORTS NEWS
 rtmpe://162.219.178.154/live playpath=skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS 1
@@ -481,12 +397,10 @@ rtmpe://162.219.178.154/live playpath=skysports4fifaembed pageUrl=http://www.dca
 rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmpe://162.219.178.154/live playpath=skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1, Ten Cricket
+#EXTINF:-1,Ten Cricket
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
-#EXTINF:-1,4th dimension
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d2dc7d7f3d234b5a9ef526e2fc16fb7b
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
 rtmp://204.107.26.252:8086/live/393.high.stream
 #EXTINF:-1,[COLOR red]ANIMAL PLANET HD[/COLOR]
@@ -497,10 +411,6 @@ http://202.75.23.34:1400/live/ch31/04.m3u8
 http://202.75.23.34:1400/live/ch31/03.m3u8 
 #EXTINF:-1,Animal Planet Low 
 http://202.75.23.34:1400/live/ch31/01.m3u8
-#EXTINF:-1,Animal Planet
-http://80.77.52.6:4022/udp/230.0.3.18:12345
-#EXTINF:-1,Anımal PLANET
-http://85.248.234.45:8430/
 #EXTINF:-1,Animax
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
 #EXTINF:-1,Boomerang
@@ -510,9 +420,9 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7773f3cef03
 #EXTINF:-1,BIO HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
 #EXTINF:-1,Bio CH HD 
-http://202.75.23.36:1400/live/ch46/04.m3u8 
+http://202.75.23.36:1400/live/ch46/04.m3u8
 #EXTINF:-1,Bio CH SD 
-http://202.75.23.36:1400/live/ch46/03.m3u8 
+http://202.75.23.36:1400/live/ch46/03.m3u8
 #EXTINF:-1,Bio CH Low 
 http://202.75.23.36:1400/live/ch46/01.m3u8
 #EXTINF:-1,BIO
@@ -557,8 +467,6 @@ http://202.75.23.34:1400/live/ch30/04.m3u8
 http://202.75.23.34:1400/live/ch30/03.m3u8 
 #EXTINF:-1,Discovery World Low 
 http://202.75.23.34:1400/live/ch30/01.m3u8
-#EXTINF:-1,Discovery
-http://80.77.52.6:4022/udp/230.0.3.17:12345
 #EXTINF:-1,DMAX
 http://202.75.23.34/live/ch32/01.m3u8
 #EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
