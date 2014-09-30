@@ -327,12 +327,16 @@ http://mbcprosports01-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_
 http://mbcprosports02-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
 #EXTINF:-1,MBC PRO Sports 3
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,BeIN Sports 1
+#EXTINF:-1,Bein Sports 1
 http://202.75.23.37/live/ch18/04.m3u8
 #EXTINF:-1,BeIN Sports 2
 http://202.75.23.37/live/ch19/04.m3u8
 #EXTINF:-1,BeIN Sports 5
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?mfamwuUL6IpOXDJ8WwxJ
+#EXTINF:-1,Bein Sports 1HD FR
+rtmp://195.154.242.124:80/liverepeater playpath=166526 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Bein Sports 2HD FR
+rtmp://195.154.242.124:80/liverepeater playpath=166527 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,BT 1
 rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,BT 2
@@ -537,6 +541,16 @@ rtmp://195.154.220.115:1935/private/greats
 rtmp://195.154.220.115:1935/private/thriller
 #EXTINF:-1,[COLOR blue] Sky Movies SciFi-Horror[/COLOR]
 rtmp://195.154.220.115:1935/private/scifi
+#EXTINF:-1,SKY MOVIES PREMIERE 
+rtmpe://46.246.124.74:1935/live/ playpath=premierx  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
+#EXTINF:-1,SKY MOVIES ACTION&ADVENTURE 
+rtmpe://46.246.124.74:1935/live/ playpath=action  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
+#EXTINF:-1,SKY MOVIES MODERN GREATS 
+rtmpe://46.246.124.74:1935/live/ playpath=greats  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
+#EXTINF:-1,SKY MOVIES SCIFI&HORROR 
+rtmpe://46.246.124.74:1935/live/ playpath=scifi  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
+#EXTINF:-1,SKY MOVIES CRIME&THRILLER 
+rtmpe://46.246.124.74:1935/live/ playpath=thriller  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
 #EXTINF:-1,Star World HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
 #EXTINF:-1,Star World HD
