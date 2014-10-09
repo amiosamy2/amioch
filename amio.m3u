@@ -323,8 +323,6 @@ http://38.99.146.37:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d1
 http://38.99.146.37:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
-#EXTINF:-1,[COLOR blue]Al Ahly[/COLOR]
-http://38.99.146.37:7777/AlAhlyTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 1
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 2
@@ -333,38 +331,6 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,bein sports hd 1
-rtmp://31.220.0.133:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn1&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 2
-rtmp://31.220.0.133:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn2&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 3
-rtmp://31.220.0.133:1935/live playpath=bns3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn3&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 4
-rtmp://31.220.0.133:1935/live playpath=bns4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn4&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 5
-rtmp://31.220.0.133:1935/live playpath=bns5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn5&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 6
-rtmp://31.220.0.133:1935/live playpath=bns6 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn6&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 7
-rtmp://31.220.0.133:1935/live playpath=bns7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn7&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 8
-rtmp://31.220.0.133:1935/live playpath=bns8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn8&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,bein sports hd 9
-rtmp://31.220.0.134:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10
-#EXTINF:-1,beIN sport 10
-rtmpe://l.xuscacamusca.se/r/ playpath=10b510 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24116&width=100%&height=100%
-#EXTINF:-1,beIN sport 11
-rtmpe://l.xuscacamusca.se/r/ playpath=11b761 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24117&width=100%&height=100%
-#EXTINF:-1,beIN sport 12
-rtmpe://l.xuscacamusca.se/r/ playpath=12b994 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24118&width=100%&height=100%
-#EXTINF:-1,beIN sport 14
-rtmpe://l.xuscacamusca.se/r/ playpath=14b898 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24120&width=100%&height=100%
-#EXTINF:-1,beIN sport 15
-rtmpe://l.xuscacamusca.se/r/ playpath=15b378 swfUrl=http://xuscacamusca.se/e42d9f6f4db596217ab3df284657a5fe/player1.swf live=1 pageUrl=http://xuscacamusca.se/?id=24121&width=100%&height=100%
-#EXTINF:-1,Bein Sports 1HD FR
-rtmp://195.154.242.124:80/liverepeater playpath=166526 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,Bein Sports 2HD FR
-rtmp://195.154.242.124:80/liverepeater playpath=166527 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/Abouda token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,BT 1
 rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,BT 2
@@ -373,25 +339,19 @@ rtmpe://31.220.0.198/live playpath=bt2 pageUrl=http://www.pvtserverz.com/
 rtmpe://31.220.0.198/live playpath=espnuk pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
-#EXTINF:-1,Eurosport hd
-http://inea.live.e1-inos.insyscd.net/eurosporthd.smil/chunklist_b2400000.m3u
-#EXTINF:-1,Eurosport2 hd
-http://inea.live.e1-inos.insyscd.net/eurosport2hd.smil/chunklist_b2400000.m3u
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,DIGITAL+:C+Futbol
-rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
-#EXTINF:-1,DIGITAL+:C+Futbol
-rtmpe://209.95.38.206:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
-#EXTINF:-1,DIGITAL+ C+Liga
-rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-e3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
+#EXTINF:-1,CANAL+ LIGA
+http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+#EXTINF:-1,CANAL+ LIGA
+http://dpluspc-i.akamaihd.net/hls/live/201767/channelpc2/index.m3u8
 #EXTINF:-1,ESPN Uk
 rtmp://195.154.216.142:80/liverepeater playpath=167106 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/huraivza token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,PREMIER SPORTS.
+#EXTINF:-1,PREMIER SPORTS
 rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
-#EXTINF:-1,FOX NFL.
+#EXTINF:-1,FOX NFL
 rtmpe://46.246.124.3:1935/live/ playpath=snfl swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=snfl&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
 #EXTINF:-1,SKY SPORTS 1
 rtmpe://46.246.124.85/live/skysports1fifaembed pageUrl=http://www.dcast.tv/
@@ -411,16 +371,6 @@ rtmpe://209.95.38.196:1935/live playpath=wsps3 swfUrl=http://www.hdcast.org/j2/j
 rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-s4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 #EXTINF:-1,SKYSPORTS 4 Uk
 rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-s5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
-#EXTINF:-1,SKY Sports 1
-rtmpe://31.220.0.198/live playpath=sky1 pageUrl=http://www.pvtserverz.com/
-#EXTINF:-1,SKY Sports 2
-rtmpe://31.220.0.198/live playpath=sky2 pageUrl=http://www.pvtserverz.com/
-#EXTINF:-1,SKY Sports 3
-rtmpe://31.220.0.198/live playpath=sky3 pageUrl=http://www.pvtserverz.com/
-#EXTINF:-1,SKY Sports 4
-rtmpe://31.220.0.198/live playpath=sky4 pageUrl=http://www.pvtserverz.com/
-#EXTINF:-1,SKY Sports 5
-rtmpe://31.220.0.198/live playpath=sky5 pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -433,82 +383,40 @@ rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/
 rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,Sky Sports 5
 http://178.162.192.214:2006
-#EXTINF:-1,SKY SPORTS NEWS
-rtmpe://162.219.178.154/live playpath=skysportsnewsfifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS 1
-rtmpe://162.219.178.154/live playpath=skysports1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS 2
-rtmpe://162.219.178.154/live playpath=skysports2fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS 3
-rtmpe://162.219.178.154/live playpath=skysports3fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS 4
-rtmpe://162.219.178.154/live playpath=skysports4fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS 5
-rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKY SPORTS F1
-rtmpe://162.219.178.154/live playpath=skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,Ten Cricket
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
-#EXTINF:-1,Sport tv 2
-rtmp://178.217.185.120:1935/live/_definst_/channel2
-#EXTINF:-1,Sport tv HD
-rtmp://178.217.185.120:1935/live/_definst_/channel4
-#EXTINF:-1,Sky Sport 1
-rtmp://178.217.185.120:1935/live/_definst_/channel8
-#EXTINF:-1,Canal +Family
-rtmp://178.217.185.120:1935/live/_definst_/channel10
-#EXTINF:-1,SPORT EXTRA
-rtmp://178.217.185.120:1935/live/_definst_/channel11
 #EXTINF:-1,Sky Bundesliga 4
 rtmp://178.217.185.120:1935/live/_definst_/channel12
-#EXTINF:-1,BT SPORT 1
-rtmp://178.217.185.120:1935/live/_definst_/channel14
-#EXTINF:-1,BEIN SPORT 5
-rtmp://178.217.185.120:1935/live/_definst_/channel15
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
 rtmp://204.107.26.252:8086/live/393.high.stream
-#EXTINF:-1,[COLOR red]ANIMAL PLANET HD[/COLOR]
-rtmp://s01.webport.tv/promo/mtv live=2
 #EXTINF:-1,Animal Planet HD 
 http://202.75.23.34:1400/live/ch31/04.m3u8 
 #EXTINF:-1,Animal Planet SD 
 http://202.75.23.34:1400/live/ch31/03.m3u8 
 #EXTINF:-1,Animal Planet Low 
 http://202.75.23.34:1400/live/ch31/01.m3u8
-#EXTINF:-1,Animax
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
-#EXTINF:-1,Boomerang
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
-#EXTINF:-1,Baby tv HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
-#EXTINF:-1,BIO HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
 #EXTINF:-1,Bio CH HD 
 http://202.75.23.36:1400/live/ch46/04.m3u8
 #EXTINF:-1,Bio CH SD 
 http://202.75.23.36:1400/live/ch46/03.m3u8
 #EXTINF:-1,Bio CH Low 
 http://202.75.23.36:1400/live/ch46/01.m3u8
-#EXTINF:-1,BIO
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
 #EXTINF:-1,BBC1
 http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,CIN
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1,Comedy Central
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
 #EXTINF:-1,[COLOR red]Clubbing TV [/COLOR]
 rtmp://204.107.26.252:8086/live/691.high.stream
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:4022/udp/230.0.3.15:12345
-#EXTINF:-1,Cartoonito HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
-#EXTINF:-1,Celestial Classic Movies
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
-#EXTINF:-1,Comedy Central HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1,Canal +1
+http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
+#EXTINF:-1,Canal +2
+http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
+#EXTINF:-1,Canal+ Acción
+http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+#EXTINF:-1,Canal+ Series
+http://cpseries.akamai.nmp.hls.emision.dof6.com/hls/live/201772/channelpc7/index.m3u8
+#EXTINF:-1,Canal +Family
+rtmp://178.217.185.120:1935/live/_definst_/channel10
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
@@ -537,8 +445,6 @@ http://202.75.23.34:1400/live/ch30/01.m3u8
 http://202.75.23.34/live/ch32/01.m3u8
 #EXTINF:-1,[COLOR red]eScapes HD TV [/COLOR]
 rtmp://204.107.26.252:8086/live/341.high.stream
-#EXTINF:-1,FOX Crime HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
 #EXTINF:-1,Food Network
 http://83.139.104.101/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
 #EXTINF:-1,Fight Sports HD 
@@ -547,8 +453,6 @@ http://202.75.23.37:1400/live/ch20/04.m3u8
 http://202.75.23.37:1400/live/ch20/03.m3u8 
 #EXTINF:-1,Fight Sports Low 
 http://202.75.23.37:1400/live/ch20/03.m3u8
-#EXTINF:-1,FX
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1,[COLOR red]HBO Family[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=hbofamily swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/hbofamily.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,HBO PLUS
@@ -565,10 +469,6 @@ http://202.75.23.36:1400/live/ch48/04.m3u8
 http://202.75.23.36:1400/live/ch48/03.m3u8 
 #EXTINF:-1,Lifetime Low 
 http://202.75.23.36:1400/live/ch48/01.m3u8
-#EXTINF:-1,Farm Channel
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=817c9a06488c4ff7bc8d505038a7652a
-#EXTINF:-1,Miracle
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=25713d0629f148adbfedbdf4284afb09
 #EXTINF:-1,Mix Music HD 
 http://202.75.23.49:1400/live/ch1/04.m3u8 
 #EXTINF:-1,Mix Music SD 
@@ -583,28 +483,18 @@ http://93.184.81.71:8097/
 rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,Max HD
 rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/maxhd.html
-#EXTINF:-1,MTV
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
-#EXTINF:-1,Nat Geo People
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
-#EXTINF:-1,Nat Geo Wild
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
 #EXTINF:-1,NatGeo HD 
 http://202.75.23.35:1400/live/ch38/04.m3u8 
 #EXTINF:-1,NatGeo SD 
 http://202.75.23.35:1400/live/ch38/03.m3u8 
 #EXTINF:-1,NatGeo Low 
 http://202.75.23.35:1400/live/ch38/01.m3u8
-#EXTINF:-1,NAT GEO
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
 #EXTINF:-1,Nickelodeon HD 
 http://202.75.23.36:1400/live/ch43/04.m3u8 
 #EXTINF:-1,Nickelodeon SD 
 http://202.75.23.36:1400/live/ch43/03.m3u8 
 #EXTINF:-1,Nickelodeon Low 
 http://202.75.23.36:1400/live/ch43/01.m3u8
-#EXTINF:-1,Nick Jr
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
 #EXTINF:-1,[COLOR blue] Sky Movies Premiere[/COLOR]
 rtmp://195.154.220.115:1935/private/premierx
 #EXTINF:-1,[COLOR blue] Sky Movies Action[/COLOR]
@@ -624,77 +514,13 @@ rtmpe://46.246.124.74:1935/live/ playpath=greats  pageUrl=http://www.hdcast.org/
 #EXTINF:-1,SKY MOVIES SCIFI&HORROR 
 rtmpe://46.246.124.74:1935/live/ playpath=scifi  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
 #EXTINF:-1,SKY MOVIES CRIME&THRILLER 
-rtmpe://46.246.124.74:1935/live/ playpath=thriller  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku 
-#EXTINF:-1,Star World HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
-#EXTINF:-1,Star World HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
-#EXTINF:-1,Sun Channel Laliga HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ce4efc6a833f424f8d6cdcad5573f369
-#EXTINF:-1,SYFY
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+rtmpe://46.246.124.74:1935/live/ playpath=thriller  pageUrl=http://www.hdcast.org/loboicaperucita token=#yw%tt#w@kku
 #EXTINF:-1,SYFY
 rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
-#EXTINF:-1,TGN
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e362c185f33d4e2d8ae8921cbff3ca4e
-#EXTINF:-1,TGN1
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9782e7e7da814652a62cfca2f97f781a
-#EXTINF:-1,Thrill
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=c316ed9333e54442b25077f0bb3cc269
-#EXTINF:-1,Travel channel International
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
-#EXTINF:-1,The Africa Channel
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=eea31a4e48aa4d51a4ce8cdaa1c3a957
-#EXTINF:-1,Universal channel
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
 #EXTINF:-1,[COLOR red]Wisconsin Channel[/COLOR]
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
-#EXTINF:-1,Arena Sport 1
-http://38.104.100.125:9779/9063/index.m3u8
-#EXTINF:-1,Arena Sport 2
-http://38.104.100.125:9779/9064/index.m3u8
-#EXTINF:-1,Arena Sport 3
-http://38.104.100.125:9779/9065/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://38.104.100.125:9779/9066/index.m3u8
-#EXTINF:-1,eurosport
-http://38.104.100.125:9779/9067/index.m3u8
-#EXTINF:-1,eurosport 2
-http://38.104.100.125:9779/9068/index.m3u8
-#EXTINF:-1,nova
-http://38.104.100.125:9779/9021/index.m3u8
-#EXTINF:-1,pink bh
-http://38.104.100.125:9779/9022/index.m3u8
-#EXTINF:-1,pink premium
-http://38.104.100.125:9779/9023/index.m3u8
-#EXTINF:-1,pink reality
-http://38.104.100.125:9779/9024/index.m3u8
-#EXTINF:-1,pink movies 3
-http://38.104.100.125:9779/9025/index.m3u8
-#EXTINF:-1,pink action 2
-http://38.104.100.125:9779/9026/index.m3u8
-#EXTINF:-1,Pink 3
-http://38.104.100.125:9779/9027/index.m3u8
-#EXTINF:-1,TV
-http://38.104.100.125:9779/9028/index.m3u8
-#EXTINF:-1,Atlas TV
-http://38.104.100.125:9779/9029/index.m3u8
-#EXTINF:-1,Arena Sport 1
-http://38.104.100.125:9779/9035/index.m3u8
-#EXTINF:-1,JSC EN
-http://38.104.100.125:9779/9036/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.104.100.125:9779/9037/index.m3u8
-#EXTINF:-1,OSM
-http://38.104.100.125:9779/9039/index.m3u8
-#EXTINF:-1,Animal Planet
-http://38.104.100.125:9779/9055/index.m3u8
-#EXTINF:-1,Nat geo
-http://38.104.100.125:9779/9056/index.m3u8
-#EXTINF:-1,viasat history
-http://38.104.100.125:9779/9057/index.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
