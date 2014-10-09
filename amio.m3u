@@ -205,18 +205,8 @@ http://38.99.146.37:7777/CBC.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92
 http://38.99.146.37:7777/CBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]CBC Drama[/COLOR]
 http://38.99.146.37:7777/CBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,CBC
-rtmp://185.5.222.189/live/CBC
-#EXTINF:-1,CBC 2
-rtmp://185.5.222.189/live/CBC2
 #EXTINF:-1,CBC +2
 rtmp://live-f01.vustream.net/live/livestream1
-#EXTINF:-1,CBC DRAMA
-rtmp://185.5.222.189/live/CBCDrama
-#EXTINF:-1,CBC Extra
-rtmp://185.5.222.189/live/CBCExtra
-#EXTINF:-1,CBC SOFRA
-rtmp://176.58.79.15:1936/live/CBCSofra
 #EXTINF:-1,CARTOON NETWORK ARABIA
 rtmp://176.58.79.15:1936/live/CNArabia
 #EXTINF:-1,[COLOR yellow]Dream1[/COLOR]
@@ -399,6 +389,20 @@ rtmpe://209.95.38.206:1935/live playpath=w-sp.tv-e1 swfUrl=http://www.hdcast.org
 rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-e3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 #EXTINF:-1,ESPN Uk
 rtmp://195.154.216.142:80/liverepeater playpath=167106 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/huraivza token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,PREMIER SPORTS.
+rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
+#EXTINF:-1,FOX NFL.
+rtmpe://46.246.124.3:1935/live/ playpath=snfl swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=snfl&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
+#EXTINF:-1,SKY SPORTS 1
+rtmpe://46.246.124.85/live/skysports1fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:-1,SKY SPORTS 2
+rtmpe://46.246.124.85/live/skysports2fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:-1,SKY SPORTS 3
+rtmpe://46.246.124.85/live/skysports3fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:-1,SKY SPORTS 4
+rtmpe://46.246.124.85/live/skysports4fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:-1,SKY SPORTS F1
+rtmpe://46.246.124.85/live/skysportsf1fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKYSPORTS 1 Uk
 rtmp://195.154.242.124:80/liverepeater playpath=166229 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/huraivza token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,SKYSPORTS 2 Uk
