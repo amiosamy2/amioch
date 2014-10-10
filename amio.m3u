@@ -331,6 +331,30 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+#EXTINF:-1,BEIN SPORT 1
+rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 2
+rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 3
+rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 4
+rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 5
+rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 6
+rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 7
+rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 8
+rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
+#EXTINF:-1,BEIN SPORT 9
+rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 10
+rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 11
+rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 12
+rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 #EXTINF:-1,BT 1
 rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,BT 2
@@ -407,16 +431,6 @@ http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wif
 rtmp://204.107.26.252:8086/live/691.high.stream
 #EXTINF:-1,Cartoon Network
 http://80.77.52.6:4022/udp/230.0.3.15:12345
-#EXTINF:-1,Canal +1
-http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
-#EXTINF:-1,Canal +2
-http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
-#EXTINF:-1,Canal+ Acción
-http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
-#EXTINF:-1,Canal+ Series
-http://cpseries.akamai.nmp.hls.emision.dof6.com/hls/live/201772/channelpc7/index.m3u8
-#EXTINF:-1,Canal +Family
-rtmp://178.217.185.120:1935/live/_definst_/channel10
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
@@ -521,6 +535,98 @@ rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.s
 rtmp://128.104.144.134/WisconsinChannel playpath=mystream swfUrl=http://www.wpt5.org/sites/all/themes/wptomega/js/player-licensed.swf pageUrl=http://superusvoxtv.com/paidversion/secure/pbs.html live=true timeout=10
 #EXTINF:-1,‎Warner TV
 rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner%20Brothers.html
+#EXTINF:-1,Canal +1
+http://dpluspc-i.akamaihd.net/hls/live/201766/channelpc1/05.m3u8
+#EXTINF:-1,Canal +2
+http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
+#EXTINF:-1,Canal+ Acción
+http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+#EXTINF:-1,Canal+ Series
+http://cpseries.akamai.nmp.hls.emision.dof6.com/hls/live/201772/channelpc7/index.m3u8
+#EXTINF:-1,Canal +Family
+rtmp://178.217.185.120:1935/live/_definst_/channel10
+#EXTINF:-1,CANAL +2
+http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
+#EXTINF:-1,CANAL + SERIES
+http://cpseries.akamai.nmp.hls.emision.dof6.com/hls/live/201772/channelpc7/index.m3u8
+#EXTINF:-1,CANAL + LIGA
+http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+#EXTINF:-1,CANAL + LIGA CAMPEONES
+http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
+#EXTINF:-1,CANAL + FUTBOL
+http://cpfutbol.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel2/index.m3u8
+#EXTINF:-1,CANAL + DEPORTES
+http://cpdeportes.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel3/index.m3u8
+#EXTINF:-1,CANAL + GOLF
+http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u8
+#EXTINF:-1,CANAL + TOROS
+http://cptoros.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel10/index.m3u8
+#EXTINF:-1,CALLE 13
+http://calle13.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel17/index.m3u8
+#EXTINF:-1,TNT
+http://tnt.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel15/index.m3u8
+#EXTINF:-1,FOX
+http://fox.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel16/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://paramount.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel14/index.m3u8
+#EXTINF:-1,AXN
+http://axn.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel6/index.m3u8
+#EXTINF:-1,AXN WHITE
+http://axnwhite.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel22/06.m3u8
+#EXTINF:-1,SYFY
+http://syfy.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel23/index.m3u8
+#EXTINF:-1,HISTORIA
+http://historia.level3.nmp.hls.emision.dof6.com/sogecable/channel37/index.m3u8
+#EXTINF:-1,ODISEA
+http://odisea.level3.nmp.hls.emision.dof6.com/sogecable/channel40/index.m3u
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://natgeo.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel18/05.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://natgeowild.level3.nmp.hls.emision.dof6.com/sogecable/channel38/index.m3u8
+#EXTINF:-1,CANAL COCINA
+http://cocina.level3.nmp.hls.emision.dof6.com/sogecable/channel43/index.m3u8
+#EXTINF:-1,CANAL +2
+http://cp2.level3.nmp.hls.emision.dof6.com/sogecable/channel33/index.m3u8
+#EXTINF:-1,CANAL + SERIES
+http://cpseries.akamai.nmp.hls.emision.dof6.com/hls/live/201772/channelpc7/index.m3u8
+#EXTINF:-1,CANAL + LIGA
+http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
+#EXTINF:-1,CANAL + LIGA CAMPEONES
+http://cpligacamp.nmp.hls.emision.dof6.com/hls/live/201768/channelpc3/index.m3u8
+#EXTINF:-1,CANAL + FUTBOL
+http://cpfutbol.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel2/index.m3u8
+#EXTINF:-1,CANAL + DEPORTES
+http://cpdeportes.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel3/index.m3u8
+#EXTINF:-1,CANAL + GOLF
+http://cpgolf.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel4/index.m3u8
+#EXTINF:-1,CANAL + TOROS
+http://cptoros.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel10/index.m3u8
+#EXTINF:-1,CALLE 13
+http://calle13.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel17/index.m3u8
+#EXTINF:-1,TNT
+http://tnt.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel15/index.m3u8
+#EXTINF:-1,FOX
+http://fox.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel16/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://paramount.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel14/index.m3u8
+#EXTINF:-1,AXN
+http://axn.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel6/index.m3u8
+#EXTINF:-1,AXN WHITE
+http://axnwhite.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel22/06.m3u8
+#EXTINF:-1,SYFY
+http://syfy.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel23/index.m3u8
+#EXTINF:-1,HISTORIA
+http://historia.level3.nmp.hls.emision.dof6.com/sogecable/channel37/index.m3u8
+#EXTINF:-1,ODISEA
+http://odisea.level3.nmp.hls.emision.dof6.com/sogecable/channel40/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://natgeo.level3.nmp.hls.emision.dof6.com/apple/sogecable/channel18/05.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://natgeowild.level3.nmp.hls.emision.dof6.com/sogecable/channel38/index.m3u8
+#EXTINF:-1,CANAL COCINA
+http://cocina.level3.nmp.hls.emision.dof6.com/sogecable/channel43/index.m3u8
+#EXTINF:-1,PLUS XTRA
+http://cpxtra.akamai.nmp.hls.emision.dof6.com/hls/live/201771/channelpc6/index.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
