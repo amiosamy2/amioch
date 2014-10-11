@@ -169,20 +169,14 @@ rtmp://livestreaming4.itworkscdn.com/masira playpath=livetv1 swfUrl=http://www.a
 http://38.99.146.37:7777/AlMasriyah.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Egypt 2[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/ app=ERTUCH2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/ertu/player.swf pageUrl=http://onlinehorizons.net/livestreaming/ertu/indexch2.html live=true timeout=15
-#EXTINF:-1,[COLOR yellow]Egypt 2[/COLOR]
-http://38.99.146.37:7777/AlThanya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Aljazeera Documentary TV[/COLOR]
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/stb.m3u8
 #EXTINF:-1,[COLOR yellow]Al Jazeera Docu[/COLOR]
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_doc_high swfUrl=http://arabichannels.com/player/player.swf?274354545150&arabichannels.com&copyright=2013&provider=rtmp&streamer=rtmp://arabichannels.com pageUrl=http://arabichannels.com/aljazeera_doc.php live=1 timeout=15 swfVfy=1 conn=S:OK
-#EXTINF:-1,[COLOR yellow]Al Jazeera Docu[/COLOR]
-http://38.99.146.37:7777/AlJazeeraDocument_HD/AlJazeeraDocument_High.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,AlQahera W Elnas 2
 rtmp://188.247.93.26/live/alkahra.stream_360p
 #EXTINF:-1,Abu Dhabi
 rtmp://185.5.222.189/live/ABUDHABI1
-#EXTINF:-1,[COLOR yellow]Al Tahrir[/COLOR]
-http://38.99.146.37:7777/Tahrir.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Al Nahar[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_tvprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/Alnahar/
 #EXTINF:-1,[COLOR yellow]Al Nahar +2[/COLOR]
@@ -191,52 +185,34 @@ rtmp://188.247.93.26/live/alnhar2.stream_360p
 rtmp://50.7.180.18/nahar_tv playpath=nahar_youmprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahar2/
 #EXTINF:-1,[COLOR yellow]Al Nahar Drama[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_dramaprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahardrama/
-#EXTINF:-1,[COLOR yellow]Alhayat Cinema[/COLOR]
-http://38.99.146.37:7777/AlHayatCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Alhayat Drama[/COLOR]
-http://38.99.146.37:7777/AlHayatMousalsalat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Cairo Cinema[/COLOR]
-http://38.99.146.37:7777/CairoCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Cairo Drama[/COLOR]
-http://38.99.146.37:7777/CairoDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]CBC[/COLOR]
-http://38.99.146.37:7777/CBC.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]CBC2[/COLOR]
-http://38.99.146.37:7777/CBC2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]CBC Drama[/COLOR]
-http://38.99.146.37:7777/CBCDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,CBC +2
+#EXTINF:0, CBC Extra
+rtmp://185.5.222.189/live/CBCExtra
+#EXTINF:0, CBC
+rtmp://185.5.222.189/live/CBC
+#EXTINF:0, CBC 2
+rtmp://185.5.222.189/live/CBC2
+#EXTINF:0, CBC Drama
+rtmp://185.5.222.189/live/CBCDrama
+#EXTINF:0, CBC +2
 rtmp://live-f01.vustream.net/live/livestream1
+#EXTINF:0, CBC Sofra
+rtmp://185.5.222.189:1935/live/CBCSofra
 #EXTINF:-1,CARTOON NETWORK ARABIA
 rtmp://176.58.79.15:1936/live/CNArabia
-#EXTINF:-1,[COLOR yellow]Dream1[/COLOR]
-http://38.99.146.37:7777/Dream1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
-http://38.99.146.37:7777/Dream2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
 http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-#EXTINF:-1,Dubai
-http://38.99.146.37:7777/DubaiEurope.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]FOX[/COLOR]
-http://38.99.146.37:7777/Fox.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]FOX Movies[/COLOR]
-http://38.99.146.37:7777/FoxMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 rtmp://live-f01.vustream.net/live/livestream3
-#EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
-http://38.99.146.37:7777/Fatafeat.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
 #EXTINF:-1,[COLOR yellow]Mehwar Tv 2[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/index2.html
 #EXTINF:-1,[COLOR yellow]Mehwar Drama[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/indexD.html
-#EXTINF:-1,[COLOR yellow]MBC 1[/COLOR]
-http://38.99.146.37:7777/MBC1.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]MBC 1[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/mbc1
 #EXTINF:-1,[COLOR yellow]MBC 2[/COLOR]
@@ -251,8 +227,6 @@ rtmp://185.5.222.189/live?~achams.com:1935@192.185.11.131/MBCMasr
 rtmp://185.5.222.189/live?~achams.com:1935@192.185.11.131/MBCDrama
 #EXTINF:-1,[COLOR yellow]MBC Action[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/MBCAction
-#EXTINF:-1,[COLOR yellow]MBC Max[/COLOR]
-http://38.99.146.37:7777/MBCMax.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,MBC 1
 rtmp://185.5.222.189/live/MBC1
 #EXTINF:-1,MBC 2
@@ -283,44 +257,12 @@ rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jw
 rtmp://38.96.148.206/Melody/MDramaWeb
 #EXTINF:-1,[COLOR yellow]Melody Arabia[/COLOR]
 rtmp://38.96.148.206/Melody/MArabiaWeb
-#EXTINF:-1,[COLOR yellow]Moga Comedy[/COLOR]
-http://38.99.146.37:7777/MogaComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Nile Cinema[/COLOR]
-http://38.99.146.37:7777/NileCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Nile Comedy[/COLOR]
-http://38.99.146.37:7777/NileComedy.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Nile Drama 2[/COLOR]
-http://38.99.146.37:7777/NileDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Nile Drama[/COLOR]
-http://38.99.146.37:7777/NileDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Panorama Movies[/COLOR]
-http://38.99.146.37:7777/PanoramaFilm.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Panorama Drama[/COLOR]
-http://38.99.146.37:7777/PanoramaDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Panorama Drama2[/COLOR]
-http://38.99.146.37:7777/PanoramaDrama2.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
-http://38.99.146.37:7777/ONTV.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,[COLOR yellow]Oscar Drama[/COLOR]
-http://38.99.146.37:7777/OscarDrama.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/RotanaCinema
-#EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
-http://38.99.146.37:7777/RotanaCinema/RotanaCinema_Low.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
-http://38.99.146.37:7777/RotanaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Rotana Classic[/COLOR]
-http://38.99.146.37:7777/RotanaZaman.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Rotana Masryia[/COLOR]
-http://38.99.146.37:7777/RotanaMasriya.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Sama Cinema[/COLOR]
-http://38.99.146.37:7777/SamaCinema.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,[COLOR yellow]Top Movies[/COLOR]
-http://38.99.146.37:7777/TopMovies.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 1
