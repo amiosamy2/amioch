@@ -89,10 +89,10 @@ http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
 #EXTINF:-1,[COLOR blue]Al Arabiya News[/COLOR]
 http://livestream2.alarabiya.tv/files/mainarabia.m3u8
+#EXTINF:-1,[COLOR blue]Aljazeera Arabic HD[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
-http://38.99.146.37:7777/AlJazeera.m3u8?session=bdc4847b38fe5ede816551e38b136d11b11d92e4505e5a6a7adfe8e9a6301e82a299017ce29bf1aa&hlsid=HLS_2487419
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
@@ -129,8 +129,6 @@ http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
 #EXTINF:-1,[COLOR blue]CNN[/COLOR]
 rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/breaking/
-#EXTINF:-1,CNN
-http://80.77.52.6:4022/udp/230.0.5.13:12345
 #EXTINF:-1,[COLOR blue]DW Arabic[/COLOR]
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,[COLOR blue]EuroNews AR[/COLOR]
@@ -263,6 +261,78 @@ http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/RotanaCinema
+#EXTINF:-1,MASR
+http://82.135.224.134:80/udp/239.100.2.2:1234
+#EXTINF:-1,MASR 2
+http://82.135.224.134:80/udp/239.100.2.3:1234
+#EXTINF:-1,Al Hayat Cinema
+http://82.135.224.134:80/udp/239.100.2.4:1234
+#EXTINF:-1,Nile Family
+http://82.135.224.134:80/udp/239.100.2.12:1234
+#EXTINF:-1,Nile TV
+http://82.135.224.134:80/udp/239.100.2.13:1234
+#EXTINF:-1,nile comedy
+http://82.135.224.134:80/udp/239.100.2.14:1234
+#EXTINF:-1,nile life
+http://82.135.224.134:80/udp/239.100.2.15:1234
+#EXTINF:-1,nile drama
+http://82.135.224.134:80/udp/239.100.2.16:1234
+#EXTINF:-1,nile sport
+http://82.135.224.134:80/udp/239.100.2.17:1234
+#EXTINF:-1,nile culture
+http://82.135.224.134:80/udp/239.100.2.18:1234
+#EXTINF:-1,nile cinema
+http://82.135.224.134:80/udp/239.100.2.19:1234
+#EXTINF:-1,semsem
+http://82.135.224.134:80/udp/239.100.2.20:1234
+#EXTINF:-1,Fox
+http://82.135.224.134:80/udp/239.100.2.25:1234
+#EXTINF:-1,al qahira
+http://82.135.224.134:80/udp/239.100.2.27:1234
+#EXTINF:-1,Al mehwar TV
+http://82.135.224.134:80/udp/239.100.2.33:1234
+#EXTINF:-1,abu dhabi tv
+http://82.135.224.134:80/udp/239.100.2.34:1234
+#EXTINF:-1,Alhayat 2 TV
+http://82.135.224.134:80/udp/239.100.2.36:1234
+#EXTINF:-1,classic
+http://82.135.224.134:80/udp/239.100.2.40:1234
+#EXTINF:-1,Misra
+http://82.135.224.134:80/udp/239.100.2.41:1234
+#EXTINF:-1,Cinema
+http://82.135.224.134:80/udp/239.100.2.42:1234
+#EXTINF:-1,Fox Movies
+http://82.135.224.134:80/udp/239.100.2.43:1234
+#EXTINF:-1,cinema 2
+http://82.135.224.134:80/udp/239.100.2.44:1234
+#EXTINF:-1,al hayat
+http://82.135.224.134:80/udp/239.100.2.46:1234
+#EXTINF:-1,PANORAMA DRAMA TV
+http://82.135.224.134:80/udp/239.100.2.51:1234
+#EXTINF:-1,PANORAMA DRAMA 2 TV
+http://82.135.224.134:80/udp/239.100.2.52:1234
+#EXTINF:-1,PANORAMA COMEDY TV
+http://82.135.224.134:80/udp/239.100.2.53:1234
+#EXTINF:-1,PANORAMA FILM TV
+http://82.135.224.134:80/udp/239.100.2.56:1234
+#EXTINF:-1,channel
+http://82.135.224.134:80/udp/239.100.2.57:1234
+#EXTINF:-1,CBC
+http://82.135.224.134:80/udp/239.100.2.58:1234
+#EXTINF:-1,CBC EXTRA
+http://82.135.224.134:80/udp/239.100.2.59:1234
+#EXTINF:-1,cbc drama
+http://82.135.224.134:80/udp/239.100.2.60:1234
+#EXTINF:-1,Al nahar
+http://82.135.224.134:80/udp/239.100.2.61:1234
+#EXTINF:-1,Nat Geo
+http://82.135.224.134:80/udp/239.100.2.65:1234
+#EXTINF:-1,drama mix
+http://82.135.224.134:80/udp/239.100.2.67:1234
+#EXTINF:-1,Abu dhabi
+http://82.135.224.134:80/udp/239.100.2.68:1234
+#EXTINF:-1,d2
+http://82.135.224.134:80/udp/239.100.2.69:1234
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 1
@@ -273,30 +343,18 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC SPORTS:PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,BEIN SPORT 1
-rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 2
-rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 3
-rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 4
-rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 5
-rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 6
-rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 7
-rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 8
-rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/ token=#atd%#$ZH
-#EXTINF:-1,BEIN SPORT 9
-rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 10
-rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 11
-rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 12
-rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+#EXTINF:-1,BT 1
+http://server.ppvmania.tv:1935/live/channel1v/playlist.m3u8
+#EXTINF:-1,Sky Sports 5
+http://server.ppvmania.tv:1935/live/channel2v/playlist.m3u8
+#EXTINF:-1,SN 1
+http://server.ppvmania.tv:1935/live/channel3v/playlist.m3u8
+#EXTINF:-1,Sky Sports 1
+http://server.ppvmania.tv:1935/live/channel4v/playlist.m3u8
+#EXTINF:-1,SN 2
+http://server.ppvmania.tv:1935/live/channel6v/playlist.m3u8
+#EXTINF:-1,BT 1
+http://server.ppvmania.tv:1935/live/channel8v/playlist.m3u8
 #EXTINF:-1,BT 1
 rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
 #EXTINF:-1,BT 2
@@ -371,8 +429,6 @@ http://202.75.23.36:1400/live/ch46/01.m3u8
 http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,[COLOR red]Clubbing TV [/COLOR]
 rtmp://204.107.26.252:8086/live/691.high.stream
-#EXTINF:-1,Cartoon Network
-http://80.77.52.6:4022/udp/230.0.3.15:12345
 #EXTINF:-1,Discovery HD 
 http://202.75.23.34:1400/live/ch29/04.m3u8 
 #EXTINF:-1,Discovery SD 
