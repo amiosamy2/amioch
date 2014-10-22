@@ -261,78 +261,6 @@ http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/RotanaCinema
-#EXTINF:-1,MASR
-http://82.135.224.134:80/udp/239.100.2.2:1234
-#EXTINF:-1,MASR 2
-http://82.135.224.134:80/udp/239.100.2.3:1234
-#EXTINF:-1,Al Hayat Cinema
-http://82.135.224.134:80/udp/239.100.2.4:1234
-#EXTINF:-1,Nile Family
-http://82.135.224.134:80/udp/239.100.2.12:1234
-#EXTINF:-1,Nile TV
-http://82.135.224.134:80/udp/239.100.2.13:1234
-#EXTINF:-1,nile comedy
-http://82.135.224.134:80/udp/239.100.2.14:1234
-#EXTINF:-1,nile life
-http://82.135.224.134:80/udp/239.100.2.15:1234
-#EXTINF:-1,nile drama
-http://82.135.224.134:80/udp/239.100.2.16:1234
-#EXTINF:-1,nile sport
-http://82.135.224.134:80/udp/239.100.2.17:1234
-#EXTINF:-1,nile culture
-http://82.135.224.134:80/udp/239.100.2.18:1234
-#EXTINF:-1,nile cinema
-http://82.135.224.134:80/udp/239.100.2.19:1234
-#EXTINF:-1,semsem
-http://82.135.224.134:80/udp/239.100.2.20:1234
-#EXTINF:-1,Fox
-http://82.135.224.134:80/udp/239.100.2.25:1234
-#EXTINF:-1,al qahira
-http://82.135.224.134:80/udp/239.100.2.27:1234
-#EXTINF:-1,Al mehwar TV
-http://82.135.224.134:80/udp/239.100.2.33:1234
-#EXTINF:-1,abu dhabi tv
-http://82.135.224.134:80/udp/239.100.2.34:1234
-#EXTINF:-1,Alhayat 2 TV
-http://82.135.224.134:80/udp/239.100.2.36:1234
-#EXTINF:-1,classic
-http://82.135.224.134:80/udp/239.100.2.40:1234
-#EXTINF:-1,Misra
-http://82.135.224.134:80/udp/239.100.2.41:1234
-#EXTINF:-1,Cinema
-http://82.135.224.134:80/udp/239.100.2.42:1234
-#EXTINF:-1,Fox Movies
-http://82.135.224.134:80/udp/239.100.2.43:1234
-#EXTINF:-1,cinema 2
-http://82.135.224.134:80/udp/239.100.2.44:1234
-#EXTINF:-1,al hayat
-http://82.135.224.134:80/udp/239.100.2.46:1234
-#EXTINF:-1,PANORAMA DRAMA TV
-http://82.135.224.134:80/udp/239.100.2.51:1234
-#EXTINF:-1,PANORAMA DRAMA 2 TV
-http://82.135.224.134:80/udp/239.100.2.52:1234
-#EXTINF:-1,PANORAMA COMEDY TV
-http://82.135.224.134:80/udp/239.100.2.53:1234
-#EXTINF:-1,PANORAMA FILM TV
-http://82.135.224.134:80/udp/239.100.2.56:1234
-#EXTINF:-1,channel
-http://82.135.224.134:80/udp/239.100.2.57:1234
-#EXTINF:-1,CBC
-http://82.135.224.134:80/udp/239.100.2.58:1234
-#EXTINF:-1,CBC EXTRA
-http://82.135.224.134:80/udp/239.100.2.59:1234
-#EXTINF:-1,cbc drama
-http://82.135.224.134:80/udp/239.100.2.60:1234
-#EXTINF:-1,Al nahar
-http://82.135.224.134:80/udp/239.100.2.61:1234
-#EXTINF:-1,Nat Geo
-http://82.135.224.134:80/udp/239.100.2.65:1234
-#EXTINF:-1,drama mix
-http://82.135.224.134:80/udp/239.100.2.67:1234
-#EXTINF:-1,Abu dhabi
-http://82.135.224.134:80/udp/239.100.2.68:1234
-#EXTINF:-1,d2
-http://82.135.224.134:80/udp/239.100.2.69:1234
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,PRO SPORTS 1
@@ -343,80 +271,14 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,Bein Sports 2HD
-rtmp://play.bein-tv.com/live/bein2.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 3HD
-rtmp://play.bein-tv.com/live/bein3.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 4HD
-rtmp://play.bein-tv.com/live/bein4.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 5HD
-rtmp://play.bein-tv.com/live/bein5.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 6HD
-rtmp://play.bein-tv.com/live/bein6.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 7HD
-rtmp://play.bein-tv.com/live/bein7.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 8HD
-rtmp://play.bein-tv.com/live/bein8.www.Bein-tv.com
-#EXTINF:-1,Bein Sports 9HD
-rtmp://play.bein-tv.com/live/bein9.www.Bein-tv.com
-#EXTINF:-1,BEIN SPORT 1
-rtmp://31.220.0.194:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 2
-rtmp://31.220.0.194:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 3
-rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 4
-rtmp://31.220.0.194:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 5
-rtmp://31.220.0.194:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 6
-rtmp://31.220.0.194:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 7
-rtmp://31.220.0.194:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 8
-rtmp://62.210.78.125:443/liverepeater playpath=166648 pageUrl=http://biggestplayer.me/loboicaperucita token=#atd%#$ZH
-#EXTINF:-1,BEIN SPORT 9
-rtmp://31.220.0.194:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 10
-rtmp://31.220.0.194:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 11
-rtmp://31.220.0.194:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 12
-rtmp://31.220.0.194:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 1 FR
-rtmp://195.154.240.202:80/liverepeater playpath=166510 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,BEIN SPORT 2 FR
-rtmp://195.154.240.202:80/liverepeater playpath=166511 pageUrl=http://goodcast.me/ token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,BEIN Ñ SPORT
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/loboicaperucita
-#EXTINF:-1,BT 1
-http://server.ppvmania.tv:1935/live/channel1v/playlist.m3u8
-#EXTINF:-1,Sky Sports 5
-http://server.ppvmania.tv:1935/live/channel2v/playlist.m3u8
-#EXTINF:-1,SN 1
-http://server.ppvmania.tv:1935/live/channel3v/playlist.m3u8
-#EXTINF:-1,Sky Sports 1
-http://server.ppvmania.tv:1935/live/channel4v/playlist.m3u8
-#EXTINF:-1,SN 2
-http://server.ppvmania.tv:1935/live/channel6v/playlist.m3u8
-#EXTINF:-1,BT 1
-http://server.ppvmania.tv:1935/live/channel8v/playlist.m3u8
-#EXTINF:-1,BT 1
-rtmpe://31.220.0.198/live playpath=bt1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
-#EXTINF:-1,BT 2
-rtmpe://31.220.0.198/live playpath=bt2 pageUrl=http://www.pvtserverz.com/
-#EXTINF:-1,ESPN UK
-rtmpe://31.220.0.198/live playpath=espnuk pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,CANAL+ LIGA
-http://cpliga.nmp.hls.emision.dof6.com/hls/live/201767/channelpc2/index.m3u8
-#EXTINF:-1,CANAL+ LIGA
-http://dpluspc-i.akamaihd.net/hls/live/201767/channelpc2/index.m3u8
 #EXTINF:-1,ESPN Uk
 rtmp://195.154.216.142:80/liverepeater playpath=167106 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/huraivza token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,PREMIER SPORTS
@@ -433,14 +295,6 @@ rtmpe://46.246.124.85/live/skysports3fifaembed pageUrl=http://www.dcast.tv/
 rtmpe://46.246.124.85/live/skysports4fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmpe://46.246.124.85/live/skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1,SKYSPORTS 1 Uk
-rtmp://195.154.242.124:80/liverepeater playpath=166229 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/huraivza token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,SKYSPORTS 2 Uk
-rtmpe://209.95.38.196:1935/live playpath=wsps3 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
-#EXTINF:-1,SKYSPORTS 3 Uk
-rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-s4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
-#EXTINF:-1,SKYSPORTS 4 Uk
-rtmpe://209.95.38.214:1935/live playpath=w-sp.tv-s5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/huraivza token=#yw%tt#w@kku
 #EXTINF:-1, Sky Sports 1
 rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 2
@@ -451,10 +305,6 @@ rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/
 rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky4&vw=600&vh=430 –live
 #EXTINF:-1, Sky Sports 5
 rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
-#EXTINF:-1,Sky Sports 5
-http://178.162.192.214:2006
-#EXTINF:-1,Sky Bundesliga 4
-rtmp://178.217.185.120:1935/live/_definst_/channel12
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
