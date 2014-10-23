@@ -273,6 +273,24 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
 #EXTINF:-1,BEIN Ñ SPORT
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/loboicaperucita
+#EXTINF:-1, Bein Sports 1HD
+rtmp://play.bein-tv.com/live/bein1.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 2HD
+rtmp://play.bein-tv.com/live/bein2.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 3HD
+rtmp://play.bein-tv.com/live/bein3.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 4HD
+rtmp://play.bein-tv.com/live/bein4.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 5HD
+rtmp://play.bein-tv.com/live/bein5.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 6HD
+rtmp://play.bein-tv.com/live/bein6.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 7HD
+rtmp://play.bein-tv.com/live/bein7.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 8HD
+rtmp://play.bein-tv.com/live/bein8.www.Bein-tv.com
+#EXTINF:-1,Bein Sports 9HD
+rtmp://play.bein-tv.com/live/bein9.www.Bein-tv.com
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
@@ -285,6 +303,14 @@ rtmp://195.154.216.142:80/liverepeater playpath=167106 swfUrl=http://cdn.goodcas
 rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
 #EXTINF:-1,FOX NFL
 rtmpe://46.246.124.3:1935/live/ playpath=snfl swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=snfl&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
+#EXTINF:-1,SKY sport 1
+http://62.209.36.244:8081/udp/239.100.41.1:1234
+#EXTINF:-1,SKY sport 2
+http://62.209.36.244:8081/udp/239.100.42.1:1234
+#EXTINF:-1,SKY bundesliga 1
+http://62.209.36.244:8081/udp/239.100.40.1:1234
+#EXTINF:-1,SKY sport 1 HD
+http://62.209.36.244:8081/udp/239.100.70.1:1234
 #EXTINF:-1,SKY SPORTS 1
 rtmpe://46.246.124.85/live/skysports1fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS 2
