@@ -93,6 +93,8 @@ http://livestream2.alarabiya.tv/files/mainarabia.m3u8
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
+#EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=//aljazeera_ara_high?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
@@ -273,6 +275,26 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
 #EXTINF:-1,BEIN Ñ SPORT
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/loboicaperucita
+#EXTINF:-1,BEIN HD1
+rtmp://play.bein-tv.com/live/ playpath=bein1.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD2
+rtmp://play.bein-tv.com/live/ playpath=bein2.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD3
+rtmp://play.bein-tv.com/live/ playpath=bein3.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD4
+rtmp://play.bein-tv.com/live/ playpath=bein4.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD5
+rtmp://play.bein-tv.com/live/ playpath=bein5.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD6
+rtmp://play.bein-tv.com/live/ playpath=bein6.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD7
+rtmp://play.bein-tv.com/live/ playpath=bein7.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD8
+rtmp://play.bein-tv.com/live/ playpath=bein8.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD9
+rtmp://play.bein-tv.com/live/ playpath=bein9.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
+#EXTINF:-1,BEIN HD10
+rtmp://play.bein-tv.com/live/ playpath=bein10.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
 #EXTINF:-1, Bein Sports 1HD
 rtmp://play.bein-tv.com/live/bein1.www.Bein-tv.com
 #EXTINF:-1,Bein Sports 2HD
@@ -303,6 +325,24 @@ rtmp://195.154.216.142:80/liverepeater playpath=167106 swfUrl=http://cdn.goodcas
 rtmpe://46.246.124.23:1935/live/ playpath=spremsp swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=spremsp&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
 #EXTINF:-1,FOX NFL
 rtmpe://46.246.124.3:1935/live/ playpath=snfl swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/embedlive.php?u=snfl&vw=854&vh=480&domain=www.streamhd.eu token=#yw%tt#w@kku –live
+#EXTINF:-1,SKY:SKY SPORTS NEWS
+rtmpe://31.220.0.12/live/skyspoonews pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS 1
+rtmpe://31.220.0.12/live/skyspoo1 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS 2
+rtmpe://31.220.0.12/live/skyspoo2 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS 3
+rtmpe://31.220.0.12/live/skyspoo3 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS 4
+rtmpe://31.220.0.12/live/skio4 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS 5
+rtmpe://31.220.0.12/live/skyspooo5 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SKY:SKY SPORTS  F1
+rtmpe://31.220.0.12/live/f1f1 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SPORT:BT SPORT 1
+rtmpe://31.220.0.12/live/going8 pageUrl=http://www.dcast.tv/loboi
+#EXTINF:-1,SPORT:BT SPORT 2
+rtmpe://31.220.0.12/live/bt20225 pageUrl=http://www.dcast.tv/loboi
 #EXTINF:-1,SKY sport 1
 http://62.209.36.244:8081/udp/239.100.41.1:1234
 #EXTINF:-1,SKY sport 2
