@@ -185,17 +185,17 @@ rtmp://188.247.93.26/live/alnhar2.stream_360p
 rtmp://50.7.180.18/nahar_tv playpath=nahar_youmprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahar2/
 #EXTINF:-1,[COLOR yellow]Al Nahar Drama[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_dramaprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf  pageUrl=http://demos.streamtrix.com/alnahardrama/
-#EXTINF:0, CBC Extra
+#EXTINF:-1, CBC Extra
 rtmp://185.5.222.189/live/CBCExtra
-#EXTINF:0, CBC
+#EXTINF:-1, CBC
 rtmp://185.5.222.189/live/CBC
-#EXTINF:0, CBC 2
+#EXTINF:-1, CBC 2
 rtmp://185.5.222.189/live/CBC2
-#EXTINF:0, CBC Drama
+#EXTINF:-1, CBC Drama
 rtmp://185.5.222.189/live/CBCDrama
-#EXTINF:0, CBC +2
+#EXTINF:-1, CBC +2
 rtmp://live-f01.vustream.net/live/livestream1
-#EXTINF:0, CBC Sofra
+#EXTINF:-1, CBC Sofra
 rtmp://185.5.222.189:1935/live/CBCSofra
 #EXTINF:-1,CARTOON NETWORK ARABIA
 rtmp://176.58.79.15:1936/live/CNArabia
@@ -275,74 +275,36 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
 #EXTINF:-1,BEIN Ñ SPORT
 rtmp://137.63.71.234/edge/beinhd/beinhd playpath=beinhd pageUrl=http://www.boxlivetv.net/loboicaperucita
-#EXTINF:-1,BEIN SPORT 1
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=1b342 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 2
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=2b878 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 3
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=3b426 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 4
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=4b206 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 5
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=5b981 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 6
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=6b660 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 7
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=7b842 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 8
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=8b916 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 9
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=9b272 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 10
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=10b510 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 11
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=11b761 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 12
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=12b994 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 13
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=13b361 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 14
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=14b898 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN SPORT 15
-rtmpe://l.xuscacamusca.se:1935/r/iso-dzsat playpath=15b378 swfUrl=http://www.chaher-iso.com/player.swf live=1 pageUrl=http://xuscacamusca.se/
-#EXTINF:-1,BEIN HD1
-rtmp://play.bein-tv.com/live/ playpath=bein1.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD2
-rtmp://play.bein-tv.com/live/ playpath=bein2.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD3
-rtmp://play.bein-tv.com/live/ playpath=bein3.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD4
-rtmp://play.bein-tv.com/live/ playpath=bein4.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD5
-rtmp://play.bein-tv.com/live/ playpath=bein5.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD6
-rtmp://play.bein-tv.com/live/ playpath=bein6.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD7
-rtmp://play.bein-tv.com/live/ playpath=bein7.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD8
-rtmp://play.bein-tv.com/live/ playpath=bein8.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD9
-rtmp://play.bein-tv.com/live/ playpath=bein9.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,BEIN HD10
-rtmp://play.bein-tv.com/live/ playpath=bein10.www.Bein-tv.com swfUrl=http://www.bein-tv.com/tv_/bein-ch/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://www.bein-tv.com/tv_/bein-ch/bein1.php
-#EXTINF:-1,beIN Sport 1 HD
-rtmp://play1.bein-tv.com/live//bein1.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 2 HD
-rtmp://play1.bein-tv.com/live//bein2.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 3 HD
-rtmp://play1.bein-tv.com/live//bein3.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 4 HD
-rtmp://play1.bein-tv.com/live//bein4.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 5 HD
-rtmp://play1.bein-tv.com/live//bein5.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 6 HD
-rtmp://play1.bein-tv.com/live//bein6.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 7 HD
-rtmp://play1.bein-tv.com/live//bein7.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 8 HD
-rtmp://play1.bein-tv.com/live//bein8.www.Bein-tv.com
-#EXTINF:-1,beIN Sport 9 HD
-rtmp://play1.bein-tv.com/live//bein9.www.Bein-tv.com
+#EXTINF:-1,Bein HD 1
+http://193.111.140.249/pal/pal2/62.ch
+#EXTINF:-1,Bein HD 2
+http://193.111.140.249/pal/pal2/63.ch
+#EXTINF:-1,Bein HD 3
+http://193.111.140.249/pal/pal2/64.ch
+#EXTINF:-1,Bein HD 4
+http://193.111.140.249/pal/pal2/65.ch
+#EXTINF:-1,Bein HD 5
+http://193.111.140.249/pal/pal2/66.ch
+#EXTINF:-1,Bein HD 6
+http://193.111.140.249/pal/pal2/67.ch
+#EXTINF:-1,Bein HD 7
+http://193.111.140.249/pal/pal2/68.ch
+#EXTINF:-1,Bein HD 8
+http://193.111.140.249/pal/pal2/69.ch
+#EXTINF:-1,Bein HD 9
+http://193.111.140.249/pal/pal2/70.ch
+#EXTINF:-1,Bein HD 10
+http://193.111.140.249/pal/pal2/71.ch
+#EXTINF:-1,Bein HD 11
+http://193.111.140.249/pal/pal2/72.ch
+#EXTINF:-1,Bein HD 12
+http://193.111.140.249/pal/pal2/73.ch
+#EXTINF:-1,Bein HD 13
+http://193.111.140.249/pal/pal2/74.ch
+#EXTINF:-1,Bein HD 14
+http://193.111.140.249/pal/pal2/75.ch
+#EXTINF:-1,Bein HD 15
+http://193.111.140.249/pal/pal2/76.ch
 #EXTINF:-1,[COLOR blue]ESPN[/COLOR]
 rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
@@ -391,16 +353,20 @@ rtmpe://46.246.124.85/live/skysports3fifaembed pageUrl=http://www.dcast.tv/
 rtmpe://46.246.124.85/live/skysports4fifaembed pageUrl=http://www.dcast.tv/
 #EXTINF:-1,SKY SPORTS F1
 rtmpe://46.246.124.85/live/skysportsf1fifaembed pageUrl=http://www.dcast.tv/
-#EXTINF:-1, Sky Sports 1
-rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky1&vw=600&vh=430 –live
-#EXTINF:-1, Sky Sports 2
-rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky2&vw=600&vh=430 –live
-#EXTINF:-1, Sky Sports 3
-rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky3&vw=600&vh=430 –live
-#EXTINF:-1, Sky Sports 4
-rtmpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky4&vw=600&vh=430 –live
-#EXTINF:-1,Sky Sports 5
-rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/embed.php?pType=1&u=sky5&vw=600&vh=430 –live
+#EXTINF:-1,SKY SKY SPORT NEWS
+rtmpe://31.220.0.199/live playpath=news swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORT 1
+rtmpe://31.220.0.204/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORT 2
+rtmpe://31.220.0.199/live playpath=2sky swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORT 3
+rtmpe://31.220.0.199/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORT 4
+rtmpe://31.220.0.199/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORTS 5
+rtmpe://31.220.0.199/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,SKY SKY SPORT F1
+rtmpe://31.220.0.204/live playpath=skyf11 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
 #EXTINF:-1,Sky Sport24
 rtmp://178.217.185.120:1935/live/_definst_/channel11
 #EXTINF:-1,Eurosport
