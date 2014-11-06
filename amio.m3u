@@ -95,8 +95,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=//aljazeera_ara_high?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=
-#EXTINF:-1,aljazeera
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/48.ch
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
@@ -199,8 +197,6 @@ rtmp://185.5.222.189/live/CBCDrama
 rtmp://live-f01.vustream.net/live/livestream1
 #EXTINF:-1, CBC Sofra
 rtmp://185.5.222.189:1935/live/CBCSofra
-#EXTINF:-1,CBC
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/75.ch
 #EXTINF:-1,CARTOON NETWORK ARABIA
 rtmp://176.58.79.15:1936/live/CNArabia
 #EXTINF:-1,[COLOR yellow]Dream2[/COLOR]
@@ -209,8 +205,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18117128/streams/live/playlist.m
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
-#EXTINF:-1,Fatafeat
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/95.ch
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 rtmp://live-f01.vustream.net/live/livestream3
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
@@ -233,12 +227,6 @@ rtmp://185.5.222.189/live?~achams.com:1935@192.185.11.131/MBCMasr
 rtmp://185.5.222.189/live?~achams.com:1935@192.185.11.131/MBCDrama
 #EXTINF:-1,[COLOR yellow]MBC Action[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/MBCAction
-#EXTINF:-1,mbc 1
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/67.ch
-#EXTINF:-1,MBC 2
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/3.ch
-#EXTINF:-1,MBC Masr
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/81.ch
 #EXTINF:-1,MBC 1
 rtmp://185.5.222.189/live/MBC1
 #EXTINF:-1,MBC 2
@@ -269,20 +257,12 @@ rtmp://38.96.148.206/Melody/ playpath=MHitsWeb swfUrl=http://p.jwpcdn.com/6/7/jw
 rtmp://38.96.148.206/Melody/MDramaWeb
 #EXTINF:-1,[COLOR yellow]Melody Arabia[/COLOR]
 rtmp://38.96.148.206/Melody/MArabiaWeb
-#EXTINF:-1,National geo AD
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/24.ch
 #EXTINF:-1,[COLOR yellow]ON TV[/COLOR]
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Rotana Cinema[/COLOR]
 rtmp://176.58.79.15:1936/live?~achams.com@192.185.11.131/RotanaCinema
-#EXTINF:-1,Rotana Aflam
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/70.ch
-#EXTINF:-1,Rotana Cinema
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/71.ch
-#EXTINF:-1,SADA ALBALAD HD
-http://waawiptv.aiemtvhdip.com/demowaawtv/domowaawtv/88.ch
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,PRO SPORTS 1
@@ -293,26 +273,6 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,bein HD 1
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/1.ch
-#EXTINF:-1,bein HD 2
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/52.ch
-#EXTINF:-1,bein HD 3
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/2.ch
-#EXTINF:-1,bein HD 4
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/53.ch
-#EXTINF:-1,bein HD 5
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/54.ch
-#EXTINF:-1,bein HD 6
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/55.ch
-#EXTINF:-1,bein HD 7
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/56.ch
-#EXTINF:-1,bein HD 8
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/57.ch
-#EXTINF:-1,bein HD 9
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/58.ch
-#EXTINF:-1,bein HD 10
-http://waawiptv.aiemtvhdip.com/contact@waawtv.com/www.waawtv.com/59.ch
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
