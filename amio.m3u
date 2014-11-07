@@ -273,6 +273,22 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+#EXTINF:-1,BT SPORT 1 UK
+rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+#EXTINF:-1,BT SPORT 2 UK
+rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp
+#EXTINF:-1,ESPN HD US
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1,ESPN HD 2 US
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,SKY SPORT 1 HD
+rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws
+#EXTINF:-1,SKY SPORT 2
+rtmp://93.174.95.125:1935/edge/_definst_/on39ol6in4f2ewp
+#EXTINF:-1,SKY SPORT 4
+rtmp://93.174.95.125:1935/edge/_definst_/21ajqprn56aebp3
+#EXTINF:-1,FOX SOCCER PLUS HD
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
