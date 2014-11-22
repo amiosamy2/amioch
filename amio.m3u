@@ -209,6 +209,94 @@ rtmp://38.96.148.206/Melody/MArabiaWeb
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,AL AHLY
+http://8.21.48.19:7777/AlAhlyTV_HD.m3u8
+#EXTINF:-1,Al Masriyah
+http://8.21.48.19:7777/AlMasriyah_HD.m3u8
+#EXTINF:-1,Al Hayat
+http://8.21.48.19:7777/Hayat_HD.m3u8
+#EXTINF:-1,El Hayat Series
+http://8.21.48.19:7777/AlHayatMousalsalat_HD.m3u8
+#EXTINF:-1,Al Hayat 2
+http://8.21.48.19:7777/Alhayat2_HD.m3u8
+#EXTINF:-1,Alnahar Drama
+http://8.21.48.19:7777/AlNaharDrama_HD.m3u8
+#EXTINF:-1,Alnahar
+http://8.21.48.19:7777/AlNahar_HD.m3u8
+#EXTINF:-1,AlNahar Movies
+http://8.21.48.19:7777/AlNaharMovies_HD.m3u8
+#EXTINF:-1,Alnahar Alyoum
+http://8.21.48.19:7777/AlNahar2_HD.m3u8
+#EXTINF:-1,AlNahar Sport
+http://8.21.48.19:7777/AlNaharSport_HD.m3u8
+#EXTINF:-1,AlQahera W Elnas
+http://8.21.48.19:7777/AlKaheraWalNas_HD.m3u8
+#EXTINF:-1,AlQahera W Elnas 2
+http://8.21.48.19:7777/AlKaheraWalNas2_HD.m3u8
+#EXTINF:-1,AlMasrawia
+http://8.21.48.19:7777/AlMasrawia_HD.m3u8
+#EXTINF:-1, Abu Dhabi 1
+http://8.21.48.19:7777/ADEmirates_HD.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+http://8.21.48.19:7777/ADDrama_HD.m3u8
+#EXTINF:-1,Abu Dhabi Sports 1
+http://8.21.48.19:7777/ADSport_HD.m3u8
+#EXTINF:-1,Albait Baitak Cinema
+http://8.21.48.19:7777/AlbaitBaitakCinema_HD.m3u8
+#EXTINF:-1,Chobra Cima
+http://8.21.48.19:7777/LayaliCinema_HD.m3u8
+#EXTINF:-1,Cairo Cinema
+http://8.21.48.19:7777/CairoCinema_HD.m3u8
+#EXTINF:-1,Cairo Cinema 2
+http://8.21.48.19:7777/Mosar3_HD.m3u8
+#EXTINF:-1,Cairo Drama
+http://8.21.48.19:7777/CairoDrama_HD.m3u8
+#EXTINF:-1,Cairo Comedy
+http://8.21.48.19:7777/CairoComedy_HD.m3u8
+#EXTINF:-1,Cima
+http://8.21.48.19:7777/LayaliCinema_HD.m3u8
+#EXTINF:-1,CBC
+http://8.21.48.19:7777/CBC_HD.m3u8
+#EXTINF:-1,CBC Sofra
+http://8.21.48.19:7777/CBCSofra_HD.m3u8
+#EXTINF:-1,CBC Extra
+http://8.21.48.19:7777/CBC2_HD.m3u8
+#EXTINF:-1,CBC Drama
+http://8.21.48.19:7777/CBCDrama_HD.m3u8
+#EXTINF:-1,Cartoon Network AR
+http://8.21.48.19:7777/CNArabia_HD.m3u8
+#EXTINF:-1,Dubai
+http://8.21.48.19:7777/DubaiEurope_HD.m3u8
+#EXTINF:-1,Dubai One
+http://8.21.48.19:7777/DubaiOne_HD.m3u8
+#EXTINF:-1,Dubai Sport HD2
+http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+#EXTINF:-1,Dubai Sport 3
+http://8.21.48.19:7777/DubaiSports_HD.m3u8
+#EXTINF:-1,Dream 1
+http://8.21.48.19:7777/Dream1_HD.m3u8
+#EXTINF:-1,Dream 2
+http://8.21.48.19:7777/Dream2_HD.m3u8
+#EXTINF:-1,Egypt 2
+http://8.21.48.19:7777/AlThanya_HD.m3u8
+#EXTINF:-1,Fox
+http://8.21.48.19:7777/Fox_HD.m3u8
+#EXTINF:-1,Fox Movies
+http://8.21.48.19:7777/FoxMovies_HD.m3u8
+#EXTINF:-1,Fox Arabic
+http://8.21.48.19:7777/SpacePower_HD.m3u8
+#EXTINF:-1,Future TV
+http://8.21.48.19:7777/Future_HD.m3u8
+#EXTINF:-1,Future Neus
+http://8.21.48.19:7777/FutureNews_HD.m3u8
+#EXTINF:-1,LBC
+http://8.21.48.19:7777/LBC_HD.m3u8
+#EXTINF:-1,LDC
+http://8.21.48.19:7777/LDC_HD.m3u8
+#EXTINF:-1,Masrawi Aflam
+http://8.21.48.19:7777/MasrawiAflam_HD.m3u8
+#EXTINF:-1,MTVLebanon
+http://8.21.48.19:7777/MTVLebanon_HD.m3u8
 #EXTINF:-1,MBC 1
 http://8.21.48.19:7777/MBC1_HD.m3u8
 #EXTINF:-1,MBC 2
@@ -225,6 +313,40 @@ http://8.21.48.19:7777/MBCAction_HD.m3u8
 http://8.21.48.19:7777/MBCMax_HD.m3u8
 #EXTINF:-1,MBC Masr
 http://8.21.48.19:7777/MBCMaser_HD.m3u8
+#EXTINF:-1,Moga Comedy
+http://8.21.48.19:7777/MogaComedy_HD.m3u8
+#EXTINF:-1,Mehwar
+http://8.21.48.19:7777/ElMehwar_HD.m3u8
+#EXTINF:-1,Music
+http://8.21.48.19:7777/MusicPlus_HD.m3u8
+#EXTINF:-1,Nat GeoAD
+http://8.21.48.19:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1,Nile Sport
+http://8.21.48.19:7777/NileSport_HD.m3u8
+#EXTINF:-1,Nile News
+http://8.21.48.19:7777/NileNews_HD.m3u8
+#EXTINF:-1,Nile Family
+http://8.21.48.19:7777/NileFamily_HD.m3u8
+#EXTINF:-1,Nile Life
+http://8.21.48.19:7777/NileLife_HD.m3u8
+#EXTINF:-1,Nile Drama 2
+http://8.21.48.19:7777/NileDrama2_HD.m3u8
+#EXTINF:-1,Nile Cinema
+http://8.21.48.19:7777/RotanaCinema_HD.m3u8
+#EXTINF:-1,Noor Dubai
+http://8.21.48.19:7777/NoorDubai_HD.m3u8
+#EXTINF:-1,On TV
+http://8.21.48.19:7777/ONTV_HD.m3u8
+#EXTINF:-1,Oscar Drama
+http://8.21.48.19:7777/OscarDrama_HD.m3u8
+#EXTINF:-1,Oscar Drama 2
+http://8.21.48.19:7777/OscarDrama2_HD.m3u8
+#EXTINF:-1,Panorama film
+http://8.21.48.19:7777/PanoramaFilm_HD.m3u8
+#EXTINF:-1,Panorama Drama
+http://8.21.48.19:7777/PanoramaDrama_HD.m3u8
+#EXTINF:-1,Panorama Drama 2
+http://8.21.48.19:7777/PanoramaDrama2_HD.m3u8
 #EXTINF:-1,Rotana Aflam
 http://8.21.48.19:7777/RotanaAflam_HD.m3u8
 #EXTINF:-1,Rotana Clip
@@ -239,192 +361,24 @@ http://8.21.48.19:7777/RotanaMasriya_HD.m3u8
 http://8.21.48.19:7777/RotanaZaman_HD.m3u8
 #EXTINF:-1,Rotana Cinema
 http://8.21.48.19:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1,Zee Alwen
-http://8.21.48.19:7777/ZeeAlwan_HD.m3u8
-#EXTINF:-1,Zee Aflam
-http://8.21.48.19:7777/ZeeAflam_HD.m3u8
-#EXTINF:-1,Al Hayat
-http://8.21.48.19:7777/Hayat_HD.m3u8
-#EXTINF:-1,El Hayat Series
-http://8.21.48.19:7777/AlHayatMousalsalat_HD.m3u8
-#EXTINF:-1,Al Hayat 2
-http://8.21.48.19:7777/Alhayat2_HD.m3u8
-#EXTINF:-1,Nile Sport
-http://8.21.48.19:7777/NileSport_HD.m3u8
-#EXTINF:-1,Nile News
-http://8.21.48.19:7777/NileNews_HD.m3u8
-#EXTINF:-1,Nile Family
-http://8.21.48.19:7777/NileFamily_HD.m3u8
-#EXTINF:-1,Nile Life
-http://8.21.48.19:7777/NileLife_HD.m3u8
-#EXTINF:-1,Nile Drama 2
-http://8.21.48.19:7777/NileDrama2_HD.m3u8
-#EXTINF:-1,Nile Cinema
-http://8.21.48.19:7777/RotanaCinema_HD.m3u8
-#EXTINF:-1,AlAan
-http://8.21.48.19:7777/AlAan_HD.m3u8
-#EXTINF:-1,Al Mayadeen
-http://8.21.48.19:7777/AlMayadeen_HD.m3u8
-#EXTINF:-1,Al Manar
-http://8.21.48.19:7777/AlManar_HD.m3u8
-#EXTINF:-1,Al Jadeed
-http://8.21.48.19:7777/AlJadeed_HD.m3u8
-#EXTINF:-1,LBC
-http://8.21.48.19:7777/LBC_HD.m3u8
-#EXTINF:-1,Al Lubnania
-http://8.21.48.19:7777/AlLubnania_HD.m3u8
-#EXTINF:-1,Tele Liban
-http://8.21.48.19:7777/TeleLiban_HD.m3u8
-#EXTINF:-1,Future TV
-http://8.21.48.19:7777/Future_HD.m3u8
-#EXTINF:-1,Future Neus
-http://8.21.48.19:7777/FutureNews_HD.m3u8
-#EXTINF:-1,Otv Lebanon
-http://8.21.48.19:7777/OTV_HD.m3u8
-#EXTINF:-1,NBN Lebanon
-http://8.21.48.19:7777/NBNLebanon_HD.m3u8
-#EXTINF:-1,MTVLebanon
-http://8.21.48.19:7777/MTVLebanon_HD.m3u8
-#EXTINF:-1,Syrian
-http://8.21.48.19:7777/SyriaSat_HD.m3u8
-#EXTINF:-1,Syria Sedu
-http://8.21.48.19:7777/SyrianEducation_HD.m3u8
-#EXTINF:-1,Syria Nour
-http://8.21.48.19:7777/NourElSham_HD.m3u8
-#EXTINF:-1,Syrian Drama
-http://8.21.48.19:7777/SyriaDrama_HD.m3u8
-#EXTINF:-1,Syrian Talaqi
-http://8.21.48.19:7777/Talaqi_HD.m3u8
-#EXTINF:-1,Sama Syria
-http://8.21.48.19:7777/SamaTV_HD.m3u8
-#EXTINF:-1,Cairo Cinema
-http://8.21.48.19:7777/CairoCinema_HD.m3u8
-#EXTINF:-1,Cairo Cinema 2
-http://8.21.48.19:7777/Mosar3_HD.m3u8
-#EXTINF:-1,Cairo Drama
-http://8.21.48.19:7777/CairoDrama_HD.m3u8
-#EXTINF:-1,Cairo Comedy
-http://8.21.48.19:7777/CairoComedy_HD.m3u8
-#EXTINF:-1,CBC
-http://8.21.48.19:7777/CBC_HD.m3u8
-#EXTINF:-1,CBC Sofra
-http://8.21.48.19:7777/CBCSofra_HD.m3u8
-#EXTINF:-1,CBC Extra
-http://8.21.48.19:7777/CBC2_HD.m3u8
-#EXTINF:-1,CBC Drama
-http://8.21.48.19:7777/CBCDrama_HD.m3u8
-#EXTINF:-1,Dubai
-http://8.21.48.19:7777/DubaiEurope_HD.m3u8
 #EXTINF:-1,Sama Dubai
 http://8.21.48.19:7777/SamaDubai_HD.m3u8
-#EXTINF:-1,Noor Dubai
-http://8.21.48.19:7777/NoorDubai_HD.m3u8
-#EXTINF:-1,Dubai One
-http://8.21.48.19:7777/DubaiOne_HD.m3u8
-#EXTINF:-1,Dubai Sport HD2
-http://8.21.48.19:7777/DubaiSport2_HD.m3u8
-#EXTINF:-1,Dubai Sport 3
-http://8.21.48.19:7777/DubaiSports_HD.m3u8
-#EXTINF:-1, Abu Dhabi 1
-http://8.21.48.19:7777/ADEmirates_HD.m3u8
-#EXTINF:-1,Abu Dhabi Drama
-http://8.21.48.19:7777/ADDrama_HD.m3u8
-#EXTINF:-1,Abu Dhabi Sports 1
-http://8.21.48.19:7777/ADSport_HD.m3u8
-#EXTINF:-1,tounsi
-http://8.21.48.19:7777/Tunisia_HD.m3u8
-#EXTINF:-1,Al hiwar Ettounsi
-http://8.21.48.19:7777/AlHiwarTunis_HD.m3u8
-#EXTINF:-1,Tunisia national 1
-http://8.21.48.19:7777/Tunisie7_HD.m3u8
-#EXTINF:-1,Medi 1 Sat
-http://8.21.48.19:7777/Medi1_HD.m3u8
-#EXTINF:-1,Nessm
-http://8.21.48.19:7777/Nessma_HD.m3u8
-#EXTINF:-1,Hanibal
-http://8.21.48.19:7777/Hannibal_HD.m3u8
-#EXTINF:-1,Cima
-http://8.21.48.19:7777/LayaliCinema_HD.m3u8
-#EXTINF:-1,Alnahar Drama
-http://8.21.48.19:7777/AlNaharDrama_HD.m3u8
-#EXTINF:-1,Alnahar
-http://8.21.48.19:7777/AlNahar_HD.m3u8
-#EXTINF:-1,AlNahar Movies
-http://8.21.48.19:7777/AlNaharMovies_HD.m3u8
-#EXTINF:-1,Alnahar Alyoum
-http://8.21.48.19:7777/AlNahar2_HD.m3u8
-#EXTINF:-1,AlNahar Sport
-http://8.21.48.19:7777/AlNaharSport_HD.m3u8
-#EXTINF:-1,On TV
-http://8.21.48.19:7777/ONTV_HD.m3u8
-#EXTINF:-1,Al Masriyah
-http://8.21.48.19:7777/AlMasriyah_HD.m3u8
-#EXTINF:-1,Egypt 2
-http://8.21.48.19:7777/AlThanya_HD.m3u8
 #EXTINF:-1,Sada AlBalad Drama
 http://8.21.48.19:7777/SadaAlBaladDrama_HD.m3u8
 #EXTINF:-1,Sada Al Balad
 http://8.21.48.19:7777/SadaAlBalad_HD.m3u8
-#EXTINF:-1,AlQahera W Elnas
-http://8.21.48.19:7777/AlKaheraWalNas_HD.m3u8
-#EXTINF:-1,AlQahera W Elnas 2
-http://8.21.48.19:7777/AlKaheraWalNas2_HD.m3u8
-#EXTINF:-1,Baraem
-http://8.21.48.19:7777/Baraem_HD.m3u8
-#EXTINF:-1,SM SM KIDS
-http://8.21.48.19:7777/Semsem_HD.m3u8
-#EXTINF:-1,Koky Kids
-http://8.21.48.19:7777/Koky_HD.m3u8
-#EXTINF:-1,Aljazeera Children
-http://8.21.48.19:7777/AlJazeeraKid_HD.m3u8
-#EXTINF:-1,Cartoon Network AR
-http://8.21.48.19:7777/CNArabia_HD.m3u8
-#EXTINF:-1,Atfal wa Mawaheb
-http://8.21.48.19:7777/AtfalwaMawaheb_HD.m3u8
-#EXTINF:-1,Albait Baitak Cinema
-http://8.21.48.19:7777/AlbaitBaitakCinema_HD.m3u8
-#EXTINF:-1,Chobra Cima
-http://8.21.48.19:7777/LayaliCinema_HD.m3u8
-#EXTINF:-1,LDC
-http://8.21.48.19:7777/LDC_HD.m3u8
-#EXTINF:-1,Masrawi Aflam
-http://8.21.48.19:7777/MasrawiAflam_HD.m3u8
 #EXTINF:-1,Sama Cinema
 http://8.21.48.19:7777/SamaCinema_HD.m3u8
-#EXTINF:-1,Fox
-http://8.21.48.19:7777/Fox_HD.m3u8
-#EXTINF:-1,Fox Movies
-http://8.21.48.19:7777/FoxMovies_HD.m3u8
-#EXTINF:-1,Oscar Drama
-http://8.21.48.19:7777/OscarDrama_HD.m3u8
-#EXTINF:-1,Cairo Drama
-http://8.21.48.19:7777/CairoDrama_HD.m3u8
-#EXTINF:-1,Moga Comedy
-http://8.21.48.19:7777/MogaComedy_HD.m3u8
-#EXTINF:-1,Panorama film
-http://8.21.48.19:7777/PanoramaFilm_HD.m3u8
-#EXTINF:-1,Dream 1
-http://8.21.48.19:7777/Dream1_HD.m3u8
-#EXTINF:-1,Dream 2
-http://8.21.48.19:7777/Dream2_HD.m3u8
-#EXTINF:-1,Panorama Drama
-http://8.21.48.19:7777/PanoramaDrama_HD.m3u8
-#EXTINF:-1,Panorama Drama 2
-http://8.21.48.19:7777/PanoramaDrama2_HD.m3u8
 #EXTINF:-1,Top Movies
 http://8.21.48.19:7777/TopMovies_HD.m3u8
-#EXTINF:-1,Oscar Drama 2
-http://8.21.48.19:7777/OscarDrama2_HD.m3u8
-#EXTINF:-1,AlMasrawia
-http://8.21.48.19:7777/AlMasrawia_HD.m3u8
-#EXTINF:-1,Fox Arabic
-http://8.21.48.19:7777/SpacePower_HD.m3u8
 #EXTINF:-1,Toktok
 http://8.21.48.19:7777/25TV_HD.m3u8
 #EXTINF:-1,Taxi El Sahra
 http://8.21.48.19:7777/TimeTiatro_HD.m3u8
-#EXTINF:-1,Nat GeoAD
-http://8.21.48.19:7777/ADNatGeo_HD.m3u8
+#EXTINF:-1,Zee Alwen
+http://8.21.48.19:7777/ZeeAlwan_HD.m3u8
+#EXTINF:-1,Zee Aflam
+http://8.21.48.19:7777/ZeeAflam_HD.m3u8
 #EXTINF:-1,Alarabiya
 http://8.21.48.19:7777/AlArabiya_HD.m3u8
 #EXTINF:-1,Alarabiya Ahdas
@@ -435,12 +389,6 @@ http://8.21.48.19:7777/AlJazeera_HD.m3u8
 http://8.21.48.19:7777/AlJazeeraLive_HD.m3u8
 #EXTINF:-1,Aljazeera Mubasher Masr
 http://8.21.48.19:7777/JSCLiveMisr_HD.m3u8
-#EXTINF:-1,Mehwar
-http://8.21.48.19:7777/ElMehwar_HD.m3u8
-#EXTINF:-1,AL AHLY
-http://8.21.48.19:7777/AlAhlyTV_HD.m3u8
-#EXTINF:-1,Music
-http://8.21.48.19:7777/MusicPlus_HD.m3u8
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,PRO SPORTS 1
@@ -451,36 +399,6 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,BeIN Sports 1
-rtmp://92.222.180.77:1935/live/bs1
-#EXTINF:-1,BeIN Sports 2
-rtmp://92.222.180.77:1935/live/bs2
-#EXTINF:-1,BeIN Sports 3
-rtmp://92.222.180.77:1935/live/bs3
-#EXTINF:-1,BeIN Sports 4
-rtmp://92.222.180.77:1935/live/bs4
-#EXTINF:-1,BeIN Sports 5
-rtmp://92.222.180.77:1935/live/bs5
-#EXTINF:-1,BeIN Sports 6
-rtmp://92.222.180.77:1935/live/bs6
-#EXTINF:-1,BeIN Sports 7
-rtmp://92.222.180.77:1935/live/bs7
-#EXTINF:-1,BeIN Sports 8
-rtmp://92.222.180.77:1935/live/bs8
-#EXTINF:-1,BeIN Sports 9
-rtmp://92.222.180.77:1935/live/bs9
-#EXTINF:-1,BeIN Sports 10
-rtmp://92.222.180.77:1935/live/bs10
-#EXTINF:-1,BeIN Sports 11
-rtmp://92.222.180.77:1935/live/bs11
-#EXTINF:-1,BeIN Sports 12
-rtmp://92.222.180.77:1935/live/bs12
-#EXTINF:-1,BeIN Sports 3
-rtmp://92.222.180.77:1935/live/bs13
-#EXTINF:-1, BeIN Sports 14
-rtmp://92.222.180.77:1935/live/bs14
-#EXTINF:-1,BeIN Sports 15
-rtmp://92.222.180.77:1935/live/bs15
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
