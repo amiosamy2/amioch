@@ -405,31 +405,7 @@ http://u.to/rjuVCQ
 http://u.to/qDuVCQ
 #EXTINF:-1,BEIN 3
 http://bit.ly/1AXeSDh
-#EXTINF:-1,BEIN SPORT 1
-rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@?#?Z?
-#EXTINF:-1,BEIN SPORT 2
-rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 3
-rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 4
-rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 5
-rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 6
-rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 7
-rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 8
-rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/Sportsiptv token=?#?atd?%#$ZH
-#EXTINF:-1,BEIN SPORT 9
-rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 10
-rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 11
-rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-#EXTINF:-1,BEIN SPORT 12
-rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
-1,ARABIC-beIN Sport 2
+#EXTINF:-1,ARABIC-beIN Sport 2
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
 #EXTINF:-1,ARABIC-beIN Sport 3
 http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
@@ -439,7 +415,7 @@ http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
 #EXTINF:-1,ARABIC-beIN Sport 6
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
-EXTINF:-1,Bein 1
+#EXTINF:-1,Bein 1
 http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein1/playlist.m3u8
 #EXTINF:-1,Bein 2
 http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein2/playlist.m3u8
@@ -451,6 +427,78 @@ http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein1/chunklist.m3u8
 http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein2/chunklist.m3u8
 #EXTINF:-1,Bein 3 indonesia
 http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein3/chunklist.m3u8
+#EXTINF:-1,Sky Sp NewsHQ
+http://151.228.75.60:8001/1:0:1:132B:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 1
+http://151.228.75.60:8001/1:0:1:1076:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 2
+http://151.228.75.60:8001/1:0:1:1581:7EA:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 3
+http://151.228.75.60:8001/1:0:1:107B:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 4
+http://151.228.75.60:8001/1:0:1:1519:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 5
+http://151.228.75.60:8001/1:0:1:517:7DB:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports F1
+http://151.228.75.60:8001/1:0:1:51A:7E5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky SpN HQ HD
+http://151.228.75.60:8001/1:0:19:F4D:7D5:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 1 HD
+http://151.228.75.60:8001/1:0:19:EDA:7D5:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport
+http://151.228.75.60:8001/1:0:1:1797:7EE:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2
+http://151.228.75.60:8001/1:0:1:1391:7E7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport HD
+http://151.228.75.60:8001/1:0:19:EDC:7D8:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 1
+http://151.228.75.60:8001/1:0:1:C4BD:819:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 2
+http://151.228.75.60:8001/1:0:1:C4C7:819:2:11A0000:0:0:0:
+#EXTINF:-1,At The Races
+http://151.228.75.60:8001/1:0:1:12C4:7E9:2:11A0000:0:0:0:
+#EXTINF:-1,ESPN
+http://151.228.75.60:8001/1:0:1:C4CC:819:2:11A0000:0:0:0:
+#EXTINF:-1,MUTV
+http://151.228.75.60:8001/1:0:1:C4A9:819:2:11A0000:0:0:0:
+#EXTINF:-1,Extreme Sports
+http://151.228.75.60:8001/1:0:1:CB70:907:2:11A0000:0:0:0:
+#EXTINF:-1,Chelsea TV
+http://151.228.75.60:8001/1:0:1:179A:7EE:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 1 HD
+http://151.228.75.60:8001/1:0:19:C5E4:968:2:11A0000:0:0:0:
+#EXTINF:-1,BT Sport 2 HD
+http://151.228.75.60:8001/1:0:19:C5E9:968:2:11A0000:0:0:0:
+#EXTINF:-1,Premier Sports
+http://151.228.75.60:8001/1:0:1:C7A9:821:2:11A0000:0:0:0:
+#EXTINF:-1,LFCTV
+http://151.228.75.60:8001/1:0:1:CC01:8FF:2:11A0000:0:0:0:
+#EXTINF:-1,Racing UK
+http://151.228.75.60:8001/1:0:1:C4C2:819:2:11A0000:0:0:0:
+#EXTINF:-1,ESPN HD
+http://151.228.75.60:8001/1:0:19:C5F8:968:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 2 HD
+http://151.228.75.60:8001/1:0:19:F46:7F1:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 3 HD
+http://151.228.75.60:8001/1:0:19:EEE:7F2:2:11A0000:0:0:0:
+#EXTINF:-1,BoxNation
+http://151.228.75.60:8001/1:0:1:D368:81C:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 4 HD
+http://151.228.75.60:8001/1:0:19:EF2:7F1:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Sports 5 HD
+http://151.228.75.60:8001/1:0:19:FAA:7F7:2:11A0000:0:0:0:
+#EXTINF:-1,Eurosport 2 HD
+http://151.228.75.60:8001/1:0:19:F4E:7D8:2:11A0000:0:0:0:
+#EXTINF:-1,MOTORS TV UK
+http://151.228.75.60:8001/1:0:1:C495:819:2:11A0000:0:0:0:
+#EXTINF:-1,Sky Spts F1 HD
+http://151.228.75.60:8001/1:0:19:EFB:7F2:2:11A0000:0:0:0:
+#EXTINF:-1,MUTV HD
+http://151.228.75.60:8001/1:0:19:CD69:902:2:11A0000:0:0:0:
+#EXTINF:-1,LFCTV HD
+http://151.228.75.60:8001/1:0:19:F05:7F3:2:11A0000:0:0:0:
+#EXTINF:-1,BoxNation HD
+http://151.228.75.60:8001/1:0:19:1BBC:7E2:2:11A0000:0:0:0:
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
@@ -623,6 +671,413 @@ rtmp://rtmp.zerocast.tv:1935/live playpath=YEZib0gVfqaDdaFn9MQ9 swfUrl=http://p.
 rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:O,SYFY USA
 rtmp://rtmp.zerocast.tv:1935/live playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,Sky Atlantic HD
+
+http://92.251.83.38:8001/1:0:19:6E:D:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Cinema HD
+
+http://92.251.83.38:8001/1:0:19:83:6:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Hits HD
+
+http://92.251.83.38:8001/1:0:19:6B:C:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Action HD
+
+http://92.251.83.38:8001/1:0:19:74:B:85:C00000:0:0:0:
+
+#EXTINF:-1,Syfy HD
+
+http://92.251.83.38:8001/1:0:19:7E:C:85:C00000:0:0:0:
+
+#EXTINF:-1,AXN HD
+
+http://92.251.83.38:8001/1:0:19:7D:A:85:C00000:0:0:0:
+
+#EXTINF:-1,13th Street HD
+
+http://92.251.83.38:8001/1:0:19:7F:D:85:C00000:0:0:0:
+
+#EXTINF:-1,Fox HD
+
+http://92.251.83.38:8001/1:0:19:7C:A:85:C00000:0:0:0:
+
+#EXTINF:-1,TNT Serie HD
+
+http://92.251.83.38:8001/1:0:19:7B:B:85:C00000:0:0:0:
+
+#EXTINF:-1,MGM HD
+
+http://92.251.83.38:8001/1:0:19:73:C:85:C00000:0:0:0:
+
+#EXTINF:-1,E! Entertainm. HD
+
+http://92.251.83.38:8001/1:0:19:80:E:85:C00000:0:0:0:
+
+#EXTINF:-1,TNT Glitz HD
+
+http://92.251.83.38:8001/1:0:19:88:8:85:C00000:0:0:0:
+
+#EXTINF:-1,Universal HD
+
+http://92.251.83.38:8001/1:0:19:65:E:85:C00000:0:0:0:
+
+#EXTINF:-1,Pro7 FUN HD
+
+http://92.251.83.38:8001/1:0:19:6A:E:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky HD FanZone
+
+http://92.251.83.38:8001/1:0:19:66:A:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport HD 1
+
+http://92.251.83.38:8001/1:0:19:81:6:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport HD 2
+
+http://92.251.83.38:8001/1:0:19:72:D:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Bundesliga HD 1
+
+http://92.251.83.38:8001/1:0:19:69:C:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport News HD
+
+http://92.251.83.38:8001/1:0:19:6C:C:85:C00000:0:0:0:
+
+#EXTINF:-1,AutoMotorSport HD
+
+http://92.251.83.38:8001/1:0:19:17D7:C91:3:EB0000:0:0:0:
+
+#EXTINF:-1,Eurosport HD
+
+http://92.251.83.38:8001/1:0:19:84:B:85:C00000:0:0:0:
+
+#EXTINF:-1,Sport1+ HD
+
+http://92.251.83.38:8001/1:0:19:7A:B:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport News HD
+
+http://92.251.83.38:8001/1:0:D3:F2:C:85:C00000:0:0:0:
+
+#EXTINF:-1,Sport1 US HD
+
+http://92.251.83.38:8001/1:0:19:77:A:85:C00000:0:0:0:
+
+#EXTINF:-1,Sport1 US HD1
+
+http://92.251.83.38:8001/1:0:19:135:A:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Bundesliga 1
+
+http://92.251.83.38:8001/1:0:1:DF:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport News
+
+http://92.251.83.38:8001/1:0:D3:F1:3:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport News
+
+http://92.251.83.38:8001/1:0:1:11:3:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Select
+
+http://92.251.83.38:8001/1:0:1:12:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport 1
+
+http://92.251.83.38:8001/1:0:1:DD:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport 2
+
+http://92.251.83.38:8001/1:0:1:DE:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Motorvision TV
+
+http://92.251.83.38:8001/1:0:1:A8:1:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Sport Austria
+
+http://92.251.83.38:8001/1:0:1:1E:1:85:C00000:0:0:0:
+
+#EXTINF:-1,Discovery HD
+
+http://92.251.83.38:8001/1:0:19:82:6:85:C00000:0:0:0:
+
+#EXTINF:-1,History HD
+
+http://92.251.83.38:8001/1:0:19:71:B:85:C00000:0:0:0:
+
+#EXTINF:-1,NatGeo HD
+
+http://92.251.83.38:8001/1:0:19:70:D:85:C00000:0:0:0:
+
+#EXTINF:-1,Nat Geo Wild HD
+
+http://92.251.83.38:8001/1:0:19:76:6:85:C00000:0:0:0:
+
+#EXTINF:-1,Spiegel Geschichte HD
+
+http://92.251.83.38:8001/1:0:19:89:8:85:C00000:0:0:0:
+
+#EXTINF:-1,Discovery Channel
+
+http://92.251.83.38:8001/1:0:1:E:4:85:C00000:0:0:0:
+
+#EXTINF:-1,National Geographic
+
+http://92.251.83.38:8001/1:0:1:D:4:85:C00000:0:0:0:
+
+#EXTINF:-1,NatGeo Wild
+
+http://92.251.83.38:8001/1:0:1:C:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Spiegel Geschichte
+
+http://92.251.83.38:8001/1:0:1:34:4:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Action
+
+http://92.251.83.38:8001/1:0:1:9:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Cinema
+
+http://92.251.83.38:8001/1:0:1:A:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Cinema+1
+
+http://92.251.83.38:8001/1:0:1:B:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Cinema+24
+
+http://92.251.83.38:8001/1:0:1:2B:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Hits
+
+http://92.251.83.38:8001/1:0:1:29:3:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Comedy
+
+http://92.251.83.38:8001/1:0:1:8:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Emotion
+
+http://92.251.83.38:8001/1:0:1:14:2:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Krimi
+
+http://92.251.83.38:8001/1:0:1:17:1:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Nostalgie
+
+http://92.251.83.38:8001/1:0:1:204:3:85:C00000:0:0:0:
+
+#EXTINF:-1,13th Street
+ttp://92.251.83.38:8001/1:0:1:2A:1:85:C00000:0:0:0:
+#EXTINF:-1,AXN Action
+
+http://92.251.83.38:8001/1:0:1:25:F:85:C00000:0:0:0:
+
+#EXTINF:-1,Sky Atlantic
+
+http://92.251.83.38:8001/1:0:1:22:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Disney Junior HD
+
+http://92.251.83.38:8001/1:0:19:8A:8:85:C00000:0:0:0:
+
+#EXTINF:-1,Disney Cinemagic HD
+
+http://92.251.83.38:8001/1:0:19:6F:D:85:C00000:0:0:0:
+
+#EXTINF:-1,Disney XD
+
+http://92.251.83.38:8001/1:0:1:1C:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Boomerang
+
+http://92.251.83.38:8001/1:0:1:38:F:85:C00000:0:0:0:
+
+#EXTINF:-1,Cartoon Network (S)
+
+http://92.251.83.38:8001/1:0:1:27:F:85:C00000:0:0:0:
+
+#EXTINF:-1,Disney Cinemagic
+
+http://92.251.83.38:8001/1:0:1:19:3:85:C00000:0:0:0:
+
+#EXTINF:-1,Disney Junior
+
+http://92.251.83.38:8001/1:0:1:1A:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Nicktoons (S)
+
+http://92.251.83.38:8001/1:0:1:700A:436:1:C00000:0:0:0:
+
+#EXTINF:-1,Junior
+
+http://92.251.83.38:8001/1:0:1:13:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Animax
+
+http://92.251.83.38:8001/1:0:1:FDA:451:35:C00000:0:0:0:
+
+#EXTINF:-1,Heimatkanal
+
+http://92.251.83.38:8001/1:0:1:16:11:85:C00000:0:0:0:
+
+#EXTINF:-1,A&E
+
+http://92.251.83.38:8001/1:0:1:39:F:85:C00000:0:0:0:
+
+#EXTINF:-1,Classica
+
+http://92.251.83.38:8001/1:0:1:18:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Fox Serie
+
+http://92.251.83.38:8001/1:0:1:10:1:85:C00000:0:0:0:
+
+#EXTINF:-1,kabel eins classics
+
+http://92.251.83.38:8001/1:0:1:4462:453:1:C00000:0:0:0:
+
+#EXTINF:-1,Kinowelt TV
+
+http://92.251.83.38:8001/1:0:1:21:F:85:C00000:0:0:0:
+
+#EXTINF:-1,MGM
+
+http://92.251.83.38:8001/1:0:1:203:3:85:C00000:0:0:0:
+
+#EXTINF:-1,Romance TV
+
+http://92.251.83.38:8001/1:0:1:26:F:85:C00000:0:0:0:
+
+#EXTINF:-1,RTL Crime
+
+http://92.251.83.38:8001/1:0:1:1B:1:85:C00000:0:0:0:
+
+#EXTINF:-1,RTL Living
+
+http://92.251.83.38:8001/1:0:1:2EFE:441:1:C00000:0:0:0:
+
+#EXTINF:-1,RTL Passion
+
+http://92.251.83.38:8001/1:0:1:1D:1:85:C00000:0:0:0:
+
+#EXTINF:-1,TNT Film (TCM)
+
+http://92.251.83.38:8001/1:0:1:23:F:85:C00000:0:0:0:
+
+#EXTINF:-1,TNT Serie
+
+http://92.251.83.38:8001/1:0:1:32:1:85:C00000:0:0:0:
+
+#EXTINF:-1,SAT.1 emotions
+
+http://92.251.83.38:8001/1:0:1:125D:3F7:1:C00000:0:0:0:
+
+#EXTINF:-1,Syfy
+
+http://92.251.83.38:8001/1:0:1:24:11:85:C00000:0:0:0:
+
+#EXTINF:-1,MTV HD
+
+http://92.251.83.38:8001/1:0:19:87:8:85:C00000:0:0:0:
+
+#EXTINF:-1,MTV Live HD
+
+http://92.251.83.38:8001/1:0:19:86:8:85:C00000:0:0:0:
+
+#EXTINF:-1,Goldstar TV
+
+http://92.251.83.38:8001/1:0:1:206:11:85:C00000:0:0:0:
+
+#EXTINF:-1,Test Channel 1 (ex MTV Germany)
+
+http://92.251.83.38:8001/1:0:1:7001:436:1:C00000:0:0:0:
+
+#EXTINF:-1,Sky 3D
+
+http://92.251.83.38:8001/1:0:19:75:A:85:C00000:0:0:0:
+
+#EXTINF:-1,RTL HD
+
+http://92.251.83.38:8001/1:0:19:EF10:421:1:C00000:0:0:0:
+
+#EXTINF:-1,RTL2 HD
+
+http://92.251.83.38:8001/1:0:19:EF15:421:1:C00000:0:0:0:
+
+#EXTINF:-1,SUPER RTL HD
+
+http://92.251.83.38:8001/1:0:1:2E9B:411:1:C00000:0:0:0:
+
+#EXTINF:-1,ProSieben HD
+ttp://92.251.83.38:8001/1:0:19:EF75:3F9:1:C00000:0:0:0:
+#EXTINF:-1,SAT.1 HD
+
+http://92.251.83.38:8001/1:0:19:EF74:3F9:1:C00000:0:0:0:
+
+#EXTINF:-1,kabel eins HD
+
+http://92.251.83.38:8001/1:0:19:EF76:3F9:1:C00000:0:0:0:
+
+#EXTINF:-1,VOX HD
+
+http://92.251.83.38:8001/1:0:19:EF11:421:1:C00000:0:0:0:
+
+#EXTINF:-1,SPORT1 HD
+
+http://92.251.83.38:8001/1:0:19:EF14:421:1:C00000:0:0:0:
+
+#EXTINF:-1,TELE 5 HD
+
+http://92.251.83.38:8001/1:0:19:1519:455:1:C00000:0:0:0:
+
+#EXTINF:-1,DMAX HD
+
+http://92.251.83.38:8001/1:0:19:151A:455:1:C00000:0:0:0:
+
+#EXTINF:-1,N24 HD
+
+http://92.251.83.38:8001/1:0:19:5274:41D:1:C00000:0:0:0:
+
+#EXTINF:-1,NICK/CC HD
+
+http://92.251.83.38:8001/1:0:19:5273:41D:1:C00000:0:0:0:
+
+#EXTINF:-1,SPORT1 HD
+
+http://92.251.83.38:8001/1:0:19:1581:41F:1:C00000:0:0:0:
+
+#EXTINF:-1,SIXX HD
+
+http://92.251.83.38:8001/1:0:19:EF77:3F9:1:C00000:0:0:0:
+
+#EXTINF:-1,Deluxe Music HD
+
+http://92.251.83.38:8001/1:0:19:157F:41F:1:C00000:0:0:0:
+
+#EXTINF:-1,Disney Channel HD
+
+http://92.251.83.38:8001/1:0:19:157C:41F:1:C00000:0:0:0:
+
+#EXTINF:-1,RTLNITRO HD
+
+http://92.251.83.38:8001/1:0:19:2EAF:411:1:C00000:0:0:0:
+
+#EXTINF:-1,TLC HD
+
+http://92.251.83.38:8001/1:0:19:2774:409:1:C00000:0:0:0:
+
+#EXTINF:-1,ProSieben MAXX HD
+
+http://92.251.83.38:8001/1:0:19:EF78:3F9:1:C00000:0:0:0:
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
