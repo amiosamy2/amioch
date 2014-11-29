@@ -399,6 +399,58 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+#EXTINF:-1,BEIN 1
+http://u.to/rjuVCQ
+#EXTINF:-1,BEIN 2
+http://u.to/qDuVCQ
+#EXTINF:-1,BEIN 3
+http://bit.ly/1AXeSDh
+#EXTINF:-1,BEIN SPORT 1
+rtmp://31.220.0.103:1935/live playpath=bns1 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@?#?Z?
+#EXTINF:-1,BEIN SPORT 2
+rtmp://31.220.0.103:1935/live playpath=bns2 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 3
+rtmp://31.220.0.103:1935/live playpath=bns3 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 4
+rtmp://31.220.0.103:1935/live playpath=bns4 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 5
+rtmp://31.220.0.103:1935/live playpath=bn5 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 6
+rtmp://31.220.0.103:1935/live playpath=bn6 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 7
+rtmp://31.220.0.103:1935/live playpath=bns7 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 8
+rtmp://89.248.172.57:443/liverepeater playpath=166331 pageUrl=http://biggestplayer.me/Sportsiptv token=?#?atd?%#$ZH
+#EXTINF:-1,BEIN SPORT 9
+rtmp://31.220.0.103:1935/live playpath=bn9 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 10
+rtmp://31.220.0.103:1935/live playpath=bn10 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 11
+rtmp://31.220.0.103:1935/live playpath=bnss11 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+#EXTINF:-1,BEIN SPORT 12
+rtmp://31.220.0.103:1935/live playpath=bn12 pageUrl=http://www.flashtv.co/Sportsiptv token=%ZZri(nKa@#Z
+1,ARABIC-beIN Sport 2
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 3
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 4
+http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 5
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,ARABIC-beIN Sport 6
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
+EXTINF:-1,Bein 1
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein1/playlist.m3u8
+#EXTINF:-1,Bein 2
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein2/playlist.m3u8
+#EXTINF:-1,Bein 3 PL
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein3/playlist.m3u8
+#EXTINF:-1,Bein 1 indonesia
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein1/chunklist.m3u8
+#EXTINF:-1,Bein 2 indonesia
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein2/chunklist.m3u8
+#EXTINF:-1,Bein 3 indonesia
+http://edge.telin.swiftserve.com/live/livetv-sbr/u-bein3/chunklist.m3u8
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
@@ -539,6 +591,38 @@ rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://20
 rtmp://rtmp.zerocast.tv:1935/live playpath=YEZib0gVfqaDdaFn9MQ9 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=39&id=&width=580&height=400&autostart=true&strech=
 #EXTINF:-1,CBS
 rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=127&id=&width=580&height=400&autostart=true&strech=
+#EXTINF:O,ABC
+rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,HBO
+rtmp://rtmp.zerocast.tv:1935/live playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,AMC HD
+rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,CW USA
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,FX USA
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,Nickelodeon USA
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,Showtime USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,Spike HD USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=5MHkm6cQaL5rJZpCSL1C swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,USANetwork
+rtmp://rtmp.zerocast.tv:1935/live playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,Cartoon Network
+rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,TNT
+rtmp://rtmp.zerocast.tv:1935/live playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,FOX 5 USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,NBC
+rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,ESPN USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=YEZib0gVfqaDdaFn9MQ9 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,CBS
+rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:O,SYFY USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
