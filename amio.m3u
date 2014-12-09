@@ -83,7 +83,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 #EXTINF:-1,[COLOR red]The Church Channel[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
-#EXTINF:-1, group-title=News,[COLOR blue]Alarabiya[/COLOR]
+#EXTINF:-1,group-title=News,[COLOR blue]Alarabiya[/COLOR]
 http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
 #EXTINF:-1,[COLOR blue]Alarabiya HADAS[/COLOR]
 http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
@@ -209,48 +209,130 @@ rtmp://38.96.148.206/Melody/MArabiaWeb
 http://xontvegx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]ON TV Live[/COLOR]
 http://xontveglivex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1, MBC 1
+#EXTINF:-1,MBC Misr 1
+http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel01/events/_definst_/live/stream1Num82171.ts
+#EXTINF:-1,MBC Misr 2
+http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel02/events/_definst_/live/stream1Num82155.ts
+#EXTINF:-1,MBC 1
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
-#EXTINF:-1, MBC 2
+#EXTINF:-1,MBC 2
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&width=600&height=400
-#EXTINF:-1, MBC 3
+#EXTINF:-1,MBC 3
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
-#EXTINF:-1, MBC 4
+#EXTINF:-1,MBC 4
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4&width=600&height=400
-#EXTINF:-1, MBC Max
+#EXTINF:-1,MBC Max
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcmax&width=600&height=400
-#EXTINF:-1, MBC Action
+#EXTINF:-1,MBC Action
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&width=600&height=400
-#EXTINF:-1, MBC bollywood
+#EXTINF:-1,MBC bollywood
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&width=600&height=400
-#EXTINF:-1, Hanibal
+#EXTINF:-1,Hanibal
 rtmp://94.102.56.186:1936/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
-#EXTINF:-1, CBC
+#EXTINF:-1,CBC
 rtmp://94.102.56.186:1936/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
-#EXTINF:-1, CBC Drama
+#EXTINF:-1,CBC Drama
 rtmp://94.102.56.186:1936/live2 playpath=cbc_drama swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=cbc_drama&width=600&height=400
-#EXTINF:-1, LBC
+#EXTINF:-1,LBC
 rtmp://94.102.56.186:1936/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
-#EXTINF:-1, Panorama Drama
+#EXTINF:-1,Panorama Drama
 rtmp://94.102.56.186:1936/live2 playpath=pd swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=pd&width=600&height=400
-#EXTINF:-1, Fox Movies
+#EXTINF:-1,Fox Movies
 rtmp://94.102.56.186:1936/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
-#EXTINF:-1, Alhayat Cinema
+#EXTINF:-1,Alhayat Cinema
 rtmp://94.102.56.186:1936/live2 playpath=Hi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&width=600&height=400
-#EXTINF:-1, tunisia
+#EXTINF:-1,tunisia
 rtmp://94.102.56.186:1936/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=t1&width=600&height=400
-#EXTINF:-1, iqraa
+#EXTINF:-1,iqraa
 rtmp://94.102.56.186:1936/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=iqraa&width=600&height=400
-#EXTINF:-1, algeria 3
+#EXTINF:-1,algeria 3
 rtmp://94.102.56.186:1936/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&width=600&height=400
-#EXTINF:-1, al aoula
+#EXTINF:-1,al aoula
 rtmp://94.102.56.186:1936/live2 playpath=Hi_AlAoulainter swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlAoulainter&width=600&height=400
-#EXTINF:-1, nessma
+#EXTINF:-1,nessma
 rtmp://94.102.56.186:1936/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
-#EXTINF:-1, al hayat
+#EXTINF:-1,al hayat
 rtmp://94.102.56.186:1936/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&width=600&height=400
-#EXTINF:-1, toyour ljana
+#EXTINF:-1,toyour ljana
 rtmp://94.102.56.186:1936/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
+#EXTINF:-1,ART AFLAM 1
+http://yoolive.com/hls/art_aflam1.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://yoolive.com/hls/art_aflam2.m3u8
+#EXTINF:-1,CINE MAJESTIC
+http://yoolive.com/hls/cine_majestic.m3u8
+#EXTINF:-1,MOGA COMEDY
+http://yoolive.com/hls/moga_comedy.m3u8
+#EXTINF:-1,ABU DHABI DRAMA
+http://yoolive.com/hls/_abu_drama.m3u8
+#EXTINF:-1,CAIRO CINEMA
+http://yoolive.com/hls/cairo_cinema.m3u8
+#EXTINF:-1,ZEE AFLAM
+http://yoolive.com/hls/zee_aflam.m3u8
+#EXTINF:-1,PANORAMA DRAMA 2
+http://yoolive.com/hls/panorama_drama2.m3u8
+#EXTINF:-1,STAR CINEMA 1
+http://yoolive.com/hls/star_cinema.m3u8
+#EXTINF:-1,STAR CINEMA 2
+http://yoolive.com/hls/star_cinema2.m3u8
+#EXTINF:-1,NAHAR
+http://yoolive.com/hls/nahar.m3u8
+#EXTINF:-1,ZEE ALWAN
+http://yoolive.com/hls/zee_alwan.m3u8
+#EXTINF:-1,CBC EXTRA
+http://yoolive.com/hls/cbc_extra.m3u8
+#EXTINF:-1,LBC
+http://yoolive.com/hls/lbc.m3u8
+#EXTINF:-1,ONTV LIVE
+http://yoolive.com/hls/ontv_live.m3u8
+#EXTINF:-1,MASIRAH
+http://yoolive.com/hls/masirah.m3u8
+#EXTINF:-1,MELODY CLASSIC
+http://yoolive.com/hls/melody_classic.m3u8
+#EXTINF:-1,CBC
+http://yoolive.com/hls/cbc.m3u8
+#EXTINF:-1,CBC DRAMA
+http://yoolive.com/hls/cbc_drama.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://yoolive.com/hls/cartoon_network.m3u8
+#EXTINF:-1,FATAFEAT
+http://yoolive.com/hls/fatafeat.m3u8
+#EXTINF:-1,FOX MOVIES
+http://yoolive.com/hls/fox_movies.m3u8
+#EXTINF:-1,FOX
+http://yoolive.com/hls/fox.m3u8
+#EXTINF:-1,MBC 1
+http://yoolive.com/hls/mbc_1.m3u8
+#EXTINF:-1,MBC 2
+http://yoolive.com/hls/mbc_2.m3u8
+#EXTINF:-1,MBC 3
+http://yoolive.com/hls/mbc_3.m3u8
+#EXTINF:-1,MBC 4
+http://yoolive.com/hls/mbc_4.m3u8
+#EXTINF:-1,MBC ACTION
+http://yoolive.com/hls/mbc_action.m3u8
+#EXTINF:-1,MBC MAX
+http://yoolive.com/hls/mbc_max.m3u8
+#EXTINF:-1,MBC DRAMA
+http://yoolive.com/hls/mbc_drama.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://yoolive.com/hls/mbc_bollywood.m3u8
+#EXTINF:-1,ROTANA CINEMA
+http://yoolive.com/hls/rotana_cinema.m3u8
+#EXTINF:-1,ROTANA MASRIYA
+http://yoolive.com/hls/rotana_masriya.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+http://yoolive.com/hls/rotana_classic.m3u8
+#EXTINF:-1,ROTANA CLIP
+http://yoolive.com/hls/rotana_clip.m3u8
+#EXTINF:-1,ROTANA MUSIC
+http://yoolive.com/hls/rotana_music.m3u8
+#EXTINF:-1,ROTANA KHALILI
+http://yoolive.com/hls/rotana_khaliji.m3u8
+#EXTINF:-1,DUBAI ONE
+http://yoolive.com/hls/dubai_one.m3u8
+#EXTINF:-1,NATIONAL
+http://yoolive.com/hls/national.m3u8
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,PRO SPORTS 1
@@ -271,6 +353,10 @@ http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
 #EXTINF:-1,ARABIC-beIN Sport 6
 http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
+#EXTINF:-1,BT Sport 1
+rtmp://93.174.95.125:1935/edge/definst/thj91224cuxnfr1
+#EXTINF:-1,BT Sport 2
+rtmp://93.174.95.125:1935/edge/definst/z3ua1ed00znttfp
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
@@ -289,6 +375,18 @@ rtmpe://46.246.124.26:1935/live/ playpath=sskys3 swfUrl=http://www.hdcast.org/j2
 rtmpe://46.246.124.26:1935/live/ playpath=sskys4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
 #EXTINF:-1,Sky Sports 5
 rtmpe://46.246.124.26:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/Vd?u#bt!25 live=1 token=#yw%tt#w@kku timeout=15
+#EXTINF:-1,Sky Sports 1 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sports 2 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sports 3 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky3 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sports 4 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky4 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sports 5 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1,Sky Sports F1 HD
+rtmpe://46.246.29.162:1935/live/ playpath=Sporthdskyf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
