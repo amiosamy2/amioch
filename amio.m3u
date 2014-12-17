@@ -255,176 +255,6 @@ rtmp://94.102.56.186:1936/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/pl
 rtmp://94.102.56.186:1936/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_Alhayetdrama&width=600&height=400
 #EXTINF:-1,toyour ljana
 rtmp://94.102.56.186:1936/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
-#EXTINF:-1,ART AFLAM 1
-http://yoolive.com/hls/art_aflam1.m3u8
-#EXTINF:-1,ART AFLAM 2
-http://yoolive.com/hls/art_aflam2.m3u8
-#EXTINF:-1,CINE MAJESTIC
-http://yoolive.com/hls/cine_majestic.m3u8
-#EXTINF:-1,MOGA COMEDY
-http://yoolive.com/hls/moga_comedy.m3u8
-#EXTINF:-1,ABU DHABI DRAMA
-http://yoolive.com/hls/_abu_drama.m3u8
-#EXTINF:-1,CAIRO CINEMA
-http://yoolive.com/hls/cairo_cinema.m3u8
-#EXTINF:-1,ZEE AFLAM
-http://yoolive.com/hls/zee_aflam.m3u8
-#EXTINF:-1,PANORAMA DRAMA 2
-http://yoolive.com/hls/panorama_drama2.m3u8
-#EXTINF:-1,STAR CINEMA 1
-http://yoolive.com/hls/star_cinema.m3u8
-#EXTINF:-1,STAR CINEMA 2
-http://yoolive.com/hls/star_cinema2.m3u8
-#EXTINF:-1,NAHAR
-http://yoolive.com/hls/nahar.m3u8
-#EXTINF:-1,ZEE ALWAN
-http://yoolive.com/hls/zee_alwan.m3u8
-#EXTINF:-1,CBC EXTRA
-http://yoolive.com/hls/cbc_extra.m3u8
-#EXTINF:-1,LBC
-http://yoolive.com/hls/lbc.m3u8
-#EXTINF:-1,ONTV LIVE
-http://yoolive.com/hls/ontv_live.m3u8
-#EXTINF:-1,MASIRAH
-http://yoolive.com/hls/masirah.m3u8
-#EXTINF:-1,MELODY CLASSIC
-http://yoolive.com/hls/melody_classic.m3u8
-#EXTINF:-1,CBC
-http://yoolive.com/hls/cbc.m3u8
-#EXTINF:-1,CBC DRAMA
-http://yoolive.com/hls/cbc_drama.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://yoolive.com/hls/cartoon_network.m3u8
-#EXTINF:-1,FATAFEAT
-http://yoolive.com/hls/fatafeat.m3u8
-#EXTINF:-1,FOX MOVIES
-http://yoolive.com/hls/fox_movies.m3u8
-#EXTINF:-1,FOX
-http://yoolive.com/hls/fox.m3u8
-#EXTINF:-1,MBC 1
-http://yoolive.com/hls/mbc_1.m3u8
-#EXTINF:-1,MBC 2
-http://yoolive.com/hls/mbc_2.m3u8
-#EXTINF:-1,MBC 3
-http://yoolive.com/hls/mbc_3.m3u8
-#EXTINF:-1,MBC 4
-http://yoolive.com/hls/mbc_4.m3u8
-#EXTINF:-1,MBC ACTION
-http://yoolive.com/hls/mbc_action.m3u8
-#EXTINF:-1,MBC MAX
-http://yoolive.com/hls/mbc_max.m3u8
-#EXTINF:-1,MBC DRAMA
-http://yoolive.com/hls/mbc_drama.m3u8
-#EXTINF:-1,MBC BOLLYWOOD
-http://yoolive.com/hls/mbc_bollywood.m3u8
-#EXTINF:-1,ROTANA CINEMA
-http://yoolive.com/hls/rotana_cinema.m3u8
-#EXTINF:-1,ROTANA MASRIYA
-http://yoolive.com/hls/rotana_masriya.m3u8
-#EXTINF:-1,ROTANA CLASSIC
-http://yoolive.com/hls/rotana_classic.m3u8
-#EXTINF:-1,ROTANA CLIP
-http://yoolive.com/hls/rotana_clip.m3u8
-#EXTINF:-1,ROTANA MUSIC
-http://yoolive.com/hls/rotana_music.m3u8
-#EXTINF:-1,ROTANA KHALILI
-http://yoolive.com/hls/rotana_khaliji.m3u8
-#EXTINF:-1,DUBAI ONE
-http://yoolive.com/hls/dubai_one.m3u8
-#EXTINF:-1,NATIONAL
-http://yoolive.com/hls/national.m3u8
-#EXTINF:-1,1 OSN MOVIES
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/1.ch
-#EXTINF:-1,2 OSN MOVIES +2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/2.ch
-#EXTINF:-1,3 OSN
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/3.ch
-#EXTINF:-1,4 OSN YAHALA +2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/4.ch
-#EXTINF:-1,26 OSN YAHALA
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/5.ch
-#EXTINF:-1,5 OSN 2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/6.ch
-#EXTINF:-1,6 OSN FIRsT MORE
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/7.ch
-#EXTINF:-1,17 Osn FIRST HD
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/8.ch
-#EXTINF:-1,8 oSN COMEDY
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/9.ch
-#EXTINF:-1,9 OSN DRAMA
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/10.ch
-#EXTINF:-1,10 OSN YAHALA HD
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/11.ch
-#EXTINF:-1,25 OSN YAHALA SHABAB
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/12.ch
-#EXTINF:-1,11 OSN YAHAlA DRAMA
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/13.ch
-#EXTINF:-1,12 ART Aflam 1
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/14.ch
-#EXTINF:-1,13 ART AFLAM 2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/15.ch
-#EXTINF:-1,14 ART hEKAYAT
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/16.ch
-#EXTINF:-1,15 ORBIT 1
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/17.ch
-#EXTINF:-1,16 ORBIT 2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/18.ch
-#EXTINF:-1,17 OSN YAHALA SHABAB
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/19.ch
-#EXTINF:-1,18 MBC DRAMA +
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/20.ch
-#EXTINF:-1,19 OSN SPORT 1
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/21.ch
-#EXTINF:-1,25 Hekyat
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/22.ch
-#EXTINF:-1,27 beIN 1
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/23.ch
-#EXTINF:-1,27 beIN 1 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/38.ch
-#EXTINF:-1,28 beIN 2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/24.ch
-#EXTINF:-1,28 beIN 2 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/39.ch
-#EXTINF:-1,29 beIN 3
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/25.ch
-#EXTINF:-1,29 beIN 3 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/40.ch
-#EXTINF:-1,30 beIN 4
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/26.ch
-#EXTINF:-1,30 beIN 4 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/41.ch
-#EXTINF:-1,31 beIN 5
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/27.ch
-#EXTINF:-1,31 beIN 5 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/42.ch
-#EXTINF:-1,32 beIN 6
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/28.ch
-#EXTINF:-1,32 beIN 6 s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/43.ch
-#EXTINF:-1,33 beIN 7
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/29.ch
-#EXTINF:-1,33 beIN 7s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/44.ch
-#EXTINF:-1,34 beIN 8
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/30.ch
-#EXTINF:-1,34 beIN 8s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/45.ch
-#EXTINF:-1,35 beIN 9
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/31.ch
-#EXTINF:-1,35 beIN 9s2
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/46.ch
-#EXTINF:-1,36 beIN 10
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/32.ch
-#EXTINF:-1,37 beIN 11
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/33.ch
-#EXTINF:-1,38 beIN 12
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/34.ch
-#EXTINF:-1,39 beIN 13
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/35.ch
-#EXTINF:-1,40 beIN 14
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/36.ch
-#EXTINF:-1,41 beIN 15
-http://demo.xtream-codes.com/ltMbdTOapP/Abouda/Daz/37.ch
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 rtmp://50.7.180.18/nahar_tv playpath=nahar_sportprofile1.stream swfUrl=http://demos.streamtrix.com/swf/flowplayer.cluster-3.2.10.swf pageUrl=http://demos.streamtrix.com/alnaharsport/
 #EXTINF:-1,PRO SPORTS 1
@@ -435,16 +265,6 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
-#EXTINF:-1,ARABIC-beIN Sport 2
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport2/sport2/sport2.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1,ARABIC-beIN Sport 3
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport3/sport3/sport3.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1,ARABIC-beIN Sport 4
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/sport4/sport4/sport4.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1,ARABIC-beIN Sport 5
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport5/sport5/sport5.m3u8?rRb545vJBB5tYzB7vVP
-#EXTINF:-1,ARABIC-beIN Sport 6
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?rRb545vJBB5tYzB7vVP
 #EXTINF:-1,BT Sport 1
 rtmp://93.174.95.125:1935/edge/definst/thj91224cuxnfr1
 #EXTINF:-1,BT Sport 2
@@ -481,87 +301,34 @@ rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky5 pageUrl=http://www.hdcast.
 rtmpe://46.246.29.162:1935/live/ playpath=Sporthdskyf1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
 #EXTINF:-1,SKY:SKY SPORTS NEWS
 rtmp://62.210.93.241:443/liverepeater playpath=175248 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS 1
 rtmp://62.210.93.241:443/liverepeater playpath=175244 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS 2
 rtmp://62.210.93.241:443/liverepeater playpath=175240 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS 3
 rtmp://62.210.93.241:443/liverepeater playpath=175245 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS 4
 rtmp://62.210.93.241:443/liverepeater playpath=175243 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS 5
 rtmp://62.210.93.241:443/liverepeater playpath=175242 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SKY:SKY SPORTS F1
 rtmp://62.210.93.241:443/liverepeater playpath=175241 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
-#EXTINF:-1,SKY:SKY SPORTS NEWS
-rtmpe://46.246.29.160:1935/live/ playpath=sskysn pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS 1
-rtmpe://46.246.29.160:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS 2
-rtmpe://46.246.29.160:1935/live/ playpath=sskys2 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS 3
-rtmpe://46.246.29.160:1935/live/ playpath=sskys3 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS 4
-rtmpe://46.246.29.160:1935/live/ playpath=sskys4 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS 5
-rtmpe://46.246.29.160:1935/live/ playpath=sskys5 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1,SKY:SKY SPORTS F1
-rtmpe://46.246.29.160:1935/live/ playpath=sskysf1 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku timeout=10
-
 #EXTINF:-1,SPORT:BT SPORT 1
 rtmp://62.210.94.160:443/liverepeater playpath=175247 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
 #EXTINF:-1,SPORT:BT SPORT 2
 rtmp://62.210.93.242:443/liverepeater playpath=175246 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
-
-#EXTINF:-1,SPORT:BT SPORT 1
-rtmpe://46.246.29.160:1935/live/ playpath=sbt1 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku
-
-#EXTINF:-1,SPORT:BT SPORT 2
-rtmpe://46.246.29.160:1935/live/ playpath=sbt2 pageUrl=http://www.hdcast.org/loboi token=#yw%tt#w@kku
-
-#EXTINF:-1,Sky Sports 1
-rtmp://37.59.71.186/live/SkySports1?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
 #EXTINF:-1,Sky Sports 2
-rtmp://37.59.71.186/live/SkySports2?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
+http://178.33.24.14:7552
 #EXTINF:-1,Sky Sports 3
-rtmp://37.59.71.186/live/SkySports3?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
+http://178.33.24.14:7553
 #EXTINF:-1,Sky Sports 4
-rtmp://37.59.71.186/live/SkySports4?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,Sky Sports 5
-rtmp://37.59.71.186/live/SkySports5?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,Sky Sports News
-rtmp://37.59.71.186/live/SkySportsNews?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,Sky Sports F1
-rtmp://37.59.71.186/live/SkySportsF1?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,ESPN
-rtmp://37.59.71.186/live/ESPN-UK?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,BT Sports 1
-rtmp://37.59.71.186/live/BTSport1?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
-
-#EXTINF:-1,BT Sports 2
-rtmp://37.59.71.186/live/BTSport2?code=0J__uSYGXvD0BLaUzUjrcw&user=eu-iptv&pass=Skype
+http://178.33.24.14:7554
+#EXTINF:-1,Sky Sports 1
+http://178.33.24.14:7551
+#EXTINF:-1,arenasport 1
+http://178.33.24.14:7555
+#EXTINF:-1,arenasport 2
+http://178.33.24.14:7556
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,[COLOR red]American Horrors[/COLOR] 
@@ -654,133 +421,6 @@ http://202.75.23.36:1400/live/ch43/01.m3u8
 rtmp://109.123.70.15:80/live playpath=mov2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=mov2&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,Sky movies 2
 rtmp://109.123.70.15:80/live playpath=mov3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=mov3&vw=620&vh=490 token=%ZZri(nKa@#Z
-#EXTINF:-1,sky history
-
-http://liveontv.k30.us/history.m3u8
-
-#EXTINF:-1,sky history 2
-
-http://liveontv.k30.us/history2.m3u8
-
-#EXTINF:-1,discovery
-
-http://liveontv.k30.us/discovery.m3u8
-
-#EXTINF:-1,discovery history
-
-http://liveontv.k30.us/dischistory.m3u8
-
-#EXTINF:-1,discovery science
-
-http://liveontv.k30.us/discscience.m3u8
-
-#EXTINF:-1,discovery turbo
-
-http://liveontv.k30.us/discturbo.m3u8
-
-#EXTINF:-1,discovery home
-
-http://liveontv.k30.us/dischome.m3u8
-
-#EXTINF:-1,national geographic
-
-http://liveontv.k30.us/natgeo.m3u8
-
-#EXTINF:-1,natgeo wild
-
-http://liveontv.k30.us/natgeowild.m3u8
-
-#EXTINF:-1,animal planet
-
-http://liveontv.k30.us/animalplanet.m3u8
-
-#EXTINF:-1,sky comedy
-
-http://liveontv.k30.us/skycomedy.m3u8
-
-#EXTINF:-1,sky showcase
-
-http://liveontv.k30.us/skyshowcase.m3u8
-
-#EXTINF:-1,sky select
-
-http://liveontv.k30.us/skyselect.m3u8
-
-#EXTINF:-1,sky movies premier
-
-http://liveontv.k30.us/skymovpremier.m3u8
-
-#EXTINF:-1,sky movies desney
-
-http://liveontv.k30.us/skymoviesdesney.m3u8
-
-#EXTINF:-1,sky movies +24
-
-http://liveontv.k30.us/skymovies24.m3u8
-
-#EXTINF:-1,sky crime
-
-http://liveontv.k30.us/skycrime.m3u8
-
-#EXTINF:-1,sky pick
-
-http://liveontv.k30.us/skypick.m3u8
-
-#EXTINF:-1,sky atlantic
-
-http://liveontv.k30.us/skyatlantic.m3u8
-
-#EXTINF:-1,sky atlantic1
-
-http://liveontv.k30.us/skyatlantic1.m3u8
-
-#EXTINF:-1,sky living
-
-http://liveontv.k30.us/skyliving.m3u8
-
-#EXTINF:-1,sky 1
-
-http://liveontv.k30.us/sky1.m3u8
-
-#EXTINF:-1,sky 2
-
-http://liveontv.k30.us/sky2.m3u8
-
-#EXTINF:-1,Barca TV
-
-http://liveontv.k30.us/barcatv.m3u8
-#EXTINF:-1,Real madrid tv
-http://liveontv.k30.us/realmadrid.m3u8
-#EXTINF:-1,canal 30
-http://www.liveontv.k30.us/canal_30.m3u8
-#EXTINF:-1,canal+1
-http://liveontv.k30.us/plus1.m3u8
-#EXTINF:-1,canal+2
-http://liveontv.k30.us/plus2.m3u8
-#EXTINF:-1,canal+ comedia
-http://liveontv.k30.us/comedia.m3u8
-#EXTINF:-1,canal+ hollywood
-http://liveontv.k30.us/hollywood.m3u8
-#EXTINF:-1,fox crime
-http://liveontv.k30.us/foxcrime.m3u8
-#EXTINF:-1,Canal + accion
-http://liveontv.k30.us/plusaccion.m3u8
-#EXTINF:-1,canal+ futbol
-http://liveontv.k30.us/plusfutbol.m3u8
-#EXTINF:-1,canal+ liga
-http://liveontv.k30.us/plusliga.m3u8
-#EXTINF:-1,canal+ dcine
-http://liveontv.k30.us/dcine.m3u8
-#EXTINF:-1,canal+ campeones
-http://liveontv.k30.us/pluscamp.m3u8
-#EXTINF:-1,canal+ torros
-http://liveontv.k30.us/plustoros.m3u8
-#EXTINF:-1,cuatro
-http://liveontv.k30.us/plustoros.m3u8
-#EXTINF:-1,lasextata
-http://liveontv.k30.us/lasexta.m3u8
-#EXTINF:-1,desney
-http://liveontv.k30.us/desney.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
