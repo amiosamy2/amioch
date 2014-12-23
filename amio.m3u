@@ -2,11 +2,11 @@
 #EXTINF:-1,group-title=Christian,[COLOR red]ACC[/COLOR]
 http://stream.acctv.com.au/index.m3u8
 #EXTINF:-1,[COLOR red]Al Waad Tv[/COLOR]
-rtmp://amsix3.streamkit.tv:80/edge/_definst_ playpath=hcmena_200 swfUrl=http://web.streamkit.tv/clientStrobe/StrobeMediaPlayback.swf pageUrl=http://play.streamkit.tv/content/channel/hcmena/live/hcmena.fplayer.html?autoPlay=true
+rtmp://amsix17.streamkit.tv:80/edge/_definst_ playpath=hcmena_200?cn=hcmena swfUrl=http://web.streamkit.tv/clientStrobe/strobe-media-playback-2.0.24.swf pageUrl=http://play.streamkit.tv/content/channel/hcmena/live/hcmena.fplayer.html?autoPlay=true
 #EXTINF:-1,[COLOR red]ATV SAT[/COLOR]
-http://videos.atvsat.com:1935/atvsatlive/atvsatlive1/playlist.m3u8
+rtmp://mobile.atvsat.anharnet.org:1935/atvsatlive playpath=atvsatlive2 swfUrl=http://atvsat.com/liveplayer/player.swf pageUrl=http://www.atvsat.com/watch-live
 #EXTINF:-1,[COLOR red]ABNSAT[/COLOR]
-rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-900k?streamType=LiveStream
+rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live/ playpath=stream-600k?streamType=LiveStream swfUrl=http://www.abnsat.com/LLNWPlayer.swf pageUrl=http://www.abnsat.com/index.php?option=com_content&view=article&id=119&Itemid=178&lang=en
 #EXTINF:-1,[COLOR red]Alfady TV[/COLOR]
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
 #EXTINF:-1,[COLOR red]Al Hayat[/COLOR]
@@ -22,23 +22,23 @@ rtmp://flash.alkarmatv.com/karmatv_me/karmatv_me1
 #EXTINF:-1,[COLOR red]Aghapy TV[/COLOR]
 http://xaghapychannelx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,[COLOR red]Alkalema[/COLOR]
-http://www.alkalema.tv/extra/fms/liveevent.m3u8
+rtmp://fml.2E1F.edgecastcdn.net/202E1F/default?channel_id=9405&source=othersites playpath=stream_9405 swfUrl=http://embed.cdn01.net/player.swf?v14 pageUrl=http://embed.cdn01.net/player.php?width=680&height=360&skinColor=000000&autoStart=false&playlistPos=inside&playlistSize=350&tvButtonID=crosstv&id=9405&type=live
 #EXTINF:-1,[COLOR red]Alkaraza[/COLOR]
 rtmp://156.obj.netromedia.net/elkerazatv playpath=elkerazatv swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=472f5c87-9b5f-49be-8cda-5749fa192682&iframe=true&autoPlay=true&scaling=scale&content=true
 #EXTINF:-1,[COLOR red]Al-Horreya[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 #EXTINF:-1,[COLOR red]CTV[/COLOR]
-rtmp://sc-lb1.streamcyclone.com/ctvch_live/ctvch
+http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
 #EXTINF:-1,[COLOR red]CYC[/COLOR]
-http://cycnow.az-streamingserver.com:3333/live/cyc2/playlist.m3u8
+rtmp://cycnow.az-streamingserver.com:3333/live playpath=cyc2 swfUrl=http://cycnow.com/players/swf/1.6.32StrobeMediaPlayback.swf pageUrl=http://cycnow.com/site/live-streaming
 #EXTINF:-1,[COLOR red]Copticsat TV[/COLOR]
-rtmp://154.obj.netromedia.net/Copticsat/Copticsat
+rtmp://media.smc-host.com:1935/csat.tv/_definst_ playpath=mp4:csat2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://csat.tv/
 #EXTINF:-1,[COLOR red]CBN TV[/COLOR]
 mmsh://live1.cbn.org/iptv1
 #EXTINF:-1,[COLOR red]CBN News[/COLOR]
 rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
 #EXTINF:-1,[COLOR red]Charity[/COLOR]
-rtmp://livestreaming.ositcom.net/tvcharity/tvCharityStream
+http://livestreaming.ositcom.net:1935/tvcharity/tvCharityStream/playlist.m3u8
 #EXTINF:-1,[COLOR red]Daystar TV[/COLOR]
 http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
 #EXTINF:-1,[COLOR red]Hope TV[/COLOR]
@@ -54,7 +54,7 @@ http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,[COLOR red]JCTV[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186244/master.m3u8
 #EXTINF:-1,[COLOR red]MESAT[/COLOR]
-rtmp://sc-e1.streamcyclone.com/MeSatWeb playpath=MeSatChannel swfUrl=http://mesat.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://mesat.tv/2012/06/02/streaming/
+rtmp://sc-e1.streamcyclone.com:1935/MeSatWeb playpath=MeSatChannel swfUrl=http://copticpope.tv/flowplayer-3.2.7.swf pageUrl=http://copticpope.tv/
 #EXTINF:-1,[COLOR red]Miracle TV[/COLOR]
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
 #EXTINF:-1,[COLOR red]New Life Egypt[/COLOR]
@@ -269,6 +269,22 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 rtmp://93.174.95.125:1935/edge/definst/thj91224cuxnfr1
 #EXTINF:-1,BT Sport 2
 rtmp://93.174.95.125:1935/edge/definst/z3ua1ed00znttfp
+#‎EXTINF‬:-1, ESPN HD US
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1,ESPN HD 2 US
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,BT SPORT 1 HD UK
+rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+#EXTINF:-1,CARTOON NETWORK
+rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws
+#EXTINF:-1,SKY SPORT 2
+rtmp://93.174.95.125:1935/edge/_definst_/on39ol6in4f2ewp
+#EXTINF:-1,SKY SPORT 4
+rtmp://93.174.95.125:1935/edge/_definst_/21ajqprn56aebp3
+#EXTINF:-1,FOX SOCCER PLUS HD
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:-1,NBA Live TV
+rtmp://93.174.95.125:1935/edge/_definst_/9mfz7jkikuatfqz
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
