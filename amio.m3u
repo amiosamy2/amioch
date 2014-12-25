@@ -437,6 +437,120 @@ http://202.75.23.36:1400/live/ch43/01.m3u8
 rtmp://109.123.70.15:80/live playpath=mov2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=mov2&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1,Sky movies 2
 rtmp://109.123.70.15:80/live playpath=mov3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=mov3&vw=620&vh=490 token=%ZZri(nKa@#Z
+#EXTINF:0,1 on 1 Boxing TV
+http://204.107.26.145:1935/live/1988.low.stream/playlist.m3u8
+#EXTINF:0,ABC
+rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,AMC HD
+rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,AMC HD
+rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,American Horrors
+http://204.107.26.252:1935/live/393.high.stream/playlist.m3u8
+#EXTINF:0,CarolCablesTV (Florida) mmsh
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:0,Cartoon Network
+rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,Channel 6 – City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1
+#EXTINF:0,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+#EXTINF:0,Classic Arts Showcase (Boston)
+rtmp://streaming.cityofboston.gov/live/cable
+#EXTINF:0,Classic Movies
+rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
+#EXTINF:0,Classic Movies Archive
+rtmp://204.107.26.252:8086/live/1991.high.stream
+#EXTINF:0,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+#EXTINF:0,CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,CW USA
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,CW USA
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,Discovery Channel
+http://202.75.23.34:1400/live/ch29/02.m3u8
+#EXTINF:0,Discovery Channel
+http://202.75.23.34/live/ch29/01.m3u8
+#EXTINF:0,Discovery Science
+http://202.75.23.34:1400/live/ch33/03.m3u8
+#EXTINF:0,Discovery Science
+http://202.75.23.34/live/ch33/01.m3u8
+#EXTINF:0,Discovery World
+http://202.75.23.34:1400/live/ch30/03.m3u8
+#EXTINF:0,Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:0,Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/playlist.m3u8
+#EXTINF:0,eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/playlist.m3u8
+#EXTINF:0,FOX 5 USA
+rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,Free Speech TV
+http://204.107.26.252:1935/live/697.high.stream/playlist.m3u8
+#EXTINF:0,GINX
+rtmp://204.107.26.252:8086/live/796.high.stream
+#EXTINF:0,GMU TV (Virginia) mms
+mms://media.mesa.gmu.edu/capconwhite1
+#EXTINF:0,Havoc Television
+http://204.107.26.252:1935/live/335.high.stream/playlist.m3u8
+#EXTINF:0,Home And Health
+http://202.75.23.34/live/ch34/01.m3u8
+#EXTINF:0,iFlix TV
+http://204.107.26.252:1935/live/1991.high.stream/playlist.m3u8
+#EXTINF:0,Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+#EXTINF:0,NatGeo Wild
+http://202.75.23.35/live/ch39/01.m3u8
+#EXTINF:0,NBC
+rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:0,News 12 Long Island(Stream 1)
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000
+#EXTINF:0,News Bronx(Stream 1)
+rtmp://fs-b5e3010000000000.id.cdn.cv.net/vxedge/fs-b5e3010000000000/fs-b5e3010000000000
+#EXTINF:0,News Bronx(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:0,News Brooklyn(Stream 1)
+rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000/fs-ace3010000000000
+#EXTINF:0,News Brooklyn(Weather)
+rtmp://fs-afe3010000000000.id.cdn.cv.net/vxedge/fs-afe3010000000000/fs-afe3010000000000
+#EXTINF:0,News Connecticut(Stream 1)
+rtmp://fs-bbe3010000000000.id.cdn.cv.net/vxedge/fs-bbe3010000000000/fs-bbe3010000000000
+#EXTINF:0,News Connecticut(Weather)
+rtmp://fs-b6e3010000000000.id.cdn.cv.net/vxedge/fs-b6e3010000000000/fs-b6e3010000000000
+#EXTINF:0,News Hudson Valley(Stream 1)
+rtmp://fs-bae3010000000000.id.cdn.cv.net/vxedge/fs-bae3010000000000/fs-bae3010000000000
+#EXTINF:0,News Hudson Valley(Weather)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:0,News Long Island(Stream 2)
+rtmp://fs-b94e110000000000.id.cdn.cv.net/vxedge/fs-b94e110000000000/fs-b94e110000000000
+#EXTINF:0,News Long Island(Weather)
+rtmp://fs-aee3010000000000.id.cdn.cv.net/vxedge/fs-aee3010000000000/fs-aee3010000000000
+#EXTINF:0,News New Jersey(Stream 1)
+rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000/fs-b9e3010000000000
+#EXTINF:0,News New Jersey(Weather)
+rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e3010000000000
+#EXTINF:0,News Westchester(Stream 1)
+rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+#EXTINF:0,News Westchester(Weather from Hudson Valley)
+rtmp://fs-b8e3010000000000.id.cdn.cv.net/vxedge/fs-b8e3010000000000/fs-b8e3010000000000
+#EXTINF:0,Outdoor
+rtmp://lm02.everyon.tv:1935/ptv2/pld613?Vd?u#bt!25
+#EXTINF:0,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:0,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:0,Press TV
+http://204.107.26.252:1935/live/905.high.stream/playlist.m3u8
+#EXTINF:0,QVC HD
+http://204.107.26.252:1935/live/413.high.stream/playlist.m3u8
+#EXTINF:0,RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?Vd?u#bt!25
+#EXTINF:0,YouToo
+http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
