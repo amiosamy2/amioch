@@ -1001,6 +1001,26 @@ rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
 rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
 #EXTINF:-1,VH1
 rtmp://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9
+#EXTINF:-1,NatGeo Wild
+http://202.75.23.35/live/ch39/01.m3u8
+#EXTINF:-1,DMAX
+http://202.75.23.34/live/ch32/01.m3u8
+#EXTINF:-1,Discovery Kids
+http://202.75.23.35/live/ch36/01.m3u8
+#EXTINF:-1,MGM SD
+http://202.75.23.35/live/ch40/01.m3u8
+#EXTINF:-1,Discovery World
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:-1,TLC
+http://202.75.23.34/live/ch35/03.m3u8?b?b*t$
+#EXTINF:-1,CineStream TV
+http://68.71.42.179/live/livestream1/playlist.m3u8
+#EXTINF:-1,NatGeo
+http://202.75.23.35:1400/live/ch38/01.m3u8
+#EXTINF:-1,Travel Channel
+http://202.75.23.35/live/ch41/03.m3u8?b?b*t$world ras
+#EXTINF:-1,MGM
+http://202.75.23.35/live/ch40/03.m3u8?b?b*t$
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
