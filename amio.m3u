@@ -94,7 +94,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
 #EXTINF:-1,[COLOR blue]Aljazeera Arabic[/COLOR]
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=//aljazeera_ara_high?videoId=1066347278001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=
+rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1,[COLOR blue]Al Jazeera Mubasher[/COLOR]
 http://hd1.lsops.net/live/smil:aljamuba_ar_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR blue]Al Jazeera America[/COLOR]
@@ -188,7 +188,7 @@ rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Dubai TV[/COLOR]
 http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
-rtmp://live-f01.vustream.net/live/livestream3
+http://212.179.77.42/live/livestream3/chunklist_w530716746.m3u8
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
 #EXTINF:-1,[COLOR yellow]Mehwar Tv 2[/COLOR]
@@ -214,9 +214,9 @@ http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel01/events/_d
 #EXTINF:-1,MBC Misr 2
 http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel02/events/_definst_/live/stream1Num82155.ts
 #EXTINF:-1,MBC 1
-rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
+http://63.237.48.3/ios/MBC1/MBC1.m3u8
 #EXTINF:-1,MBC 2
-rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&width=600&height=400
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC 3
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc3&width=600&height=400
 #EXTINF:-1,MBC 4
@@ -226,7 +226,7 @@ rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com
 #EXTINF:-1,MBC Action
 rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&width=600&height=400
 #EXTINF:-1,MBC bollywood
-rtmp://94.102.56.186:1936/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&width=600&height=400
+rtmp://185.5.222.189/live/MBCBollywood
 #EXTINF:-1,Hanibal
 rtmp://94.102.56.186:1936/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf live=1 pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
 #EXTINF:-1,CBC
@@ -307,11 +307,19 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live/stream1.m3u8
 #EXTINF:-1,PRO SPORTS 4
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
+#EXTINF:-1,bein Sport HD1
+rtmp://wzmatch.uforone.net/live/_definst_/beinsports1
+#EXTINF:-1,bein Sport HD2
+rtmp://213.136.71.43/live?Sport.HD/beinsports1?Sport.HD
+#EXTINF:-1,bein Sport HD3
+http://videos.streaming-hub.com/bein3.m3u8
+#EXTINF:-1,bein Sport HD4
+http://videos.streaming-hub.com/bein4.m3u8
 #EXTINF:-1,BT Sport 1
 rtmp://93.174.95.125:1935/edge/definst/thj91224cuxnfr1
 #EXTINF:-1,BT Sport 2
 rtmp://93.174.95.125:1935/edge/definst/z3ua1ed00znttfp
-#‎EXTINF‬:-1, ESPN HD US
+#EXTINF:-1,ESPN HD US
 rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
 #EXTINF:-1,ESPN HD 2 US
 rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
