@@ -245,12 +245,16 @@ rtmp://213.136.71.43/live?Sport.HD/beinsports1?Sport.HD
 http://videos.streaming-hub.com/bein3.m3u8
 #EXTINF:-1,bein Sport HD4
 http://videos.streaming-hub.com/bein4.m3u8
-#EXTINF:0,bein 1
+#EXTINF:-1,bein 1
 http://180.250.29.21/jhos/bein1/1420248174/playlist.m3u8
-#EXTINF:0,bein 2
+#EXTINF:-1,bein 2
 http://180.250.29.21/jhos/bein2/1420248174/playlist.m3u8
-#EXTINF:0,bein 3
+#EXTINF:-1,bein 3
 http://180.250.29.21/jhos/bein3/1420248174/playlist.m3u8
+#EXTINF:-1,SKY Sport 1
+http://178.33.24.14:15551/
+#EXTINF:-1,SKY Sport 3
+http://178.33.24.14:15553/
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
