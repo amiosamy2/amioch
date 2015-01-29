@@ -181,48 +181,6 @@ http://63.237.48.3/ios/MBC1/MBC1.m3u8
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC bollywood
 rtmp://185.5.222.189/live/MBCBollywood
-#EXTINF:-1,mbc1
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbc1
-#EXTINF:-1,mbc2
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbc2
-#EXTINF:-1,mbc3
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbc3
-#EXTINF:-1,mbc4
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbc4
-#EXTINF:-1,mbcaction
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbcaction
-#EXTINF:-1,mbcmax
-rtmp://web.iptv-planet.com:1936/live2/Hi_mbcmax
-#EXTINF:-1,Nile cinema
-rtmp://web.iptv-planet.com:1936/live2/Hi_nilecinema
-#EXTINF:-1,Nile Drama
-rtmp://web.iptv-planet.com:1936/live2/Hi_niledrama
-#EXTINF:-1,Nile Sport
-rtmp://web.iptv-planet.com:1936/live2/Hi_nilesport
-#EXTINF:-1,Nile Comedy
-rtmp://web.iptv-planet.com:1936/live2/Hi_nilecomedy
-#EXTINF:-1,Alhayat
-rtmp://web.iptv-planet.com:1936/live2/Hi_ALhayat
-#EXTINF:-1,Al Nahar Drama
-rtmp://web.iptv-planet.com:1936/live2/alnahardrama
-#EXTINF:-1,Cima
-rtmp://web.iptv-planet.com:1936/live2/cima
-#EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1936/live2/cbc
-#EXTINF:-1,CBC Drama
-rtmp://web.iptv-planet.com:1936/live2/cbcd
-#EXTINF:-1,Cairo Cinema
-rtmp://web.iptv-planet.com:1936/live2/cc
-#EXTINF:-1,Cairo Drama
-rtmp://web.iptv-planet.com:1936/live2/cd
-#EXTINF:-1,Rotana Aflam
-rtmp://web.iptv-planet.com:1936/live2/rc
-#EXTINF:-1,Rotana Clip
-rtmp://web.iptv-planet.com:1936/live2/rcl
-#EXTINF:-1,Fox Movies
-rtmp://web.iptv-planet.com:1936/live2/fm
-#EXTINF:-1,zeeaflem
-rtmp://web.iptv-planet.com:1936/live2/Hi_zeeaflem
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,PRO SPORTS 1
@@ -235,28 +193,70 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live/stream1.m3u8
 #EXTINF:-1,Antena 3 Sports
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,Antena 3 Sports 720 HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1, Bein Sports 1
+#EXTINF:-1,Bein Sports 1
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_1
+#EXTINF:-1,Bein Sports 2
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_2
+#EXTINF:-1,Bein Sporst 3
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_3
+#EXTINF:-1,Bein Sports 4
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_4
+#EXTINF:-1,Bein Sports 5
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_5
+#EXTINF:-1,Bein Sports 6
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_6
+#EXTINF:-1,Bein Sports 7
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_7
+#EXTINF:-1,Bein Sports 8
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_8
+#EXTINF:-1,Bein Sports 9
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_9
+#EXTINF:-1,Bein Sports 10
+rtmp://medias.streaming-hub.com:1936/live/bein_sport_10
+#EXTINF:-1,Bein Sports 1
 http://188.165.225.63:8080/bein1.m3u8
-#EXTINF:-1, Bein Sports 2
+#EXTINF:-1,Bein Sports 2
 http://188.165.225.63:8080/bein2.m3u8
-#EXTINF:-1, Bein Sports 3
+#EXTINF:-1,Bein Sports 3
 http://188.165.225.63:8080/bein3.m3u8
-#EXTINF:-1, Bein Sports 4
+#EXTINF:-1,Bein Sports 4
 http://188.165.225.63:8080/bein4.m3u8
-#EXTINF:-1, Bein Sports 5
+#EXTINF:-1,Bein Sports 5
 http://188.165.225.63:8080/bein5.m3u8
-#EXTINF:-1, Bein Sports 6
+#EXTINF:-1,Bein Sports 6
 http://188.165.225.63:8080/bein6.m3u8
-#EXTINF:-1, Bein Sports 7
+#EXTINF:-1,Bein Sports 7
 http://188.165.225.63:8080/bein7.m3u8
-#EXTINF:-1, Bein Sports 8
+#EXTINF:-1,Bein Sports 8
 http://188.165.225.63:8080/bein8.m3u8
-#EXTINF:-1,SKY Sport 1
-http://178.33.24.14:15551/
-#EXTINF:-1,SKY Sport 3
-http://178.33.24.14:15553/
+#EXTINF:-1,MUTV
+http://37.157.245.82:1935/tv/mutv.stream/playlist.m3u8
+#EXTINF:-1,Chelsea
+http://37.157.245.82:1935/tv/chelseatv.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 1
+http://ukstream.myftp.org:1935/edge1/foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://ukstream.myftp.org:1935/edge1/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,Arena 1
+http://109.200.1.82:1935/edge1/arena1.stream/playlist.m3u8
+#EXTINF:-1,Arena 2
+http://109.200.1.82:1935/edge1/arena2.stream/playlist.m3u8
+#EXTINF:-1,Arena 3
+http://109.200.1.82:1935/edge1/arena3.stream/playlist.m3u8
+#EXTINF:-1,Arena 4
+http://109.200.1.82:1935/edge1/arena4.stream/playlist.m3u8
+#EXTINF:-1,NBC
+http://37.157.245.82:1935/tv/nbc.stream/playlist.m3u8
+#EXTINF:-1,sportsnetW
+http://37.157.245.82:1935/tv/sportsnetW.stream/playlist.m3u8
+#EXTINF:-1,sportsnetO
+http://37.157.245.82:1935/tv/sportsnetO.stream/playlist.m3u8
+#EXTINF:-1,TSN 1
+http://37.157.245.82:1935/tv/tsn1.stream/playlist.m3u8
+#EXTINF:-1,TSN 2
+http://37.157.245.82:1935/tv/tsn2.stream/playlist.m3u8
+#EXTINF:-1,AMC HD
+http://37.157.245.82:1935/tv/amchd.stream/playlist.m3u
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
@@ -269,18 +269,6 @@ rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.
 rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,American Horrors
 http://204.107.26.252:1935/live/393.high.stream/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://202.75.23.34:1400/live/ch31/01.m3u8
-#EXTINF:-1,ASN sports
-http://202.75.23.33:1400/live/ch26/01.m3u8
-#EXTINF:-1,BABY FIRST
-http://202.75.23.33:1400/live/ch27/01.m3u8
-#EXTINF:-1,BBC
-http://202.75.23.33:1400/live/ch28/01.m3u8
-#EXTINF:-1,Bio
-http://202.75.23.36:1400/live/ch46/01.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://202.75.23.36:1400/live/ch47/01.m3u8
 #EXTINF:-1,CineStream TV
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:-1,CARTOONITO
@@ -301,24 +289,10 @@ rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CW USA
 rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-‪#‎EXTINF‬:-1,Discovery
-http://202.75.23.34:1400/live/ch29/01.m3u8
-#EXTINF:-1,DISCOVERY HD WORLD
-http://202.75.23.34:1400/live/ch30/01.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://202.75.23.34:1400/live/ch32/01.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://202.75.23.34:1400/live/ch33/01.m3u8
-#EXTINF:-1,Discovery kids
-http://202.75.23.35:1400/live/ch36/01.m3u8
-#EXTINF:-1,Eurosport
-http://202.75.23.37:1400/live/ch21/01.m3u8
 #EXTINF:-1,eScapes HD TV
 http://204.107.26.252:1935/live/341.high.stream/playlist.m3u8
 #EXTINF:-1,FOX 5 USA
 rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-#EXTINF:-1,Fashion one
-http://202.75.23.35:1400/live/ch37/01.m3u8
 #EXTINF:-1,Golf channel
 rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
 #EXTINF:-1,GINX
@@ -327,92 +301,44 @@ rtmp://204.107.26.252:8086/live/796.high.stream
 mms://media.mesa.gmu.edu/capconwhite1
 #EXTINF:-1,Havoc Television
 http://204.107.26.252:1935/live/335.high.stream/playlist.m3u8
-#EXTINF:-1,Hallmark HD
-rtmp://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq
-#EXTINF:-1,HBO HD
-rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
-#EXTINF:-1,HBO
-rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
 #EXTINF:-1,HBO PLUS
 rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hboplus.html
-#EXTINF:-1,HOME & HEALTH
-http://202.75.23.34:1400/live/ch34/01.m3u8
-#EXTINF:-1,HD
-http://202.75.23.35:1400/live/ch38/01.m3u8
-#EXTINF:-1,History
-http://202.75.23.36:1400/live/ch45/01.m3u8
 #EXTINF:-1,iFlix TV
 http://204.107.26.252:1935/live/1991.high.stream/playlist.m3u8
-#EXTINF:-1,Jim Jam
-http://202.75.23.37:1400/live/ch17/01.m3u8
-#EXTINF:-1,LIFE TIME
-http://202.75.23.36:1400/live/ch48/01.m3u8
-#EXTINF:-1,Mediacorp
-http://202.75.23.37:1400/live/ch15/01.m3u8
-#EXTINF:-1,MTV live hd
-http://202.75.23.37:1400/live/ch50/01.m3u8
-#EXTINF:-1,MTV rock
-http://202.75.23.35:1400/live/ch42/01.m3u8
 #EXTINF:-1,[COLOR red]MAX HD[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=maxhd swfUrl=http://www.tv-msn.com/… pageUrl=http://tv-msn.com/maxhd.html token=ef8e8620da151301dfa07b3886ab30ad live=1
 #EXTINF:-1,[COLOR red]MGM[/COLOR]
 rtmp://109.200.202.124:1935/live playpath=mgm swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/mgm.html token=ef8e8620da151301dfa07b3886ab30ad live=1
-#EXTINF:-1,MGM
-http://202.75.23.35:1400/live/ch40/01.m3u8
-#EXTINF:-1,MGM
-http://202.75.23.35/live/ch40/03.m3u8?b?b*t$
 #EXTINF:-1,Mission TV
 rtmp://streamer1.streamhost.org/salive/GMImissiontvh
 #EXTINF:-1,NBC
 rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-#EXTINF:-1,NatGeo
-http://202.75.23.35:1400/live/ch38/01.m3u8
-#EXTINF:-1,Nat geo wild
-http://202.75.23.35:1400/live/ch39/01.m3u8
-#EXTINF:-1,Nat Geo
-http://93.158.221.200:9005/bysid/4805
-#EXTINF:-1,Nat Geo+1hr
-http://93.158.221.200:9005/bysid/4806
-#EXTINF:-1,Nat Geo Wild
-http://93.158.221.200:9005/bysid/4807
-#EXTINF:-1,NBC HD
-rtmp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g
-#EXTINF:-1,Nickelodeon
-http://202.75.23.36:1400/live/ch43/01.m3u8
-#EXTINF:-1,Nickelodeon
-rtmp://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0
-#EXTINF:-1,Outdoor
-rtmp://lm02.everyon.tv:1935/ptv2/pld613?Vd?u#bt!25
-#EXTINF:-1,OWN
-rtmp://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3
-#EXTINF:-1,Oxygen
-rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
-#EXTINF:-1,Setanta sports
-http://202.75.23.36:1400/live/ch44/01.m3u8
-#EXTINF:-1,Science HD
-rtmp://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib
-#EXTINF:-1,Showtime HD
-rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
-#EXTINF:-1,Showtime Movie
-rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
-#EXTINF:-1,Syfy
-rtmp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw
-#EXTINF:-1,Syfy HD
-rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
-#EXTINF:-1,Spike
-rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
-#EXTINF:-1,TLC
-http://202.75.23.34:1400/live/ch35/01.m3u8
-#EXTINF:-1,Travel
-http://202.75.23.35:1400/live/ch41/01.m3u8
-#EXTINF:-1,VJ fashion
-http://202.75.23.37:1400/live/ch16/01.m3u8
-#EXTINF:0,Viasat Naturale
-http://88.208.111.4:40027
-#EXTINF:0,ViasatExplorer
-http://88.208.111.4:40010
 #EXTINF:-1,YouToo
 http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT_US
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:eurosport_us/playlist.m3u8
+#EXTINF:-1,NICKELODEON_US
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:nickelodeon_us/playlist.m3u8
+#EXTINF:-1,COMEDYCENTRAL_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:comedycentral_uk/playlist.m3u8
+#EXTINF:-1,FLAVA_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:flava_uk/playlist.m3u8
+#EXTINF:-1,BLISS_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bliss_uk/playlist.m3u8
+#EXTINF:-1,SCUZZ_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:scuzz_uk/playlist.m3u8
+#EXTINF:-1,BBC2_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc2_uk/playlist.m3u8
+#EXTINF:-1,BBC1_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc1_uk/playlist.m3u8
+#EXTINF:-1,BBC3_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc3_uk/playlist.m3u8
+#EXTINF:-1,TLC_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:tlc_uk/playlist.m3u8
+#EXTINF:-1,ANIMALPLANET_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:animalplanet_uk/playlist.m3u8
+#EXTINF:-1,DISNEYCHANNEL_UK
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:disneychannel_uk/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
