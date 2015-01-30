@@ -229,6 +229,20 @@ http://188.165.225.63:8080/bein6.m3u8
 http://188.165.225.63:8080/bein7.m3u8
 #EXTINF:-1,Bein Sports 8
 http://188.165.225.63:8080/bein8.m3u8
+#EXTINF:-1,Bein Sports French 1
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:belnsport1_fr/playlist.m3u8
+#EXTINF:-1,Bein Sports French 2
+http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:belnsport2_fr/playlist.m3u8
+#EXTINF:-1,Sky sports 1
+http://37.157.245.82:1935/tv/skysp1.stream/playlist.m3u8
+#EXTINF:-1,Sky sports 2
+http://37.157.245.82:1935/tv/skysp2.stream/playlist.m3u8
+#EXTINF:-1,Sky sports 3
+http://37.157.245.82:1935/tv/skysp3.stream/playlist.m3u8
+#EXTINF:-1,Sky sports 4
+http://37.157.245.82:1935/tv/skysp4.stream/playlist.m3u8
+#EXTINF:-1,Sky sports 5
+http://37.157.245.82:1935/tv/skysp5.stream/playlist.m3u8
 #EXTINF:-1,MUTV
 http://37.157.245.82:1935/tv/mutv.stream/playlist.m3u8
 #EXTINF:-1,Chelsea
