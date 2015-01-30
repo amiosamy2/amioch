@@ -27,6 +27,8 @@ rtmp://fml.2E1F.edgecastcdn.net/202E1F/default?channel_id=9405&source=othersites
 rtmp://156.obj.netromedia.net/elkerazatv playpath=elkerazatv swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=472f5c87-9b5f-49be-8cda-5749fa192682&iframe=true&autoPlay=true&scaling=scale&content=true
 #EXTINF:-1,[COLOR red]Al-Horreya[/COLOR]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+#EXTINF:-1,Amazing Facts TV
+http://bglive-w.bitgravity.com/amazingfacts/live/feed01
 #EXTINF:-1,[COLOR red]CTV[/COLOR]
 http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
 #EXTINF:-1,[COLOR red]CYC[/COLOR]
@@ -233,6 +235,10 @@ http://188.165.225.63:8080/bein8.m3u8
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:belnsport1_fr/playlist.m3u8
 #EXTINF:-1,Bein Sports French 2
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:belnsport2_fr/playlist.m3u8
+#EXTINF:-1,BT SPORT 1
+http://37.157.245.82:1935/tv/bt1.stream/playlist.m3u8
+#EXTINF:-1,BT SPORT 2
+http://37.157.245.82:1935/tv/bt2.stream/playlist.m3u8
 #EXTINF:-1,Sky sports 1
 http://37.157.245.82:1935/tv/skysp1.stream/playlist.m3u8
 #EXTINF:-1,Sky sports 2
@@ -251,6 +257,16 @@ http://37.157.245.82:1935/tv/chelseatv.stream/playlist.m3u8
 http://ukstream.myftp.org:1935/edge1/foxsports1.stream/playlist.m3u8
 #EXTINF:-1,Fox Sports 2
 http://ukstream.myftp.org:1935/edge1/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,FOX SPORT1
+rtmp://skystreams.info:1935/live/fs1
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1,Fox sport 1
+http://ukstream.myftp.org:1935/edge1/foxsports1.stream/playlist.m3u8
+#EXTINF:-1,Fox Sport 2
+http://ukstream.myftp.org:1935/edge1/foxsports2.stream/playlist.m3u8
+#EXTINF:-1,NBA
+http://103.7.57.200:1999/tray/nba/playlist.m3u8
 #EXTINF:-1,Arena 1
 http://109.200.1.82:1935/edge1/arena1.stream/playlist.m3u8
 #EXTINF:-1,Arena 2
@@ -353,6 +369,198 @@ http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:tlc_uk/playlist.m3u8
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:animalplanet_uk/playlist.m3u8
 #EXTINF:-1,DISNEYCHANNEL_UK
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:disneychannel_uk/playlist.m3u8
+#EXTINF:-1,1 group-title=Cartoon,[COLOR red]Rabbit Fire[/COLOR]
+http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
+#EXTINF:-1,Tree Cornered Tweety
+http://archive.org/download/VintageCartoonsSet2MP4/051956TreeCorneredTweetyMmOpening_1.mp4
+#EXTINF:-1,Much Ado About Nutting
+http://archive.org/download/VintageCartoonsSet2MP4/052353MuchAdoAboutNuttingMm_1.mp4
+#EXTINF:-1,Beep Beep
+http://archive.org/download/VintageCartoonsSet2MP4/052452BeepBeepMmBr_1.mp4
+#EXTINF:-1,An Egg Scramble
+http://archive.org/download/VintageCartoonsSet2MP4/052750AnEggScrambleMmBr.mp4
+#EXTINF:-1,The Music Mice-tro
+http://archive.org/download/VintageCartoonsSet2MP4/052767TheMusicMice-troMmCnOpening_1.mp4
+#EXTINF:-1,Room And Bird
+http://archive.org/download/VintageCartoonsSet2MP4/060251RoomAndBirdMmBr.mp4
+#EXTINF:-1,Bowery Bugs
+http://archive.org/download/VintageCartoonsSet2MP4/060449BoweryBugsMmBr.mp4
+#EXTINF:-1,Tweetys Circus
+http://archive.org/download/VintageCartoonsSet2MP4/060455TweetysCircusMm_1.mp4
+#EXTINF:-1,Hare Trimmed
+http://archive.org/download/VintageCartoonsSet2MP4/062053HareTrimmedMm_1.mp4
+#EXTINF:-1,Aint She Tweet
+http://archive.org/download/VintageCartoonsSet2MP4/062152AintSheTweetLtBr_1.mp4
+#EXTINF:-1,All A Bir-r-r-d
+http://archive.org/download/VintageCartoonsSet2MP4/062450AllABir-r-r-dLtBr.mp4
+#EXTINF:-1,Muzzle Tough
+http://archive.org/download/VintageCartoonsSet2MP4/062654MuzzleToughMm_1.mp4
+#EXTINF:-1,Hawaiian Aye Aye
+http://archive.org/download/VintageCartoonsSet2MP4/062764HawaiianAyeAyeMm_1.mp4
+#EXTINF:-1,French Rarebit
+http://archive.org/download/VintageCartoonsSet2MP4/063051FrenchRarebitMmBr.mp4
+#EXTINF:-1,Zoom At The Top
+http://archive.org/download/VintageCartoonsSet2MP4/063062ZoomAtTheTopMm_1.mp4
+#EXTINF:-1,Wearing Of The Grin
+http://archive.org/download/VintageCartoonsSet2MP4/070451dvdWearingOfTheGrinLtBr.mp4
+#EXTINF:-1,Cracked Quack
+http://archive.org/download/VintageCartoonsSet2MP4/070552CrackedQuackMmBr_1.mp4
+#EXTINF:-1,Whats Opera Doc
+http://archive.org/download/VintageCartoonsSet2MP4/070657WhatsOperaDocMm_1.mp4
+#EXTINF:-1,Ball Bunny
+http://archive.org/download/VintageCartoonsSet2MP4/0708508BallBunnyLtBr.mp4
+#EXTINF:-1,This Is A Life
+http://archive.org/download/VintageCartoonsSet2MP4/070955ThisIsALifeMm_1.mp4
+#EXTINF:-1,Tweet And Lovely
+http://archive.org/download/VintageCartoonsSet2MP4/071859TweetAndLovelyMm_1.mp4
+#EXTINF:-1,Its Hummer Time
+http://archive.org/download/VintageCartoonsSet2MP4/072250ItsHummerTimeLtBr.mp4
+#EXTINF:-1,Bad Ol Putty Tat
+http://archive.org/download/VintageCartoonsSet2MP4/072349BadOlPuttyTatMmBr.mp4
+#EXTINF:-1,Corn On The Cop
+http://archive.org/download/VintageCartoonsSet2MP4/072465CornOnTheCopMm_1.mp4
+#EXTINF:-1,Duck Dodgers In The 24th Century
+http://archive.org/download/VintageCartoonsSet2MP4/072553dvdDuckDodgersInThe24thCenturyMm_1.mp4
+#EXTINF:-1,Leghorn Swoggled
+http://archive.org/download/VintageCartoonsSet2MP4/072851LeghornSwoggledMmBr.mp4
+#EXTINF:-1,Ready Woolen And Able
+http://archive.org/download/VintageCartoonsSet2MP4/073060ReadyWoolenAndAbleMm_1.mp4
+#EXTINF:-1,Rocket-bye Baby
+http://archive.org/download/VintageCartoonsSet2MP4/080456Rocket-byeBabyMm_1.mp4
+#EXTINF:-1,Golden Yeggs
+http://archive.org/download/VintageCartoonsSet2MP4/080550dvdGoldenYeggsMmBr.mp4
+#EXTINF:-1,The Grey Hounded Hare
+http://archive.org/download/VintageCartoonsSet2MP4/080649TheGreyHoundedHareLtBr.mp4
+#EXTINF:-1,Satans Waitin
+http://archive.org/download/VintageCartoonsSet2MP4/080754SatansWaitinLtBr_1.mp4
+#EXTINF:-1,Birds Anonymous
+http://archive.org/download/VintageCartoonsSet2MP4/081057BirdsAnonymousMmBr_1.mp4
+#EXTINF:-1,Hillbilly Hare
+http://archive.org/download/VintageCartoonsSet2MP4/081250HillbillyHareMm.mp4
+#EXTINF:-1,Often An Orphan
+http://archive.org/download/VintageCartoonsSet2MP4/081349OftenAnOrphanLtBr.mp4
+#EXTINF:-1,Stop Look And Hasten
+http://archive.org/download/VintageCartoonsSet2MP4/081454StopLookAndHastenMm_1.mp4
+#EXTINF:-1,Chili Weather
+http://archive.org/download/VintageCartoonsSet2MP4/081763ChiliWeatherMm_1.mp4
+#EXTINF:-1,Going Going Gosh
+http://archive.org/download/VintageCartoonsSet2MP4/082352GoingGoingGoshMm_1.mp4
+#EXTINF:-1,Cheese Chasers
+http://archive.org/download/VintageCartoonsSet2MP4/082551CheeseChasersMmBr.mp4
+#EXTINF:-1,Dog Gone South
+http://archive.org/download/VintageCartoonsSet2MP4/082650DogGoneSouthMmBr.mp4
+#EXTINF:-1,Cat-tails For Two
+http://archive.org/download/VintageCartoonsSet2MP4/082953Cat-tailsForTwoMmBr_1.mp4
+#EXTINF:-1,A Bird In A Guilty Cage
+http://archive.org/download/VintageCartoonsSet2MP4/083052ABirdInAGuiltyCageLtBr_1.mp4
+#EXTINF:-1,The Slap-hoppy Mouse
+http://archive.org/download/VintageCartoonsSet2MP4/090156TheSlap-hoppyMouseMm_1.mp4
+#EXTINF:-1,Honeys Money
+http://archive.org/download/VintageCartoonsSet2MP4/090162HoneysMoneyMm_1.mp4
+#EXTINF:-1,Dough For The Do-do
+http://archive.org/download/VintageCartoonsSet2MP4/090249dvdDoughForTheDo-doMm.mp4
+#EXTINF:-1,The Ducksters
+http://archive.org/download/VintageCartoonsSet2MP4/090250TheDuckstersLtBr.mp4
+#EXTINF:-1,Gone Batty
+http://archive.org/download/VintageCartoonsSet2MP4/090454GoneBattyLtBr_1.mp4
+#EXTINF:-1,Zoom And Bored
+http://archive.org/download/VintageCartoonsSet2MP4/090457ZoomAndBoredMm_1.mp4
+#EXTINF:-1,Speedy Gonzales
+http://archive.org/download/VintageCartoonsSet2MP4/090755dvdSpeedyGonzalesMm_1.mp4
+#EXTINF:-1,The Unmentionables
+http://archive.org/download/VintageCartoonsSet2MP4/090763TheUnmentionablesMm_1.mp4
+#EXTINF:-1,Tom And Jerry 001
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.001.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 002
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.002.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 004
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.004.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 012
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.012.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 013
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.013.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 14
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.014.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 015
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.015.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 016
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.016.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 017
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.017.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 018
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.018.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 019
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.019.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 020
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.020.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 021
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.021.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 022
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.022.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 023
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.023.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 024
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.024.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 025
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.025.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 026
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.026.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 027
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.027.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 028
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.028.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 029
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.029.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 030
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.030.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 031
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.031.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 032
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.032.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 033
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.033.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 034
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.034.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 036
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.036.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 037
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.037.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 038
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.038.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 039
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.039.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 040
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.040.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 041
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.041.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 042
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.042.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 043
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.043.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 044
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 045
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 046
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.046.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 047
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.047.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 055
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.055.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 095
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.095.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 113
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.113.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 116
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.116.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 119
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.119.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 121
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.121.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 144
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.144.1940.360p?uid= token=na^tu12%28aqw
+#EXTINF:-1,Tom And Jerry 147
+rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.147.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
