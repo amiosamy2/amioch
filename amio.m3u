@@ -231,6 +231,14 @@ http://188.165.225.63:8080/bein6.m3u8
 http://188.165.225.63:8080/bein7.m3u8
 #EXTINF:-1,Bein Sports 8
 http://188.165.225.63:8080/bein8.m3u8
+#EXTINF:-1,bein Sport HD1
+http://videos.streaming-hub.com/bein1.m3u8
+#EXTINF:-1,bein Sport HD2
+http://videos.streaming-hub.com/bein2.m3u8
+#EXTINF:-1,bein Sport HD3
+http://videos.streaming-hub.com/bein3.m3u8
+#EXTINF:-1,bein Sport HD4
+http://videos.streaming-hub.com/bein4.m3u8
 #EXTINF:-1,Bein Sports French 1
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:belnsport1_fr/playlist.m3u8
 #EXTINF:-1,Bein Sports French 2
@@ -369,6 +377,402 @@ http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:tlc_uk/playlist.m3u8
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:animalplanet_uk/playlist.m3u8
 #EXTINF:-1,DISNEYCHANNEL_UK
 http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:disneychannel_uk/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+rtmp://31.204.128.75/live/30
+#EXTINF:-1,BASTA CRER
+rtmp://streamspub.manasat.com/live/bastacrer
+#EXTINF:-1,NICKELODEON
+rtmp://31.204.128.140/live/brlive_0030
+#EXTINF:-1,CARTOON NETWORK
+rtmp://31.204.128.140/live/brlive_0028
+#EXTINF:-1,DISCOVERY KIDS
+rtmp://31.204.128.74/live/master24
+#EXTINF:-1,CINEMAX
+rtmp://31.204.128.140/live/53
+#EXTINF:-1,Conexaobr Tv
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
+#EXTINF:-1,ESPN+
+rtmp://31.204.128.74/live/master27
+#EXTINF:-1,FOX
+rtmp://31.204.128.140/live/fox
+#EXTINF:-1,FOX SPORTS
+rtmp://31.204.153.72/live/fsb
+#EXTINF:-1,FX
+rtmp://31.204.128.75/live/master25
+#EXTINF:-1,MEGAPIX
+rtmp://31.204.128.73/live/master11
+#EXTINF:-1,TC ACTION
+rtmp://31.204.128.75/live/master17
+#EXTINF:-1,TC PIPOCA
+rtmp://31.204.128.74/live/master18
+#EXTINF:-1,TC PREMIUM
+rtmp://31.204.128.140/live/master19
+#EXTINF:-1,TNT
+rtmp://31.204.128.74/live/master77
+#EXTINF:-1,TV TCM 10
+rtmp://177.154.192.30/live/canal10
+#EXTINF:-1,Viasat Naturale
+http://88.208.111.4:40027
+#EXTINF:-1,ViasatExplorer
+http://88.208.111.4:40010
+#EXTINF:-1,Eurosport ger
+http://88.208.111.4:40025
+#EXTINF:-1,Discovery
+http://202.75.23.34/live/ch29/01.m3u8
+#EXTINF:-1,DISCOVERY HD WORLD
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://202.75.23.34/live/ch31/01.m3u8
+#EXTINF:-1,Nat geo wild
+http://202.75.23.35/live/ch39/01.m3u8
+#EXTINF:-1,Travel
+http://202.75.23.35/live/ch41/01.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://202.75.23.34/live/ch33/01.m3u8
+#EXTINF:-1,Discovery
+http://202.75.23.34/live/ch33/01.m3u8
+#EXTINF:-1,Discovery World
+http://202.75.23.34/live/ch29/01.m3u8
+#EXTINF:-1,Discovery World HD
+http://202.75.23.34/live/ch30/01.m3u8
+#EXTINF:-1,animal ch
+http://202.75.23.34/live/ch31/01.m3u8
+#EXTINF:-1,eve
+http://202.75.23.34/live/ch34/01.m3u8
+#EXTINF:-1,TLC
+http://202.75.23.34/live/ch35/01.m3u8
+#EXTINF:-1,FOX 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,SONY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,WARNER B 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,UNIVERSAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=97&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FX 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=101&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,A&E 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,AXN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TRU 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,COMEDY CENTRAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,UNICABLE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX M 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=125&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,BBC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,E! 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=133&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,UNIVERSAL M 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX LIFE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=139&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,SYFY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FX M 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=145&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ID 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,INFINITO 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,GOURMET 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=161&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,GLITZ 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=165&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISTRITO COMEDIA 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TBS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CASA 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TELENOVELAS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=185&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY KIDS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CBEEBIES 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISNEY JR 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NICK JR 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISNEY CHANNEL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,WARNER B 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NICK HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NICK 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CARTOON NETWORK 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISNEY XD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TIIN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=233&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TOONCAST 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY THEATER 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=241&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,HISTORY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=245&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NATGEO WILD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TLC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=253&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=257&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ANIMAL PLANET 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,HOME & HEALT 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=265&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NATIONAL GEOGRAPHIC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=269&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,LIFETIME (BIO) 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=273&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY SCI 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=277&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY CIVILIZATION 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=281&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISCOVERY TURBO 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=285&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TLC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=289&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,WOBI 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=293&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX1 HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX ACTION 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX MOVIE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CINECANAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TNT 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,GOLDEN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FILM ZONE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DEPELICULA 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,AMC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,SPACE HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=333&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX CINEMA 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=337&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX FAMILY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,FOX CLASSIC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CINECANAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,CINEMAX 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TNT 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=357&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,GOLDEN EDGE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=361&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,AMC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=365&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,SPACE 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=369&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,STUDIO UNIVERSAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ISAT 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TCM 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=381&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 3 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,Fox SPORTS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,Fox SPORTS 2 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 2 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,Canal M 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TVE INTERNACIONAL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=421&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,MTV Live 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=429&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,TELEHIT 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=433&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,VH1 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=437&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,MTV 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=441&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,RITMOSON 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=445&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,BANDMAX 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,BLOOMBERG 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NICKTOONS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=469&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,REALITY 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=474&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,PX HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,MTV HITS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=476&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,1 CLASSIC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=477&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESTRELLA HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,AZCORAZON HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=479&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1, SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1, WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+#EXTINF:-1, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1, FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1, INF
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1, GOURMET
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1, DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1, CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1, BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1, TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1, D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1, D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1, PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1, AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1, SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1, FOX FAMILY
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1, FOX CLASSICS
+http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
+#EXTINF:-1, CINECANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+#EXTINF:-1, TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1, GOLDEN EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1, AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
+#EXTINF:-1, STUDIO UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1, TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1, ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1, AZTECA 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+#EXTINF:-1, MTV LIVE
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1, TELEHIT
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1, VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1, MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1, BANDAMAX
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
 #EXTINF:-1,1 group-title=Cartoon,[COLOR red]Rabbit Fire[/COLOR]
 http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
 #EXTINF:-1,Tree Cornered Tweety
@@ -470,97 +874,97 @@ http://archive.org/download/VintageCartoonsSet2MP4/090755dvdSpeedyGonzalesMm_1.m
 #EXTINF:-1,The Unmentionables
 http://archive.org/download/VintageCartoonsSet2MP4/090763TheUnmentionablesMm_1.mp4
 #EXTINF:-1,Tom And Jerry 001
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.001.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.001.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 002
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.002.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.002.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 004
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.004.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.004.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 012
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.012.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.012.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 013
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.013.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.013.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 14
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.014.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.014.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 015
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.015.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.015.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 016
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.016.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.016.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 017
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.017.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.017.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 018
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.018.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.018.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 019
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.019.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.019.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 020
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.020.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.020.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 021
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.021.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.021.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 022
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.022.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.022.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 023
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.023.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.023.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 024
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.024.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.024.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 025
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.025.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.025.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 026
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.026.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.026.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 027
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.027.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.027.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 028
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.028.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.028.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 029
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.029.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.029.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 030
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.030.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.030.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 031
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.031.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.031.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 032
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.032.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.032.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 033
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.033.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.033.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 034
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.034.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.034.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 036
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.036.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.036.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 037
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.037.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.037.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 038
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.038.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.038.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 039
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.039.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.039.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 040
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.040.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.040.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 041
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.041.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.041.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 042
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.042.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.042.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 043
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.043.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.043.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 044
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 045
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 046
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.046.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.046.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 047
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.047.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.047.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 055
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.055.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.055.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 095
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.095.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.095.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 113
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.113.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.113.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 116
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.116.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.116.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 119
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.119.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.119.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 121
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.121.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.121.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 144
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.144.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.144.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,Tom And Jerry 147
-rtmp://$OPT:rtmp-raw=rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.147.1940.360p?uid= token=na^tu12%28aqw
+rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.147.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
