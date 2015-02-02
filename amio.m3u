@@ -183,6 +183,88 @@ http://63.237.48.3/ios/MBC1/MBC1.m3u8
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC bollywood
 rtmp://185.5.222.189/live/MBCBollywood
+#EXTINF:-1,Alhayat 1
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Alhayat Cinema
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Alhayat Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_Alhayetdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Al-Nahar Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=alnahardrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Al Nahar
+rtmp://web.iptv-planet.com:1936/live2 playpath=alnahar swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Art Aflam 1
+rtmp://web.iptv-planet.com:1936/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Art Aflam 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,ART Cinema
+rtmp://web.iptv-planet.com:1936/live2 playpath=artcinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,ART Hekayat
+rtmp://web.iptv-planet.com:1936/live2 playpath=arthikeyet swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Bein Sport News
+rtmp://web.iptv-planet.com:1936/live2 playpath=beinsportnews swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Cairo Cinema
+rtmp://web.iptv-planet.com:1936/live2 playpath=cc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Cairo Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,CBC
+rtmp://web.iptv-planet.com:1936/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,CBC 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=cbct swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,CBC Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=cbce swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,CBC Sofra
+rtmp://web.iptv-planet.com:1936/live2 playpath=cbcs swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Cima
+rtmp://web.iptv-planet.com:1936/live2 playpath=cima swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Dream 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=drama2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Fox Movie
+rtmp://web.iptv-planet.com:1936/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC 1
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC 3
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC 4
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC Action
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,MBC Max
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Mehwar 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=mehwar2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,National Geo Ad
+rtmp://web.iptv-planet.com:1936/live2 playpath=natgeographic swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/
+#EXTINF:-1,Nile Cinema
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Comedy
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilecomedy swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Culture
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nileculture swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_niledrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Family
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilefamily swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Life
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilelife swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Nile Sport
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_nilesport swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Oscar Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_OscarDrama swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Panorama Drama
+rtmp://web.iptv-planet.com:1936/live2 playpath=pd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Panorama Drama 2
+rtmp://web.iptv-planet.com:1936/live2 playpath=pd2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Panorama film
+rtmp://web.iptv-planet.com:1936/live2 playpath=pf swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Rotana Aflam
+rtmp://web.iptv-planet.com:1936/live2 playpath=rc swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+#EXTINF:-1,Rotana Clip
+rtmp://web.iptv-planet.com:1936/live2 playpath=rcl swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,PRO SPORTS 1
@@ -307,6 +389,8 @@ rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.
 rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,American Horrors
 http://204.107.26.252:1935/live/393.high.stream/playlist.m3u8
+#EXTINF:-1,CNBC
+http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CineStream TV
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF:-1,CARTOONITO
@@ -353,30 +437,6 @@ rtmp://streamer1.streamhost.org/salive/GMImissiontvh
 rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,YouToo
 http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
-#EXTINF:-1,EUROSPORT_US
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:eurosport_us/playlist.m3u8
-#EXTINF:-1,NICKELODEON_US
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:nickelodeon_us/playlist.m3u8
-#EXTINF:-1,COMEDYCENTRAL_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:comedycentral_uk/playlist.m3u8
-#EXTINF:-1,FLAVA_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:flava_uk/playlist.m3u8
-#EXTINF:-1,BLISS_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bliss_uk/playlist.m3u8
-#EXTINF:-1,SCUZZ_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:scuzz_uk/playlist.m3u8
-#EXTINF:-1,BBC2_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc2_uk/playlist.m3u8
-#EXTINF:-1,BBC1_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc1_uk/playlist.m3u8
-#EXTINF:-1,BBC3_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:bbc3_uk/playlist.m3u8
-#EXTINF:-1,TLC_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:tlc_uk/playlist.m3u8
-#EXTINF:-1,ANIMALPLANET_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:animalplanet_uk/playlist.m3u8
-#EXTINF:-1,DISNEYCHANNEL_UK
-http://ipm.iphone-tv.eu:1345/HDLive/Auth:test/Channel:disneychannel_uk/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 rtmp://31.204.128.75/live/30
 #EXTINF:-1,BASTA CRER
@@ -773,6 +833,310 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
 #EXTINF:-1, BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+#EXTINF:-1,A&E
+rtmp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs
+#EXTINF:-1,ABC HD
+rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1,AMC HD
+rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+#EXTINF:-1,AMC
+rtmp://93.174.95.125:1935/edge/_definst_/7pctmre0zfwsc24
+#EXTINF:-1,BET
+rtmp://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl
+#EXTINF:-1,Bravo
+rtmp://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l
+#EXTINF:-1,CBS HD
+rtmp://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku
+#EXTINF:-1,CBS
+rtmp://93.174.95.125:1935/edge/_definst_/dt0qvk6nmdhk8u6
+#EXTINF:-1,CNN HD
+rtmp://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq
+#EXTINF:-1,CNN
+rtmp://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb
+#EXTINF:-1,CW HD
+rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd
+#EXTINF:-1,CW
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:-1,Discovery HD
+rtmp://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27
+#EXTINF:-1,Discovery Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/ajcjdksbd8wk32z
+#EXTINF:-1,Discovery HD
+rtmp://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo
+#EXTINF:-1,Discovery
+rtmp://93.174.95.125:1935/edge/_definst_/ro7c9eha0z96hpp
+#EXTINF:-1,ESPN 2 HD
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,ESPN 2
+rtmp://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o
+#EXTINF:-1,ESPN HD
+rtmp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1,ESPN
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1,Food Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:-1,Food Network
+rtmp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e
+#EXTINF:-1,FOX HD
+rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
+#EXTINF:-1,Fox News HD
+rtmp://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr
+#EXTINF:-1,Fox News
+rtmp://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam
+#EXTINF:-1,FOX
+rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
+#EXTINF:-1,FX
+rtmp://93.174.95.125:1935/edge/_definst_/hrjtbc6cg6tbtgz
+#EXTINF:-1,Golf Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4
+#EXTINF:-1,Golf channel
+rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
+#EXTINF:-1,Hallmark HD
+rtmp://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq
+#EXTINF:-1,HBO HD
+rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+#EXTINF:-1,HBO
+rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
+#EXTINF:-1,HGTV
+rtmp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut
+#EXTINF:-1,History
+rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
+#EXTINF:-1,Lifetime HD
+rtmp://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e
+#EXTINF:-1,Marijuana TV
+rtmp://93.174.95.125:1935/edge/_definst_/bncy42xy2eip89d
+#EXTINF:-1,MSNBC
+rtmp://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs
+#EXTINF:-1,MSNBC HD
+rtmp://93.174.95.125:1935/edge/_definst_/1341ujtliqndod8
+#EXTINF:-1,MTV
+rtmp://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26
+#EXTINF:-1,MTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/p0audpgrkvu6l1g
+#EXTINF:-1,National Geographic
+rtmp://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q
+#EXTINF:-1,National Geographic HD
+rtmp://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs
+#EXTINF:-1,NBC
+rtmp://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp
+#EXTINF:-1,NBC HD
+rtmp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g
+#EXTINF:-1,NBC Sport Network
+rtmp://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89
+#EXTINF:-1,NBC Sport Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4
+#EXTINF:-1,NFL Network
+rtmp://93.174.95.125:1935/edge/_definst_/fzasab6vz02yuf7
+#EXTINF:-1,Nickelodeon
+rtmp://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0
+#EXTINF:-1,OWN
+rtmp://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3
+#EXTINF:-1,Oxygen
+rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
+#EXTINF:-1,Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib
+#EXTINF:-1,Showtime HD
+rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+#EXTINF:-1,Showtime Movie
+rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
+#EXTINF:-1,Spike
+rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
+#EXTINF:-1,Syfy
+rtmp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw
+#EXTINF:-1,Syfy HD
+rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+#EXTINF:-1,TBS
+rtmp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh
+#EXTINF:-1,TLC
+rtmp://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck
+#EXTINF:-1,TNT HD
+rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
+#EXTINF:-1,TNT
+rtmp://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo
+#EXTINF:-1,Travel Channel
+rtmp://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq
+#EXTINF:-1,Travel Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d
+#EXTINF:-1,TruTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
+#EXTINF:-1,TV Land
+rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
+#EXTINF:-1,USA Network
+rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
+#EXTINF:-1,VH1
+rtmp://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9
+#EXTINF:-1,Bbc 1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc1-sat.mp4.m3u8
+Bbc2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc2-sat.mp4.m3u8
+Itv1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv1-sat.m3u8
+Channel 4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch4-sat.m3u8
+Channel 5
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch5-sat.m3u8
+Bbc news
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bnews-sat.mp4.m3u8
+Skynews
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/skyn-sat.m3u8
+Cbbc
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbbc-sat.mp4.m3u8
+Cbeeb
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbeeb-sat.mp4.m3u8
+Itv2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv2-sat.m3u8
+Itv3
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv3-sat.m3u8
+Citv
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/citv-sat.m3u8
+Itv4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv4-sat.m3u8
+More4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/more4-sat.m3u8
+E4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/e4-sat.m3u8
+5star
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5star-sat.m3u8
+5usa
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5usa-sat.m3u8
+Film4
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/film4-sat.m3u8
+Horror1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/horror1-sat.m3u8
+#EXTINF:-1,T mov 1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov1-sat.m3u8
+#EXTINF:-1,T mov 2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov2-sat.m3u8
+#EXTINF:-1,T Drama
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trdma-sat.m3u8
+Trent
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trent-sat.m3u8
+#EXTINF:-1,CBS Action
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/cbsact-sat.m3u8
+#EXTINF:-1,CBS real
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/cbsreal-sat.m3u8
+Pick
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/pick-sat.m3u8
+Quest
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/quest.m3u8
+Challenge
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/challenge.m3u8
+#EXTINF:-1,4 Seven
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4seven.m3u8
+Yesterday
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/yday.m3u8
+Food network
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/food.m3u8
+#EXTINF:-1,Comm
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/comm-sat.m3u8
+Heat
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/heat-sat.m3u8
+#EXTINF:-1,nowmus
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/nowmus-sat.m3u8
+Viva
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/viva.m3u8
+#EXTINF:-1,4 music
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4music.m3u8
+#EXTINF:-1,Viasat History
+http://83.139.104.108/Content/HLS/Live/Channel(Viasat_History)/Stream(03)/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://83.139.104.108/Content/HLS/Live/Channel(Viasat_Explore)/Stream(03)/index.m3u8
+#EXTINF:-1,Animal Planet
+http://83.139.104.108/Content/HLS/Live/Channel(Animal_Planet)/Stream(03)/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://83.139.104.108/Content/HLS/Live/Channel(Discovery_Channel)/Stream(03)/index.m3u8
+#EXTINF:-1,Cinestar TV
+http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_TV)/Stream(03)/index.m3u8
+#EXTINF:-1,Cinestar Action & Thriller
+http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Action_and_Thriller)/Stream(03)/index.m3u8
+#EXTINF:-1,Cinestar Premiere
+http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,Cinestar Premiere 2
+http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,FOX
+http://cdn-07.sdn.si/fox/fox.isml/fox-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,FOX Life
+http://cdn-07.sdn.si/foxlife/foxlife.isml/foxlife-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,FOX Crime
+http://cdn-07.sdn.si/foxcrime/foxcrime.isml/foxcrime-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,FOX Movies
+http://cdn-07.sdn.si/foxmovies/foxmovies.isml/foxmovies-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,24Kitchen
+http://cdn-07.sdn.si/24kitchen/24kitchen.isml/24kitchen-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,TLC
+http://83.139.104.108/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+#EXTINF:-1,Eurosport
+http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,Disney Channel
+http://cdn-07.sdn.si/disneychannel/disneychannel.isml/disneychannel-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Disney XD
+http://cdn-07.sdn.si/disneyxd/disneyxd.isml/disneyxd-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Nickelodeon
+http://cdn-07.sdn.si/nickelodeon/nickelodeon.isml/nickelodeon-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.108/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS Reality
+http://83.139.104.108/Content/HLS/Live/Channel(CBS_Reality)/Stream(03)/index.m3u8
+#EXTINF:-1,CBS Drama
+http://cdn-07.sdn.si/cbsdrama/cbsdrama.isml/cbsdrama-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Food Network
+http://83.139.104.108/Content/HLS/Live/Channel(Food_Network)/Stream(03)/index.m3u8
+#EXTINF:-1,Travel Channel
+http://83.139.104.108/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
+#EXTINF:-1,OK Bambino
+http://83.139.104.108/Content/HLS/Live/Channel(OK_Bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,Orlando Kids
+http://83.139.104.108/Content/HLS/Live/Channel(Orlando_Kids)/Stream(03)/index.m3u8
+#EXTINF:-1,Fine Living Network
+http://83.139.104.108/Content/HLS/Live/Channel(Fine_Living)/Stream(03)/index.m3u8
+#EXTINF:-1,Nautical Channel
+http://cdn-07.sdn.si/nauticalchannel/nauticalchannel.isml/nauticalchannel-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,NASA TV
+http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
+#EXTINF:-1,Fight Channel
+http://83.139.104.108/Content/HLS/Live/Channel(Fight_Channel)/Stream(03)/index.m3u8
+#EXTINF:-1,BBC World News
+http://cdn-07.sdn.si/bbcworld/bbcworld.isml/bbcworld-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Extreme Sports
+http://83.139.104.108/Content/HLS/Live/Channel(Extreme_Sports)/Stream(03)/index.m3u8
+#EXTINF:-1,Outdoor Channel
+http://cdn-07.sdn.si/outdoorchannel/outdoorchannel.isml/outdoorchannel-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,History Channel
+http://cdn-07.sdn.si/historychannel/historychannel.isml/historychannel-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Nat Geo
+http://cdn-07.sdn.si/natgeo/natgeo.isml/natgeo-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://cdn-07.sdn.si/natgeowild/natgeowild.isml/natgeowild-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,Crime & Investigation
+http://cdn-07.sdn.si/crimeinvestigation/crimeinvestigation.isml/crimeinvestigation-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,BBC Knowledge
+http://cdn-07.sdn.si/bbcknowledge/bbcknowledge.isml/bbcknowledge-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,MediaTravel.tv
+http://83.139.104.108/Content/HLS/Live/Channel(MediaTravel)/Stream(03)/index.m3u8
+#EXTINF:-1,DMC TV
+http://83.139.104.108/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV Music 24
+http://83.139.104.108/Content/HLS/Live/Channel(MTV_Music)/Stream(02)/index.m3u8
+#EXTINF:-1,MTV Hits
+http://cdn-07.sdn.si/mtvhits/mtvhits.isml/mtvhits-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,MTV Dance
+http://cdn-07.sdn.si/mtvdance/mtvdance.isml/mtvdance-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,MTV Rocks
+http://cdn-07.sdn.si/mtvrocks/mtvrocks.isml/mtvrocks-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,VH1
+http://cdn-07.sdn.si/vh1/vh1.isml/vh1-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1,VH1 Classic
+http://cdn-07.sdn.si/vh1classic/vh1classic.isml/vh1classic-video%3D1500000-audio101%3D128000.m3u8
+#EXTINF:-1, Movies
+http://target3.blacktvrado.ItemDB.com:3636
+#EXTINF:-1, Movies
+http://target3.blacktvrado.ItemDB.com:3737
+#EXTINF:-1, Movies
+http://target3.blacktvrado.ItemDB.com:3838
+#EXTINF:-1, Movies
+http://target3.blacktvrado.ItemDB.com:3939
 #EXTINF:-1,1 group-title=Cartoon,[COLOR red]Rabbit Fire[/COLOR]
 http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
 #EXTINF:-1,Tree Cornered Tweety
