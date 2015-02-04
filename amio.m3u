@@ -449,58 +449,6 @@ rtmp://31.204.128.140/live/brlive_0028
 rtmp://31.204.128.74/live/master24
 #EXTINF:-1,CINEMAX
 rtmp://31.204.128.140/live/53
-#EXTINF:-1,Conexaobr Tv
-rtmp://srvvenus.canaldoboi.com/livecx/livestream
-#EXTINF:-1,ESPN+
-rtmp://31.204.128.74/live/master27
-#EXTINF:-1,FOX
-rtmp://31.204.128.140/live/fox
-#EXTINF:-1,FOX SPORTS
-rtmp://31.204.153.72/live/fsb
-#EXTINF:-1,FX
-rtmp://31.204.128.75/live/master25
-#EXTINF:-1,MEGAPIX
-rtmp://31.204.128.73/live/master11
-#EXTINF:-1,TC ACTION
-rtmp://31.204.128.75/live/master17
-#EXTINF:-1,TC PIPOCA
-rtmp://31.204.128.74/live/master18
-#EXTINF:-1,TC PREMIUM
-rtmp://31.204.128.140/live/master19
-#EXTINF:-1,TNT
-rtmp://31.204.128.74/live/master77
-#EXTINF:-1,TV TCM 10
-rtmp://177.154.192.30/live/canal10
-#EXTINF:-1,Viasat Naturale
-http://88.208.111.4:40027
-#EXTINF:-1,ViasatExplorer
-http://88.208.111.4:40010
-#EXTINF:-1,Eurosport ger
-http://88.208.111.4:40025
-#EXTINF:-1,Discovery
-http://202.75.23.34/live/ch29/01.m3u8
-#EXTINF:-1,DISCOVERY HD WORLD
-http://202.75.23.34/live/ch30/01.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://202.75.23.34/live/ch31/01.m3u8
-#EXTINF:-1,Nat geo wild
-http://202.75.23.35/live/ch39/01.m3u8
-#EXTINF:-1,Travel
-http://202.75.23.35/live/ch41/01.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://202.75.23.34/live/ch33/01.m3u8
-#EXTINF:-1,Discovery
-http://202.75.23.34/live/ch33/01.m3u8
-#EXTINF:-1,Discovery World
-http://202.75.23.34/live/ch29/01.m3u8
-#EXTINF:-1,Discovery World HD
-http://202.75.23.34/live/ch30/01.m3u8
-#EXTINF:-1,animal ch
-http://202.75.23.34/live/ch31/01.m3u8
-#EXTINF:-1,eve
-http://202.75.23.34/live/ch34/01.m3u8
-#EXTINF:-1,TLC
-http://202.75.23.34/live/ch35/01.m3u8
 #EXTINF:-1,FOX 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,SONY 
@@ -833,175 +781,43 @@ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
 #EXTINF:-1, BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-#EXTINF:-1,A&E
-rtmp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs
-#EXTINF:-1,ABC HD
-rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
-#EXTINF:-1,AMC HD
-rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
-#EXTINF:-1,AMC
-rtmp://93.174.95.125:1935/edge/_definst_/7pctmre0zfwsc24
-#EXTINF:-1,BET
-rtmp://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl
-#EXTINF:-1,Bravo
-rtmp://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l
-#EXTINF:-1,CBS HD
-rtmp://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku
-#EXTINF:-1,CBS
-rtmp://93.174.95.125:1935/edge/_definst_/dt0qvk6nmdhk8u6
-#EXTINF:-1,CNN HD
-rtmp://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq
-#EXTINF:-1,CNN
-rtmp://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb
-#EXTINF:-1,CW HD
-rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd
-#EXTINF:-1,CW
-rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
-#EXTINF:-1,Discovery HD
-rtmp://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27
-#EXTINF:-1,Discovery Science HD
-rtmp://93.174.95.125:1935/edge/_definst_/ajcjdksbd8wk32z
-#EXTINF:-1,Discovery HD
-rtmp://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo
-#EXTINF:-1,Discovery
-rtmp://93.174.95.125:1935/edge/_definst_/ro7c9eha0z96hpp
-#EXTINF:-1,ESPN 2 HD
-rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
-#EXTINF:-1,ESPN 2
-rtmp://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o
-#EXTINF:-1,ESPN HD
-rtmp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf
-#EXTINF:-1,ESPN
-rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
-#EXTINF:-1,Food Network HD
-rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
-#EXTINF:-1,Food Network
-rtmp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e
-#EXTINF:-1,FOX HD
-rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
-#EXTINF:-1,Fox News HD
-rtmp://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr
-#EXTINF:-1,Fox News
-rtmp://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam
-#EXTINF:-1,FOX
-rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
-#EXTINF:-1,FX
-rtmp://93.174.95.125:1935/edge/_definst_/hrjtbc6cg6tbtgz
-#EXTINF:-1,Golf Channel HD
-rtmp://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4
-#EXTINF:-1,Golf channel
-rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
-#EXTINF:-1,Hallmark HD
-rtmp://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq
-#EXTINF:-1,HBO HD
-rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
-#EXTINF:-1,HBO
-rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
-#EXTINF:-1,HGTV
-rtmp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut
-#EXTINF:-1,History
-rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
-#EXTINF:-1,Lifetime HD
-rtmp://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e
-#EXTINF:-1,Marijuana TV
-rtmp://93.174.95.125:1935/edge/_definst_/bncy42xy2eip89d
-#EXTINF:-1,MSNBC
-rtmp://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs
-#EXTINF:-1,MSNBC HD
-rtmp://93.174.95.125:1935/edge/_definst_/1341ujtliqndod8
-#EXTINF:-1,MTV
-rtmp://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26
-#EXTINF:-1,MTV HD
-rtmp://93.174.95.125:1935/edge/_definst_/p0audpgrkvu6l1g
-#EXTINF:-1,National Geographic
-rtmp://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q
-#EXTINF:-1,National Geographic HD
-rtmp://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs
-#EXTINF:-1,NBC
-rtmp://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp
-#EXTINF:-1,NBC HD
-rtmp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g
-#EXTINF:-1,NBC Sport Network
-rtmp://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89
-#EXTINF:-1,NBC Sport Network HD
-rtmp://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4
-#EXTINF:-1,NFL Network
-rtmp://93.174.95.125:1935/edge/_definst_/fzasab6vz02yuf7
-#EXTINF:-1,Nickelodeon
-rtmp://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0
-#EXTINF:-1,OWN
-rtmp://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3
-#EXTINF:-1,Oxygen
-rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
-#EXTINF:-1,Science HD
-rtmp://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib
-#EXTINF:-1,Showtime HD
-rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
-#EXTINF:-1,Showtime Movie
-rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
-#EXTINF:-1,Spike
-rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
-#EXTINF:-1,Syfy
-rtmp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw
-#EXTINF:-1,Syfy HD
-rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
-#EXTINF:-1,TBS
-rtmp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh
-#EXTINF:-1,TLC
-rtmp://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck
-#EXTINF:-1,TNT HD
-rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
-#EXTINF:-1,TNT
-rtmp://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo
-#EXTINF:-1,Travel Channel
-rtmp://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq
-#EXTINF:-1,Travel Channel HD
-rtmp://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d
-#EXTINF:-1,TruTV HD
-rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
-#EXTINF:-1,TV Land
-rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
-#EXTINF:-1,USA Network
-rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
-#EXTINF:-1,VH1
-rtmp://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9
 #EXTINF:-1,Bbc 1
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc1-sat.mp4.m3u8
-Bbc2
+#EXTINF:-1,Bbc2
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc2-sat.mp4.m3u8
-Itv1
+#EXTINF:-1,Itv1
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv1-sat.m3u8
-Channel 4
+#EXTINF:-1,Channel 4
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch4-sat.m3u8
-Channel 5
+#EXTINF:-1,Channel 5
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch5-sat.m3u8
-Bbc news
+#EXTINF:-1,Bbc news
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bnews-sat.mp4.m3u8
-Skynews
+#EXTINF:-1,Skynews
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/skyn-sat.m3u8
-Cbbc
+#EXTINF:-1,Cbbc
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbbc-sat.mp4.m3u8
-Cbeeb
+#EXTINF:-1,Cbeeb
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbeeb-sat.mp4.m3u8
-Itv2
+#EXTINF:-1,Itv2
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv2-sat.m3u8
-Itv3
+#EXTINF:-1,Itv3
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv3-sat.m3u8
-Citv
+#EXTINF:-1,Citv
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/citv-sat.m3u8
-Itv4
+#EXTINF:-1,Itv4
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv4-sat.m3u8
-More4
+#EXTINF:-1,More4
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/more4-sat.m3u8
-E4
+#EXTINF:-1,E4
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/e4-sat.m3u8
-5star
+#EXTINF:-1,5star
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5star-sat.m3u8
-5usa
+#EXTINF:-1,5usa
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5usa-sat.m3u8
-Film4
+#EXTINF:-1,Film4
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/film4-sat.m3u8
-Horror1
+#EXTINF:-1,Horror1
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/horror1-sat.m3u8
 #EXTINF:-1,T mov 1
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov1-sat.m3u8
@@ -1009,50 +825,36 @@ http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov1-sat.m3
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov2-sat.m3u8
 #EXTINF:-1,T Drama
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trdma-sat.m3u8
-Trent
+#EXTINF:-1,Trent
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trent-sat.m3u8
 #EXTINF:-1,CBS Action
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/cbsact-sat.m3u8
 #EXTINF:-1,CBS real
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/cbsreal-sat.m3u8
-Pick
+#EXTINF:-1,Pick
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/pick-sat.m3u8
-Quest
+#EXTINF:-1,Quest
 http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/quest.m3u8
-Challenge
+#EXTINF:-1,Challenge
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/challenge.m3u8
 #EXTINF:-1,4 Seven
 http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4seven.m3u8
-Yesterday
+#EXTINF:-1,Yesterday
 http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/yday.m3u8
-Food network
+#EXTINF:-1,Food network
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/food.m3u8
 #EXTINF:-1,Comm
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/comm-sat.m3u8
-Heat
+#EXTINF:-1,Heat
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/heat-sat.m3u8
 #EXTINF:-1,nowmus
 http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/nowmus-sat.m3u8
-Viva
+#EXTINF:-1,Viva
 http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/viva.m3u8
 #EXTINF:-1,4 music
 http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4music.m3u8
-#EXTINF:-1,Viasat History
-http://83.139.104.108/Content/HLS/Live/Channel(Viasat_History)/Stream(03)/index.m3u8
-#EXTINF:-1,Viasat Explore
-http://83.139.104.108/Content/HLS/Live/Channel(Viasat_Explore)/Stream(03)/index.m3u8
-#EXTINF:-1,Animal Planet
-http://83.139.104.108/Content/HLS/Live/Channel(Animal_Planet)/Stream(03)/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://83.139.104.108/Content/HLS/Live/Channel(Discovery_Channel)/Stream(03)/index.m3u8
-#EXTINF:-1,Cinestar TV
-http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_TV)/Stream(03)/index.m3u8
-#EXTINF:-1,Cinestar Action & Thriller
-http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Action_and_Thriller)/Stream(03)/index.m3u8
-#EXTINF:-1,Cinestar Premiere
-http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_1)/Stream(03)/index.m3u8
-#EXTINF:-1,Cinestar Premiere 2
-http://83.139.104.108/Content/HLS/Live/Channel(Cinestar_Premiere_2)/Stream(03)/index.m3u8
 #EXTINF:-1,FOX
 http://cdn-07.sdn.si/fox/fox.isml/fox-video%3D1500000-audio101%3D128000.m3u8
 #EXTINF:-1,FOX Life
