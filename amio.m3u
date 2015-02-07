@@ -167,6 +167,8 @@ rtmp://livestreaming4.onlinehorizons.net/AlHayah playpath=livestream swfUrl=http
 rtmp://wms03.endavomedia.com:1935/dmilivedubaitv/dmilivedubaitv_1
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 http://212.179.77.42/live/livestream3/chunklist_w530716746.m3u8
+#EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
+http://8.21.48.26:7777/Fatafeat/Fatafeat_Low.m3u8
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
 rtmpt://livestreaming4.onlinehorizons.net:80/MehwarTV playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/
 #EXTINF:-1,[COLOR yellow]Mehwar Tv 2[/COLOR]
@@ -339,6 +341,16 @@ http://37.157.245.82:1935/tv/skysp3.stream/playlist.m3u8
 http://37.157.245.82:1935/tv/skysp4.stream/playlist.m3u8
 #EXTINF:-1,Sky sports 5
 http://37.157.245.82:1935/tv/skysp5.stream/playlist.m3u8
+#EXTINF:-1,Sky sports 1
+http://176.31.182.148:8080/sky/sports1/index.m3u8
+#EXTINF:-1,Sky sports 2
+http://176.31.182.148:8080/sky/sports2/index.m3u8
+#EXTINF:-1,Sky sports 3
+http://176.31.182.148:8080/sky/sports3/index.m3u8
+#EXTINF:-1,Sky sports 4
+http://176.31.182.148:8080/sky/sports4/index.m3u8
+#EXTINF:-1,Sky sports 5
+http://176.31.182.148:8080/sky/sports5/index.m3u8
 #EXTINF:-1,MUTV
 http://37.157.245.82:1935/tv/mutv.stream/playlist.m3u8
 #EXTINF:-1,Chelsea
@@ -939,6 +951,26 @@ http://target3.blacktvrado.ItemDB.com:3737
 http://target3.blacktvrado.ItemDB.com:3838
 #EXTINF:-1, Movies
 http://target3.blacktvrado.ItemDB.com:3939
+#EXTINF:-1,Sky comedy
+http://176.31.182.148:8080/sky/comedy/index.m3u8
+#EXTINF:-1,Sky action
+http://176.31.182.148:8080/sky/action/index.m3u8
+#EXTINF:-1,Sky drama
+http://176.31.182.148:8080/sky/drama/index.m3u8
+#EXTINF:-1,Sky family
+http://176.31.182.148:8080/sky/family/index.m3u8
+#EXTINF:-1,Sky premiere
+http://176.31.182.148:8080/sky/premiere/index.m3u8
+#EXTINF:-1,Sky modern greats
+http://176.31.182.148:8080/sky/moderngreats/index.m3u8
+#EXTINF:-1,Sky disney
+http://176.31.182.148:8080/sky/disney/index.m3u8
+#EXTINF:-1,Sky 1
+http://176.31.182.148:8080/sky/one/index.m3u8
+#EXTINF:-1,Sky atlantic
+http://176.31.182.148:8080/sky/atlantic/index.m3u8
+#EXTINF:-1,Sky select
+http://176.31.182.148:8080/sky/select/index.m3u8
 #EXTINF:-1,1 group-title=Cartoon,[COLOR red]Rabbit Fire[/COLOR]
 http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
 #EXTINF:-1,Tree Cornered Tweety
