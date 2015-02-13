@@ -477,10 +477,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=
 rtmp://31.204.128.140/live/53
 #EXTINF:-1,CINEMAX 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,Cartoon Network
-rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-#EXTINF:-1,CARTOON NETWORK
-rtmp://31.204.128.140/live/brlive_0028
 #EXTINF:-1,CARTOON NETWORK 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,COMEDY CENTRAL 
@@ -493,20 +489,6 @@ http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=1
 rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,CASA 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,CBEEBIES 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,DISNEY JR 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,DISNEY CHANNEL 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,DISNEY XD 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,DISNEY XD
-http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
-#EXTINF:-1,DISNEY JR
-http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
-#EXTINF:-1,DISNEY CHANNEL
-http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
 #EXTINF:-1,Discovery Channel
 http://83.139.104.108/Content/HLS/Live/Channel(Discovery_Channel)/Stream(03)/index.m3u8
 #EXTINF:-1,DE PELICULA HD
@@ -685,22 +667,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=477&lan=2&rows=
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=269&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,NATGEO WILD 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,NICKELODEON
-rtmp://31.204.128.140/live/brlive_0030
-#EXTINF:-1,NICK JR 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,NICK HD 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,NICK 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,NICKTOONS 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=469&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,NICK JR
-http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
-#EXTINF:-1,NICK HD
-http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
-#EXTINF:-1,NICK
-http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
 #EXTINF:-1,NAT GEO WILD
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
 #EXTINF:-1,NAT GEO
@@ -768,9 +734,7 @@ http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
 #EXTINF:-1,TIIN 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=233&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TURBO
-http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8? 
-#EXTINF:-1,TOONCAST 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
 #EXTINF:-1,TELEHIT 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=433&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TELEHIT
@@ -871,7 +835,93 @@ http://185.4.83.202:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
 http://185.4.83.203:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,Comedy Plus L4
 http://46.40.73.66:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,1 group-title=Cartoon,[COLOR red]Rabbit Fire[/COLOR]
+#EXTINF:-1,Super Sport 1 HD 
+http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 2 HD 
+http://akamai252.tibo.tv/252t2apk1/ngrp:ss2dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 3 HD 
+http://akamai244.tibo.tv/smicro2live/ngrp:ss3dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 4 HD 
+http://akamai229.tibo.tv/229t2sport/ngrp:ss4dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Film Nje HD 
+http://akamai227.tibo.tv/227t2apk1/filmnje.stream_720p/playlist.m3u8 
+#EXTINF:-1,Film Dy HD 
+http://akamai227.tibo.tv/227t2apk1/filmdy.stream_720p/playlist.m3u8 
+#EXTINF:-1,Plus HD 
+http://akamai238.tibo.tv/Drepeater1/plus.stream/playlist.m3u8 
+#EXTINF:-1,Film Autor 
+http://akamai231.tibo.tv/m3u8/autorchannel.m3u8 
+#EXTINF:-1,Film Hits 
+http://akamai231.tibo.tv/m3u8/hitschannel.m3u8 
+#EXTINF:-1,Film Thriller 
+http://akamai231.tibo.tv/m3u8/thrillerchannel.m3u8 
+#EXTINF:-1,Film Drame 
+http://akamai231.tibo.tv/m3u8/dramechannel.m3u8 
+#EXTINF:-1,Film Aksion 
+http://akamai231.tibo.tv/m3u8/aksionchannel.m3u8 
+#EXTINF:-1,Film Komedi 
+http://akamai231.tibo.tv/m3u8/komedichannel.m3u8 
+#EXTINF:-1,FILM GOLD 
+http://akamai231.tibo.tv/m3u8/goldchannel.m3u8 
+#EXTINF:-1,Fox Crime 
+http://akamai231.tibo.tv/m3u8/foxcrimechannel.m3u8 
+#EXTINF:-1,Fox Life 
+http://akamai231.tibo.tv/m3u8/foxlifechannel.m3u8 
+#EXTINF:-1,Explorer Shkence 
+http://akamai238.tibo.tv/Drepeater1/expshkence.stream/playlist.m3u8 
+#EXTINF:-1,Explorer Natyra 
+http://akamai231.tibo.tv/m3u8/expnatyrachannel.m3u8 
+#EXTINF:-1,Explorer Histori 
+http://akamai231.tibo.tv/m3u8/exphistorichannel.m3u8 
+#EXTINF:-1,Discovery HD 
+http://akamai238.tibo.tv/Drepeater1/discovery.stream/playlist.m3u8 
+#EXTINF:-1,Nat Geo HD 
+http://akamai238.tibo.tv/Drepeater1/natgeo.stream/playlist.m3u8 
+#EXTINF:-1,Nat Geo Wild 
+http://akamai231.tibo.tv/m3u8/natwildchannel.m3u8 
+#EXTINF:-1,Cufo TV 
+http://akamai231.tibo.tv/m3u8/cufochannel.m3u8
+#EXTINF:-1,1 group-title=Cartoon,Disney Channel
+http://akamai231.tibo.tv/m3u8/disneychannel.m3u8
+#EXTINF:-1,Cartoon Network
+rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,CARTOON NETWORK
+rtmp://31.204.128.140/live/brlive_0028
+#EXTINF:-1,CBEEBIES 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISNEY JR 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=201&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,DISNEY CHANNEL 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,DISNEY XD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=225&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1,DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1,DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1,Junior TV 
+http://akamai231.tibo.tv/m3u8/juniorchannel.m3u8
+#EXTINF:-1,NICKELODEON
+rtmp://31.204.128.140/live/brlive_0030
+#EXTINF:-1,NICK JR 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICK HD 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=213&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,NICK 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=217&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICKTOONS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=469&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1,NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1,NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1,TOONCAST 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,[COLOR red]Rabbit Fire[/COLOR]
 http://archive.org/download/VintageCartoonsSet2MP4/051951dvdRabbitFireLtBr.mp4
 #EXTINF:-1,Tree Cornered Tweety
 http://archive.org/download/VintageCartoonsSet2MP4/051956TreeCorneredTweetyMmOpening_1.mp4
@@ -971,98 +1021,6 @@ http://archive.org/download/VintageCartoonsSet2MP4/090457ZoomAndBoredMm_1.mp4
 http://archive.org/download/VintageCartoonsSet2MP4/090755dvdSpeedyGonzalesMm_1.mp4
 #EXTINF:-1,The Unmentionables
 http://archive.org/download/VintageCartoonsSet2MP4/090763TheUnmentionablesMm_1.mp4
-#EXTINF:-1,Tom And Jerry 001
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.001.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 002
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.002.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 004
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.004.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 012
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.012.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 013
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.013.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 14
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.014.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 015
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.015.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 016
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.016.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 017
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.017.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 018
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.018.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 019
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.019.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 020
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.020.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 021
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.021.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 022
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.022.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 023
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.023.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 024
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.024.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 025
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.025.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 026
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.026.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 027
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.027.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 028
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.028.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 029
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.029.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 030
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.030.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 031
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.031.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 032
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.032.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 033
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.033.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 034
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.034.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 036
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.036.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 037
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.037.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 038
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.038.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 039
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.039.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 040
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.040.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 041
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.041.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 042
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.042.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 043
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.043.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 044
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 045
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.044.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 046
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.046.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 047
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.047.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 055
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.055.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 095
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.095.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 113
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.113.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 116
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.116.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 119
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.119.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 121
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.121.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 144
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.144.1940.360p?uid= token=na^tu12%28aqw
-#EXTINF:-1,Tom And Jerry 147
-rtmpe://118.69.202.39:1935/hayhaytv_film/mp4:Tom.And.Jerry.147.1940.360p?uid= token=na^tu12%28aqw
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
