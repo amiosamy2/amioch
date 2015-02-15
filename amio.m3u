@@ -333,6 +333,22 @@ rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=ht
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
 #EXTINF:-1,national_geo
 rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+#EXTINF:-1,OSN MOVIES 1
+http://37.59.51.173:8085/OSN_MOVIES/mpegts
+#EXTINF:-1,OSN MOVIES+2
+http://37.59.51.173:8085/OSN_MOVIES+2/mpegts
+#EXTINF:-1,OSN 2
+http://37.59.51.173:8085/osn2/mpegts
+#EXTINF:-1,OSN FIRsT_MORE
+http://37.59.51.173:8085/OSN_FIRsT_MORE/mpegts
+#EXTINF:0 OSN COMEDY
+http://37.59.51.173:8085/oSN_COMEDY/mpegts
+#EXTINF:-1,OSN DRAMA
+http://37.59.51.173:8085/OSNDRAMA/mpegts
+#EXTINF:0 OSN YAHALA_SHABAB
+http://37.59.51.173:8085/OSN_YAHALA_SHABAB/mpegts
+#EXTINF:-1,OSN YAHAlA_DRAMA
+http://37.59.51.173:8085/OSN_YAHAlA_DRAMA/mpegts
 #EXTINF:-1,Rotana_cinema
 rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
 #EXTINF:-1,Rotana Cinema
@@ -359,26 +375,52 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,Antena 3 Sports
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 ,Bein Sports 1
-rtmp://93.174.93.230/iguide playpath=jey3dkzi9fl9gwf swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 4
-rtmp://93.174.93.230/iguide playpath=v19dck9e3ihn6kh swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 5
-rtmp://93.174.93.230/iguide playpath=3p4ohvspwwym93t swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1 ,Bein Sports 6
-rtmp://93.174.93.230/iguide playpath=l6obfk8d48slxx3 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 7
-rtmp://93.174.93.230/iguide playpath=13jons77xx7lcgd swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 8
-rtmp://93.174.93.230/iguide playpath=a8dl8z4ujx7odtu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 9
-rtmp://93.174.93.230/iguide playpath=dxrz9bzb1sqinyj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 10
-rtmp://93.174.93.230/iguide playpath=poel64e7rhdaaju swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swflive=1 pageUrl=http://www.iguide.to/amine1313dz token=#ed%h0#w18623jsda6523lDGDve
-#EXTINF:-1 ,Bein Sports 11
-rtmp://95.211.211.222/iguide playpath=sighaniivpikwlo swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1 ,Bein Sports 12
-rtmp://207.244.76.206/iguide playpath=vjzoko4mkc1bzi5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,Bein Sport HD 1
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&%22/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 2
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports2 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_2&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 3
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports3 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_3&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 4
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports4 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_4&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 5
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports5 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_5&autostart=true&%22/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 6
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports6 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_6&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 7
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports7 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_7&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 8
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports8 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_8&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein Sport HD 9
+rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports9 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_9&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Sentata
+rtmp://37.187.149.103/live/LRTTELEVIZIJA?token=hHeviAzB5sD07OGCEvPkgA&e=1423995892&u=17847
+#EXTINF:-1,PremierSports
+rtmp://37.187.149.103/live/PremierSports?token=WC5l-lAwHV6tt6eeRRJcQg&e=1423995907&u=17847
+#EXTINF:-1,ESPNHD
+rtmp://37.187.149.103/live/ESPNHD?token=VworsWp30fHQ3CfIDRAh8g&e=1423995932&u=17847
+#EXTINF:-1,SkySportsNews
+rtmp://37.187.149.103/live/SkySportsNewsHQIreland?token=hhBmK7yBI5WjebeFIvJShA&e=1423995948&u=17847
+#EXTINF:-1,SkySportsF1
+rtmp://37.187.149.103/live/SkySportsF1?token=9vb6w8ETBB1nlokC0LdETg&e=1423996017&u=17847
+#EXTINF:-1,SkySports1
+rtmp://37.187.149.103/live/SkySports1?token=7VagnY2aUSlwUZmbIqtgcQ&e=1423996055&u=17847
+#EXTINF:-1,SkySports2
+rtmp://37.187.149.103/live/SkySports2?token=4mfHgekjC-ErS3QsYdmb2A&e=1423996041&u=17847
+#EXTINF:-1,SkySports3
+rtmp://37.187.149.103/live/SkySports3?token=ZxRTu_f4F5Yoj_QA4t3qjg&e=1423996070&u=17847
+#EXTINF:-1,SkySports4
+rtmp://37.187.149.103/live/SkySports4?token=N9BgnwnqwCoogH8om7AItw&e=1423996081&u=17847
+#EXTINF:-1,SkySports5
+rtmp://37.187.149.103/live/SkySports5?token=lPI2cCx-VNmHt-sAhqraPg&e=1423996093&u=17847
+#EXTINF:-1,BritishEurosport2
+rtmp://37.187.149.103/live/BritishEurosport2?token=zdXXz6x45yjVefAdVtdHsQ&e=1423995963&u=17847
+#EXTINF:-1,BTSport1HD
+rtmp://37.187.149.103/live/BTSport1HD?token=qNKOSoQY9qWDr-u_nbfgHQ&e=1423995976&u=17847
+#EXTINF:-1,BTSport2HD
+rtmp://37.187.149.103/live/BTSport2HD?token=eplDz3qHEsx4oEqZidm9XQ&e=1423995988&u=17847
+#EXTINF:-1,BTSportExtra
+rtmp://37.187.149.103/live/BTSportExtra?token=Pui1YNVUVDV_VvZV7qw7qA&e=1423996001&u=17847
 #EXTINF:-1,Nova Sport
 http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
 #EXTINF:-1,nova sport
@@ -765,6 +807,30 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1,Sky Movies Primer
+rtmp://37.187.149.103/live/SkyPremiere?token=KCf0ATqXfwpm40w96Q7yyA&e=1423982514&u=17847
+#EXTINF:-1,Sky Movies Primer 1
+rtmp://37.187.149.103/live/SkyPrem1?token=l4LfkH_bEUp2MAyFp0bVrg&e=1423982540&u=17847
+#EXTINF:-1,Sky Movies Primer 2
+rtmp://37.187.149.103/live/SkyPrem1?token=l4LfkH_bEUp2MAyFp0bVrg&e=1423982540&u=17847
+#EXTINF:-1,Sky Movies Comdey
+rtmp://37.187.149.103/live/SkySelect?token=dWkHfRqTtt-A8jKhwpA5Nw&e=1423982568&u=17847
+#EXTINF:-1,Sky Movies Greats
+rtmp://37.187.149.103/live/SkyComedy?token=xxqxWJHUPEirNSdBC-8KtA&e=1423982587&u=17847
+#EXTINF:-1,Sky Movies Action
+rtmp://37.187.149.103/live/SkyGreats?token=AQP8VcNTVOlGfn8eyj70_g&e=1423982606&u=17847
+#EXTINF:-1,Sky Movies Family
+rtmp://37.187.149.103/live/SkyAction?token=VxDq5kbyEd46bE4PCxOm-w&e=1423982624&u=17847
+#EXTINF:-1,Sky Movies Thriller
+rtmp://37.187.149.103/live/SkyFamily?token=Btz30TlXaWjhKsp2MTm_Zw&e=1423982645&u=17847
+#EXTINF:-1,Sky Movies Dramarom
+rtmp://37.187.149.103/live/SkyDramaRom?token=92wFIDWvbu-Q0XqNpDxsaw&e=1423982687&u=17847
+#EXTINF:-1,Sky Movies SCifi
+rtmp://37.187.149.103/live/SkyDramaRom?token=92wFIDWvbu-Q0XqNpDxsaw&e=1423982687&u=17847
+#EXTINF:-1,True Movies 1
+rtmp://37.187.149.103/live/SkyScFiHorror?token=BAPW8LxFCxQtyPo2noh1YA&e=1423982711&u=17847
+#EXTINF:-1,True Movies 2
+rtmp://37.187.149.103/live/TrueMovies1?token=5VZiQTJOyprqbnbUPxcX-Q&e=1423982735&u=17847
 #EXTINF:-1,TRU 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TELENOVELAS 
@@ -967,6 +1033,8 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 #EXTINF:-1,DISNEY CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1,DISNEY CHANNEL
+rtmp://37.187.149.103/live/DisneyChnl?token=is5Kik9RCgRGsoOCGLQCdg&e=1423982407&u=17847
 #EXTINF:-1,Junior TV 
 http://akamai231.tibo.tv/m3u8/juniorchannel.m3u8
 #EXTINF:-1,NICKELODEON
