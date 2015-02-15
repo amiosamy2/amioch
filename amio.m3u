@@ -394,7 +394,7 @@ rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports8
 #EXTINF:-1,Bein Sport HD 9
 rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports9 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_9&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
 #EXTINF:-1,Sentata
-rtmp://37.187.149.103/live/LRTTELEVIZIJA?token=hHeviAzB5sD07OGCEvPkgA&e=1423995892&u=17847
+rtmp://37.187.149.103/live/SetantaIreland?token=ZXi9RwHLb54BBARsj_jdBg&e=1423996495&u=17847
 #EXTINF:-1,PremierSports
 rtmp://37.187.149.103/live/PremierSports?token=WC5l-lAwHV6tt6eeRRJcQg&e=1423995907&u=17847
 #EXTINF:-1,ESPNHD
@@ -808,29 +808,29 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=
 #EXTINF:-1,STUDIO UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
 #EXTINF:-1,Sky Movies Primer
-rtmp://37.187.149.103/live/SkyPremiere?token=KCf0ATqXfwpm40w96Q7yyA&e=1423982514&u=17847
+rtmp://37.187.149.103/live/SkyPremiere?token=VXz4imhGw0CvrB5w3X1YHw&e=1423996543&u=17847
 #EXTINF:-1,Sky Movies Primer 1
-rtmp://37.187.149.103/live/SkyPrem1?token=l4LfkH_bEUp2MAyFp0bVrg&e=1423982540&u=17847
+rtmp://37.187.149.103/live/SkyPrem1?token=vcbZFi7A-Jp63Vhsf-gs7w&e=1423996565&u=17847
 #EXTINF:-1,Sky Movies Primer 2
-rtmp://37.187.149.103/live/SkyPrem1?token=l4LfkH_bEUp2MAyFp0bVrg&e=1423982540&u=17847
+rtmp://37.187.149.103/live/SkySelect?token=wB1ITUWigkaaU0TPZlJQbg&e=1423996581&u=17847
 #EXTINF:-1,Sky Movies Comdey
-rtmp://37.187.149.103/live/SkySelect?token=dWkHfRqTtt-A8jKhwpA5Nw&e=1423982568&u=17847
+rtmp://37.187.149.103/live/SkyComedy?token=ZlBe1OD-gqEczrh2fTIuPQ&e=1423996595&u=17847
 #EXTINF:-1,Sky Movies Greats
-rtmp://37.187.149.103/live/SkyComedy?token=xxqxWJHUPEirNSdBC-8KtA&e=1423982587&u=17847
+rtmp://37.187.149.103/live/SkyGreats?token=7TBfztE9GfweESi08wPm_Q&e=1423996610&u=17847
 #EXTINF:-1,Sky Movies Action
-rtmp://37.187.149.103/live/SkyGreats?token=AQP8VcNTVOlGfn8eyj70_g&e=1423982606&u=17847
+rtmp://37.187.149.103/live/SkyAction?token=QQjYE9iiNn3mvbAlzXH-Gg&e=1423996625&u=17847
 #EXTINF:-1,Sky Movies Family
-rtmp://37.187.149.103/live/SkyAction?token=VxDq5kbyEd46bE4PCxOm-w&e=1423982624&u=17847
+rtmp://37.187.149.103/live/SkyFamily?token=I2t3WwdjhCQwqqvg7i3TYw&e=1423996644&u=17847
 #EXTINF:-1,Sky Movies Thriller
-rtmp://37.187.149.103/live/SkyFamily?token=Btz30TlXaWjhKsp2MTm_Zw&e=1423982645&u=17847
+rtmp://37.187.149.103/live/SkyThriller?token=XPm5vISRFz5i1oX7aoQpQQ&e=1423996657&u=17847
 #EXTINF:-1,Sky Movies Dramarom
-rtmp://37.187.149.103/live/SkyDramaRom?token=92wFIDWvbu-Q0XqNpDxsaw&e=1423982687&u=17847
+rtmp://37.187.149.103/live/SkyDramaRom?token=ONkAX3GrzttD85ltoYLRJw&e=1423996672&u=17847
 #EXTINF:-1,Sky Movies SCifi
-rtmp://37.187.149.103/live/SkyDramaRom?token=92wFIDWvbu-Q0XqNpDxsaw&e=1423982687&u=17847
-#EXTINF:-1,True Movies 1
 rtmp://37.187.149.103/live/SkyScFiHorror?token=BAPW8LxFCxQtyPo2noh1YA&e=1423982711&u=17847
+#EXTINF:-1,True Movies 1
+rtmp://37.187.149.103/live/TrueMovies1?token=QKTTtewZtzW34AOMPGQL9Q&e=1423996735&u=17847
 #EXTINF:-1,True Movies 2
-rtmp://37.187.149.103/live/TrueMovies1?token=5VZiQTJOyprqbnbUPxcX-Q&e=1423982735&u=17847
+rtmp://37.187.149.103/live/TrueMovies2?token=PNQPwz6k2RvINn99Yddyvg&e=1423996750&u=17847
 #EXTINF:-1,TRU 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TELENOVELAS 
