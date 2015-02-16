@@ -375,24 +375,24 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,Antena 3 Sports
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,Bein Sport HD 1
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports1 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_1&autostart=true&%22/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 2
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports2 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_2&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 3
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports3 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_3&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 4
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports4 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_4&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 5
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports5 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_5&autostart=true&%22/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 6
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports6 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_6&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 7
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports7 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_7&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 8
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports8 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_8&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
-#EXTINF:-1,Bein Sport HD 9
-rtmp://98.158.186.165/live?idu=405112250/rezanr_83566078920 playpath=beinsports9 swfUrl=http://www.elahmad.com/tv/swf/player.swf?file=bein_sport_9&autostart=true&/[[DYNAMIC]]/2/[[DYNAMIC]]/3 live=1 pageUrl=http://www.elahmad.com/tv/aljazeera_sport.php
+#EXTINF:-1,Bein2 HD
+http://37.59.51.173:8085/Bein2_HD/mpegts
+#EXTINF:-1,Bein3 HD
+http://37.59.51.173:8085/Bein3_HD/mpegts
+#EXTINF:-1,Bein4 HD
+http://37.59.51.173:8085/Bein4_HD/mpegts
+#EXTINF:-1,Bein5 HD
+http://37.59.51.173:8085/Bein5_HD/mpegts
+#EXTINF:-1,Bein6 HD
+http://37.59.51.173:8085/Bein6_HD/mpegts
+#EXTINF:-1,Bein7 HD
+http://37.59.51.173:8085/Bein7_HD/mpegts
+#EXTINF:-1,Bein8 HD
+http://37.59.51.173:8085/Bein8_HD/mpegts
+#EXTINF:-1,Bein9 HD
+http://37.59.51.173:8085/Bein9_HD/mpegts
+#EXTINF:-1,Bein10 HD
+http://37.59.51.173:8085/Bein10_HD/mpegts
 #EXTINF:-1,Sentata
 rtmp://37.187.149.103/live/SetantaIreland?token=ZXi9RwHLb54BBARsj_jdBg&e=1423996495&u=17847
 #EXTINF:-1,PremierSports
