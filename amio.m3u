@@ -397,6 +397,22 @@ http://37.59.51.173:8085/Bein10_HD/mpegts
 rtmp://65.111.174.111/iptv/beinsports1.stream
 #EXTINF:-1,BEIN hd english
 rtmp://65.111.174.111/iptv/beinsports2.stream
+#‎EXTINF‬: Bein sports 1 HD
+http://37.59.51.173:8085/Bein1_HD/mpegts?u=LiveSport-HD
+#EXTINF:-1,Bein Sport HD 2 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein2?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 3 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein3?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 4 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein4?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 5 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein5?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 6 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein6?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 7 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein7?u=hatem&p=240899
+#EXTINF:-1,Bein Sport HD 8 LIVE SPORTS HD
+rtmp://37.59.51.173:1944/live/Bein8?u=hatem&p=240899
 #EXTINF:-1,Nova Sport
 http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
 #EXTINF:-1,nova sport
@@ -471,6 +487,68 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
 #EXTINF:-1,Spain-FOX SPORTS 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,sky 1 s2
+rtmpe://46.246.124.86:1935/l playpath=sskys1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky 2 s2
+rtmpe://46.246.124.86:1935/l playpath=sskys2 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky 3 s2
+rtmpe://46.246.124.86:1935/l playpath=sskys3 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky 4 s2
+rtmpe://46.246.124.86:1935/l playpath=sskys4 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky 5 s2
+rtmpe://46.246.124.86:1935/l playpath=sskys5 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky f1 s2
+rtmpe://46.246.124.86:1935/l playpath=sskysf1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bt1 s2
+rtmpe://46.246.124.86:1935/l playpath=sbt swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,bt2 s2
+rtmpe://46.246.124.86:1935/l playpath=bt2 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Sport TV 1
+rtmp://93.174.93.50:443/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
+#EXTINF:-1,SPORT-TV1 HD
+rtmp://94.102.51.75:443/liveedge/ playpath=sat78 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=sat78
+#EXTINF:-1,SPORT-TV1
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
+#EXTINF:-1,SPORT-TV1
+rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/mrest.php?ch=live1-rbi6c
+#EXTINF:-1,SPORT-TV2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
+#EXTINF:-1,SPORT-TV2
+rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
+#EXTINF:-1, SPORT-TV3
+rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
+#EXTINF:-1, SPORT-TV3/BFTV
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1,NOVA Sport TV 3
+rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
+#EXTINF:-1,skysports5
+rtmpe://46.246.124.89:1935/l playpath=sskys5 swfUrl=http://player.prvservers.com/_.swf live=1 pageUrl=http://prvservers.com/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,skysports2
+http://37.48.118.32/live/skysports2.stream/playlist.m3u8?wowzasessionid=598371468
+#EXTINF:-1,SKY SPORT F1
+http://87.116.166.195:8115
+#EXTINF:-1,SKY SPORT 2
+http://87.116.166.195:8119
+#EXTINF:-1,SKY SPORT 1
+http://87.116.166.195:8117
+#EXTINF:-1,ESPN HD
+http://live.oneplay.Tv/reproducir/389.m3u8
+#EXTINF:-1,ESPN
+http://live.oneplay.Tv/reproducir/405.m3u8
+#EXTINF:-1,ESPN 2
+http://live.oneplay.tv/reproducir/409.m3u8
+#EXTINF:-1,ESPN 3
+http://live.oneplay.tv/reproducir/393.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://87.116.166.238:8220
+#EXTINF:-1,ARENA SPORT 2
+http://87.116.166.238:8221
+#EXTINF:-1,ARENA SPORT 3
+http://87.116.166.238:8222
+#EXTINF:-1,ARENA SPORT 4
+http://87.116.166.238:8223
+#EXTINF:-1,ARENA SPORT 5
+http://87.116.166.238:8226
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC
