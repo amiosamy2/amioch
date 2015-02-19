@@ -375,44 +375,58 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,Antena 3 Sports
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,Bein2 HD
-http://37.59.51.173:8085/Bein2_HD/mpegts
-#EXTINF:-1,Bein3 HD
-http://37.59.51.173:8085/Bein3_HD/mpegts
-#EXTINF:-1,Bein4 HD
-http://37.59.51.173:8085/Bein4_HD/mpegts
-#EXTINF:-1,Bein5 HD
-http://37.59.51.173:8085/Bein5_HD/mpegts
-#EXTINF:-1,Bein6 HD
-http://37.59.51.173:8085/Bein6_HD/mpegts
-#EXTINF:-1,Bein7 HD
-http://37.59.51.173:8085/Bein7_HD/mpegts
-#EXTINF:-1,Bein8 HD
-http://37.59.51.173:8085/Bein8_HD/mpegts
-#EXTINF:-1,Bein9 HD
-http://37.59.51.173:8085/Bein9_HD/mpegts
-#EXTINF:-1,Bein10 HD
-http://37.59.51.173:8085/Bein10_HD/mpegts
-#EXTINF:-1,BEIN Ñ spanish
-rtmp://65.111.174.111/iptv/beinsports1.stream
-#EXTINF:-1,BEIN hd english
-rtmp://65.111.174.111/iptv/beinsports2.stream
-#‎EXTINF‬: Bein sports 1 HD
-http://37.59.51.173:8085/Bein1_HD/mpegts?u=LiveSport-HD
-#EXTINF:-1,Bein Sport HD 2 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein2?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 3 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein3?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 4 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein4?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 5 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein5?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 6 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein6?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 7 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein7?u=hatem&p=240899
-#EXTINF:-1,Bein Sport HD 8 LIVE SPORTS HD
-rtmp://37.59.51.173:1944/live/Bein8?u=hatem&p=240899
+#EXTINF:-1,BEIN SPORTS 4
+http://178.33.70.168/test-hack-sat.com/124/96.ch
+#EXTINF:-1,BEIN SPORTS 5
+http://178.33.70.168/test-hack-sat.com/124/97.ch
+#EXTINF:-1,BEIN SPORTS 6
+http://178.33.70.168/test-hack-sat.com/124/98.ch
+#EXTINF:-1,BEIN SPORTS 7
+http://178.33.70.168/test-hack-sat.com/124/99.ch
+#EXTINF:-1,BEIN SPORTS 8
+http://178.33.70.168/test-hack-sat.com/124/100.ch
+#EXTINF:-1,BEIN SPORTS 9
+http://178.33.70.168/test-hack-sat.com/124/101.ch
+#EXTINF:-1,BEIN SPORTS 10
+http://178.33.70.168/test-hack-sat.com/124/102.ch
+#EXTINF:-1,BEIN SPORTS 11
+http://178.33.70.168/test-hack-sat.com/124/103.ch
+#EXTINF:-1,BEIN SPORTS 13
+http://178.33.70.168/test-hack-sat.com/124/105.ch
+#EXTINF:-1,BEIN SPORTS 14
+http://178.33.70.168/test-hack-sat.com/124/106.ch
+#EXTINF:-1,BEIN SPORTS 15
+http://178.33.70.168/test-hack-sat.com/124/107.ch
+#EXTINF:-1,Bein Sports 1 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/16.ts
+#EXTINF:-1,Bein Sports 2 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/17.ts
+#EXTINF:-1,Bein Sports 3 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/18.ts
+#EXTINF:-1,Bein Sports 4 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/19.ts
+#EXTINF:-1,Bein Sports 5 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/20.ts
+#EXTINF:-1,Bein Sports 6 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/21.ts
+#EXTINF:-1,Bein Sports 7 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/22.ts
+#EXTINF:-1,Bein Sports 8 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/23.ts
+#EXTINF:-1,Bein Sports 9 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/24.ts
+#EXTINF:-1,Bein Sports 10 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/25.ts
+#EXTINF:-1,Bein Sports 11 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/26.ts
+#EXTINF:-1,Bein Sports 12 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/27.ts
+#EXTINF:-1,Bein Sports 13 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/28.ts
+#EXTINF:-1,Bein Sports 14 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/29.ts
+#EXTINF:-1,Bein Sports 15 HD
+http://sportztv.net:8000/live/10usd/sports@fontsbay.com/30.ts
 #EXTINF:-1,Nova Sport
 http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
 #EXTINF:-1,nova sport
@@ -515,9 +529,9 @@ rtmpe://r.livecast.cc/rs/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player
 rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ AnisotropicTV
 #EXTINF:-1,SPORT-TV2
 rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
-#EXTINF:-1, SPORT-TV3
+#EXTINF:-1,SPORT-TV3
 rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
-#EXTINF:-1, SPORT-TV3/BFTV
+#EXTINF:-1,SPORT-TV3/BFTV
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1,NOVA Sport TV 3
 rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
@@ -539,6 +553,18 @@ http://live.oneplay.Tv/reproducir/405.m3u8
 http://live.oneplay.tv/reproducir/409.m3u8
 #EXTINF:-1,ESPN 3
 http://live.oneplay.tv/reproducir/393.m3u8
+#EXTINF:-1,Sky Sports 1
+http://198.27.94.105/hls/skysports1.m3u8
+#EXTINF:-1,Sky Sports 2
+http://198.27.94.105/hls/skysports2.m3u8
+#EXTINF:-1,Sky Sports 3
+http://198.27.94.105/hls/skysports3.m3u8
+#EXTINF:-1,Sky Sports 4
+http://198.27.94.105/hls/skysports4.m3u8
+#EXTINF:-1,BT SPORT 1
+http://198.27.94.105/hls/bt1.m3u8
+#EXTINF:-1,BT SPORT 2
+http://198.27.94.105/hls/bt2.m3u8
 #EXTINF:-1,ARENA SPORT 1
 http://87.116.166.238:8220
 #EXTINF:-1,ARENA SPORT 2
@@ -1067,6 +1093,34 @@ http://akamai238.tibo.tv/Drepeater1/natgeo.stream/playlist.m3u8
 http://akamai231.tibo.tv/m3u8/natwildchannel.m3u8 
 #EXTINF:-1,Cufo TV 
 http://akamai231.tibo.tv/m3u8/cufochannel.m3u8
+#EXTINF:-1,FOX
+http://live.oneplay.tv/reproducir/85.m3u8
+#EXTINF:-1,SONY
+http://live.oneplay.tv/reproducir/89.m3u8
+#EXTINF:-1,WARNER HD
+http://live.oneplay.tv/reproducir/93.m3u8
+#EXTINF:-1,UNIVERSAL
+http://live.oneplay.tv/reproducir/97.m3u8
+#EXTINF:-1,FX HD
+http://live.oneplay.tv/reproducir/101.m3u8
+#EXTINF:-1,A&E
+http://live.oneplay.tv/reproducir/105.m3u8
+#EXTINF:-1,AXN HD
+http://live.oneplay.tv/reproducir/109.m3u8
+#EXTINF:-1,TRUE HD
+http://live.oneplay.tv/reproducir/113.m3u8
+#EXTINF:-1,COMEDY HD
+http://live.oneplay.tv/reproducir/117.m3u8
+#EXTINF:-1,UNICABLE HD
+http://live.oneplay.tv/reproducir/121.m3u8
+#EXTINF:-1,FOX HD
+http://live.oneplay.tv/reproducir/125.m3u8
+#EXTINF:-1,UNIVERSAL
+http://live.oneplay.tv/reproducir/137.m3u8
+#EXTINF:-1,SYFY HD
+http://live.oneplay.tv/reproducir/141.m3u8
+#EXTINF:-1,FX HD
+http://live.oneplay.tv/reproducir/145.m3u8
 #EXTINF:-1,1 group-title=Cartoon,Disney Channel
 http://akamai231.tibo.tv/m3u8/disneychannel.m3u8
 #EXTINF:-1,Cartoon Network
