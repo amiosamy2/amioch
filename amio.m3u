@@ -401,6 +401,36 @@ http://live.oneplay.tv/reproducir/409.m3u8
 http://live.oneplay.tv/reproducir/393.m3u8
 #EXTINF:-1,Eurosport
 http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 3 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,Fox SPORTS 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,Fox SPORTS 2 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8 
+#EXTINF:-1,ESPN 2 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1,ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1,ESPN 2 HD
+rtmp://89.248.172.145:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1,ESPN 2
+rtmp://89.248.172.145:1935/edge/_definst_/5hd19kwxef5b59o
+#EXTINF:-1,ESPN HD
+rtmp://89.248.172.145:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1,ESPN
+rtmp://89.248.172.145:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1,Eurosport
+http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
 #EXTINF:-1,EUROSPORT 1 ENG
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,EUROSPORT 1 FR
@@ -417,6 +447,14 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
 #EXTINF:-1,FOX SPORTS 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8? 
+#EXTINF:-1,fox1 sports usa hd
+http://37.157.246.170:8000/fuckyoubaba1/fox/usa1/index.m3u8
+#EXTINF:-1,fox sport usa 2 hd
+http://37.157.246.170:8000/fuckyoubab1fox/usa2/index.m3u8 
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
@@ -425,6 +463,8 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl
 http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
 #EXTINF:-1,Nova Sport
 http://w4.drundoo.com:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/playlist.m3u8
+#EXTINF:-1,NOVA Sport TV 3
+rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
 #EXTINF:-1,RUS SPORT
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1,RUS-NTV + Basketball
@@ -481,14 +521,20 @@ rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/
 rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #EXTINF:-1,SPORT-TV3/BFTV
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,NOVA Sport TV 3
-rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
+#EXTINF:-1,Super Sport 1 HD 
+http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 2 HD 
+http://akamai252.tibo.tv/252t2apk1/ngrp:ss2dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 3 HD 
+http://akamai244.tibo.tv/smicro2live/ngrp:ss3dga.stream_all/playlist.m3u8 
+#EXTINF:-1,Super Sport 4 HD 
+http://akamai229.tibo.tv/229t2sport/ngrp:ss4dga.stream_all/playlist.m3u8 
+#EXTINF:-1,SPORT
+http://212.250.46.35:3006
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
-#EXTINF:-1,ABC
-rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-#EXTINF:-1,AMC HD
-rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,ABC HD
+rtmp://89.248.172.145:1935/edge/_definst_/nz7l9vc5nv1og7b
 #EXTINF:-1,AMC 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,AMC 
@@ -497,8 +543,10 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=365&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8?
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:-1,American Horrors
-http://204.107.26.252:1935/live/393.high.stream/playlist.m3u8
+#EXTINF:-1,AMC HD
+rtmp://89.248.172.145:1935/edge/_definst_/z4cxm7zlfyqs65m
+#EXTINF:-1,AMC
+rtmp://89.248.172.145:1935/edge/_definst_/7pctmre0zfwsc24
 #EXTINF:-1,ANIMAL PLANET
 rtmp://31.204.128.75/live/30
 #EXTINF:-1,ANIMAL PLANET
@@ -507,16 +555,28 @@ http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=261&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,A&E 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,A AND E
+#EXTINF:-1,A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1,A&E
+http://live.oneplay.tv/reproducir/105.m3u8
+#EXTINF:-1,A&E
+rtmp://89.248.172.145:1935/edge/_definst_/tuc280rbycwnsvs
 #EXTINF:-1,AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8? 
 #EXTINF:-1,AXN HD
 http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 #EXTINF:-1,AXN 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,BASTA CRER
-rtmp://streamspub.manasat.com/live/bastacrer
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,AXN HD
+http://live.oneplay.tv/reproducir/109.m3u8
+#EXTINF:-1,Action Plus L1
+http://185.4.83.195:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Action Plus L2
+http://185.4.83.202:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Action Plus L3
+http://185.4.83.203:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Action Plus L4
+http://46.40.73.66:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,BBC 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=129&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,BBC
@@ -525,40 +585,18 @@ http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-#EXTINF:-1,BLOOMBERG 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,BOOMERANG
-http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,bollywoodcinema2
 rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
 #EXTINF:-1,bollywoodhungama
 rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
-#EXTINF:-1,CARTOON NETWORK
-http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1,COMEDY HD
+http://live.oneplay.tv/reproducir/117.m3u8
 #EXTINF:-1,CBS ACTION
 http://212.250.46.35:2003/
-#EXTINF:-1,CMC
-http://83.139.104.108/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
-#EXTINF:-1,CBS Reality
-http://83.139.104.108/Content/HLS/Live/Channel(CBS_Reality)/Stream(03)/index.m3u8
-#EXTINF:-1,CBEEBIES
-http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
 #EXTINF:-1,CNBC
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CineStream TV
 http://68.71.42.179/live/livestream1/playlist.m3u8
-#EXTINF:-1,CARTOONITO
-http://202.75.23.36:1400/live/ch49/01.m3u8
-#EXTINF:-1,Classic Arts Showcase (Boston)
-rtmp://streaming.cityofboston.gov/live/cable
-#EXTINF:-1,Classic Movies
-rtmp://mi2.gv.filmon.com:8086/live/206.high.stream
-#EXTINF:-1,Classic Movies Archive
-rtmp://204.107.26.252:8086/live/1991.high.stream
-#EXTINF:-1,Clubbing TV
-http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
-#EXTINF:-1,CarolCablesTV (Florida) mmsh
-mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
 #EXTINF:-1,CINECANAL
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
 #EXTINF:-1,CINECANAL +
@@ -569,24 +607,22 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=309&lan=2&rows=
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,Canal M 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=417&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,CINEMAX
-rtmp://31.204.128.140/live/53
 #EXTINF:-1,CINEMAX 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,CARTOON NETWORK 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,COMEDY CENTRAL 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=117&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,COMEDY CENTRAL
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
-#EXTINF:-1,CNBC
-http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,CW USA
-rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,Comedy Plus L1
+http://185.4.83.195:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Comedy Plus L2
+http://185.4.83.202:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Comedy Plus L3
+http://185.4.83.203:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Comedy Plus L4
+http://46.40.73.66:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,CASA 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,Discovery Channel
-http://83.139.104.108/Content/HLS/Live/Channel(Discovery_Channel)/Stream(03)/index.m3u8
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=181&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,DE PELICULA HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
 #EXTINF:-1,DISCOVERY
@@ -600,7 +636,7 @@ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
 #EXTINF:-1,DISCOVERY KIDS
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
 #EXTINF:-1,DISCOVERY KIDS 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=193&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,DISCOVERY KIDS
 rtmp://31.204.128.74/live/master24
 #EXTINF:-1,DISCOVERY 
@@ -615,34 +651,18 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=281&lan=2&rows=
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=285&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,DISTRITO COMEDIA 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,eScapes HD TV
-http://204.107.26.252:1935/live/341.high.stream/playlist.m3u8
 #EXTINF:-1,E! 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=133&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,E
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-#EXTINF:-1,Eurosport
-http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
-#EXTINF:-1,ESPN 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,ESPN 3 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,Fox SPORTS 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,Fox SPORTS 2 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,ESPN 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8 
-#EXTINF:-1,ESPN 2 
-http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1,ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1,FOX
+http://live.oneplay.tv/reproducir/85.m3u8
+#EXTINF:-1,FOX HD
+http://live.oneplay.tv/reproducir/125.m3u8
+#EXTINF:-1,FX HD
+http://live.oneplay.tv/reproducir/145.m3u8
+#EXTINF:-1,FX HD
+http://live.oneplay.tv/reproducir/101.m3u8
 #EXTINF:-1,FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
 #EXTINF:-1,FX 
@@ -683,27 +703,15 @@ http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
 #EXTINF:-1,FOX CLASSICS
 http://200.76.77.237/LIVE/H01/CANAL478/PROFILE03.m3u8?
-#EXTINF:-1,FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8? 
-#EXTINF:-1,fox1 sports usa hd
-http://37.157.246.170:8000/fuckyoubaba1/fox/usa1/index.m3u8
-#EXTINF:-1,fox sport usa 2 hd
-http://37.157.246.170:8000/fuckyoubab1fox/usa2/index.m3u8 
-#EXTINF:-1,FOX 5 USA
-rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,FX M 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=145&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,FILM ZONE 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,FILM ZONE HD
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
-#EXTINF:-1,Golf channel
-rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
 #EXTINF:-1,GINX
 rtmp://204.107.26.252:8086/live/796.high.stream
-#EXTINF:-1,GMU TV (Virginia) mms
+#EXTINF:-1,GMU TV (Virginia)
 mms://media.mesa.gmu.edu/capconwhite1
 #EXTINF:-1,GOURMET 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=161&lan=2&rows=40&f=.m3u8 
@@ -733,6 +741,26 @@ rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,INF
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1,itv
+http://212.250.46.35:2002
+#EXTINF:-1,cbs action
+http://212.250.46.35:2003
+#EXTINF:-1,itv.Be
+http://212.250.46.35:2004
+#EXTINF:-1,itv
+http://212.250.46.35:2005
+#EXTINF:-1,itv
+http://212.250.46.35:2006
+#EXTINF:-1,itv
+http://212.250.46.35:2007
+#EXTINF:-1,itv
+http://212.250.46.35:2008
+#EXTINF:-1,itv
+http://212.250.46.35:2009
+#EXTINF:-1,itv
+http://212.250.46.35:2010
+#EXTINF:-1,IME
+http://212.250.46.35:3005
 #EXTINF:-1,ID 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,INFINITO 
@@ -767,8 +795,14 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=249&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
 #EXTINF:-1,NAT GEO
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
-#EXTINF:-1,NBC
-rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
+#EXTINF:-1,OK Bambino
+http://83.139.104.108/Content/HLS/Live/Channel(OK_Bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,Orlando Kids
+http://83.139.104.108/Content/HLS/Live/Channel(Orlando_Kids)/Stream(03)/index.m3u8
+#EXTINF:-1,POP GIRL
+http://212.250.46.35:2014
+#EXTINF:-1,Plus HD 
+http://akamai238.tibo.tv/Drepeater1/plus.stream/playlist.m3u8
 #EXTINF:-1,PX HD 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,REALITY 
@@ -795,30 +829,22 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-#EXTINF:-1,Sky Movies Primer
-rtmp://37.187.149.103/live/SkyPremiere?token=VXz4imhGw0CvrB5w3X1YHw&e=1423996543&u=17847
-#EXTINF:-1,Sky Movies Primer 1
-rtmp://37.187.149.103/live/SkyPrem1?token=vcbZFi7A-Jp63Vhsf-gs7w&e=1423996565&u=17847
-#EXTINF:-1,Sky Movies Primer 2
-rtmp://37.187.149.103/live/SkySelect?token=wB1ITUWigkaaU0TPZlJQbg&e=1423996581&u=17847
-#EXTINF:-1,Sky Movies Comdey
-rtmp://37.187.149.103/live/SkyComedy?token=ZlBe1OD-gqEczrh2fTIuPQ&e=1423996595&u=17847
-#EXTINF:-1,Sky Movies Greats
-rtmp://37.187.149.103/live/SkyGreats?token=7TBfztE9GfweESi08wPm_Q&e=1423996610&u=17847
-#EXTINF:-1,Sky Movies Action
-rtmp://37.187.149.103/live/SkyAction?token=QQjYE9iiNn3mvbAlzXH-Gg&e=1423996625&u=17847
-#EXTINF:-1,Sky Movies Family
-rtmp://37.187.149.103/live/SkyFamily?token=I2t3WwdjhCQwqqvg7i3TYw&e=1423996644&u=17847
-#EXTINF:-1,Sky Movies Thriller
-rtmp://37.187.149.103/live/SkyThriller?token=XPm5vISRFz5i1oX7aoQpQQ&e=1423996657&u=17847
-#EXTINF:-1,Sky Movies Dramarom
-rtmp://37.187.149.103/live/SkyDramaRom?token=ONkAX3GrzttD85ltoYLRJw&e=1423996672&u=17847
-#EXTINF:-1,Sky Movies SCifi
-rtmp://37.187.149.103/live/SkyScFiHorror?token=BAPW8LxFCxQtyPo2noh1YA&e=1423982711&u=17847
-#EXTINF:-1,True Movies 1
-rtmp://37.187.149.103/live/TrueMovies1?token=QKTTtewZtzW34AOMPGQL9Q&e=1423996735&u=17847
-#EXTINF:-1,True Movies 2
-rtmp://37.187.149.103/live/TrueMovies2?token=PNQPwz6k2RvINn99Yddyvg&e=1423996750&u=17847
+#EXTINF:-1,STV WOMEN
+http://212.250.46.35:2011
+#EXTINF:-1,STV WOMEN
+http://212.250.46.35:2012
+#EXTINF:-1,STV
+http://212.250.46.35:2013
+#EXTINF:-1,S4C
+http://212.250.46.35:3013
+#EXTINF:-1,SONY
+http://live.oneplay.tv/reproducir/89.m3u8
+#EXTINF:-1,SYFY HD
+http://live.oneplay.tv/reproducir/141.m3u8
+#EXTINF:-1,Travel Channel
+http://83.139.104.108/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
+#EXTINF:-1,TRUE HD
+http://live.oneplay.tv/reproducir/113.m3u8
 #EXTINF:-1,TRU 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TELENOVELAS 
@@ -869,6 +895,14 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
 #EXTINF:-1,UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1,UNIVERSAL
+http://live.oneplay.tv/reproducir/97.m3u8
+#EXTINF:-1,UNIVERSAL
+http://live.oneplay.tv/reproducir/137.m3u8
+#EXTINF:-1,UNICABLE HD
+http://live.oneplay.tv/reproducir/121.m3u8
+#EXTINF:-1,UK
+http://212.250.46.35:3012
 #EXTINF:-1,UNICABLE 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,VH1 
@@ -881,160 +915,34 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=4
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,WARNER HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1,WARNER HD
+http://live.oneplay.tv/reproducir/93.m3u8
 #EXTINF:-1,WOBI 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=293&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?  
-#EXTINF:-1,YouToo
-http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
-#EXTINF:-1,Food Network
-http://83.139.104.108/Content/HLS/Live/Channel(Food_Network)/Stream(03)/index.m3u8
-#EXTINF:-1,Travel Channel
-http://83.139.104.108/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
-#EXTINF:-1,OK Bambino
-http://83.139.104.108/Content/HLS/Live/Channel(OK_Bambino)/Stream(03)/index.m3u8
-#EXTINF:-1,Orlando Kids
-http://83.139.104.108/Content/HLS/Live/Channel(Orlando_Kids)/Stream(03)/index.m3u8
-#EXTINF:-1,Fine Living Network
-http://83.139.104.108/Content/HLS/Live/Channel(Fine_Living)/Stream(03)/index.m3u8
-#EXTINF:-1,NASA TV
-http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8
-#EXTINF:-1,Fight Channel
-http://83.139.104.108/Content/HLS/Live/Channel(Fight_Channel)/Stream(03)/index.m3u8
-#EXTINF:-1,itv
-http://212.250.46.35:2002
-#EXTINF:-1,cbs action
-http://212.250.46.35:2003
-#EXTINF:-1,itv.Be
-http://212.250.46.35:2004
-#EXTINF:-1,itv
-http://212.250.46.35:2005
-#EXTINF:-1,itv
-http://212.250.46.35:2006
-#EXTINF:-1,itv
-http://212.250.46.35:2007
-#EXTINF:-1,itv
-http://212.250.46.35:2008
-#EXTINF:-1,itv
-http://212.250.46.35:2009
-#EXTINF:-1,itv
-http://212.250.46.35:2010
-#EXTINF:-1,STV WOMEN
-http://212.250.46.35:2011
-#EXTINF:-1,STV WOMEN
-http://212.250.46.35:2012
-#EXTINF:-1,STV
-http://212.250.46.35:2013
-#EXTINF:-1,POP GIRL
-http://212.250.46.35:2014
-#EXTINF:-1,BBC NEWS
-http://212.250.46.35:3001
-#EXTINF:-1,IME
-http://212.250.46.35:3005
-#EXTINF:-1,SPORT
-http://212.250.46.35:3006
-#EXTINF:-1,UK
-http://212.250.46.35:3012
-#EXTINF:-1,S4C
-http://212.250.46.35:3013
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8? 
 #EXTINF:-1,WOMEN
 http://212.250.46.35:3014
-#EXTINF:-1,Action Plus L1
-http://185.4.83.195:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L2
-http://185.4.83.202:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L3
-http://185.4.83.203:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L4
-http://46.40.73.66:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Comedy Plus L1
-http://185.4.83.195:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Comedy Plus L2
-http://185.4.83.202:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Comedy Plus L3
-http://185.4.83.203:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Comedy Plus L4
-http://46.40.73.66:1935/tv10/smil:comedyplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Super Sport 1 HD 
-http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 2 HD 
-http://akamai252.tibo.tv/252t2apk1/ngrp:ss2dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 3 HD 
-http://akamai244.tibo.tv/smicro2live/ngrp:ss3dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 4 HD 
-http://akamai229.tibo.tv/229t2sport/ngrp:ss4dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Film Nje HD 
-http://akamai227.tibo.tv/227t2apk1/filmnje.stream_720p/playlist.m3u8 
-#EXTINF:-1,Film Dy HD 
-http://akamai227.tibo.tv/227t2apk1/filmdy.stream_720p/playlist.m3u8 
-#EXTINF:-1,Plus HD 
-http://akamai238.tibo.tv/Drepeater1/plus.stream/playlist.m3u8 
-#EXTINF:-1,Film Autor 
-http://akamai231.tibo.tv/m3u8/autorchannel.m3u8 
-#EXTINF:-1,Film Hits 
-http://akamai231.tibo.tv/m3u8/hitschannel.m3u8 
-#EXTINF:-1,Film Thriller 
-http://akamai231.tibo.tv/m3u8/thrillerchannel.m3u8 
-#EXTINF:-1,Film Drame 
-http://akamai231.tibo.tv/m3u8/dramechannel.m3u8 
-#EXTINF:-1,Film Aksion 
-http://akamai231.tibo.tv/m3u8/aksionchannel.m3u8 
-#EXTINF:-1,Film Komedi 
-http://akamai231.tibo.tv/m3u8/komedichannel.m3u8 
-#EXTINF:-1,FILM GOLD 
-http://akamai231.tibo.tv/m3u8/goldchannel.m3u8 
-#EXTINF:-1,Fox Crime 
-http://akamai231.tibo.tv/m3u8/foxcrimechannel.m3u8 
-#EXTINF:-1,Fox Life 
-http://akamai231.tibo.tv/m3u8/foxlifechannel.m3u8 
-#EXTINF:-1,Explorer Shkence 
-http://akamai238.tibo.tv/Drepeater1/expshkence.stream/playlist.m3u8 
-#EXTINF:-1,Explorer Natyra 
-http://akamai231.tibo.tv/m3u8/expnatyrachannel.m3u8 
-#EXTINF:-1,Explorer Histori 
-http://akamai231.tibo.tv/m3u8/exphistorichannel.m3u8 
-#EXTINF:-1,Discovery HD 
-http://akamai238.tibo.tv/Drepeater1/discovery.stream/playlist.m3u8 
-#EXTINF:-1,Nat Geo HD 
-http://akamai238.tibo.tv/Drepeater1/natgeo.stream/playlist.m3u8 
-#EXTINF:-1,Nat Geo Wild 
-http://akamai231.tibo.tv/m3u8/natwildchannel.m3u8 
-#EXTINF:-1,Cufo TV 
-http://akamai231.tibo.tv/m3u8/cufochannel.m3u8
-#EXTINF:-1,FOX
-http://live.oneplay.tv/reproducir/85.m3u8
-#EXTINF:-1,SONY
-http://live.oneplay.tv/reproducir/89.m3u8
-#EXTINF:-1,WARNER HD
-http://live.oneplay.tv/reproducir/93.m3u8
-#EXTINF:-1,UNIVERSAL
-http://live.oneplay.tv/reproducir/97.m3u8
-#EXTINF:-1,FX HD
-http://live.oneplay.tv/reproducir/101.m3u8
-#EXTINF:-1,A&E
-http://live.oneplay.tv/reproducir/105.m3u8
-#EXTINF:-1,AXN HD
-http://live.oneplay.tv/reproducir/109.m3u8
-#EXTINF:-1,TRUE HD
-http://live.oneplay.tv/reproducir/113.m3u8
-#EXTINF:-1,COMEDY HD
-http://live.oneplay.tv/reproducir/117.m3u8
-#EXTINF:-1,UNICABLE HD
-http://live.oneplay.tv/reproducir/121.m3u8
-#EXTINF:-1,FOX HD
-http://live.oneplay.tv/reproducir/125.m3u8
-#EXTINF:-1,UNIVERSAL
-http://live.oneplay.tv/reproducir/137.m3u8
-#EXTINF:-1,SYFY HD
-http://live.oneplay.tv/reproducir/141.m3u8
-#EXTINF:-1,FX HD
-http://live.oneplay.tv/reproducir/145.m3u8
+#EXTINF:-1,YouToo
+http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
 #EXTINF:-1,1 group-title=Cartoon,Disney Channel
 http://akamai231.tibo.tv/m3u8/disneychannel.m3u8
+#EXTINF:-1,BLOOMBERG 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,BOOMERANG
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
 rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 #EXTINF:-1,CARTOON NETWORK
 rtmp://31.204.128.140/live/brlive_0028
+#EXTINF:-1,CARTOON NETWORK 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1,CARTOONITO
+http://202.75.23.36:1400/live/ch49/01.m3u8
+#EXTINF:-1,CBEEBIES
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
 #EXTINF:-1,CBEEBIES 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=197&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,DISNEY JR 
