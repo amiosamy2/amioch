@@ -375,70 +375,30 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,Antena 3 Sports
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,BEIN SPORTS 4
-http://178.33.70.168/test-hack-sat.com/124/96.ch
-#EXTINF:-1,BEIN SPORTS 5
-http://178.33.70.168/test-hack-sat.com/124/97.ch
-#EXTINF:-1,BEIN SPORTS 6
-http://178.33.70.168/test-hack-sat.com/124/98.ch
-#EXTINF:-1,BEIN SPORTS 7
-http://178.33.70.168/test-hack-sat.com/124/99.ch
-#EXTINF:-1,BEIN SPORTS 8
-http://178.33.70.168/test-hack-sat.com/124/100.ch
-#EXTINF:-1,BEIN SPORTS 9
-http://178.33.70.168/test-hack-sat.com/124/101.ch
-#EXTINF:-1,BEIN SPORTS 10
-http://178.33.70.168/test-hack-sat.com/124/102.ch
-#EXTINF:-1,BEIN SPORTS 11
-http://178.33.70.168/test-hack-sat.com/124/103.ch
-#EXTINF:-1,BEIN SPORTS 13
-http://178.33.70.168/test-hack-sat.com/124/105.ch
-#EXTINF:-1,BEIN SPORTS 14
-http://178.33.70.168/test-hack-sat.com/124/106.ch
-#EXTINF:-1,BEIN SPORTS 15
-http://178.33.70.168/test-hack-sat.com/124/107.ch
-#EXTINF:-1,Bein Sports 1 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/17.ts
-#EXTINF:-1,Bein Sports 3 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/18.ts
-#EXTINF:-1,Bein Sports 4 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/19.ts
-#EXTINF:-1,Bein Sports 5 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/20.ts
-#EXTINF:-1,Bein Sports 6 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/21.ts
-#EXTINF:-1,Bein Sports 7 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/22.ts
-#EXTINF:-1,Bein Sports 8 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/23.ts
-#EXTINF:-1,Bein Sports 9 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/24.ts
-#EXTINF:-1,Bein Sports 10 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/25.ts
-#EXTINF:-1,Bein Sports 11 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/26.ts
-#EXTINF:-1,Bein Sports 12 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/27.ts
-#EXTINF:-1,Bein Sports 13 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/28.ts
-#EXTINF:-1,Bein Sports 14 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/29.ts
-#EXTINF:-1,Bein Sports 15 HD
-http://sportztv.net:8000/live/10usd/sports@fontsbay.com/30.ts
-#EXTINF:-1,Nova Sport
-http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
-#EXTINF:-1,nova sport
-http://74.122.193.208:1935/DrundooDVR/_definst_/smil:b0525ed5-1933-4408-9248-1569491c8448.smil/HasBahCa.m3u8
-#EXTINF:-1,FOX SPORT1
-rtmp://skystreams.info:1935/live/fs1
-#EXTINF:-1,FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1,BT SPORT 1
+http://198.27.94.105/hls/bt1.m3u8
+#EXTINF:-1,BT SPORT 2
+http://198.27.94.105/hls/bt2.m3u8
 #EXTINF:-1,ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
 #EXTINF:-1,ESPN2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,ESPN2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,ESPN3
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,ESPN HD
+http://live.oneplay.Tv/reproducir/389.m3u8
+#EXTINF:-1,ESPN
+http://live.oneplay.Tv/reproducir/405.m3u8
+#EXTINF:-1,ESPN 2
+http://live.oneplay.tv/reproducir/409.m3u8
+#EXTINF:-1,ESPN 3
+http://live.oneplay.tv/reproducir/393.m3u8
 #EXTINF:-1,Eurosport
 http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
 #EXTINF:-1,EUROSPORT 1 ENG
@@ -447,26 +407,24 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 2
 http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
-#EXTINF:-1,Eurosport 2  m3u8 720*576 myvideo.az
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?&9105hYfVnmGdFydb3h
-#EXTINF:-1,Eurosport m3u8 720*576 myvideo.az
-http://hls01-09.az.myvideo.az/hls-live/livepkgr/eurosport/eurosport/eurosport.m3u8?&9105hYfVnmGdFydb3h
-#EXTINF:-1,NBC
-http://37.157.245.82:1935/tv/nbc.stream/playlist.m3u8
-#EXTINF:-1,sportsnetW
-http://37.157.245.82:1935/tv/sportsnetW.stream/playlist.m3u8
-#EXTINF:-1,sportsnetO
-http://37.157.245.82:1935/tv/sportsnetO.stream/playlist.m3u8
-#EXTINF:-1,TSN 1
-http://37.157.245.82:1935/tv/tsn1.stream/playlist.m3u8
-#EXTINF:-1,TSN 2
-http://37.157.245.82:1935/tv/tsn2.stream/playlist.m3u8
-#EXTINF:-1,AMC HD
-http://37.157.245.82:1935/tv/amchd.stream/playlist.m3u
+#EXTINF:-1,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
+#EXTINF:-1,FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
+#EXTINF:-1,Nova Sport
+http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
+#EXTINF:-1,Nova Sport
+http://w4.drundoo.com:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/playlist.m3u8
 #EXTINF:-1,RUS SPORT
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1,RUS-NTV + Basketball
@@ -485,38 +443,28 @@ http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-80.m3u8
 http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-80.m3u8
 #EXTINF:-1,RUS-НТВ+ Футбол 3
 http://193.232.151.135/hls-live/livepkgr/_1060_/1060/1060-80.m3u8
-#EXTINF:-1,Spain:ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain:ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain:ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain:ESPN3
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain:FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain:FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain-FOX SPORTS
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,Spain-FOX SPORTS 2
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,sky 1 s2
+#EXTINF:-1,sky sports 1
 rtmpe://46.246.124.86:1935/l playpath=sskys1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,sky 2 s2
+#EXTINF:-1,sky sports 2
 rtmpe://46.246.124.86:1935/l playpath=sskys2 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,sky 3 s2
+#EXTINF:-1,sky sports 3
 rtmpe://46.246.124.86:1935/l playpath=sskys3 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,sky 4 s2
+#EXTINF:-1,sky sports 4
 rtmpe://46.246.124.86:1935/l playpath=sskys4 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,sky 5 s2
+#EXTINF:-1,sky sports 5
 rtmpe://46.246.124.86:1935/l playpath=sskys5 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,sky f1 s2
+#EXTINF:-1,sky sports 5
+rtmpe://46.246.124.89:1935/l playpath=sskys5 swfUrl=http://player.prvservers.com/_.swf live=1 pageUrl=http://prvservers.com/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,sky f1
 rtmpe://46.246.124.86:1935/l playpath=sskysf1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bt1 s2
-rtmpe://46.246.124.86:1935/l playpath=sbt swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bt2 s2
-rtmpe://46.246.124.86:1935/l playpath=bt2 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Sky Sports 1
+http://198.27.94.105/hls/skysports1.m3u8
+#EXTINF:-1,Sky Sports 2
+http://198.27.94.105/hls/skysports2.m3u8
+#EXTINF:-1,Sky Sports 3
+http://198.27.94.105/hls/skysports3.m3u8
+#EXTINF:-1,Sky Sports 4
+http://198.27.94.105/hls/skysports4.m3u8
 #EXTINF:-1,Sport TV 1
 rtmp://93.174.93.50:443/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
 #EXTINF:-1,SPORT-TV1 HD
@@ -535,46 +483,6 @@ rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:-1,NOVA Sport TV 3
 rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
-#EXTINF:-1,skysports5
-rtmpe://46.246.124.89:1935/l playpath=sskys5 swfUrl=http://player.prvservers.com/_.swf live=1 pageUrl=http://prvservers.com/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,skysports2
-http://37.48.118.32/live/skysports2.stream/playlist.m3u8?wowzasessionid=598371468
-#EXTINF:-1,SKY SPORT F1
-http://87.116.166.195:8115
-#EXTINF:-1,SKY SPORT 2
-http://87.116.166.195:8119
-#EXTINF:-1,SKY SPORT 1
-http://87.116.166.195:8117
-#EXTINF:-1,ESPN HD
-http://live.oneplay.Tv/reproducir/389.m3u8
-#EXTINF:-1,ESPN
-http://live.oneplay.Tv/reproducir/405.m3u8
-#EXTINF:-1,ESPN 2
-http://live.oneplay.tv/reproducir/409.m3u8
-#EXTINF:-1,ESPN 3
-http://live.oneplay.tv/reproducir/393.m3u8
-#EXTINF:-1,Sky Sports 1
-http://198.27.94.105/hls/skysports1.m3u8
-#EXTINF:-1,Sky Sports 2
-http://198.27.94.105/hls/skysports2.m3u8
-#EXTINF:-1,Sky Sports 3
-http://198.27.94.105/hls/skysports3.m3u8
-#EXTINF:-1,Sky Sports 4
-http://198.27.94.105/hls/skysports4.m3u8
-#EXTINF:-1,BT SPORT 1
-http://198.27.94.105/hls/bt1.m3u8
-#EXTINF:-1,BT SPORT 2
-http://198.27.94.105/hls/bt2.m3u8
-#EXTINF:-1,ARENA SPORT 1
-http://87.116.166.238:8220
-#EXTINF:-1,ARENA SPORT 2
-http://87.116.166.238:8221
-#EXTINF:-1,ARENA SPORT 3
-http://87.116.166.238:8222
-#EXTINF:-1,ARENA SPORT 4
-http://87.116.166.238:8223
-#EXTINF:-1,ARENA SPORT 5
-http://87.116.166.238:8226
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC
@@ -1163,6 +1071,8 @@ http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
 #EXTINF:-1,TOONCAST 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=237&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,Tom and Jerry
+http://66.90.111.66:1935/ctv/tom/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
