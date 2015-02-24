@@ -371,14 +371,16 @@ http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
 #EXTINF:-1,Pro Sports 4 (UAE)
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://2co1.vp9.tv/chn/bin01/v.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://2co1.vp9.tv/chn/bin02/v.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://2co1.vp9.tv/chn/bin03/v.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://2co1.vp9.tv/chn/bin04/v.m3u8
+#EXTINF:-1,Arenasport 1
+http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1,Arenasport 2
+http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1,Arenasport 3
+http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1,Arenasport 4
+http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+#EXTINF:-1,Arenasport 5
+http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 #EXTINF:-1,ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,Antena 3 Sports
@@ -513,6 +515,20 @@ http://198.27.94.105/hls/skysports2.m3u8
 http://198.27.94.105/hls/skysports3.m3u8
 #EXTINF:-1,Sky Sports 4
 http://198.27.94.105/hls/skysports4.m3u8
+#EXTINF:-1,sky sport 1
+http://37.59.16.4:1935/global/skysp1.stream/playlist.m3u8
+#EXTINF:-1,sky sport 2
+http://37.59.16.4:1935/global/skysp2.stream/playlist.m3u8
+#EXTINF:-1,sky sport 3
+http://37.59.16.4:1935/global/skysp3.stream/playlist.m3u8
+#EXTINF:-1,sky sport 4
+http://37.59.16.4:1935/global/skysp4.stream/playlist.m3u8
+#EXTINF:-1,sky sport 5
+http://37.59.16.4:1935/global/skysp5.stream/playlist.m3u8
+#EXTINF:-1,Sky sport F1
+http://37.59.16.4:1935/global/skyspf1.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport News
+http://37.59.16.4:1935/global/skyspnews.stream/playlist.m3u8
 #EXTINF:-1,Sport TV 1
 rtmp://93.174.93.50:443/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
 #EXTINF:-1,SPORT-TV1 HD
