@@ -227,22 +227,10 @@ http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/playlist.m
 http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/playlist.m3u8
 #EXTINF:-1,Dubai Sport 4
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/chunklist.m3u8
-#EXTINF:-1,Dubai
-http://50.7.69.138:1935/live-edge1/6rx92.stream/chunklist.m3u8
-#EXTINF:-1,Dubai One
-http://50.7.69.138:1935/live-edge1/6rx56.stream/chunklist.m3u8
-#EXTINF:-1,Sama Dubai
-http://50.7.69.138:1935/live-edge1/6rx91.stream/chunklist.m3u8
 #EXTINF:-1,Dream 1
 rtmp://37.59.17.92:1935/live?idu=bilo16_20405070/dream_1
 #EXTINF:-1,Dream 2
 rtmp://37.59.17.92:1935/live?idu=bilo16_20405070/dream_2
-#EXTINF:-1,FOX ARABIC
-http://50.7.69.138:1935/live-edge1/6rx227.stream/chunklist.m3u8
-#EXTINF:-1,FOX MOVIES ARABIC
-http://50.7.69.138:1935/live-edge1/6rx147.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
-http://212.179.77.42/live/livestream3/chunklist_w530716746.m3u8
 #EXTINF:-1,[COLOR yellow]Fatafet[/COLOR]
 http://8.21.48.26:7777/Fatafeat/Fatafeat_Low.m3u8
 #EXTINF:-1,[COLOR yellow]Mehwar Tv[/COLOR]
@@ -251,30 +239,18 @@ rtmpt://livestreaming4.onlinehorizons.net:80/MehwarTV playpath=livestream swfUrl
 rtmp://livestreaming4.onlinehorizons.net/MehwarTV2 playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/index2.html
 #EXTINF:-1,[COLOR yellow]Mehwar Drama[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/MehwarTVDrama playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/indexD.html
-#EXTINF:-1,MELODY
-http://50.7.69.138:1935/live-edge1/6rx129.stream/chunklist.m3u8
-#EXTINF:-1,MOGA COMEDY
-http://50.7.69.138:1935/live-edge1/6rx54.stream/chunklist.m3u8
-#EXTINF:-1,MBC Misr 1
-http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel01/events/_definst_/live/stream1Num82171.ts
-#EXTINF:-1,MBC Misr 2
-http://mbc-live.hds.adaptive.level3.net/hls-live/streams/mbc-channel02/events/_definst_/live/stream1Num82155.ts
-#EXTINF:-1,MBC1
-http://50.7.69.138:1935/live-edge1/6rx53.stream/chunklist.m3u8
+#EXTINF:-1,MBC Masr 1
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,MBC Masr 2
+http://mbc-live.hds.adaptive.level3.net/hls-live/mbc-channel02/_definst_/live/stream1.m3u8
 #EXTINF:-1,MBC2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC3
-http://50.7.69.138:1935/live-edge1/6rx47.stream/chunklist.m3u8
-#EXTINF:-1,mbc_max
-rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
 #EXTINF:-1,MBC_MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,MBC_ACTION
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC_BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:-1,MBC Drama
-http://50.7.69.138:1935/live-edge1/6rx50.stream/playlist.m3u8
 #EXTINF:-1,MTV Lubnan
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_160p
 #EXTINF:-1,Nile Cinema
@@ -291,948 +267,50 @@ rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUr
 rtmp://livestreaming4.onlinehorizons.net/Learning1 playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Learning
 #EXTINF:-1,Nile Life
 rtmp://livestreaming4.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=life
-#EXTINF:-1,ELMOLED
-http://41.231.7.131:3000/bysid/403
-#EXTINF:-1,EL BILAD TV
-http://41.231.7.131:3000/bysid/404
-#EXTINF:-1,SALAM TV
-http://41.231.7.131:3000/bysid/406
-#EXTINF:-1,TALAQIE
-http://41.231.7.131:3000/bysid/407
-#EXTINF:-1,GLADIATOR
-http://41.231.7.131:3000/bysid/408
-#EXTINF:-1,SHA3BEYAT
-http://41.231.7.131:3000/bysid/409
-#EXTINF:-1,SENSE TV HD
-http://41.231.7.131:3000/bysid/410
-#EXTINF:-1,TOBACTS TV
-http://41.231.7.131:3000/bysid/412
-#EXTINF:-1,BEIRUT CINEMA
-http://41.231.7.131:3000/bysid/413
-#EXTINF:-1,AL BAIT BAITAK CINEMA
-http://41.231.7.131:3000/bysid/416
-#EXTINF:-1,MESat
-http://41.231.7.131:3000/bysid/418
-#EXTINF:-1,L INDEX
-http://41.231.7.131:3000/bysid/419
-#EXTINF:-1,MODY KIDS
-http://41.231.7.131:3000/bysid/421
-#EXTINF:-1,Al Waad Channel
-http://41.231.7.131:3000/bysid/422
-#EXTINF:-1,EL ADJWAA
-http://41.231.7.131:3000/bysid/430
-#EXTINF:-1,EDUC 1
-http://41.231.7.131:3001/bysid/101
-#EXTINF:-1,Azaal TV
-http://41.231.7.131:3001/bysid/102
-#EXTINF:-1,I Film Arabic
-http://41.231.7.131:3001/bysid/105
-#EXTINF:-1,I Film English
-http://41.231.7.131:3001/bysid/106
-#EXTINF:-1,UNIV 1
-http://41.231.7.131:3001/bysid/107
-#EXTINF:-1,Sehaty
-http://41.231.7.131:3001/bysid/111
-#EXTINF:-1,Beladi
-http://41.231.7.131:3001/bysid/112
-#EXTINF:-1,Test
-http://41.231.7.131:3001/bysid/125
-#EXTINF:-1,Test
-http://41.231.7.131:3001/bysid/126
-#EXTINF:-1,CNN
-http://41.231.7.131:3002/bysid/2002
-#EXTINF:-1,France 24 Eng
-http://41.231.7.131:3002/bysid/2003
-#EXTINF:-1,France 24
-http://41.231.7.131:3003/bysid/3206
-#EXTINF:-1,Sky News Arabia
-http://41.231.7.131:3002/bysid/2005
-#EXTINF:-1,Sky News Arabia HD
-http://41.231.7.131:3002/bysid/2015
-#EXTINF:-1,BBC Arabic
-http://41.231.7.131:3003/bysid/3203
-#EXTINF:-1,Spare 2006
-http://41.231.7.131:3002/bysid/2006
-#EXTINF:-1,Spare 2007
-http://41.231.7.131:3002/bysid/2007
-#EXTINF:-1,Spare 2008
-http://41.231.7.131:3002/bysid/2008
-#EXTINF:-1,Spare 2013
-http://41.231.7.131:3002/bysid/2013
-#EXTINF:-1,Al Ghad Al Arabi HD
-http://41.231.7.131:3002/bysid/2009
-#EXTINF:-1,CITY 7 TV
-http://41.231.7.131:3002/bysid/2010
-#EXTINF:-1,Sharjah Sport
-http://41.231.7.131:3002/bysid/2012
-#EXTINF:-1,ALhayat
-http://41.231.7.131:3003/bysid/3204
-#EXTINF:-1,Al-Nadi
-http://41.231.7.131:3003/bysid/3205
-#EXTINF:-1,ALSahraa
-http://41.231.7.131:3003/bysid/3214
-#EXTINF:-1,LuaLua TV
-http://41.231.7.132:3000/bysid/6001
-#EXTINF:-1,AL ARABY SD
-http://41.231.7.132:3000/bysid/6002
-#EXTINF:-1,Logos TV
-http://41.231.7.132:3000/bysid/6003
-#EXTINF:-1,Salah ELdin
-http://41.231.7.132:3000/bysid/6004
-#EXTINF:-1,Mekameleen
-http://41.231.7.132:3000/bysid/6005
-#EXTINF:-1,Al Karma TV-ME
-http://41.231.7.132:3000/bysid/6006
-#EXTINF:-1,FMI
-http://41.231.7.132:3000/bysid/6007
-#EXTINF:-1,AL ARABY HD
-http://41.231.7.132:3000/bysid/6008
-#EXTINF:-1,Med Music
-http://41.231.7.132:3000/bysid/6009
-#EXTINF:-1,The Way TV
-http://41.231.7.132:3000/bysid/6011
-#EXTINF:-1,Test DiTVe 1
-http://41.231.7.132:3000/bysid/6012
-#EXTINF:-1,STERK TV
-http://41.231.7.132:3000/bysid/6016
-#EXTINF:-1,Darbaka Cinema
-http://41.231.7.132:3000/bysid/6018
-#EXTINF:-1,FADAK TV
-http://41.231.7.132:3000/bysid/6019
-#EXTINF:-1,Test DiTVe 2
-http://41.231.7.132:3000/bysid/6020
-#EXTINF:-1,Sajayaa
-http://41.231.7.132:3000/bysid/6024
-#EXTINF:-1,AlkadhmyTV
-http://41.231.7.132:3000/bysid/6027
-#EXTINF:-1,Jnc news
-http://41.231.7.132:3000/bysid/6028
-#EXTINF:-1,almasalah
-http://41.231.7.132:3000/bysid/6029
-#EXTINF:-1,VERTEX 1
-http://41.231.7.132:3000/bysid/6033
-#EXTINF:-1,VERTEX 2
-http://41.231.7.132:3000/bysid/6034
-#EXTINF:-1,DUBAI TV HD
-http://41.231.7.132:3001/bysid/6401
-#EXTINF:-1,Al-Nahar Al Youm
-http://41.231.7.132:3001/bysid/6402
-#EXTINF:-1,Al-Nahar +2
-http://41.231.7.132:3001/bysid/6403
-#EXTINF:-1,Al Kahera Wal Nas +2
-http://41.231.7.132:3001/bysid/6405
-#EXTINF:-1,Sada ElBalad Drama
-http://41.231.7.132:3001/bysid/6410
-#EXTINF:-1,5 STARS
-http://41.231.7.132:3001/bysid/6411
-#EXTINF:-1,AL NADA TV
-http://41.231.7.132:3001/bysid/6413
-#EXTINF:-1,TEN
-http://41.231.7.132:3001/bysid/6414
-#EXTINF:-1,Jeem SD
-http://41.231.7.132:3002/bysid/6201
-#EXTINF:-1,Baraem
-http://41.231.7.132:3002/bysid/6202
-#EXTINF:-1,Jeem HD
-http://41.231.7.132:3002/bysid/6204
-#EXTINF:-1,AL JAZEERA
-http://41.231.7.132:3002/bysid/6206
-#EXTINF:-1,AALI TV
-http://41.231.7.132:3002/bysid/6209
-#EXTINF:-1,Dubai Racing1 HD
-http://41.231.7.132:3002/bysid/6210
-#EXTINF:-1,AL Hadath
-http://41.231.7.132:3003/bysid/3001
-#EXTINF:-1,Afak
-http://41.231.7.132:3003/bysid/3003
-#EXTINF:-1,Amhara TV
-http://41.231.7.132:3003/bysid/3005
-#EXTINF:-1,Panorama Drama
-http://41.231.7.132:3003/bysid/3008
-#EXTINF:-1,SCOPE Tv
-http://41.231.7.132:3003/bysid/3009
-#EXTINF:-1,Al Ahly TV
-http://41.231.7.132:3003/bysid/3011
-#EXTINF:-1,Panorama Drama 2
-http://41.231.7.132:3003/bysid/3012
-#EXTINF:-1,Al Ahd
-http://41.231.7.132:3003/bysid/3014
-#EXTINF:-1,Zagros
-http://41.231.7.133:3000/bysid/3605
-#EXTINF:-1,Al Adwaa
-http://41.231.7.133:3000/bysid/3607
-#EXTINF:-1,AL-Amaken
-http://41.231.7.133:3000/bysid/3609
-#EXTINF:-1,Feed
-http://41.231.7.133:3000/bysid/3611
-#EXTINF:-1,Massaya
-http://41.231.7.133:3000/bysid/3613
-#EXTINF:-1,JSC Mubasher
-http://41.231.7.133:3000/bysid/3616
-#EXTINF:-1,Al-BABELYA
-http://41.231.7.133:3001/bysid/3501
-#EXTINF:-1,Al Naeem TV
-http://41.231.7.133:3001/bysid/3502
-#EXTINF:-1,Jordan Sport
-http://41.231.7.133:3001/bysid/3503
-#EXTINF:-1,ROYAL EDHAK
-http://41.231.7.133:3001/bysid/3504
-#EXTINF:-1,Mystro TV
-http://41.231.7.133:3001/bysid/3505
-#EXTINF:-1,ROYAL ALBADAWYAH
-http://41.231.7.133:3001/bysid/3506
-#EXTINF:-1,Aghanina
-http://41.231.7.133:3001/bysid/3507
-#EXTINF:-1,Alitejah TV
-http://41.231.7.133:3001/bysid/3509
-#EXTINF:-1,TV TAMAZIGHT
-http://41.231.7.133:3001/bysid/3510
-#EXTINF:-1,ROYAL SECRETS
-http://41.231.7.133:3001/bysid/3511
-#EXTINF:-1,Kanal 4
-http://41.231.7.133:3001/bysid/3512
-#EXTINF:-1,ALjanoubia
-http://41.231.7.133:3001/bysid/3513
-#EXTINF:-1,a konoz altb tv
-http://41.231.7.133:3001/bysid/3517
-#EXTINF:-1,AL Dawaeia
-http://41.231.7.133:3001/bysid/3519
-#EXTINF:-1,Sama Alkhaleej
-http://41.231.7.133:3001/bysid/3521
-#EXTINF:-1,HAWAA AL Dawaeia
-http://41.231.7.133:3001/bysid/3522
-#EXTINF:-1,Abencena
-http://41.231.7.133:3001/bysid/3523
-#EXTINF:-1,MCC
-http://41.231.7.133:3001/bysid/3524
-#EXTINF:-1,ALTaif TV
-http://41.231.7.133:3001/bysid/3525
-#EXTINF:-1,Aljazeera HD
-http://41.231.7.133:3002/bysid/4301
-#EXTINF:-1,LTC
-http://41.231.7.133:3002/bysid/4304
-#EXTINF:-1,Panorama Film
-http://41.231.7.133:3002/bysid/4305
-#EXTINF:-1,Faraeen
-http://41.231.7.133:3002/bysid/4307
-#EXTINF:-1,Al Gamaiya
-http://41.231.7.133:3002/bysid/4308
-#EXTINF:-1,ES TV
-http://41.231.7.133:3002/bysid/4309
-#EXTINF:-1,Al Falastiniah
-http://41.231.7.133:3002/bysid/4310
-#EXTINF:-1,Shabab TV
-http://41.231.7.133:3002/bysid/4312
-#EXTINF:-1,Althanya
-http://41.231.7.133:3003/bysid/5101
-#EXTINF:-1,CHECK-INN TV
-http://41.231.7.133:3003/bysid/5102
-#EXTINF:-1,CBC +2
-http://41.231.7.133:3003/bysid/5104
-#EXTINF:-1,Al-Nahar
-http://41.231.7.133:3003/bysid/5105
-#EXTINF:-1,Al-Nahar Drama
-http://41.231.7.133:3003/bysid/5106
-#EXTINF:-1,CBC Drama
-http://41.231.7.133:3003/bysid/5107
-#EXTINF:-1,CBC
-http://41.231.7.133:3003/bysid/5108
-#EXTINF:-1,CBC eXtra
-http://41.231.7.133:3003/bysid/5109
-#EXTINF:-1,CBC Sofra
-http://41.231.7.133:3003/bysid/5110
-#EXTINF:-1,CBC two
-http://41.231.7.133:3003/bysid/5111
-#EXTINF:-1,ALhayah ALaan
-http://41.231.7.133:3003/bysid/5112
-#EXTINF:-1,ASIA TV
-http://41.231.7.134:3000/bysid/8003
-#EXTINF:-1,TIME FILM
-http://41.231.7.134:3000/bysid/8004
-#EXTINF:-1,ALMADEEH
-http://41.231.7.134:3000/bysid/8005
-#EXTINF:-1,AL HIWAR
-http://41.231.7.134:3000/bysid/8007
-#EXTINF:-1,TOP MOVIES
-http://41.231.7.134:3000/bysid/8008
-#EXTINF:-1,NART
-http://41.231.7.134:3000/bysid/8009
-#EXTINF:-1,ZWEINA BALADNA
-http://41.231.7.134:3000/bysid/8010
-#EXTINF:-1,AL HAQEQA AL DAWLIAH
-http://41.231.7.134:3000/bysid/8011
-#EXTINF:-1,AL ZINTAN TV
-http://41.231.7.134:3000/bysid/8013
-#EXTINF:-1,PELISTANK
-http://41.231.7.134:3000/bysid/8014
-#EXTINF:-1,TIME TAXI
-http://41.231.7.134:3000/bysid/8015
-#EXTINF:-1,MORE FUN
-http://41.231.7.134:3000/bysid/8016
-#EXTINF:-1,NOUR TV
-http://41.231.7.134:3000/bysid/8018
-#EXTINF:-1,ALL TV
-http://41.231.7.134:3000/bysid/8020
-#EXTINF:-1,AMOZHGARY
-http://41.231.7.134:3000/bysid/8021
-#EXTINF:-1,AL JAZEERA
-http://41.231.7.134:3001/bysid/217
-#EXTINF:-1,AL ITTIHAD
-http://41.231.7.134:3001/bysid/1807
-#EXTINF:-1,AL-MUSTAKILA
-http://41.231.7.134:3001/bysid/2033
-#EXTINF:-1,Sama TV
-http://41.231.7.134:3001/bysid/2039
-#EXTINF:-1,PROMED
-http://41.231.7.134:3001/bysid/2040
-#EXTINF:-1,NOUR EL SHAM
-http://41.231.7.134:3001/bysid/2043
-#EXTINF:-1,AL FAYHAA
-http://41.231.7.134:3001/bysid/2044
-#EXTINF:-1,TRT ARABIA
-http://41.231.7.134:3001/bysid/2047
-#EXTINF:-1,EL WATAN DZ
-http://41.231.7.134:3001/bysid/2050
-#EXTINF:-1,SYRIAN DRAMA
-http://41.231.7.134:3001/bysid/2055
-#EXTINF:-1,AL LUBNANIA
-http://41.231.7.134:3001/bysid/2060
-#EXTINF:-1,TAWAZON
-http://41.231.7.134:3001/bysid/2082
-#EXTINF:-1,AQSA TV
-http://41.231.7.134:3001/bysid/3050
-#EXTINF:-1,ENGINES
-http://41.231.7.134:3002/bysid/5300
-#EXTINF:-1,Watan Alkaramah TV
-http://41.231.7.134:3002/bysid/5310
-#EXTINF:-1,CCTV
-http://41.231.7.134:3002/bysid/5320
-#EXTINF:-1,Al-Ebaa  TV
-http://41.231.7.134:3002/bysid/5330
-#EXTINF:-1,AL MAOED
-http://41.231.7.134:3002/bysid/5340
-#EXTINF:-1,Al-Aqila TV
-http://41.231.7.134:3002/bysid/5450
-#EXTINF:-1,Hala TV
-http://41.231.7.134:3002/bysid/5590
-#EXTINF:-1,Kirkuk TV
-http://41.231.7.134:3002/bysid/5620
-#EXTINF:-1,AHALNA TV
-http://41.231.7.134:3002/bysid/5650
-#EXTINF:-1,Maraya TV
-http://41.231.7.134:3002/bysid/5680
-#EXTINF:-1,Gulfsat Promo
-http://41.231.7.134:3002/bysid/8010
-#EXTINF:-1,KARBALA TV
-http://41.231.7.134:3003/bysid/202
-#EXTINF:-1,EL-SHASHA CINEMA
-http://41.231.7.134:3003/bysid/203
-#EXTINF:-1,MARJAEYAT-2
-http://41.231.7.134:3003/bysid/204
-#EXTINF:-1,7BESHA
-http://41.231.7.134:3003/bysid/205
-#EXTINF:-1,CIMA ALI BABA
-http://41.231.7.134:3003/bysid/206
-#EXTINF:-1,ALSULTAN
-http://41.231.7.134:3003/bysid/209
-#EXTINF:-1,JOSAT
-http://41.231.7.134:3003/bysid/210
-#EXTINF:-1,DARBAKA AFLAM
-http://41.231.7.134:3003/bysid/211
-#EXTINF:-1,AFRAH TV
-http://41.231.7.134:3003/bysid/212
-#EXTINF:-1,KOKKY TV
-http://41.231.7.134:3003/bysid/214
-#EXTINF:-1,MAZAJ
-http://41.231.7.134:3003/bysid/215
-#EXTINF:-1,BBN TV
-http://41.231.7.134:3003/bysid/216
-#EXTINF:-1,ORIENT
-http://41.231.7.134:3003/bysid/217
-#EXTINF:-1,TOKTOK CIMA
-http://41.231.7.134:3003/bysid/218
-#EXTINF:-1,AL-ARRAB
-http://41.231.7.134:3003/bysid/219
-#EXTINF:-1,LCD HADOTA
-http://41.231.7.134:3003/bysid/220
-#EXTINF:-1,DZAIR P PHARMA
-http://41.231.7.134:3003/bysid/221
-#EXTINF:-1,BOLIKA TV
-http://41.231.7.134:3003/bysid/222
-#EXTINF:-1,ALSIRAT
-http://41.231.7.134:3003/bysid/223
-#EXTINF:-1,AM
-http://41.231.7.134:3003/bysid/224
-#EXTINF:-1,TIGRAI  TV
-http://41.231.7.137:3000/bysid/4810
-#EXTINF:-1,Bzaf Life
-http://41.231.7.137:3000/bysid/4880
-#EXTINF:-1,BZAF TV
-http://41.231.7.137:3000/bysid/4890
-#EXTINF:-1,Al Ahvaz TV
-http://41.231.7.137:3000/bysid/4920
-#EXTINF:-1,Hogar News
-http://41.231.7.137:3000/bysid/4930
-#EXTINF:-1,AmeerAlshefaa
-http://41.231.7.137:3000/bysid/4960
-#EXTINF:-1,Al Arrab
-http://41.231.7.137:3000/bysid/4970
-#EXTINF:-1,Albaraka
-http://41.231.7.137:3000/bysid/4990
-#EXTINF:-1,Al-Shahed TV
-http://41.231.7.137:3000/bysid/5020
-#EXTINF:-1,Al-Anwar 2
-http://41.231.7.137:3000/bysid/5060
-#EXTINF:-1,Al-Afasy
-http://41.231.7.137:3000/bysid/5070
-#EXTINF:-1,Alhujjah TV
-http://41.231.7.137:3000/bysid/6009
-#EXTINF:-1,Al-Awhad TV
-http://41.231.7.137:3000/bysid/6450
-#EXTINF:-1,Velayat TV
-http://41.231.7.137:3000/bysid/8040
-#EXTINF:-1,Tanasoh TV
-http://41.231.7.137:3000/bysid/8060
-#EXTINF:-1,Alwatan Almsria
-http://41.231.7.137:3001/bysid/7460
-#EXTINF:-1,Cairo Mosalsalat
-http://41.231.7.137:3001/bysid/7470
-#EXTINF:-1,Cairo Aflam
-http://41.231.7.137:3001/bysid/7480
-#EXTINF:-1,Cairo Comedy
-http://41.231.7.137:3001/bysid/7490
-#EXTINF:-1,Masreya TV
-http://41.231.7.137:3001/bysid/7510
-#EXTINF:-1,Hollywood Zaman
-http://41.231.7.137:3001/bysid/7530
-#EXTINF:-1,Hollywood Hindi
-http://41.231.7.137:3001/bysid/7540
-#EXTINF:-1,SHANABO ZAMAN
-http://41.231.7.137:3001/bysid/7550
-#EXTINF:-1,Oscar Hendi
-http://41.231.7.137:3001/bysid/7580
-#EXTINF:-1,Oscar Sport
-http://41.231.7.137:3001/bysid/7590
-#EXTINF:-1,Oscar Drama
-http://41.231.7.137:3001/bysid/7610
-#EXTINF:-1,Al-Asayel TV
-http://41.231.7.137:3001/bysid/7670
-#EXTINF:-1,Art Aflam
-http://41.231.7.137:3001/bysid/7750
-#EXTINF:-1,Cyrenaica
-http://41.231.7.137:3001/bysid/7810
-#EXTINF:-1,Galaxy Cinema
-http://41.231.7.137:3001/bysid/7850
-#EXTINF:-1,SHNPOO AFLAM
-http://41.231.7.137:3001/bysid/7880
-#EXTINF:-1,Layaly Cinema
-http://41.231.7.137:3001/bysid/7890
-#EXTINF:-1,Oscar Cinema
-http://41.231.7.137:3001/bysid/7900
-#EXTINF:-1,Set El Beit
-http://41.231.7.137:3001/bysid/7920
-#EXTINF:-1,Cairo Zaman
-http://41.231.7.137:3001/bysid/7950
-#EXTINF:-1,3afrotoo
-http://41.231.7.137:3001/bysid/7970
-#EXTINF:-1,Hareem Elsultan
-http://41.231.7.137:3001/bysid/7980
-#EXTINF:-1,Badinan TV
-http://41.231.7.137:3001/bysid/7990
-#EXTINF:-1,LOLAA
-http://41.231.7.137:3002/bysid/1
-#EXTINF:-1,CAIRO ONE TV
-http://41.231.7.137:3002/bysid/2
-#EXTINF:-1,SAMARRAA TV
-http://41.231.7.137:3002/bysid/3
-#EXTINF:-1,ATATA
-http://41.231.7.137:3002/bysid/4
-#EXTINF:-1,EL SHARQ
-http://41.231.7.137:3002/bysid/5
-#EXTINF:-1,TIME ACTION
-http://41.231.7.137:3002/bysid/7
-#EXTINF:-1,TIME EKTRNA-LAK
-http://41.231.7.137:3002/bysid/8
-#EXTINF:-1,MTI SPORTS
-http://41.231.7.137:3002/bysid/9
-#EXTINF:-1,MTI TV
-http://41.231.7.137:3002/bysid/10
-#EXTINF:-1,MTI NEWS
-http://41.231.7.137:3002/bysid/11
-#EXTINF:-1,QALP EL ASAD
-http://41.231.7.137:3002/bysid/16
-#EXTINF:-1,ABC CINEMA
-http://41.231.7.137:3002/bysid/17
-#EXTINF:-1,NILE RIVER
-http://41.231.7.137:3002/bysid/18
-#EXTINF:-1,FELOUL
-http://41.231.7.137:3002/bysid/19
-#EXTINF:-1,ABLA FAHEETA
-http://41.231.7.137:3002/bysid/20
-#EXTINF:-1,BELODY AFLAM
-http://41.231.7.137:3002/bysid/21
-#EXTINF:-1,CINEMA 2
-http://41.231.7.137:3002/bysid/22
-#EXTINF:-1,WWE
-http://41.231.7.137:3002/bysid/23
-#EXTINF:-1,CINEMA 1
-http://41.231.7.137:3002/bysid/24
-#EXTINF:-1,SOUT MASR
-http://41.231.7.137:3002/bysid/25
-#EXTINF:-1,7ALAWET RO7
-http://41.231.7.137:3002/bysid/26
-#EXTINF:-1,TATT7 TV
-http://41.231.7.137:3002/bysid/27
-#EXTINF:-1,ALKOFIYA
-http://41.231.7.137:3002/bysid/28
-#EXTINF:-1,LAYALI ONS
-http://41.231.7.137:3002/bysid/29
-#EXTINF:-1,CINEMA 1
-http://41.231.7.137:3002/bysid/30
-#EXTINF:-1,Rotana
-http://41.231.7.137:3003/bysid/5601
-#EXTINF:-1,Rotana Clip
-http://41.231.7.137:3003/bysid/5602
-#EXTINF:-1,FOX
-http://41.231.7.137:3003/bysid/5603
-#EXTINF:-1,Rotana Khalijiah
-http://41.231.7.137:3003/bysid/5604
-#EXTINF:-1,Rotana Classic
-http://41.231.7.137:3003/bysid/5605
-#EXTINF:-1,Rotana Masriya
-http://41.231.7.137:3003/bysid/5606
-#EXTINF:-1,Rotana Cinema EGY
-http://41.231.7.137:3003/bysid/5607
-#EXTINF:-1,Fox Movies
-http://41.231.7.137:3003/bysid/5608
-#EXTINF:-1,Rotana Cinema KSA
-http://41.231.7.137:3003/bysid/5609
-#EXTINF:-1,AL Resala
-http://41.231.7.137:3003/bysid/5611
-#EXTINF:-1,AL-Adalah
-http://41.231.7.137:3003/bysid/5613
-#EXTINF:-1,Ta3arof TV
-http://41.231.7.139:3000/bysid/1002
-#EXTINF:-1,MTA 3 Al Arabiyah
-http://41.231.7.139:3000/bysid/1003
-#EXTINF:-1,Sout Aljnoub
-http://41.231.7.139:3000/bysid/1004
-#EXTINF:-1,Cima Shobra Palace
-http://41.231.7.139:3000/bysid/1006
-#EXTINF:-1,Kalam TV
-http://41.231.7.139:3000/bysid/1007
-#EXTINF:-1,Al Malakoot
-http://41.231.7.139:3000/bysid/1008
-#EXTINF:-1,Al Hayat TV
-http://41.231.7.139:3000/bysid/1010
-#EXTINF:-1,Ronahi TV
-http://41.231.7.139:3000/bysid/1011
-#EXTINF:-1,AM
-http://41.231.7.139:3000/bysid/1012
-#EXTINF:-1,Elhiwar Ettounsi TV
-http://41.231.7.139:3000/bysid/1013
-#EXTINF:-1,Aden Live
-http://41.231.7.139:3000/bysid/1014
-#EXTINF:-1,SAT-7 KIDS
-http://41.231.7.139:3000/bysid/1015
-#EXTINF:-1,SAT-7 ARABIC
-http://41.231.7.139:3000/bysid/1016
-#EXTINF:-1,Noursat
-http://41.231.7.139:3000/bysid/1017
-#EXTINF:-1,Atfal & mawaheb
-http://41.231.7.139:3000/bysid/1018
-#EXTINF:-1,HodHod Arabic TV
-http://41.231.7.139:3000/bysid/1019
-#EXTINF:-1,Al Masirah TV
-http://41.231.7.139:3000/bysid/1020
-#EXTINF:-1,Newroz TV
-http://41.231.7.139:3000/bysid/1021
-#EXTINF:-1,inta omri tv
-http://41.231.7.139:3000/bysid/1022
-#EXTINF:-1,Alruqia TV
-http://41.231.7.139:3000/bysid/1023
-#EXTINF:-1,DZAIR16
-http://41.231.7.139:3000/bysid/1024
-
-#EXTINF:-1,!Ana Bintizarek
-
-http://41.231.7.139:3000/bysid/1025
-
-#EXTINF:-1,Anta Oana
-
-http://41.231.7.139:3000/bysid/1026
-
-#EXTINF:-1,Asdaf channel
-
-http://41.231.7.139:3000/bysid/1028
-
-#EXTINF:-1,Jannah
-
-http://41.231.7.139:3000/bysid/1034
-
-#EXTINF:-1,Al Horreya TV
-
-http://41.231.7.139:3000/bysid/1035
-
-#EXTINF:-1,!Layalina
-
-http://41.231.7.139:3000/bysid/1036
-
-#EXTINF:-1,!Alashk Wlhawa
-
-http://41.231.7.139:3000/bysid/1037
-
-#EXTINF:-1,!Alhob Kulo
-
-http://41.231.7.139:3000/bysid/1038
-
-#EXTINF:-1,Kunuz alhaiat
-
-http://41.231.7.139:3000/bysid/1039
-
-#EXTINF:-1,Atb Alarabi
-
-http://41.231.7.139:3000/bysid/1040
-
-#EXTINF:-1,LIBYA ALRASMEYA CHANNEL
-
-http://41.231.7.139:3000/bysid/1041
-
-#EXTINF:-1,REHAB FM
-
-http://41.231.7.139:3001/bysid/6001
-
-#EXTINF:-1,SAMA CINEMA
-
-http://41.231.7.139:3001/bysid/6002
-
-#EXTINF:-1,KTO
-
-http://41.231.7.139:3001/bysid/6005
-
-#EXTINF:-1,ALMASRAWIA AFLAM
-
-http://41.231.7.139:3001/bysid/6006
-
-#EXTINF:-1,BELQEES
-
-http://41.231.7.139:3001/bysid/6007
-
-#EXTINF:-1,AL ALAM
-
-http://41.231.7.139:3001/bysid/6008
-
-#EXTINF:-1,24 SA
-
-http://41.231.7.139:3001/bysid/6009
-
-#EXTINF:-1,Al Jazeera Mubasher
-
-http://41.231.7.139:3001/bysid/6010
-
-#EXTINF:-1,GHENWATY
-
-http://41.231.7.139:3001/bysid/6011
-
-#EXTINF:-1,MELODY TV
-
-http://41.231.7.139:3001/bysid/6012
-
-#EXTINF:-1,STAR CINEMA 1
-
-http://41.231.7.139:3001/bysid/6013
-
-#EXTINF:-1,STAR CINEMA 2
-
-http://41.231.7.139:3001/bysid/6016
-
-#EXTINF:-1,FASHION & BEAUTY
-
-http://41.231.7.139:3001/bysid/6018
-
-#EXTINF:-1,TIME COMEDY
-
-http://41.231.7.139:3001/bysid/6020
-
-#EXTINF:-1,Altaghier
-
-http://41.231.7.139:3002/bysid/4101
-#EXTINF:-1,Aletejah english
-
-http://41.231.7.139:3002/bysid/4107
-
-#EXTINF:-1,Mystro TV
-
-http://41.231.7.139:3002/bysid/4110
-
-#EXTINF:-1,Al-Alamiya
-
-http://41.231.7.139:3002/bysid/4112
-
-#EXTINF:-1,1st Forex TV
-
-http://41.231.7.139:3002/bysid/4113
-
-#EXTINF:-1,joory media
-
-http://41.231.7.139:3002/bysid/4115
-
-#EXTINF:-1,Zliten FM
-
-http://41.231.7.139:3002/bysid/4116
-
-#EXTINF:-1,Ma3akom
-
-http://41.231.7.139:3002/bysid/4117
-
-#EXTINF:-1,4Youth
-
-http://41.231.7.139:3002/bysid/4121
-
-#EXTINF:-1,Alsultan
-
-http://41.231.7.139:3002/bysid/4123
-
-#EXTINF:-1,Kunuz Al-Jannah
-
-http://41.231.7.139:3002/bysid/4124
-
-#EXTINF:-1,Karawan al-aqariya
-
-http://41.231.7.139:3002/bysid/4125
-
-#EXTINF:-1,ALMADA TV
-
-http://41.231.7.139:3002/bysid/4128
-
-#EXTINF:-1,Korek TV
-
-http://41.231.7.139:3002/bysid/4130
-
-#EXTINF:-1,VOA 24
-
-http://41.231.7.139:3002/bysid/4132
-
-#EXTINF:-1,AD UAE
-
-http://41.231.7.139:3002/bysid/4133
-
-#EXTINF:-1,Jannah
-
-http://41.231.7.139:3002/bysid/4134
-
-#EXTINF:-1,test
-
-http://41.231.7.139:3002/bysid/4135
-
-#EXTINF:-1,AMANA
-
-http://41.231.7.139:3002/bysid/4165
-
-#EXTINF:-1,Vertex-1
-
-http://41.231.7.139:3002/bysid/4166
-
-#EXTINF:-1,Vertex-2
-
-http://41.231.7.139:3002/bysid/4167
-
-#EXTINF:-1,Vertex-3
-
-http://41.231.7.139:3002/bysid/4169
-
-#EXTINF:-1,Alhurra
-
-http://41.231.7.140:3000/bysid/1102
-
-#EXTINF:-1,MBC Masr 2
-
-http://41.231.7.140:3000/bysid/1106
-
-#EXTINF:-1,Press TV
-
-http://41.231.7.140:3000/bysid/1107
-
-#EXTINF:-1,Mehwer
-
-http://41.231.7.140:3000/bysid/1111
-
-#EXTINF:-1,AlThuraya
-
-http://41.231.7.140:3000/bysid/1112
-
-#EXTINF:-1,Kuwait Sport & +
-
-http://41.231.7.140:3000/bysid/1113
-
-#EXTINF:-1,Sada El Balad
-
-http://41.231.7.140:3000/bysid/1114
-
-#EXTINF:-1,Medi1 TV
-
-http://41.231.7.140:3001/bysid/1301
-
-#EXTINF:-1,CCTV9
-
-http://41.231.7.140:3001/bysid/1302
-
-#EXTINF:-1,NHK World
-
-http://41.231.7.140:3001/bysid/1303
-
-#EXTINF:-1,Al ARAB NEWS
-
-http://41.231.7.140:3001/bysid/1304
-
-#EXTINF:-1,MBC MASR
-
-http://41.231.7.140:3001/bysid/1306
-
-#EXTINF:-1,A1 Shop
-
-http://41.231.7.140:3001/bysid/1307
-
-#EXTINF:-1,CCTV-A
-
-http://41.231.7.140:3001/bysid/1310
-
-#EXTINF:-1,Alhayat 2
-
-http://41.231.7.140:3001/bysid/1311
-
-#EXTINF:-1,Al Mergab
-
-http://41.231.7.140:3001/bysid/1312
-
-#EXTINF:-1,Al Jazeera International
-
-http://41.231.7.140:3001/bysid/1314
-
-#EXTINF:-1,EuroNews
-
-http://41.231.7.140:3001/bysid/1315
-
-#EXTINF:-1,Cima
-
-http://41.231.7.140:3002/bysid/701
-
-#EXTINF:-1,Hekayat
-
-http://41.231.7.140:3002/bysid/703
-
-#EXTINF:-1,Hekayat 2
-
-http://41.231.7.140:3002/bysid/705
-
-#EXTINF:-1,Aflam 1
-
-http://41.231.7.140:3002/bysid/706
-
-#EXTINF:-1,Aflam 2
-
-http://41.231.7.140:3002/bysid/708
-
-#EXTINF:-1,Cinema
-
-http://41.231.7.140:3002/bysid/709
-
-#EXTINF:-1,Dzair 21
-
-http://41.231.7.140:3002/bysid/712
-
-#EXTINF:-1,BNTV
-
-http://41.231.7.140:3002/bysid/715
-
-#EXTINF:-1,Toyor Aliraq
-
-http://41.231.7.140:3002/bysid/724
-
-#EXTINF:-1,Mozaik tv
-
-http://41.231.7.140:3002/bysid/725
-
-#EXTINF:-1,DabangaSudan
-
-http://41.231.7.140:3002/bysid/726
-
-#EXTINF:-1,Top News TV
-
-http://41.231.7.140:3002/bysid/727
-
-#EXTINF:-1,DZAIR PUB
-
-http://41.231.7.140:3002/bysid/728
-
-#EXTINF:-1,Al-Khabar TV
-
-http://41.231.7.140:3002/bysid/730
-
-#EXTINF:-1,ilshaed Classic
-
-http://41.231.7.140:3002/bysid/731
-#EXTINF:-1,IBN TV
-
-http://41.231.7.140:3002/bysid/741
-
-#EXTINF:-1,Dzair 24
-
-http://41.231.7.140:3002/bysid/742
-
-#EXTINF:-1,Dijlah TV
-
-http://41.231.7.140:3002/bysid/766
-
-#EXTINF:-1,Arabica TV
-
-http://41.231.7.140:3003/bysid/1201
-
-#EXTINF:-1,NBN
-
-http://41.231.7.140:3003/bysid/1202
-
-#EXTINF:-1,Heya TV
-
-http://41.231.7.140:3003/bysid/1203
-
-#EXTINF:-1,AL JADEED
-
-http://41.231.7.140:3003/bysid/1204
-
-#EXTINF:-1,MANAR
-
-http://41.231.7.140:3003/bysid/1205
-
-#EXTINF:-1,Lebanon TV
-
-http://41.231.7.140:3003/bysid/1206
-
-#EXTINF:-1,Test
-
-http://41.231.7.140:3003/bysid/1207
-
-#EXTINF:-1,Test
-
-http://41.231.7.140:3003/bysid/1209
-
-#EXTINF:-1,Test
-
-http://41.231.7.140:3003/bysid/1210
-
-#EXTINF:-1,Test
-
-http://41.231.7.140:3003/bysid/1211
-
-#EXTINF:-1,MTV Lebanon
-
-http://41.231.7.140:3003/bysid/1213
-
-#EXTINF:-1,Hawacom
-
-http://41.231.7.140:3003/bysid/1216
+#EXTINF:-1,MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:-1,MBC 4
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream?LiveSport.HD/IPTV
+#EXTINF:-1,mbc_max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:-1,Nile Comedy
+rtmp://162.212.176.107:1935/nile_comedy/globaltv-nile_comedy.stream
+#EXTINF:-1,Nile Drama
+rtmp://162.212.176.107:1935/nile_drama/globaltv-nile_drama.stream
+#EXTINF:-1,Nile Cinema
+rtmp://162.212.176.107:1935/nile_cinema/globaltv-nile_cinema.stream
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#EXTINF:-1,Alriadia_sport
+rtmp://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream
+#EXTINF:-1,tunisia_national_1
+rtmp://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream
+#EXTINF:-1,tunisia_national_2
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:-1,nessma
+rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream
+#EXTINF:-1,hanibal
+rtmp://162.212.176.107:1935/hanibal/globaltv-hanibal.stream
+#EXTINF:-1,medi1
+rtmp://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream
+#EXTINF:-1,art _aflam
+rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
+#EXTINF:-1,alhayat 1
+rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#EXTINF:-1,alhayat cinema
+rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream
+#EXTINF:-1,rotana_cinema
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:-1,rotana_clip
+rtmp://162.212.176.107:1935/rotana_clip/globaltv-rotana_clip.stream
+#EXTINF:-1,rotana_music
+rtmp://162.212.176.107:1935/rotana_music/globaltv-rotana_music.stream
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+#EXTINF:-1,Abu Dhabi Sports 3
+http://205.185.216.10/h5f3k7p8/cds/smil:adsportextrahd/gmswf.m3u8
 #EXTINF:-1,Pro Sports 1
 http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
 #EXTINF:-1,Pro Sports 2
@@ -1255,12 +333,6 @@ http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=
 http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 #EXTINF:-1,ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
-#EXTINF:-1,Antena 3 Sports
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,BT SPORT 1
-http://198.27.94.105/hls/bt1.m3u8
-#EXTINF:-1,BT SPORT 2
-http://198.27.94.105/hls/bt2.m3u8
 #EXTINF:-1,ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
 #EXTINF:-1,ESPN2
@@ -1273,18 +345,6 @@ http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?HasBahCa
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?HasBahCa
 #EXTINF:-1,ESPN3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa
-#EXTINF:-1,ESPN HD
-http://live.oneplay.Tv/reproducir/389.m3u8
-#EXTINF:-1,ESPN
-http://live.oneplay.Tv/reproducir/405.m3u8
-#EXTINF:-1,ESPN 2
-http://live.oneplay.tv/reproducir/409.m3u8
-#EXTINF:-1,ESPN 3
-http://live.oneplay.tv/reproducir/393.m3u8
-#EXTINF:-1,Eurosport
-http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
-#EXTINF:-1,Eurosport 2
-http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
 #EXTINF:-1,ESPN 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,ESPN 3 
@@ -1297,20 +357,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,ESPN 2 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,ESPN HD
-http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
-#EXTINF:-1,ESPN
-http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
-#EXTINF:-1,ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
-#EXTINF:-1,ESPN 2 HD
-rtmp://89.248.172.145:1935/edge/_definst_/rgyus7ao2ullmbt
-#EXTINF:-1,ESPN 2
-rtmp://89.248.172.145:1935/edge/_definst_/5hd19kwxef5b59o
-#EXTINF:-1,ESPN HD
-rtmp://89.248.172.145:1935/edge/_definst_/xoaaohmeuajfeyf
-#EXTINF:-1,ESPN
-rtmp://89.248.172.145:1935/edge/_definst_/dp2g1w4ip6v0zoc
 #EXTINF:-1,Eurosport
 http://83.139.104.108/Content/HLS/Live/Channel(Eurosport)/Stream(03)/index.m3u8
 #EXTINF:-1,EUROSPORT 1 ENG
@@ -1333,38 +379,12 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:-1,FOX SPORTS 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8? 
-#EXTINF:-1,fox1 sports usa hd
-http://37.157.246.170:8000/fuckyoubaba1/fox/usa1/index.m3u8
-#EXTINF:-1,fox sport usa 2 hd
-http://37.157.246.170:8000/fuckyoubab1fox/usa2/index.m3u8 
 #EXTINF:-1,[COLOR yellow]ESports 3[/COLOR]
 rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/ playpath=stream_ES3_FLV swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=Esport3
 #EXTINF:-1,[COLOR red]Nile Sport[/COLOR]
 rtmp://livestreaming4.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=sport live=1
-#EXTINF:-1,Nova Sport
-http://74.122.193.208:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/HasBahCa.m3u8
-#EXTINF:-1,Nova Sport
-http://w4.drundoo.com:1935/DrundooDVR/_definst_/smil:74010166-8ebf-4a14-9e8d-7a6e90072611.smil/playlist.m3u8
 #EXTINF:-1,NOVA Sport TV 3
 rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/gen5.php?ch=live5
-#EXTINF:-1,RUS SPORT
-http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1,RUS-NTV + Basketball
-http://193.232.151.135/hls-live/livepkgr/_1012_/1012/1012-70.m3u8
-#EXTINF:-1,RUS-NTV + Sport
-http://193.232.151.135/hls-live/livepkgr/_1025_/1025/1025-70.m3u8
-#EXTINF:-1,RUS-NTV + Sport Plus
-http://193.232.151.135/hls-live/livepkgr/_1009_/1009/1009-70.m3u8
-#EXTINF:-1,RUS-NTV + Tennis
-http://193.232.151.135/hls-live/livepkgr/_1011_/1011/1011-70.m3u8
-#EXTINF:-1,RUS-Наш Футбол
-http://193.232.151.135/hls-live/livepkgr/_1073_/1073/1073-70.m3u8
-#EXTINF:-1,RUS-НТВ+ Футбол 1
-http://193.232.151.135/hls-live/livepkgr/_1040_/1040/1040-80.m3u8
-#EXTINF:-1,RUS-НТВ+ Футбол 2
-http://193.232.151.135/hls-live/livepkgr/_1041_/1041/1041-80.m3u8
-#EXTINF:-1,RUS-НТВ+ Футбол 3
-http://193.232.151.135/hls-live/livepkgr/_1060_/1060/1060-80.m3u8
 #EXTINF:-1,sky sports 1
 rtmpe://46.246.124.86:1935/l playpath=sskys1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,sky sports 2
@@ -1379,28 +399,24 @@ rtmpe://46.246.124.86:1935/l playpath=sskys5 swfUrl=http://player.hdcast.org/_.s
 rtmpe://46.246.124.89:1935/l playpath=sskys5 swfUrl=http://player.prvservers.com/_.swf live=1 pageUrl=http://prvservers.com/ token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,sky f1
 rtmpe://46.246.124.86:1935/l playpath=sskysf1 swfUrl=http://player.hdcast.org/_.swf live=1 pageUrl=http://www.hdcast.org/osama token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,Sky Sports 1
-http://198.27.94.105/hls/skysports1.m3u8
-#EXTINF:-1,Sky Sports 2
-http://198.27.94.105/hls/skysports2.m3u8
-#EXTINF:-1,Sky Sports 3
-http://198.27.94.105/hls/skysports3.m3u8
-#EXTINF:-1,Sky Sports 4
-http://198.27.94.105/hls/skysports4.m3u8
-#EXTINF:-1,sky sport 1
-http://37.59.16.4:1935/global/skysp1.stream/playlist.m3u8
+#EXTINF:-1,SKY:SKY SPORTS NEWS
+rtmpe://46.246.124.22:1935/l playpath=sskysn token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS 1
+rtmpe://46.246.124.22:1935/l playpath=sskys1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS 2
+rtmpe://46.246.124.89:1935/l playpath=sskys2 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS 3
+rtmpe://46.246.124.22:1935/l playpath=sskys3 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS 4
+rtmpe://46.246.124.89:1935/l playpath=sskys4 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS 5
+rtmpe://46.246.124.22:1935/l playpath=sskys5 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
+#EXTINF:-1,SKY:SKY SPORTS F1
+rtmpe://46.246.124.22:1935/l playpath=sskysf1 token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,sky sport 2
-http://37.59.16.4:1935/global/skysp2.stream/playlist.m3u8
-#EXTINF:-1,sky sport 3
-http://37.59.16.4:1935/global/skysp3.stream/playlist.m3u8
-#EXTINF:-1,sky sport 4
-http://37.59.16.4:1935/global/skysp4.stream/playlist.m3u8
-#EXTINF:-1,sky sport 5
-http://37.59.16.4:1935/global/skysp5.stream/playlist.m3u8
-#EXTINF:-1,Sky sport F1
-http://37.59.16.4:1935/global/skyspf1.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport News
-http://37.59.16.4:1935/global/skyspnews.stream/playlist.m3u8
+http://109.123.116.154:1935/mobile/stream2_360p/playlist.m3u8?799e-474b0-9199-f8434
+#EXTINF:-1,sky sport 2
+http://198.57.205.64:1935/cross/skspoo123/playlist.m3u8
 #EXTINF:-1,Sport TV 1
 rtmp://93.174.93.50:443/liveedge/ playpath=sporttv1 swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://micast.tv/ conn=S:OK
 #EXTINF:-1,SPORT-TV1 HD
@@ -1417,20 +433,26 @@ rtmp://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/
 rtmp://r.livecast.cc/rs/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live3-qszlx
 #EXTINF:-1,SPORT-TV3/BFTV
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1,Super Sport 1 HD 
-http://akamai248.tibo.tv/testeri/ngrp:ss1dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 2 HD 
-http://akamai252.tibo.tv/252t2apk1/ngrp:ss2dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 3 HD 
-http://akamai244.tibo.tv/smicro2live/ngrp:ss3dga.stream_all/playlist.m3u8 
-#EXTINF:-1,Super Sport 4 HD 
-http://akamai229.tibo.tv/229t2sport/ngrp:ss4dga.stream_all/playlist.m3u8 
-#EXTINF:-1,SPORT
-http://212.250.46.35:3006
 #EXTINF:-1,1 group-title=English,[COLOR red]ABC News[/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC HD
 rtmp://89.248.172.145:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1,Abc usa
+http://198.27.94.105/hls/abc_1.m3u8
+#EXTINF:-1,AMC USA
+http://198.27.94.105/hls/amc_1.m3u8
+#EXTINF:-1,Cbs usa
+http://198.27.94.105/hls/cbs_1.m3u8
+#EXTINF:-1,CW usa
+http://198.27.94.105/hls/cw_1.m3u8
+#EXTINF:-1,HBO usa
+http://198.27.94.105/hls/hbo_1.m3u8
+#EXTINF:-1,MTV USA
+http://198.27.94.105/hls/mtv_1.m3u8
+#EXTINF:-1,USA hd
+http://198.27.94.105/hls/usa_1.m3u8
+#EXTINF:-1,cnn
+http://4.31.30.145:9130
 #EXTINF:-1,AMC 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,AMC 
@@ -1949,6 +971,10 @@ rtmp://89.248.172.145:1935/edge/_definst_/uhnr4161ybioa5w
 rtmp://89.248.172.145:1935/edge/_definst_/7yxirr4046nk5ca
 #EXTINF:-1,USA Network
 rtmp://89.248.172.145:1935/edge/_definst_/h5eovaj1jeegluq
+#EXTINF:-1,Cinema Plus HD
+http://edge-sz-1.iptv.bulsat.com:1935/tv10/smil:cinemaplus_hd_mobile.smil/playlist.m3u8
+#EXTINF:-1,Action Plus HD
+http://edge-sz-1.iptv.bulsat.com:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,1 group-title=Cartoon,Disney Channel
 http://akamai231.tibo.tv/m3u8/disneychannel.m3u8
 #EXTINF:-1,BLOOMBERG 
