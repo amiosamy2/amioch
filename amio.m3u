@@ -365,6 +365,10 @@ http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_10
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:-1,Eurosport 2
 http://83.139.104.108/Content/HLS/Live/Channel(Eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://au1.cxntv.com:1935/live/mp4:foxar.stream/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://au1.cxntv.com:1935/live/mp4:foxsp2.stream/chunklist.m3u8
 #EXTINF:-1,FOX SPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa
 #EXTINF:-1,FOX SPORTS 2
@@ -437,22 +441,6 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,ABC HD
 rtmp://89.248.172.145:1935/edge/_definst_/nz7l9vc5nv1og7b
-#EXTINF:-1,Abc usa
-http://198.27.94.105/hls/abc_1.m3u8
-#EXTINF:-1,AMC USA
-http://198.27.94.105/hls/amc_1.m3u8
-#EXTINF:-1,Cbs usa
-http://198.27.94.105/hls/cbs_1.m3u8
-#EXTINF:-1,CW usa
-http://198.27.94.105/hls/cw_1.m3u8
-#EXTINF:-1,HBO usa
-http://198.27.94.105/hls/hbo_1.m3u8
-#EXTINF:-1,MTV USA
-http://198.27.94.105/hls/mtv_1.m3u8
-#EXTINF:-1,USA hd
-http://198.27.94.105/hls/usa_1.m3u8
-#EXTINF:-1,cnn
-http://4.31.30.145:9130
 #EXTINF:-1,AMC 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,AMC 
@@ -476,8 +464,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=105&lan=2&rows=
 #EXTINF:-1,A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
 #EXTINF:-1,A&E
-http://live.oneplay.tv/reproducir/105.m3u8
-#EXTINF:-1,A&E
 rtmp://89.248.172.145:1935/edge/_definst_/tuc280rbycwnsvs
 #EXTINF:-1,AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8? 
@@ -485,8 +471,6 @@ http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
 http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
 #EXTINF:-1,AXN 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,AXN HD
-http://live.oneplay.tv/reproducir/109.m3u8
 #EXTINF:-1,Action Plus L1
 http://185.4.83.195:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,Action Plus L2
@@ -507,10 +491,6 @@ http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
 rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
 #EXTINF:-1,bollywoodhungama
 rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
-#EXTINF:-1,COMEDY HD
-http://live.oneplay.tv/reproducir/117.m3u8
-#EXTINF:-1,CBS ACTION
-http://212.250.46.35:2003/
 #EXTINF:-1,CNBC
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/index_838_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CineStream TV
@@ -573,14 +553,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=173&lan=2&rows=
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=133&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,E
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
-#EXTINF:-1,FOX
-http://live.oneplay.tv/reproducir/85.m3u8
-#EXTINF:-1,FOX HD
-http://live.oneplay.tv/reproducir/125.m3u8
-#EXTINF:-1,FX HD
-http://live.oneplay.tv/reproducir/145.m3u8
-#EXTINF:-1,FX HD
-http://live.oneplay.tv/reproducir/101.m3u8
 #EXTINF:-1,FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
 #EXTINF:-1,FX 
@@ -629,8 +601,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
 #EXTINF:-1,GINX
 rtmp://204.107.26.252:8086/live/796.high.stream
-#EXTINF:-1,GMU TV (Virginia)
-mms://media.mesa.gmu.edu/capconwhite1
 #EXTINF:-1,GOURMET 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=161&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,GLITZ 
@@ -659,26 +629,6 @@ rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=377&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,INF
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
-#EXTINF:-1,itv
-http://212.250.46.35:2002
-#EXTINF:-1,cbs action
-http://212.250.46.35:2003
-#EXTINF:-1,itv.Be
-http://212.250.46.35:2004
-#EXTINF:-1,itv
-http://212.250.46.35:2005
-#EXTINF:-1,itv
-http://212.250.46.35:2006
-#EXTINF:-1,itv
-http://212.250.46.35:2007
-#EXTINF:-1,itv
-http://212.250.46.35:2008
-#EXTINF:-1,itv
-http://212.250.46.35:2009
-#EXTINF:-1,itv
-http://212.250.46.35:2010
-#EXTINF:-1,IME
-http://212.250.46.35:3005
 #EXTINF:-1,ID 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=153&lan=2&rows=40&f=.m3u8 
 #EXTINF:-1,INFINITO 
@@ -717,8 +667,6 @@ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
 http://83.139.104.108/Content/HLS/Live/Channel(OK_Bambino)/Stream(03)/index.m3u8
 #EXTINF:-1,Orlando Kids
 http://83.139.104.108/Content/HLS/Live/Channel(Orlando_Kids)/Stream(03)/index.m3u8
-#EXTINF:-1,POP GIRL
-http://212.250.46.35:2014
 #EXTINF:-1,Plus HD 
 http://akamai238.tibo.tv/Drepeater1/plus.stream/playlist.m3u8
 #EXTINF:-1,PX HD 
@@ -747,22 +695,8 @@ http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-#EXTINF:-1,STV WOMEN
-http://212.250.46.35:2011
-#EXTINF:-1,STV WOMEN
-http://212.250.46.35:2012
-#EXTINF:-1,STV
-http://212.250.46.35:2013
-#EXTINF:-1,S4C
-http://212.250.46.35:3013
-#EXTINF:-1,SONY
-http://live.oneplay.tv/reproducir/89.m3u8
-#EXTINF:-1,SYFY HD
-http://live.oneplay.tv/reproducir/141.m3u8
 #EXTINF:-1,Travel Channel
 http://83.139.104.108/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
-#EXTINF:-1,TRUE HD
-http://live.oneplay.tv/reproducir/113.m3u8
 #EXTINF:-1,TRU 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=113&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,TELENOVELAS 
@@ -813,14 +747,6 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=137&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
 #EXTINF:-1,UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
-#EXTINF:-1,UNIVERSAL
-http://live.oneplay.tv/reproducir/97.m3u8
-#EXTINF:-1,UNIVERSAL
-http://live.oneplay.tv/reproducir/137.m3u8
-#EXTINF:-1,UNICABLE HD
-http://live.oneplay.tv/reproducir/121.m3u8
-#EXTINF:-1,UK
-http://212.250.46.35:3012
 #EXTINF:-1,UNICABLE 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=121&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,VH1 
@@ -833,148 +759,58 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=93&lan=2&rows=4
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,WARNER HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
-#EXTINF:-1,WARNER HD
-http://live.oneplay.tv/reproducir/93.m3u8
 #EXTINF:-1,WOBI 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=293&lan=2&rows=40&f=.m3u8
-#EXTINF:-1,WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8? 
-#EXTINF:-1,WOMEN
-http://212.250.46.35:3014
-#EXTINF:-1,YouToo
-http://204.107.26.252:1935/live/773.high.stream/playlist.m3u8
-#EXTINF:-1,A&E
-rtmp://89.248.172.145:1935/edge/_definst_/tuc280rbycwnsvs
-#EXTINF:-1,ABC HD
-rtmp://89.248.172.145:1935/edge/_definst_/nz7l9vc5nv1og7b
-#EXTINF:-1,AMC HD
-rtmp://89.248.172.145:1935/edge/_definst_/z4cxm7zlfyqs65m
-#EXTINF:-1,AMC
-rtmp://89.248.172.145:1935/edge/_definst_/7pctmre0zfwsc24
-#EXTINF:-1,BET
-rtmp://89.248.172.145:1935/edge/_definst_/kexkxje3nqi6dtl
-#EXTINF:-1,Bravo
-rtmp://89.248.172.145:1935/edge/_definst_/uw433ikqnrj501l
-#EXTINF:-1,CBS HD
-rtmp://89.248.172.145:1935/edge/_definst_/vp4q2gonwzh2dku
-#EXTINF:-1,CBS
-rtmp://89.248.172.145:1935/edge/_definst_/dt0qvk6nmdhk8u6
-#EXTINF:-1,CNN HD
-rtmp://89.248.172.145:1935/edge/_definst_/rjxo8hz17q9waiq
-#EXTINF:-1,CNN
-rtmp://89.248.172.145:1935/edge/_definst_/1z3ps9vxnknuskb
-#EXTINF:-1,CW HD
-rtmp://89.248.172.145:1935/edge/fvksu1sp51ijtyd
-#EXTINF:-1,CW
-rtmp://89.248.172.145:1935/edge/_definst_/qvvkvojlano9hnj
-#EXTINF:-1,Discovery HD
-rtmp://89.248.172.145:1935/edge/_definst_/ishyd3sopok3p27
-#EXTINF:-1,Discovery Science HD
-rtmp://89.248.172.145:1935/edge/_definst_/ajcjdksbd8wk32z
-#EXTINF:-1,Discovery
-rtmp://89.248.172.145:1935/edge/_definst_/ro7c9eha0z96hpp
-#EXTINF:-1,ESPN 2 HD
-rtmp://89.248.172.145:1935/edge/_definst_/rgyus7ao2ullmbt
-#EXTINF:-1,ESPN 2
-rtmp://89.248.172.145:1935/edge/_definst_/5hd19kwxef5b59o
-#EXTINF:-1,ESPN HD
-rtmp://89.248.172.145:1935/edge/_definst_/xoaaohmeuajfeyf
-#EXTINF:-1,ESPN
-rtmp://89.248.172.145:1935/edge/_definst_/dp2g1w4ip6v0zoc
-#EXTINF:-1,Food Network HD
-rtmp://89.248.172.145:1935/edge/_definst_/ibnnu7537h3ax6e
-#EXTINF:-1,Food Network
-rtmp://89.248.172.145:1935/edge/_definst_/qc6xkzf4h48bz2e
-#EXTINF:-1,FOX HD
-rtmp://89.248.172.145:1935/edge/_definst_/yuu6p5oaa1x4a1p
-#EXTINF:-1,Fox News HD
-rtmp://89.248.172.145:1935/edge/_definst_/ohn58e97er36vjr
-#EXTINF:-1,Fox News
-rtmp://89.248.172.145:1935/edge/_definst_/w0mr10getvsikam
-#EXTINF:-1,FOX
-rtmp://89.248.172.145:1935/edge/_definst_/q49uyvij145wcky
-#EXTINF:-1,FX
-rtmp://89.248.172.145:1935/edge/_definst_/hrjtbc6cg6tbtgz
-#EXTINF:-1,Golf Channel HD
-rtmp://89.248.172.145:1935/edge/_definst_/ts6w24dx29tcwi4
-#EXTINF:-1,Golf channel
-rtmp://89.248.172.145:1935/edge/_definst_/lw1kufim1kmit1h
-#EXTINF:-1,Hallmark HD
-rtmp://89.248.172.145:1935/edge/_definst_/v4ynnryunsoxzbq
-#EXTINF:-1,HBO HD
-rtmp://89.248.172.145:1935/edge/_definst_/z28ie9oqoku4qoy
-#EXTINF:-1,HBO
-rtmp://89.248.172.145:1935/edge/_definst_/qzbbu26gcvjxksz
-#EXTINF:-1,HGTV
-rtmp://89.248.172.145:1935/edge/_definst_/gj65q2rg18tpmut
-#EXTINF:-1,History
-rtmp://89.248.172.145:1935/edge/_definst_/dhp0rpd116qyyj6
-#EXTINF:-1,Discovery HD
-rtmp://89.248.172.145:1935/edge/_definst_/yjma618cibkqxeo
-#EXTINF:-1,Lifetime HD
-rtmp://89.248.172.145:1935/edge/_definst_/7b2gr554gyyth8e
-#EXTINF:-1,Marijuana TV
-rtmp://89.248.172.145:1935/edge/_definst_/bncy42xy2eip89d
-#EXTINF:-1,MSNBC
-rtmp://89.248.172.145:1935/edge/_definst_/1ioc7taql4472xs
-#EXTINF:-1,MSNBC HD
-rtmp://89.248.172.145:1935/edge/_definst_/1341ujtliqndod8
-#EXTINF:-1,National Geographic
-rtmp://89.248.172.145:1935/edge/_definst_/b8bav5ayzso8m8q
-#EXTINF:-1,National Geographic HD
-rtmp://89.248.172.145:1935/edge/_definst_/qzsfigd1y3bgbhs
-#EXTINF:-1,NBC
-rtmp://89.248.172.145:1935/edge/_definst_/s5whw37nl7weedp
-#EXTINF:-1,NBC HD
-rtmp://89.248.172.145:1935/edge/_definst_/kjgkefh6la1di6g
-#EXTINF:-1,NBC HD
-rtmp://89.248.172.145:1935/edge/_definst_/2qmiwfydbj6yu89
-#EXTINF:-1,NBC Sport Network HD
-rtmp://89.248.172.145:1935/edge/_definst_/0fm1lstybe4a0j4
-#EXTINF:-1,NFL Network
-rtmp://89.248.172.145:1935/edge/_definst_/fzasab6vz02yuf7
-#EXTINF:-1,Nickelodeon
-rtmp://89.248.172.145:1935/edge/_definst_/q2hs5fqm8b039y0
-#EXTINF:-1,OWN
-rtmp://89.248.172.145:1935/edge/_definst_/uehgy5htiasffj3
-#EXTINF:-1,Oxygen
-rtmp://89.248.172.145:1935/edge/_definst_/zmt2swezlswh9nz
-#EXTINF:-1,Science HD
-rtmp://89.248.172.145:1935/edge/_definst_/00t250wv1d4ltib
-#EXTINF:-1,Showtime HD
-rtmp://89.248.172.145:1935/edge/_definst_/bwbop58ixz281wv
-#EXTINF:-1,Showtime Movie
-rtmp://89.248.172.145:1935/edge/_definst_/s53jbkmyldngbks
-#EXTINF:-1,Spike
-rtmp://89.248.172.145:1935/edge/_definst_/sax2mq2alpirnww
-#EXTINF:-1,Syfy
-rtmp://89.248.172.145:1935/edge/_definst_/oepz9q5oivflbcw
-#EXTINF:-1,Syfy HD
-rtmp://89.248.172.145:1935/edge/_definst_/x7uii7mll2b7lh4
-#EXTINF:-1,TBS
-rtmp://89.248.172.145:1935/edge/_definst_/jh8nj062bqbsxdh
-#EXTINF:-1,TLC
-rtmp://89.248.172.145:1935/edge/_definst_/iugceoy4o6ljhck
-#EXTINF:-1,TNT HD
-rtmp://89.248.172.145:1935/edge/_definst_/7uz4als3nigi0j3
-#EXTINF:-1,TNT
-rtmp://89.248.172.145:1935/edge/_definst_/6q4jlbqwvxuingo
+#EXTINF:-1,CNN USA
+http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2 timeout=10
 #EXTINF:-1,Travel Channel HD
-rtmp://89.248.172.145:1935/edge/_definst_/4aiufk0o430qt0d
-#EXTINF:-1,Travel Channel
-rtmp://89.248.172.145:1935/edge/_definst_/1fvuok2ny4jtmgq
-#EXTINF:-1,TruTV 
-HDrtmp://89.248.172.145:1935/edge/_definst_/oeiigxxv1gbeqq
-#EXTINF:-1,TruTV
-rtmp://89.248.172.145:1935/edge/_definst_/uhnr4161ybioa5w
-#EXTINF:-1,TV Land
-rtmp://89.248.172.145:1935/edge/_definst_/7yxirr4046nk5ca
-#EXTINF:-1,USA Network
-rtmp://89.248.172.145:1935/edge/_definst_/h5eovaj1jeegluq
-#EXTINF:-1,Cinema Plus HD
-http://edge-sz-1.iptv.bulsat.com:1935/tv10/smil:cinemaplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus HD
-http://edge-sz-1.iptv.bulsat.com:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
+http://142.4.216.60:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887&xs=_we_MWZ2dW9rMm55NGp0bWdxfDE0MTk5MTM4ODd8fDU0YTE5ZGZmMjgwNTR8MjZlNDRkMjc2ZDFiZDExODcyM2UyMGQ2OGZlNTFkNmI3NDA1NmQzZA timeout=10
+#EXTINF:-1,A&E
+http://142.4.216.60:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467&xs=_we_dHVjMjgwcmJ5Y3duc3ZzfDE0MTk5MTY0Njd8NzIuMjcuMjE0LjMzfDU0YTFhODEzOGZkNDR8ZmE0OGE4YmUwMTczYjU4MWVjNzUzYTg4OTQzM2 timeout=10I1MGE0ODYwNjQzZA
+#EXTINF:-1,OWN
+http://142.4.216.60:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658&xs=_we_dWVoZ3k1aHRpYXNmZmozfDE0MTk5MTQ2NTh8fDU0YTFhMTAyYWFmNDV8YjhmYTUyMTQ1OTQ5OWY3NzNiZWExYjdlZGE5ZWM5OWEzODkzMjI0ZA timeout=10
+#EXTINF:-1,ABC HD
+http://142.4.216.60:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374&xs=_we_Mzcxamx1aXJsamNzamVufDE0MTk5MTYzNzR8NzIuMjcuMjE0LjMzfDU0YTFhN2I2MzUxMWJ8ZDU3ODc0MTUyMWE0YTMyODdmZjdkYzJiMTYyZmY0MDA1YzM4NjdkYQ timeout=10
+#EXTINF:-1,ABC
+http://142.4.216.60:1935/edge/_definst_/371jluirljcsjen/playlist.m3u8?wowzasessionid=1420168303&xs=_we_Mzcxamx1aXJsamNzamVufDE0MjAyMDQzMDN8NzIuMjcuMjE0LjMzfDU0YTYwYzZmMGE2NGV8OGMxYmQ2YWM5M2ZmNzY1OTIwYzVhMTBiZGQ1MzEyZDM0ZjRiZjNjNQ timeout=10
+#EXTINF:-1,CBS HD
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+#EXTINF:-1,CBS
+http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+#EXTINF:-1,ESPN 2
+http://142.4.216.60:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722&xs=_we_NWhkMTlrd3hlZjViNTlvfDE0MjAxNTk3MjJ8NzIuMjcuMjE0LjMzfDU0YTU1ZTRhMzc3YjN8MDUyOGQ2Njg0MGJmNjRkMWY5MzIxN2QzOTljOTUwYTJmYjE5MmM5Zg timeout=10
+#EXTINF:-1,ESPN HD
+http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934&xs=_we_amJnNngwYnowcXRheWhjfDE0MTk5MTU5MzR8NzIuMjcuMjE0LjMzfDU0YTFhNWZlNDBlZWJ8ZTk1OGYxM2U5MjFmOGNmYWYwZDU4ZTk4ZDczY2JhNzFjODJlOGJkNw timeout=10
+#EXTINF:-1,Fox News HD
+http://142.4.216.60:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MjAxNTk4MjF8NzIuMjcuMjE0LjMzfDU0YTU1ZWFkODY0YmV8YWVlYjYzYzQwMzFmZjZmN2RkNDJhM2IzMmQ1NTQ0M2YxYzRkNWFhNw timeout=10
+#EXTINF:-1,NFL Network HD
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg timeout=10
+#EXTINF:-1,Fox News
+http://142.4.216.60:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587&xs=_we_dzBtcjEwZ2V0dnNpa2FtfDE0MTk5MDk1ODd8NzIuMjcuMjE0LjMzfDU0YTE4ZDMzYTQ2NDd8NDRjMzIwMjIwOGUxZjZmNmFiODBiNjg3ZTAyNDlhMWQ0OTI4Njk1Ng timeout=10
+#EXTINF:-1,Hallmark HD
+http://142.4.216.60:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MTk5MTAyMzZ8NzIuMjcuMjE0LjMzfDU0YTE4ZmJjOTVhMWN8MzJmYjg0MzMxMDZiMTlhNzNhNzY0M2JlNjBmNTdkZDJkYjEyMWFjNA timeout=10
+#EXTINF:-1,HBO
+http://142.4.216.60:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5NDMzMDl8NzIuMjcuMjE0LjMzfDU0YTIxMGVkNTEyNmF8OGUzN2Q3OGJkNGZiNTBkOGU2ZmVlZTFiMzlkNjAxYWMyMzcyY2VmMg timeout=10
+#EXTINF:-1,Jackie Chan (1991-2008)
+http://142.4.216.60:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797&xs=_we_YXE2aWpsc3pjdDd3Zmw0fDE0MjAyMDU3OTd8NzIuMjcuMjE0LjMzfDU0YTYxMjQ1OTE2YjF8ZGI5NjFlZTczZDQ2YzgzYzNlYjZkYjViN2FhYmU5ZWU3ZjMxODVjMA timeout=10
+#EXTINF:-1,TLC
+http://142.4.216.60:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MTk5NDM5Mjl8NzIuMjcuMjE0LjMzfDU0YTIxMzU5YzNhNDl8NzlhMGE2NzE3M2RmZTE1NmNjMThhMmYyZDVjOTA3N2Q5OGU2YjNjMg timeout=10
+#EXTINF:-1,Food Network
+http://142.4.216.60:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022&xs=_we_cWM2eGt6ZjRoNDhiejJlfDE0MTk5MDkwMjJ8NzIuMjcuMjE0LjMzfDU0YTE4YWZlNzAwMGJ8Y2FkMmFlNzUyZmRkYWM3NjIzYjA2MDM2ZWRlY2FlMDlmMjBhYmQzZg timeout=10
+#EXTINF:-1,Lifetime HD
+http://142.4.216.60:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018&xs=_we_MnFtaXdmeWRiajZ5dTg5fDE0MTk5MTUwMTh8fDU0YTFhMjZhYTVhZjl8MWVhMmFlNjIyY2RhZGM4MjFiYWI1ZjM2NjY3YzlkMjU2MDMwMWNhNg timeout=10
+#EXTINF:-1,Discovery HD
+http://142.4.216.60:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569&xs=_we_cm83YzllaGEwejk2aHBwfDE0MTk5MDg1Njl8NzIuMjcuMjE0LjMzfDU0YTE4OTM5ZjJkMzN8YTI0NDkzYmNjNmJiM2NjYTQ4YTAzYWE4ODRjODY0M2M0ZThhM timeout=10GVlOA
+#EXTINF:-1,National Geographic
+http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ timeout=10
+#EXTINF:-1,TNT HD
+http://142.4.216.60:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZ timeout=10GYwNw
+#EXTINF:-1,TruTV HD
+http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA timeout=10
+#EXTINF:-1,VH1
+http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560&xs=_we_b2VpaWd4eHYxZ2JlcXE5fDE0MjAyMDY1NjB8NzIuMjcuMjE0LjMzfDU0YTYxNTQwNDRkMDl8NTQ0Mzg0MmU4ZDU1YjU1M2I5N2RjZjU4YzhhNjNkOTg5YjMwMTY2NA timeout=10
+#EXTINF:-1,MTV
+http://142.4.216.60:1935:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062&xs=_we_ZDJ6MXZjNGFocmw2eDI2fDE0MjAyMDcwNjJ8NzIuMjcuMjE0LjMzfDU0YTYxNzM2OGE4ODl8NDAyY2I4NjFkNzk5YmY5ZTA5MzFlZTEyZTQ1NTBiOWY5OGQ1NzQ4OQ timeout=10
 #EXTINF:-1,1 group-title=Cartoon,Disney Channel
 http://akamai231.tibo.tv/m3u8/disneychannel.m3u8
 #EXTINF:-1,BLOOMBERG 
@@ -983,14 +819,10 @@ http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=457&lan=2&rows=
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
 rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
-#EXTINF:-1,CARTOON NETWORK
-rtmp://31.204.128.140/live/brlive_0028
 #EXTINF:-1,CARTOON NETWORK 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
-#EXTINF:-1,CARTOONITO
-http://202.75.23.36:1400/live/ch49/01.m3u8
 #EXTINF:-1,CBEEBIES
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
 #EXTINF:-1,CBEEBIES 
@@ -1011,8 +843,6 @@ http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
 rtmp://37.187.149.103/live/DisneyChnl?token=is5Kik9RCgRGsoOCGLQCdg&e=1423982407&u=17847
 #EXTINF:-1,Junior TV 
 http://akamai231.tibo.tv/m3u8/juniorchannel.m3u8
-#EXTINF:-1,NICKELODEON
-rtmp://31.204.128.140/live/brlive_0030
 #EXTINF:-1,NICK JR 
 http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
 #EXTINF:-1,NICK HD 
