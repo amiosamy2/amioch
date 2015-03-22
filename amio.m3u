@@ -441,146 +441,262 @@ http://185.27.237.105:8082/TV0104
 http://185.27.237.105:8082/TV0103
 #EXTINF:-1,diseny
 http://185.27.237.105:8082/TV0110
-#EXTINF:-1,NileCinema
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileCinema
-#EXTINF:-1,NileComedy
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileComedy
-#EXTINF:-1,NileLife
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileLife
-#EXTINF:-1,NileSports
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileSports
-#EXTINF:-1,NileNews
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/NileNews
-#EXTINF:-1,AlMasriya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlMasriya
-#EXTINF:-1,AlThanya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlThanya
-#EXTINF:-1,RotanaMasriya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaMasriya
-#EXTINF:-1,RotanaClassic
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaClassic
-#EXTINF:-1,RotanaCinema
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/RotanaCinema
-#EXTINF:-1,MBCMaser
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser
-#EXTINF:-1,MBCMaser2
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMaser2
-#EXTINF:-1,MBCDrama
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCDrama
-#EXTINF:-1,MBC-1
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBC-1
-#EXTINF:-1,MBC2
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBC2
-#EXTINF:-1,MBCAction
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCAction
-#EXTINF:-1,MBCMAX
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/MBCMAX
-#EXTINF:-1,Alhayah1
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/Alhayah1
-#EXTINF:-1,Alhayah2
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/Alhayah2
-#EXTINF:-1,AlhayahCinema
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/AlhayahCinema
-#EXTINF:-1,AlhayahMosalsalat
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/AlhayahMosalsalat
-#EXTINF:-1,ONTV
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/ONTV
-#EXTINF:-1,Mehwer
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/Mehwer
-#EXTINF:-1,AlKaheraWalNas
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlKaheraWalNas
-#EXTINF:-1,CBC1
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBC1
-#EXTINF:-1,CBCDrama
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBCDrama
-#EXTINF:-1,CBCExtra
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/CBCExtra
-#EXTINF:-1,AlNahar
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlNahar
-#EXTINF:-1,AlNaharDrama
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlNaharDrama
-#EXTINF:-1,Dream2
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/Dream2
-#EXTINF:-1,LBCSat
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/LBCSat
-#EXTINF:-1,FutureTV
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/FutureTV
-#EXTINF:-1,AlSharqiya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/AlSharqiya
-#EXTINF:-1,SadaElBalad
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/SadaElBalad
-#EXTINF:-1,BBCArabic
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr1/BBCArabic
-#EXTINF:-1,AlArabiya
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/AlArabiya
-#EXTINF:-1,Faraeen
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr3/Faraeen
-#EXTINF:-1,AlTahrir
-rtmp://alsersawy2-stream.dyndns.tv:1935/jr2/AlTahrir
-#EXTINF:-1,AbuDhabi1
-rtmp://alsersawy2-stream.dyndns.tv:1935/us1/AbuDhabi1
-#EXTINF:-1,flv ????
-http://flv.alarab.net:8080//flv/81231.flv
-#EXTINF:-1,flv 3oche_elbolbol
-http://flv.alarab.net:8080//flv/81232.flv
-#EXTINF:-1,flv 5otat_jimi
-http://flv.alarab.net:8080//flv/74722.flv
-#EXTINF:-1,flv 7alawat_rou7
-http://flv.alarab.net:8080//flv/80106.flv
-#EXTINF:-1,flv 7amati_bit7ibini
-http://flv.alarab.net:8080//flv/83334.flv
-#EXTINF:-1,flv 7olm_omr
-http://flv.alarab.net:8080//flv/76547.flv
-#EXTINF:-1,flv achita_lifat
-http://flv.alarab.net:8080//flv/75166.flv
-#EXTINF:-1,flv al_9achach
-http://flv.alarab.net:8080//flv/83155.flv
-#EXTINF:-1,flv al7ab_al3alamia_athalitha
-http://flv.alarab.net:8080//flv/80272.flv
-#EXTINF:-1,flv alharibatan
-http://flv.alarab.net:8080//flv/76509.flv
-#EXTINF:-1,flv aljazeera2
-http://flv.alarab.net:8080//flv/81800.flv
-#EXTINF:-1,flv almo3dia
-http://flv.alarab.net:8080//flv/82374.flv
-#EXTINF:-1,flv amwaj_9assira
-http://flv.alarab.net:8080//flv/79349.flv
-#EXTINF:-1,flv atarik_adairi
-http://flv.alarab.net:8080//flv/81569.flv
-#EXTINF:-1,flv bibi
-http://flv.alarab.net:8080//flv/76517.flv
-#EXTINF:-1,flv captin_hima
-http://flv.alarab.net:8080//flv/81153.flv
-#EXTINF:-1,flv elphil_ alazra9
-http://flv.alarab.net:8080//flv/80344.flv
-#EXTINF:-1,flv hojoum_montasaf_alil
-http://flv.alarab.net:8080//flv/81251.flv
-#EXTINF:-1,flv houjoum_montasaf_alil
-http://flv.alarab.net:8080//flv/76585.flv
-#EXTINF:-1,flv jawazat_miry
-http://flv.alarab.net:8080//flv/80472.flv
-#EXTINF:-1,flv kalam_jarayad
-http://flv.alarab.net:8080//flv/74953.flv
-#EXTINF:-1,flv lamoa5da
-http://flv.alarab.net:8080//flv/81304.flv
-#EXTINF:-1,flv made_in_egypt
-http://flv.alarab.net:8080//flv/79970.flv
-#EXTINF:-1,flv marati_wa_zawjati
-http://flv.alarab.net:8080//flv/80578.flv
-#EXTINF:-1,flv morjan_ahmed_morjan
-http://flv.alarab.net:8080//flv/81372.flv
-#EXTINF:-1,flv mot3ib_wa_chadia
-http://flv.alarab.net:8080//flv/74720.flv
-#EXTINF:-1,flv nazariat_3amiti
-http://flv.alarab.net:8080//flv/83198.flv
-#EXTINF:-1,flv salam_abou_o5to
-http://flv.alarab.net:8080//flv/80018.flv
-#EXTINF:-1,flv taxi_albalad_lebanon
-http://flv.alarab.net:8080//flv/76253.flv
-#EXTINF:-1,flv THE_DEALER
-http://flv.alarab.net:8080//flv/80603.flv
-#EXTINF:-1,flv villa69
-http://flv.alarab.net:8080//flv/79937.flv
+#EXTINF:-1,france_24_arabic
+http://edge20.magictvbox.com/live/france_24_arabic/index.m3u8
+#EXTINF:-1,russia_today
+http://edge23.magictvbox.com/live/russia_today/index.m3u8
+#EXTINF:-1,rotana_classic
+http://edge22.magictvbox.com/live/rotana_classic/index.m3u8
+#EXTINF:-1,rotana_khalijiah
+http://edge20.magictvbox.com/live/rotana_khalijiah/index.m3u8
+#EXTINF:-1,rotana_cinema_plus
+http://edge22.magictvbox.com/live/rotana_cinema_plus/index.m3u8
+#EXTINF:-1,rotana_massriya_plus
+http://edge21.magictvbox.com/live/rotana_massriya_plus/index.m3u8
+#EXTINF:-1,rotana_khalijiah_plus
+http://edge22.magictvbox.com/live/rotana_khalijiah_plus/index.m3u8
+#EXTINF:-1,set_el_bait
+http://edge21.magictvbox.com/live/set_el_bait/index.m3u8
+#EXTINF:-1,ontv
+http://edge22.magictvbox.com/live/ontv/index.m3u8
+#EXTINF:-1,ontv_live
+http://edge21.magictvbox.com/live/ontv_live/index.m3u8
+#EXTINF:-1,ontv_plus
+http://edge20.magictvbox.com/live/ontv_plus/index.m3u8
+#EXTINF:-1,el_mehwar
+http://edge20.magictvbox.com/live/el_mehwar/index.m3u8
+#EXTINF:-1,el_mehwar_plus
+http://edge22.magictvbox.com/live/el_mehwar_plus/index.m3u8
+#EXTINF:-1,al-nahar_plus2
+http://stream.magictvbox.com/live/al-nahar_plus2/index.m3u8
+#EXTINF:-1,al-nahar_al_youm/
+http://stream.magictvbox.com/live/al-nahar_al_youm/index.m3u8
+#EXTINF:-1,al-nahar_drama
+http://stream.magictvbox.com/live/al-nahar_drama/index.m3u8
+#EXTINF:-1,al_kahera_wal_nas
+http://stream.magictvbox.com/live/al_kahera_wal_nas/index.m3u8
+#EXTINF:-1,al_kahera_wal_nas_plus
+http://edge23.magictvbox.com/live/al_kahera_wal_nas_plus/index.m3u8
+#EXTINF:-1,faraeen_channel
+http://edge20.magictvbox.com/live/faraeen_channel/index.m3u8
+#EXTINF:-1,cbc_plus
+http://edge23.magictvbox.com/live/cbc_plus/index.m3u8
+#EXTINF:-1,cbc_extra
+http://edge20.magictvbox.com/live/cbc_extra/index.m3u8
+#EXTINF:-1,cbc_sofra
+http://edge21.magictvbox.com/live/cbc_sofra/index.m3u8
+#EXTINF:-1,cbc_two
+http://edge22.magictvbox.com/live/cbc_two/index.m3u8
+#EXTINF:-1,cbc_drama
+http://edge20.magictvbox.com/live/cbc_drama/index.m3u8
+#EXTINF:-1,cbc_extra_plus
+http://edge22.magictvbox.com/live/cbc_extra_plus/index.m3u8
+#EXTINF:-1,cbc_sofra_plus
+http://edge21.magictvbox.com/live/cbc_sofra_plus/index.m3u8
+#EXTINF:-1,cbc_two_plus
+http://edge23.magictvbox.com/live/cbc_two_plus/index.m3u8
+#EXTINF:-1,cbc_drama_plus
+http://edge21.magictvbox.com/live/cbc_drama_plus/index.m3u8
+#EXTINF:-1,time_cinema_i
+http://edge23.magictvbox.com/live/time_cinema_i/index.m3u8
+#EXTINF:-1,time_cinema_2
+http://edge22.magictvbox.com/live/time_cinema_2/index.m3u8
+#EXTINF:-1,time_drama
+http://edge21.magictvbox.com/live/time_drama/index.m3u8
+#EXTINF:-1,time_turki
+http://edge23.magictvbox.com/live/time_turki/index.m3u8
+#EXTINF:-1,time_film
+http://edge21.magictvbox.com/live/time_film/index.m3u8
+#EXTINF:-1,time_taxi
+http://edge22.magictvbox.com/live/time_taxi/index.m3u8
+#EXTINF:-1,time_action
+http://edge22.magictvbox.com/live/time_action/index.m3u8
+#EXTINF:-1,time_cinema_i_plus
+http://edge21.magictvbox.com/live/time_cinema_i_plus/index.m3u8
+#EXTINF:-1,time_cinema_2_plus
+http://edge20.magictvbox.com/live/time_cinema_2_plus/index.m3u8
+#EXTINF:-1,time_drama_plus
+http://edge22.magictvbox.com/live/time_drama_plus/index.m3u8
+#EXTINF:-1,time_comedy_plus
+http://edge20.magictvbox.com/live/time_comedy_plus/index.m3u8
+#EXTINF:-1,time_turki_plus
+http://edge23.magictvbox.com/live/time_turki_plus/index.m3u8
+#EXTINF:-1,time_film_plus
+http://edge21.magictvbox.com/live/time_film_plus/index.m3u8
+#EXTINF:-1,time_action_plus
+http://edge22.magictvbox.com/live/time_action_plus/index.m3u8
+#EXTINF:-1,darbaka_cinema
+http://edge20.magictvbox.com/live/darbaka_cinema/index.m3u8
+#EXTINF:-1,darbaka_aflam
+http://edge22.magictvbox.com/live/darbaka_aflam/index.m3u8
+#EXTINF:-1,darbaka_cinema_plus
+http://edge23.magictvbox.com/live/darbaka_cinema_plus/index.m3u8
+#EXTINF:-1,panorama_film
+http://edge21.magictvbox.com/live/panorama_film/index.m3u8
+#EXTINF:-1,panorama_cinema
+http://edge22.magictvbox.com/live/panorama_cinema/index.m3u8
+#EXTINF:-1,time_cinema_2_plus
+http://edge20.magictvbox.com/live/time_cinema_2_plus/index.m3u8
+#EXTINF:-1,panorama_drama_i
+http://edge20.magictvbox.com/live/panorama_drama_i/index.m3u8
+#EXTINF:-1,panorama_drama_ii
+http://edge23.magictvbox.com/live/panorama_drama_ii/index.m3u8
+#EXTINF:-1,panorama_comedy
+http://edge23.magictvbox.com/live/panorama_comedy/index.m3u8
+#EXTINF:-1,panorama_film_plus
+http://edge21.magictvbox.com/live/panorama_film_plus/index.m3u8
+#EXTINF:-1,panorama_cinema_plus
+http://edge23.magictvbox.com/live/panorama_cinema_plus/index.m3u8
+#EXTINF:-1,panorama_drama_i_plus
+http://edge22.magictvbox.com/live/panorama_drama_i_plus/index.m3u8
+#EXTINF:-1,panorama_drama_ii_plus
+http://edge20.magictvbox.com/live/panorama_drama_ii_plus/index.m3u8
+#EXTINF:-1,panorama_comedy_plus
+http://edge22.magictvbox.com/live/panorama_comedy_plus/index.m3u8
+#EXTINF:-1,cairo_cinema
+http://edge20.magictvbox.com/live/cairo_cinema/index.m3u8
+#EXTINF:-1,cairo_zaman
+http://edge23.magictvbox.com/live/cairo_zaman/index.m3u8
+#EXTINF:-1,cairo_drama
+http://edge21.magictvbox.com/live/cairo_drama/index.m3u8
+#EXTINF:-1,cairo_cinema_plus
+http://edge21.magictvbox.com/live/cairo_cinema_plus/index.m3u8
+#EXTINF:-1,cairo_zaman_plus
+http://edge22.magictvbox.com/live/cairo_zaman_plus/index.m3u8
+#EXTINF:-1,cairo_drama_plus
+http://edge20.magictvbox.com/live/cairo_drama_plus/index.m3u8
+#EXTINF:-1,lcd_aflam
+http://edge20.magictvbox.com/live/lcd_aflam/index.m3u8
+#EXTINF:-1,toktok_cinema
+http://edge22.magictvbox.com/live/toktok_cinema/index.m3u8
+#EXTINF:-1,al_oula_egypt
+http://edge23.magictvbox.com/live/al_oula_egypt/index.m3u8
+#EXTINF:-1,almasraweya_aflam
+http://edge21.magictvbox.com/live/almasraweya_aflam/index.m3u8
+#EXTINF:-1,cima_shobra_palace
+http://edge21.magictvbox.com/live/cima_shobra_palace/index.m3u8
+#EXTINF:-1,almasraweya_aflam/
+http://edge23.magictvbox.com/live/almasraweya_aflam/index.m3u8
+#EXTINF:-1,cima_shobra_palace
+http://edge22.magictvbox.com/live/cima_shobra_palace/index.m3u8
+#EXTINF:-1,moga_cinema
+http://edge20.magictvbox.com/live/moga_cinema/index.m3u8
+#EXTINF:-1,moga_comedy
+http://edge20.magictvbox.com/live/moga_comedy/index.m3u8
+#EXTINF:-1,al_shasha
+http://edge23.magictvbox.com/live/al_shasha/index.m3u8
+#EXTINF:-1,time_ekhtarna_lak
+http://edge21.magictvbox.com/live/time_ekhtarna_lak/index.m3u8
+#EXTINF:-1,kalb_el_asad
+http://edge20.magictvbox.com/live/kalb_el_asad/index.m3u8
+#EXTINF:-1,halawet_rooh
+http://edge22.magictvbox.com/live/halawet_rooh/index.m3u8
+#EXTINF:-1,abla_fahita
+http://edge21.magictvbox.com/live/abla_fahita/index.m3u8
+#EXTINF:-1,abc_aflam/
+http://edge23.magictvbox.com/live/abc_aflam/index.m3u8
+#EXTINF:-1,panorama_film_plus
+http://edge21.magictvbox.com/live/panorama_film_plus/index.m3u8
+#EXTINF:-1,sada_el_balad
+http://edge20.magictvbox.com/live/sada_el_balad/index.m3u8
+#EXTINF:-1,sada_el_balad_plus
+http://edge20.magictvbox.com/live/sada_el_balad_plus/index.m3u8
+#EXTINF:-1,sada_el_balad_drama_plus
+http://edge23.magictvbox.com/live/sada_el_balad_drama_plus/index.m3u8
+#EXTINF:-1,nile_cinema
+http://edge20.magictvbox.com/live/nile_cinema/index.m3u8
+#EXTINF:-1,nile_comedy/
+http://edge23.magictvbox.com/live/nile_comedy/index.m3u8
+#EXTINF:-1,nile_news
+http://edge21.magictvbox.com/live/nile_news/index.m3u8
+#EXTINF:-1,nile_family
+http://edge21.magictvbox.com/live/nile_family/index.m3u8
+#EXTINF:-1,nile_culture
+http://edge20.magictvbox.com/live/nile_culture/index.m3u8
+#EXTINF:-1,nile_life
+http://edge22.magictvbox.com/live/nile_life/index.m3u8
+#EXTINF:-1,nile_cinema_plus
+http://stream.magictvbox.com/live/nile_cinema_plus/index.m3u8
+#EXTINF:-1,nile_comedy_plus
+http://edge22.magictvbox.com/live/nile_comedy_plus/index.m3u8
+#EXTINF:-1,nile_news_plus
+http://edge20.magictvbox.com/live/nile_news_plus/index.m3u8
+#EXTINF:-1,nile_culture_plus
+http://edge21.magictvbox.com/live/nile_culture_plus/index.m3u8
+#EXTINF:-1,nile_life_plus
+http://edge23.magictvbox.com/live/nile_life_plus/index.m3u8
+#EXTINF:-1,rotana_clip
+http://edge20.magictvbox.com/live/rotana_clip/index.m3u8
+#EXTINF:-1,rotana_moussica
+http://edge23.magictvbox.com/live/rotana_moussica/index.m3u8
+#EXTINF:-1,sha3beyat
+http://edge20.magictvbox.com/live/sha3beyat/index.m3u8
+#EXTINF:-1,nile_family_plus
+http://edge22.magictvbox.com/live/nile_family_plus/index.m3u8
+#EXTINF:-1,top_movies
+http://edge21.magictvbox.com/live/top_movies/index.m3u8
+#EXTINF:-1,dubai_one
+http://edge22.magictvbox.com/live/dubai_one/index.m3u8
+#EXTINF:-1,sama_dubai
+http://edge23.magictvbox.com/live/sama_dubai/index.m3u8
+#EXTINF:-1,arab_woman
+http://edge20.magictvbox.com/live/arab_woman/index.m3u8
+#EXTINF:-1,al_nahar_sport
+http://edge22.magictvbox.com/live/al_nahar_sport/index.m3u8
+#EXTINF:-1,nile_sport
+http://edge22.magictvbox.com/live/nile_sport/index.m3u8
+#EXTINF:-1,nile_sport_plus7
+http://edge20.magictvbox.com/live/nile_sport_plus7/index.m3u8
+#EXTINF:-1,al_ahly
+http://edge20.magictvbox.com/live/al_ahly/index.m3u8
+#EXTINF:-1,al_ahly_plus7
+http://edge21.magictvbox.com/live/al_ahly_plus7/index.m3u8
+#EXTINF:-1,abu_dhabi_sports
+http://edge23.magictvbox.com/live/abu_dhabi_sports/index.m3u8
+#EXTINF:-1,france_24_arabic
+http://edge20.magictvbox.com/live/france_24_arabic/index.m3u8
+#EXTINF:-1,russia_today
+http://edge23.magictvbox.com/live/russia_today/index.m3u8
+#EXTINF:-1,bbc_arabic
+http://edge22.magictvbox.com/live/bbc_arabic/index.m3u8
+#EXTINF:-1,semsem/
+http://edge23.magictvbox.com/live/semsem/index.m3u8
+#EXTINF:-1,koky_kids
+http://edge22.magictvbox.com/live/koky_kids/index.m3u8
+#EXTINF:-1,kidzinia
+http://edge22.magictvbox.com/live/kidzinia/index.m3u8
+#EXTINF:-1,sat7_kids
+http://edge23.magictvbox.com/live/sat7_kids/index.m3u8
+#EXTINF:-1,ctv
+http://edge21.magictvbox.com/live/ctv/index.m3u8
+#EXTINF:-1,logos
+http://edge21.magictvbox.com/live/logos/index.m3u8
+#EXTINF:-1,cyc_tv/
+http://edge23.magictvbox.com/live/cyc_tv/index.m3u8
+#EXTINF:-1,coptic_sat
+http://edge20.magictvbox.com/live/coptic_sat/index.m3u8
+#EXTINF:-1,el_keraza
+http://edge20.magictvbox.com/live/el_keraza/index.m3u8
+#EXTINF:-1,al_karma_usa
+http://edge21.magictvbox.com/live/al_karma_usa/index.m3u8
+#EXTINF:-1,al_karma_middle_east
+http://edge21.magictvbox.com/live/al_karma_middle_east/index.m3u8
+#EXTINF:-1,the_way
+http://edge23.magictvbox.com/live/the_way/index.m3u8
+#EXTINF:-1,al_malakoot_sat
+http://edge22.magictvbox.com/live/al_malakoot_sat/index.m3u8
+#EXTINF:-1,alhayat_christian
+http://edge21.magictvbox.com/live/alhayat_christian/index.m3u8
+#EXTINF:-1,sat7_arabic
+http://edge23.magictvbox.com/live/sat7_arabic/index.m3u8
+#EXTINF:-1,christ_sat
+http://edge21.magictvbox.com/live/christ_sat/index.m3u8
+#EXTINF:-1,me_sat
+http://edge20.magictvbox.com/live/me_sat/index.m3u8
+#EXTINF:-1,aghapy_tv
+http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
+#EXTINF:-1,aghapy
+http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
 #EXTINF:-1,group-title=Sports,[COLOR blue]Al Nahar Sports[/COLOR]
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -615,6 +731,66 @@ rtmpe://l.xuscacamusca.se/r/ playpath=bn8635 swfUrl=http://mybeststream.xyz/NmQ3
 rtmpe://l.xuscacamusca.se/r/ playpath=bn9142 swfUrl=http://mybeststream.xyz/NmQ3N2E4YWJiYjg5NjFhODU0ZTQ1MWQz/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/?id=28346&width=100%&height=100%
 #EXTINF:-1,bein 10 Server 2
 rtmpe://l.xuscacamusca.se/r/ playpath=bn10846 swfUrl=http://mybeststream.xyz/NmQ3N2E4YWJiYjg5NjFhODU0ZTQ1MWQz/jwplayer.flash.swf pageUrl=http://mybeststream.xyz/?id=28346&width=100%&height=100%
+#EXTINF:-1,BeinSport 1 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/1.ts
+#EXTINF:-1,BeinSport 2 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/2.ts
+#EXTINF:-1,BeinSport 3 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/3.ts
+#EXTINF:-1,BeinSport 4 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/4.ts
+#EXTINF:-1,BeinSport 5 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/5.ts
+#EXTINF:-1,BeinSport 6 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/6.ts
+#EXTINF:-1,BeinSport 7 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/7.ts
+#EXTINF:-1,BeinSport 8 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/8.ts
+#EXTINF:-1,BeinSport 9 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/9.ts
+#EXTINF:-1,BeinSport 10 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/10.ts
+#EXTINF:-1,BeinSport 11 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/11.ts
+#EXTINF:-1,BeinSport 12 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/12.ts
+#EXTINF:-1,BeinSport 13 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/13.ts
+#EXTINF:-1,BeinSport 14 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/14.ts
+#EXTINF:-1,BeinSport 15 HD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/15.ts
+#EXTINF:-1,BeinSport 1 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/79.ts
+#EXTINF:-1,BeinSport 2 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/80.ts
+#EXTINF:-1,BeinSport 3 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/81.ts
+#EXTINF:-1,BeinSport 4 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/82.ts
+#EXTINF:-1,BeinSport 5 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/83.ts
+#EXTINF:-1,BeinSport 6 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/84.ts
+#EXTINF:-1,BeinSport 7 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/85.ts
+#EXTINF:-1,BeinSport 8 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/86.ts
+#EXTINF:-1,BeinSport 9 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/87.ts
+#EXTINF:-1,BeinSport 10 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/116.ts
+#EXTINF:-1,BeinSport 11 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/117.ts
+#EXTINF:-1,BeinSport 12 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/118.ts
+#EXTINF:-1,BeinSport 13 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/119.ts
+#EXTINF:-1,BeinSport 14 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/120.ts
+#EXTINF:-1,BeinSport 15 SD
+http://144.76.44.78:8000/live/Royal/Skype:Micro2me/121.ts
 #EXTINF:-1,ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
 #EXTINF:-1,ESPN2
