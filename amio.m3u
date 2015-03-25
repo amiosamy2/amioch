@@ -689,6 +689,20 @@ http://185.38.12.20:8088/sport1/
 http://185.38.12.20:8088/eurosport/
 #EXTINF:-1,Eurosport 2
 http://185.38.12.20:8088/eurosport2/
+#‎EXTINF‬:-1,Sky Sports 1
+http://198.27.94.105/hls/08ec7ff2ef9edbad23896cc67fceacf1.m3u8
+#EXTINF:-1,Sky sports 2
+http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8
+#EXTINF:-1,Sky Sports 3
+http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8
+#EXTINF:-1,Sky Sports 4
+http://198.27.94.105/hls/39618065659a8c0c3384e140371db91e.m3u8
+#EXTINF:-1,Sky Sports 5
+http://198.27.94.105/hls/0990d7f8faca7d7e885e5a21297ca878.m3u8
+#EXTINF:-1,BT Sports 1
+http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8
+#EXTINF:-1,BT Sports 2
+http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
