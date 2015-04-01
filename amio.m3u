@@ -483,6 +483,88 @@ http://edge20.magictvbox.com/live/me_sat/index.m3u8
 http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
 #EXTINF:-1,aghapy
 http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
+#EXTINF:-1,Rotana Masriya
+rtmp://144.76.140.144:1935/jr1/RotanaMasriya
+#EXTINF:-1,Rotana Classic
+rtmp://144.76.140.144:1935/jr1/RotanaClassic
+#EXTINF:-1,Rotana Cinema
+rtmp://144.76.140.144:1935/jr1/RotanaCinema
+#EXTINF:-1,MBC 1
+rtmp://144.76.140.144:1935/jr1/MBC-1
+#EXTINF:-1,MBC 2
+rtmp://144.76.140.144:1935/jr1/MBC2
+#EXTINF:-1,MBC Action
+rtmp://144.76.140.144:1935/jr1/MBCAction
+#EXTINF:-1,MBC MAX
+rtmp://144.76.140.144:1935/jr1/MBCMAX
+#EXTINF:-1,MBC Maser
+rtmp://144.76.140.144:1935/jr1/MBCMaser
+#EXTINF:-1,MBC Maser2
+rtmp://144.76.140.144:1935/jr1/MBCMaser2
+#EXTINF:-1,MBC Drama
+rtmp://144.76.140.144:1935/jr1/MBCDrama
+#EXTINF:-1,Nile Cinema
+rtmp://144.76.140.144:1935/jr1/NileCinema
+#EXTINF:-1,Nile Comedy
+rtmp://144.76.140.144:1935/jr1/NileComedy
+#EXTINF:-1,Nile Life
+rtmp://144.76.140.144:1935/jr1/NileLife
+#EXTINF:-1,Nile Sports
+rtmp://144.76.140.144:1935/jr1/NileSports
+#EXTINF:-1,Nile News
+rtmp://144.76.140.144:1935/jr1/NileNews
+#EXTINF:-1,Al Masriya
+rtmp://144.76.140.144:1935/jr1/AlMasriya
+#EXTINF:-1,AlThanya
+rtmp://144.76.140.144:1935/jr1/AlThanya
+#EXTINF:-1,Alhayah 1
+rtmp://144.76.140.144:1935/jr1/Alhayah1
+#EXTINF:-1,Alhayah 2
+rtmp://144.76.140.144:1935/jr1/Alhayah2
+#EXTINF:-1,Alhayah Cinema
+rtmp://144.76.140.144:1935/jr1/AlhayahCinema
+#EXTINF:-1,Alhayah Mosalsalat
+rtmp://144.76.140.144:1935/jr1/AlhayahMosalsalat
+#EXTINF:-1,ON TV
+rtmp://144.76.140.144:1935/jr1/ONTV
+#EXTINF:-1,Mehwer
+rtmp://144.76.140.144:1935/jr1/Mehwer
+#EXTINF:-1,Al Kahera Wal Nas
+rtmp://144.76.140.144:1935/jr1/AlKaheraWalNas
+#EXTINF:-1,CBC 1
+rtmp://144.76.140.144:1935/jr1/CBC1
+#EXTINF:-1,CBC Drama
+rtmp://144.76.140.144:1935/jr1/CBCDrama
+#EXTINF:-1,CBC Extra
+rtmp://144.76.140.144:1935/jr1/CBCExtra
+#EXTINF:-1,Al Nahar
+rtmp://144.76.140.144:1935/jr1/AlNahar
+#EXTINF:-1,Al Nahar Drama
+rtmp://144.76.140.144:1935/jr1/AlNaharDrama
+#EXTINF:-1,Dream 2
+rtmp://144.76.140.144:1935/jr1/Dream2
+#EXTINF:-1,LBC Sat
+rtmp://144.76.140.144:1935/jr1/LBCSat
+#EXTINF:-1,Future TV
+rtmp://144.76.140.144:1935/jr1/FutureTV
+#EXTINF:-1,Al Sharqiya
+rtmp://144.76.140.144:1935/jr1/AlSharqiya
+#EXTINF:-1,Sada El Balad
+rtmp://144.76.140.144:1935/jr1/SadaElBalad
+#EXTINF:-1,Faraeen
+rtmp://144.76.140.144:1935/jr1/Faraeen
+#EXTINF:-1,Al Tahrir
+rtmp://144.76.140.144:1935/jr1/AlTahrir
+#EXTINF:-1,Abu Dhabi 1
+rtmp://144.76.140.144:1935/jr1/AbuDhabi1
+#EXTINF:-1,Saudi Sunah
+rtmp://144.76.140.144:1935/jr1/SaudiSunah
+#EXTINF:-1,Saudi Quran
+rtmp://144.76.140.144:1935/jr1/SaudiQuran
+#EXTINF:-1,BBC Arabic
+rtmp://144.76.140.144:1935/jr1/BBCArabic
+#EXTINF:-1,Al Arabiya
+rtmp://144.76.140.144:1935/jr1/AlArabiya
 #EXTINF:-1,Alhayat 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
 #EXTINF:-1,Alhayat Cinema
