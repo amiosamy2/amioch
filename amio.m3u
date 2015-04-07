@@ -2,11 +2,19 @@
 #EXTINF:-1,group-title=Christian,ACC
 http://stream.acctv.com.au/index.m3u8
 #EXTINF:-1,Al Waad Tv
-rtmp://amsix17.streamkit.tv:80/edge/_definst_ playpath=hcmena_200?cn=hcmena swfUrl=http://web.streamkit.tv/clientStrobe/strobe-media-playback-2.0.24.swf pageUrl=http://play.streamkit.tv/content/channel/hcmena/live/hcmena.fplayer.html?autoPlay=true
+rtmp://amsix17.streamkit.tv:80/edge/_definst_/hcmena_200?cn=hcmena
 #EXTINF:-1,ATV SAT
-rtmp://mobile.atvsat.anharnet.org:1935/atvsatlive playpath=atvsatlive2 swfUrl=http://atvsat.com/liveplayer/player.swf pageUrl=http://www.atvsat.com/watch-live
+rtmp://videos.atvsat.com/atvsatlive/atvsatlive2
 #EXTINF:-1,ABNSAT
-rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live/ playpath=stream-600k?streamType=LiveStream swfUrl=http://www.abnsat.com/LLNWPlayer.swf pageUrl=http://www.abnsat.com/index.php?option=com_content&view=article&id=119&Itemid=178&lang=en
+rtmp://abnarabiclivefs.fplive.net/abnarabiclive-live//stream-600k
+#EXTINF:-1,Trinity channel
+rtmp://abnenglishlivefs.fplive.net/abnenglishlive-live//stream-600k
+#EXTINF:-1,Surath channel
+rtmp://surath.abnsat.com/surath//live
+#EXTINF:-1,Al Quddoos channel
+rtmp://alquddoos.abnsat.com/alquddoos//live
+#EXTINF:-1,Worship channel
+rtmp://abnworshipchannellivefs.fplive.net/abnworshipchannellive-live//stream-600k
 #EXTINF:-1,Alfady TV
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/playlist.m3u8
 #EXTINF:-1,Al Hayat
@@ -28,27 +36,23 @@ rtmp://156.obj.netromedia.net/elkerazatv playpath=elkerazatv swfUrl=http://playe
 #EXTINF:-1,Al-Horreya
 http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 #EXTINF:-1,Amazing Facts TV
-http://bglive-w.bitgravity.com/amazingfacts/live/feed01
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w2144878509.m3u8
 #EXTINF:-1,CTV
 http://sc-e1.streamcyclone.com:1935/ctvch_live/ctvch/playlist.m3u8
 #EXTINF:-1,CYC
 rtmp://cycnow.az-streamingserver.com:3333/live playpath=cyc2 swfUrl=http://cycnow.com/players/swf/1.6.32StrobeMediaPlayback.swf pageUrl=http://cycnow.com/site/live-streaming
 #EXTINF:-1,Copticsat TV
-rtmp://media.smc-host.com:1935/csat.tv/_definst_ playpath=mp4:csat2 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://csat.tv/
-#EXTINF:-1,CBN TV
-mmsh://live1.cbn.org/iptv1
-#EXTINF:-1,CBN News
-rtmp://cp145180.live.edgefcs.net/live//newschannel_1_500@42322
+rtmp://media.smc-host.com/csat.tv/_definst_/mp4:csat2
 #EXTINF:-1,Charity
 http://livestreaming.ositcom.net:1935/tvcharity/tvCharityStream/playlist.m3u8
 #EXTINF:-1,Daystar TV
-http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
+http://brightcove03-f.akamaihd.net/daystar_HD_720@112478?videoId=3794843439001&lineUpId=&pubId=1539097700001&playerId=3790151843001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2017,0,0,134&r=WXKYA&g=SRYTCQPEYXQU
 #EXTINF:-1,Hope TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-1/2.m3u8
 #EXTINF:-1,Hope Church Channel
 http://bcoveliveios-i.akamaihd.net/hls/live/201459/753071706001-3/2.m3u8
 #EXTINF:-1,Logos TV
-http://68.235.37.110/logoschannel.com/hls/logostv2.m3u8
+http://68.235.37.110:1935/logoschannel.com/smil:logostv.smil/playlist.m3u8
 #EXTINF:-1,Kingdom TV
 http://digital.ios.internapcdn.net/digital/live_1/kingdomtvlive/kingdomtvlive.m3u8
 #EXTINF:-1,KDEC
@@ -56,11 +60,11 @@ http://79.125.127.107:1935/live/kdec/playlist.m3u8
 #EXTINF:-1,JCTV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186244/master.m3u8
 #EXTINF:-1,MESAT
-rtmp://sc-e1.streamcyclone.com:1935/MeSatWeb playpath=MeSatChannel swfUrl=http://copticpope.tv/flowplayer-3.2.7.swf pageUrl=http://copticpope.tv/
+rtmp://roku-stream.mine.nu:1935/koko/_definst_/MeSatChannel
 #EXTINF:-1,Miracle TV
 rtmp://flash0.80205-live0.dna.qbrick.com/80205-live0/troens2
 #EXTINF:-1,New Life Egypt
-rtmp://50.16.71.4:1935/KPtG5sK playpath=newlifeegypt swfUrl=http://www.streammonkey.com/_jw/player.swf pageUrl=http://www.streammonkey.com/iframe/517
+http://lhstrm.cdnls.net/live/smil:NewLifeTV.smil/chunklist_w1180523994_b446000.m3u8
 #EXTINF:-1,Noursat AlShabab
 http://fl1.viastreaming.net/nouralchabab/livestream/playlist.m3u8
 #EXTINF:-1,Noursat
@@ -483,88 +487,84 @@ http://edge20.magictvbox.com/live/me_sat/index.m3u8
 http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
 #EXTINF:-1,aghapy
 http://edge23.magictvbox.com/live/aghapy_tv_middle_east/index.m3u8
-#EXTINF:-1,Rotana Masriya
-rtmp://144.76.140.144:1935/jr1/RotanaMasriya
-#EXTINF:-1,Rotana Classic
-rtmp://144.76.140.144:1935/jr1/RotanaClassic
-#EXTINF:-1,Rotana Cinema
-rtmp://144.76.140.144:1935/jr1/RotanaCinema
-#EXTINF:-1,MBC 1
-rtmp://144.76.140.144:1935/jr1/MBC-1
-#EXTINF:-1,MBC 2
-rtmp://144.76.140.144:1935/jr1/MBC2
-#EXTINF:-1,MBC Action
-rtmp://144.76.140.144:1935/jr1/MBCAction
-#EXTINF:-1,MBC MAX
-rtmp://144.76.140.144:1935/jr1/MBCMAX
-#EXTINF:-1,MBC Maser
-rtmp://144.76.140.144:1935/jr1/MBCMaser
-#EXTINF:-1,MBC Maser2
-rtmp://144.76.140.144:1935/jr1/MBCMaser2
-#EXTINF:-1,MBC Drama
-rtmp://144.76.140.144:1935/jr1/MBCDrama
-#EXTINF:-1,Nile Cinema
-rtmp://144.76.140.144:1935/jr1/NileCinema
-#EXTINF:-1,Nile Comedy
-rtmp://144.76.140.144:1935/jr1/NileComedy
-#EXTINF:-1,Nile Life
-rtmp://144.76.140.144:1935/jr1/NileLife
-#EXTINF:-1,Nile Sports
-rtmp://144.76.140.144:1935/jr1/NileSports
-#EXTINF:-1,Nile News
-rtmp://144.76.140.144:1935/jr1/NileNews
-#EXTINF:-1,Al Masriya
-rtmp://144.76.140.144:1935/jr1/AlMasriya
-#EXTINF:-1,AlThanya
-rtmp://144.76.140.144:1935/jr1/AlThanya
-#EXTINF:-1,Alhayah 1
-rtmp://144.76.140.144:1935/jr1/Alhayah1
-#EXTINF:-1,Alhayah 2
-rtmp://144.76.140.144:1935/jr1/Alhayah2
-#EXTINF:-1,Alhayah Cinema
-rtmp://144.76.140.144:1935/jr1/AlhayahCinema
-#EXTINF:-1,Alhayah Mosalsalat
-rtmp://144.76.140.144:1935/jr1/AlhayahMosalsalat
-#EXTINF:-1,ON TV
-rtmp://144.76.140.144:1935/jr1/ONTV
-#EXTINF:-1,Mehwer
-rtmp://144.76.140.144:1935/jr1/Mehwer
-#EXTINF:-1,Al Kahera Wal Nas
-rtmp://144.76.140.144:1935/jr1/AlKaheraWalNas
-#EXTINF:-1,CBC 1
-rtmp://144.76.140.144:1935/jr1/CBC1
-#EXTINF:-1,CBC Drama
-rtmp://144.76.140.144:1935/jr1/CBCDrama
-#EXTINF:-1,CBC Extra
-rtmp://144.76.140.144:1935/jr1/CBCExtra
-#EXTINF:-1,Al Nahar
-rtmp://144.76.140.144:1935/jr1/AlNahar
-#EXTINF:-1,Al Nahar Drama
-rtmp://144.76.140.144:1935/jr1/AlNaharDrama
-#EXTINF:-1,Dream 2
-rtmp://144.76.140.144:1935/jr1/Dream2
-#EXTINF:-1,LBC Sat
-rtmp://144.76.140.144:1935/jr1/LBCSat
-#EXTINF:-1,Future TV
-rtmp://144.76.140.144:1935/jr1/FutureTV
-#EXTINF:-1,Al Sharqiya
-rtmp://144.76.140.144:1935/jr1/AlSharqiya
-#EXTINF:-1,Sada El Balad
-rtmp://144.76.140.144:1935/jr1/SadaElBalad
-#EXTINF:-1,Faraeen
-rtmp://144.76.140.144:1935/jr1/Faraeen
-#EXTINF:-1,Al Tahrir
-rtmp://144.76.140.144:1935/jr1/AlTahrir
-#EXTINF:-1,Abu Dhabi 1
+#EXTINF:-1,NileCinema 
+rtmp://144.76.140.144:1935/jr1/NileCinema 
+#EXTINF:-1,NileComedy 
+rtmp://144.76.140.144:1935/jr1/NileComedy 
+#EXTINF:-1,NileLife 
+rtmp://144.76.140.144:1935/jr1/NileLife 
+#EXTINF:-1,NileSports 
+rtmp://144.76.140.144:1935/jr1/NileSports 
+#EXTINF:-1,NileNews 
+rtmp://144.76.140.144:1935/jr1/NileNews 
+#EXTINF:-1,AlMasriya 
+rtmp://144.76.140.144:1935/jr1/AlMasriya 
+#EXTINF:-1,AlThanya 
+rtmp://144.76.140.144:1935/jr1/AlThanya 
+#EXTINF:-1,RotanaMasriya 
+rtmp://144.76.140.144:1935/jr1/RotanaMasriya 
+#EXTINF:-1,RotanaClassic 
+rtmp://144.76.140.144:1935/jr1/RotanaClassic 
+#EXTINF:-1,RotanaCinema 
+rtmp://144.76.140.144:1935/jr1/RotanaCinema 
+#EXTINF:-1,MBCMaser 
+rtmp://144.76.140.144:1935/jr1/MBCMaser 
+#EXTINF:-1,MBCMaser2 
+rtmp://144.76.140.144:1935/jr1/MBCMaser2 
+#EXTINF:-1,MBCDrama 
+rtmp://144.76.140.144:1935/jr1/MBCDrama 
+#EXTINF:-1,MBC-1 
+rtmp://144.76.140.144:1935/jr1/MBC-1 
+#EXTINF:-1,MBC2 
+rtmp://144.76.140.144:1935/jr1/MBC2 
+#EXTINF:-1,MBCAction 
+rtmp://144.76.140.144:1935/jr1/MBCAction 
+#EXTINF:-1,MBCMAX 
+rtmp://144.76.140.144:1935/jr1/MBCMAX 
+#EXTINF:-1,Alhayah1 
+rtmp://144.76.140.144:1935/jr1/Alhayah1 
+#EXTINF:-1,Alhayah2 
+rtmp://144.76.140.144:1935/jr1/Alhayah2 
+#EXTINF:-1,AlhayahCinema 
+rtmp://144.76.140.144:1935/jr1/AlhayahCinema 
+#EXTINF:-1,AlhayahMosalsalat 
+rtmp://144.76.140.144:1935/jr1/AlhayahMosalsalat 
+#EXTINF:-1,ONTV 
+rtmp://144.76.140.144:1935/jr1/ONTV 
+#EXTINF:-1,Mehwer 
+rtmp://144.76.140.144:1935/jr1/Mehwer 
+#EXTINF:-1,AlKaheraWalNas 
+rtmp://144.76.140.144:1935/jr1/AlKaheraWalNas 
+#EXTINF:-1,CBC1 
+rtmp://144.76.140.144:1935/jr1/CBC1 
+#EXTINF:-1,CBCDrama 
+rtmp://144.76.140.144:1935/jr1/CBCDrama 
+#EXTINF:-1,CBCExtra 
+rtmp://144.76.140.144:1935/jr1/CBCExtra 
+#EXTINF:-1,AlNahar 
+rtmp://144.76.140.144:1935/jr1/AlNahar 
+#EXTINF:-1,AlNaharDrama 
+rtmp://144.76.140.144:1935/jr1/AlNaharDrama 
+#EXTINF:-1,Dream2 
+rtmp://144.76.140.144:1935/jr1/Dream2 
+#EXTINF:-1,LBCSat 
+rtmp://144.76.140.144:1935/jr1/LBCSat 
+#EXTINF:-1,FutureTV 
+rtmp://144.76.140.144:1935/jr1/FutureTV 
+#EXTINF:-1,AlSharqiya 
+rtmp://144.76.140.144:1935/jr1/AlSharqiya 
+#EXTINF:-1,SadaElBalad 
+rtmp://144.76.140.144:1935/jr1/SadaElBalad 
+#EXTINF:-1,BBCArabic 
+rtmp://144.76.140.144:1935/jr1/BBCArabic 
+#EXTINF:-1,AlArabiya 
+rtmp://144.76.140.144:1935/jr1/AlArabiya 
+#EXTINF:-1,Faraeen 
+rtmp://144.76.140.144:1935/jr1/Faraeen 
+#EXTINF:-1,AlTahrir 
+rtmp://144.76.140.144:1935/jr1/AlTahrir 
+#EXTINF:-1,AbuDhabi1 
 rtmp://144.76.140.144:1935/jr1/AbuDhabi1
-#EXTINF:-1,Saudi Sunah
-rtmp://144.76.140.144:1935/jr1/SaudiSunah
-#EXTINF:-1,Saudi Quran
-rtmp://144.76.140.144:1935/jr1/SaudiQuran
-#EXTINF:-1,BBC Arabic
-rtmp://144.76.140.144:1935/jr1/BBCArabic
-#EXTINF:-1,Al Arabiya
-rtmp://144.76.140.144:1935/jr1/AlArabiya
 #EXTINF:-1,Alhayat 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
 #EXTINF:-1,Alhayat Cinema
@@ -660,33 +660,45 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=rcl swfUrl=http://iptv-planet.com
 #EXTINF:-1,Tunisia national 2
 rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
 #EXTINF:-1,Zee Aflam
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_zeeaflem swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/ timeout=20http://arabic.dynns.com:1935/arabic/2MMaroc/chunklist_w420985993.m3u8?wmsAuthSign
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
 http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
-#EXTINF:-1,bein 2
-rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,bein 1
-rtmp://89.248.169.48/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,bein 1
-rtmp://195.154.235.85:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bein 2
-rtmp://195.154.232.181:80/liverepeater playpath=302402 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bein 3
-rtmp://89.248.168.57/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,bein 3
-rtmp://195.154.235.85:80/liverepeater playpath=302403 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bein 4
-rtmp://195.154.252.188:80/liverepeater playpath=302404 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bein 4
-rtmp://89.248.172.95/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,bein 1
-rtmp://195.154.168.214:80/liverepeater playpath=302401 swfUrl=http://cdn.goodcast.co/players.swf live=1 pageUrl=http://goodcast.co/simple_tv token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,bein 1
-rtmp://94.102.63.54/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
-#EXTINF:-1,bein 1
-rtmp://93.174.93.230/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/simple_tv token=#ed%h0#w18623jsda6523lDGD
+#EXTINF:-1,beIN 1
+http://91.109.20.227:8080/TV0801
+#EXTINF:-1,beIN 2
+http://91.109.20.227:8080/TV0802
+#EXTINF:-1,beIN 3
+http://91.109.20.227:8080/TV0803
+#EXTINF:-1,beIN 4
+http://91.109.20.227:8080/TV0804
+#EXTINF:-1,beIN 5
+http://91.109.20.227:8080/TV0805
+#EXTINF:-1,CBS2
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:-1,FOX11
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:-1,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:-1,Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:-1,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:-1,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:-1,ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:-1,NBC4
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:-1,Espn UK
+rtmp://80.82.78.29:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,English Tv
+rtmp://31.220.0.195:80/live app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=nbar&vw=620&vh=490 playpath=nbar live=1 token=%Zrey(nKa@#Z
+#EXTINF:-1,Euro sport
+rtmp://94.102.49.126:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=28&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,Euro sport 2
+rtmp://94.102.49.126:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=21&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
 #EXTINF:-1,ESPN2
@@ -763,16 +775,22 @@ http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
 #EXTINF:-1,TSN 5 720 HD
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
-#EXTINF:-1,skysports1
-http://198.27.94.105/hls/08ec7ff2ef9edbad23896cc67fceacf1.m3u8
-#EXTINF:-1,skysports3
-http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8
-#EXTINF:-1,skysports4
-http://198.27.94.105/hls/39618065659a8c0c3384e140371db91e.m3u8
-#EXTINF:-1,skysports5
-http://198.27.94.105/hls/0990d7f8faca7d7e885e5a21297ca878.m3u8
-#EXTINF:-1,BT Sport 1
-http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8
+#EXTINF:-1,BIG TEN SPORTS
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#‎EXTINF‬:-1,Sky sports 1
+rtmp://80.82.78.26:443/liverepeater playpath=30 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=30&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,Sky sports 2
+rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,Sky sports 3
+rtmp://80.82.78.26:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,Sky sports 4
+rtmp://80.82.78.87:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=16&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,Sky sports 5
+rtmp://89.248.171.90:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,BT sport 1
+rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH
+#‎EXTINF‬:-1,BT sport 2
+rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,SPORTS
 http://185.38.12.20:8088/sport/
 #EXTINF:-1,1 SPORT
@@ -781,40 +799,6 @@ http://185.38.12.20:8088/sport1/
 http://185.38.12.20:8088/eurosport/
 #EXTINF:-1,Eurosport 2
 http://185.38.12.20:8088/eurosport2/
-#‎EXTINF‬:-1,Sky Sports 1
-http://198.27.94.105/hls/08ec7ff2ef9edbad23896cc67fceacf1.m3u8
-#EXTINF:-1,Sky sports 2
-http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8
-#EXTINF:-1,Sky Sports 3
-http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8
-#EXTINF:-1,Sky Sports 4
-http://198.27.94.105/hls/39618065659a8c0c3384e140371db91e.m3u8
-#EXTINF:-1,Sky Sports 5
-http://198.27.94.105/hls/0990d7f8faca7d7e885e5a21297ca878.m3u8
-#EXTINF:-1,BT Sports 1
-http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8
-#EXTINF:-1,BT Sports 2
-http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8
-#EXTINF:-1,SuperTennis HD
-http://zhuki.herokuapp.com/live/736/index.m3u8
-#EXTINF:-1,SuperSport 1
-http://zhuki.herokuapp.com/live/733/index.m3u8
-#EXTINF:-1,SuperSport 2
-http://zhuki.herokuapp.com/live/734/index.m3u8
-#EXTINF:-1,SuperSport 3
-http://zhuki.herokuapp.com/live/741/index.m3u8
-#EXTINF:-1,SuperSport 4
-http://zhuki.herokuapp.com/live/743/index.m3u8
-#EXTINF:-1,SuperSport 1 HD
-http://zhuki.herokuapp.com/live/780/index.m3u8
-#EXTINF:-1,SuperSport 2 HD
-http://zhuki.herokuapp.com/live/781/index.m3u8
-#EXTINF:-1,S Kosova HD 1
-http://zhuki.herokuapp.com/live/746/index.m3u8
-#EXTINF:-1,Euro Sport
-http://zhuki.herokuapp.com/live/814/index.m3u8
-#EXTINF:-1,Euro Sport 2
-http://zhuki.herokuapp.com/live/815/index.m3u8
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
@@ -831,22 +815,10 @@ http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
 #EXTINF:-1,AXN HD
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
-#EXTINF:-1,Action Plus L1
-http://185.4.83.195:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L2
-http://185.4.83.202:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L3
-http://185.4.83.203:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
-#EXTINF:-1,Action Plus L4
-http://46.40.73.66:1935/tv10/smil:actionplus_hd_mobile.smil/playlist.m3u8
 #EXTINF:-1,BBC
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
 #EXTINF:-1,BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
-#EXTINF:-1,bollywoodcinema2
-rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
-#EXTINF:-1,bollywoodhungama
-rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
 #EXTINF:-1,CINECANAL
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
 #EXTINF:-1,CINECANAL +
@@ -863,10 +835,6 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
 #EXTINF:-1,D. CIVILIZATION
 http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
-#EXTINF:-1,DISCOVERY KIDS
-http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
-#EXTINF:-1,DISCOVERY KIDS
-rtmp://31.204.128.74/live/master24
 #EXTINF:-1,E
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
 #EXTINF:-1,FX
@@ -935,10 +903,6 @@ http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://185.38.12.20:8088/natgeo/
-#EXTINF:-1,OK Bambino
-http://83.139.104.108/Content/HLS/Live/Channel(OK_Bambino)/Stream(03)/index.m3u8
-#EXTINF:-1,Orlando Kids
-http://83.139.104.108/Content/HLS/Live/Channel(Orlando_Kids)/Stream(03)/index.m3u8
 #EXTINF:-1,Plus HD 
 http://akamai238.tibo.tv/Drepeater1/plus.stream/playlist.m3u8
 #EXTINF:-1,STAR MOVIE HD
@@ -951,14 +915,10 @@ http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
 #EXTINF:-1,STUDIO UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
-#EXTINF:-1,Travel Channel
-http://83.139.104.108/Content/HLS/Live/Channel(Travel_Channel)/Stream(03)/index.m3u8
 #EXTINF:-1,TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
 #EXTINF:-1,TLC HD
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
-#EXTINF:-1,TLC
-http://83.139.104.108/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
 #EXTINF:-1,TNT HD
 http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
 #EXTINF:-1,TNT
@@ -981,138 +941,120 @@ http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 #EXTINF:-1,WARNER HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
-#EXTINF:-1,SKY İNFO
-http://93.184.221.133/00573D/1451/1451-0.m3u8
-#EXTINF:-1,RTE 1
-http://93.184.221.133/00573D/345/345-0.m3u8
-#EXTINF:-1,C-MORE
-http://93.184.221.133/00573D/1460/1460-0.m3u8
-#EXTINF:-1,NAT GEO
-http://93.184.221.133/00573D/338/338-0.m3u8
-#EXTINF:-1,MTV MUSİC TELEVISION
-http://93.184.221.133/00573D/1345/1345-0.m3u8
-#EXTINF:-1,MOVIES 4
-http://93.184.221.133/00573D/311/311-0.m3u8
-#EXTINF:-1,CHANNEL 6
-http://93.184.221.133/00573D/231/231-0.m3u8
-#EXTINF:-1,CHANNEL 4
-http://93.184.221.133/00573D/292/292-0.m3u8
-#EXTINF:-1,CBS REALITY
-http://93.184.221.133/00573D/713/713-0.m3u8
-#EXTINF:-1,CBS DRAMA
-http://93.184.221.133/00573D/712/712-0.m3u8
-#EXTINF:-1,CBS ACTION
-http://93.184.221.133/00573D/711/711-0.m3u8
-#EXTINF:-1,BOX NATION
-http://93.184.221.133/00573D/1222/1222-0.m3u8
-#EXTINF:-1,PLUS 3
-http://93.184.221.133/00573D/232/232-0.m3u8
-#EXTINF:-1,TG 4
-http://93.184.221.133/00573D/348/348-0.m3u8
 #EXTINF:-1,SKY NEWS
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 #EXTINF:-1,RAUTERS
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8
 #EXTINF:-1,NASA
 http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
-#EXTINF:-1,BIG TEN SPORTS
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,Fox Sports 2
-http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
-#EXTINF:-1,Fox Action Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h
-#EXTINF:-1,Fox Movies Premium HD
-http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h
-#EXTINF:-1,National Geographic HD
-http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
-#EXTINF:-1,BBC World News
-http://103.242.13.66:5000/nn_live.ts?id=bbcasia-m-h
-#EXTINF:-1,Fox Movies HD
-http://103.242.13.66:5000/nn_live.ts?id=supernet-m-h
-#EXTINF:-1,FRANCE24
-http://103.242.13.67:5000/nn_live.ts?id=france24english-m-h
-#EXTINF:-1,RT Doc
-http://103.242.13.67:5000/nn_live.ts?id=rtdoc-m-h
-#EXTINF:-1,Euronews
-http://103.242.13.67:5000/nn_live.ts?id=euronews-m-h
-#EXTINF:-1,osn sport1 hd 
-http://185.27.237.105:8082/TV0104
-#EXTINF:-1,osn Fann 
-http://185.27.237.105:8082/TV0117
-#EXTINF:-1,osn mosalsalat 
-http://185.27.237.105:8082/TV0119
-#EXTINF:-1,osn cinema 1 
-http://185.27.237.105:8082/TV0115
-#EXTINF:-1,osn cinema 2 
-http://185.27.237.105:8082/TV0116
-#EXTINF:-1,art hikayat 
-http://185.27.237.105:8082/TV0102
-#EXTINF:-1,OSN COMEDY +2 
-http://185.27.237.105:8082/TV0021
-#EXTINF:-1,OSN movie drama 
-http://185.27.237.105:8082/TV0022
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0023
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0024
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0025
-#EXTINF:-1,mgm 
-http://185.27.237.105:8082/TV0050
-#EXTINF:-1,star movie hd 
-http://185.27.237.105:8082/TV0051
-#EXTINF:-1,OSN yahalla chabab hd 
-http://185.27.237.105:8082/TV0052
-#EXTINF:-1,OSN movie 
-http://185.27.237.105:8082/TV0053
-#EXTINF:-1,OSN movie hd +2 
-http://185.27.237.105:8082/TV0054
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0055
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0056
-#EXTINF:-1,discovery channel 
-http://185.27.237.105:8082/TV0059
-#EXTINF:-1,OSN movie 
-http://185.27.237.105:8082/TV0060
-#EXTINF:-1,OSN +2 
-http://185.27.237.105:8082/TV0062
-#EXTINF:-1,OSN FIRST HD 
-http://185.27.237.105:8082/TV0063
-#EXTINF:-1,OSN ya halla hd 
-http://185.27.237.105:8082/TV0064
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0065
-#EXTINF:-1,OSN movie drama +2
-http://185.27.237.105:8082/TV0075
-#EXTINF:-1,OSN
-http://185.27.237.105:8082/TV0077
-#EXTINF:-1,tcm
-http://185.27.237.105:8082/TV0082
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0083
-#EXTINF:-1,OSN first more 
-http://185.27.237.105:8082/TV0084
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0086
-#EXTINF:-1,fashion tv 
-http://185.27.237.105:8082/TV0088
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0089
-discovery science hd 
-http://185.27.237.105:8082/TV0090
-#EXTINF:-1,discovery id
-http://185.27.237.105:8082/TV0092
-#EXTINF:-1,OSN
-http://185.27.237.105:8082/TV0093
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0091
-#EXTINF:-1,safwa 
-http://185.27.237.105:8082/TV0099
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0104
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0103
+#EXTINF:-1,Animal Planet
+http://techstream.dynns.com:1935/ind/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NTQ6NTUgQU0maGFzaF92YWx1ZT1PQnZ3blFLT2YzRDFXRVdqMDR6aXl3PT0mdmFsaWRtaW51dGVzPTI
+#EXTINF:-1,Nat Geo
+http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI
+#EXTINF:-1,Film Hits 
+http://tinyurl.com/oq3lwmm 
+#EXTINF:-1,Film Aksion 
+http://tinyurl.com/nllocd4 
+#EXTINF:-1,Film Komedi 
+http://tinyurl.com/pgw6kjw 
+#EXTINF:-1,Film Thriller 
+http://tinyurl.com/oppb4q3 
+#EXTINF:-1,Film Drame 
+http://tinyurl.com/o62tplb 
+#EXTINF:-1,Film Autor 
+http://tinyurl.com/ptu8mgk 
+#EXTINF:-1,Plus HD 
+http://tinyurl.com/ost43zc 
+#EXTINF:-1,T 
+http://tinyurl.com/pfftv2y 
+#EXTINF:-1,T+1 
+http://tinyurl.com/qjjv9th 
+#EXTINF:-1,Junior tv 
+http://tinyurl.com/nloq4b9 
+#EXTINF:-1,Bang bang 
+http://tinyurl.com/qfevgnp 
+#EXTINF:-1,Ss1 
+http://tinyurl.com/op6u3ff 
+#EXTINF:-1,Ss2 
+http://tinyurl.com/noj8gee 
+#EXTINF:-1,Ss3 
+http://tinyurl.com/p7s83ey 
+#EXTINF:-1,Ss4 
+http://tinyurl.com/phtquad 
+#EXTINF:-1,Top Channel 
+http://tinyurl.com/p7slufo 
+#EXTINF:-1,21 plus 
+http://tinyurl.com/pgs8cef 
+#EXTINF:-1,Fox life 
+http://tinyurl.com/pcywfwy 
+#EXTINF:-1,Fox Crime 
+http://tinyurl.com/pjtnol9 
+#EXTINF:-1,Travel 
+http://tinyurl.com/ouflkau 
+#EXTINF:-1,Top news 
+http://tinyurl.com/p2sajw2
+#EXTINF:-1,24-7 Movies
+http://167.114.65.88/hls/mv.m3u8
+#EXTINF:-1, crime movies
+mms://72.13.93.186/crimemovies
+#EXTINF:-1, best oldies movies
+mms://72.13.93.186/bestoldies
+#EXTINF:-1, western movies
+mms://72.13.93.186/westernsmovies
+#EXTINF:-1, movie lovers
+mms://72.13.93.186/movielovers
+#EXTINF:-1, family movies
+mms://72.13.93.186/familymovies
+#EXTINF:-1, drama movies
+mms://72.13.93.186/dramamovies
+#EXTINF:-1, comedy movies
+mms://72.13.93.186/comedymovies
+#EXTINF:-1, movies of the 60s 70s 80s
+mms://72.13.93.186/moviesofthe60s70s80s
+#EXTINF:-1, classic movies
+mms://72.13.93.186/CLASSICMOVIES
+#EXTINF:-1, classic book movies
+mms://72.13.93.186/classicbookmovies
+#EXTINF:-1, blockbuster
+mms://72.13.93.186/BLOCKBUSTER
+#EXTINF:-1, adventure movies
+mms://72.13.93.186/adventuremovies
+#EXTINF:-1, action movies
+mms://72.13.93.186/actionmovies
+#EXTINF:-1, sifi
+mms://72.13.93.186/sifi
+#EXTINF:-1, john wayne
+mms://72.13.93.186/JOHNWAYNE
+#EXTINF:-1, mystery movies
+mms://72.13.93.186/mysterymovies
+#EXTINF:-1, history in film
+mms://72.13.93.186/historyinfilm
+#EXTINF:-1, western action
+mms://72.13.93.186/westernaction
+#EXTINF:-1, victory at sea
+mms://72.13.93.186/victoryatsea
+#EXTINF:-1, adventurous women
+mms://72.13.93.186/adventurouswomen
+#EXTINF:-1, why we fight
+mms://72.13.93.186/whywefight
+#EXTINF:-1, sheriff of cochise
+mms://72.13.93.186/sheriffofcochise
+#EXTINF:-1, hoppity hooper
+mms://72.13.93.186/hoppityhooper
+#EXTINF:-1, color westerns
+mms://72.13.93.186/colorwesterns
+#EXTINF:-1, war movies
+mms://72.13.93.186/warmovies
+#EXTINF:-1, sherlock holmes
+mms://72.13.93.186/sherlockholmes
+#EXTINF:-1, ozzie
+mms://72.13.93.186/ozzie
+#EXTINF:-1, murder my steries
+mms://72.13.93.186/murdermysteries
+#EXTINF:-1, lawan dorder
+mms://72.13.93.186/lawandorder
+#EXTINF:-1, tv detectives
+mms://72.13.93.186/tvdetectives
 #EXTINF:-1,1 group-title=Cartoon,BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
@@ -1145,6 +1087,10 @@ http://185.38.12.20:8088/disney/
 http://185.38.12.20:8088/cartoon/
 #EXTINF:-1,NICKELODEON
 http://185.38.12.20:8088/nickel/
+#EXTINF:-1,DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1,DISCOVERY KIDS
+rtmp://31.204.128.74/live/master24
 #EXTINF:-1,Tom and Jerry
 http://66.90.111.66:1935/ctv/tom/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
