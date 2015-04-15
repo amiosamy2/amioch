@@ -443,6 +443,106 @@ http://185.38.12.20:8088/sport1/
 http://185.38.12.20:8088/eurosport/
 #EXTINF:-1,Eurosport 2
 http://185.38.12.20:8088/eurosport2/
+#EXTINF:1,Sky sports F1
+http://sportztv.net/live/SportsTv/Appss/6.ts
+#EXTINF:1,Sky movies
+http://sportztv.net/live/SportsTv/Appss/7.ts
+#EXTINF:1,Setanta
+http://sportztv.net/live/SportsTv/Appss/8.ts
+#EXTINF:1,Setanta 1
+http://sportztv.net/live/SportsTv/Appss/9.ts
+#EXTINF:1,BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts
+#EXTINF:1,BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts
+#EXTINF:1,Eurosport
+http://sportztv.net/live/SportsTv/Appss/12.ts
+#EXTINF:1,Eurosport 2
+http://sportztv.net/live/SportsTv/Appss/13.ts
+#EXTINF:1,ESPN
+http://sportztv.net/live/SportsTv/Appss/14.ts
+#EXTINF:1,Box Nation
+http://sportztv.net/live/SportsTv/Appss/15.ts
+#EXTINF:1,bein sports 7
+http://sportztv.net/live/SportsTv/Appss/22.ts
+#EXTINF:1,bein sports 8
+http://sportztv.net/live/SportsTv/Appss/23.ts
+#EXTINF:1,bein sports 9
+http://sportztv.net/live/SportsTv/Appss/24.ts
+#EXTINF:1,TSN 1
+http://sportztv.net/live/SportsTv/Appss/34.ts
+#EXTINF:1,Sky bundesliga 1 HD
+http://sportztv.net/live/SportsTv/Appss/38.ts
+#EXTINF:1,bein sports 1 HD
+http://sportztv.net/live/SportsTv/Appss/31.ts
+#EXTINF:1,bein sports 2 HD
+http://sportztv.net/live/SportsTv/Appss/36.ts
+#EXTINF:1,bein sports 3 HD
+http://sportztv.net/live/SportsTv/Appss/37.ts
+#EXTINF:1,Cinema Family + 1
+http://sportztv.net/live/SportsTv/Appss/50.ts
+#EXTINF:1,Arena sport 2
+http://sportztv.net/live/SportsTv/Appss/55.ts
+#EXTINF:1,Arena sport 3
+http://sportztv.net/live/SportsTv/Appss/56.ts
+#EXTINF:1,Fox Sport 1
+http://sportztv.net/live/SportsTv/Appss/59.ts
+#EXTINF:1,Star plus india
+http://sportztv.net/live/SportsTv/Appss/61.ts
+#EXTINF:1,Sky movies Action
+http://sportztv.net/live/SportsTv/Appss/64.ts
+#EXTINF:1,itv UK
+http://sportztv.net/live/SportsTv/Appss/65.ts
+#EXTINF:1,Sport Klub 2
+http://sportztv.net/live/SportsTv/Appss/67.ts
+#EXTINF:1,super sport
+http://sportztv.net/live/SportsTv/Appss/71.ts
+#EXTINF:1,SN1
+http://sportztv.net/live/SportsTv/Appss/75.ts
+#EXTINF:1,Fox sports
+http://sportztv.net/live/SportsTv/Appss/77.ts
+#EXTINF:1,Sony Max live
+http://sportztv.net/live/SportsTv/Appss/78.ts
+#EXTINF:1,NDtv
+http://sportztv.net/live/SportsTv/Appss/79.ts
+#EXTINF:0,india tv
+http://sportztv.net/live/SportsTv/Appss/80.ts
+#EXTINF:1,bein sports MAX 4
+http://sportztv.net/live/SportsTv/Appss/93.ts
+#EXTINF:1,bein sports max 5
+http://sportztv.net/live/SportsTv/Appss/94.ts
+#EXTINF:1,bein sports HD
+http://sportztv.net/live/SportsTv/Appss/95.ts
+#EXTINF:1,bein sports 1 hd
+http://sportztv.net/live/SportsTv/Appss/114.ts
+#EXTINF:1,bein sports 2 hd
+http://sportztv.net/live/SportsTv/Appss/115.ts
+#EXTINF:1,bein sports 3 hd
+http://sportztv.net/live/SportsTv/Appss/116.ts
+#EXTINF:1,bein sports 4 hd
+http://sportztv.net/live/SportsTv/Appss/117.ts
+#EXTINF:1,bein sports 5 hd
+http://sportztv.net/live/SportsTv/Appss/118.ts
+#EXTINF:1,bein sports 6 hd
+http://sportztv.net/live/SportsTv/Appss/119.ts
+#EXTINF:1,bein sports 7 hd
+http://sportztv.net/live/SportsTv/Appss/120.ts
+#EXTINF:1,bein sports 8 hd
+http://sportztv.net/live/SportsTv/Appss/121.ts
+#EXTINF:1,bein sports 9 hd
+http://sportztv.net/live/SportsTv/Appss/122.ts
+#EXTINF:1,bein sports 10 hd
+http://sportztv.net/live/SportsTv/Appss/123.ts
+#EXTINF:1,bein sports 11 hd
+http://sportztv.net/live/SportsTv/Appss/124.ts
+#EXTINF:1,bein sports 12 hd
+http://sportztv.net/live/SportsTv/Appss/125.ts
+#EXTINF:1,bein sports 13 hd
+http://sportztv.net/live/SportsTv/Appss/126.ts
+#EXTINF:1,bein sports 14 hd
+http://sportztv.net/live/SportsTv/Appss/127.ts
+#EXTINF:1,bein sports 15 hd
+http://sportztv.net/live/SportsTv/Appss/128.ts
 #EXTINF:-1,SKY SPORTS NEWS
 rtmpe://46.246.124.22:1935/l playpath=sskysn token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,SKY SPORTS 1
@@ -489,6 +589,18 @@ rtmp://31.220.0.195:80/live/ss5ry swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash
 rtmp://31.220.0.195:80/live/atracessa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
 #EXTINF:-1,Racing UK
 rtmp://31.220.0.195:80/live/racingukx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=racingukx490&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1,Sky F1
+http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
+#EXTINF:-1,SKY SPORTS 5
+http://192.99.24.176:8080/skY5/skoK5/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://192.99.24.176:8080/skY4/sSksP4/index.m3u8
+#EXTINF:-1,SKY SPORTS 3HD
+http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8
+#EXTINF:-1,SKY SPORTS 1 HD
+http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
@@ -745,40 +857,6 @@ mms://72.13.93.186/murdermysteries
 mms://72.13.93.186/lawandorder
 #EXTINF:-1,tv detectives
 mms://72.13.93.186/tvdetectives
-#EXTINF:-1,sport3 
-http://93.184.221.133/00573D/837/837-0.m3u8
-#EXTINF:-1,SKY INFO
-http://93.184.221.133/00573D/1451/1451-0.m3u8
-#EXTINF:-1,C-MORE 
-http://93.184.221.133/00573D/1460/1460-0.m3u8
-#EXTINF:-1,NAT GEO 
-http://93.184.221.133/00573D/338/338-0.m3u8
-#EXTINF:-1,MTV MUSIC TELEVISION 
-http://93.184.221.133/00573D/1345/1345-0.m3u8
-#EXTINF:-1,MOVIES 4 
-http://93.184.221.133/00573D/311/311-0.m3u8
-#EXTINF:-1,CHANNEL 6 
-http://93.184.221.133/00573D/231/231-0.m3u8
-#EXTINF:-1,CHANNEL 4 
-http://93.184.221.133/00573D/292/292-0.m3u8
-#EXTINF:-1,CBS REALITY 
-http://93.184.221.133/00573D/713/713-0.m3u8
-#EXTINF:-1,CBS DRAMA 
-http://93.184.221.133/00573D/712/712-0.m3u8
-#EXTINF:-1,CBS ACTION 
-http://93.184.221.133/00573D/711/711-0.m3u8
-#EXTINF:-1,BOX NATION 
-http://93.184.221.133/00573D/1222/1222-0.m3u8
-#EXTINF:-1,PLUS 3
-http://93.184.221.133/00573D/232/232-0.m3u8
-#EXTINF:-1,BBC SPORT 
-http://93.184.221.133/00573D/1104/1104-0.m3u8
-#EXTINF:-1,DISCOVERY EUROPE 
-http://93.184.221.133/00573D/1347/1347-0.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://93.184.221.133/00573D/1348/1348-0.m3u8
-#EXTINF:-1,NAT GEO
-http://93.184.221.133/00573D/338/338-0.m3u8
 #EXTINF:-1,Fox Movies Action 
 http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h&hpgdisco_m3u8
 #EXTINF:-1,Fox Movies
