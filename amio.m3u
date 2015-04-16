@@ -329,6 +329,140 @@ rtmp://web.iptv-planet.com:1937/live2/Hi_mbcmax
 rtmp://63.237.48.3/live//MBC_ACTION
 #EXTINF:-1,MBC_ACTION
 rtmp://web.iptv-planet.com:1937/live2/Hi_mbcaction
+#EXTINF:-1,art hikayat
+http://185.27.237.105:8082/TV0102
+#EXTINF:-1,ART Aflam 1 
+http://91.109.20.227:8080/TV4306 
+#EXTINF:-1,Fann 
+http://185.27.237.105:8082/TV0117 
+#EXTINF:-1,moussica 
+http://91.109.20.227:8080/TV0118 
+#EXTINF:-1,mosalsalat 
+http://185.27.237.105:8082/TV0119 
+#EXTINF:-1,mosalsalat 4 
+http://185.27.237.105:8082/TV0121 
+#EXTINF:-1,cinema 1 
+http://185.27.237.105:8082/TV0115 
+#EXTINF:-1,cinema 2 
+http://185.27.237.105:8082/TV0116
+#EXTINF:-1,yahalla chabab 
+http://185.27.237.105:8082/TV0052 
+#EXTINF:-1,OMN COMEDY +2
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1,OMN movie drama
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0024
+#EXTINF:-1,OMN movie hd
+http://185.27.237.105:8082/TV0025
+#EXTINF:-1,mgm
+http://185.27.237.105:8082/TV0050
+#EXTINF:-1,star movie hd
+http://185.27.237.105:8082/TV0051
+#EXTINF:-1,omn yahalla chabab hd
+http://185.27.237.105:8082/TV0052
+#EXTINF:-1,omn movie
+http://185.27.237.105:8082/TV0053
+#EXTINF:-1,omn movie hd +2
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,omn movie hd
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1,omn movie hd
+http://185.27.237.105:8082/TV0056
+#EXTINF:-1,discovery channel
+http://185.27.237.105:8082/TV0059
+#EXTINF:-1,OMN movie
+http://185.27.237.105:8082/TV0060
+#EXTINF:-1,OMN +2
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1,OMN FIRST HD
+http://185.27.237.105:8082/TV0063
+#EXTINF:-1,omn ya halla hd
+http://185.27.237.105:8082/TV0064
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0065
+#EXTINF:-1,OMN movie drama +2
+http://185.27.237.105:8082/TV0075
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0077
+#EXTINF:-1,tcm
+http://185.27.237.105:8082/TV0082
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0083
+#EXTINF:-1,OMN first more
+http://185.27.237.105:8082/TV0084
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0086
+#EXTINF:-1,fashion tv
+http://185.27.237.105:8082/TV0088
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0089
+#EXTINF:-1,discovery science hd
+http://185.27.237.105:8082/TV0090
+#EXTINF:-1,discovery id
+http://185.27.237.105:8082/TV0092
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0093
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0091
+#EXTINF:-1,safwa
+http://185.27.237.105:8082/TV0099
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0104
+#EXTINF:-1,OMN
+http://185.27.237.105:8082/TV0103
+#EXTINF:-1,diseny
+http://185.27.237.105:8082/TV0110
+#EXTINF:-1,art_aflam_1
+rtmp://162.212.176.107:1935/art_aflam_1/globaltv-art_aflam_1.stream
+#EXTINF:-1,art_aflam_2
+rtmp://162.212.176.107:1935/art_aflam_2/globaltv-art_aflam_2.stream
+#EXTINF:-1,alhayat 1
+rtmp://162.212.176.107:1935/alhayat_1/globaltv-alhayat_1.stream
+#EXTINF:-1,alhayat cinema 
+rtmp://162.212.176.107:1935/alhayat_cinema/globaltv-alhayat_cinema.stream
+#EXTINF:-1,rotana_cinema
+rtmp://162.212.176.107:1935/rotana_cinema/globaltv-rotana_cinema.stream
+#EXTINF:-1,dream_1
+rtmp://162.212.176.107:1935/dream_1/globaltv-dream_1.stream
+#EXTINF:-1,melody_aflam
+rtmp://162.212.176.107:1935/melody/globaltv-melody.stream
+#EXTINF:-1,zee_alwan
+rtmp://162.212.176.107:1935/zee_alwan/globaltv-zee_alwan.stream
+#EXTINF:-1,fox_movies
+rtmp://162.212.176.107:1935/fox_movies/globaltv-fox_movies.stream
+#EXTINF:-1,Moga_Comedy
+rtmp://162.212.176.107/moga_comedy//globaltv-moga_comedy.stream
+#EXTINF:-1,cairo_cinema
+rtmp://162.212.176.107:1935/cairo_cinema/globaltv-cairo_cinema.stream
+#EXTINF:-1,cairo_drama
+rtmp://162.212.176.107:1935/cairo_drama/globaltv-cairo_drama.stream
+#EXTINF:-1,abu_dhabi
+rtmp://162.212.176.107:1935/abu_dhabi/globaltv-abu_dhabi.stream
+#EXTINF:-1,abu_dhabi_drama
+rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
+#EXTINF:-1,national_geo
+rtmp://162.212.176.107:1935/national_geo_ad/globaltv-national_geo_ad.stream
+#EXTINF:-1,MBC 3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
+#EXTINF:-1,MBC 4
+rtmp://162.212.176.107/mbc_4/globaltv-mbc_4.stream
+#EXTINF:-1,mbc_max
+rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
+#EXTINF:-1,echorouk tv
+rtmp://162.212.176.107:1935/echorouk_tv/globaltv-echorouk_tv.stream
+#EXTINF:-1,Nile Comedy
+rtmp://162.212.176.107:1935/nile_comedy/globaltv-nile_comedy.stream
+#EXTINF:-1,Nile Drama
+rtmp://162.212.176.107:1935/nile_drama/globaltv-nile_drama.stream
+#EXTINF:-1,Nile Cinema
+rtmp://162.212.176.107:1935/nile_cinema/globaltv-nile_cinema.stream
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe/globaltv-lbc_europe.stream
+#EXTINF:-1,ontv
+rtmp://50.7.180.18/elONTV/ontvlive_profile2.stream
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
@@ -357,6 +491,26 @@ http://185.56.30.127:8082/TV4010
 http://185.56.30.127:8082/TV4016
 #EXTINF:-1,bein sport fr2
 http://185.56.30.127:8082/TV4017
+#‎EXTINF‬:-1,Beinsport1HD
+rtmp://sbox.cdnss.com:1935/live/bein01?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport2HD
+rtmp://sbox.cdnss.com:1935/live/bein02?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport3HD
+rtmp://sbox.cdnss.com:1935/live/bein03?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport4HD
+rtmp://sbox.cdnss.com:1935/live/bein04?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport5HD
+rtmp://sbox.cdnss.com:1935/live/bein05?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport6HD
+rtmp://sbox.cdnss.com:1935/live/bein06?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport7HD
+rtmp://sbox.cdnss.com:1935/live/bein07?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport8HD
+rtmp://sbox.cdnss.com:1935/live/bein08?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport9HD
+rtmp://sbox.cdnss.com:1935/live/bein09?user=86p14s&pass=ktv07k
+#EXTINF:-1,Beinsport10HD
+rtmp://sbox.cdnss.com:1935/live/bein10?user=86p14s&pass=ktv07k
 #EXTINF:-1,Espn UK
 rtmp://80.82.78.29:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,English Tv
@@ -443,106 +597,18 @@ http://185.38.12.20:8088/sport1/
 http://185.38.12.20:8088/eurosport/
 #EXTINF:-1,Eurosport 2
 http://185.38.12.20:8088/eurosport2/
-#EXTINF:1,Sky sports F1
-http://sportztv.net/live/SportsTv/Appss/6.ts
-#EXTINF:1,Sky movies
-http://sportztv.net/live/SportsTv/Appss/7.ts
-#EXTINF:1,Setanta
-http://sportztv.net/live/SportsTv/Appss/8.ts
-#EXTINF:1,Setanta 1
-http://sportztv.net/live/SportsTv/Appss/9.ts
-#EXTINF:1,BT Sport 1
-http://sportztv.net/live/SportsTv/Appss/10.ts
-#EXTINF:1,BT Sport 2
-http://sportztv.net/live/SportsTv/Appss/11.ts
-#EXTINF:1,Eurosport
-http://sportztv.net/live/SportsTv/Appss/12.ts
-#EXTINF:1,Eurosport 2
-http://sportztv.net/live/SportsTv/Appss/13.ts
-#EXTINF:1,ESPN
-http://sportztv.net/live/SportsTv/Appss/14.ts
-#EXTINF:1,Box Nation
-http://sportztv.net/live/SportsTv/Appss/15.ts
-#EXTINF:1,bein sports 7
-http://sportztv.net/live/SportsTv/Appss/22.ts
-#EXTINF:1,bein sports 8
-http://sportztv.net/live/SportsTv/Appss/23.ts
-#EXTINF:1,bein sports 9
-http://sportztv.net/live/SportsTv/Appss/24.ts
-#EXTINF:1,TSN 1
-http://sportztv.net/live/SportsTv/Appss/34.ts
-#EXTINF:1,Sky bundesliga 1 HD
-http://sportztv.net/live/SportsTv/Appss/38.ts
-#EXTINF:1,bein sports 1 HD
-http://sportztv.net/live/SportsTv/Appss/31.ts
-#EXTINF:1,bein sports 2 HD
-http://sportztv.net/live/SportsTv/Appss/36.ts
-#EXTINF:1,bein sports 3 HD
-http://sportztv.net/live/SportsTv/Appss/37.ts
-#EXTINF:1,Cinema Family + 1
-http://sportztv.net/live/SportsTv/Appss/50.ts
-#EXTINF:1,Arena sport 2
-http://sportztv.net/live/SportsTv/Appss/55.ts
-#EXTINF:1,Arena sport 3
-http://sportztv.net/live/SportsTv/Appss/56.ts
-#EXTINF:1,Fox Sport 1
-http://sportztv.net/live/SportsTv/Appss/59.ts
-#EXTINF:1,Star plus india
-http://sportztv.net/live/SportsTv/Appss/61.ts
-#EXTINF:1,Sky movies Action
-http://sportztv.net/live/SportsTv/Appss/64.ts
-#EXTINF:1,itv UK
-http://sportztv.net/live/SportsTv/Appss/65.ts
-#EXTINF:1,Sport Klub 2
-http://sportztv.net/live/SportsTv/Appss/67.ts
-#EXTINF:1,super sport
-http://sportztv.net/live/SportsTv/Appss/71.ts
-#EXTINF:1,SN1
-http://sportztv.net/live/SportsTv/Appss/75.ts
-#EXTINF:1,Fox sports
-http://sportztv.net/live/SportsTv/Appss/77.ts
-#EXTINF:1,Sony Max live
-http://sportztv.net/live/SportsTv/Appss/78.ts
-#EXTINF:1,NDtv
-http://sportztv.net/live/SportsTv/Appss/79.ts
-#EXTINF:0,india tv
-http://sportztv.net/live/SportsTv/Appss/80.ts
-#EXTINF:1,bein sports MAX 4
-http://sportztv.net/live/SportsTv/Appss/93.ts
-#EXTINF:1,bein sports max 5
-http://sportztv.net/live/SportsTv/Appss/94.ts
-#EXTINF:1,bein sports HD
-http://sportztv.net/live/SportsTv/Appss/95.ts
-#EXTINF:1,bein sports 1 hd
-http://sportztv.net/live/SportsTv/Appss/114.ts
-#EXTINF:1,bein sports 2 hd
-http://sportztv.net/live/SportsTv/Appss/115.ts
-#EXTINF:1,bein sports 3 hd
-http://sportztv.net/live/SportsTv/Appss/116.ts
-#EXTINF:1,bein sports 4 hd
-http://sportztv.net/live/SportsTv/Appss/117.ts
-#EXTINF:1,bein sports 5 hd
-http://sportztv.net/live/SportsTv/Appss/118.ts
-#EXTINF:1,bein sports 6 hd
-http://sportztv.net/live/SportsTv/Appss/119.ts
-#EXTINF:1,bein sports 7 hd
-http://sportztv.net/live/SportsTv/Appss/120.ts
-#EXTINF:1,bein sports 8 hd
-http://sportztv.net/live/SportsTv/Appss/121.ts
-#EXTINF:1,bein sports 9 hd
-http://sportztv.net/live/SportsTv/Appss/122.ts
-#EXTINF:1,bein sports 10 hd
-http://sportztv.net/live/SportsTv/Appss/123.ts
-#EXTINF:1,bein sports 11 hd
-http://sportztv.net/live/SportsTv/Appss/124.ts
-#EXTINF:1,bein sports 12 hd
-http://sportztv.net/live/SportsTv/Appss/125.ts
-#EXTINF:1,bein sports 13 hd
-http://sportztv.net/live/SportsTv/Appss/126.ts
-#EXTINF:1,bein sports 14 hd
-http://sportztv.net/live/SportsTv/Appss/127.ts
-#EXTINF:1,bein sports 15 hd
-http://sportztv.net/live/SportsTv/Appss/128.ts
+#EXTINF:-1,Sky F1
+http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
+#EXTINF:-1,SKY SPORTS 5
+http://192.99.24.176:8080/skY5/skoK5/index.m3u8
+#EXTINF:-1,SKY SPORTS 4
+http://192.99.24.176:8080/skY4/sSksP4/index.m3u8
+#EXTINF:-1,SKY SPORTS 3HD
+http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
+#EXTINF:-1,SKY SPORTS 2
+http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8
+#EXTINF:-1,SKY SPORTS 1 HD
+http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
 #EXTINF:-1,SKY SPORTS NEWS
 rtmpe://46.246.124.22:1935/l playpath=sskysn token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,SKY SPORTS 1
@@ -573,34 +639,6 @@ rtmp://109.123.70.38:80/live/ss5ry swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flas
 rtmp://109.123.70.38:80/live/atracessa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=atracessa490&vw=620&vh=490 token=%Zrey(nKa@#Z
 #EXTINF:-1,Racing UK
 rtmp://109.123.70.38:80/live/racingukx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=racingukx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports News
-rtmp://31.220.0.195:80/live/snc swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports 1
-rtmp://31.220.0.195:80/live/s1rx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports 2
-rtmp://31.220.0.195:80/live/s2r swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports 3
-rtmp://31.220.0.195:80/live/s3c swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports 4
-rtmp://31.220.0.195:80/live/ssx4 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky Sports 5
-rtmp://31.220.0.195:80/live/ss5ry swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,AttheRaces
-rtmp://31.220.0.195:80/live/atracessa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=s1rx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Racing UK
-rtmp://31.220.0.195:80/live/racingukx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=racingukx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,Sky F1
-http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
-#EXTINF:-1,SKY SPORTS 5
-http://192.99.24.176:8080/skY5/skoK5/index.m3u8
-#EXTINF:-1,SKY SPORTS 4
-http://192.99.24.176:8080/skY4/sSksP4/index.m3u8
-#EXTINF:-1,SKY SPORTS 3HD
-http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
-#EXTINF:-1,SKY SPORTS 2
-http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
