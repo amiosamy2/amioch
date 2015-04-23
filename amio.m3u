@@ -304,15 +304,11 @@ http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
 #EXTINF:-1,MBC 2
 rtmp://63.237.48.8/live//MBC2
 #EXTINF:-1,MBC 3
-rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream 
-#EXTINF:-1,MBC 3
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc3
+rtmp://162.212.176.107:1935/mbc_3/globaltv-mbc_3.stream
 #EXTINF:-1,MBC 4
 http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC 4
 http://63.237.48.8/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC 4
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc4
 #EXTINF:-1,MBC 4
 rtmp://167.114.101.234:1935/live?idu=rezanr_83566078920&idn=3160815557/mbc_4
 #EXTINF:-1,MBC Drama
@@ -324,129 +320,9 @@ rtmp://63.237.48.3/live//MBC_BOLLYWOOD
 #EXTINF:-1,mbc_max
 rtmp://162.212.176.107:1935/mbc_max/globaltv-mbc_max.stream
 #EXTINF:-1,mbc_max
-rtmp://63.237.48.23/live//MBC_MAX 
-#EXTINF:-1,mbc_max
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbcmax
+rtmp://63.237.48.23/live//MBC_MAX
 #EXTINF:-1,MBC_ACTION 
 rtmp://63.237.48.3/live//MBC_ACTION
-#EXTINF:-1,MBC_ACTION
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbcaction
-#EXTINF:-1,art hikayat
-http://185.27.237.105:8082/TV0102
-#EXTINF:-1,ART Aflam 1 
-http://91.109.20.227:8080/TV4306 
-#EXTINF:-1,Fann 
-http://185.27.237.105:8082/TV0117 
-#EXTINF:-1,moussica 
-http://91.109.20.227:8080/TV0118 
-#EXTINF:-1,mosalsalat 
-http://185.27.237.105:8082/TV0119 
-#EXTINF:-1,mosalsalat 4 
-http://185.27.237.105:8082/TV0121 
-#EXTINF:-1,cinema 1 
-http://185.27.237.105:8082/TV0115 
-#EXTINF:-1,cinema 2 
-http://185.27.237.105:8082/TV0116
-#EXTINF:-1,yahalla chabab 
-http://185.27.237.105:8082/TV0052 
-#EXTINF:-1,OMN COMEDY +2
-http://185.27.237.105:8082/TV0021
-#EXTINF:-1,OMN movie drama
-http://185.27.237.105:8082/TV0022
-#EXTINF:-1,OMN movie hd
-http://185.27.237.105:8082/TV0023
-#EXTINF:-1,OMN movie hd
-http://185.27.237.105:8082/TV0024
-#EXTINF:-1,OMN movie hd
-http://185.27.237.105:8082/TV0025
-#EXTINF:-1,mgm
-http://185.27.237.105:8082/TV0050
-#EXTINF:-1,star movie hd
-http://185.27.237.105:8082/TV0051
-#EXTINF:-1,omn yahalla chabab hd
-http://185.27.237.105:8082/TV0052
-#EXTINF:-1,omn movie
-http://185.27.237.105:8082/TV0053
-#EXTINF:-1,omn movie hd +2
-http://185.27.237.105:8082/TV0054
-#EXTINF:-1,omn movie hd
-http://185.27.237.105:8082/TV0055
-#EXTINF:-1,omn movie hd
-http://185.27.237.105:8082/TV0056
-#EXTINF:-1,discovery channel
-http://185.27.237.105:8082/TV0059
-#EXTINF:-1,OMN movie
-http://185.27.237.105:8082/TV0060
-#EXTINF:-1,OMN +2
-http://185.27.237.105:8082/TV0062
-#EXTINF:-1,OMN FIRST HD
-http://185.27.237.105:8082/TV0063
-#EXTINF:-1,omn ya halla hd
-http://185.27.237.105:8082/TV0064
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0065
-#EXTINF:-1,OMN movie drama +2
-http://185.27.237.105:8082/TV0075
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0077
-#EXTINF:-1,tcm
-http://185.27.237.105:8082/TV0082
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0083
-#EXTINF:-1,OMN first more
-http://185.27.237.105:8082/TV0084
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0086
-#EXTINF:-1,fashion tv
-http://185.27.237.105:8082/TV0088
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0089
-#EXTINF:-1,discovery science hd
-http://185.27.237.105:8082/TV0090
-#EXTINF:-1,discovery id
-http://185.27.237.105:8082/TV0092
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0093
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0091
-#EXTINF:-1,safwa
-http://185.27.237.105:8082/TV0099
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0104
-#EXTINF:-1,OMN
-http://185.27.237.105:8082/TV0103
-#EXTINF:-1,diseny
-http://185.27.237.105:8082/TV0110
-#EXTINF:-1,OSN movie 2
-http://185.27.237.105:8082/TV0021
-#EXTINF:-1,OSN movie drama 
-http://185.27.237.105:8082/TV0022
-#EXTINF:-1,OSN movie hd 
-http://185.27.237.105:8082/TV0023
-#EXTINF:-1,mgm 
-http://185.27.237.105:8082/TV0050
-#EXTINF:-1,star movie 
-http://185.27.237.105:8082/TV0051
-#EXTINF:-1,OSN yahala shabab 
-http://185.27.237.105:8082/TV0052
-#EXTINF:-1,OSN 
-http://185.27.237.105:8082/TV0065
-#EXTINF:-1,OSN first more 
-http://185.27.237.105:8082/TV0084
-#EXTINF:-1,OSN movie drama2 
-http://185.27.237.105:8082/TV0075
-#EXTINF:-1,safwa
-http://185.27.237.105:8082/TV0099
-#EXTINF:-1,disney
-http://185.27.237.105:8082/TV0110
-#EXTINF:-1,OSN 2
-http://185.27.237.105:8082/TV0062
-#EXTINF:-1,tcm
-http://185.27.237.105:8082/TV0082
-#EXTINF:-1,orbit2 
-http://91.109.20.227:8080/TV0116
-#EXTINF:-1,OSN sport 
-http://91.109.20.227:8080/TV6035
 #EXTINF:-1,art_aflam_1
 rtmp://162.212.176.107:1935/art_aflam_1/globaltv-art_aflam_1.stream
 #EXTINF:-1,art_aflam_2
@@ -509,30 +385,6 @@ rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/mbc_max
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,Abu Dhabi Sports 2
 http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
-#EXTINF:-1,bein sport 1
-http://185.56.30.127:8082/TV4001
-#EXTINF:-1,bein sport 2
-http://185.56.30.127:8082/TV4002
-#EXTINF:-1,bein sport 3
-http://185.56.30.127:8082/TV4003
-#EXTINF:-1,bein sport 4
-http://185.56.30.127:8082/TV4004
-#EXTINF:-1,bein sport 5
-http://185.56.30.127:8082/TV4005
-#EXTINF:-1,bein sport 6
-http://185.56.30.127:8082/TV4006
-#EXTINF:-1,bein sport 7
-http://185.56.30.127:8082/TV4007
-#EXTINF:-1,bein sport 8
-http://185.56.30.127:8082/TV4008
-#EXTINF:-1,bein sport 9
-http://185.56.30.127:8082/TV4009
-#EXTINF:-1,bein sport 10
-http://185.56.30.127:8082/TV4010
-#EXTINF:-1,bein sport fr1
-http://185.56.30.127:8082/TV4016
-#EXTINF:-1,bein sport fr2
-http://185.56.30.127:8082/TV4017
 #EXTINF:1,Beinsport 1HD
 rtmp://180.250.29.12:1935/jhos/beib1_5
 #EXTINF:1,Beinsport 2HD
@@ -619,26 +471,6 @@ http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
 #EXTINF:-1,BIG TEN SPORTS
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1,SPORTS
-http://185.38.12.20:8088/sport/
-#EXTINF:-1,1 SPORT
-http://185.38.12.20:8088/sport1/
-#EXTINF:-1,Eurosport
-http://185.38.12.20:8088/eurosport/
-#EXTINF:-1,Eurosport 2
-http://185.38.12.20:8088/eurosport2/
-#EXTINF:-1,Sky F1
-http://192.99.24.176:8080/skfF1/skPfF1/index.m3u8
-#EXTINF:-1,SKY SPORTS 5
-http://192.99.24.176:8080/skY5/skoK5/index.m3u8
-#EXTINF:-1,SKY SPORTS 4
-http://192.99.24.176:8080/skY4/sSksP4/index.m3u8
-#EXTINF:-1,SKY SPORTS 3HD
-http://192.99.24.176:8080/skkY3/sk3Kp03/index.m3u8
-#EXTINF:-1,SKY SPORTS 2
-http://192.99.24.176:8080/skKiK2lo0W/sSSLLppk2/index.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://192.99.24.176:8080/Skyy1/Sk01ky1/index.m3u8
 #EXTINF:-1,SKY SPORTS NEWS
 rtmpe://46.246.124.22:1935/l playpath=sskysn token=Fo5_n0w?U.rA6l3-70w47ch timeout=10 pageUrl=http://www.hdcast.org/
 #EXTINF:-1,SKY SPORTS 1
@@ -669,8 +501,6 @@ rtmp://109.123.70.38:80/live/ss5ry swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flas
 rtmp://109.123.70.38:80/live/atracessa swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=atracessa490&vw=620&vh=490 token=%Zrey(nKa@#Z
 #EXTINF:-1,Racing UK
 rtmp://109.123.70.38:80/live/racingukx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://reytv.co/embedo.php?live=racingukx490&vw=620&vh=490 token=%Zrey(nKa@#Z
-#EXTINF:-1,beIN en Español
-rtmp://65.111.174.111/iptv/beinsports1.stream
 #EXTINF:-1,fox sports 2
 http://103.242.13.66:5000/nn_live.ts?id=starsport-m-h
 #EXTINF:-1,Bt sport
@@ -729,14 +559,6 @@ http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
 http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:-1,Football
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1,ALB SUPER SPORTS  1 m3u8 1280*738
-http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1,ALB SUPER SPORTS  2 m3u8 1280*738
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1,ALB SUPER SPORTS  3 m3u8 1280*738
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1,ALB SUPER SPORTS  4 m3u8 1280*738
-http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1,ARENA SPORT
 http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:-1,BRASIL-ESPN+
@@ -747,10 +569,6 @@ rtmp://31.204.153.72/live/fsb
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
 #EXTINF:-1,Dubai Sports 3
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-#EXTINF:-1,English:OMN sports 1 HD ENG
-http://185.27.237.105:8082/TV0104
-#EXTINF:-1,English:OMN SPORTS 1 HD ENG
-http://185.27.237.104:8082/TV0104
 #EXTINF:-1,English:Sky Sports News
 http://93.184.221.133/00573D/183/183-0.m3u8
 #EXTINF:-1,English:SPORTES 6 HD
@@ -835,10 +653,6 @@ http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8
 rtmp://195.154.242.42:80/liverepeater playpath=302538 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,WWE Tv
 rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,Eurosport 2  m3u8 720*576 myvideo.az
-http://hls01-04.az.myvideo.az/hls-live/livepkgr/eurosport2/eurosport2/eurosport2.m3u8?hasbahcaiptv.com=fb%2Fsimpletvipadresleri
-#EXTINF:-1,skysports 2 
-rtmp://31.220.0.206:1935/live/_definst_/s2r
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
@@ -989,52 +803,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8
 #EXTINF:-1,NASA
 http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
-#EXTINF:-1,Animal Planet
-http://techstream.dynns.com:1935/ind/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NTQ6NTUgQU0maGFzaF92YWx1ZT1PQnZ3blFLT2YzRDFXRVdqMDR6aXl3PT0mdmFsaWRtaW51dGVzPTI
-#EXTINF:-1,Nat Geo
-http://techstream.dynns.com:1935/ind/netgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTUgMTA6NDg6MTYgQU0maGFzaF92YWx1ZT1rbk9yK3lnRWcvYTJIbFhMdXN2VUN3PT0mdmFsaWRtaW51dGVzPTI
-#EXTINF:-1,Film Hits 
-http://tinyurl.com/oq3lwmm 
-#EXTINF:-1,Film Aksion 
-http://tinyurl.com/nllocd4 
-#EXTINF:-1,Film Komedi 
-http://tinyurl.com/pgw6kjw 
-#EXTINF:-1,Film Thriller 
-http://tinyurl.com/oppb4q3 
-#EXTINF:-1,Film Drame 
-http://tinyurl.com/o62tplb 
-#EXTINF:-1,Film Autor 
-http://tinyurl.com/ptu8mgk 
-#EXTINF:-1,Plus HD 
-http://tinyurl.com/ost43zc 
-#EXTINF:-1,T 
-http://tinyurl.com/pfftv2y 
-#EXTINF:-1,T+1 
-http://tinyurl.com/qjjv9th 
-#EXTINF:-1,Junior tv 
-http://tinyurl.com/nloq4b9 
-#EXTINF:-1,Bang bang 
-http://tinyurl.com/qfevgnp 
-#EXTINF:-1,Ss1 
-http://tinyurl.com/op6u3ff 
-#EXTINF:-1,Ss2 
-http://tinyurl.com/noj8gee 
-#EXTINF:-1,Ss3 
-http://tinyurl.com/p7s83ey 
-#EXTINF:-1,Ss4 
-http://tinyurl.com/phtquad 
-#EXTINF:-1,Top Channel 
-http://tinyurl.com/p7slufo 
-#EXTINF:-1,21 plus 
-http://tinyurl.com/pgs8cef 
-#EXTINF:-1,Fox life 
-http://tinyurl.com/pcywfwy 
-#EXTINF:-1,Fox Crime 
-http://tinyurl.com/pjtnol9 
-#EXTINF:-1,Travel 
-http://tinyurl.com/ouflkau 
-#EXTINF:-1,Top news 
-http://tinyurl.com/p2sajw2
 #EXTINF:-1,24-7 Movies
 http://167.114.65.88/hls/mv.m3u8
 #EXTINF:-1,crime movies
@@ -1103,24 +871,6 @@ http://103.242.13.66:5000/nn_live.ts?id=foxactionmovie-m-h&hpgdisco_m3u8
 http://103.242.13.67:5000/nn_live.ts?id=foxmovies-m-h&hpgdisco_m3u8
 #EXTINF:-1,Nat Geo 
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h&hpgdisco_m3u8
-#EXTINF:1,Sky Movies Action & Adventure
-http://185.56.30.123:8082/TV4245
-#EXTINF:1,Sky Movies Comedy
-http://185.56.30.123:8082/TV4246
-#EXTINF:1,Sky Movies Disney
-http://185.56.30.123:8082/TV4247
-#EXTINF:1,Sky Movies Family
-http://185.56.30.123:8082/TV4248
-#EXTINF:1,Sky Movies SciFi
-http://185.56.30.123:8082/TV4249
-#EXTINF:1,Sky Arts
-http://185.56.30.123:8082/TV4250
-#EXTINF:1,Sky Movies Premiere
-http://185.56.30.123:8082/TV4251
-#EXTINF:1,Sky Movies Premiere+
-http://185.56.30.123:8082/TV4252
-#EXTINF:1,Sky Sky Movies Select
-http://185.56.30.123:8082/TV4254
 #EXTINF:1,Animal Planet
 http://netiptv.dyndns.tv:80/live?channelId=35&uid=6&deviceUser=dreamsat&devicePass=pro001
 #EXTINF:1,Cinemax 1
@@ -1299,18 +1049,10 @@ http://103.242.13.66:5000/nn_live.ts?id=cctvd-m-h
 http://103.242.13.67:5000/nn_live.ts?id=cctv13-m-h
 #EXTINF:-1,Animal Planet
 http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028
-#EXTINF:-1,A&E Network 
-http://50.7.69.186:1935/edge/_definst_/tuc280rbycwnsvs/manifest.m3u8?wowzasessionid=1426231480
-#EXTINF:-1,A&E Europe 
-http://noscdn1.connectedviews.com:1935/live/sporttv3hd.stream/livestream.m3u8
-#EXTINF:-1,ABC2
-http://50.7.69.170:1935/edge/_definst_/371jluirljcsjen/chunklist.m3u8?wowzasessionid=1420168303
 #EXTINF:-1,ABC7 
 rtmp://178.18.31.59:443/liverepeater playpath=191903 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,ABC7 
 rtmpe://192.99.38.90:1935/goLive playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
-#EXTINF:-1,ABC10 HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/165.m3u8
 #EXTINF:-1,ABC Family 
 rtmpe://192.99.38.90:1935/goLive playpath=NyRerYqWuhRWGCsmb3f3 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,AMC LA 
@@ -1323,210 +1065,82 @@ rtmpe://192.99.38.90:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.j
 rtmpe://192.99.38.90:1935/goLive playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,AMC 
 rtmp://178.18.31.59:443/liverepeater playpath=191904 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,AMC [HQ] 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/105.m3u8
 #EXTINF:-1,Bravo 
 rtmpe://192.99.38.90:1935/goLive playpath=bpVhPyJw4wqZW7W61yV76 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,Bravo 
 rtmp://178.18.31.59:443/liverepeater playpath=191905 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,Bravo 
-http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501/playlist.m3u8?wowzasessionid=1419872183
 #EXTINF:-1,Cartoon Network 
 rtmpe://192.99.38.90:1935/goLive playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/?a=3&b=6
 #EXTINF:-1,Comedy Central 
 rtmp://178.18.31.59:443/liverepeater playpath=191907 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,CNN  
 rtmpe://46.246.124.87:1935/l playpath=nnc swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1,CBS7-[WHIO] 
-http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
 #EXTINF:-1,CBS7 LA 
 rtmp://cdn.cast-tv.us/stream playpath=z00099.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
 #EXTINF:-1,CBS2 NY 
 rtmp://178.18.31.59:443/liverepeater playpath=191906 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,CBS2 NY 
 rtmpe://192.99.38.90:1935/goLive playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#| tcUrl=
-#EXTINF:-1,CBS4 Miami HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/194.m3u8
-#EXTINF:-1,CBS7 
-http://50.7.69.186:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
 #EXTINF:-1,CW11 
 rtmp://178.18.31.59:443/liverepeater playpath=191909 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,CW11 
 rtmpe://192.99.38.90:1935/goLive playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,CW11 HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/160.m3u8
-#EXTINF:-1,CW44
-http://50.7.69.170:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048
 #EXTINF:-1,CW11(WPIX) 
 rtmp://195.154.242.42:80/liverepeater playpath=302566 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,CW11(WPIX) 
 rtmpe://192.99.38.90:1935/goLive playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,CW HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/160.m3u8
-#EXTINF:-1,CW HD 
-http://50.7.69.186:1935/edge/_definst_/qvvkvojlano9hnj/manifest.m3u8?wowzasessionid=1426889772
-#EXTINF:-1,CW44 
-http://50.7.69.170:1935/edge/_definst_/qvvkvojlano9hnj/chunklist.m3u8?wowzasessionid=1426889772
 #EXTINF:-1,CP24
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
 #EXTINF:-1,CTV News Toronto
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8
-#EXTINF:-1,Discovery Channel 
-http://50.7.69.170:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:-1,Discovery Channel HQ
-http://50.7.69.170:1935/edge/_definst_/ro7c9eha0z96hpp/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:-1,The Science Channel 
-http://50.7.69.186:186/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
-#EXTINF:-1,I.D 
-http://50.7.69.170:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:-1,NBC4 
-http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
 #EXTINF:-1,NBC4 
 rtmpe://192.99.38.90:1935/goLive playpath=nbc01_augqlbj1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,NBC4 NY 
 rtmp://178.18.31.59:443/liverepeater playpath=191914 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,NBC4 
 rtmp://178.18.31.59:443/liverepeater playpath=191915 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,NBC HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/193.m3u8
 #EXTINF:-1,HBO East 
 rtmp://cdn.cast-tv.us/stream playpath=z00091.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
-#EXTINF:-1,HBO HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/167.m3u8
 #EXTINF:-1,HBO 
 rtmp://178.18.31.59:443/liverepeater playpath=191881 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,HBO 
 rtmpe://192.99.38.90:1935/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,HBO 
-http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
-#EXTINF:-1,HBO Comedy 
-http://50.7.69.186:1935/edge/_definst_/a1wn1j3ra1w0cv0/manifest.m3u8?wowzasessionid=1419915335
-#EXTINF:-1,History Channel
-http://50.7.69.186:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:-1,History HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/171.m3u8
-#EXTINF:-1,Hallmark Channel
-http://50.7.69.186:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
 #EXTINF:-1,FOX5 
 rtmp://178.18.31.59:443/liverepeater playpath=191910 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,FOX7 HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/162.m3u8
-#EXTINF:-1,FOX 30 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/163.m3u8
 #EXTINF:-1,FOX11 LA 
 rtmp://cdn.cast-tv.us/stream playpath=z00095.stream swfUrl=http://imveoh.info/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00099 token=#ed%h0#w@1
 #EXTINF:-1,FOX5 NY 
 rtmpe://192.99.38.90:1935/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,FOX45
-http://50.7.69.170:1935/edge/_definst_/q49uyvij145wcky/chunklist.m3u8?wowzasessionid=1419942680
-#EXTINF:-1,FOX News 
-http://50.7.69.186:1935/edge/_definst_/ohn58e97er36vjr/foxnews.m3u8?wowzasessionid=1420123821
 #EXTINF:-1,FOX News 
 rtmp://178.18.31.59:443/liverepeater playpath=191911 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,FX
 rtmpe://192.99.38.90:1935/goLive playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,FX-HQ
 rtmp://178.18.31.59:443/liverepeater playpath=191913 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,FX-HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/198.m3u8
 #EXTINF:-1,MTV
 rtmpe://192.99.38.90:1935/goLive playpath=7U8HX14EnQVGCFy swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,MTV HQ
-http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist_w442557998.m3u8?wowzasessionid=1420207062 timeout=15
 #EXTINF:-1,Nickeloden 
 rtmpe://192.99.38.90:1935/goLive playpath=fCqfhb14WwwFbAsDbV3Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,Nickeloden 
 rtmpe://46.246.124.87:1935/l playpath=nicks swfUrl=http://player.hdcast.org/_.swf pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch timeout=15
-#EXTINF:-1,Nickeloden 
-http://50.7.69.186:1935/edge/_definst_/q2hs5fqm8b039y0/chunklist.m3u8?wowzasessionid=1420206368
-#EXTINF:-1,National Geographic 
-http://50.7.69.186:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282 timeout=15
-#EXTINF:-1,National Geographic HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/197.m3u8
-#EXTINF:-1,National Geographic
-http://50.7.69.170:1935/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1427853023 timeout=15
-#EXTINF:-1,National Geographic Wild
-http://50.7.69.186:1935/edge/_definst_/thxtp7p419psf9j/playlist.m3u8?wowzasessionid=1427853023 timeout=15
-#EXTINF:-1,OWN Network HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/237.m3u8
 #EXTINF:-1,E!
 rtmpe://192.99.38.90:1935/goLive playpath=XTPSm5g5XoN37idvGgLv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://zerocast.in/ token=OOG17t.x#K9Vh#|
-#EXTINF:-1,Sportsnet 360 
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,Showtime 
 rtmpe://192.99.38.90:1935/goLive playpath=kbMD64czDshAmjDd4kxQ swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,Showtime 
-http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151 timeout=15
-#EXTINF:-1,Showtime HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/166.m3u8
 #EXTINF:-1,SyFy 
 rtmpe://192.99.38.90:1935/goLive playpath=tPjsURqsVo4NSe23EhJP swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
-#EXTINF:-1,SyFy 
-http://50.7.69.186:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403 timeout=15
-#EXTINF:-1,SyFy HD
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/169.m3u8
 #EXTINF:-1,TNT West 
 rtmp://cdn.cast-tv.us/stream playpath=z00098.stream swfUrl=http://cast-tv.us/player/player.swf pageUrl=http://imveoh.info/embed.php?n=z00098 token=#ed%h0#w@1
 #EXTINF:-1,TNT 
 rtmpe://192.99.38.90:1935/goLive playpath=Waz0WqvbqNHmt0gdzrsm swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,TNT East 
 rtmp://178.18.31.59:443/liverepeater playpath=191917 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,TNT 
-http://50.7.69.186:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929 timeout=15
-#EXTINF:-1,TNT HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/172.m3u8
-#EXTINF:-1,Travel Channel
-http://50.7.69.170x:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887 timeout=15
 #EXTINF:-1,TBS 
 rtmpe://192.99.38.90:1935/goLive playpath=RhMi9RdAAt7fpq8H3qZh swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
 #EXTINF:-1,TBS 
 rtmp://178.18.31.59:443/liverepeater playpath=191916 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:-1,TBS HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/96.m3u8
-#EXTINF:-1,TLC 
-http://50.7.69.186:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929 timeout=15
-#EXTINF:-1,TLC HQ
-http://50.7.69.186:1935/edge/_definst_/4nm2ewg5jznklf0/manifest.m3u8?wowzasessionid=1426892472 timeout=15
-#EXTINF:-1,Lifetime Channel
-http://50.7.69.186:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018 timeout=15
 #EXTINF:-1,USA Network 
 rtmpe://192.99.38.90:1935/goLive playpath=jvZXQUYQmlsPirfiVK1G swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
-#EXTINF:-1,USA Network HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/95.m3u8
-#EXTINF:-1,-USA Network
-http://209.95.34.86/live2/105-USANet.stream/playlist.m3u8
-#EXTINF:-1,TruTV
-http://50.7.69.186:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955 timeout=15
-#EXTINF:-1,Spike TV
-http://50.7.69.186:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:-1,Spike HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/170.m3u8
-#EXTINF:-1,VH1
-http://50.7.69.186:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560 timeout=15
-#EXTINF:-1,Univision (HD)
-http://50.7.69.186:1935/edge/_definst_/obzq3ltrjoaxglf/chunklist_w442557998.m3u8?wowzasessionid=1419908048 timeout=15
-#EXTINF:-1,ION HD 
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/161.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://91.109.20.227:8080/TV4251
-#EXTINF:-1,Sky Movies Premiere +1
-http://91.109.20.227:8080/TV4252
-#EXTINF:-1,Sky Movies Action & Adventure
-http://185.56.30.123:8082/TV4245
-#EXTINF:-1,Sky Movies Comedy
-http://185.56.30.123:8082/TV4246
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://185.56.30.123:8082/TV4249
-#EXTINF:-1,Sky Movies Family
-http://185.56.30.123:8082/TV4248
-#EXTINF:-1,Sky Movies Greats
-http://185.27.237.105:8082/TV4240
-#EXTINF:-1,Sky Movies Select
-http://91.109.20.227:8080/TV4254
-#EXTINF:-1,Sky Movies Disney
-http://185.56.30.123:8082/TV4247
-#EXTINF:-1,Sony MAX
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/144.m3u8
 #EXTINF:-1,Sony MAX
 rtmp://178.18.31.59:443/liverepeater playpath=191912 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
 #EXTINF:-1,Fox Movies Premium
@@ -1543,17 +1157,9 @@ http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.
 http://llnw.live.simplestream.com/coder1/coder.channels.channel2/hls/1/playlist.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
 http://103.242.13.67:5000/nn_live.ts?id=nationalgeographic-m-h
-#EXTINF:-1,Star Movies HD 
-http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
-#EXTINF:-1,HBO HD 
-http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
-#EXTINF:-1,AXN HD 
-http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
-#EXTINF:-1,Cinemax
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
 #EXTINF:-1,DISCOVERY 
 rtmp://50.22.223.42/youcloud/ playpath=discovery5e1r?keys=QNM48GIqRNlW0XPfEeW52A&keyt=1424715176 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=discovery5e1r&width=555&height=435 timeout=15
- #EXTINF:-1,Historia 
+#EXTINF:-1,Historia 
 rtmp://173.193.216.172/youcloud/historia8wdy?keys=nYPDs127dA3aVrXMcQEVvA&keyt=1426677769 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=historia8wdy
 #EXTINF:-1,AXN White 
 rtmp://184.173.146.4/youcloud/axnblank2er?keys=hxxhuW5zTFXNHJmTO0uL0A&keyt=1426418995 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=axnblank2er
@@ -1585,12 +1191,6 @@ http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist
 http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
 #EXTINF:-1,MTV Live HD 
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
-#EXTINF:-1,MTV Hits SD 
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/playlist.m3u8?utcstart=1425964607.5274911
-#EXTINF:-1,MTV Dance HD 
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/playlist.m3u8?utcstart=1425964714.5193388
-#EXTINF:-1,MTV Rocks HD 
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/bw480000/playlist.m3u8?utcstart=1425964738.5959589
 #EXTINF:-1,4Music HD 
 http://llnw.live.simplestream.com/coder9/coder.channels.channel6/hls/3/playlist.m3u8
 #EXTINF:-1,Heart TV 
@@ -1611,14 +1211,26 @@ http://llnw.live.simplestream.com/coder9/coder.channels.channel2/hls/3/playlist.
 http://llnw.live.simplestream.com/coder9/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:-1,VH1 UK 
 rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates/
-#EXTINF:-1,VH1(ESP)  
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8
-#EXTINF:-1,TELEHIT 
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?
-#EXTINF:-1,Bandmax HD 
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
 #EXTINF:-1,Nickelodeon
 rtmp://195.154.242.42:80/liverepeater playpath=303365 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=303365&width=620&height=470&stretching= token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Film 4
+http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:-1,More 4
+http://78.129.175.72/live/more4/more4.m3u8
+#EXTINF:-1,Channel 4
+http://78.129.175.72/live/channel4/channel4.m3u8
+#EXTINF:-1,Channel 5
+http://78.129.175.72/live/channel5/channel5.m3u8
+#EXTINF:-1,5 USA
+http://78.129.175.72/live/5usa/5usa.m3u8
+#EXTINF:-1,ITV be
+http://78.129.175.72/live/itvbe/itvbe.m3u8
+#EXTINF:-1,ITV1
+http://78.129.175.72/live/itv/itv.m3u8
+#EXTINF:-1,ITV 2
+http://78.129.175.72/live/itv2/itv2.m3u8
+#EXTINF:-1,ITV 4
+http://78.129.175.72/live/itv4/itv4.m3u8
 #EXTINF:-1,1 group-title=Cartoon,BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
