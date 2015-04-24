@@ -419,6 +419,10 @@ rtmp://180.250.29.12:1935/jhos/beib3_4
 rtmp://180.250.29.12:1935/jhos/beib1_5
 #EXTINF:1,Beinsport 2HD
 rtmp://180.250.29.12:1935/jhos/beib2_5
+#EXTINF:-1,Arenasport 1
+http://macedoniathebest.mine.nu/the/best/20.ch
+#EXTINF:-1,Arenasport 2
+http://macedoniathebest.mine.nu/the/best/21.ch
 #EXTINF:-1,Espn UK
 rtmp://80.82.78.29:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,English Tv
@@ -1213,14 +1217,10 @@ http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.
 http://llnw.live.simplestream.com/coder6/coder.channels.channel2/hls/3/playlist.m3u8
 #EXTINF:-1,Clubland TV 
 http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
-#EXTINF:-1,MTV Live  
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8
 #EXTINF:-1,Tiny POP 
 http://llnw.live.simplestream.com/coder4/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:-1,POP 
 http://llnw.live.simplestream.com/coder4/coder.channels.channel14/hls/3/playlist.m3u8
-#EXTINF:-1,MTV Live HD 
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8
 #EXTINF:-1,4Music HD 
 http://llnw.live.simplestream.com/coder9/coder.channels.channel6/hls/3/playlist.m3u8
 #EXTINF:-1,Heart TV 
@@ -1261,6 +1261,8 @@ http://78.129.175.72/live/itv/itv.m3u8
 http://78.129.175.72/live/itv2/itv2.m3u8
 #EXTINF:-1,ITV 4
 http://78.129.175.72/live/itv4/itv4.m3u8
+#EXTINF:-1,HistoryChannel
+rtmp://109.206.96.129/live/historychannel_1m.stream
 #EXTINF:1,Sky Movies Premiere 
 http://91.109.20.227:8080/TV4251 
 #EXTINF:1,Sky Movies Premiere+ 
@@ -1277,6 +1279,32 @@ http://91.109.20.227:8080/TV4247
 http://91.109.20.227:8080/TV4248 
 #EXTINF:1,Sky Movies Family 
 http://91.109.20.227:8080/TV4249
+#EXTINF:1,24/7 Jackie Chan movies (1979-1990)
+http://50.7.69.186:1935/edge/_definst_/gby01m6h4xd3lag/playlist.m3u8?wowzasessionid=1420169835
+#EXTINF:1,24/7 NCIS
+http://50.7.69.186:1935/edge/_definst_/866l7jy73xntgpa/playlist.m3u8?wowzasessionid=1419879488
+#EXTINF:1,Bravo
+http://50.7.69.186:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:1,Food Network HD
+http://50.7.69.186:1935/edge/_definst_/ibnnu7537h3ax6e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:1,HBO SD
+http://50.7.69.186:1935/edge/_definst_/qzbbu26gcvjxksz/chunklist.m3u8?wowzasessionid=1419847602
+#EXTINF:1,MTV
+http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
+#EXTINF:1,NBC SD
+http://50.7.69.186:1935/edge/_definst_/s5whw37nl7weedp/chunklist.m3u8?wowzasessionid=1420160473
+#EXTINF:1,Showtime
+http://50.7.69.186:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:1,BEin Sport (Spanish)
+http://50.7.69.186:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:1,ESPN 2 SD
+http://50.7.69.186:1935/edge/_definst_/5hd19kwxef5b59o/chunklist.m3u8?wowzasessionid=1420159722
+#EXTINF:1,Golf Channel HD
+http://50.7.69.186:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+#EXTINF:1,MSNBC HD
+http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:1,ABC Family
+http://50.7.69.186:1935/edge/_definst_/vx63a0c7mxk2jt8/manifest.m3u8?wowzasessionid=1426899363
 #EXTINF:-1,1 group-title=Cartoon,BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
@@ -1291,8 +1319,6 @@ http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
 #EXTINF:-1,DISNEY CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
-#EXTINF:-1,DISNEY CHANNEL
-rtmp://37.187.149.103/live/DisneyChnl?token=is5Kik9RCgRGsoOCGLQCdg&e=1423982407&u=17847
 #EXTINF:-1,NICK JR
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
 #EXTINF:-1,NICK HD
@@ -1313,8 +1339,6 @@ http://185.38.12.20:8088/nickel/
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
 #EXTINF:-1,DISCOVERY KIDS
 rtmp://31.204.128.74/live/master24
-#EXTINF:-1,Tom and Jerry
-http://66.90.111.66:1935/ctv/tom/playlist.m3u8
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
