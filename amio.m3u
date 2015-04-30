@@ -89,13 +89,13 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
 #EXTINF:-1,Aljazeera Arabic
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
-#EXTINF:-1,Al Jazeera America
+#EXTINF:-1,Aljazeera America
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
-#EXTINF:-1,al jazeera arabic tv
+#EXTINF:-1,Aljazeera arabic tv
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1,Aljazeera US
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
-#EXTINF:-1,al jazeera english
+#EXTINF:-1,Aljazeera english
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
 #EXTINF:-1,Bloomberg (USA)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
@@ -381,10 +381,26 @@ rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/mbc_4
 rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/mbc_masr
 #EXTINF:1,MBC Max HD
 rtmp://167.114.101.234:1935/live?idu=lola123_77021940960/mbc_max
+#EXTINF:1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8
+#EXTINF:1,Syria Alouia
+http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
-#EXTINF:-1,Abu Dhabi Sports 2
+#EXTINF:-1,AD Sports 1 (UAE)
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+#EXTINF:-1,AD Sports 2 (UAE)
 http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
+#EXTINF:-1,MBC SPORT HD 1
+http://intigral_live-lh.akamaihd.net/i/DPS3CPCHILXAHL130215_1@135296/index_1200_av-b.m3u8
+#EXTINF:-1,MBC SPORT HD 3
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
 #EXTINF:-1,Beinsport 1HD
 rtmp://180.250.29.12:1935/jhos/beib1_5
 #EXTINF:-1,Beinsport 1SD 1
@@ -423,6 +439,8 @@ rtmp://180.250.29.12:1935/jhos/beib2_5
 http://macedoniathebest.mine.nu/the/best/20.ch
 #EXTINF:-1,Arenasport 2
 http://macedoniathebest.mine.nu/the/best/21.ch
+#EXTINF:-1,Sky Sport HD1 
+http://macedoniathebest.mine.nu/the/best/24.ch
 #EXTINF:-1,Espn UK
 rtmp://80.82.78.29:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,English Tv
@@ -683,10 +701,30 @@ http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
 #EXTINF:-1,TSN 5 
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:1,BT Sport 1
+rtmp://46.246.29.135:1935/stream/ playpath=NdTaX9Epd0.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=v45465i595f4d3j4m524n2b4w214x2o244a4x2q2p2v213&adx=&stream=14v2o5m58484w2r2742474i5r2h5d4n2x4k5u354s343h3y5m564t29403q264s2t2x2u234r21413u2v45465i595f4d3j4m5u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2a4a4z284y2v2c4w2i5y21324p2b4a4m5a464y2f4j5w2k574b4z2q254a4b484x2s2t2343434t2y3s2p2&sooor=MTU=&str=is&ok=&cat=1&link=1&idom=ifirstrow.eu
+#EXTINF:1,BT Sport 2
+rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=u5y2m5459474c3o3e435n2b4w214x2o244a4x2q2p2v213&adx=&stream=h5v2e464k594s20384b4w2k5x2b4e4n2w5d4a4r3s2w2g335e475t29403q264s2t2x2u234r21413u2u5y2m5459474c3o3e4u373v5j4r5d4a225h5c454i4g4p2345634t2y3s2a4a4z284y2v2c4w2i5y21324p2b4a4m5a464y2f4j5w2k574b4z2q254a4b484x2s2t2343434t2y3s2p2&sooor=MTc=&str=is&ok=&cat=1&link=1&idom=ifirstrow.eu
+#EXTINF:1,ESPN 3
+rtmp://89.248.169.55/iguide playpath=8wwhhqwh25uf05q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDHur
 #EXTINF:-1,Sky Sports World Cup 
 rtmp://195.154.242.42:80/liverepeater playpath=302538 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,WWE Tv
 rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
+#EXTINF:-1, SKY SPORTS 1
+rtmp://31.220.0.195:80/live playpath=ss1xx swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, SKY SPORTS 2
+rtmp://31.220.0.195:80/live playpath=s2r swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, SKY SPORTS 3
+rtmp://31.220.0.195:80/live playpath=s3c swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, SKY SPORTS 4
+rtmp://31.220.0.195:80/live playpath=ssx4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, SKY SPORTS 5
+rtmp://31.220.0.195:80/live playpath=ss5xx swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, BT SPORTS 1
+rtmp://31.220.0.195:80/live playpath=bt1x swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
+#EXTINF:-1, BT SPORTS 2
+rtmp://31.220.0.195:80/live playpath=bt2x swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://reytv.co/embedo.php?live=skysports2&vw=620&vh=490 token=%Zrey(nKa@#Z
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
 #EXTINF:-1,AMC
@@ -1003,7 +1041,7 @@ http://llnw.live.simplestream.com/coder5/coder.channels.channel9/hls/3/playlist.
 http://llnw.live.simplestream.com/coder6/coder.channels.channel11/hls/3/playlist.m3u8
 #EXTINF:1,Russia Today
 http://llnw.live.simplestream.com/coder7/coder.channels.channel2/hls/3/playlist.m3u8
-#EXTINF:1,Al Jazeera News (English)
+#EXTINF:1,Aljazeera News (English)
 http://llnw.live.simplestream.com/coder7/coder.channels.channel12/hls/3/playlist.m3u8
 #EXTINF:1,France 24 News (English)
 http://llnw.live.simplestream.com/coder7/coder.channels.channel14/hls/3/playlist.m3u8
@@ -1305,6 +1343,8 @@ http://50.7.69.186:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessio
 http://50.7.69.186:1935/edge/_definst_/1341ujtliqndod8/playlist.m3u8?wowzasessionid=1419874712
 #EXTINF:1,ABC Family
 http://50.7.69.186:1935/edge/_definst_/vx63a0c7mxk2jt8/manifest.m3u8?wowzasessionid=1426899363
+#EXTINF:1,Canal +1 HD
+rtmp://207.244.67.7/iguide playpath=0a3k9rt0k68apaq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDhur
 #EXTINF:-1,1 group-title=Cartoon,BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
