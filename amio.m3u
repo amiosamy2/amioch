@@ -389,6 +389,20 @@ http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 http://82.137.248.21:1935/Drama/DramaLive2/playlist.m3u8
 #EXTINF:1,Syria Alouia
 http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
+#EXTINF:-1,Rotana Aflam
+http://live.zoptv.com/filmon/master.m3u8?id=2618
+#EXTINF:-1,Rotana
+http://live.zoptv.com/filmon/master.m3u8?id=2600
+#EXTINF:-1,Rotana Clip
+http://live.zoptv.com/filmon/master.m3u8?id=2603
+#EXTINF:-1,Rotana Classic
+http://live.zoptv.com/filmon/master.m3u8?id=2609
+#EXTINF:-1,Rotana Masriya
+http://live.zoptv.com/filmon/master.m3u8?id=2612
+#EXTINF:-1,Rotana Cinema
+http://live.zoptv.com/filmon/master.m3u8?id=2615
+#EXTINF:-1,Al Jazeera Arabic
+http://live.zoptv.com/filmon/master.m3u8?id=3035
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,AD Sports 1 (UAE)
@@ -909,132 +923,90 @@ rtmp://195.154.242.42:80/liverepeater playpath=303365 swfUrl=http://cdn.goodcast
 rtmp://207.244.67.7/iguide playpath=0a3k9rt0k68apaq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDhur
 #EXTINF:-1,4 Music
 http://live.zoptv.com/filmon/master.m3u8?id=95
-
 #EXTINF:-1,5 Star
 http://live.zoptv.com/filmon/master.m3u8?id=851
-
 #EXTINF:-1,5 USA
 http://live.zoptv.com/filmon/master.m3u8?id=845
-
 #EXTINF:-1,Al Jazeera News UK
 http://live.zoptv.com/filmon/master.m3u8?id=4
-
 #EXTINF:-1,Barclays Premier League Classics
 http://live.zoptv.com/filmon/master.m3u8?id=374
-
 #EXTINF:-1,BBC 1
 http://live.zoptv.com/filmon/master.m3u8?id=14
-
 #EXTINF:-1,BBC 1 NI
 http://live.zoptv.com/filmon/master.m3u8?id=361
-
 #EXTINF:-1,BBC 2
 http://37.220.29.186:8000/bbc2/bbc2/index.m3u8
-
 #EXTINF:-1,BBC 2
 http://live.zoptv.com/filmon/master.m3u8?id=25
-
 #EXTINF:-1,BBC 3
 http://live.zoptv.com/filmon/master.m3u8?id=113
-
 #EXTINF:-1,BBC 4
 http://live.zoptv.com/filmon/master.m3u8?id=103
-
 #EXTINF:-1,BBC News
 http://live.zoptv.com/filmon/master.m3u8?id=27
-
 #EXTINF:-1,Bloomburg UK
 http://live.zoptv.com/filmon/master.m3u8?id=81
-
 #EXTINF:-1,CBBC
 http://live.zoptv.com/filmon/master.m3u8?id=29
-
 #EXTINF:-1,CBeebies
 http://live.zoptv.com/filmon/master.m3u8?id=103
-
 #EXTINF:-1,CBS Drama
 http://live.zoptv.com/filmon/master.m3u8?id=1805
-
 #EXTINF:-1,CBS Reality
 http://live.zoptv.com/filmon/master.m3u8?id=1808
-
 #EXTINF:-1,CBS Reality +1
 http://live.zoptv.com/filmon/master.m3u8?id=1811
-
 #EXTINF:-1,Channel 4
 http://live.zoptv.com/filmon/master.m3u8?id=2
-
 #EXTINF:-1,Channel 5
 http://live.zoptv.com/filmon/master.m3u8?id=22
-
 #EXTINF:-1,Dave
 http://live.zoptv.com/filmon/master.m3u8?id=370
-
 #EXTINF:-1,E4
 http://live.zoptv.com/filmon/master.m3u8?id=65
-
 #EXTINF:-1,Fashion TV
 http://live.zoptv.com/filmon/master.m3u8?id=21
-
 #EXTINF:-1,Film 4
 http://live.zoptv.com/filmon/master.m3u8?id=13
-
 #EXTINF:-1,Food Network
 http://live.zoptv.com/filmon/master.m3u8?id=20
-
 #EXTINF:-1,Horroor Channel
 http://live.zoptv.com/filmon/master.m3u8?id=836
-
 #EXTINF:-1,ITV 1
 http://live.zoptv.com/filmon/master.m3u8?id=11
-
 #EXTINF:-1,ITV 1 +1
 http://live.zoptv.com/filmon/master.m3u8?id=1817
-
 #EXTINF:-1,ITV 1 +1
 http://live.zoptv.com/filmon/master.m3u8?id=119
-
 #EXTINF:-1,ITV 2
 http://live.zoptv.com/filmon/master.m3u8?id=67
-
 #EXTINF:-1,ITV 2 +1
 http://live.zoptv.com/filmon/master.m3u8?id=1820
-
 #EXTINF:-1,ITV 3
 http://live.zoptv.com/filmon/master.m3u8?id=26
-
 #EXTINF:-1,ITV 3 +1
 http://live.zoptv.com/filmon/master.m3u8?id=1823
-
 #EXTINF:-1,ITV 4
 http://live.zoptv.com/filmon/master.m3u8?id=101
-
 #EXTINF:-1,ITV 4 +1
 http://live.zoptv.com/filmon/master.m3u8?id=1826
-
 #EXTINF:-1,ITVBe
 http://live.zoptv.com/filmon/master.m3u8?id=3211
-
 #EXTINF:-1,More 4
 http://live.zoptv.com/filmon/master.m3u8?id=97
-
 #EXTINF:-1,Movies4Men
 http://live.zoptv.com/filmon/master.m3u8?id=19
-
 #EXTINF:-1,Pick TV
 http://live.zoptv.com/filmon/master.m3u8?id=371
-
 #EXTINF:-1,Really
 http://live.zoptv.com/filmon/master.m3u8?id=372
-
 #EXTINF:-1,Travel Channel +1
 http://live.zoptv.com/filmon/master.m3u8?id=842
-
 #EXTINF:-1,Viva
 http://live.zoptv.com/filmon/master.m3u8?id=8
-
 #EXTINF:-1,Yesterday
-http://live.zoptv.com/filmon/master.m3u8?id=1039
+http://live.zoptv.com/filmon/master.m3u8?id=10392618
 #EXTINF:-1,1 group-title=Cartoon,BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
 #EXTINF:-1,Cartoon Network
