@@ -165,7 +165,7 @@ http://50.7.180.18:1935/elnahar_tv/nahar_youmprofile2.stream/chunklist_w13175930
 http://50.7.180.18:1935/elnahar_tv/nahar_dramaprofile2.stream/chunklist_w1330977081.m3u8
 #EXTINF:-1,MBC2
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
-EXTINF:-1,MBC_4
+#EXTINF:-1,MBC_4
 http://63.237.48.3/ios/MBC_4/MBC_4.m3u8
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -487,24 +487,16 @@ http://50.23.65.8/live/al_naeem_tv/index.m3u8
 http://50.23.65.8/live/russia_today/index.m3u8
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
-#EXTINF:1,BeIN Sport 1 Low 
-http://streamindo.ddns.net/jhos/beib1_2/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport 1 Medium 
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport 1 HD 
-http://streamindo.ddns.net/jhos/beib1_5/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport 2 Low 
-http://streamindo.ddns.net/jhos/beib2_2/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport 2 Medium 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport 2 HD 
-http://streamindo.ddns.net/jhos/beib2_5/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport Premier Low 
-http://streamindo.ddns.net/jhos/beib3_2/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport Premier Medium 
-http://streamindo.ddns.net/jhos/beib3_3/streamindo/playlist.m3u8 
-#EXTINF:1,BeIN Sport Premier HD 
-http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+#EXTINF:-1,SKY SPORT 1
+rtmp://50.7.67.78:1935/graham/ss1
+#EXTINF:-1,SKY SPORT 2
+rtmp://50.7.67.78:1935/graham/ss2
+#EXTINF:-1,SKY SPORT 3
+rtmp://50.7.67.78:1935/graham/ss3
+#EXTINF:-1,SKY SPORT 4
+rtmp://50.7.67.78:1935/graham/ss4
+#EXTINF:-1,SKY SPORT 5
+rtmp://50.7.67.78:1935/graham/ss5
 #EXTINF:-1,English Tv
 rtmp://31.220.0.195:80/live app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=nbar&vw=620&vh=490 playpath=nbar live=1 token=%Zrey(nKa@#Z
 #EXTINF:-1,EUROSPORT 1 ENG
@@ -635,36 +627,8 @@ rtmp://89.248.169.55/iguide playpath=8wwhhqwh25uf05q swfUrl=http://www.iguide.to
 rtmp://195.154.242.42:80/liverepeater playpath=302538 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/streamn.php?id=302571&width=620&height=470 token=Fo5_n0w?U.rA6l3-70w47ch
 #EXTINF:-1,WWE Tv
 rtmp://178.18.31.59:443/liverepeater playpath=191918 swfUrl=http://bernardotv.club/gofuckyourself.swf pageUrl=http://biggestplayer.me/index.php?id=191881&width=620&height=470 token=#atd%#$ZH
-#EXTINF:1,SKY SPORT 1 HD
-http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 2 HD
-http://144.76.3.83/sky_sports2gb.m3u8?bandwidth=956&token=0eef3bb1a1c2e4d2bc4b9f35b6f2b360&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 3 HD
-http://144.76.3.83/sky_sports3gb.m3u8?bandwidth=956&token=78b2f090d8e8dfcac5c3d40377fb8664&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 4 HD
-http://144.76.3.83/sky_sports4gb.m3u8?bandwidth=956&token=bd738b4aa272cbf816942c3b947eb8f7&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT F1 HD
-http://144.76.3.83/sky_sportsf1gb.m3u8?bandwidth=956&token=9ba67e371d00eb599c78ab99bb6569c0&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT NEWS HD
-http://144.76.3.83/sky_sportsnewsgb.m3u8?bandwidth=956&token=08050155b2de57c837b5ca900e0602fd&user=35430&playlistlength=25&os=browser
 #EXTINF:-1,1 group-title=English,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?b=1200
-#EXTINF:1,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:1,abc hd
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:1,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:1,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:1,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:1,SKY MOVIES COMEDY
-http://136.243.12.170/sky_moviescomedy_gb.m3u8?bandwidth=956&token=4281d384dde998c5b15237efe8c520be&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY MOVIES HORROR
-http://136.243.12.170/sky_moviesscifi_gb.m3u8?bandwidth=956&token=b76b901e0718828bf6a2389320747666&user=35430&playlistlength=25&os=browser
 #EXTINF:-1,CANAL+
 http://stream4.latvdefrance.com/demo/canalplus.m3u8
 #EXTINF:-1,ANIMAL PLANET
@@ -747,34 +711,6 @@ mms://72.13.93.186/lawandorder
 mms://72.13.93.186/tvdetectives
 #EXTINF:1,REAL MADRID DEPORTES
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:1,CNN en Español
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/CNNEspanol2500.m3u8
-#EXTINF:1,Discovery Channel
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
-#EXTINF:1,ESPN 3 HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPN3HD2500.m3u8
-#EXTINF:1,ESPN HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/ESPNHD1800.m3u8
-#EXTINF:1,FOX Sports HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/FOXSPHD2500.m3u8
-#EXTINF:1,GALA HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/GALAHD2500.m3u8
-#EXTINF:1,History HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
-#EXTINF:1,Nickelodeon HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD2500.m3u8
-#EXTINF:1,TDNHD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TDNHD1200.m3u8
-#EXTINF:1,Telehit HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD2500.m3u8
-#EXTINF:1,TVC
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVC2500.m3u8
-#EXTINF:1,TVC Deportes
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
-#EXTINF:1,Universal Channel HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/UNIHD2500.m3u8
-#EXTINF:1,Warner Channel HD
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/WarnerHD1000.m3u8
 #EXTINF:1,Ultra Cine HD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:1,Ultra Cine
@@ -831,30 +767,6 @@ http://81.7.13.162/hls/ss3/index.m3u8
 rtmp://178.162.202.6/live playpath=tafasfasfasfasfasfasfasf?id=229441 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf pageUrl=http://www.mipsplayer.com/embedplayer/tafasfasfasfasfasfasfasf/1/700/500 Conn=S:OK –live
 #EXTINF:1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:1,SKY SPORT 1 HD
-http://144.76.3.83/sky_sports1gb.m3u8?bandwidth=956&token=205e6dc135bf9e7fe3da60d6ba052211&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 2 HD
-http://144.76.3.83/sky_sports2gb.m3u8?bandwidth=956&token=0eef3bb1a1c2e4d2bc4b9f35b6f2b360&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 3 HD
-http://144.76.3.83/sky_sports3gb.m3u8?bandwidth=956&token=78b2f090d8e8dfcac5c3d40377fb8664&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT 4 HD
-http://144.76.3.83/sky_sports4gb.m3u8?bandwidth=956&token=bd738b4aa272cbf816942c3b947eb8f7&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT F1 HD
-http://144.76.3.83/sky_sportsf1gb.m3u8?bandwidth=956&token=9ba67e371d00eb599c78ab99bb6569c0&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY SPORT NEWS HD
-http://144.76.3.83/sky_sportsnewsgb.m3u8?bandwidth=956&token=08050155b2de57c837b5ca900e0602fd&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY MOVIES COMEDY
-http://136.243.12.170/sky_moviescomedy_gb.m3u8?bandwidth=956&token=4281d384dde998c5b15237efe8c520be&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY MOVIES PREMIERE
-http://136.243.12.170/sky_moviespremiere_gb.m3u8?bandwidth=956&token=64d72c0aa1b059d2492bec590e0e729d&user=35430&playlistlength=25&os=browser
-#EXTINF:1,SKY MOVIES HORROR
-http://136.243.12.170/sky_moviesscifi_gb.m3u8?bandwidth=956&token=b76b901e0718828bf6a2389320747666&user=35430&playlistlength=25&os=browser
-#EXTINF:1,ITV
-http://144.76.3.83/itv1_gb.m3u8?bandwidth=956&token=ef343f63c395c6ffaf389d2810848ff7&user=35430&playlistlength=25&os=browser
-#EXTINF:1,ITV 2
-http://144.76.3.83/itv2_gb.m3u8?bandwidth=956&token=091fad55e02d401c1198029ff979a1c3&user=35430&playlistlength=25&os=browser
-#EXTINF:1,ITV 3
-http://148.251.195.105/itv3_gb.m3u8?bandwidth=956&token=96c7465a621765d1d3f325d6f0cefe7b&user=35430&playlistlength=25&os=browser
 #EXTINF:1,Cartoon Network
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:1,24/7 Comedy Movies
@@ -997,48 +909,84 @@ http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
 #EXTINF:1,VH-1
 http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
-#EXTINF:-1,Animal Planet HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/10.ch
-#EXTINF:-1,OSN First HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/18.ch
-#EXTINF:-1,OSN Movies Drama HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/14.ch
-#EXTINF:-1,OSN Movies HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/16.ch
-#EXTINF:-1,Star Movies HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/11.ch
-#EXTINF:-1,beIN Sports 1 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/27.ch
-#EXTINF:-1,beIN Sports 10 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/36.ch
-#EXTINF:-1,beIN Sports 2 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/28.ch
-#EXTINF:-1,beIN Sports 3 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/29.ch
-#EXTINF:-1,beIN Sports 4 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/30.ch
-#EXTINF:-1,beIN Sports 5 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/31.ch
-#EXTINF:-1,beIN Sports 6 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/32.ch
-#EXTINF:-1,beIN Sports 7 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/33.ch
-#EXTINF:-1,beIN Sports 8 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/34.ch
-#EXTINF:-1,beIN Sports 9 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/35.ch
-#EXTINF:-1,Discovery HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/37.ch
-#EXTINF:-1,Discovery Science HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/38.ch
-#EXTINF:-1,Nat Geo Wild HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/39.ch
-#EXTINF:-1,OSN Sports 2 HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/25.ch
-#EXTINF:-1,OSN Star Movies HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/20.ch
-#EXTINF:-1,OSN Ya Hala! Shabab HD
-http://tv.tviptv.org:8000/skype:iptv-star@hotmail.com/skype:iptv-star@hotmail.com/23.ch
+#EXTINF:1,#EXTINF:-1,ABC News [COLOR green]HD[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:1,Animal Planet [COLOR green]HD[/COLOR]
+http://113.160.49.34/lives/origin03/animalsd.isml/animalsd-1096k.m3u8
+#EXTINF:1,BBC Sport
+rtmp://freeview.fms.visionip.tv/live playpath=sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:1,CNN [COLOR green]HD[/COLOR]
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:1,NASA [COLOR green]HD[/COLOR]
+http://sjc-uhls-proxy103.ustream.tv/watch/playlist.m3u8?cid=6540154&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=US&geocity=Bayonne&userId=1363733255&connectionId=sjc-ums08_1363733255&ts=1407106416&ip=108.53.70.150&cdn=uhs_akamai&sgn=8ad98f9e4601cb42f3b8e58ecd769b816de5cd0e
+#EXTINF:1,RT Documentary [COLOR green]HD[/COLOR]
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:1,Live TV Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:1,ESPN
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+#EXTINF:1,HBO
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1,HBO [COLOR gray](Link 2)[/COLOR]
+rtmp://89.248.168.57:1935/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/HBO token=#ed%h0#w18623jsda6523lDGDve
+#EXTINF:1,Star Movies [COLOR green]HD 720p[/COLOR]
+http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
+#EXTINF:1,Best Music [COLOR green]HD 720p[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:1,Club [COLOR green]HD 720p[/COLOR]
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:1,Eska Party [COLOR green]HD 720p[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:1,Eska Rock [COLOR green]HD 720p[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:1,HD MEDIA 3D [COLOR green]HD 720p[/COLOR]
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
+#EXTINF:1,Carol Cables TV (Florida)
+mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
+#EXTINF:1,Channel 6 - City of Austin
+rtmp://oflash.dfw.swagit.com/live/austintx/live-1?husham.com
+#EXTINF:1,Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
+#EXTINF:1,CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:1,Fashion TV.
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8?husham.com
+#EXTINF:1,HSN
+rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31
+#EXTINF:1,University of California TV
+rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800?husham.com
+#EXTINF:1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:1,Bloomberg [COLOR gray](Link 2)[/COLOR]
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1 , Stock News
+rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
+#EXTINF:1,MSNBC
+rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/?husham.com
+#EXTINF:1,HLN 1
+rtmp://c.cdn.newschat.tv/edge playpath=hln_live live=1   swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/twoons/?husham.com timeout=15
+#EXTINF:1,CNN News Live
+rtmp://a.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/international/?husham.com
+#EXTINF:1,World News ( BBC News Sometimes)
+rtmp://a.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/world/?husham.com
+#EXTINF:-1 , CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8?husham.com
+#EXTINF:1,i24 News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8??husham.com
+#EXTINF:1,RT America
+http://odna.octoshape.net/f3f5m2v4/cds/ch4_320p/blizznow.m3u8?husham.com
+#EXTINF:-1,Vernnissage TV
+http://149.11.34.6:1935/live/vernissagetv.stream/hasbahca.m3u8
+#EXTINF:1,GMU TV
+mms://media.mesa.gmu.edu/capconwhite1?husham.com
+#EXTINF:1,Bussnews News
+rtmp://d.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/bloombug/?husham.com
+#EXTINF:1,CBC News (Canada)
+rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
