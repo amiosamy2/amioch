@@ -183,6 +183,24 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:0,MBC 1
+http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
+#EXTINF:0,MBC 2
+http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
+#EXTINF:0,MBC 3
+http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
+#EXTINF:0,MBC 4
+http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
+#EXTINF:0,MBC Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+#EXTINF:0,MBC Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+#EXTINF:0,MBC Drama
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
+#EXTINF:0,MBC Masr
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
+#EXTINF:0,MBC Max
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:1,SKY SPORTS 1
