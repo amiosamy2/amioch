@@ -183,26 +183,318 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 #EXTINF:-1,MBC BOLLYWOOD
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
-#EXTINF:0,MBC 1
+#EXTINF:-1,MBC 1
 http://89.248.171.141/ts60/ch1244/index.m3u8?v=1548652116
-#EXTINF:0,MBC 2
+#EXTINF:-1,MBC 2
 http://89.248.171.141/ts60/ch1246/index.m3u8?v=1548652116
-#EXTINF:0,MBC 3
+#EXTINF:-1,MBC 3
 http://89.248.171.141/ts60/ch1247/index.m3u8?v=1548652116
-#EXTINF:0,MBC 4
+#EXTINF:-1,MBC 4
 http://89.248.171.141/ts60/ch1245/index.m3u8?v=1548652116
-#EXTINF:0,MBC Action
+#EXTINF:-1,MBC Action
 http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
-#EXTINF:0,MBC Bollywood
+#EXTINF:-1,MBC Bollywood
 http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
-#EXTINF:0,MBC Drama
+#EXTINF:-1,MBC Drama
 http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
-#EXTINF:0,MBC Masr
+#EXTINF:-1,MBC Masr
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
-#EXTINF:0,MBC Max
+#EXTINF:-1,MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 1 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/482.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 2 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/483.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 3 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/484.m3u8
+#EXTINF:-1,FRENCH : BEIN SPORT 4 FR HD
+http://iptvservice.ddns.net:8000/live/bruno/bruno/2739.m3u8
+#EXTINF:-1,BEIN SPORT HD1
+http://bit.ly/1DIYT9z
+#EXTINF:-1,BEIN SPORT HD2
+http://bit.ly/1gg44Je
+#EXTINF:-1,BEIN SPORT HD3
+http://bit.ly/1LNxVpk
+#EXTINF:-1,BEIN SPORT HD4
+http://bit.ly/1InbBvD
+#EXTINF:-1,BEIN SPORT HD5
+http://bit.ly/1MsnRBp
+#EXTINF:-1,BEIN SPORT HD6
+http://bit.ly/1MsnV3Y
+#EXTINF:-1,BEIN SPORT HD7
+http://bit.ly/1KtviFX
+#EXTINF:-1,BEIN SPORT HD8
+http://bit.ly/1KtviFX
+#EXTINF:-1,BEIN SPORT HD9
+http://bit.ly/1InbJeP
+#EXTINF:-1,BEIN SPORT HD10
+http://bit.ly/1OKLQL9
+#EXTINF:-1,BEIN SPORT HD11
+http://bit.ly/1ettAc1
+#EXTINF:-1,BEIN SPORT HD12
+http://bit.ly/1gg4Iqj
+#EXTINF:-1,BEIN SPORT HD12
+http://bit.ly/1eU81le
+#EXTINF:-1,BEIN SPORT HD13
+http://bit.ly/1eU81le
+#EXTINF:-1,BEIN SPORT HD14
+http://bit.ly/1D1Y80K
+#EXTINF:-1,BEIN SPORT HD15
+http://bit.ly/1ettMbf
+#EXTINF:-1,SKY SPORT HD2
+http://bit.ly/1gb6VTe
+#EXTINF:-1,SKY SPORT HD3
+http://bit.ly/1KRMcyu
+#EXTINF:-1,SKY SPORT HD4
+http://bit.ly/1SQyenw
+#EXTINF:-1,SKY SPORT HD5
+http://bit.ly/1MNKpO0
+#EXTINF:-1,BT SPORT HD1
+http://bit.ly/1MNKqRW
+#EXTINF:-1,BT SPORT HD2
+http://bit.ly/1MNKrFF
+#EXTINF:-1,PREMIER CALCIO
+http://bit.ly/1MRGZGN
+#EXTINF:-1,SKY SPORT 24
+http://bit.ly/1JKAClv
+#EXTINF:-1,FOX SPORT HD
+http://bit.ly/1IBtNYY
+#EXTINF:-1,SKY SPORT HD
+http://bit.ly/1KtLbz8
+#EXTINF:-1,BT SPORT HD1
+http://bit.ly/1MvMI8m
+#EXTINF:-1,SETANTA SPORT HD
+http://bit.ly/1U28xNX
+#EXTINF:-1,MOTORS TV
+http://bit.ly/1I4Fbaa
+#EXTINF:-1,EUROSPORT
+http://bit.ly/1S7pMQj
+#EXTINF:-1,TELL SPORT
+http://bit.ly/1Ktw7yO
+#EXTINF:-1,EUROSPORT HD1
+http://bit.ly/1IpzkQu
+#EXTINF:-1,SPORT TV PORTUGAL1
+http://bit.ly/1U28Fgu
+#EXTINF:-1,SPORT TV PORTUGAL2
+http://bit.ly/1MRHjW6
+#EXTINF:-1,SPORT TV PORTUGAL3
+http://bit.ly/1JpyrIj
+#EXTINF:-1,SPORT TV PORTUGAL 4
+http://bit.ly/1etuyVV
+#EXTINF:-1,SPORT TV PORTUGAL5
+http://bit.ly/1HUM5kg
+#EXTINF:-1,EUROSPORT HD1
+http://bit.ly/1IpzkQu
+#EXTINF:-1,EUROSPORT HD2
+http://bit.ly/1D1YXX8
+#EXTINF:-1,CANAL+GOLF
+http://bit.ly/1I4Fxh4
+#EXTINF:-1,CANAL+FOTBALL
+http://bit.ly/1MRHy3s
+#EXTINF:-1,BEIN SPORT 1FR
+http://bit.ly/1D1Z6tS
+#EXTINF:-1,BEIN SPORT 2FR
+http://bit.ly/1VIVMcV
+#EXTINF:-1,ARENA SPORT 3
+http://bit.ly/1JpyMLg
+#EXTINF:-1,ARENA SPORT 4
+http://bit.ly/1D5EKPX
+#EXTINF:-1,ARENA SPORT 1
+http://bit.ly/1Msoj2h
+#EXTINF:-1,ARENA SPORT 2
+http://bit.ly/1gg6d7R
+#EXTINF:-1,MOVISTAR
+http://bit.ly/1InczrL
+#EXTINF:-1,EUROSPORT BRITISH
+http://bit.ly/1I4FQsc
+#EXTINF:-1,SKY SPORT CALCIO HD1
+http://bit.ly/1etvdqm
+#EXTINF:-1,SPORTING TV
+http://bit.ly/1LNC3pn
+#EXTINF:-1,SPORT VEOTBAL
+http://bit.ly/1D5EZKP
+#EXTINF:-1,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:-1,SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:-1,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:-1,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
+#EXTINF:-1,FOX SPORT USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
+#EXTINF:-1,SPORT USA1
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:-1,NBC GOLF USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
+#EXTINF:-1,SPORT USA2 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
+#EXTINF:-1,NBA USA
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:-1,NBC SPORT
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF: -1, ESPN LatinoamÈrica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/342.ch
+#EXTINF: -1, ESPN2Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/343.ch
+#EXTINF: -1, ESPN3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/344.ch
+#EXTINF: -1, Fox Sports Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/345.ch
+#EXTINF: -1, Fox sports2 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/346.ch
+#EXTINF: -1, Fox sports3 Latinoamerica
+http://iptvmx.ddns.net/tutvguia/tutvguiaiptv/347.ch
+#EXTINF:-1,Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/36.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/37.ts
+#EXTINF:-1,EuroSport HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/38.ts
+#EXTINF:-1,EuroSport 2 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/39.ts
+#EXTINF:-1,Bike Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/326.ts
+#EXTINF:-1,Rai Sport 1
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/243.ts
+#EXTINF:-1,Rai Sport 2
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/244.ts
+#EXTINF:-1,Milan Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/41.ts
+#EXTINF:-1,JUVENTUS TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/42.ts
+#EXTINF:-1,Inter Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/43.ts
+#EXTINF:-1,Lazio Style Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/44.ts
+#EXTINF:-1,ROMA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/45.ts
+#EXTINF:-1,GAZZETTA TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/506.ts
+#EXTINF:-1,Europort1
+http://212.51.156.151:3010
+#EXTINF:-1,Europort2
+http://212.51.156.151:3000
+#EXTINF:-1,SKY Sport24
+http://212.51.156.151:3013
+#EXTINF:-1,SkyCalcio1
+http://212.51.146.19:4000
+#EXTINF:-1,Sky Sport Plus
+http://212.51.146.19:4007
+#EXTINF:-1,SKY Sport1
+http://212.51.156.151:3011
+#EXTINF:-1,SKY Sport2
+http://109.202.195.76:5003
+#EXTINF:-1,SKY Sport3
+http://109.202.195.76:5001
+#EXTINF:-1,sky-sport-f1
+http://212.51.146.19:4004
+#EXTINF:-1,Fox Sports
+http://109.202.195.76:5010
+#EXTINF:-1,Sky Sport 1 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/260.ch
+#EXTINF:-1,Sky Sport 2 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/261.ch
+#EXTINF:-1,Sky Sport 24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/262.ch
+#EXTINF:-1,Sky Sport 3 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/263.ch
+#EXTINF:-1,Sky SPort HD HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/278.ch
+#EXTINF:-1,Sky Sport TG24 HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/279.ch
+#EXTINF:-1,Sky Supercalcio HD
+http://62.210.248.96:11000/fagaj@sky.com_it/fagaj@sky.com_it/264.ch
+EXTINF:-1,BEIN SPORT HD1
+http://bit.ly/1M7OKvi
+EXTINF:-1,BEIN SPORT HD2
+http://bit.ly/1gFB265
+EXTINF:-1,BEIN SPORT HD3
+http://bit.ly/1Il5E3x
+EXTINF:-1,BEIN SPORT HD4
+http://bit.ly/1DlRH8Q
+EXTINF:-1,BEIN SPORT HD5
+http://bit.ly/1VXN1vH
+EXTINF:-1,BEIN SPORT HD6
+http://bit.ly/1K1aoLK
+EXTINF:-1,BEIN SPORT HD7
+http://bit.ly/1IfyeFA
+EXTINF:-1,BEIN SPORT HD8
+http://bit.ly/1JIIng5
+EXTINF:-1,BEIN SPORT HD9
+http://bit.ly/1hgpgiC
+EXTINF:-1,BEIN SPORT HD10
+http://bit.ly/1IIj50S
+EXTINF:-1,UK: Sky Sports 1 HD
+http://bit.ly/1KMDNik
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://bit.ly/1hgnRZ6
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://bit.ly/1UjmAPm
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://bit.ly/1JIFPyO
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://bit.ly/1DlPJ8j
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://bit.ly/1OLXAMN
+#EXTINF:-1,UK: Sky Sports F1
+http://bit.ly/1E57XWr
+#EXTINF:-1,UK: Premier Sports
+http://bit.ly/1Il3GAa
+#EXTINF:-1,UK: Setanta Sports
+http://bit.ly/1MIEZDT
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://bit.ly/1M7Mm7R
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://bit.ly/1IBJ1XB
+#EXTINF:-1,UK: Sky BT Sport 1
+http://bit.ly/1SEjOXr
+#EXTINF:-1,UK: Sky BT Sport 2
+http://bit.ly/1DlPTwv
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://bit.ly/1UjmJSI
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://bit.ly/1Il3Rvd
+#EXTINF:-1,SPORT TV PORTUGAL1
+http://bit.ly/1U28Fgu
+#EXTINF:-1,SPORT TV PORTUGAL2
+http://bit.ly/1MRHjW6
+
+#EXTINF:-1,SPORT TV PORTUGAL3
+http://bit.ly/1JpyrIj
+#EXTINF:-1,SPORT TV PORTUGAL 4
+http://bit.ly/1etuyVV
+#EXTINF:-1,SPORT TV PORTUGAL5
+http://bit.ly/1HUM5kg
+#EXTINF:-1,EUROSPORT HD1
+http://bit.ly/1IpzkQu
+#EXTINF:-1,EUROSPORT HD2
+http://bit.ly/1D1YXX8
+#EXTINF:-1,CANAL+GOLF
+http://bit.ly/1I4Fxh4
+#EXTINF:-1,CANAL+FOTBALL
+http://bit.ly/1MRHy3s
+#EXTINF:-1,BEIN SPORT 1FR
+http://bit.ly/1D1Z6tS
+#EXTINF:-1,BEIN SPORT 2FR
+http://bit.ly/1VIVMcV
+#EXTINF:-1,ARENA SPORT 3
+http://bit.ly/1JpyMLg
+#EXTINF:-1,ARENA SPORT 4
+http://bit.ly/1D5EKPX
+#EXTINF:-1,ARENA SPORT 1
+http://bit.ly/1Msoj2h
+#EXTINF:-1,ARENA SPORT 2
+http://bit.ly/1gg6d7R
+#EXTINF:-1,SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:-1,SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:-1,SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:-1,SUPER SPORT HD4
+http://bit.ly/1LSLeDl
 #EXTINF:1,SKY SPORTS 1
 http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
 #EXTINF:1,SKY SPORTS 2
