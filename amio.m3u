@@ -87,16 +87,14 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 #EXTINF:-1,Aljazeera Arabic HD
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
-#EXTINF:-1,Aljazeera Arabic
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
 #EXTINF:-1,Aljazeera America
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_america/ls_satlink/b_828.m3u8
 #EXTINF:-1,Aljazeera arabic tv
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 #EXTINF:-1,Aljazeera US
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:-1,Aljazeera english
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
 #EXTINF:-1,Bloomberg (USA)
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1,Bloomberg (Europe)
@@ -110,9 +108,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
 #EXTINF:-1,BBC Arabia
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,BBC Arabic
-http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/bbc_ar/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1,BBC News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_ar/ls_satlink/b_828.m3u8
 #EXTINF:-1,CNBC
 rtmp://uxb3oeh62u848655b8l0r1d3y7d51.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/stocks/
 #EXTINF:-1,CNN
@@ -142,7 +138,7 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_480p/chunklist.m3u8
 #EXTINF:-1,Russia alyam tv site2
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_auto.smil/playlist.m3u8
 #EXTINF:-1,Reuters Live Stream
-http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+http://live.reuters.miisolutions.net/reuters_rlo01_247/smil:reuters_rlo01_247.smil/22447/chunklist_b1096000.m3u8
 #EXTINF:-1,Sky News International
 mms://bskybwlivewm.fplive.net/bskybnewsfree-live/skynews-300k?token=ZW5kX3RpbWU9MjAxMzEyMDkxNzA4MjMmZGlnZXN0PWNlYWMyOTQ5YjcyMjk1N2ZlZGRkNzcyOTRhMGFjMWQw
 #EXTINF:-1,Sky News Arabia
