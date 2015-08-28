@@ -227,6 +227,8 @@ http://185.5.222.231:4242/bysid/5112
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/gmswf.m3u8?v=1096642816
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
+#EXTINF:-1,Bein Sports 1
+http://94.100.31.242:8183/hls/xz3128/index.m3u8
 #EXTINF:1,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:1,BEIN USA 2
@@ -391,7 +393,6 @@ http://212.51.148.162:2010/hdmi
 http://212.51.148.162:2011/hdmi
 #EXTINF:1,Cinema Comedy HD
 http://212.51.148.162:2012/hdmi
-
 #EXTINF:-1,1 radio=true group-title=Radio,Abana
 http://www.radio-abana.org/playlist.asx
 #EXTINF:-1,1 radio=true,Altareeq
