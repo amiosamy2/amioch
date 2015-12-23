@@ -235,7 +235,6 @@ http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
 http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
 #EXTINF:-1,MBC Max
 http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
-
 #EXTINF:-1,ACTION HD
 http://iptv.star7arab.com:80/Temporary-server/jnsuaballmq870365/747.ch
 #EXTINF:-1,AD Aloula  1
@@ -637,7 +636,37 @@ rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://w
 #EXTINF:-1,group-title=Sports,Al Nahar Sports
 http://50.7.180.18:1935/elnahar_tv/nahar_sportprofile2.stream/chunklist_w2042020818.m3u8
 #EXTINF:-1,Bein Sports 1
-http://94.100.31.242:8183/hls/xz3128/index.m3u8
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/18.ts
+#EXTINF:-1,Bein Sports 2
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/19.ts
+#EXTINF:-1,Bein Sports 3 AR
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/20.ts
+#EXTINF:-1,Bein Sports 4
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/21.ts
+#EXTINF:-1,Bein Sports 5
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/22.ts
+#EXTINF:-1,Bein Sports 6
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/23.ts
+#EXTINF:-1,Bein Sports 7
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/24.ts
+#EXTINF:-1,Bein Sports 8
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/25.ts
+#EXTINF:-1,Bein Sports 9
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/26.ts
+#EXTINF:-1,Bein Sports 10
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/27.ts
+#EXTINF:-1,Bein Sports 11
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/28.ts
+#EXTINF:-1,Bein Sports NEWS
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/29.ts
+#EXTINF:-1,Bein Sports HD
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/30.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/1.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/1.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://micutzuiptv.noip.me:8000/live/tvonlinestreams/freebein/1.ts
 #EXTINF:1,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:1,BEIN USA 2
