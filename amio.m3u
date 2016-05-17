@@ -1,4 +1,338 @@
 #EXTM3U
+#EXTINF:-1,Bein Sport HD1
+http://149.202.198.114:8000/play/beins1hd
+#EXTINF:-1,Bein Sport HD2
+http://149.202.198.114:8000/play/beins2hd
+#EXTINF:-1,Bein Sport HD3
+http://149.202.198.114:8000/play/beinshd3
+#EXTINF:-1,Bein Sport HD4
+http://149.202.198.114:8000/play/beinshd4
+#EXTINF:-1,Bein Sport HD5
+http://149.202.198.114:8000/play/beinshd5
+#EXTINF:-1,Bein Sport HD6
+http://149.202.198.114:8000/play/beinshd6
+#EXTINF:-1,Bein Sport HD7
+http://149.202.198.114:8000/play/beinshd7
+#EXTINF:-1,Bein Sport HD8
+http://149.202.198.114:8000/play/beinshd8
+#EXTINF:-1,Bein Sport HD9
+http://149.202.198.114:8000/play/beinshd9
+#EXTINF:-1,Bein Sport HD10
+http://149.202.198.114:8000/play/beinshd10
+#EXTINF:-1,Bein Sport HD 12
+http://149.202.198.114:8000/play/beinshd12
+#EXTINF:-1,Bein Sport HD 13
+http://149.202.198.114:8000/play/beins13hd
+#EXTINF:-1,National GeographicHD
+http://stream-09.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/51adfa5706361d3a8700014d/live.isml/events/live-audio%3D64000-video%3D894000.m3u8
+#EXTINF:-1,National Geographic WildHD
+http://stream-09.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51fa29ac06361d41c2000020/live.isml/events/live-audio%3D64000-video%3D928000.m3u8
+#EXTINF:-1,Crime Investigation
+http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/5653105394a6f61397ac89a9/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,Docubox TV
+http://stream-12.vty.dailymotion.com/25/dc/1/50b7998806361d3ecc0138cc/51fa2a4d94a6f66ee6000000/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,Nickelodeon
+http://stream-06.vty.dailymotion.com/26/dc/1/50b7998806361d3ecc0138cc/51a76de19473995ffc000235/live.isml/events/live-audio%3D64000-video%3D681000.m3u8
+#EXTINF:-1,Travel Mix
+http://stream-06.vty.dailymotion.com/20/dc/1/50b7998806361d3ecc0138cc/522f1bd694a6f60835000014/live.isml/events/live-audio%3D64000-video%3D708000.m3u8
+#EXTINF:0,UK: Sky News HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/550.ts
+#EXTINF:0,UK: Sky Sports News HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/549.ts
+#EXTINF:0,UK: Sky Sports 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/548.ts
+#EXTINF:0,UK: Sky Sport 1 SD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/533.ts
+#EXTINF:0,UK: Sky Sports 2 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/547.ts
+#EXTINF:0,UK: Sky Sport 2 SD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/532.ts
+#EXTINF:0,UK: Sky Sports 3 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/546.ts
+#EXTINF:0,UK: Sky Sport 3 SD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/531.ts
+#EXTINF:0,UK: Sky Sports 4 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/545.ts
+#EXTINF:0,UK: Sky Sport 4 SD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/530.ts
+#EXTINF:0,UK: Sky Sports 5 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/544.ts
+#EXTINF:0,UK: Sky Sport 5 SD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/529.ts
+#EXTINF:0,UK: Sky Sports F1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/539.ts
+#EXTINF:0,UK: Sky Premier Sports HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/513.ts
+#EXTINF:0,UK: Sky Setanta Sports
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/484.ts
+#EXTINF:0,UK: Sky Eurosport 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/541.ts
+#EXTINF:0,UK: Sky Eurosport 2 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/540.ts
+#EXTINF:0,UK: Sky BT Sport 1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/543.ts
+#EXTINF:0,UK: Sky BT Sport 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/542.ts
+#EXTINF:0,UK: Sky BT Sport 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/528.ts
+#EXTINF:0,UK: Sky BT Sport 2 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/527.ts
+#EXTINF:0,UK: Sky BT Sport Europe
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/453.ts
+#EXTINF:0,UK: Sky Liverpool FC TV HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/536.ts
+#EXTINF:0,UK: Sky Chelsea TV HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/537.ts
+#EXTINF:0,UK: Sky MUTV
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/535.ts
+#EXTINF:0,UK: Sky Movies Premiere HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/519.ts
+#EXTINF:0,UK: Sky Movies Disney
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/516.ts
+#EXTINF:0,UK: Sky Movies Select HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/517.ts
+#EXTINF:0,UK: Sky Movies Action HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/511.ts
+#EXTINF:0,UK: Sky Movies Greats
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/518.ts
+#EXTINF:0,UK: Sky Movies Family HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/520.ts
+#EXTINF:0,UK: Sky Movies Drama HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/521.ts
+#EXTINF:0,UK: Sky Movies Comedy HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/524.ts
+#EXTINF:0,UK: Sky Movies Crime
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/512.ts
+#EXTINF:0,UK: Sky Movies Sci-Fi+
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/515.ts
+#EXTINF:0,UK: Sky Movies 24
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/523.ts
+#EXTINF:0,UK: Sky True Movies1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/472.ts
+#EXTINF:0,UK: Sky True Movies 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/534.ts
+#EXTINF:0,UK: Sky More 4 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/504.ts
+#EXTINF:0,UK: Sky Film 4 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/505.ts
+#EXTINF:0,UK: Sky ITV 1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/471.ts
+#EXTINF:0,UK: Sky ITV 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/470.ts
+#EXTINF:0,UK: Sky ITV 3
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/469.ts
+#EXTINF:0,UK: Sky ITV 4
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/468.ts
+#EXTINF:0,UK: Sky ITV Encore
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/467.ts
+#EXTINF:0,UK: Sky Cbs Drama
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/482.ts
+#EXTINF:0,UK: Sky Cbs Action
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/481.ts
+#EXTINF:0,UK: Sky CBS Reality
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/510.ts
+#EXTINF:0,UK: Sky BBC One HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/488.ts
+#EXTINF:0,UK: Sky BBC Two HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/487.ts
+#EXTINF:0,UK: Sky BBC Three HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/486.ts
+#EXTINF:0,UK: Sky BBC Four HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/485.ts
+#EXTINF:0,UK: Sky BT Sport Extra
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/479.ts
+#EXTINF:0,UK: Sky Comedy Central
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/463.ts
+#EXTINF:0,UK: Sky Comedy Central Ex
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/462.ts
+#EXTINF:0,UK: Sky History 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/452.ts
+#EXTINF:0,UK: Sky Nickelodeon
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/503.ts
+#EXTINF:0,UK: Sky Disney XD HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/493.ts
+#EXTINF:0,UK: Sky Disney Junior HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/494.ts
+#EXTINF:0,UK: Sky Food Network
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/495.ts
+#EXTINF:0,UK: Sky Discovery
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/464.ts
+#EXTINF:0,UK: Sky Disney Chaneel HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/492.ts
+#EXTINF:0,UK: Sky Cartoon Network
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/522.ts
+#EXTINF:0,UK: Sky Discovery Science
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/526.ts
+#EXTINF:0,UK: Sky Discovery History
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/491.ts
+#EXTINF:0,UK: Sky Discovery Turbo
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/465.ts
+#EXTINF:0,UK: Sky Ci
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/514.ts
+#EXTINF:0,UK: Sky Animal Planet HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/497.ts
+#EXTINF:0,UK: Sky National Geographic HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/499.ts
+#EXTINF:0,UK: Sky Nat Geo Wild HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/498.ts
+#EXTINF:0,UK: Sky History HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/496.ts
+#EXTINF:0,UK: Sky 1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/475.ts
+#EXTINF:0,UK: Sky 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/507.ts
+#EXTINF:0,UK: Sky Atlantic
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/483.ts
+#EXTINF:0,UK: Sky VH1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/449.ts
+#EXTINF:0,UK: Sky E4
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/451.ts
+#EXTINF:0,UK: Sky Syfy
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/538.ts
+#EXTINF:0,UK: Sky MTV Hits
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/500.ts
+#EXTINF:0,UK: Sky CNBC
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/466.ts
+#EXTINF:0,UK: Sky Dave HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/506.ts
+#EXTINF:0,UK: Sky RTE One
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/474.ts
+#EXTINF:0,UK: Sky RTE Two
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/478.ts
+#EXTINF:0,UK: Sky Five
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/473.ts
+#EXTINF:0,UK: Sky Arts 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/489.ts
+#EXTINF:0,UK: Sky Alibi
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/509.ts
+#EXTINF:0,UK: Sky Living HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/502.ts
+#EXTINF:0,UK: Sky BoxNation
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/490.ts
+#EXTINF:0,UK: Sky Racing
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/458.ts
+#EXTINF:0,UK: Sky Gold
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/508.ts
+#EXTINF:0,UK: Sky 5 USA
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/480.ts
+#EXTINF:0,UK: Sky 5 star
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/477.ts
+#EXTINF:0,UK: Sky life Time
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/476.ts
+#EXTINF:0,UK: Sky E4+1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/525.ts
+#EXTINF:0,UK: Sky Good Food HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/501.ts
+#EXTINF:0,Uk: Sky At the Races
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/461.ts
+#EXTINF:0,UK: SKY STV
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/460.ts
+#EXTINF:0,UK: Sky TCM
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/459.ts
+#EXTINF:0,UK: Mtv Rocks
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/450.ts
+#EXTINF:0,UK: CNN
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/454.ts
+#EXTINF:0,UK: Dmax
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/456.ts
+#EXTINF:0,UK: Sky Bloomberg HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/457.ts
+#EXTINF:0,UK: Sky TLC
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/455.ts
+#EXTINF:0,UK: Sky Magic
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/448.ts
+#EXTINF:0,US: Fox Sports 1
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1161.ts
+#EXTINF:0,US: Fox Sports 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1160.ts
+#EXTINF:0,US: Sport ThaiPBS
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1442.ts
+#EXTINF:0,US: Sport 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1177.ts
+#EXTINF:0,US: Sport Network
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1172.ts
+#EXTINF:0,US: Sports Versus HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1431.ts
+#EXTINF:0,US: World Fashion TV
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1432.ts
+#EXTINF:0,US: Sports NFL Now HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1434.ts
+#EXTINF:0,US: Nasa TV Education
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1433.ts
+#EXTINF:0,US: Sports MLS Soccer
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1151.ts
+#EXTINF:0,US: Sports Tonight
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1158.ts
+#EXTINF:0,US: Sports Fight Sports
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1436.ts
+#EXTINF:0,US: Sports HI
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1435.ts
+#EXTINF:0,US: Red Bull TV HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1153.ts
+#EXTINF:0,US: NFL Now
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1148.ts
+#EXTINF:0,US: Star Movies HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1157.ts
+#EXTINF:0,US: Moveis Nuoc Ngoai
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1165.ts
+#EXTINF:0,US: AFN Sport HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1438.ts
+#EXTINF:0,US: Fox 1 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1450.ts
+#EXTINF:0,US: Fox Action HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1447.ts
+#EXTINF:0,US: Fox Moveis HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1448.ts
+#EXTINF:0,US: Fox Classics
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1449.ts
+#EXTINF:0,US: Cine Canel
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1451.ts
+#EXTINF:0,US: WFTV ABC
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1441.ts
+#EXTINF:0,US: Animal Planet Canada
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1443.ts
+#EXTINF:0,US: Amazing Music
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1446.ts
+#EXTINF:0,US: US: AFN Sport 2 HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1429.ts
+#EXTINF:0,US: WFTV Channel 9
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1430.ts
+#EXTINF:0,US: AMG Entertainment
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1437.ts
+#EXTINF:0,US: Movies HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1176.ts
+#EXTINF:0,US: HBO Movies
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1175.ts
+#EXTINF:0,US: Espan 3
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1162.ts
+#EXTINF:0,US: HSN
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1170.ts
+#EXTINF:0,US: HSN 2
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1163.ts
+#EXTINF:0,US: Hallmark HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1159.ts
+#EXTINF:0,US: Famly Channle
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1156.ts
+#EXTINF:0,US: NBA TV
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1174.ts
+#EXTINF:0,US: starzcinema
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1169.ts
+#EXTINF:0,US: ABC NEWS HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1179.ts
+#EXTINF:0,US: Poker Central
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1155.ts
+#EXTINF:0,US: Movies Network HD
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1178.ts
+#EXTINF:0,US: California TV
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1171.ts
+#EXTINF:0,US: Bloomberg
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1180.ts
+#EXTINF:0,US: Amazing Discoveries
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1181.ts
+#EXTINF:0,US: Daystart
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1145.ts
+#EXTINF:0,US: BYU
+http://ipsatpro.com:8000/live/1995599696708/1995599696708/1147.ts
 #EXTINF:-1,AR OSN YA HALA DRAMA
 http://149.202.198.114:8000/play/arosnyahaladrama
 #EXTINF:-1,AR OSN box office 1
