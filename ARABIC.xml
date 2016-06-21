@@ -1,128 +1,440 @@
 <streamingInfos>
-
 <item>
-<title>AR: LDC MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2935.ts</link>
+<title>MBC1HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1378.ts</link>
 <item>
-<title>AR: CARTON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2939.ts</link>
+<title>MBC2_HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1371.ts</link>
 <item>
-<title>PPV 4HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2289.ts</link>
+<title>MBC4HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1377.ts</link>
 <item>
-<title>PPV 3HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2288.ts</link>
+<title>MBC-DRAMAHD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1395.ts</link>
 <item>
-<title>PPV 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2287.ts</link>
+<title>MBC-ACTIONHD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1394.ts</link>
 <item>
-<title>PPV 1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2286.ts</link>
+<title>MBC1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/19.ts</link>
 <item>
-<title>AR: Rotana-Music</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1977.ts</link>
+<title>MBC2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/20.ts</link>
 <item>
-<title>AR: Rotana Masriya</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1770.ts</link>
+<title>MBC3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/21.ts</link>
 <item>
-<title>AR: Rotana Clip</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1768.ts</link>
+<title>MBC4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/22.ts</link>
 <item>
-<title>AR: Rotana Classic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1769.ts</link>
+<title>MBCDRAMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/25.ts</link>
 <item>
-<title>AR: Rotana Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1771.ts</link>
+<title>MBCAction</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/23.ts</link>
 <item>
-<title>AR: Rotana</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1767.ts</link>
+<title>MBCMAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/26.ts</link>
 <item>
-<title>AR: Panorama Film</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1772.ts</link>
+<title>MBCBollywood</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/24.ts</link>
 <item>
-<title>AR: Panorama Drama 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1774.ts</link>
+<title>MBC_Masr2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/28.ts</link>
 <item>
-<title>AR: Panorama Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1773.ts</link>
+<title>MBC_MASR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/27.ts</link>
 <item>
-<title>AR: Panorama Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1775.ts</link>
+<title>AR-FATAFEAT</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/98.ts</link>
 <item>
-<title>AR: NATIONAL GEOGRAPHIC HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1892.ts</link>
+<title>Rotana</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/43.ts</link>
 <item>
-<title>AR: MBC_ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1640.ts</link>
+<title>Rotana_Cinema_KSA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/45.ts</link>
 <item>
-<title>AR: MBC_4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1641.ts</link>
+<title>Rotana_Cinema_EGY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/44.ts</link>
 <item>
-<title>AR: MBC_3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1642.ts</link>
+<title>Rotana-Masriya</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/49.ts</link>
 <item>
-<title>AR: MBC_2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1643.ts</link>
+<title>Rotana_Clip</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/47.ts</link>
 <item>
-<title>AR: MBC-Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1644.ts</link>
+<title>Rotana_Khalijiah</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/48.ts</link>
 <item>
-<title>AR: MBC MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1909.ts</link>
+<title>Rotana_Classic</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/46.ts</link>
 <item>
-<title>AR: MBC MASR 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1908.ts</link>
+<title>ART_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/53.ts</link>
 <item>
-<title>AR: MBC MASR 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1907.ts</link>
+<title>Aflam_1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/51.ts</link>
 <item>
-<title>AR: FOX-MOVIE.ARABIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2054.ts</link>
+<title>Aflam_2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/52.ts</link>
 <item>
-<title>AR: DUBAI SPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2143.ts</link>
+<title>Hekayat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/54.ts</link>
 <item>
-<title>AR: DUBAI SPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2145.ts</link>
+<title>Hekayat_2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/75.ts</link>
 <item>
-<title>AR: DUBAI SPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2144.ts</link>
+<title>Ar-KIDS HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2290.ts</link>
 <item>
-<title>AR: DUBAI ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2140.ts</link>
+<title>Ar-FILM HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2293.ts</link>
 <item>
-<title>AR: DUBAI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1932.ts</link>
+<title>Ar-CLASSIC HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2291.ts</link>
 <item>
-<title>AR: CBCDRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2083.ts</link>
+<title>Ar-ACTION HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2292.ts</link>
 <item>
-<title>AR: CBC-SOFRA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2082.ts</link>
+<title>Ar-CINEMA2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2302.ts</link>
 <item>
-<title>AR: CBC-Extra</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2084.ts</link>
+<title>Ar-CINEMA1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2301.ts</link>
 <item>
-<title>AR: CBC-2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2081.ts</link>
+<title>Ar-CINEMA-ALWAN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2296.ts</link>
 <item>
-<title>AR: CBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/2080.ts</link>
+<title>CBC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/56.ts</link>
 <item>
-<title>AR: Art-Hekayat 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1978.ts</link>
+<title>CBC2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/57.ts</link>
 <item>
-<title>AR: ART-Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1979.ts</link>
+<title>CBC-Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/58.ts</link>
 <item>
-<title>AR-NILE SPORT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1897.ts</link>
+<title>CBC-Extra</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/59.ts</link>
 <item>
-<title>AR-NILE DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1895.ts</link>
+<title>CBC-Sofra</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/60.ts</link>
 <item>
-<title>AR-NILE COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1894.ts</link>
+<title>AlArabiya-Hadath</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/151.ts</link>
 <item>
-<title>AR-NILE CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.46.198:2500/live/DEWSWSWQ/DEWSWSWQ/1893.ts</link>
+<title>Al-Arabiya</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/150.ts</link>
+<item>
+<title>AL-Hadath</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/154.ts</link>
+<item>
+<title>AL-JAZEERA HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/146.ts</link>
+<item>
+<title>Al-Jazeera-Documentary
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/155.ts</link>
+<item>
+<title>Al-Jazeera-Mubasher</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/833.ts</link>
+<item>
+<title>AR-SAMA-CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/848.ts</link>
+<item>
+<title>AR-BBC-ARABIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/824.ts</link>
+<item>
+<title>AD-NatGeo</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/119.ts</link>
+<item>
+<title>AD-DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/102.ts</link>
+<item>
+<title>AD_ALOULA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/105.ts</link>
+<item>
+<title>AR-Melody_Aflam</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1534.ts</link>
+<item>
+<title>AR-Melody_Classic</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/140.ts</link>
+<item>
+<title>AR-Mazzika</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/291.ts</link>
+<item>
+<title>AR-NOOR-DUBAI</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/149.ts</link>
+<item>
+<title>AR-MUSIC_PLUS</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/131.ts</link>
+<item>
+<title>AR-DUBAITV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/128.ts</link>
+<item>
+<title>AR-DUBAI-ONE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/126.ts</link>
+<item>
+<title>AL_BAIT_BAITAK_CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/284.ts</link>
+<item>
+<title>AR-LDC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1648.ts</link>
+<item>
+<title>AR-Cartoon</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/162.ts</link>
+<item>
+<title>AR-BEIRUT_CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/286.ts</link>
+<item>
+<title>Nile_news</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/295.ts</link>
+<item>
+<title>Nile_Life</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/144.ts</link>
+<item>
+<title>Nile_Family</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/143.ts</link>
+<item>
+<title>Nile_Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/142.ts</link>
+<item>
+<title>Nile_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/141.ts</link>
+<item>
+<title>Nile_Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/294.ts</link>
+<item>
+<title>arb-Nile sport</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1455.ts</link>
+<item>
+<title>Al-Hayat-Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/136.ts</link>
+<item>
+<title>Alhayat-Muslsalat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/515.ts</link>
+<item>
+<title>AlNahar-Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/159.ts</link>
+<item>
+<title>al-nahar-sport</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/835.ts</link>
+<item>
+<title>al-nahar-nour</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/838.ts</link>
+<item>
+<title>Al-Nahar-Al-Youm</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/837.ts</link>
+<item>
+<title>Al-Nahar+2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/834.ts</link>
+<item>
+<title>Al-Nahar</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/156.ts</link>
+<item>
+<title>DREAM1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/287.ts</link>
+<item>
+<title>Dream2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/163.ts</link>
+<item>
+<title>Ar-CAIRO-ONE-TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2305.ts</link>
+<item>
+<title>Cairo-Zaman</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/111.ts</link>
+<item>
+<title>Cairo-Mosalsalat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/110.ts</link>
+<item>
+<title>Cairo-Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/109.ts</link>
+<item>
+<title>Cairo-cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/107.ts</link>
+<item>
+<title>Cairo-Aflam</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/106.ts</link>
+<item>
+<title>Panorama-Drama2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/41.ts</link>
+<item>
+<title>Panorama-Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/40.ts</link>
+<item>
+<title>Panorama-Film</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1555.ts</link>
+<item>
+<title>Panorama-comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/844.ts</link>
+<item>
+<title>Panorama-FOOD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/842.ts</link>
+<item>
+<title>AR-Layaly-Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/115.ts</link>
+<item>
+<title>AR-time_cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/223.ts</link>
+<item>
+<title>STAR-CINEMA2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/850.ts</link>
+<item>
+<title>STAR-CINEMA1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/851.ts</link>
+<item>
+<title>LTC-MASR</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/845.ts</link>
+<item>
+<title>AR-ElBalad-Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/843.ts</link>
+<item>
+<title>ALMASRAWIA-AFLAM</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/847.ts</link>
+<item>
+<title>AR-AHRAM-CINEMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/852.ts</link>
+<item>
+<title>AR-SHNPOO-AFLAM</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/118.ts</link>
+<item>
+<title>Althanya</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/199.ts</link>
+<item>
+<title>AR-Mehwer</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/130.ts</link>
+<item>
+<title>AL_kalemah_TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/200.ts</link>
+<item>
+<title>ALHAYAT</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/123.ts</link>
+<item>
+<title>Alhayat_2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/157.ts</link>
+<item>
+<title>Ar-Logos TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2308.ts</link>
+<item>
+<title>Ar-CTV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2309.ts</link>
+<item>
+<title>Ar-Alkarma TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2310.ts</link>
+<item>
+<title>Ar-Aghapy TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2307.ts</link>
+<item>
+<title>OSN_Series TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/804.ts</link>
+<item>
+<title>BeIN Movies1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/269.ts</link>
+<item>
+<title>BeIN Movies2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1942.ts</link>
+<item>
+<title>BeIN Movies3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/265.ts</link>
+<item>
+<title>OSN-Alyoum</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/345.ts</link>
+<item>
+<title>OSN: WWE HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2260.ts</link>
+<item>
+<title>OSN: FIGHT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2240.ts</link>
+<item>
+<title>OSN-Sports HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1698.ts</link>
+<item>
+<title>OSN_PREMIERE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2284.ts</link>
+<item>
+<title>OSN-Mv_Premiere HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1700.ts</link>
+<item>
+<title>OSN-Mv-Premiere2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1701.ts</link>
+<item>
+<title>OSN-OFFICBOX1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1949.ts</link>
+<item>
+<title>OSN-OFFICBOX2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1948.ts</link>
+<item>
+<title>OSN-OFFICBOX3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1947.ts</link>
+<item>
+<title>OSN-Movies-star</title>
+<item>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1945.ts</link>
+<title>OSN-STAR_GOULD</title>
+<item>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1946.ts</link>
+<title>OSN-On_Demand_HD</title>
+<item>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1943.ts</link>
+<title>OSN-On_Demand_Extra</title>
+<item>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1944.ts</link>
+<title>OSN_MOVIES</title>
+<item>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2278.ts</link>
+<item>
+<title>OSN_MOVIES_DRAMA2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2280.ts</link>
+<item>
+<title>OSN_FIRST_MORE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2276.ts</link>
+<item>
+<title>OSN_FIRST_COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2275.ts</link>
+<item>
+<title>OSN_FIRST</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2274.ts</link>
+<item>
+<title>OSN1_First_HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/346.ts</link>
+<item>
+<title>OSN_FESTIVAL SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/268.ts</link>
+<item>
+<title>OSN_Cinema1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/255.ts</link>
+<item>
+<title>OSN_Cinema2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/256.ts</link>
+<item>
+<title>OSN: Movies HD Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2250.ts</link>
+<item>
+<title>OSN1_ACTION</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/251.ts</link>
+<item>
+<title>OSN: Movies Action HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2246.ts</link>
+<item>
+<title>OSN: MOVIES ACTION  2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2245.ts</link>
+<item>
+<title>OSN_Movies_HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/263.ts</link>
+<item>
+<title>OSN: OSN First More</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2256.ts</link>
+<item>
+<title>OSN_MOV_Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/262.ts</link>
+<item>
+<title>OSN_MBC+-DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1624.ts</link>
+<item>
+<title>OSN_DISC_ID</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2270.ts</link>
+<item>
+<title>OSN_MOVIES Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/264.ts</link>
+<item>
+<title>OSN-Animal Planet HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1699.ts</link>
