@@ -1,79 +1,77 @@
 #EXTM3U
-#EXTINF:-1,AR-Rotana-Aflem
+#EXTINF:-1,Rotana-Aflem
 http://195.12.170.154:8002/play/arrotanaaflem
-#EXTINF:-1,AR-Otv
+#EXTINF:-1,Otv
 http://195.12.170.154:8002/play/arotv
-#EXTINF:-1,AR-MBC1 HD
+#EXTINF:-1,MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
-#EXTINF:-1,AR-Melody-classic
+#EXTINF:-1,Melody-classic
 http://195.12.170.154:8002/play/armelodyclassic
-#EXTINF:-1,AR-Rotana
+#EXTINF:-1,Rotana
 http://195.12.170.154:8002/play/arrotana
-#EXTINF:-1,AR-Mbc-Drama
+#EXTINF:-1,Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama
-#EXTINF:-1,AR-algerya4
+#EXTINF:-1,algerya4
 http://195.12.170.154:8002/play/aralgerya4
-#EXTINF:-1,AR-NBN
+#EXTINF:-1,NBN
 http://195.12.170.154:8002/play/arnbn
-#EXTINF:-1,AR-Nile-family
+#EXTINF:-1,Nile-family
 http://195.12.170.154:8002/play/arnilefamily
-#EXTINF:-1,AR-Nile-Drama
+#EXTINF:-1,Nile-Drama
 http://195.12.170.154:8002/play/arniledrama
-#EXTINF:-1,AR-Rotana Massrya HD
+#EXTINF:-1,Rotana Massrya HD
 http://195.12.170.154:8002/play/arrotanamassryahd
-#EXTINF:-1,AR- Rotana Music HD
+#EXTINF:-1,Rotana Music HD
 http://195.12.170.154:8002/play/arrotanamusichd
-#EXTINF:-1,AR-Medi-1TV
+#EXTINF:-1,Medi-1TV
 http://195.12.170.154:8002/play/armedi1tv
-#EXTINF:-1,AR-Panorama-food
+#EXTINF:-1,Panorama-food
 http://195.12.170.154:8002/play/arpanoramafood
-#EXTINF:-1,AR-Mbc-Max HD
+#EXTINF:-1,Mbc-Max HD
 http://195.12.170.154:8002/play/armbcmaxhd
-#EXTINF:-1,AR-Mtv-lebanon
+#EXTINF:-1,Mtv-lebanon
 http://195.12.170.154:8002/play/armtvlebanon
-#EXTINF:-1,AR-Tamazight alg4
-http://195.12.170.154:8002/play/artamazightalg4
-#EXTINF:-1,AR-Nile-Comedy
+#EXTINF:-1,Nile-Comedy
 http://195.12.170.154:8002/play/arnilecomedy
-#EXTINF:-1,AR-toyour-aljennah
+#EXTINF:-1,toyour-aljennah
 http://195.12.170.154:8002/play/artoyouraljennah
-#EXTINF:-1,AR-RotanaKhaliji HD
+#EXTINF:-1,RotanaKhaliji HD
 http://195.12.170.154:8002/play/arrotanakhalijihd
-#EXTINF:-1,AR-Star Cin1
+#EXTINF:-1,Star Cin1
 http://195.12.170.154:8002/play/arstarcin1
-#EXTINF:-1,AR-Panorama action
+#EXTINF:-1,Panorama action
 http://195.12.170.154:8002/play/arpanoramaaction
-#EXTINF:-1,AR-AlJazeera-Mubasher
+#EXTINF:-1,AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher
-#EXTINF:-1,AR-Panorama-Drama2
+#EXTINF:-1,Panorama-Drama2
 http://195.12.170.154:8002/play/arpanoramadrama2
-#EXTINF:-1,AR-Time Film
+#EXTINF:-1,Time Film
 http://195.12.170.154:8002/play/artimefilm
-#EXTINF:-1,AR-Samira-Tv
+#EXTINF:-1,Samira-Tv
 http://195.12.170.154:8002/play/arsamiratv
-#EXTINF:-1,AR-Mbc4 HD
+#EXTINF:-1,Mbc4 HD
 http://195.12.170.154:8002/play/armbc4hd
-#EXTINF:-1,AR-Mbc2HD
+#EXTINF:-1,Mbc2HD
 http://195.12.170.154:8002/play/armbc2hd
-#EXTINF:-1,AR-MBC-3 HD
+#EXTINF:-1,MBC-3 HD
 http://195.12.170.154:8002/play/armbc3hd
-#EXTINF:-1,Ar-ALBAGHDADIA2
+#EXTINF:-1,ALBAGHDADIA2
 http://195.12.170.154:8002/play/aralbaghdadia2
 #EXTINF:-1,Rotana-classic HD
 http://195.12.170.154:8002/play/arrotanaclassichd
-#EXTINF:-1,AR-Panoram-Drama
+#EXTINF:-1,Panoram-Drama
 http://195.12.170.154:8002/play/arpanoramadrama
-#EXTINF:-1,AR-Tvtchad
+#EXTINF:-1,Tvtchad
 http://195.12.170.154:8002/play/artvtchad
-#EXTINF:-1,AR-Rotana CLIP
+#EXTINF:-1,Rotana CLIP
 http://195.12.170.154:8002/play/arrotanaclip
-#EXTINF:-1,AR-Time Taxi
+#EXTINF:-1,Time Taxi
 http://195.12.170.154:8002/play/artimetaxi
-#EXTINF:-1,AR-Syria Drama
+#EXTINF:-1,Syria Drama
 http://195.12.170.154:8002/play/arsyriadrama
-#EXTINF:-1,AR-Rotana-Cinema HD
+#EXTINF:-1,Rotana-Cinema HD
 http://195.12.170.154:8002/play/arrotanacinemahd
-#EXTINF:-1,AR-Time comedy
+#EXTINF:-1,Time comedy
 http://195.12.170.154:8002/play/artimecomedy
 #EXTINF:-1,MBC 2
 http://51.255.81.190:8080/MBC-2/playlist.m3u8
@@ -117,32 +115,10 @@ http://51.255.81.190:8080/MBC-Action/playlist.m3u8
 http://51.255.81.190:8080/MBC-Bollywood/playlist.m3u8
 #EXTINF:-1,Dubai Zaman
 http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Sharjah
-http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
-#EXTINF:-1,Orient News
-http://ls01.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
-#EXTINF:-1,Peace TV
-http://peace.fms.visionip.tv/live//b2b-peace_usa-live-25f-4x3-sdh_1/playlist.m3u8
-#EXTINF:-1,Citruss TV
-http://live.citrusstv.com/live/watch/chunklist_w2069397388.m3u8
 #EXTINF:-1,Dubai Racing 1
 http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Dubai Sports HD
 http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,Sharjah Sports
-http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
-#EXTINF:-1,CNA (Algeria)
-http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
-#EXTINF:-1,Ennahar TV (Algeria)
-http://live.ennahartv.net/endz/EnnaharTV/chunklist.m3u8
-#EXTINF:-1,El Bilad TV (Algeria)
-http://elbilad.streamakaci.com/elbilad/elbilad.stream/playlist.m3u8
-#EXTINF:-1,Bahrain TV
-http://iaa.flashmediacast.com:2387/live/International/chunklist_w405249386.m3u8
-#EXTINF:-1,Bahrain Int.
-http://iaa.flashmediacast.com:2387/live/Channel-55/chunklist_w810367281.m3u8
-#EXTINF:-1,Bahrain Sports
-http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
 #EXTINF:-1,Al Hayat (Egypt)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1,Al Hayat 2 (Egypt)
@@ -169,193 +145,21 @@ http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
 http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
 #EXTINF:-1,Sat7 Kids (Egypt)
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1,Rotana Masriya (Saudi Arabia)
-http://2.109.65.143/masa/14323.m3u8
-#EXTINF:-1,Rotana Khalijia (Saudi Arabia)
-http://2.109.65.143/masa/14321.m3u8
-#EXTINF:-1,Rotana Classic (Saudi Arabia)
-http://2.109.65.143/masa/14322.m3u8
-#EXTINF:-1,GR:NATGEO
+#EXTINF:-1,NATGEO
 http://over.ddns.net:65203/
-#EXTINF:-1,GR:DISCOVERY
+#EXTINF:-1,DISCOVERY
 http://over.ddns.net:65204/
-#EXTINF:–1,GR:HISTORY
+#EXTINF:–1,HISTORY
 http://over.ddns.net:65205/
-#EXTINF:-1,GR:FOX
+#EXTINF:-1,FOX
 http://over.ddns.net:65206/
-#EXTINF:-1,GR:FOXLIFE
+#EXTINF:-1,FOXLIFE
 http://over.ddns.net:65207/
-#EXTINF:-1,GR:IDX
+#EXTINF:-1,IDX
 http://over.ddns.net:65208/
-#EXTINF:-1,GR:Mad
+#EXTINF:-1,Mad
 http://over.ddns.net:65209/
-#EXTINF:-1,GR:Animal Planet
+#EXTINF:-1,Animal Planet
 http://over.ddns.net:65210/
-#EXTINF:-1,GR:Nat geo Wild
+#EXTINF:-1,Nat geo Wild
 http://over.ddns.net:65211/
-#EXTINF:-1,AR: Osn Box Offiec 1
-http://93.190.140.124:8080/Forall/star7/4098.ch
-#EXTINF:-1,AR: Osn Box Offiec 2
-http://93.190.140.124:8080/Forall/star7/4099.ch
-#EXTINF:-1,AR: Osn Box Offiec 3
-http://93.190.140.124:8080/Forall/star7/4100.ch
-#EXTINF:-1,AR: Osn Discovry ID
-http://93.190.140.124:8080/Forall/star7/4097.ch
-#EXTINF:-1,AR: Osn Movies Action 2 HD
-http://93.190.140.124:8080/Forall/star7/4087.ch
-#EXTINF:-1,AR: Osn Movies Comedy
-http://93.190.140.124:8080/Forall/star7/4086.ch
-#EXTINF:-1,AR_OSN CINEMA 1 HD
-http://93.190.140.124:8080/Forall/star7/4067.ch
-#EXTINF:-1,AR_OSN CINEMA 2 HD
-http://93.190.140.124:8080/Forall/star7/4068.ch
-#EXTINF:-1,AR_OSN FIRST HD
-http://93.190.140.124:8080/Forall/star7/4072.ch
-#EXTINF:-1,AR_OSN MOVIES DRAMA HD
-http://93.190.140.124:8080/Forall/star7/4073.ch
-#EXTINF:-1,AR_OSN MOVIES FESTIVAL HD
-http://93.190.140.124:8080/Forall/star7/4075.ch
-#EXTINF:-1,AR_OSN MOVIES PREMIERE HD
-http://93.190.140.124:8080/Forall/star7/4074.ch
-#EXTINF:-1,AR_OSN YAHALA DRAMA HD
-http://93.190.140.124:8080/Forall/star7/4070.ch
-#EXTINF:-1,BEINSPORTS_3HD FR
-http://93.190.140.124:8080/Forall/star7/3993.ch
-#EXTINF:-1,BEIN_SPORT_10HD
-http://93.190.140.124:8080/Forall/star7/3990.ch
-#EXTINF:-1,BEIN_SPORT_1HD
-http://93.190.140.124:8080/Forall/star7/3981.ch
-#EXTINF:-1,BEIN_SPORT_2HD
-http://93.190.140.124:8080/Forall/star7/3982.ch
-#EXTINF:-1,BEIN_SPORT_3HD
-http://93.190.140.124:8080/Forall/star7/3983.ch
-#EXTINF:-1,BEIN_SPORT_4HD
-http://93.190.140.124:8080/Forall/star7/3984.ch
-#EXTINF:-1,BEIN_SPORT_5HD
-http://93.190.140.124:8080/Forall/star7/3985.ch
-#EXTINF:-1,BEIN_SPORT_6HD
-http://93.190.140.124:8080/Forall/star7/3986.ch
-#EXTINF:-1,BEIN_SPORT_7HD
-http://93.190.140.124:8080/Forall/star7/3987.ch
-#EXTINF:-1,BEIN_SPORT_8HD
-http://93.190.140.124:8080/Forall/star7/3988.ch
-#EXTINF:-1,BEIN_SPORT_9HD
-http://93.190.140.124:8080/Forall/star7/3989.ch
-#EXTINF:-1,AR: Bein Max2
-http://93.190.140.124:8080/Forall/star7/1928.ch
-#EXTINF:-1,OSN Movies Action
-http://93.190.140.124:8080/Forall/star7/1927.ch
-#EXTINF:-1,Osn Movies Disny
-http://93.190.140.124:8080/Forall/star7/4090.ch
-#EXTINF:-1,Osn Movies Disny XD
-http://93.190.140.124:8080/Forall/star7/4091.ch
-#EXTINF:-1,MBC_MASR 2
-http://93.190.140.124:8080/Forall/star7/4007.ch
-#EXTINF:-1,AL_MAGHRIBIA
-http://93.190.140.124:8080/Forall/star7/4017.ch
-#EXTINF:-1,AR : ART AFLAM 1
-http://93.190.140.124:8080/Forall/star7/3995.ch
-#EXTINF:-1,AR : ART AFLAM 2
-http://93.190.140.124:8080/Forall/star7/3996.ch
-#EXTINF:-1,AR : ART HEKAYAT
-http://93.190.140.124:8080/Forall/star7/3997.ch
-#EXTINF:-1,AR : MBC 4
-http://93.190.140.124:8080/Forall/star7/4005.ch
-#EXTINF:-1,AR : MBC MASR
-http://93.190.140.124:8080/Forall/star7/4006.ch
-#EXTINF:-1,AR : MBC MAX
-http://93.190.140.124:8080/Forall/star7/4010.ch
-#EXTINF:-1,AR: ART CINEMA
-http://93.190.140.124:8080/Forall/star7/3999.ch
-#EXTINF:-1,AR: ART HEKAYAT 2
-http://93.190.140.124:8080/Forall/star7/3998.ch
-#EXTINF:-1,AR: MBC 1
-http://93.190.140.124:8080/Forall/star7/4002.ch
-#EXTINF:-1,AR: MBC 2
-http://93.190.140.124:8080/Forall/star7/4003.ch
-#EXTINF:-1,AR: MBC 3
-http://93.190.140.124:8080/Forall/star7/4004.ch
-#EXTINF:-1,AR: MBC BOLLYWOOD
-http://93.190.140.124:8080/Forall/star7/4009.ch
-#EXTINF:-1,AR: Osn Movies Premier 2
-http://93.190.140.124:8080/Forall/star7/4088.ch
-#EXTINF:-1,AR: Osn Star Movies
-http://93.190.140.124:8080/Forall/star7/4096.ch
-#EXTINF:-1,AR_BeinHD_Movies1
-http://93.190.140.124:8080/Forall/star7/4077.ch
-#EXTINF:-1,AR_BeinHD_Movies2
-http://93.190.140.124:8080/Forall/star7/4078.ch
-#EXTINF:-1,AR_BeinHD_Movies3
-http://93.190.140.124:8080/Forall/star7/4079.ch
-#EXTINF:-1,AR_BeinHD_Movies4
-http://93.190.140.124:8080/Forall/star7/4089.ch
-#EXTINF:-1,AR_OSN ALYOUM HD
-http://93.190.140.124:8080/Forall/star7/4066.ch
-#EXTINF:-1,AR_OSN ANIMAL PLANET HD
-http://93.190.140.124:8080/Forall/star7/4076.ch
-#EXTINF:-1,AR_OSN YAHALA HD
-http://93.190.140.124:8080/Forall/star7/4069.ch
-#EXTINF:-1,AR_OSN YAHALA SHABAB HD
-http://93.190.140.124:8080/Forall/star7/4071.ch
-#EXTINF:-1,AssadissaMaroc
-http://93.190.140.124:8080/Forall/star7/4018.ch
-#EXTINF:-1,BEINSPORTS_1HD FR
-http://93.190.140.124:8080/Forall/star7/3991.ch
-#EXTINF:-1,BEINSPORTS_2HD FR
-http://93.190.140.124:8080/Forall/star7/3992.ch
-#EXTINF:-1,AR: Bein Max1
-http://93.190.140.124:8080/Forall/star7/3980.ch
-#EXTINF:-1,AR: Osn Movies HD
-http://93.190.140.124:8080/Forall/star7/5659.ch
-#EXTINF:-1,AR: bein movie1 HD
-http://93.190.140.124:8080/Forall/star7/5801.ch
-#EXTINF:-1,AR: OSN  AR: OSN Movies2
-http://93.190.140.124:8080/Forall/star7/5799.ch
-#EXTINF:-1,AR: OSN Discovery Science HD
-http://93.190.140.124:8080/Forall/star7/5795.ch
-#EXTINF:-1,AR: OSN FIRST COMEDY
-http://93.190.140.124:8080/Forall/star7/5792.ch
-#EXTINF:-1,AR: OSN HAHALA HD
-http://93.190.140.124:8080/Forall/star7/5790.ch
-#EXTINF:-1,AR: OSN Movies Festilval HD
-http://93.190.140.124:8080/Forall/star7/5788.ch
-#EXTINF:-1,AR: OSN Movies Kids HD
-http://93.190.140.124:8080/Forall/star7/5786.ch
-#EXTINF:-1,AR: OSN ON DEMAND HD
-http://93.190.140.124:8080/Forall/star7/5784.ch
-#EXTINF:-1,AR: OSN Premier2 HD
-http://93.190.140.124:8080/Forall/star7/5780.ch
-#EXTINF:-1,AR: OSN_Cinema_2
-http://93.190.140.124:8080/Forall/star7/5816.ch
-#EXTINF:-1,AR: OSN_Comedy
-http://93.190.140.124:8080/Forall/star7/5814.ch
-#EXTINF:-1,AR: OSN_MBC_Drama_HD
-http://93.190.140.124:8080/Forall/star7/5813.ch
-#EXTINF:-1,AR: OSN_Movies_Box_Office_1_HD
-http://93.190.140.124:8080/Forall/star7/5808.ch
-#EXTINF:-1,AR: OSN_Movies_Box_Office_2_HD
-http://93.190.140.124:8080/Forall/star7/5809.ch
-#EXTINF:-1,AR: OSN_Movies_Box_Office_3_HD
-http://93.190.140.124:8080/Forall/star7/5810.ch
-#EXTINF:-1,AR: OSN_NAT_GEO_WILD_HD
-http://93.190.140.124:8080/Forall/star7/5805.ch
-#EXTINF:-1,AR: OSN_Yahala_Shabab
-http://93.190.140.124:8080/Forall/star7/5800.ch
-#EXTINF:-1,DE: Sky Select 1 HD
-http://93.190.140.124:8080/Forall/star7/5837.ch
-#EXTINF:-1,DE: Sky Select 2 HD
-http://93.190.140.124:8080/Forall/star7/5838.ch
-#EXTINF:-1,DE: Sky Select 3 HD
-http://93.190.140.124:8080/Forall/star7/5839.ch
-#EXTINF:-1,DE: Sky Select 4 HD
-http://93.190.140.124:8080/Forall/star7/5840.ch
-#EXTINF:-1,DE: Sky Select 5 HD
-http://93.190.140.124:8080/Forall/star7/5841.ch
-#EXTINF:-1,DE: Sky Select 6 HD
-http://93.190.140.124:8080/Forall/star7/5842.ch
-#EXTINF:-1,DE: Sky Select 7 HD
-http://93.190.140.124:8080/Forall/star7/5843.ch
-#EXTINF:-1,DE: Sky Select 8 HD
-http://93.190.140.124:8080/Forall/star7/5844.ch
-#EXTINF:-1,DE: Sky Select 9 HD
-http://93.190.140.124:8080/Forall/star7/5845.ch
