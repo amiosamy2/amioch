@@ -1,5 +1,10 @@
 <streamingInfos>
-
+<item>
+<title>BEIN MAX1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.175.36:25461/live/testtttt/testtttt/1.ts</link>
+<item>
+<title>BEIN MAX2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://46.166.175.36:25461/live/testtttt/testtttt/2.ts</link>
 <item>
 <title>BEIN SPORT HD1</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/vRRaxGAB3B/YG7mjHufVZ/2.ts</link>
