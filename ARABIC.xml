@@ -1,1075 +1,321 @@
 <streamingInfos>
-<item>
-<title>MBC1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1378.ts</link>
-<item>
-<title>MBC2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1371.ts</link>
-<item>
-<title>MBC4HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1377.ts</link>
-<item>
-<title>MBC DRAMAHD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1395.ts</link>
-<item>
-<title>MBC ACTIONHD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1394.ts</link>
-<item>
-<title>MBC1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/19.ts</link>
-<item>
-<title>MBC2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/20.ts</link>
-<item>
-<title>MBC3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/21.ts</link>
-<item>
-<title>MBC4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/22.ts</link>
-<item>
-<title>MBCDRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/25.ts</link>
-<item>
-<title>MBCAction</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/23.ts</link>
-<item>
-<title>MBCMAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/26.ts</link>
-<item>
-<title>MBCBollywood</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/24.ts</link>
-<item>
-<title>MBC Masr2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/28.ts</link>
-<item>
-<title>MBC MASR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/27.ts</link>
-<item>
-<title>FATAFEAT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/98.ts</link>
-<item>
-<title>Rotana</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/43.ts</link>
-<item>
-<title>Rotana Cinema KSA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/45.ts</link>
-<item>
-<title>Rotana Cinema EGY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/44.ts</link>
-<item>
-<title>Rotana Masriya</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/49.ts</link>
-<item>
-<title>Rotana Clip</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/47.ts</link>
-<item>
-<title>Rotana Khalijiah</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/48.ts</link>
-<item>
-<title>Rotana Classic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/46.ts</link>
-<item>
-<title>ART Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/53.ts</link>
-<item>
-<title>Aflam 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/51.ts</link>
-<item>
-<title>Aflam 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/52.ts</link>
-<item>
-<title>Hekayat</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/54.ts</link>
-<item>
-<title>Hekayat 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/75.ts</link>
-<item>
-<title>KIDS HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2290.ts</link>
-<item>
-<title>FILM HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2293.ts</link>
-<item>
-<title>CLASSIC HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2291.ts</link>
-<item>
-<title>ACTION HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2292.ts</link>
-<item>
-<title>CINEMA2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2302.ts</link>
-<item>
-<title>CINEMA1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2301.ts</link>
-<item>
-<title>CINEMA ALWAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2296.ts</link>
-<item>
-<title>CBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/56.ts</link>
-<item>
-<title>CBC2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/57.ts</link>
-<item>
-<title>CBC Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/58.ts</link>
-<item>
-<title>CBC Extra</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/59.ts</link>
-<item>
-<title>CBC Sofra</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/60.ts</link>
-<item>
-<title>AlArabiya Hadath</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/151.ts</link>
-<item>
-<title>Al Arabiya</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/150.ts</link>
-<item>
-<title>AL Hadath</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/154.ts</link>
-<item>
-<title>AL JAZEERA HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/146.ts</link>
-<item>
-<title>Al Jazeera Documentary
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/155.ts</link>
-<item>
-<title>Al Jazeera Mubasher</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/833.ts</link>
-<item>
-<title>SAMA CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/848.ts</link>
-<item>
-<title>BBC ARABIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/824.ts</link>
-<item>
-<title>AD NatGeo</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/119.ts</link>
-<item>
-<title>AD DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/102.ts</link>
-<item>
-<title>AD ALOULA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/105.ts</link>
-<item>
-<title>Melody Aflam</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1534.ts</link>
-<item>
-<title>Melody Classic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/140.ts</link>
-<item>
-<title>Mazzika</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/291.ts</link>
-<item>
-<title>NOOR DUBAI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/149.ts</link>
-<item>
-<title>MUSIC PLUS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/131.ts</link>
-<item>
-<title>DUBAITV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/128.ts</link>
-<item>
-<title>DUBAI ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/126.ts</link>
-<item>
-<title>AL BAIT BAITAK CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/284.ts</link>
-<item>
-<title>LDC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1648.ts</link>
-<item>
-<title>Cartoon</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/162.ts</link>
-<item>
-<title>BEIRUT CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/286.ts</link>
-<item>
-<title>Nile news</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/295.ts</link>
-<item>
-<title>Nile Life</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/144.ts</link>
-<item>
-<title>Nile Family</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/143.ts</link>
-<item>
-<title>Nile Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/142.ts</link>
-<item>
-<title>Nile Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/141.ts</link>
-<item>
-<title>Nile Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/294.ts</link>
-<item>
-<title>arb Nile sport</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1455.ts</link>
-<item>
-<title>Al Hayat Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/136.ts</link>
-<item>
-<title>Alhayat Muslsalat</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/515.ts</link>
-<item>
-<title>AlNahDrama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/159.ts</link>
-<item>
-<title>al nahsport</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/835.ts</link>
-<item>
-<title>al nahnour</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/838.ts</link>
-<item>
-<title>Al NahAl Youm</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/837.ts</link>
-<item>
-<title>Al Nahar+2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/834.ts</link>
-<item>
-<title>Al Nahar</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/156.ts</link>
-<item>
-<title>DREAM1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/287.ts</link>
-<item>
-<title>Dream2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/163.ts</link>
-<item>
-<title>CAIRO ONE TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2305.ts</link>
-<item>
-<title>Cairo Zaman</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/111.ts</link>
-<item>
-<title>Cairo Mosalsalat</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/110.ts</link>
-<item>
-<title>Cairo Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/109.ts</link>
-<item>
-<title>Cairo cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/107.ts</link>
-<item>
-<title>Cairo Aflam</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/106.ts</link>
-<item>
-<title>Panorama Drama2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/41.ts</link>
-<item>
-<title>Panorama Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/40.ts</link>
-<item>
-<title>Panorama Film</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1555.ts</link>
-<item>
-<title>Panorama comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/844.ts</link>
-<item>
-<title>Panorama FOOD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/842.ts</link>
-<item>
-<title>Layaly Cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/115.ts</link>
-<item>
-<title>time cinema</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/223.ts</link>
-<item>
-<title>STCINEMA2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/850.ts</link>
-<item>
-<title>STCINEMA1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/851.ts</link>
-<item>
-<title>LTC MASR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/845.ts</link>
-<item>
-<title>ElBalad Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/843.ts</link>
-<item>
-<title>ALMASRAWIA AFLAM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/847.ts</link>
-<item>
-<title>AHRAM CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/852.ts</link>
-<item>
-<title>SHNPOO AFLAM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/118.ts</link>
-<item>
-<title>Althanya</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/199.ts</link>
-<item>
-<title>Mehwer</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/130.ts</link>
-<item>
-<title>AL kalemah TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/200.ts</link>
-<item>
-<title>ALHAYAT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/123.ts</link>
-<item>
-<title>Alhayat 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/157.ts</link>
-<item>
-<title>Logos TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2308.ts</link>
-<item>
-<title>CTV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2309.ts</link>
-<item>
-<title>Alkarma TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2310.ts</link>
-<item>
-<title>Aghapy TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2307.ts</link>
-<item>
-<title>OSN Series TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/804.ts</link>
-<item>
-<title>BeIN Movies1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/269.ts</link>
-<item>
-<title>BeIN Movies2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1942.ts</link>
-<item>
-<title>BeIN Movies3 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/265.ts</link>
-<item>
-<title>OSN Alyoum</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/345.ts</link>
-<item>
-<title>OSN: WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2260.ts</link>
-<item>
-<title>OSN: FIGHT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2240.ts</link>
-<item>
-<title>OSN Sports HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1698.ts</link>
-<item>
-<title>OSN PREMIERE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2284.ts</link>
-<item>
-<title>OSN Mv Premiere HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1700.ts</link>
-<item>
-<title>OSN Mv Premiere2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1701.ts</link>
-<item>
-<title>OSN OFFICBOX1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1949.ts</link>
-<item>
-<title>OSN OFFICBOX2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1948.ts</link>
-<item>
-<title>OSN OFFICBOX3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1947.ts</link>
-<item>
-<title>OSN Movies star</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1945.ts</link>
-<item>
-<title>OSN STAR GOULD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1946.ts</link>
-<item>
-<title>OSN On Demand HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1943.ts</link>
-<item>
-<title>OSN On Demand Extra</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1944.ts</link>
-<item>
-<title>OSN MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2278.ts</link>
-<item>
-<title>OSN MOVIES DRAMA2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2280.ts</link>
-<item>
-<title>OSN FIRST MORE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2276.ts</link>
-<item>
-<title>OSN FIRST COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2275.ts</link>
-<item>
-<title>OSN FIRST</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2274.ts</link>
-<item>
-<title>OSN1 First HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/346.ts</link>
-<item>
-<title>OSN FESTIVAL SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/268.ts</link>
-<item>
-<title>OSN Cinema1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/255.ts</link>
-<item>
-<title>OSN Cinema2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/256.ts</link>
-<item>
-<title>OSN: Movies HD Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2250.ts</link>
-<item>
-<title>OSN1 ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/251.ts</link>
-<item>
-<title>OSN: Movies Action HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2246.ts</link>
-<item>
-<title>OSN: MOVIES ACTION 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2245.ts</link>
-<item>
-<title>OSN Movies HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/263.ts</link>
-<item>
-<title>OSN: OSN First More</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2256.ts</link>
-<item>
-<title>OSN MOV Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/262.ts</link>
-<item>
-<title>OSN MBC+ DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1624.ts</link>
-<item>
-<title>OSN DISC ID</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/2270.ts</link>
-<item>
-<title>OSN MOVIES Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/264.ts</link>
-<item>
-<title>OSN Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://camerta.com:8000/live/0919/0919/1699.ts</link>
-<item>
-<title>BEIN MOVIES 1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1279.ts</link>
-<item>
-<title>BEIN MOVIES 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/28.ts</link>
-<item>
-<title>BEIN MOVIES 3HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1284.ts</link>
-<item>
-<title>BEIN MOVIES 4HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1287.ts</link>
-<item>
-<title>Al JAZEERA DOC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/936.ts</link>
-<item>
-<title>MBC 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/155.ts</link>
-<item>
-<title>MBC 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/136.ts</link>
-<item>
-<title>MBC 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/131.ts</link>
-<item>
-<title>MBC 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/55.ts</link>
-<item>
-<title>MBC MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/135.ts</link>
-<item>
-<title>MBC MASR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/133.ts</link>
-<item>
-<title>MBC ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/53.ts</link>
-<item>
-<title>MBC DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/54.ts</link>
-<item>
-<title>MBC MASR 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/134.ts</link>
-<item>
-<title>DUBAI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/125.ts</link>
-<item>
-<title>DUBAI ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/45.ts</link>
-<item>
-<title>DUBAI DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1829.ts</link>
-<item>
-<title>DUBAI SPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/46.ts</link>
-<item>
-<title>ABU DHABI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/50.ts</link>
-<item>
-<title>ABU DHABI DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/107.ts</link>
-<item>
-<title>NAT GEO AD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/146.ts</link>
-<item>
-<title>ABU DHABI SPORTS 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/17.ts</link>
-<item>
-<title>ABU DHABI SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/945.ts</link>
-<item>
-<title>LDC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1834.ts</link>
-<item>
-<title>CBC TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/40.ts</link>
-<item>
-<title>CBC+ 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/123.ts</link>
-<item>
-<title>CBC DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/183.ts</link>
-<item>
-<title>CBC EXTRA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4118.ts</link>
-<item>
-<title>CBC SOFRA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/122.ts</link>
-<item>
-<title>ART AFLAM 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/37.ts</link>
-<item>
-<title>ART AFLAM 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/38.ts</link>
-<item>
-<title>ART CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/116.ts</link>
-<item>
-<title>ART HEKAYAT 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/117.ts</link>
-<item>
-<title>ART HEKAYAT 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/118.ts</link>
-<item>
-<title>NILE LIFE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/29.ts</link>
-<item>
-<title>NILE FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/16.ts</link>
-<item>
-<title>NILE NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4114.ts</link>
-<item>
-<title>NILE CULTURE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/178.ts</link>
-<item>
-<title>NILE CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/177.ts</link>
-<item>
-<title>NILE COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/58.ts</link>
-<item>
-<title>NILE DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/79.ts</link>
-<item>
-<title>DREAM 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/44.ts</link>
-<item>
-<title>DREAM 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/165.ts</link>
-<item>
-<title>ZEE ALWAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1229.ts</link>
-<item>
-<title>NOOR DUBAI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/101.ts</link>
-<item>
-<title>ZEE AFLAM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/130.ts</link>
-<item>
-<title>ALHAYAT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/60.ts</link>
-<item>
-<title>ALHAYAT 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/153.ts</link>
-<item>
-<title>AL HAYAT 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4123.ts</link>
-<item>
-<title>AL HAYAT MUSALSALET</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4124.ts</link>
-<item>
-<title>AL NAHAR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4121.ts</link>
-<item>
-<title>CAIRO CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/36.ts</link>
-<item>
-<title>CAIRO University 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4119.ts</link>
-<item>
-<title>CAIRO DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/143.ts</link>
-<item>
-<title>FATAFEAT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/144.ts</link>
-<item>
-<title>NILE SPORT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/75.ts</link>
-<item>
-<title>CIMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/42.ts</link>
-<item>
-<title>TIME COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/114.ts</link>
-<item>
-<title>FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/48.ts</link>
-<item>
-<title>TOP MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1025.ts</link>
-<item>
-<title>AL OULA MISR</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/154.ts</link>
-<item>
-<title>STCINEMA 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/182.ts</link>
-<item>
-<title>ROTANA AFLAM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/88.ts</link>
-<item>
-<title>ROTANA CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/15.ts</link>
-<item>
-<title>ROTANA CLASSIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/89.ts</link>
-<item>
-<title>ROTANA CLIP</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/90.ts</link>
-<item>
-<title>ROTANA KHALIGI</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/91.ts</link>
-<item>
-<title>ROTANA MASRIYA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/92.ts</link>
-<item>
-</title><title>ROTANA MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/93.ts</link>
-<item>
-<title>SPACETOON</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/98.ts</link>
-<item>
-<title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/66.ts</link>
-<item>
-<title>CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/4109.ts</link>
-<item>
-<title>AL JAZEERA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/27.ts</link>
-<item>
-<title>ALJAZEERA DOC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/150.ts</link>
-<item>
-<title>SKY NEWS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/6.ts</link>
-<item>
-<title>OSN ALKASS SPORT 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1285.ts</link>
-<item>
-<title>OSN ALKASS SPORT 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1244.ts</link>
-<item>
-<title>OSN ALKASS SPORT 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1241.ts</link>
-<item>
-<title>OSN ALKASS SPORT 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1240.ts</link>
-<item>
-<title>OSN SPORT CRICKET HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/180.ts</link>
-<item>
-<title>OSN FIRST COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1222.ts</link>
-<item>
-<title>OSN FIRST HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1238.ts</link>
-<item>
-<title>OSN MBC+ DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1226.ts</link>
-<item>
-<title>OSN MOVIES HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1233.ts</link>
-<item>
-<title>OSN MOVIES ACTION HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1281.ts</link>
-<item>
-<title>OSN MOVIES ACTION+ 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1283.ts</link>
-<item>
-<title>OSN MOVIES COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/258.ts</link>
-<item>
-<title>OSN MOVIES FESTIVAL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1214.ts</link>
-<item>
-<title>OSN STMOVIES 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1235.ts</link>
-<item>
-<title>OSN MOVIES PREMIERE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1177.ts</link>
-<item>
-<title>OSN ORBIT CINEMA 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/948.ts</link>
-<item>
-<title>OSN YAHALA SHABAB</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1209.ts</link>
-<item>
-<title>OSN YAHALA HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1207.ts</link>
-<item>
-<title>OSN MOVIES FIRST HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/810.ts</link>
-<item>
-<title>OSN YAHALA DRAMA HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1208.ts</link>
-<item>
-<title>OSN ALYOUM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1286.ts</link>
-<item>
-<title>OSN ORBIT CINEMA 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1212.ts</link>
-<item>
-<title>OSN MOVIES DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/947.ts</link>
-<item>
-<title>OSN ON DEMAND 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1288.ts</link>
-<item>
-<title>OSN DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1225.ts</link>
-<item>
-<title>OSN DISCOVERY SCIENCE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1224.ts</link>
-<item>
-<title>OSN ANIMAL PLANET</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1245.ts</link>
-<item>
-<title>BeinMovies 1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1755.ts</link>
-<item>
-<title>BeinMovies 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1756.ts</link>
-<item>
-<title>BEIN MOVIES 3HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2617.ts</link>
-<item>
-<title>OSN MOVIES FESTIVAL</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1787.ts</link>
-<item>
-<title>OSN MOVIE BOX HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2282.ts</link>
-<item>
-<title>OSN MOVIES DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1788.ts</link>
-<item>
-<title>OSN On Demand Extra HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2047.ts</link>
-<item>
-<title>OSN MOVIES HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1789.ts</link>
-<item>
-<title>OSN ACTION2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1790.ts</link>
-<item>
-<title>OSN ON DEMAND EXTRA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2247.ts</link>
-<item>
-<title>OSN STWORLD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2175.ts</link>
-<item>
-<title>OSN ONDEMAND1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2248.ts</link>
-<item>
-<title>OSN ORBIT CINEMA2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1806.ts</link>
-<item>
-<title>OSN ORBIT CINEMA1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1807.ts</link>
-<item>
-<title>OSN On Demand</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1913.ts</link>
-<item>
-<title>OSN Movies Premiere2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1808.ts</link>
-<item>
-<title>OSN Movies Premiere 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2176.ts</link>
-<item>
-<title>OSN Movies HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1794.ts</link>
-<item>
-<title>OSN MOVIES First More HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1882.ts</link>
-<item>
-<title>OSN MOVIES COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1885.ts</link>
-<item>
-<title>OSN Movies ACTION 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2174.ts</link>
-<item>
-<title>OSN MOVIES Action</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1802.ts</link>
-<item>
-<title>OSN MOVIE Premiere</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1792.ts</link>
-<item>
-<title>OSN BOX OFFICE 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1884.ts</link>
-<item>
-<title>OSN BOX OFFICE 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1883.ts</link>
-<item>
-<title>OSN BOX OFFICE 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1881.ts</link>
-<item>
-<title>OSN Movie kids HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1886.ts</link>
-<item>
-<title>OSN ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1812.ts</link>
-<item>
-<title>OSN Animal Planet HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2076.ts</link>
-<item>
-<title>OSN Yahala HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1803.ts</link>
-<item>
-<title>OSN YAHAlA DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1804.ts</link>
-<item>
-<title>OSN WWE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1880.ts</link>
-<item>
-<title>OSN YAHALA SHABAB</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1926.ts</link>
-<item>
-<title>OSN DISCOVERY SCIENCE HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1887.ts</link>
-<item>
-<title>ABU DHABI SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1878.ts</link>
-<item>
-<title>OSN First Comedy HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2079.ts</link>
-<item>
-<title>OSN ELYOM</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2077.ts</link>
-<item>
-<title>OSN Abu Dhabi Sports 3HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2049.ts</link>
-<item>
-<title>OSN Abu Dhabi Sports 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2048.ts</link>
-<item>
-<title>OSN DISCOVERY ID</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1888.ts</link>
-<item>
-<title>OSN DISCOVERY HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1889.ts</link>
-<item>
-<title>OSN Animal Planet</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1931.ts</link>
-<item>
-<title>MTV LEBANON</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3548.ts</link>
-<item>
-<title>CINEMA5</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3254.ts</link>
-<item>
-<title>CINEMA4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3253.ts</link>
-<item>
-<title>CINEMA3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3252.ts</link>
-<item>
-<title>CINEMA2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3251.ts</link>
-<item>
-<title>CINEMA1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3250.ts</link>
-<item>
-<title>MAZZIKA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2947.ts</link>
-<item>
-<title>LDC MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2935.ts</link>
-<item>
-<title>CARTON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2939.ts</link>
-<item>
-<title>PPV 4HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2289.ts</link>
-<item>
-<title>PPV 3HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2288.ts</link>
-<item>
-<title>PPV 2HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2287.ts</link>
-<item>
-<title>PPV 1HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2286.ts</link>
-<item>
-<title>TLC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2074.ts</link>
-<item>
-<title>RT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1985.ts</link>
-<item>
-<title>Rotana Music</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1977.ts</link>
-<item>
-<title>Rotana Khalijia</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1976.ts</link>
-<item>
-<title>Rotana Masriya</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1770.ts</link>
-<item>
-<title>Rotana Clip</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1768.ts</link>
-<item>
-<title>Rotana Classic</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1769.ts</link>
-<item>
-<title>Rotana CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1771.ts</link>
-<item>
-<title>Rotana</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1767.ts</link>
-<item>
-<title>Panorama Film</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1772.ts</link>
-<item>
-<title>Panorama Drama 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1774.ts</link>
-<item>
-<title>Panorama Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1773.ts</link>
-<item>
-<title>Panorama Comedy</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1775.ts</link>
-<item>
-<title>NATIONAL GEOGRAPHIC HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1892.ts</link>
-<item>
-<title>MBC BOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1639.ts</link>
-<item>
-<title>MBC ACTION</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1640.ts</link>
-<item>
-<title>ON TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3234.ts</link>
-<item>
-<title>MBC 3 KIDS</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3233.ts</link>
-<item>
-<title>MBC 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/3232.ts</link>
-<item>
-<title>MBC 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1641.ts</link>
-<item>
-<title>MBC 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1642.ts</link>
-<item>
-<title>MBC 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1643.ts</link>
-<item>
-<title>MBC Drama</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1644.ts</link>
-<item>
-<title>MBC PRO SPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1876.ts</link>
-<item>
-<title>MBC PRO SPORT 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1875.ts</link>
-<item>
-<title>MBC PRO SPORT 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1638.ts</link>
-<item>
-<title>MBC MAX</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1909.ts</link>
-<item>
-<title>MBC MASR 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1908.ts</link>
-<item>
-<title>MBC MASR 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1907.ts</link>
-<item>
-<title>France24</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1975.ts</link>
-<item>
-<title>FOX MOVIE.ARABIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2054.ts</link>
-<item>
-<title>DUBAI ZAMAN</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2141.ts</link>
-<item>
-<title>DUBAI TV</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1932.ts</link>
-<item>
-<title>DUBAI SPORT HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2143.ts</link>
-<item>
-<title>DUBAI SPORT 4</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2145.ts</link>
-<item>
-<title>DUBAI SPORT 3</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2144.ts</link>
-<item>
-<title>DUBAI ONE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2140.ts</link>
-<item>
-<title>DUBAI DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2142.ts</link>
-<item>
-<title>DUBAI ALOLA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2053.ts</link>
-<item>
-<title>CBCDRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2083.ts</link>
-<item>
-<title>CBC SOFRA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2082.ts</link>
-<item>
-<title>CBC Extra</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2084.ts</link>
-<item>
-<title>CBC 2</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2081.ts</link>
-<item>
-<title>CBC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2080.ts</link>
-<item>
-<title>Cartoon Network</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/2050.ts</link>
-<item>
-<title>BBC.ARABIC</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1923.ts</link>
-<item>
-<title>BBC News Arabia</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1984.ts</link>
-<item>
-<title>BBC Arabia</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1983.ts</link>
-<item>
-<title>Art Hekayat 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1978.ts</link>
-<item>
-<title>ART CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1979.ts</link>
-<item>
-<title>NILE SPORT</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1897.ts</link>
-<item>
-<title>NILE LIFE</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1896.ts</link>
-<item>
-<title>NILE DRAMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1895.ts</link>
-<item>
-<title>NILE COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1894.ts</link>
-<item>
-<title>NILE CINEMA</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.195.182:2500/live/hannes/hannes/1893.ts</link>
+<item><title>MBC_1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1778.ts</link>
+<item><title>MBC_2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1779.ts</link>
+<item><title>MBC_3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1780.ts</link>
+<item><title>MBC_4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1781.ts</link>
+<item><title>MBC_MAX</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1783.ts</link>
+<item><title>MBC_MASR_2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1785.ts</link>
+<item><title>MBC_DRAMA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1786.ts</link>
+<item><title>Nat Geo Abu Dahbi</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/823.ts</link>
+<item><title>Art Hekayat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/845.ts</link>
+<item><title>Art Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/846.ts</link>
+<item><title>MBC 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/793.ts</link>
+<item><title>MBC 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/792.ts</link>
+<item><title>ALJAZEERA LIVE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/548.ts</link>
+<item><title>ALARABIA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/549.ts</link>
+<item><title>Al HURRA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/552.ts</link>
+<item><title>AL HADATH</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/553.ts</link>
+<item><title>aljazeera DOC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/214.ts</link>
+<item><title>BBC ARABIC</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/215.ts</link>
+<item><title>Anahar Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/554.ts</link>
+<item><title>Anahar Alyaoum</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/555.ts</link>
+<item><title>Anahar 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/556.ts</link>
+<item><title>AR: BEINMOVIES_HD1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/911.ts</link>
+<item><title>AR: BEINMOVIES_HD2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/912.ts</link>
+<item><title>AR: BEINMOVIES_HD3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/913.ts</link>
+<item><title>AR: BEINMOVIES_HD4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/914.ts</link>
+<item><title>OSN_OFFICBOX3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1724.ts</link>
+<item><title>OSN_OFFICBOX2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1723.ts</link>
+<item><title>OSN_OFFICBOX1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1722.ts</link>
+<item><title>OSN_Movie_HD_Premiere</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1729.ts</link>
+<item><title>OSN_Movie_HD_Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1730.ts</link>
+<item><title>OSN_Movie_HD_Action2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1728.ts</link>
+<item><title>OSN_Movie_HD_Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1727.ts</link>
+<item><title>OSN_Movie_Fastival</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1736.ts</link>
+<item><title>OSN_Movies_HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1731.ts</link>
+<item><title>OSN_Movies_Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1732.ts</link>
+<item><title>OSN_Movie</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1733.ts</link>
+<item><title>OSN_CINEMA2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1726.ts</link>
+<item><title>OSN-YAHALA-SHABAB</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1737.ts</link>
+<item><title>OSN-Premier2-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1738.ts</link>
+<item><title>OSN-NATIONAL-GEO-PEOPLE</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1739.ts</link>
+<item><title>OSN-Movieskids-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1740.ts</link>
+<item><title>OSN-Movies-Action-2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//satligneteam.hopto.org:8000/live/PT8rYBh64m/4cSXLNRppe/1741.ts</link>
+<item><title>Bein Movies 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/119.ts</link>
+<item><title>Bein Movies 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/120.ts</link>
+<item><title>Bein Movies 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/121.ts</link>
+<item><title>Bein Movies 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/122.ts</link>
+<item><title>Bein Jeem HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/179.ts</link>
+<item><title>Bein Baraem HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/180.ts</link>
+<item><title>FR : Bein Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/123.ts</link>
+<item><title>FR : Bein Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/124.ts</link>
+<item><title>FR : Bein Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/125.ts</link>
+<item><title>FR : Bein Max 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/406.ts</link>
+<item><title>FR : Bein Max 5 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/407.ts</link>
+<item><title>ART Aflam 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/93.ts</link>
+<item><title>ART Aflam 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/94.ts</link>
+<item><title>ART Hekayat 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/96.ts</link>
+<item><title>ART Hekayat 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/97.ts</link>
+<item><title>ART Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/95.ts</link>
+<item><title>OSN Cinema 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/98.ts</link>
+<item><title>OSN Cinema 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/99.ts</link>
+<item><title>OSN alyoum</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/100.ts</link>
+<item><title>OSN Yahala</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/101.ts</link>
+<item><title>OSN Yahala Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/102.ts</link>
+<item><title>OSN Yahala Shabab</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/103.ts</link>
+<item><title>OSN Yahala Cinema</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/118.ts</link>
+<item><title>OSN MBC + Drama HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/286.ts</link>
+<item><title>OSN Movies HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/106.ts</link>
+<item><title>OSN Movies +2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/133.ts</link>
+<item><title>OSN Movies Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/104.ts</link>
+<item><title>OSN Movies Action 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/105.ts</link>
+<item><title>OSN Movies Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/109.ts</link>
+<item><title>OSN Movies Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/110.ts</link>
+<item><title>OSN Movies Festival</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/108.ts</link>
+<item><title>OSN Movies Premiere</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/107.ts</link>
+<item><title>OSN Premiere +2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/134.ts</link>
+<item><title>OSN Movies Kids</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/111.ts</link>
+<item><title>OSN First HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/112.ts</link>
+<item><title>OSN First Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/113.ts</link>
+<item><title>OSN FIRST HBO</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/287.ts</link>
+<item><title>OSN Box office 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/116.ts</link>
+<item><title>OSN Box office 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/138.ts</link>
+<item><title>OSN Box office 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/139.ts</link>
+<item><title>Osn Wwe</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/404.ts</link>
+<item><title>OSN Animal Planet</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/140.ts</link>
+<item><title>OSN Nat Geo HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/114.ts</link>
+<item><title>OSN History HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/115.ts</link>
+<item><title>OSN Discovery ID</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/117.ts</link>
+<item><title>OSN AD Sport 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/136.ts</link>
+<item><title>OSN AD Sport 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/137.ts</link>
+<item><title>OSN AD Sport 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/135.ts</link>
+<item><title>OSN_Star-World-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/181.ts</link>
+<item><title>OSN_Star-Movies-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/182.ts</link>
+<item><title>OSN_MOVIE_ACTION 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/186.ts</link>
+<item><title>OSN_MOVIE_ACTION</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/187.ts</link>
+<item><title>OSN_MOVIES_PREMIEREHD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/188.ts</link>
+<item><title>OSN_Movies-Premiere-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/189.ts</link>
+<item><title>OSN_Movies-Premiere-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/190.ts</link>
+<item><title>OSN_Movies-Kids-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/191.ts</link>
+<item><title>OSN_Movies-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/192.ts</link>
+<item><title>OSN_Movies-Festlval-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/193.ts</link>
+<item><title>OSN_Movies-Drama-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/194.ts</link>
+<item><title>OSN_Movies-Comedy-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/195.ts</link>
+<item><title>OSN_Movies-AMC-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/196.ts</link>
+<item><title>OSN_MOVIEHD</title>_FESTIVAL
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/198.ts</link>
+<item><title>OSN_FIRSTHD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/200.ts</link>
+<item><title>OSN_First-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/201.ts</link>
+<item><title>OSN_First-Comedy-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/202.ts</link>
+<item><title>OSN_Discovery-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/207.ts</link>
+<item><title>OSN_Box-OFFICE-3-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/210.ts</link>
+<item><title>OSN_Box-OFFICE-2-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/211.ts</link>
+<item><title>OSN_Box-OFFICE-1-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/212.ts</link>
+<item><title>OSN_Animal-Planet-HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/213.ts</link>
+<item><title>MBC 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/143.ts</link>
+<item><title>MBC 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/168.ts</link>
+<item><title>MBC 3 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/169.ts</link>
+<item><title>MBC 4 HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/167.ts</link>
+<item><title>MBC Max HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/155.ts</link>
+<item><title>MBC Action</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/162.ts</link>
+<item><title>MBC Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/146.ts</link>
+<item><title>MBC Masr</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/175.ts</link>
+<item><title>MBC Masr +2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/265.ts</link>
+<item><title>Art Aflam1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/272.ts</link>
+<item><title>Art Aflam2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/268.ts</link>
+<item><title>Art Cinemat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/269.ts</link>
+<item><title>Art Hekayat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/260.ts</link>
+<item><title>Art Hekayat2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/263.ts</link>
+<item><title>Time Film</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/165.ts</link>
+<item><title>Time Comedy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/178.ts</link>
+<item><title>Star Cinema 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/161.ts</link>
+<item><title>Star Cinema 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/282.ts</link>
+<item><title>Samira Tv</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/166.ts</link>
+<item><title>Rotana Music HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/152.ts</link>
+<item><title>Rotana Massrya HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/151.ts</link>
+<item><title>Rotana Khalijia HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/160.ts</link>
+<item><title>Rotana Clip</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/174.ts</link>
+<item><title>Rotana Classic HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/171.ts</link>
+<item><title>Rotana Cinema HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/177.ts</link>
+<item><title>Rotana Aflam HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/141.ts</link>
+<item><title>Rotana</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/145.ts</link>
+<item><title>Panorama Food</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/154.ts</link>
+<item><title>Panorama Drama 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/164.ts</link>
+<item><title>Panorama Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/172.ts</link>
+<item><title>OTV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/142.ts</link>
+<item><title>Nile Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/150.ts</link>
+<item><title>NBN</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/148.ts</link>
+<item><title>MTV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/156.ts</link>
+<item><title>Melody Clasic</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/144.ts</link>
+<item><title>Medi 1TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/153.ts</link>
+<item><title>Al Hayat 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/215.ts</link>
+<item><title>ONTV Live</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/224.ts</link>
+<item><title>Dream</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/233.ts</link>
+<item><title>Cbc</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/239.ts</link>
+<item><title>Cbc 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/227.ts</link>
+<item><title>CBC Sofra</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/266.ts</link>
+<item><title>CBC Extra</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/261.ts</link>
+<item><title>CBC Drama</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/250.ts</link>
+<item><title>Alhayat</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/231.ts</link>
+<item><title>AlJazeera Documentary</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/225.ts</link>
+<item><title>ALjazeera</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/220.ts</link>
+<item><title>NATIONALGEO ABUDHABI</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=//www.3rabsat.com:8080/live/Star7arab/star7arab/276.ts</link>
