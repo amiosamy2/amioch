@@ -1,661 +1,1259 @@
 #EXTM3U
-#EXTINF:-1,CbcTwo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/371.ts
-#EXTINF:-1,CbcTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/370.ts
-#EXTINF:-1,CbcSofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/374.ts
-#EXTINF:-1,CbcExtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/372.ts
-#EXTINF:-1,CbcDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/373.ts
-#EXTINF:-1,NileSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/421.ts
-#EXTINF:-1,NileLife
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/420.ts
-#EXTINF:-1,NileFamily
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/419.ts
-#EXTINF:-1,NileCulture
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/416.ts
-#EXTINF:-1,NileComedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/417.ts
-#EXTINF:-1,NileCinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/418.ts
-#EXTINF:-1,Alhayet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/415.ts
-#EXTINF:-1,ALAANTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/621.ts
-#EXTINF:-1,Alhayat-We-Alnas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/613.ts
-#EXTINF:-1,Alhayat-Muslsalat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/615.ts
-#EXTINF:-1,Al-Nahar-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/614.ts
-#EXTINF:-1,ENNAHAR-LAKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/619.ts
-#EXTINF:-1,ALnahar-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/622.ts
-#EXTINF:-1,Cairo-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/623.ts
-#EXTINF:-1,Cairo-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/624.ts
-#EXTINF:-1,Al-Nahar-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/616.ts
-#EXTINF:-1,MBC_SPORT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/461.ts
-#EXTINF:-1,MBC_SPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/462.ts
-#EXTINF:-1,MBC_SPORT3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/463.ts
-#EXTINF:-1,MBC_SPORT4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/464.ts
-#EXTINF:-1,Ad-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/465.ts
-#EXTINF:-1,MBC_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/179.ts
-#EXTINF:-1,MBCMASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/223.ts
-#EXTINF:-1,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/191.ts
-#EXTINF:-1,MBC_Bollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/180.ts
-#EXTINF:-1,MBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/19.ts
-#EXTINF:-1,MBC_MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/18.ts
-#EXTINF:-1,MBC4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/16.ts
-#EXTINF:-1,MBC3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/15.ts
-#EXTINF:-1,MBC2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/14.ts
-#EXTINF:-1,MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/13.ts
-#EXTINF:-1,ZeeAflem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/617.ts
-#EXTINF:-1,AbuDhabiTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/618.ts
-#EXTINF:-1,AD_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/327.ts
-#EXTINF:-1,AD_EMARAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/328.ts
-#EXTINF:-1,Panorama-Food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/439.ts
-#EXTINF:-1,Panorama-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/438.ts
-#EXTINF:-1,Panorama-Drama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/437.ts
-#EXTINF:-1,Panorama-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/436.ts
-#EXTINF:-1,TEN+2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/440.ts
-#EXTINF:-1,Art_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/352.ts
-#EXTINF:-1,Art_aflem1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/348.ts
-#EXTINF:-1,Art_aflem2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/349.ts
-#EXTINF:-1,Art_Hekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/351.ts
-#EXTINF:-1,Art_Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/350.ts
-#EXTINF:-1,NileDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/337.ts
-#EXTINF:-1,ALTHANIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/620.ts
-#EXTINF:-1,ONT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/598.ts
-#EXTINF:-1,Noor-Dubai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/596.ts
-#EXTINF:-1,NileTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/600.ts
-#EXTINF:-1,LanaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/592.ts
-#EXTINF:-1,HITV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/599.ts
-#EXTINF:-1,HawacomTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/591.ts
-#EXTINF:-1,Al-AhlyTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/602.ts
-#EXTINF:-1,AD-SPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/594.ts
-#EXTINF:-1,Dubai-Sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/593.ts
-#EXTINF:-1,Gear-One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/595.ts
-#EXTINF:-1,Ajman-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/597.ts
-#EXTINF:-1,ALNAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/442.ts
-#EXTINF:-1,SAT7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/335.ts
-#EXTINF:-1,ZeeAlwan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/336.ts
-#EXTINF:-1,B4U+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/626.ts
-#EXTINF:-1,B4U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/625.ts
-#EXTINF:-1,NationalGeoAD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/322.ts
-#EXTINF:-1,Alhayet2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/332.ts
-#EXTINF:-1,TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/662.ts
-#EXTINF:-1,Sky-NewsHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/655.ts
-#EXTINF:-1,Sharaj-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/665.ts
-#EXTINF:-1,Sahraa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/663.ts
-#EXTINF:-1,SadaElBalad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/653.ts
-#EXTINF:-1,Panorama-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/654.ts
-#EXTINF:-1,Nogoum-FM-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/671.ts
-#EXTINF:-1,Narah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/657.ts
-#EXTINF:-1,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/652.ts
-#EXTINF:-1,kuwait-sport+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/668.ts
-#EXTINF:-1,iFilms
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/660.ts
-#EXTINF:-1,Hona-Baghdad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/651.ts
-#EXTINF:-1,Cirtuss
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/661.ts
-#EXTINF:-1,Baynouna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/666.ts
-#EXTINF:-1,Alsumaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/670.ts
-#EXTINF:-1,Alsaeedah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/667.ts
-#EXTINF:-1,Alrashed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/650.ts
-#EXTINF:-1,Almada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/672.ts
-#EXTINF:-1,Algamiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/659.ts
-#EXTINF:-1,ALFATH-Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/669.ts
-#EXTINF:-1,Al-Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/664.ts
-#EXTINF:-1,TOKTOKAFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/338.ts
-#EXTINF:-1,CinemaPro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/339.ts
-#EXTINF:-1,MelodyClassic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/342.ts
-#EXTINF:-1,Arabica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/326.ts
-#EXTINF:-1,LBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/340.ts
-#EXTINF:-1,LebanonTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/318.ts
-#EXTINF:-1,OTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/341.ts
-#EXTINF:-1,Alanwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/325.ts
-#EXTINF:-1,HeyaTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/320.ts
-#EXTINF:-1,NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/319.ts
-#EXTINF:-1,ALRESALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/302.ts
-#EXTINF:-1,Almajd3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/324.ts
-#EXTINF:-1,Sonna-Nabaouia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/369.ts
-#EXTINF:-1,Mekka
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/368.ts
-#EXTINF:-1,Iqraa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/367.ts
-#EXTINF:-1,ManarTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/321.ts
-#EXTINF:-1,ALQODS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/331.ts
-#EXTINF:-1,ALANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/329.ts
-#EXTINF:-1,CoranTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/627.ts
-#EXTINF:-1,CartoonNetwork
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/333.ts
-#EXTINF:-1,Space-Toon1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/441.ts
-#EXTINF:-1,MajdKids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/323.ts
-#EXTINF:-1,ToyourJannah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/305.ts
-#EXTINF:-1,SAT7_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/334.ts
-#EXTINF:-1,NoonKids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/306.ts
-#EXTINF:-1,karameesh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/304.ts
-#EXTINF:-1,Sharquia_News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/249.ts
-#EXTINF:-1,AL-Hadath
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/603.ts
-#EXTINF:-1,dubai-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/346.ts
-#EXTINF:-1,JSC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/347.ts
-#EXTINF:-1,RTNEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/251.ts
-#EXTINF:-1,Jsc_Mubasheer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/252.ts
-#EXTINF:-1,Jsc_International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/254.ts
-#EXTINF:-1,Jsc_documentary
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/250.ts
-#EXTINF:-1,EuroNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/253.ts
-#EXTINF:-1,France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/246.ts
-#EXTINF:-1,CCTV_Arab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/256.ts
-#EXTINF:-1,BBC_Arab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/245.ts
-#EXTINF:-1,AlMayaden
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/247.ts
-#EXTINF:-1,AljazeeraTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/244.ts
-#EXTINF:-1,Aljadeed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/257.ts
-#EXTINF:-1,AlarabNews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/255.ts
-#EXTINF:-1,Syria_Ikhbaria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/248.ts
-#EXTINF:-1,Yas-SportHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/445.ts
-#EXTINF:-1,Saudia-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/444.ts
-#EXTINF:-1,Saudia-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/443.ts
-#EXTINF:-1,Rotana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/299.ts
-#EXTINF:-1,Rotana_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/67.ts
-#EXTINF:-1,Rotana_Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/132.ts
-#EXTINF:-1,Rotana_Clip
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/91.ts
-#EXTINF:-1,Rotana_Masriya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/156.ts
-#EXTINF:-1,Rotana_Khalijiah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/137.ts
-#EXTINF:-1,OSN_YAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/393.ts
-#EXTINF:-1,OSN_SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/394.ts
-#EXTINF:-1,OSN_SERIES_ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/396.ts
-#EXTINF:-1,OSN_Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/397.ts
-#EXTINF:-1,OSN_Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/398.ts
-#EXTINF:-1,OSN_Movie_Festival
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/403.ts
-#EXTINF:-1,OSN_MOVIES_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/391.ts
-#EXTINF:-1,OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/387.ts
-#EXTINF:-1,OSN_Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/389.ts
-#EXTINF:-1,OSN_FIRST_MORE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/399.ts
-#EXTINF:-1,OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/388.ts
-#EXTINF:-1,OSN_FF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/402.ts
-#EXTINF:-1,OSN_Fann
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/401.ts
-#EXTINF:-1,OSN_E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/400.ts
-#EXTINF:-1,OSN_CARTOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/392.ts
-#EXTINF:-1,OSN_Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/390.ts
-#EXTINF:-1,OSN-PPV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/385.ts
-#EXTINF:-1,OSN-PPV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/384.ts
-#EXTINF:-1,DISC_ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/404.ts
-#EXTINF:-1,yahala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/395.ts
-#EXTINF:-1,TF1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/263.ts
-#EXTINF:-1,M6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/262.ts
-#EXTINF:-1,France2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/282.ts
-#EXTINF:-1,France3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/283.ts
-#EXTINF:-1,France4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/353.ts
-#EXTINF:-1,France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/354.ts
-#EXTINF:-1,FranceO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/355.ts
-#EXTINF:-1,iTele
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/212.ts
-#EXTINF:-1,Canal+Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/214.ts
-#EXTINF:-1,Canal+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/213.ts
-#EXTINF:-1,CANAL+_Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/204.ts
-#EXTINF:-1,Canal+_Decaler
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/203.ts
-#EXTINF:-1,CANAL+_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/200.ts
-#EXTINF:-1,CANAL+_FAMILY_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/196.ts
-#EXTINF:-1,Cine_Famiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/210.ts
-#EXTINF:-1,Cine_Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/211.ts
-#EXTINF:-1,Cine_Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/205.ts
-#EXTINF:-1,D8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/277.ts
-#EXTINF:-1,D17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/364.ts
-#EXTINF:-1,DisneyJunior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/286.ts
-#EXTINF:-1,13eme-Rue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/278.ts
-#EXTINF:-1,TVBreish
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/275.ts
-#EXTINF:-1,TeleToonHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/276.ts
-#EXTINF:-1,Nicklodeon4Teen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/279.ts
-#EXTINF:-1,NationalGeo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/285.ts
-#EXTINF:-1,BoomeRang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/281.ts
-#EXTINF:-1,Serie-Club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/357.ts
-#EXTINF:-1,Ocs-Geant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/358.ts
-#EXTINF:-1,Ocs-City
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/359.ts
-#EXTINF:-1,NT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/366.ts
-#EXTINF:-1,Disney-Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/362.ts
-#EXTINF:-1,Discovery-Sience
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/363.ts
-#EXTINF:-1,6ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/365.ts
-#EXTINF:-1,Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/356.ts
-#EXTINF:-1,VoyageTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/268.ts
-#EXTINF:-1,USHUAIATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/269.ts
-#EXTINF:-1,PlanetHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/270.ts
-#EXTINF:-1,Planet-Thalassa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/271.ts
-#EXTINF:-1,InfoSport+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/284.ts
-#EXTINF:-1,FOOT24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/264.ts
-#EXTINF:-1,EuroSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/360.ts
-#EXTINF:-1,EuroSport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/361.ts
-#EXTINF:-1,BeinSport1HD_FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/265.ts
-#EXTINF:-1,BeinSport2HD_FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/266.ts
-#EXTINF:-1,BeinSport3HD_FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/267.ts
-#EXTINF:-1,FR:CANALPLAY-16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/725.ts
-#EXTINF:-1,FR:CANALPLAY-15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/726.ts
-#EXTINF:-1,FR:CANALPLAY-14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/727.ts
-#EXTINF:-1,FR:CANALPLAY-13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/728.ts
-#EXTINF:-1,FR:CANALPLAY-12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/729.ts
-#EXTINF:-1,FR:CANALPLAY-11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/730.ts
-#EXTINF:-1,FR:CANALPLAY-10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/749.ts
-#EXTINF:-1,FR:CANALPLAY-09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/741.ts
-#EXTINF:-1,FR:CANALPLAY-08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/742.ts
-#EXTINF:-1,FR:CANALPLAY-07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/743.ts
-#EXTINF:-1,FR:CANALPLAY-06
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/744.ts
-#EXTINF:-1,FR:CANALPLAY-05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/745.ts
-#EXTINF:-1,FR:CANALPLAY-04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/746.ts
-#EXTINF:-1,FR:CANALPLAY-03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/747.ts
-#EXTINF:-1,FR:CANALPLAY-02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/748.ts
-#EXTINF:-1,FR:CANALPLAY-01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/750.ts
-#EXTINF:-1,FR:A-LA-CARTE9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/736.ts
-#EXTINF:-1,FR:A-LA-CARTE-8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/737.ts
-#EXTINF:-1,FR:A-LA-CARTE-7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/738.ts
-#EXTINF:-1,FR:A-LA-CARTE-6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/739.ts
-#EXTINF:-1,FR:A-LA-CARTE-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/740.ts
-#EXTINF:-1,FR:A-LA-CARTE-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/731.ts
-#EXTINF:-1,FR:A-LA-CARTE-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/732.ts
-#EXTINF:-1,FR:A-LA-CARTE-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/733.ts
-#EXTINF:-1,FR:A-LA-CARTE-10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/734.ts
-#EXTINF:-1,FR:A-LA-CARTE-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/735.ts
-#EXTINF:-1,Sky-Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/380.ts
-#EXTINF:-1,Sky-cinema24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/381.ts
-#EXTINF:-1,Sky-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/382.ts
-#EXTINF:-1,Sky-Bundesliga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/383.ts
-#EXTINF:-1,Sky-Sport2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/376.ts
-#EXTINF:-1,Sky-Sport1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/375.ts
-#EXTINF:-1,Sky-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/378.ts
-#EXTINF:-1,Sky-Cinema1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/379.ts
-#EXTINF:-1,Sky-Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/377.ts
-#EXTINF:-1,Xite-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/605.ts
-#EXTINF:-1,TLC-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/607.ts
-#EXTINF:-1,NickeLodeon-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/606.ts
-#EXTINF:-1,NET5-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/612.ts
-#EXTINF:-1,ID-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/611.ts
-#EXTINF:-1,FOX-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/609.ts
-#EXTINF:-1,DisneyXD-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/608.ts
-#EXTINF:-1,Discovery-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/604.ts
-#EXTINF:-1,Comedy-Central-NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/610.ts
-#EXTINF:-1,**Sky_Italia_Channel**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/410.ts
-#EXTINF:-1,SKYCALCIO3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/483.ts
-#EXTINF:-1,SKYCALCIO2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/482.ts
-#EXTINF:-1,SKYCACLIO1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/481.ts
-#EXTINF:-1,PRIMAFILA9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/553.ts
-#EXTINF:-1,PRIMAFILA8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/552.ts
-#EXTINF:-1,PRIMAFILA7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/551.ts
-#EXTINF:-1,PRIMAFILA6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/550.ts
-#EXTINF:-1,PRIMAFILA5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/549.ts
-#EXTINF:-1,PRIMAFILA4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/548.ts
-#EXTINF:-1,PRIMAFILA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/547.ts
-#EXTINF:-1,PRIMAFILA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/546.ts
-#EXTINF:-1,PRIMAFILA1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/545.ts
-#EXTINF:-1,PRIMAFILA15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/559.ts
-#EXTINF:-1,PRIMAFILA14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/558.ts
-#EXTINF:-1,PRIMAFILA13HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/557.ts
-#EXTINF:-1,PRIMAFILA12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/556.ts
-#EXTINF:-1,PRIMAFILA11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/555.ts
-#EXTINF:-1,PRIMAFILA10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/554.ts
-#EXTINF:-1,Sky-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/290.ts
-#EXTINF:-1,Sky-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/291.ts
-#EXTINF:-1,Sky-Sport24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/287.ts
-#EXTINF:-1,Sky-SuperCalcio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/293.ts
-#EXTINF:-1,Sky-Motogp
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/295.ts
-#EXTINF:-1,Cinema24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/289.ts
-#EXTINF:-1,Cinema1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/294.ts
-#EXTINF:-1,Cinema-Passion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/296.ts
-#EXTINF:-1,Cinema-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/288.ts
-#EXTINF:-1,Cinema-Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/292.ts
-#EXTINF:-1,PREMIUM-STORIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/713.ts
-#EXTINF:-1,Premium_Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/701.ts
-#EXTINF:-1,Premium_Cinema_2_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/705.ts
-#EXTINF:-1,Premium_-Disney_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/709.ts
-#EXTINF:-1,PREMIUM-JOIHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/715.ts
-#EXTINF:-1,PREMIUM-ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/716.ts
-#EXTINF:-1,PREMIUM-EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/717.ts
-#EXTINF:-1,PREMIUM-CRIMEHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/718.ts
-#EXTINF:-1,PREMIUM-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/719.ts
-#EXTINF:-1,PREMIUM-CINEMAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/720.ts
-#EXTINF:-1,PREMIUM-CINEMA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/721.ts
-#EXTINF:-1,PREMIUM-CINEMHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/710.ts
-#EXTINF:-1,Premium_Cinema-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/707.ts
-#EXTINF:-1,PREMIUM_CINEMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/704.ts
-#EXTINF:-1,Premium_Cinema_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/706.ts
-#EXTINF:-1,PRE_CINEMA_EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/699.ts
-#EXTINF:-1,Premium_Crime_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/702.ts
-#EXTINF:-1,Premium_Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/703.ts
-#EXTINF:-1,Premium-BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/711.ts
-#EXTINF:-1,Premium_BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/708.ts
-#EXTINF:-1,Premium_Stories
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/700.ts
-#EXTINF:-1,PRE-CINEMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/712.ts
-#EXTINF:-1,PREMIUM-SPORTHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/714.ts
-#EXTINF:-1,MEDIASET-ITALIA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/722.ts
-#EXTINF:-1,MEDIASET-EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/723.ts
-#EXTINF:-1,BEIN_MOVIES_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/693.ts
-#EXTINF:-1,BEIN_MOVIES_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/690.ts
-#EXTINF:-1,BEIN_MOVIES_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/694.ts
-#EXTINF:-1,BeinSport-Max1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/695.ts
-#EXTINF:-1,BeinSport-Max2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/696.ts
-#EXTINF:-1,BeinSport-Max3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/697.ts
-#EXTINF:-1,BeinSport-Max4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/698.ts
-#EXTINF:-1,BeinSport_News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/308.ts
-#EXTINF:-1,BeinSport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/309.ts
-#EXTINF:-1,BeinSport_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/165.ts
-#EXTINF:-1,BeinSport_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/166.ts
-#EXTINF:-1,BeinSport_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/167.ts
-#EXTINF:-1,BeinSport_4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/168.ts
-#EXTINF:-1,BeinSport-5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/169.ts
-#EXTINF:-1,BeinSport-6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/170.ts
-#EXTINF:-1,BeinSport-7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/171.ts
-#EXTINF:-1,BeinSport-8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/172.ts
-#EXTINF:-1,Bein_Sport9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/330.ts
-#EXTINF:-1,Bein_Sport10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/261.ts
-#EXTINF:-1,BeinSport11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/685.ts
-#EXTINF:-1,BeinSport12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/686.ts
-#EXTINF:-1,BeinSport14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/687.ts
-#EXTINF:-1,BeinSport15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/688.ts
-#EXTINF:-1,BeinSport16HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://gtv.tn:8000/live/hocine/hocine/689.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BEINsports █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1207.ts
+#EXTINF:-1,beinsports-1HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/520.ts
+#EXTINF:-1,AR_Bein_Sports_1_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1455.ts
+#EXTINF:-1,beinsports-2HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/521.ts
+#EXTINF:-1,AR_Bein_Sports_2_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1456.ts
+#EXTINF:-1,beinsports-3HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/522.ts
+#EXTINF:-1,AR_Bein_Sports_3_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1457.ts
+#EXTINF:-1,beinsports-4HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/523.ts
+#EXTINF:-1,AR_Bein_Sports_4_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1458.ts
+#EXTINF:-1,beinsports-5HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/524.ts
+#EXTINF:-1,AR_Bein_Sports_5_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1459.ts
+#EXTINF:-1,beinsports-6HDbackup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/525.ts
+#EXTINF:-1,AR_Bein_Sports_6_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1460.ts
+#EXTINF:-1,beinsports-7HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/526.ts
+#EXTINF:-1,AR_Bein_SportS_7_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1461.ts
+#EXTINF:-1,beinsports-8HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/527.ts
+#EXTINF:-1,AR_Bein_Sports_8_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1462.ts
+#EXTINF:-1,beinsports-9HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/528.ts
+#EXTINF:-1,AR_Bein_Sports_9_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1463.ts
+#EXTINF:-1,beinsports-10HDex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/529.ts
+#EXTINF:-1,AR_Bein_Sports_10_HD-backup2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1464.ts
+#EXTINF:-1,AR_beIN_Sports_11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1353.ts
+#EXTINF:-1,AR_beIN_Sports_12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1354.ts
+#EXTINF:-1,AR_BEIN_SPORTS_13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1355.ts
+#EXTINF:-1,AR_BEIN_SPORTS_14HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1356.ts
+#EXTINF:-1,AR_BEIN_SPORTS_15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1357.ts
+#EXTINF:-1,AR_BEIN_SPORTS_16HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1358.ts
+#EXTINF:-1,AR_BEIN_SPORTS_17HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1359.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ OSN_SHOWTIME █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1199.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/996.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/995.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-EXTRA-3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/994.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/999.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/998.ts
+#EXTINF:-1,AR_OSN_ON-DEMAND-3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/997.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1002.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1001.ts
+#EXTINF:-1,AR_OSN_Movies-Box-Office-3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1000.ts
+#EXTINF:-1,OSN-Star-Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1285.ts
+#EXTINF:-1,AR_OSN.Movies.Premiere.plus.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1084.ts
+#EXTINF:-1,AR_OSN.MOVIE.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1092.ts
+#EXTINF:-1,OSN-Movies-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1287.ts
+#EXTINF:-1,AR_OSN.Movies.Premiere.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1085.ts
+#EXTINF:-1,OSN-Movies-Premiere-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1286.ts
+#EXTINF:-1,AR_OSN_Movies.Action.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1087.ts
+#EXTINF:-1,AR_OSN.Movies.Action2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1086.ts
+#EXTINF:-1,AR_OSN.Movies.Festival.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1089.ts
+#EXTINF:-1,AR_OSN.Movies.Drama.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1090.ts
+#EXTINF:-1,AR_OSN.Movies.Comedy.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1091.ts
+#EXTINF:-1,AR_OSN.Movies.Comedy.Plus2.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/993.ts
+#EXTINF:-1,AR_OSN_Star_Movies_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1083.ts
+#EXTINF:-1,OSN-Movies-AMC-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1716.ts
+#EXTINF:-1,OSN-First-Comedy-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1717.ts
+#EXTINF:-1,OSN-Star-World-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1718.ts
+#EXTINF:-1,OSN-Discovery-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1288.ts
+#EXTINF:-1,OSN-Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1289.ts
+#EXTINF:-1,AR_OSN.Movies.Kids.HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1088.ts
+#EXTINF:-1,AR: OSN YAHALA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1283.ts
+#EXTINF:-1,AR: OSN YAHALA DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1284.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ Orange france █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1447.ts
+#EXTINF:-1,FR: Orange Cine   HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1440.ts
+#EXTINF:-1,FR: Orange Cine Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1439.ts
+#EXTINF:-1,FR: Orange Cine Aventure HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1438.ts
+#EXTINF:-1,FR: Orange Cine Comedie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1446.ts
+#EXTINF:-1,FR: Orange Cine Disney HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1445.ts
+#EXTINF:-1,FR: Orange Cine horreur HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1444.ts
+#EXTINF:-1,FR: Orange Comment C est Fait HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1443.ts
+#EXTINF:-1,FR: Orange Documentaire HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1442.ts
+#EXTINF:-1,FR: Orange enquete exclusive HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1441.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ CANALSAT_france █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1202.ts
+#EXTINF:-1,FR_ BeIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1038.ts
+#EXTINF:-1,FR_ BeIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1039.ts
+#EXTINF:-1,FR_ BeIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1040.ts
+#EXTINF:-1,FR_ SFR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1071.ts
+#EXTINF:-1,FR_ FOOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1055.ts
+#EXTINF:-1,FR:INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/882.ts
+#EXTINF:-1,FR_ Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1050.ts
+#EXTINF:-1,FR_ Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1051.ts
+#EXTINF:-1,FR: EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1484.ts
+#EXTINF:-1,FR_ L'EQUIPE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1059.ts
+#EXTINF:-1,FR: Golf  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1379.ts
+#EXTINF:-1,FR: CANAL  SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1383.ts
+#EXTINF:-1,FR_ TELETOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1073.ts
+#EXTINF:-1,FR_ PIWI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1066.ts
+#EXTINF:-1,FR: GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1491.ts
+#EXTINF:-1,FR: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1485.ts
+#EXTINF:-1,FR: Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1486.ts
+#EXTINF:-1,FR: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1488.ts
+#EXTINF:-1,FR:  MANGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1487.ts
+#EXTINF:-1,FR:  Disney Jr Fr HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1489.ts
+#EXTINF:-1,FR_ DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1049.ts
+#EXTINF:-1,FR:  Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1490.ts
+#EXTINF:-1,FR_ TIJI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1076.ts
+#EXTINF:-1,FR_ CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1044.ts
+#EXTINF:-1,FR_ D17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1047.ts
+#EXTINF:-1,FR_ AB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1033.ts
+#EXTINF:-1,FR_ AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1032.ts
+#EXTINF:-1,FR_ TEVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1074.ts
+#EXTINF:-1,FR:TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/887.ts
+#EXTINF:-1,FR:M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/888.ts
+#EXTINF:-1,FR:W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/889.ts
+#EXTINF:-1,FR:FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/891.ts
+#EXTINF:-1,FR_ France 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/892.ts
+#EXTINF:-1,FR:FRANCE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/893.ts
+#EXTINF:-1,FR_ France 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/894.ts
+#EXTINF:-1,FR_ TMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/899.ts
+#EXTINF:-1,FR:NT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/890.ts
+#EXTINF:-1,FR_ D8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1046.ts
+#EXTINF:-1,FR_ FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1054.ts
+#EXTINF:-1,FR_ Planete  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1067.ts
+#EXTINF:-1,FR_ NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1063.ts
+#EXTINF:-1,FR_ CHERIE25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1045.ts
+#EXTINF:-1,FR_ SCIENCE & VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1072.ts
+#EXTINF:-1,FR_ NATIONAL GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1062.ts
+#EXTINF:-1,FR:TOUTE L'HISTOIRE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/907.ts
+#EXTINF:-1,FR:DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/910.ts
+#EXTINF:-1,FR:ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/911.ts
+#EXTINF:-1,FR: VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/914.ts
+#EXTINF:-1,FR: USHUAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/915.ts
+#EXTINF:-1,FR_ RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1068.ts
+#EXTINF:-1,FR_ BFMTV Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1041.ts
+#EXTINF:-1,FR_ BFMTV Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1042.ts
+#EXTINF:-1,FR_ ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1036.ts
+#EXTINF:-1,FR:ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/913.ts
+#EXTINF:-1,FR_ RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/903.ts
+#EXTINF:-1,FR:13 EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/912.ts
+#EXTINF:-1,FR_ PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/900.ts
+#EXTINF:-1,FR_ M6 Music hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/941.ts
+#EXTINF:-1,FR_ COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/940.ts
+#EXTINF:-1,FR_ CINE POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/939.ts
+#EXTINF:-1,FR_ CINE FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/938.ts
+#EXTINF:-1,FR: CINE  EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1382.ts
+#EXTINF:-1,FR_ CANAL  SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/935.ts
+#EXTINF:-1,FR: OCS MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1380.ts
+#EXTINF:-1,FR: OCS CITY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1381.ts
+#EXTINF:-1,FR_ CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/931.ts
+#EXTINF:-1,FR_ CANAL  FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/934.ts
+#EXTINF:-1,FR_ CANAL  DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/933.ts
+#EXTINF:-1,FR_ CANAL  CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/932.ts
+#EXTINF:-1,FR:A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/698.ts
+#EXTINF:-1,FR:A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1436.ts
+#EXTINF:-1,FR:A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/700.ts
+#EXTINF:-1,FR:A LA CARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/701.ts
+#EXTINF:-1,FR:A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/702.ts
+#EXTINF:-1,FR:A LA CARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/703.ts
+#EXTINF:-1,FR:A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/704.ts
+#EXTINF:-1,FR:A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/705.ts
+#EXTINF:-1,FR:A LA CARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/706.ts
+#EXTINF:-1,FR:A LA CARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/707.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ Canal_Play  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1474.ts
+#EXTINF:-1,FR_Canal_Play_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1465.ts
+#EXTINF:-1,FR_Canal_Play_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1466.ts
+#EXTINF:-1,FR_Canal_Play_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1467.ts
+#EXTINF:-1,FR_Canal_Play_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1468.ts
+#EXTINF:-1,FR_Canal_Play_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1469.ts
+#EXTINF:-1,FR_Canal_Play_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1470.ts
+#EXTINF:-1,FR_Canal_Play_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1471.ts
+#EXTINF:-1,FR_Canal_Play_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1472.ts
+#EXTINF:-1,FR_Canal_Play_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1473.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ TVSAT-SKYitaliA █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1133.ts
+#EXTINF:-1,IT-Tvsat_Rai1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1134.ts
+#EXTINF:-1,IT-Tvsat_Rai2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1135.ts
+#EXTINF:-1,IT-Rai3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1136.ts
+#EXTINF:-1,IT-Rai4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1137.ts
+#EXTINF:-1,IT-Rai5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1138.ts
+#EXTINF:-1,IT-Tvsat_Italia1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1139.ts
+#EXTINF:-1,IT-Tvsat_Rete4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1140.ts
+#EXTINF:-1,IT-Canale5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1141.ts
+#EXTINF:-1,IT-Rai_Yoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1142.ts
+#EXTINF:-1,IT-RAI_MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1144.ts
+#EXTINF:-1,IT-Rai_News24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1143.ts
+#EXTINF:-1,sky-TAG24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/368.ts
+#EXTINF:-1,RETE8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/361.ts
+#EXTINF:-1,raipremium_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/367.ts
+#EXTINF:-1,raigulp_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/365.ts
+#EXTINF:-1,FANO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/366.ts
+#EXTINF:-1,ETV MARCHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/363.ts
+#EXTINF:-1,CBL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/362.ts
+#EXTINF:-1,IT-Mediaset_Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1147.ts
+#EXTINF:-1,IT | Sky Sport 1 hd .
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1448.ts
+#EXTINF:-1,IT: Sky Sport 2 HD .
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1449.ts
+#EXTINF:-1,IT: Sky sport 3 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1450.ts
+#EXTINF:-1,IT: Sky Sport 24 HD ..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1451.ts
+#EXTINF:-1,IT: RSI 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1453.ts
+#EXTINF:-1,IT: RSI 2 HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1452.ts
+#EXTINF:-1,IT-SUPER TENNİS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1151.ts
+#EXTINF:-1,IT-PREMIUM JOI .
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1145.ts
+#EXTINF:-1,IT-PREMIUM CINEMA 2 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1146.ts
+#EXTINF:-1,IT- Premium Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1161.ts
+#EXTINF:-1,IT- Premium Cinema  24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1162.ts
+#EXTINF:-1,IT_SkyCinema_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1346.ts
+#EXTINF:-1,IT_Sky_Cinema_Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1349.ts
+#EXTINF:-1,IT_Sky_Cinema_Cult_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1351.ts
+#EXTINF:-1,IT_Sky_Cinema_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1352.ts
+#EXTINF:-1,IT_Sky_Cinema24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1348.ts
+#EXTINF:-1,IT=SkyCinema_Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1274.ts
+#EXTINF:-1,IT_SkyCinema_Plus1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1345.ts
+#EXTINF:-1,IT_SKY_CINEMA_MAX-PLUS1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1350.ts
+#EXTINF:-1,IT=SkyCinema_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1277.ts
+#EXTINF:-1,IT=Sky_Cinema_Family_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1275.ts
+#EXTINF:-1,IT_SKY_FAMILY-PLUS1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1347.ts
+#EXTINF:-1,IT=SKY Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1276.ts
+#EXTINF:-1,IT Sky Cinema Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1280.ts
+#EXTINF:-1,IT Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1282.ts
+#EXTINF:-1,IT Sky Cinema  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1281.ts
+#EXTINF:-1,IT Premium Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1267.ts
+#EXTINF:-1,IT Premium Cinema   24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1264.ts
+#EXTINF:-1,IT Premium  Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1265.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/786.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/787.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/788.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/789.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/790.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/791.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/792.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/793.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/794.ts
+#EXTINF:-1,IT_SKY_PRIMAFILA10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/795.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SKU-UK  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1203.ts
+#EXTINF:-1,UK: Sky SpNewsHQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1231.ts
+#EXTINF:-1,UK:SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/685.ts
+#EXTINF:-1,UK:SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/686.ts
+#EXTINF:-1,UK:SKY SPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/687.ts
+#EXTINF:-1,UK:SKY SPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/688.ts
+#EXTINF:-1,UK:SKY SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/689.ts
+#EXTINF:-1,UK:BT SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/690.ts
+#EXTINF:-1,UK:BT SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/691.ts
+#EXTINF:-1,UK: BT Sports Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1384.ts
+#EXTINF:-1,UK: Racing UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1385.ts
+#EXTINF:-1,UK: BT Sports Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1332.ts
+#EXTINF:-1,UK:SKY SPORT F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/693.ts
+#EXTINF:-1,UK: Eurosport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1230.ts
+#EXTINF:-1,Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1323.ts
+#EXTINF:-1,PremSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1324.ts
+#EXTINF:-1,UK: Motors TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1343.ts
+#EXTINF:-1,UK: MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1248.ts
+#EXTINF:-1,UK: At The Races
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1331.ts
+#EXTINF:-1,UK: AtTheRaces
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1232.ts
+#EXTINF:-1,UK: Sky Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1344.ts
+#EXTINF:-1,UK: Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1339.ts
+#EXTINF:-1,UK: Discovery Home & Health
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1340.ts
+#EXTINF:-1,UK: Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1341.ts
+#EXTINF:-1,UK: Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1338.ts
+#EXTINF:-1,UK:  Crime & Investigiation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1342.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1388.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1391.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1387.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1390.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1389.ts
+#EXTINF:-1,UK:SKY SHOWCASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/694.ts
+#EXTINF:-1,UK:Sky Sci Fi & Hor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/696.ts
+#EXTINF:-1,SKYUK:SKY MOVIES FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/753.ts
+#EXTINF:-1,SKYUK:NATIONAL GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/763.ts
+#EXTINF:-1,UK: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1335.ts
+#EXTINF:-1,UK: Nick JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1336.ts
+#EXTINF:-1,UK: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1337.ts
+#EXTINF:-1,UK: DisneyChnl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1262.ts
+#EXTINF:-1,UK: DiscScience
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1263.ts
+#EXTINF:-1,BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1319.ts
+#EXTINF:-1,BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1320.ts
+#EXTINF:-1,UK: ITV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1256.ts
+#EXTINF:-1,UK: ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1255.ts
+#EXTINF:-1,UK: Itv 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1396.ts
+#EXTINF:-1,UK: Channel 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1328.ts
+#EXTINF:-1,UK: Channel 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1329.ts
+#EXTINF:-1,UK: Boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1333.ts
+#EXTINF:-1,UK: VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1234.ts
+#EXTINF:-1,UK: UTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1235.ts
+#EXTINF:-1,UK: TrueEnt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1236.ts
+#EXTINF:-1,UK: True Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1237.ts
+#EXTINF:-1,UK: True Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1238.ts
+#EXTINF:-1,UK: The Vault
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1239.ts
+#EXTINF:-1,UK: Starz TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1240.ts
+#EXTINF:-1,UK: Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1241.ts
+#EXTINF:-1,UK: Sky2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1242.ts
+#EXTINF:-1,UK: Sky One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1330.ts
+#EXTINF:-1,UK: Sky Two HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1233.ts
+#EXTINF:-1,Sky Movies Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/692.ts
+#EXTINF:-1,UK: Sky Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1243.ts
+#EXTINF:-1,UK: Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1244.ts
+#EXTINF:-1,UK: Sky Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1334.ts
+#EXTINF:-1,UK:SKY SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/695.ts
+#EXTINF:-1,UK: RT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1245.ts
+#EXTINF:-1,UK: Premier Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1229.ts
+#EXTINF:-1,UK: PBS America
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1246.ts
+#EXTINF:-1,UK: Oireachtas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1247.ts
+#EXTINF:-1,UK: MTV Classic UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1249.ts
+#EXTINF:-1,UK: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1250.ts
+#EXTINF:-1,UK: movies4men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1251.ts
+#EXTINF:-1,UK: More4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1252.ts
+#EXTINF:-1,UK: Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1253.ts
+#EXTINF:-1,UK: ITVBorder
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1254.ts
+#EXTINF:-1,UK: ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1257.ts
+#EXTINF:-1,UK: Horror Channe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1258.ts
+#EXTINF:-1,UK: FOX News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1259.ts
+#EXTINF:-1,UK: E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1260.ts
+#EXTINF:-1,UK: DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1261.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ R0MANIA █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1660.ts
+#EXTINF:-1,RO: Digi Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1661.ts
+#EXTINF:-1,RO: Digi Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1662.ts
+#EXTINF:-1,RO: Digi Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1663.ts
+#EXTINF:-1,RO: Digi Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1664.ts
+#EXTINF:-1,RO: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1665.ts
+#EXTINF:-1,RO: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1666.ts
+#EXTINF:-1,RO: VIASAT NATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1668.ts
+#EXTINF:-1,RO: VIASAT EXPLORER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1669.ts
+#EXTINF:-1,RO: TV 1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1675.ts
+#EXTINF:-1,RO: HISTORI CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1672.ts
+#EXTINF:-1,RO: DIGI ANIMAL WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1674.ts
+#EXTINF:-1,RO: NATIONAL GEO..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1671.ts
+#EXTINF:-1,RO: NATIONAL GEO..WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1670.ts
+#EXTINF:-1,RO: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1677.ts
+#EXTINF:-1,RO: HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1676.ts
+#EXTINF:-1,RO: FISHING & HUNTING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1667.ts
+#EXTINF:-1,RO: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1678.ts
+#EXTINF:-1,RO: DIGI WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1673.ts
+#EXTINF:-1,RO: DIGI FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1679.ts
+#EXTINF:-1,RO: CINEMAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1680.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ USA  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1402.ts
+#EXTINF:-1,ML|Astro_Supersport_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1432.ts
+#EXTINF:-1,ML|Astro_Supersport_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1433.ts
+#EXTINF:-1,ML|Astro_Supersport_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1434.ts
+#EXTINF:-1,ML|Astro_Supersport_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1435.ts
+#EXTINF:-1,USA:WWE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1573.ts
+#EXTINF:-1,US: WILLOW CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1497.ts
+#EXTINF:-1,US: NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1498.ts
+#EXTINF:-1,US: NBC Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1499.ts
+#EXTINF:-1,StarSports1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1496.ts
+#EXTINF:-1,StarSports1hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1495.ts
+#EXTINF:-1,StarSports2hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1494.ts
+#EXTINF:-1,StarSports3hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1493.ts
+#EXTINF:-1,StarSports4hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1492.ts
+#EXTINF:-1,SG: Mio Stadium 102 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1507.ts
+#EXTINF:-1,SG: Mio Stadium 103 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1506.ts
+#EXTINF:-1,SG: Mio Stadium 104 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1505.ts
+#EXTINF:-1,SG: Mio Stadium 105 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1504.ts
+#EXTINF:-1,SG: Mio Stadium 106 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1503.ts
+#EXTINF:-1,SG: Mio Stadium 107 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1502.ts
+#EXTINF:-1,SG: Mio Stadium 108 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1501.ts
+#EXTINF:-1,ESPN USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1500.ts
+#EXTINF:-1,USA:TSN 1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1403.ts
+#EXTINF:-1,USA:TSN 2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1404.ts
+#EXTINF:-1,USA:TSN 3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1405.ts
+#EXTINF:-1,USA:TSN_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1406.ts
+#EXTINF:-1,USA:TSN_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1407.ts
+#EXTINF:-1,USA:TMN_1_MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1408.ts
+#EXTINF:-1,USA:TMN_2_MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1409.ts
+#EXTINF:-1,USA:TMN_3_MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1410.ts
+#EXTINF:-1,USA:TMN_4_MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1411.ts
+#EXTINF:-1,USA:TLC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1412.ts
+#EXTINF:-1,USA:Sportsnet_360_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1413.ts
+#EXTINF:-1,USA:NFL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1414.ts
+#EXTINF:-1,USA:Nat_Geo_Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1415.ts
+#EXTINF:-1,USA:Max_West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1416.ts
+#EXTINF:-1,USA:ESPN_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1417.ts
+#EXTINF:-1,USA:ESPN_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1418.ts
+#EXTINF:-1,USA:COMEDY_CENTRAL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1419.ts
+#EXTINF:-1,USA:CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1420.ts
+#EXTINF:-1,USA:BYU_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1421.ts
+#EXTINF:-1,USA:ANIMAL_PLANET_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1422.ts
+#EXTINF:-1,USA:A&E_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1423.ts
+#EXTINF:-1,USA CARTOON NETWORK HD Local
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1424.ts
+#EXTINF:-1,Music|MTV_Rocks
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1425.ts
+#EXTINF:-1,Music|MTV_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1426.ts
+#EXTINF:-1,Music|MTV_Live_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1427.ts
+#EXTINF:-1,Music|MTV_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1428.ts
+#EXTINF:-1,Music|MTV_Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1429.ts
+#EXTINF:-1,Music|MTV_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1430.ts
+#EXTINF:-1,Music|MTV_BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1431.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ ESPANIA █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1655.ts
+#EXTINF:-1,ES:beIN Sport Ñ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1962.ts
+#EXTINF:-1,ES:  C  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1659.ts
+#EXTINF:-1,ES: C  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1897.ts
+#EXTINF:-1,ES: C   FUTBOL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1658.ts
+#EXTINF:-1,ES: C  FUTB0L HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1896.ts
+#EXTINF:-1,ES: C  DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1891.ts
+#EXTINF:-1,ES:C  DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1960.ts
+#EXTINF:-1,ES:C  DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1959.ts
+#EXTINF:-1,ES=MovieStar_F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1976.ts
+#EXTINF:-1,ES=MoviesStar_Gp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1977.ts
+#EXTINF:-1,ES:BARCATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1963.ts
+#EXTINF:-1,ES: REAL MADRID TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1899.ts
+#EXTINF:-1,ES: LA SEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1904.ts
+#EXTINF:-1,ES=TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1973.ts
+#EXTINF:-1,ES=NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1974.ts
+#EXTINF:-1,ES=NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1975.ts
+#EXTINF:-1,ES=Movistar  Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1980.ts
+#EXTINF:-1,ES=Movistar  Accion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1981.ts
+#EXTINF:-1,ES=CAZA_Y_PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1978.ts
+#EXTINF:-1,ES: C  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1656.ts
+#EXTINF:-1,ES: C  ACCION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1657.ts
+#EXTINF:-1,ES: TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1907.ts
+#EXTINF:-1,ES: TELECINCO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1901.ts
+#EXTINF:-1,ES: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1906.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1900.ts
+#EXTINF:-1,ES: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1905.ts
+#EXTINF:-1,ES: COSMO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1902.ts
+#EXTINF:-1,ES: C  SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1894.ts
+#EXTINF:-1,ES: C  Estrenos HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1893.ts
+#EXTINF:-1,ES: C  DCINE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1895.ts
+#EXTINF:-1,ES: C   Series Xtra HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1892.ts
+#EXTINF:-1,ES: C   GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1898.ts
+#EXTINF:-1,ES=CANAL_DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1979.ts
+#EXTINF:-1,ES:VIAJAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1930.ts
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1931.ts
+#EXTINF:-1,ES:PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1932.ts
+#EXTINF:-1,ES:NONSTOPEOPLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1933.ts
+#EXTINF:-1,ES:Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1934.ts
+#EXTINF:-1,ES:NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1935.ts
+#EXTINF:-1,ES:NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1936.ts
+#EXTINF:-1,ES:MTV ESPANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1937.ts
+#EXTINF:-1,ES:MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1938.ts
+#EXTINF:-1,ES:LTC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1939.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1940.ts
+#EXTINF:-1,ES:FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1941.ts
+#EXTINF:-1,ES:FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1942.ts
+#EXTINF:-1,ES:EUROSPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1943.ts
+#EXTINF:-1,ES:ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1944.ts
+#EXTINF:-1,ES:DIVINITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1945.ts
+#EXTINF:-1,ES:DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1946.ts
+#EXTINF:-1,ES:DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1947.ts
+#EXTINF:-1,ES:DCINEESPANOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1948.ts
+#EXTINF:-1,ES:CUATRO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1949.ts
+#EXTINF:-1,ES:CRIMEN INVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1950.ts
+#EXTINF:-1,ES:COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1951.ts
+#EXTINF:-1,ES:CLANTVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1952.ts
+#EXTINF:-1,ES:CANALODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1953.ts
+#EXTINF:-1,ES:CANALCOCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1954.ts
+#EXTINF:-1,ES:CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1955.ts
+#EXTINF:-1,ES:CANAL DE LA ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1956.ts
+#EXTINF:-1,ES:CANAL  TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1957.ts
+#EXTINF:-1,ES:CALLE13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1958.ts
+#EXTINF:-1,ES:BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1961.ts
+#EXTINF:-1,ES:BABY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1964.ts
+#EXTINF:-1,ES:AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1965.ts
+#EXTINF:-1,ES:A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1966.ts
+#EXTINF:-1,ES:40TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1967.ts
+#EXTINF:-1,ES:24h
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1968.ts
+#EXTINF:-1,ES: LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1970.ts
+#EXTINF:-1,ES: LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1971.ts
+#EXTINF:-1,ES: CANAL   DEPORTES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1969.ts
+#EXTINF:-1,ES: Antena3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1972.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ Taquilla  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1204.ts
+#EXTINF:-1,ES: Taquilla 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/680.ts
+#EXTINF:-1,ES: Taquilla 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/679.ts
+#EXTINF:-1,ES: Taquilla 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/678.ts
+#EXTINF:-1,ES: Taquilla 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/677.ts
+#EXTINF:-1,ES: Taquilla 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/676.ts
+#EXTINF:-1,ES: Taquilla 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/675.ts
+#EXTINF:-1,ES: Taquilla 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/674.ts
+#EXTINF:-1,ES: Taquilla 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/673.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SPORT-EXTRA █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1543.ts
+#EXTINF:-1,Arena Sport 1 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1568.ts
+#EXTINF:-1,Arena Sport 2 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1569.ts
+#EXTINF:-1,Arena Sport 3 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1570.ts
+#EXTINF:-1,Arena Sport 4 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1571.ts
+#EXTINF:-1,Arena Sport 5 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1572.ts
+#EXTINF:-1,FOX Sports1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1561.ts
+#EXTINF:-1,FOX Sports2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1562.ts
+#EXTINF:-1,FOX Sports3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1563.ts
+#EXTINF:-1,FOX Sports4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1564.ts
+#EXTINF:-1,FOX Sports5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1565.ts
+#EXTINF:-1,lasexta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/353.ts
+#EXTINF:-1,Tring Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1544.ts
+#EXTINF:-1,Tring Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1545.ts
+#EXTINF:-1,Tring Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1546.ts
+#EXTINF:-1,Tring Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1547.ts
+#EXTINF:-1,Sport TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1548.ts
+#EXTINF:-1,Sport TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1549.ts
+#EXTINF:-1,Sport TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1550.ts
+#EXTINF:-1,Sport TV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1551.ts
+#EXTINF:-1,Sport TV5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1552.ts
+#EXTINF:-1,Sport Klub 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1553.ts
+#EXTINF:-1,Sport Klub 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1554.ts
+#EXTINF:-1,Sport Klub 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1555.ts
+#EXTINF:-1,Sport Klub 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1556.ts
+#EXTINF:-1,Sport Klub 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1557.ts
+#EXTINF:-1,Sport klub 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1558.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █SKY-DE █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1648.ts
+#EXTINF:-1,DE: Sky Sport HD 1 Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1610.ts
+#EXTINF:-1,DE: Sky Sport HD 2 Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1611.ts
+#EXTINF:-1,DE: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1613.ts
+#EXTINF:-1,DE: Eurosport 2 HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1614.ts
+#EXTINF:-1,DE: Motorvision
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1618.ts
+#EXTINF:-1,DE: Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1609.ts
+#EXTINF:-1,DE: SKY SELECT-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1710.ts
+#EXTINF:-1,DE: SKY SELECT-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1711.ts
+#EXTINF:-1,DE: SKY SELECT-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1712.ts
+#EXTINF:-1,DE: SKY SELECT-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1713.ts
+#EXTINF:-1,DE: SKY SELECT-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1714.ts
+#EXTINF:-1,DE: SKY SELECT 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1715.ts
+#EXTINF:-1,DE: ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1577.ts
+#EXTINF:-1,DE: VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1583.ts
+#EXTINF:-1,DE: Universal HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1628.ts
+#EXTINF:-1,DE: TNT Serie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1625.ts
+#EXTINF:-1,DE: TNT Glitz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1626.ts
+#EXTINF:-1,DE: TNT Film TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1627.ts
+#EXTINF:-1,DE: TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1586.ts
+#EXTINF:-1,DE: Tele 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1587.ts
+#EXTINF:-1,DE: SyFy HD Deutschland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1597.ts
+#EXTINF:-1,DE: Super RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1639.ts
+#EXTINF:-1,DE: Sport1 HD (Germany)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1615.ts
+#EXTINF:-1,DE: Sport1  US HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1617.ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1606.ts
+#EXTINF:-1,DE: Sky Nostalgie Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1600.ts
+#EXTINF:-1,DE: Sky Krimi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1601.ts
+#EXTINF:-1,DE: Sky Hits HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1594.ts
+#EXTINF:-1,DE: Sky Emotion Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1602.ts
+#EXTINF:-1,DE: Sky Comedy Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1599.ts
+#EXTINF:-1,DE: Sky Cinema HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1590.ts
+#EXTINF:-1,DE: Sky Cinema  24 HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1592.ts
+#EXTINF:-1,DE: Sky Cinema  1 HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1591.ts
+#EXTINF:-1,DE: Sky Bundesliga HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1612.ts
+#EXTINF:-1,DE: Sky Atlantic HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1595.ts
+#EXTINF:-1,DE: Sky Atlantic  1 HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1596.ts
+#EXTINF:-1,DE: Sky Action HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1593.ts
+#EXTINF:-1,DE: Sixx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1585.ts
+#EXTINF:-1,DE: Sat 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1581.ts
+#EXTINF:-1,DE: Sat 1 Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1582.ts
+#EXTINF:-1,DE: RTL Passion Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1632.ts
+#EXTINF:-1,DE: RTL Nitro HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1580.ts
+#EXTINF:-1,DE: RTL Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1631.ts
+#EXTINF:-1,DE: RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1578.ts
+#EXTINF:-1,DE: RTL Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1622.ts
+#EXTINF:-1,DE: RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1579.ts
+#EXTINF:-1,DE: Romance TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1633.ts
+#EXTINF:-1,DE: ProSieben MAXX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1589.ts
+#EXTINF:-1,DE: Prosieben HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1588.ts
+#EXTINF:-1,DE: Nick HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1638.ts
+#EXTINF:-1,DE: National Geographic HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1603.ts
+#EXTINF:-1,DE: NatGeo Wild HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1604.ts
+#EXTINF:-1,DE: MTV HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1644.ts
+#EXTINF:-1,DE: MGM HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1598.ts
+#EXTINF:-1,DE: Kinowelt TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1623.ts
+#EXTINF:-1,DE: Kabel 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1584.ts
+#EXTINF:-1,DE: Jukebox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1646.ts
+#EXTINF:-1,DE: History Channel HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1605.ts
+#EXTINF:-1,DE: Heimatkanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1624.ts
+#EXTINF:-1,DE: Goldstar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1645.ts
+#EXTINF:-1,DE: Fox HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1619.ts
+#EXTINF:-1,DE: E! HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1621.ts
+#EXTINF:-1,DE: DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1608.ts
+#EXTINF:-1,DE: Disney XD Deutschland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1637.ts
+#EXTINF:-1,DE: Disney Junior HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1636.ts
+#EXTINF:-1,DE: Disney Cinemagic HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1635.ts
+#EXTINF:-1,DE: Disney Channel HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1634.ts
+#EXTINF:-1,DE: Discovery HD Deutschland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1607.ts
+#EXTINF:-1,DE: Deluxe Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1643.ts
+#EXTINF:-1,DE: Das Erste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1576.ts
+#EXTINF:-1,DE: Classica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1647.ts
+#EXTINF:-1,DE: Cartoon Network Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1641.ts
+#EXTINF:-1,DE: Boomerang Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1642.ts
+#EXTINF:-1,DE: AXN HD Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1630.ts
+#EXTINF:-1,DE: A-E Germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1620.ts
+#EXTINF:-1,DE: 13th Street HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1629.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ ARABIC █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1206.ts
+#EXTINF:-1,arriadia MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1720.ts
+#EXTINF:-1,Almaghribya Tv Maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1721.ts
+#EXTINF:-1,Alaoulainter Maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1722.ts
+#EXTINF:-1,2m-maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/657.ts
+#EXTINF:-1,oula-maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/658.ts
+#EXTINF:-1,medi1-maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/659.ts
+#EXTINF:-1,Arrabiaa-maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/660.ts
+#EXTINF:-1,AR_NESSMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1982.ts
+#EXTINF:-1,AR: TNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1986.ts
+#EXTINF:-1,ATTOUNISYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1987.ts
+#EXTINF:-1,ATTESISA TUNISSIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1988.ts
+#EXTINF:-1,AR: HANNIBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1989.ts
+#EXTINF:-1,SEMSEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/649.ts
+#EXTINF:-1,AR: Cartoon Network Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1732.ts
+#EXTINF:-1,AR: BARAEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1733.ts
+#EXTINF:-1,AJIYAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/650.ts
+#EXTINF:-1,toyuer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/647.ts
+#EXTINF:-1,AR: ALMAYADEEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1990.ts
+#EXTINF:-1,AR: ALJAZEERA MUBASHAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1991.ts
+#EXTINF:-1,AR: ALARABYA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1992.ts
+#EXTINF:-1,AR: AL Arabiyah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1833.ts
+#EXTINF:-1,AR: ALJAZEERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1834.ts
+#EXTINF:-1,AR: alfajer 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1832.ts
+#EXTINF:-1,AR: AL_MAJD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1837.ts
+#EXTINF:-1,aljazeera_doc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/652.ts
+#EXTINF:-1,ADNatGeo_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/651.ts
+#EXTINF:-1,AR: Syria Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1836.ts
+#EXTINF:-1,dubaione
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/632.ts
+#EXTINF:-1,AR:DUBAI_ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2006.ts
+#EXTINF:-1,AR:NOOR_DHABI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2004.ts
+#EXTINF:-1,AR:DUBAI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2005.ts
+#EXTINF:-1,AR:ABU_DHABI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2007.ts
+#EXTINF:-1,AR_Saoudia_Aloula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1994.ts
+#EXTINF:-1,AR_MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1999.ts
+#EXTINF:-1,MBC1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/633.ts
+#EXTINF:-1,MBCMaser_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/640.ts
+#EXTINF:-1,AR: MBC Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1723.ts
+#EXTINF:-1,MBCDrama_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/639.ts
+#EXTINF:-1,MBC2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/634.ts
+#EXTINF:-1,MBC_MAXHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/636.ts
+#EXTINF:-1,MBC_ACTION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/637.ts
+#EXTINF:-1,MBC3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/644.ts
+#EXTINF:-1,MBC_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/635.ts
+#EXTINF:-1,MBC_BOLLYWOOD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/638.ts
+#EXTINF:-1,ZeeAlwan_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/643.ts
+#EXTINF:-1,AR_ZeeAflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1993.ts
+#EXTINF:-1,AR_Rotana_Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1997.ts
+#EXTINF:-1,ARB:ROTANA CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1482.ts
+#EXTINF:-1,AR: Rotana Massrya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1724.ts
+#EXTINF:-1,AR_Rotana_Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1995.ts
+#EXTINF:-1,AR_Rotana_Khalijiah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1996.ts
+#EXTINF:-1,AR: Rotana Khaliji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1725.ts
+#EXTINF:-1,AR_Rotana_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1998.ts
+#EXTINF:-1,AR: Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1726.ts
+#EXTINF:-1,AR: Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1728.ts
+#EXTINF:-1,AR: CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1731.ts
+#EXTINF:-1,AR: CBC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1830.ts
+#EXTINF:-1,AR: CBC_EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1831.ts
+#EXTINF:-1,AR: CBC EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1729.ts
+#EXTINF:-1,ARB:Art_Aflam1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1476.ts
+#EXTINF:-1,AR:ART_Aflam2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1477.ts
+#EXTINF:-1,AR:ART HEKAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1480.ts
+#EXTINF:-1,AR_Art_Hekayat1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2002.ts
+#EXTINF:-1,AR:ART HEKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1479.ts
+#EXTINF:-1,AR_Art_Hekayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2001.ts
+#EXTINF:-1,ARB:ART-CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/1478.ts
+#EXTINF:-1,AR_ART_Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2000.ts
+#EXTINF:-1,AR_ARR_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2003.ts
+#EXTINF:-1,AR| BEIN MOVIES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/952.ts
+#EXTINF:-1,AR: BEIN MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/2008.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/953.ts
+#EXTINF:-1,AR | BEIN MOVIES 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/954.ts
+#EXTINF:-1,AR | BEIN MOVIES 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://shar-iptv.dynu.com:25461/live/si-moussa_errifi/startimes-2/955.ts
