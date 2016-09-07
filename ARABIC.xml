@@ -1,513 +1,151 @@
 #EXTM3U
-#EXTINF:-1,=====  ARAB  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/253.ts
-#EXTINF:-1,Medi 1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1770.ts
-#EXTINF:-1,2MMAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/228.ts
-#EXTINF:-1,arriadiaMAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/229.ts
-#EXTINF:-1,arrabiaamaroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/230.ts
-#EXTINF:-1,AlAoulaTvMaroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/546.ts
-#EXTINF:-1,AlmaghribyaTvMaroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/545.ts
-#EXTINF:-1,AlaoulainterMaroc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/227.ts
-#EXTINF:-1,:MBC_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1778.ts
-#EXTINF:-1,MBC_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1779.ts
-#EXTINF:-1,MBC_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1780.ts
-#EXTINF:-1,MBC_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1781.ts
-#EXTINF:-1,MBC_MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1783.ts
-#EXTINF:-1,MBC_MASR_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1785.ts
-#EXTINF:-1,MBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1786.ts
-#EXTINF:-1,MBC_BOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1787.ts
-#EXTINF:-1,MBC_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1782.ts
-#EXTINF:-1,MBC_PRO_SPORT_1 _HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1788.ts
-#EXTINF:-1,MBC_PRO_SPORT_2 _HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1789.ts
-#EXTINF:-1,MBC_PRO_SPORT_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1790.ts
-#EXTINF:-1,Nat Geo Abu Dahbi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/823.ts
-#EXTINF:-1,Art Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/845.ts
-#EXTINF:-1,Art Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/846.ts
-#EXTINF:-1,(AR)  MBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/793.ts
-#EXTINF:-1,(AR)  MBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/792.ts
-#EXTINF:-1,ALJAZEERALIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/548.ts
-#EXTINF:-1,ALARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/549.ts
-#EXTINF:-1,AlHURRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/552.ts
-#EXTINF:-1,AL HADATH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/553.ts
-#EXTINF:-1,aljazeeraDOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/214.ts
-#EXTINF:-1,BBCARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/215.ts
-#EXTINF:-1,AnaharDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/554.ts
-#EXTINF:-1,AnaharAlyaoum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/555.ts
-#EXTINF:-1,Anahar1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/556.ts
-#EXTINF:-1,AR: BEINMOVIES_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/911.ts
-#EXTINF:-1,AR: BEINMOVIES_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/912.ts
-#EXTINF:-1,AR: BEINMOVIES_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/913.ts
-#EXTINF:-1,AR: BEINMOVIES_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/914.ts
-#EXTINF:-1,=====  OSN  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1441.ts
-#EXTINF:-1,OSN_OFFICBOX3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1724.ts
-#EXTINF:-1,OSN_OFFICBOX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1723.ts
-#EXTINF:-1,OSN_OFFICBOX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1722.ts
-#EXTINF:-1,OSN_Movie_HD_Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1729.ts
-#EXTINF:-1,OSN_Movie_HD_Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1730.ts
-#EXTINF:-1,OSN_Movie_HD_Action2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1728.ts
-#EXTINF:-1,OSN_Movie_HD_Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1727.ts
-#EXTINF:-1,OSN_Movie_Fastival
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1736.ts
-#EXTINF:-1,OSN_Movies_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1731.ts
-#EXTINF:-1,OSN_Movies_Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1732.ts
-#EXTINF:-1,OSN_Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1733.ts
-#EXTINF:-1,OSN_CINEMA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1726.ts
-#EXTINF:-1,OSN-YAHALA-SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1737.ts
-#EXTINF:-1,OSN-Premier2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1738.ts
-#EXTINF:-1,OSN-NATIONAL-GEO-PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1739.ts
-#EXTINF:-1,OSN-Movieskids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1740.ts
-#EXTINF:-1,OSN-Movies-Action-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1741.ts
-#EXTINF:-1,=====  BEINSPORT =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/254.ts
-#EXTINF:-1,beINSPORT01_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/701.ts
-#EXTINF:-1,beINSPORT02_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/702.ts
-#EXTINF:-1,beINSPORT03_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/703.ts
-#EXTINF:-1,beINSPORT04_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/704.ts
-#EXTINF:-1,beINSPORT05_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/705.ts
-#EXTINF:-1,beINSPORT06_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/721.ts
-#EXTINF:-1,beINSPORT07_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/722.ts
-#EXTINF:-1,beINSPORT08_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/723.ts
-#EXTINF:-1,beINSPORT09_HD (restream)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/724.ts
-#EXTINF:-1,Bein.sport_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/242.ts
-#EXTINF:-1,Bein.sport_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/243.ts
-#EXTINF:-1,Bein.sport_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/244.ts
-#EXTINF:-1,Bein.sport_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/245.ts
-#EXTINF:-1,Bein.sport_5_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/246.ts
-#EXTINF:-1,Bein.sport_6_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/695.ts
-#EXTINF:-1,Bein.sport_7_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/248.ts
-#EXTINF:-1,Bein.sport_8_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/249.ts
-#EXTINF:-1,Bein Max1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1152.ts
-#EXTINF:-1,Bein Max2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1153.ts
-#EXTINF:-1,alfajre tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1811.ts
-#EXTINF:-1,beINSPORT01_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1360.ts
-#EXTINF:-1,beINSPORT02_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1361.ts
-#EXTINF:-1,beINSPORT03_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1362.ts
-#EXTINF:-1,beINSPORT04_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1363.ts
-#EXTINF:-1,beINSPORT05_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1364.ts
-#EXTINF:-1,beINSPORT06_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1365.ts
-#EXTINF:-1,beINSPORT07_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1366.ts
-#EXTINF:-1,beINSPORT08_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1367.ts
-#EXTINF:-1,beINSPORT09_HDCSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1511.ts
-#EXTINF:-1,beINSPORT10_HD CSPPRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1512.ts
-#EXTINF:-1,beINSPORT11_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1771.ts
-#EXTINF:-1,beINSPORT12 _HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1772.ts
-#EXTINF:-1,beINSport 1 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/540.ts
-#EXTINF:-1,beINSport 2 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/541.ts
-#EXTINF:-1,beINSport  3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/542.ts
-#EXTINF:-1,FR : beIN SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/596.ts
-#EXTINF:-1,FR : beIN SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/597.ts
-#EXTINF:-1,FR : beIN SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/598.ts
-#EXTINF:-1,=====  FRANCE EX  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1492.ts
-#EXTINF:-1,TCMCINEMAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1493.ts
-#EXTINF:-1,OCSMAXHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1494.ts
-#EXTINF:-1,OCSGEANTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1495.ts
-#EXTINF:-1,OCSCITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1496.ts
-#EXTINF:-1,OCSCHOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1497.ts
-#EXTINF:-1,CINEPREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1498.ts
-#EXTINF:-1,CINEPOLARHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1499.ts
-#EXTINF:-1,CINEFXHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1500.ts
-#EXTINF:-1,CINEFRISSONHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1501.ts
-#EXTINF:-1,CineFamizHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1502.ts
-#EXTINF:-1,CineEmotionHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1503.ts
-#EXTINF:-1,CineClassicHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1504.ts
-#EXTINF:-1,CANALSERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1505.ts
-#EXTINF:-1,CANALHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1506.ts
-#EXTINF:-1,CANALFAMILYHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1507.ts
-#EXTINF:-1,CANALDECALEHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1508.ts
-#EXTINF:-1,CANAL CINEMAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1509.ts
-#EXTINF:-1,ACTIONHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1510.ts
-#EXTINF:-1,=====  FRANCE  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/263.ts
-#EXTINF:-1,TF1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/256.ts
-#EXTINF:-1,FRANCE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/257.ts
-#EXTINF:-1,FRANCE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/258.ts
-#EXTINF:-1,FRANCE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/259.ts
-#EXTINF:-1,FRANCE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/260.ts
-#EXTINF:-1,FRANCE O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/261.ts
-#EXTINF:-1,M6 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/725.ts
-#EXTINF:-1,ARTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/532.ts
-#EXTINF:-1,M6 MUSIQUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/530.ts
-#EXTINF:-1,DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/539.ts
-#EXTINF:-1,NAT GEO WILD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/801.ts
-#EXTINF:-1,FR: PLANETE CI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1177.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/699.ts
-#EXTINF:-1,NatGeoWild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/896.ts
-#EXTINF:-1,INFO SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/698.ts
-#EXTINF:-1,FR:CineFX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/889.ts
-#EXTINF:-1,CinePremier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/890.ts
-#EXTINF:-1,CineEmotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/892.ts
-#EXTINF:-1,CineClassic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/893.ts
-#EXTINF:-1,SerieClub
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/900.ts
-#EXTINF:-1,SyfyHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1312.ts
-#EXTINF:-1,Mangas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1321.ts
-#EXTINF:-1,Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1311.ts
-#EXTINF:-1,DisneyCinemagic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1324.ts
-#EXTINF:-1,CartoonNetworkHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1320.ts
-#EXTINF:-1,Ushaia HD (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/686.ts
-#EXTINF:-1,Planete  AE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/687.ts
-#EXTINF:-1,CANAL+HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/712.ts
-#EXTINF:-1,FR:CanalCinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/760.ts
-#EXTINF:-1,FR: ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/765.ts
-#EXTINF:-1,Canal (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/689.ts
-#EXTINF:-1,Canal  Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/543.ts
-#EXTINF:-1,Canal  Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/544.ts
-#EXTINF:-1,13EME RUE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/538.ts
-#EXTINF:-1,Paris Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/727.ts
-#EXTINF:-1,CINE POLAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/729.ts
-#EXTINF:-1,CINE Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/728.ts
-#EXTINF:-1,Chasse Et  Pache HD (FR)1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/691.ts
-#EXTINF:-1,Animaux (FR)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/692.ts
-#EXTINF:-1,nrj 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/264.ts
-#EXTINF:-1,FR_HISTOIRE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1816.ts
-#EXTINF:-1,FR_FOOT+_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1814.ts
-#EXTINF:-1,FR_EQUIDIA_LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1815.ts
-#EXTINF:-1,VOYAGE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1812.ts
-#EXTINF:-1,FR: A LA CARTE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/730.ts
-#EXTINF:-1,FRLACARTE2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/731.ts
-#EXTINF:-1,FR:ALACARTE3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/732.ts
-#EXTINF:-1,FR:ALACARTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/733.ts
-#EXTINF:-1,=====  CANAL PLAY  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1638.ts
-#EXTINF:-1,CANALPLAY 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1639.ts
-#EXTINF:-1,CANALPLAY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1640.ts
-#EXTINF:-1,CANALPLAY 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1641.ts
-#EXTINF:-1,CANALPLAY 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1642.ts
-#EXTINF:-1,CANALPLAY 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1643.ts
-#EXTINF:-1,CANALPLAY 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1644.ts
-#EXTINF:-1,CANALPLAY 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1645.ts
-#EXTINF:-1,CANALPLAY 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1655.ts
-#EXTINF:-1,CANALPLAY 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1656.ts
-#EXTINF:-1,CANALPLAY 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1657.ts
-#EXTINF:-1,CANALPLAY 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1658.ts
-#EXTINF:-1,==== VEVO ====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1810.ts
-#EXTINF:-1,VEVO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1792.ts
-#EXTINF:-1,VEVO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1793.ts
-#EXTINF:-1,VEVO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1794.ts
-#EXTINF:-1,VEVO 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1795.ts
-#EXTINF:-1,VEVO 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1796.ts
-#EXTINF:-1,VEVO 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1797.ts
-#EXTINF:-1,VEVO 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1798.ts
-#EXTINF:-1,VEVO 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1799.ts
-#EXTINF:-1,VEVO 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1800.ts
-#EXTINF:-1,VEVO 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1801.ts
-#EXTINF:-1,VEVO11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1802.ts
-#EXTINF:-1,VEVO12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1803.ts
-#EXTINF:-1,VEVO13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1804.ts
-#EXTINF:-1,VEVO14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1805.ts
-#EXTINF:-1,VEVO15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1806.ts
-#EXTINF:-1,VEVO18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1809.ts
-#EXTINF:-1,VEVO16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1807.ts
-#EXTINF:-1,VEVO17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1808.ts
-#EXTINF:-1,#### ALMAGNE CHANELL ####
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1341.ts
-#EXTINF:-1,DE_SKY_MGM_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1755.ts
-#EXTINF:-1,DE_SKY_KRIMI_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1756.ts
-#EXTINF:-1,DE_SKY_EMOTION_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1757.ts
-#EXTINF:-1,DE_SKY_COMEDY_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1747.ts
-#EXTINF:-1,DE_SKY_CINEMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1748.ts
-#EXTINF:-1,DE_SKY_CINEMA_24_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1749.ts
-#EXTINF:-1,DE_SKY_CINEMA_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1750.ts
-#EXTINF:-1,DE_SKY_BUNDESLIGA_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1751.ts
-#EXTINF:-1,DE_SKY_AXN_ACTION_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1752.ts
-#EXTINF:-1,DE_SKY_ATLANTIC_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1753.ts
-#EXTINF:-1,DE_SKY_ACTION_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1754.ts
-#EXTINF:-1,=====  ESPANE  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/682.ts
-#EXTINF:-1,SP: TELECINCO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1513.ts
-#EXTINF:-1,SP: LA SEXTA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1514.ts
-#EXTINF:-1,SP: LA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1515.ts
-#EXTINF:-1,SP: FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1516.ts
-#EXTINF:-1,SP: FOX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1517.ts
-#EXTINF:-1,SP: CUATRO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1518.ts
-#EXTINF:-1,SP: CALLE 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1519.ts
-#EXTINF:-1,SP: C  XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1520.ts
-#EXTINF:-1,SP: C  TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1521.ts
-#EXTINF:-1,SP: C  SERIES XTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1522.ts
-#EXTINF:-1,SP: C  SERIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1523.ts
-#EXTINF:-1,SP: C  LIGA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1524.ts
-#EXTINF:-1,SP: C  LIGA 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1525.ts
-#EXTINF:-1,SP: C  GOLF HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1526.ts
-#EXTINF:-1,SP: C  FUTBOL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1527.ts
-#EXTINF:-1,SP: C  ESTRENOS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1528.ts
-#EXTINF:-1,SP: C  DEPORTES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1529.ts
-#EXTINF:-1,SP: C  DEPORTES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1530.ts
-#EXTINF:-1,SP: C  DCINE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1531.ts
-#EXTINF:-1,SP: C  COMEDIA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1532.ts
-#EXTINF:-1,SP: C  ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1533.ts
-#EXTINF:-1,SP: BEIN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1534.ts
-#EXTINF:-1,SP: AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1535.ts
-#EXTINF:-1,SP: AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1536.ts
-#EXTINF:-1,SP: ANTENA 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1537.ts
-#EXTINF:-1,SP: #0 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1538.ts
-#EXTINF:-1,ES: Taquilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1541.ts
-#EXTINF:-1,ES: Taquilla 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1542.ts
-#EXTINF:-1,ES: Taquilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1543.ts
-#EXTINF:-1,ES: Taquilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1544.ts
-#EXTINF:-1,ES: Taquilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1545.ts
-#EXTINF:-1,ES: Taquilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1546.ts
-#EXTINF:-1,ES: Taquilla 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1547.ts
-#EXTINF:-1,ES: Taquilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1548.ts
-#EXTINF:-1,=====  ITALI  =====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1357.ts
-#EXTINF:-1,IT: Primafilla 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1356.ts
-#EXTINF:-1,IT: Primafilla 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1354.ts
-#EXTINF:-1,IT: Primafilla 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1353.ts
-#EXTINF:-1,IT: Primafilla 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1352.ts
-#EXTINF:-1,IT: Primafilla 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1351.ts
-#EXTINF:-1,IT: Primafilla 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1350.ts
-#EXTINF:-1,IT: Primafilla 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1349.ts
-#EXTINF:-1,IT: Primafilla 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1348.ts
-#EXTINF:-1,Primafila 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1346.ts
-#EXTINF:-1,Primafila 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1345.ts
-#EXTINF:-1,Primafila 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1344.ts
-#EXTINF:-1,Primafila 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1343.ts
-#EXTINF:-1,Primafila 17 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1342.ts
-#EXTINF:-1,Primafila 18 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1347.ts
+#EXTINF:-1,***AR:BEIN_LOCAL***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/80.ts
+#EXTINF:-1,BeinSport_HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/50.ts
+#EXTINF:-1,BeinSport_HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/49.ts
+#EXTINF:-1,BeinSport_HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/48.ts
+#EXTINF:-1,BeinSport_HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/47.ts
+#EXTINF:-1,BeinSport_HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/46.ts
+#EXTINF:-1,BeinSport_HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/45.ts
+#EXTINF:-1,BeinSport_HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/44.ts
+#EXTINF:-1,BeinSport_HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/43.ts
+#EXTINF:-1,BeinSport_HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/42.ts
+#EXTINF:-1,BeinSport_HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/41.ts
+#EXTINF:-1,BeinSport_HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/40.ts
+#EXTINF:-1,BeinSport_HD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/39.ts
+#EXTINF:-1,BeinSport_HD17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/34.ts
+#EXTINF:-1,BeinSport_HD13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/38.ts
+#EXTINF:-1,BeinSport_HD14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/37.ts
+#EXTINF:-1,BeinSport_HD15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/36.ts
+#EXTINF:-1,BeinSport_HD16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/35.ts
+#EXTINF:-1,AR:BEIN_MOVIES_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/98.ts
+#EXTINF:-1,AR:BEIN_MOVIES_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/97.ts
+#EXTINF:-1,AR:BEIN_MOVIES_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/96.ts
+#EXTINF:-1,***AR:OSN_LOCAL***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/81.ts
+#EXTINF:-1,osn_yahla_drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/52.ts
+#EXTINF:-1,OSN_MOVIES_KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/57.ts
+#EXTINF:-1,OSN_MOVIES_FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/60.ts
+#EXTINF:-1,OSN_MOVIES_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/56.ts
+#EXTINF:-1,OSN_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/61.ts
+#EXTINF:-1,OSN_MOVIE_PREMIRE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/54.ts
+#EXTINF:-1,OSN_Mobies_action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/53.ts
+#EXTINF:-1,OSN_FIRST_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/59.ts
+#EXTINF:-1,OSN_FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/58.ts
+#EXTINF:-1,OSN_FEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/55.ts
+#EXTINF:-1,OSN_CINEMA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/63.ts
+#EXTINF:-1,OSN_CINEMA_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/62.ts
+#EXTINF:-1,OSN_AL_SAFWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/51.ts
+#EXTINF:-1,Local:OSN Star World HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/33.ts
+#EXTINF:-1,Local:OSN Al Yawm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/32.ts
+#EXTINF:-1,OSN:ART_AFLAM_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/65.ts
+#EXTINF:-1,OSN_Movies_Action_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/118.ts
+#EXTINF:-1,OSN_BOXOFFICE_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/105.ts
+#EXTINF:-1,OSN_BOXOFFICE_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/104.ts
+#EXTINF:-1,OSN_BOXOFFICE_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/103.ts
+#EXTINF:-1,OSN _ON _Demand
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/117.ts
+#EXTINF:-1,OSN _Movies _Festival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/116.ts
+#EXTINF:-1,***NILESAT***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/82.ts
+#EXTINF:-1,AR:ZEE_ALWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/70.ts
+#EXTINF:-1,AR:TIME_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/69.ts
+#EXTINF:-1,AR:TEYOUR_EL_GANAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/79.ts
+#EXTINF:-1,AR:SPACE_TOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/71.ts
+#EXTINF:-1,AR:SKY_NEWS_ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/85.ts
+#EXTINF:-1,AR:ROTANTA_MASRIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/66.ts
+#EXTINF:-1,AR:ROTANA_KHALIGIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/68.ts
+#EXTINF:-1,AR:ROTANA_CLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/95.ts
+#EXTINF:-1,AR:ROTANA_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/67.ts
+#EXTINF:-1,AR:PANORAMA_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/88.ts
+#EXTINF:-1,AR:ON_TV_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/83.ts
+#EXTINF:-1,AR:ON_TV_LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/100.ts
+#EXTINF:-1,AR:ON_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/94.ts
+#EXTINF:-1,AR:NILE_SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/92.ts
+#EXTINF:-1,AR:NILE_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/91.ts
+#EXTINF:-1,AR:NILE_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/102.ts
+#EXTINF:-1,AR:NILE_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/78.ts
+#EXTINF:-1,AR:NILE_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/77.ts
+#EXTINF:-1,AR:NILE_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/90.ts
+#EXTINF:-1,AR:NILE_AL_THAKAFIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/93.ts
+#EXTINF:-1,AR:MOGA_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/99.ts
+#EXTINF:-1,AR:CNBC:ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/86.ts
+#EXTINF:-1,AR:CAIRO_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/76.ts
+#EXTINF:-1,AR:CAIRO_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/75.ts
+#EXTINF:-1,AR:BUBAI_REYDEYAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/87.ts
+#EXTINF:-1,AR:AL_QAHERA_WALNAS_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/89.ts
+#EXTINF:-1,AR:AL_NAHAR_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/74.ts
+#EXTINF:-1,AR:AL_HAYAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/84.ts
+#EXTINF:-1,AR:AL_ARABIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/72.ts
+#EXTINF:-1,AR:AD_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/73.ts
