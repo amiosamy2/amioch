@@ -1,151 +1,464 @@
-#EXTM3U
 #EXTINF:-1,***AR:BEIN_LOCAL***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/80.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/80.ts
 #EXTINF:-1,BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/50.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/50.ts
 #EXTINF:-1,BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/49.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/49.ts
 #EXTINF:-1,BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/48.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/48.ts
 #EXTINF:-1,BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/47.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/47.ts
 #EXTINF:-1,BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/46.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/46.ts
 #EXTINF:-1,BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/45.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/45.ts
 #EXTINF:-1,BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/44.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/44.ts
 #EXTINF:-1,BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/43.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/43.ts
 #EXTINF:-1,BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/42.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/42.ts
 #EXTINF:-1,BeinSport_HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/41.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/41.ts
 #EXTINF:-1,BeinSport_HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/40.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/40.ts
 #EXTINF:-1,BeinSport_HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/39.ts
-#EXTINF:-1,BeinSport_HD17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/34.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/39.ts
 #EXTINF:-1,BeinSport_HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/38.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/38.ts
 #EXTINF:-1,BeinSport_HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/37.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/37.ts
 #EXTINF:-1,BeinSport_HD15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/36.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/36.ts
 #EXTINF:-1,BeinSport_HD16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/35.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/35.ts
+#EXTINF:-1,BeinSport_HD17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/34.ts
 #EXTINF:-1,AR:BEIN_MOVIES_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/98.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/98.ts
 #EXTINF:-1,AR:BEIN_MOVIES_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/97.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/97.ts
 #EXTINF:-1,AR:BEIN_MOVIES_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/96.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/96.ts
+#EXTINF:-1,***BEIN_LOCAL_PRIVATE***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/317.ts
+#EXTINF:-1,AR:BEIN_1_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/306.ts
+#EXTINF:-1,AR:BEIN_2HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/307.ts
+#EXTINF:-1,AR:BEIN_3_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/308.ts
+#EXTINF:-1,AR:BEIN_4_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/309.ts
+#EXTINF:-1,AR:BEIN_5_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/310.ts
+#EXTINF:-1,AR:BEIN_6_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/311.ts
+#EXTINF:-1,AR:BEIN_7_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/312.ts
+#EXTINF:-1,AR:BEIN_8_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/313.ts
+#EXTINF:-1,AR:BEIN_10_HD_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/314.ts
+#EXTINF:-1,AR:BEIN_12_PRIV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/316.ts
+#EXTINF:-1,***BEIN_SD***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/226.ts
+#EXTINF:-1,BEIN_SPORTS_1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/208.ts
+#EXTINF:-1,BEIN_SPORTS_2_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/207.ts
+#EXTINF:-1,BEIN_SPORT_3_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/219.ts
+#EXTINF:-1,BEIN_SPORT_4_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/220.ts
+#EXTINF:-1,BEIN_SPORTS_5_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/204.ts
+#EXTINF:-1,BEIN_SPORT_6_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/221.ts
+#EXTINF:-1,BEIN_SPORT_7_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/222.ts
+#EXTINF:-1,BEIN_SPORT_8_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/223.ts
+#EXTINF:-1,BEIN_SPORT_9_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/224.ts
+#EXTINF:-1,BEIN_SPORT_10_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/225.ts
+#EXTINF:-1,***BEIN LOW ***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/227.ts
+#EXTINF:-1,BeINsport_SD1_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/218.ts
+#EXTINF:-1,BeINsport_SD2_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/217.ts
+#EXTINF:-1,BeINsport_SD3_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/216.ts
+#EXTINF:-1,BeINsport_SD4_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/215.ts
+#EXTINF:-1,BeINsport_SD5_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/214.ts
+#EXTINF:-1,BeINsport_SD6_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/213.ts
+#EXTINF:-1,BeINsport_SD7_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/212.ts
+#EXTINF:-1,BeINsport_SD8_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/211.ts
+#EXTINF:-1,BeINsport_SD9_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/210.ts
+#EXTINF:-1,BeINsport_SD10_Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/209.ts
 #EXTINF:-1,***AR:OSN_LOCAL***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/81.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/81.ts
 #EXTINF:-1,osn_yahla_drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/52.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/52.ts
 #EXTINF:-1,OSN_MOVIES_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/57.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/57.ts
 #EXTINF:-1,OSN_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/60.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/60.ts
 #EXTINF:-1,OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/56.ts
-#EXTINF:-1,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/61.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/56.ts
+#EXTINF:-1,OSN_YA_HALA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/142.ts
+#EXTINF:-1,OSN On Demand
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/264.ts
+#EXTINF:-1,OSN Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/262.ts
+#EXTINF:-1,OSN Yahala Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/425.ts
+#EXTINF:-1,OSN Box store 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/422.ts
+#EXTINF:-1,AR:OSN Box store 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/421.ts
+#EXTINF:-1,AR:OSN Box store 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/420.ts
+#EXTINF:-1,OSN Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/263.ts
+#EXTINF:-1,OSN_FANN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/141.ts
 #EXTINF:-1,OSN_MOVIE_PREMIRE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/54.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/54.ts
 #EXTINF:-1,OSN_Mobies_action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/53.ts
-#EXTINF:-1,OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/59.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/53.ts
 #EXTINF:-1,OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/58.ts
-#EXTINF:-1,OSN_FEST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/55.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/58.ts
 #EXTINF:-1,OSN_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/63.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/63.ts
 #EXTINF:-1,OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/62.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/62.ts
 #EXTINF:-1,OSN_AL_SAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/51.ts
-#EXTINF:-1,Local:OSN Star World HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/33.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/51.ts
 #EXTINF:-1,Local:OSN Al Yawm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/32.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/32.ts
 #EXTINF:-1,OSN:ART_AFLAM_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/65.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/65.ts
 #EXTINF:-1,OSN_Movies_Action_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/118.ts
 #EXTINF:-1,OSN_BOXOFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/105.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/105.ts
 #EXTINF:-1,OSN_BOXOFFICE_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/104.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/104.ts
 #EXTINF:-1,OSN_BOXOFFICE_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/103.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/103.ts
 #EXTINF:-1,OSN _ON _Demand
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/117.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/117.ts
 #EXTINF:-1,OSN _Movies _Festival
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/116.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/116.ts
+#EXTINF:-1,OSN-Primafilla_WWE_10-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/270.ts
+#EXTINF:-1,OSN-Movies-Premiere_2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/274.ts
+#EXTINF:-1,OSN-MBC Drama-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/277.ts
+#EXTINF:-1,OSN-First-HBO-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/273.ts
+#EXTINF:-1,OSN-Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/271.ts
+#EXTINF:-1,AR:OSN_WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/304.ts
+#EXTINF:-1,OSN:AD_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/393.ts
+#EXTINF:-1,OSN:AD_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/394.ts
+#EXTINF:-1,OSN:AD_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/395.ts
+#EXTINF:-1,OSN:AD_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/396.ts
+#EXTINF:-1,OSN:AD_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/397.ts
+#EXTINF:-1,AR:OSN:AD_1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/388.ts
+#EXTINF:-1,OSN:AD_2_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/389.ts
+#EXTINF:-1,OSN:AD_3_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/390.ts
+#EXTINF:-1,OSN:AD_4_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/391.ts
+#EXTINF:-1,OSN:AD_5_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/392.ts
+#EXTINF:-1,OSN:AD_1_LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/383.ts
+#EXTINF:-1,OSN:AD_2_LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/384.ts
+#EXTINF:-1,OSN:AD_3_LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/385.ts
+#EXTINF:-1,OSN:AD_4_LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/386.ts
+#EXTINF:-1,OSN:AD_5_LOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/387.ts
+#EXTINF:-1,***Bein Backup***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/155.ts
+#EXTINF:-1,Backup:Bein_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/144.ts
+#EXTINF:-1,Backup:Bein_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/145.ts
+#EXTINF:-1,Backup:Bein_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/146.ts
+#EXTINF:-1,Backup:Bein_5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/147.ts
+#EXTINF:-1,Backup:Bein_6_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/148.ts
+#EXTINF:-1,Backup:Bein_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/149.ts
+#EXTINF:-1,Backup:Bein_8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/150.ts
+#EXTINF:-1,Backup:Bein_9_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/151.ts
+#EXTINF:-1,Backup:Bein_12_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/154.ts
+#EXTINF:-1,Backup:Bein_10_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/152.ts
+#EXTINF:-1,Backup:Bein_11_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/153.ts
 #EXTINF:-1,***NILESAT***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/82.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/82.ts
+#EXTINF:-1,AR:Wesal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/348.ts
+#EXTINF:-1,AR:Sunna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/347.ts
+#EXTINF:-1,AR:Quran TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/346.ts
+#EXTINF:-1,AR:Ajazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/345.ts
 #EXTINF:-1,AR:ZEE_ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/70.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/70.ts
 #EXTINF:-1,AR:TIME_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/69.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/69.ts
 #EXTINF:-1,AR:TEYOUR_EL_GANAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/79.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/79.ts
+#EXTINF:-1,AR:HOLLY_QURAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/101.ts
 #EXTINF:-1,AR:SPACE_TOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/71.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/71.ts
 #EXTINF:-1,AR:SKY_NEWS_ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/85.ts
-#EXTINF:-1,AR:ROTANTA_MASRIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/66.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/85.ts
 #EXTINF:-1,AR:ROTANA_KHALIGIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/68.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/68.ts
+#EXTINF:-1,AR:STAR_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/320.ts
+#EXTINF:-1,AR:STAR_CINEMA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/334.ts
+#EXTINF:-1,AR:SADA_AL_BALAD_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/335.ts
+#EXTINF:-1,AR:PANORAMA_DRAMA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/338.ts
+#EXTINF:-1,AR:PANORAMA_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/319.ts
+#EXTINF:-1,AR:NILE_FAMILAY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/318.ts
+#EXTINF:-1,AR:MBC_DRAMA_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/330.ts
+#EXTINF:-1,AR:MBC_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/339.ts
+#EXTINF:-1,AR:DREAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/332.ts
+#EXTINF:-1,AR:AL_QAHERA_WALNAS_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/337.ts
+#EXTINF:-1,AR:AL_MAGD_QURAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/331.ts
+#EXTINF:-1,AR:AL_AHLY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/336.ts
+#EXTINF:-1,AR:4_SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/329.ts
+#EXTINF:-1,AR:KOKT_KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/333.ts
 #EXTINF:-1,AR:ROTANA_CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/95.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/95.ts
 #EXTINF:-1,AR:ROTANA_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/67.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/67.ts
 #EXTINF:-1,AR:PANORAMA_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/88.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/88.ts
 #EXTINF:-1,AR:ON_TV_PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/83.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/83.ts
 #EXTINF:-1,AR:ON_TV_LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/100.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/100.ts
 #EXTINF:-1,AR:ON_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/94.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/94.ts
 #EXTINF:-1,AR:NILE_SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/92.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/92.ts
 #EXTINF:-1,AR:NILE_NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/91.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/91.ts
 #EXTINF:-1,AR:NILE_LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/102.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/102.ts
 #EXTINF:-1,AR:NILE_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/78.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/78.ts
 #EXTINF:-1,AR:NILE_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/77.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/77.ts
 #EXTINF:-1,AR:NILE_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/90.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/90.ts
 #EXTINF:-1,AR:NILE_AL_THAKAFIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/93.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/93.ts
 #EXTINF:-1,AR:MOGA_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/99.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/99.ts
 #EXTINF:-1,AR:CNBC:ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/86.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/86.ts
 #EXTINF:-1,AR:CAIRO_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/76.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/76.ts
 #EXTINF:-1,AR:CAIRO_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/75.ts
-#EXTINF:-1,AR:BUBAI_REYDEYAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/87.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/75.ts
+#EXTINF:-1,AR:DUBAI_REYDEYAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/87.ts
 #EXTINF:-1,AR:AL_QAHERA_WALNAS_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/89.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/89.ts
 #EXTINF:-1,AR:AL_NAHAR_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/74.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/74.ts
 #EXTINF:-1,AR:AL_HAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/84.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/84.ts
 #EXTINF:-1,AR:AL_ARABIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/72.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/72.ts
 #EXTINF:-1,AR:AD_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/09Ld96apXA/73.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/73.ts
+#EXTINF:-1,***Mix Channels***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/138.ts
+#EXTINF:-1,***Nile_Sat_Local***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/415.ts
+#EXTINF:-1,AR_LOCAL:ZEE ALWAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/401.ts
+#EXTINF:-1,AR_LOCAL:Toktok Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/408.ts
+#EXTINF:-1,AR_LOCAL:Sada AL Balad Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/412.ts
+#EXTINF:-1,AR_LOCAL:Rotana Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/403.ts
+#EXTINF:-1,AR_LOCAL:Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/404.ts
+#EXTINF:-1,AR_LOCAL:Musalsalat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/409.ts
+#EXTINF:-1,AR_LOCAL:MTV Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/414.ts
+#EXTINF:-1,AR_LOCAL:LDC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/413.ts
+#EXTINF:-1,AR_LOCAL:Imagine Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/402.ts
+#EXTINF:-1,AR_LOCAL:Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/405.ts
+#EXTINF:-1,AR_LOCAL:CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/410.ts
+#EXTINF:-1,AR_LOCAL:AlKahera Wal Nas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/411.ts
+#EXTINF:-1,AR_LOCAL:Abu Dhabi Emarat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/400.ts
+#EXTINF:-1,AR_LOCAL:Abu Dhabi Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/399.ts
+#EXTINF:-1,AR_LOCAL:Abu Dhabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/398.ts
+#EXTINF:-1,***UK_CHANNELS***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/260.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/237.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/238.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/239.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/240.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/241.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/236.ts
+#EXTINF:-1,UK: Sky News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/242.ts
+#EXTINF:-1,UK: Sky Movies Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/244.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/245.ts
+#EXTINF:-1,UK: Sky Movies Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/246.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/243.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/248.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/249.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/252.ts
+#EXTINF:-1,UK: Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/254.ts
+#EXTINF:-1,ZDF_GERMANY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/328.ts
+#EXTINF:-1,***France Channels***
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/198.ts
+#EXTINF:-1,FR:Eurosport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/275.ts
+#EXTINF:-1,FR:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/259.ts
+#EXTINF:-1,FR:BEIN_SPORT_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/257.ts
+#EXTINF:-1,Canal_Sport_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/258.ts
+#EXTINF:-1,Zouzou TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/192.ts
+#EXTINF:-1,Ushuaia TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/163.ts
+#EXTINF:-1,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/194.ts
+#EXTINF:-1,SRF 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/164.ts
+#EXTINF:-1,Serie Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/165.ts
+#EXTINF:-1,Planet  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/195.ts
+#EXTINF:-1,Nina Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/197.ts
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/169.ts
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/170.ts
+#EXTINF:-1,NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/171.ts
+#EXTINF:-1,LOCAL France 0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/158.ts
+#EXTINF:-1,GALICIA TV EUROPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/191.ts
+#EXTINF:-1,France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/161.ts
+#EXTINF:-1,D 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/184.ts
+#EXTINF:-1,Cine   Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/187.ts
+#EXTINF:-1,ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/190.ts
+#EXTINF:-1,ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/189.ts
+#EXTINF:-1,FR:TVC5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/289.ts
+#EXTINF:-1,FR:TVC4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/288.ts
+#EXTINF:-1,FR:TVC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/287.ts
+#EXTINF:-1,FR:TVC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/286.ts
+#EXTINF:-1,FR:TVC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/285.ts
+#EXTINF:-1,FR:SPORT_TV_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/293.ts
+#EXTINF:-1,FR:SPORT_TV_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/292.ts
+#EXTINF:-1,FR:SPORT_TV_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/291.ts
+#EXTINF:-1,FR:SPORT_TV_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/290.ts
+#EXTINF:-1,FR:RTP3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/283.ts
+#EXTINF:-1,FR:RTP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/282.ts
+#EXTINF:-1,FR:RTP1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/281.ts
