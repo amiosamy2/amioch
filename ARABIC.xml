@@ -1,464 +1,1407 @@
-#EXTINF:-1,***AR:BEIN_LOCAL***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/80.ts
-#EXTINF:-1,BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/50.ts
-#EXTINF:-1,BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/49.ts
-#EXTINF:-1,BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/48.ts
-#EXTINF:-1,BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/47.ts
-#EXTINF:-1,BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/46.ts
-#EXTINF:-1,BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/45.ts
-#EXTINF:-1,BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/44.ts
-#EXTINF:-1,BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/43.ts
-#EXTINF:-1,BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/42.ts
-#EXTINF:-1,BeinSport_HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/41.ts
-#EXTINF:-1,BeinSport_HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/40.ts
-#EXTINF:-1,BeinSport_HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/39.ts
-#EXTINF:-1,BeinSport_HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/38.ts
-#EXTINF:-1,BeinSport_HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/37.ts
-#EXTINF:-1,BeinSport_HD15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/36.ts
-#EXTINF:-1,BeinSport_HD16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/35.ts
-#EXTINF:-1,BeinSport_HD17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/34.ts
-#EXTINF:-1,AR:BEIN_MOVIES_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/98.ts
-#EXTINF:-1,AR:BEIN_MOVIES_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/97.ts
-#EXTINF:-1,AR:BEIN_MOVIES_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/96.ts
-#EXTINF:-1,***BEIN_LOCAL_PRIVATE***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/317.ts
-#EXTINF:-1,AR:BEIN_1_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/306.ts
-#EXTINF:-1,AR:BEIN_2HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/307.ts
-#EXTINF:-1,AR:BEIN_3_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/308.ts
-#EXTINF:-1,AR:BEIN_4_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/309.ts
-#EXTINF:-1,AR:BEIN_5_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/310.ts
-#EXTINF:-1,AR:BEIN_6_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/311.ts
-#EXTINF:-1,AR:BEIN_7_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/312.ts
-#EXTINF:-1,AR:BEIN_8_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/313.ts
-#EXTINF:-1,AR:BEIN_10_HD_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/314.ts
-#EXTINF:-1,AR:BEIN_12_PRIV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/316.ts
-#EXTINF:-1,***BEIN_SD***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/226.ts
-#EXTINF:-1,BEIN_SPORTS_1_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/208.ts
-#EXTINF:-1,BEIN_SPORTS_2_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/207.ts
-#EXTINF:-1,BEIN_SPORT_3_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/219.ts
-#EXTINF:-1,BEIN_SPORT_4_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/220.ts
-#EXTINF:-1,BEIN_SPORTS_5_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/204.ts
-#EXTINF:-1,BEIN_SPORT_6_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/221.ts
-#EXTINF:-1,BEIN_SPORT_7_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/222.ts
-#EXTINF:-1,BEIN_SPORT_8_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/223.ts
-#EXTINF:-1,BEIN_SPORT_9_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/224.ts
-#EXTINF:-1,BEIN_SPORT_10_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/225.ts
-#EXTINF:-1,***BEIN LOW ***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/227.ts
-#EXTINF:-1,BeINsport_SD1_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/218.ts
-#EXTINF:-1,BeINsport_SD2_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/217.ts
-#EXTINF:-1,BeINsport_SD3_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/216.ts
-#EXTINF:-1,BeINsport_SD4_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/215.ts
-#EXTINF:-1,BeINsport_SD5_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/214.ts
-#EXTINF:-1,BeINsport_SD6_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/213.ts
-#EXTINF:-1,BeINsport_SD7_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/212.ts
-#EXTINF:-1,BeINsport_SD8_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/211.ts
-#EXTINF:-1,BeINsport_SD9_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/210.ts
-#EXTINF:-1,BeINsport_SD10_Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/209.ts
-#EXTINF:-1,***AR:OSN_LOCAL***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/81.ts
-#EXTINF:-1,osn_yahla_drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/52.ts
-#EXTINF:-1,OSN_MOVIES_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/57.ts
-#EXTINF:-1,OSN_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/60.ts
-#EXTINF:-1,OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/56.ts
-#EXTINF:-1,OSN_YA_HALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/142.ts
-#EXTINF:-1,OSN On Demand
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/264.ts
-#EXTINF:-1,OSN Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/262.ts
-#EXTINF:-1,OSN Yahala Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/425.ts
-#EXTINF:-1,OSN Box store 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/422.ts
-#EXTINF:-1,AR:OSN Box store 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/421.ts
-#EXTINF:-1,AR:OSN Box store 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/420.ts
-#EXTINF:-1,OSN Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/263.ts
-#EXTINF:-1,OSN_FANN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/141.ts
-#EXTINF:-1,OSN_MOVIE_PREMIRE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/54.ts
-#EXTINF:-1,OSN_Mobies_action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/53.ts
+#EXTM3U
+#EXTINF:-1,SP:BEINSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1118.ts
+#EXTINF:-1,SP:BEINSPORT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1119.ts
+#EXTINF:-1,SP:BEINSPORT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1120.ts
+#EXTINF:-1,SP:BEINSPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1121.ts
+#EXTINF:-1,SP:BEINSPORT 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1122.ts
+#EXTINF:-1,SP:BEINSPORT 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1123.ts
+#EXTINF:-1,SP:BEINSPORT 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1124.ts
+#EXTINF:-1,SP:BEINSPORT 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1125.ts
+#EXTINF:-1,SP:BEINSPORT 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1126.ts
+#EXTINF:-1,BeinSD 512K:Bein(01)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2703.ts
+#EXTINF:-1,BeinSD 512K:Bein(02)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2704.ts
+#EXTINF:-1,BeinSD 512K:Bein(03)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2705.ts
+#EXTINF:-1,BeinSD 512K:Bein(04)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2706.ts
+#EXTINF:-1,BeinSD 512K:Bein(05)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2707.ts
+#EXTINF:-1,BeinSD 512K:Bein(06)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2708.ts
+#EXTINF:-1,BeinSD 512K:Bein(07)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2709.ts
+#EXTINF:-1,BeinSD 512K:Bein(08)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2710.ts
+#EXTINF:-1,BeinSD 512K:Bein(09)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2711.ts
+#EXTINF:-1,BeinSD 512K:Bein(10)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2712.ts
+#EXTINF:-1,AR: BEIN SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1450.ts
+#EXTINF:-1,AR: BEIN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1471.ts
+#EXTINF:-1,FR: BEINSPOR1FRHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/928.ts
+#EXTINF:-1,FR: BEINSPOR2FRHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/929.ts
+#EXTINF:-1,FR: BEINSPOR3FRHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/930.ts
+#EXTINF:-1,VIP OSN: MBC Pro Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2995.ts
+#EXTINF:-1,VIP OSN: MBC Pro Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2996.ts
+#EXTINF:-1,Bein-Jeem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2877.ts
+#EXTINF:-1,Bein-Baraem-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2876.ts
+#EXTINF:-1,OSN-fatafeat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2339.ts
+#EXTINF:-1,Osn:Muslslat(alfa)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2713.ts
+#EXTINF:-1,OSN: DocuBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2631.ts
+#EXTINF:-1,OSN-Abu-Dhabi-Sports3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1660.ts
+#EXTINF:-1,MYHD_MBC_VARIETY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2692.ts
+#EXTINF:-1,MYHD_MBC_USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2693.ts
+#EXTINF:-1,MYHD_MBC_MAX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2694.ts
+#EXTINF:-1,MYHD_MBC_DRAMA_USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2695.ts
+#EXTINF:-1,MYHD_MBC_DRAMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2696.ts
+#EXTINF:-1,MYHD_MBC_ACTION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2697.ts
+#EXTINF:-1,MYHD_MBC_4_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2698.ts
+#EXTINF:-1,MYHD_MBC_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2699.ts
+#EXTINF:-1,MYHD_MBC_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2700.ts
+#EXTINF:-1,OSN_Rotana_Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2971.ts
+#EXTINF:-1,OSN_Rotana_Masriya HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2968.ts
+#EXTINF:-1,OSN_Rotana_Khalijiah HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2972.ts
+#EXTINF:-1,OSN_Rotana_Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2970.ts
+#EXTINF:-1,OSN_Rotana_Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2969.ts
+#EXTINF:-1,OSN_MOVIE DRAMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2221.ts
+#EXTINF:-1,OSN_MBC_Variety_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2967.ts
+#EXTINF:-1,OSN_LBC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2966.ts
+#EXTINF:-1,MYHD_MBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2701.ts
+#EXTINF:-1,MYHD_AL_ARABIYA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2702.ts
+#EXTINF:-1,MY-HD-NewsAsia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2875.ts
+#EXTINF:-1,MY-HD-GMA-Life-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2874.ts
+#EXTINF:-1,MY-HD-Fox-Family-Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2878.ts
+#EXTINF:-1,MY-HD-Fox-Action-Movies-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2879.ts
+#EXTINF:-1,MY-HD-Cinmea-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2872.ts
+#EXTINF:-1,GMA-Pinoy-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2873.ts
+#EXTINF:-1,OSN_MOVIES_KIDS_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2215.ts
+#EXTINF:-1,OSN_sport1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2229.ts
+#EXTINF:-1,OSN: adsports4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2337.ts
+#EXTINF:-1,OSN: adsports5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2340.ts
+#EXTINF:-1,OSN: adsports6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2338.ts
+#EXTINF:-1,OSN_sport3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2231.ts
+#EXTINF:-1,OSN_sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1661.ts
+#EXTINF:-1,OSN-Extreme-Sports-Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1657.ts
+#EXTINF:-1,OSN: starzedge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2336.ts
+#EXTINF:-1,OSN-starz family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2334.ts
+#EXTINF:-1,OSN-starz comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2333.ts
+#EXTINF:-1,OSN: OSN Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2633.ts
+#EXTINF:-1,OSN: OSN Fix & Foxi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2632.ts
+#EXTINF:-1,OSN: OSN Fight Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2635.ts
+#EXTINF:-1,OSn: fann-leb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2343.ts
+#EXTINF:-1,OSN: Cinema2-leb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2342.ts
+#EXTINF:-1,OSN: Cinema1-leb
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2341.ts
+#EXTINF:-1,OSN: BeIN Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2634.ts
+#EXTINF:-1,OSN-Nat-Geo-Wild-HD-Asia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1651.ts
+#EXTINF:-1,OSN-starz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2335.ts
+#EXTINF:-1,OSN-sport2 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1654.ts
+#EXTINF:-1,OSN-MOVIES-PREMIER+2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2365.ts
+#EXTINF:-1,OSN-Discovery-Sc-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1650.ts
+#EXTINF:-1,OSN-Animal-Planet-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1649.ts
+#EXTINF:-1,OSN_YAHALA_SHABAB_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2201.ts
+#EXTINF:-1,OSN_YAHALA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2202.ts
+#EXTINF:-1,OSN_YAHALA_DRAMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2203.ts
+#EXTINF:-1,OSN_YAHALA_CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2204.ts
+#EXTINF:-1,OSN_STAR_WORLD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2363.ts
+#EXTINF:-1,OSN_SYFY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2364.ts
+#EXTINF:-1,OSN_ON_DEMAND_EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2349.ts
+#EXTINF:-1,OSN_NaT_Geo_Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2353.ts
+#EXTINF:-1,OSN_NaT_Geo_Peopel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2354.ts
+#EXTINF:-1,OSN_MOVIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2216.ts
+#EXTINF:-1,OSN_MOVIES_FESTIVAL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2217.ts
+#EXTINF:-1,OSN_MOVIES_ACTION_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2219.ts
+#EXTINF:-1,OSN_MOVIES PREMIERE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2220.ts
+#EXTINF:-1,OSN_MOVIE COMDEY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2222.ts
+#EXTINF:-1,OSN_MOVIES_FAMILY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2223.ts
+#EXTINF:-1,OSN_HISTORY_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2355.ts
+#EXTINF:-1,OSN_FIRST_HBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2356.ts
+#EXTINF:-1,OSN_FIRST_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2357.ts
 #EXTINF:-1,OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/58.ts
-#EXTINF:-1,OSN_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/63.ts
-#EXTINF:-1,OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/62.ts
-#EXTINF:-1,OSN_AL_SAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/51.ts
-#EXTINF:-1,Local:OSN Al Yawm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/32.ts
-#EXTINF:-1,OSN:ART_AFLAM_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/65.ts
-#EXTINF:-1,OSN_Movies_Action_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/118.ts
-#EXTINF:-1,OSN_BOXOFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/105.ts
-#EXTINF:-1,OSN_BOXOFFICE_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/104.ts
-#EXTINF:-1,OSN_BOXOFFICE_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/103.ts
-#EXTINF:-1,OSN _ON _Demand
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/117.ts
-#EXTINF:-1,OSN _Movies _Festival
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/116.ts
-#EXTINF:-1,OSN-Primafilla_WWE_10-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/270.ts
-#EXTINF:-1,OSN-Movies-Premiere_2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/274.ts
-#EXTINF:-1,OSN-MBC Drama-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/277.ts
-#EXTINF:-1,OSN-First-HBO-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/273.ts
-#EXTINF:-1,OSN-Discovery-Science-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/271.ts
-#EXTINF:-1,AR:OSN_WWE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/304.ts
-#EXTINF:-1,OSN:AD_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/393.ts
-#EXTINF:-1,OSN:AD_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/394.ts
-#EXTINF:-1,OSN:AD_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/395.ts
-#EXTINF:-1,OSN:AD_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/396.ts
-#EXTINF:-1,OSN:AD_5_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/397.ts
-#EXTINF:-1,AR:OSN:AD_1_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/388.ts
-#EXTINF:-1,OSN:AD_2_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/389.ts
-#EXTINF:-1,OSN:AD_3_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/390.ts
-#EXTINF:-1,OSN:AD_4_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/391.ts
-#EXTINF:-1,OSN:AD_5_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/392.ts
-#EXTINF:-1,OSN:AD_1_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/383.ts
-#EXTINF:-1,OSN:AD_2_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/384.ts
-#EXTINF:-1,OSN:AD_3_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/385.ts
-#EXTINF:-1,OSN:AD_4_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/386.ts
-#EXTINF:-1,OSN:AD_5_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/387.ts
-#EXTINF:-1,***Bein Backup***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/155.ts
-#EXTINF:-1,Backup:Bein_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/144.ts
-#EXTINF:-1,Backup:Bein_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/145.ts
-#EXTINF:-1,Backup:Bein_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/146.ts
-#EXTINF:-1,Backup:Bein_5_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/147.ts
-#EXTINF:-1,Backup:Bein_6_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/148.ts
-#EXTINF:-1,Backup:Bein_7_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/149.ts
-#EXTINF:-1,Backup:Bein_8_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/150.ts
-#EXTINF:-1,Backup:Bein_9_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/151.ts
-#EXTINF:-1,Backup:Bein_12_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/154.ts
-#EXTINF:-1,Backup:Bein_10_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/152.ts
-#EXTINF:-1,Backup:Bein_11_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/153.ts
-#EXTINF:-1,***NILESAT***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/82.ts
-#EXTINF:-1,AR:Wesal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/348.ts
-#EXTINF:-1,AR:Sunna TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/347.ts
-#EXTINF:-1,AR:Quran TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/346.ts
-#EXTINF:-1,AR:Ajazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/345.ts
-#EXTINF:-1,AR:ZEE_ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/70.ts
-#EXTINF:-1,AR:TIME_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/69.ts
-#EXTINF:-1,AR:TEYOUR_EL_GANAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/79.ts
-#EXTINF:-1,AR:HOLLY_QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/101.ts
-#EXTINF:-1,AR:SPACE_TOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/71.ts
-#EXTINF:-1,AR:SKY_NEWS_ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/85.ts
-#EXTINF:-1,AR:ROTANA_KHALIGIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/68.ts
-#EXTINF:-1,AR:STAR_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/320.ts
-#EXTINF:-1,AR:STAR_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/334.ts
-#EXTINF:-1,AR:SADA_AL_BALAD_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/335.ts
-#EXTINF:-1,AR:PANORAMA_DRAMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/338.ts
-#EXTINF:-1,AR:PANORAMA_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/319.ts
-#EXTINF:-1,AR:NILE_FAMILAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/318.ts
-#EXTINF:-1,AR:MBC_DRAMA_PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/330.ts
-#EXTINF:-1,AR:MBC_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/339.ts
-#EXTINF:-1,AR:DREAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/332.ts
-#EXTINF:-1,AR:AL_QAHERA_WALNAS_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/337.ts
-#EXTINF:-1,AR:AL_MAGD_QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/331.ts
-#EXTINF:-1,AR:AL_AHLY_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/336.ts
-#EXTINF:-1,AR:4_SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/329.ts
-#EXTINF:-1,AR:KOKT_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/333.ts
-#EXTINF:-1,AR:ROTANA_CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/95.ts
-#EXTINF:-1,AR:ROTANA_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/67.ts
-#EXTINF:-1,AR:PANORAMA_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/88.ts
-#EXTINF:-1,AR:ON_TV_PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/83.ts
-#EXTINF:-1,AR:ON_TV_LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/100.ts
-#EXTINF:-1,AR:ON_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/94.ts
-#EXTINF:-1,AR:NILE_SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/92.ts
-#EXTINF:-1,AR:NILE_NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/91.ts
-#EXTINF:-1,AR:NILE_LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/102.ts
-#EXTINF:-1,AR:NILE_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/78.ts
-#EXTINF:-1,AR:NILE_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/77.ts
-#EXTINF:-1,AR:NILE_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/90.ts
-#EXTINF:-1,AR:NILE_AL_THAKAFIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/93.ts
-#EXTINF:-1,AR:MOGA_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/99.ts
-#EXTINF:-1,AR:CNBC:ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/86.ts
-#EXTINF:-1,AR:CAIRO_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/76.ts
-#EXTINF:-1,AR:CAIRO_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/75.ts
-#EXTINF:-1,AR:DUBAI_REYDEYAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/87.ts
-#EXTINF:-1,AR:AL_QAHERA_WALNAS_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/89.ts
-#EXTINF:-1,AR:AL_NAHAR_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/74.ts
-#EXTINF:-1,AR:AL_HAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/84.ts
-#EXTINF:-1,AR:AL_ARABIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/72.ts
-#EXTINF:-1,AR:AD_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/73.ts
-#EXTINF:-1,***Mix Channels***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/138.ts
-#EXTINF:-1,***Nile_Sat_Local***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/415.ts
-#EXTINF:-1,AR_LOCAL:ZEE ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/401.ts
-#EXTINF:-1,AR_LOCAL:Toktok Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/408.ts
-#EXTINF:-1,AR_LOCAL:Sada AL Balad Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/412.ts
-#EXTINF:-1,AR_LOCAL:Rotana Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/403.ts
-#EXTINF:-1,AR_LOCAL:Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/404.ts
-#EXTINF:-1,AR_LOCAL:Musalsalat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/409.ts
-#EXTINF:-1,AR_LOCAL:MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/414.ts
-#EXTINF:-1,AR_LOCAL:LDC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/413.ts
-#EXTINF:-1,AR_LOCAL:Imagine Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/402.ts
-#EXTINF:-1,AR_LOCAL:Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/405.ts
-#EXTINF:-1,AR_LOCAL:CBC Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/410.ts
-#EXTINF:-1,AR_LOCAL:AlKahera Wal Nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/411.ts
-#EXTINF:-1,AR_LOCAL:Abu Dhabi Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/400.ts
-#EXTINF:-1,AR_LOCAL:Abu Dhabi Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/399.ts
-#EXTINF:-1,AR_LOCAL:Abu Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/398.ts
-#EXTINF:-1,***UK_CHANNELS***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/260.ts
-#EXTINF:-1,UK: Sky Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/237.ts
-#EXTINF:-1,UK: Sky Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/238.ts
-#EXTINF:-1,UK: Sky Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/239.ts
-#EXTINF:-1,UK: Sky Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/240.ts
-#EXTINF:-1,UK: Sky Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/241.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/236.ts
-#EXTINF:-1,UK: Sky News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/242.ts
-#EXTINF:-1,UK: Sky Movies Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/244.ts
-#EXTINF:-1,UK: Sky Movies Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/245.ts
-#EXTINF:-1,UK: Sky Movies Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/246.ts
-#EXTINF:-1,UK: Sky Movies Crime & Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/243.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/248.ts
-#EXTINF:-1,UK: Sky Movies Action & Adventure
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/249.ts
-#EXTINF:-1,UK: Sky Discovery Turbo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/252.ts
-#EXTINF:-1,UK: Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/254.ts
-#EXTINF:-1,ZDF_GERMANY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/328.ts
-#EXTINF:-1,***France Channels***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/198.ts
-#EXTINF:-1,FR:Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/275.ts
-#EXTINF:-1,FR:Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/259.ts
-#EXTINF:-1,FR:BEIN_SPORT_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/257.ts
-#EXTINF:-1,Canal_Sport_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/258.ts
-#EXTINF:-1,Zouzou TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/192.ts
-#EXTINF:-1,Ushuaia TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/163.ts
-#EXTINF:-1,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/194.ts
-#EXTINF:-1,SRF 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/164.ts
-#EXTINF:-1,Serie Club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/165.ts
-#EXTINF:-1,Planet  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/195.ts
-#EXTINF:-1,Nina Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/197.ts
-#EXTINF:-1,Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/169.ts
-#EXTINF:-1,NATGEO WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/170.ts
-#EXTINF:-1,NAT GEO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/171.ts
-#EXTINF:-1,LOCAL France 0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/158.ts
-#EXTINF:-1,GALICIA TV EUROPA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/191.ts
-#EXTINF:-1,France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/161.ts
-#EXTINF:-1,D 17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/184.ts
-#EXTINF:-1,Cine   Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/187.ts
-#EXTINF:-1,ARTE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/190.ts
-#EXTINF:-1,ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/189.ts
-#EXTINF:-1,FR:TVC5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/289.ts
-#EXTINF:-1,FR:TVC4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/288.ts
-#EXTINF:-1,FR:TVC3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/287.ts
-#EXTINF:-1,FR:TVC2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/286.ts
-#EXTINF:-1,FR:TVC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/285.ts
-#EXTINF:-1,FR:SPORT_TV_5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/293.ts
-#EXTINF:-1,FR:SPORT_TV_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/292.ts
-#EXTINF:-1,FR:SPORT_TV_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/291.ts
-#EXTINF:-1,FR:SPORT_TV_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/290.ts
-#EXTINF:-1,FR:RTP3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/283.ts
-#EXTINF:-1,FR:RTP2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/282.ts
-#EXTINF:-1,FR:RTP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/apmqDhqcYe/281.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2358.ts
+#EXTINF:-1,OSN_FAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2230.ts
+#EXTINF:-1,OSN_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2359.ts
+#EXTINF:-1,OSN_DISCOVERY_SCIENCE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2232.ts
+#EXTINF:-1,OSN_DISCOVERY_SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2360.ts
+#EXTINF:-1,OSN_DISCOVERY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2233.ts
+#EXTINF:-1,OSN_DISCOVERY_FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2361.ts
+#EXTINF:-1,OSN: History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2940.ts
+#EXTINF:-1,OSN_DISCOVERY_CHANNEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2234.ts
+#EXTINF:-1,OSN_CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2235.ts
+#EXTINF:-1,OSN_CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2236.ts
+#EXTINF:-1,OSN_BoxOffice_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2350.ts
+#EXTINF:-1,OSN_BoxOffice_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2351.ts
+#EXTINF:-1,OSN_BoxOffice_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2352.ts
+#EXTINF:-1,OSN_ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2362.ts
+#EXTINF:-1,OSN_AL YAWM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2237.ts
+#EXTINF:-1,OSN_AL SAFWA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2238.ts
+#EXTINF:-1,OSN: OSN Movies +2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2939.ts
+#EXTINF:-1,BEIN MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2239.ts
+#EXTINF:-1,BEIN MOVIES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2240.ts
+#EXTINF:-1,BEIN MOVIES 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2241.ts
+#EXTINF:-1,BEIN MOVIES 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2242.ts
+#EXTINF:-1,AR: ART AFLAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1152.ts
+#EXTINF:-1,AR: ART AFLAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1153.ts
+#EXTINF:-1,AR: ART HIKAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1150.ts
+#EXTINF:-1,AR: ART HIKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1151.ts
+#EXTINF:-1,AR: ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1154.ts
+#EXTINF:-1,VIP IL: IBA Channel 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2973.ts
+#EXTINF:-1,VIP IL: Channel 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2974.ts
+#EXTINF:-1,VIP IL: Channel 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2976.ts
+#EXTINF:-1,VIP IL: YES 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2610.ts
+#EXTINF:-1,VIP IL: YES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2611.ts
+#EXTINF:-1,VIP IL: YES 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2612.ts
+#EXTINF:-1,VIP IL: YES 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2613.ts
+#EXTINF:-1,VIP IL: YES 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2614.ts
+#EXTINF:-1,VIP IL: YES ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2616.ts
+#EXTINF:-1,VIP IL: YES CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2617.ts
+#EXTINF:-1,VIP IL: YES DRAMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2618.ts
+#EXTINF:-1,VIP IL: YES COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2619.ts
+#EXTINF:-1,VIP IL: YES OH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2615.ts
+#EXTINF:-1,VIP IL: YES DOCU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2620.ts
+#EXTINF:-1,VIP IL: YES SPORT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2606.ts
+#EXTINF:-1,VIP IL: YES SPORT2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2607.ts
+#EXTINF:-1,VIP IL: Sport 5 Live HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2609.ts
+#EXTINF:-1,VIP IL: Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2608.ts
+#EXTINF:-1,VIP IL: ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2978.ts
+#EXTINF:-1,VIP IL: VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2990.ts
+#EXTINF:-1,VIP IL: Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2991.ts
+#EXTINF:-1,VIP IL: Nick Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2993.ts
+#EXTINF:-1,VIP IL: Home Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2988.ts
+#EXTINF:-1,VIP IL: Channel 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2975.ts
+#EXTINF:-1,VIP IL: Channel 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2977.ts
+#EXTINF:-1,VIP IL: Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2992.ts
+#EXTINF:-1,VIP IL: Arutz HaYeladim Israel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2994.ts
+#EXTINF:-1,Yes:yes_Oh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2943.ts
+#EXTINF:-1,Yes:yes_Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2944.ts
+#EXTINF:-1,Yes:yes_docu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2945.ts
+#EXTINF:-1,Yes:yes_Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2946.ts
+#EXTINF:-1,Yes:yes_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2947.ts
+#EXTINF:-1,Yes:yes_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2948.ts
+#EXTINF:-1,Yes:yes_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2949.ts
+#EXTINF:-1,Yes:yes_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2950.ts
+#EXTINF:-1,Yes:yes_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2951.ts
+#EXTINF:-1,yes:VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2952.ts
+#EXTINF:-1,yes:TRACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2953.ts
+#EXTINF:-1,Yes:Sport_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2954.ts
+#EXTINF:-1,Yes:Sport_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2955.ts
+#EXTINF:-1,Yes:Sport_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2956.ts
+#EXTINF:-1,yes:N_Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2957.ts
+#EXTINF:-1,Yes:KIDS_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2958.ts
+#EXTINF:-1,yes:FOX_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2959.ts
+#EXTINF:-1,yes:Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2960.ts
+#EXTINF:-1,yes:Disney_Jr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2961.ts
+#EXTINF:-1,Yes:Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2962.ts
+#EXTINF:-1,yes:Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2963.ts
+#EXTINF:-1,Yes:Channel_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2964.ts
+#EXTINF:-1,Yes:5_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2965.ts
+#EXTINF:-1,yes_Music_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2942.ts
+#EXTINF:-1,USA: CBCEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2647.ts
+#EXTINF:-1,USA: TV5Van
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2641.ts
+#EXTINF:-1,USA: NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2637.ts
+#EXTINF:-1,USA: Global
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2642.ts
+#EXTINF:-1,USA: FOXNA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2638.ts
+#EXTINF:-1,USA: CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2643.ts
+#EXTINF:-1,USA: CTVEnglish
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2639.ts
+#EXTINF:-1,USA: CTV2English
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2640.ts
+#EXTINF:-1,USA: CityTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2644.ts
+#EXTINF:-1,USA: CHEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2645.ts
+#EXTINF:-1,USA: CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2646.ts
+#EXTINF:-1,USA: abc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2636.ts
+#EXTINF:-1,UK: DISC SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1562.ts
+#EXTINF:-1,It:Primafila9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2775.ts
+#EXTINF:-1,It:Primafila8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2774.ts
+#EXTINF:-1,It:Primafila7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2773.ts
+#EXTINF:-1,It:Primafila6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2772.ts
+#EXTINF:-1,It:Primafila5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2771.ts
+#EXTINF:-1,It:Primafila4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2770.ts
+#EXTINF:-1,It:Primafila3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2769.ts
+#EXTINF:-1,It:Primafila2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2768.ts
+#EXTINF:-1,It:Primafila10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2776.ts
+#EXTINF:-1,It:Primafila1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2767.ts
+#EXTINF:-1,It:SkyCinema1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2734.ts
+#EXTINF:-1,It:RsiLa2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2731.ts
+#EXTINF:-1,It:RsiLa1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2727.ts
+#EXTINF:-1,It:RaiYoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2720.ts
+#EXTINF:-1,It:RaiStoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2721.ts
+#EXTINF:-1,It:RaiScuola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2723.ts
+#EXTINF:-1,It:RaiPremium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2724.ts
+#EXTINF:-1,It:RaiGulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2719.ts
+#EXTINF:-1,It:Rai5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2718.ts
+#EXTINF:-1,It:Rai4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2717.ts
+#EXTINF:-1,It:Rai3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2716.ts
+#EXTINF:-1,It:Rai2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2715.ts
+#EXTINF:-1,It:Rai1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2714.ts
+#EXTINF:-1,It:PremiumStories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2752.ts
+#EXTINF:-1,It:PremiumSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2753.ts
+#EXTINF:-1,It:PremiumJoi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2751.ts
+#EXTINF:-1,It:PremiumEnergy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2759.ts
+#EXTINF:-1,It:PremiumEmotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2761.ts
+#EXTINF:-1,It:PremiumCrime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2760.ts
+#EXTINF:-1,It:PremiumComedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2762.ts
+#EXTINF:-1,It:PremiumCinema24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2758.ts
+#EXTINF:-1,It:PremiumCinema2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2755.ts
+#EXTINF:-1,It:PremiumCinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2754.ts
+#EXTINF:-1,It:PremiumAction24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2757.ts
+#EXTINF:-1,It:PremiumAction
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2756.ts
+#EXTINF:-1,It:NatGeoWild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2746.ts
+#EXTINF:-1,It:NatGeoPeople
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2747.ts
+#EXTINF:-1,It:NatGeoGraphic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2745.ts
+#EXTINF:-1,It:ItalySport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2764.ts
+#EXTINF:-1,It:ItalySport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2763.ts
+#EXTINF:-1,It:Foxcrime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2741.ts
+#EXTINF:-1,It:FoxComedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2742.ts
+#EXTINF:-1,It:DiscoverySc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2749.ts
+#EXTINF:-1,It:Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2748.ts
+#EXTINF:-1,It:CinemaFamily
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2737.ts
+#EXTINF:-1,It:CinemaClassic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2739.ts
+#EXTINF:-1,It:Cinema24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2735.ts
+#EXTINF:-1,It:Cielo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2732.ts
+#EXTINF:-1,UK: UTV IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1551.ts
+#EXTINF:-1,UK: TLC UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1567.ts
+#EXTINF:-1,UK: SKY THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1531.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1552.ts
+#EXTINF:-1,UK: SKY SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1530.ts
+#EXTINF:-1,UK: SKY PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1529.ts
+#EXTINF:-1,UK: SKY LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1535.ts
+#EXTINF:-1,UK: SKY DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1527.ts
+#EXTINF:-1,UK: SKY ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1525.ts
+#EXTINF:-1,UK: SETANTA SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1568.ts
+#EXTINF:-1,UK: RACING UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1571.ts
+#EXTINF:-1,UK: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1548.ts
+#EXTINF:-1,UK: MOVIES 4 MEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1570.ts
+#EXTINF:-1,UK: MOTORS TV UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1579.ts
+#EXTINF:-1,UK: INSPIRATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1581.ts
+#EXTINF:-1,UK: HISTORY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1545.ts
+#EXTINF:-1,UK: FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1543.ts
+#EXTINF:-1,UK: DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1522.ts
+#EXTINF:-1,UK: DISCOVERY SHED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1557.ts
+#EXTINF:-1,UK: DISC TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1563.ts
+#EXTINF:-1,UK: DISC HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1561.ts
+#EXTINF:-1,UK: COMEDY XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1517.ts
+#EXTINF:-1,UK: COMEDY CENT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1516.ts
+#EXTINF:-1,UK: AT THE RACES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1541.ts
+#EXTINF:-1,UK: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1574.ts
+#EXTINF:-1,UK: AL MADEEH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1555.ts
+#EXTINF:-1,UK: AL ALAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1554.ts
+#EXTINF:-1,UK: NICK JR TOO UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1518.ts
+#EXTINF:-1,UK: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1560.ts
+#EXTINF:-1,UK: PREMIER SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1572.ts
+#EXTINF:-1,UK: SKY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1523.ts
+#EXTINF:-1,UK: QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1564.ts
+#EXTINF:-1,UK: SKY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1537.ts
+#EXTINF:-1,UK: HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1550.ts
+#EXTINF:-1,UK: SETANTA IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1569.ts
+#EXTINF:-1,UK: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1542.ts
+#EXTINF:-1,UK: REAL LIVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1549.ts
+#EXTINF:-1,UK: NICK JR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1519.ts
+#EXTINF:-1,UK: NICKTOONS IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1514.ts
+#EXTINF:-1,UK: TLC IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1566.ts
+#EXTINF:-1,UK: SONY MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1573.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1524.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1540.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1539.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1538.ts
+#EXTINF:-1,UK: SKY SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1536.ts
+#EXTINF:-1,UK: NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1547.ts
+#EXTINF:-1,UK: SKY FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1528.ts
+#EXTINF:-1,UK: SKY COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1526.ts
+#EXTINF:-1,UK: SKY ARTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1534.ts
+#EXTINF:-1,UK: MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1546.ts
+#EXTINF:-1,UK: FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1533.ts
+#EXTINF:-1,UK: DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1558.ts
+#EXTINF:-1,UK: BET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1515.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1532.ts
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1559.ts
+#EXTINF:-1,UK: ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1553.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1521.ts
+#EXTINF:-1,UK: HOME HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1565.ts
+#EXTINF:-1,UK: DISNEY CHNL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1520.ts
+#EXTINF:-1,UK: HISTORY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1544.ts
+#EXTINF:-1,TR: YASIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1039.ts
+#EXTINF:-1,TR: USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1037.ts
+#EXTINF:-1,TR: ULUSAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1036.ts
+#EXTINF:-1,TR: TV8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/990.ts
+#EXTINF:-1,TR: TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/986.ts
+#EXTINF:-1,TR: TRT SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1030.ts
+#EXTINF:-1,TR: TRT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1031.ts
+#EXTINF:-1,TR: TRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1032.ts
+#EXTINF:-1,TR: TRT COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1033.ts
+#EXTINF:-1,TR: TRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1034.ts
+#EXTINF:-1,TR: TRT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1035.ts
+#EXTINF:-1,TR: TIVIBU SPOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1029.ts
+#EXTINF:-1,TR: TGRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/987.ts
+#EXTINF:-1,TR: TGRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/988.ts
+#EXTINF:-1,TR: TGRT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/989.ts
+#EXTINF:-1,TR: STAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/992.ts
+#EXTINF:-1,TR: SHOW TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/993.ts
+#EXTINF:-1,TR: SEMMERKAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1028.ts
+#EXTINF:-1,TR: SAMANYOLU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1027.ts
+#EXTINF:-1,TR: SALON 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1018.ts
+#EXTINF:-1,TR: SALON 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1019.ts
+#EXTINF:-1,TR: SALON 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1020.ts
+#EXTINF:-1,TR: A HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/996.ts
+#EXTINF:-1,TR: SALON 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1021.ts
+#EXTINF:-1,TR: SALON 5 YESILCAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1022.ts
+#EXTINF:-1,TR: SALON 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1023.ts
+#EXTINF:-1,TR: SALON 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1024.ts
+#EXTINF:-1,TR: SALON 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1025.ts
+#EXTINF:-1,TR: SALON 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1026.ts
+#EXTINF:-1,TR: POWERTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/984.ts
+#EXTINF:-1,TR: PLANET TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1015.ts
+#EXTINF:-1,TR: PLANET MUTFAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1016.ts
+#EXTINF:-1,TR: PLANET COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1017.ts
+#EXTINF:-1,TR: NTV SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/981.ts
+#EXTINF:-1,TR: NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/982.ts
+#EXTINF:-1,TR: NR1 TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/980.ts
+#EXTINF:-1,TR: MINIKA GO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1013.ts
+#EXTINF:-1,TR: MINIKA COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1014.ts
+#EXTINF:-1,TR: LALEGUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/979.ts
+#EXTINF:-1,TR: KRAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1011.ts
+#EXTINF:-1,TR: KRAL POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1012.ts
+#EXTINF:-1,OSN MBC P Variety HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1656.ts
+#EXTINF:-1,TR: KOY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1010.ts
+#EXTINF:-1,TR: KANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1009.ts
+#EXTINF:-1,TR: HANNIBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1008.ts
+#EXTINF:-1,TR: HALK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1006.ts
+#EXTINF:-1,TR: HABERTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1007.ts
+#EXTINF:-1,TR: FOX TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/991.ts
+#EXTINF:-1,TR: FLASH TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/977.ts
+#EXTINF:-1,TR: EURONEWS TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/983.ts
+#EXTINF:-1,TR: E2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1005.ts
+#EXTINF:-1,TR: DREAM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1003.ts
+#EXTINF:-1,TR: DREAM TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1004.ts
+#EXTINF:-1,TR: DOSTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1002.ts
+#EXTINF:-1,TR: YABAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1038.ts
+#EXTINF:-1,TR: CNN TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1001.ts
+#EXTINF:-1,TR: BEYAZ TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1000.ts
+#EXTINF:-1,TR: BERAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/998.ts
+#EXTINF:-1,TR: ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/985.ts
+#EXTINF:-1,TR: AKIT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/999.ts
+#EXTINF:-1,TR: AKILLI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/997.ts
+#EXTINF:-1,TR: A SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/995.ts
+#EXTINF:-1,TR: 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/978.ts
+#EXTINF:-1,TR: 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/994.ts
+#EXTINF:-1,NL: NPO1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/968.ts
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/935.ts
+#EXTINF:-1,NL: ZIGGO SPORT SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/934.ts
+#EXTINF:-1,NL: ZIGGO SPORT GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/936.ts
+#EXTINF:-1,NL: VERONICA/DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/964.ts
+#EXTINF:-1,ES: CANALPLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2081.ts
+#EXTINF:-1,NL: TV CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/941.ts
+#EXTINF:-1,NL: TNT COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/940.ts
+#EXTINF:-1,NL: STS INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/946.ts
+#EXTINF:-1,NL: SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/954.ts
+#EXTINF:-1,NL: SHANSON TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/943.ts
+#EXTINF:-1,NL: SBS9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/962.ts
+#EXTINF:-1,NL: SBS6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/959.ts
+#EXTINF:-1,NL: RTVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/944.ts
+#EXTINF:-1,NL: RTR PLANETA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/952.ts
+#EXTINF:-1,NL: RTL8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/961.ts
+#EXTINF:-1,NL: RTL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/960.ts
+#EXTINF:-1,NL: RTL5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/958.ts
+#EXTINF:-1,NL: RTL4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/957.ts
+#EXTINF:-1,NL: ROSSIYA 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/948.ts
+#EXTINF:-1,NL: R1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/945.ts
+#EXTINF:-1,NL: ORT INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/953.ts
+#EXTINF:-1,NL: NTV MIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/947.ts
+#EXTINF:-1,NL: NPO3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/956.ts
+#EXTINF:-1,NL: NPO2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/955.ts
+#EXTINF:-1,NL: NET5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/963.ts
+#EXTINF:-1,NL: NASHE KINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/949.ts
+#EXTINF:-1,NL: MUSICBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/942.ts
+#EXTINF:-1,NL: HBO3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/933.ts
+#EXTINF:-1,NL: HBO2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/932.ts
+#EXTINF:-1,NL: HBO1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/931.ts
+#EXTINF:-1,NL: FOX SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/939.ts
+#EXTINF:-1,NL: FOX SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/938.ts
+#EXTINF:-1,NL: FOX SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/937.ts
+#EXTINF:-1,NL: FILM1 SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1130.ts
+#EXTINF:-1,NL: FILM1 PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1127.ts
+#EXTINF:-1,NL: FILM1 COMEDY & KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1129.ts
+#EXTINF:-1,NL: FILM1 ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1128.ts
+#EXTINF:-1,NL: DISNEY NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/967.ts
+#EXTINF:-1,NL: DISCOVERY NL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/965.ts
+#EXTINF:-1,NL: DETSKI MIR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/950.ts
+#EXTINF:-1,NL: BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/966.ts
+#EXTINF:-1,NL: 24TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/951.ts
+#EXTINF:-1,LOCALE: CINE PREMIER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2099.ts
+#EXTINF:-1,LOCALE: CINE FRISSON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2100.ts
+#EXTINF:-1,LOCALE: CINE FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2101.ts
+#EXTINF:-1,LOCALE: CINE EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2102.ts
+#EXTINF:-1,LOCALE: CANAL SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2094.ts
+#EXTINF:-1,LOCALE: CANAL SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2095.ts
+#EXTINF:-1,LOCALE: CANAL FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2096.ts
+#EXTINF:-1,LOCALE: CANAL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2097.ts
+#EXTINF:-1,LOCALE: CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2098.ts
+#EXTINF:-1,LOC: RMC DECOUVERTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2108.ts
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/891.ts
+#EXTINF:-1,FR: TV5MONDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/898.ts
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/905.ts
+#EXTINF:-1,FR: TELETOON+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/888.ts
+#EXTINF:-1,FR: SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2110.ts
+#EXTINF:-1,FR: RTL9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/917.ts
+#EXTINF:-1,FR: PLUG RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/901.ts
+#EXTINF:-1,FR: PLANETE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/889.ts
+#EXTINF:-1,FR: NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/911.ts
+#EXTINF:-1,FR: NATIONAL GEO FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/883.ts
+#EXTINF:-1,FR: MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2104.ts
+#EXTINF:-1,FR: MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2105.ts
+#EXTINF:-1,FR: MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/903.ts
+#EXTINF:-1,FR: M6 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2106.ts
+#EXTINF:-1,FR: M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/910.ts
+#EXTINF:-1,FR: LCP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/915.ts
+#EXTINF:-1,FR: LA TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/900.ts
+#EXTINF:-1,FR: ITELE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/895.ts
+#EXTINF:-1,FR: GULLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/902.ts
+#EXTINF:-1,FR: FRANCE O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/897.ts
+#EXTINF:-1,FR: FRANCE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/909.ts
+#EXTINF:-1,FR: FRANCE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/908.ts
+#EXTINF:-1,FR: FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/907.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/906.ts
+#EXTINF:-1,FR: FILM5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/899.ts
+#EXTINF:-1,FR: FILM 9 ANIMATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/918.ts
+#EXTINF:-1,FR: FILM 8 ANIMATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/919.ts
+#EXTINF:-1,FR: FILM 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/913.ts
+#EXTINF:-1,FR: FILM 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/912.ts
+#EXTINF:-1,FR: FILM 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/916.ts
+#EXTINF:-1,FR: FILM 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/894.ts
+#EXTINF:-1,FR: FILM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/893.ts
+#EXTINF:-1,FR: FILM 10 ANIMATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/920.ts
+#EXTINF:-1,FR: FILM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/892.ts
+#EXTINF:-1,FR: EURONEWS FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/904.ts
+#EXTINF:-1,FR: Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2109.ts
+#EXTINF:-1,FR: D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/886.ts
+#EXTINF:-1,FR: D17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/914.ts
+#EXTINF:-1,FR: COMEDIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2112.ts
+#EXTINF:-1,FR: CLUB RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/887.ts
+#EXTINF:-1,FR: CHASSE PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/884.ts
+#EXTINF:-1,FR: CANAL SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/922.ts
+#EXTINF:-1,FR: CANAL SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/927.ts
+#EXTINF:-1,FR: CANAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/923.ts
+#EXTINF:-1,FR: CANAL FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/926.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/925.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/924.ts
+#EXTINF:-1,FR: BOOMERANG FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/921.ts
+#EXTINF:-1,FR: BFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/896.ts
+#EXTINF:-1,FR: ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/890.ts
+#EXTINF:-1,FR: 13EME RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2111.ts
+#EXTINF:-1,DE: SKY SPORT HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/848.ts
+#EXTINF:-1,DE: ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/864.ts
+#EXTINF:-1,DE: VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/872.ts
+#EXTINF:-1,DE: TNT SERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/873.ts
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/878.ts
+#EXTINF:-1,DE: SKY SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/862.ts
+#EXTINF:-1,DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/847.ts
+#EXTINF:-1,DE: SKY KRIMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/860.ts
+#EXTINF:-1,DE: SKY HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/859.ts
+#EXTINF:-1,DE: SKY EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/861.ts
+#EXTINF:-1,DE: SKY COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/857.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/853.ts
+#EXTINF:-1,DE: SKY CINEMA 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/855.ts
+#EXTINF:-1,DE: SKY CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/854.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/849.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/858.ts
+#EXTINF:-1,DE: SKY ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/856.ts
+#EXTINF:-1,DE: SAT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/871.ts
+#EXTINF:-1,DE: RTL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/868.ts
+#EXTINF:-1,DE: RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/850.ts
+#EXTINF:-1,DE: RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/867.ts
+#EXTINF:-1,DE: PRO7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/870.ts
+#EXTINF:-1,DE: NATIONAL GEOGRAHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/874.ts
+#EXTINF:-1,DE: MGM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/851.ts
+#EXTINF:-1,DE: KABEL EINS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/869.ts
+#EXTINF:-1,DE: HEIMAT KANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/876.ts
+#EXTINF:-1,DE: DISNEY DEUTSCHLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/877.ts
+#EXTINF:-1,DE: DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/875.ts
+#EXTINF:-1,DE: DAS ERSTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/863.ts
+#EXTINF:-1,DE: ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/866.ts
+#EXTINF:-1,DE: 3SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/865.ts
+#EXTINF:-1,DE: 13TH STREET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/852.ts
+#EXTINF:-1,RU: ZOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3019.ts
+#EXTINF:-1,RU: VIASAT NATURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3020.ts
+#EXTINF:-1,RU: VIASAT HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3021.ts
+#EXTINF:-1,RU: VIASAT EXPLORER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3022.ts
+#EXTINF:-1,RU: TV1000 PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3023.ts
+#EXTINF:-1,RU: TV1000 MEGAHIT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3024.ts
+#EXTINF:-1,RU: TV1000 COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3025.ts
+#EXTINF:-1,RU: TV1000 COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3026.ts
+#EXTINF:-1,RU: TV 1000 Russkoe Kino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3027.ts
+#EXTINF:-1,RU: TV 1000 ACTION EAST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3028.ts
+#EXTINF:-1,RU: Tv 1000 Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3029.ts
+#EXTINF:-1,RU: TV 1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3030.ts
+#EXTINF:-1,RU: TRAVELER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3031.ts
+#EXTINF:-1,RU: Telekanal Zvezda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3032.ts
+#EXTINF:-1,RU: SONY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3033.ts
+#EXTINF:-1,RU: SONY SCI-FI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3034.ts
+#EXTINF:-1,RU: SONY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3035.ts
+#EXTINF:-1,RU: SETANTA SPORTS ( ESTONIA )
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3036.ts
+#EXTINF:-1,RU: REN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3037.ts
+#EXTINF:-1,RU: OUTDOOR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3038.ts
+#EXTINF:-1,RU: Ohotnik i Rybolov
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3039.ts
+#EXTINF:-1,RU: NTV FOOTBALL 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3040.ts
+#EXTINF:-1,RU: NTV FOOTBALL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3041.ts
+#EXTINF:-1,RU: NTV FOOTBALL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3042.ts
+#EXTINF:-1,RU: Nautical HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3043.ts
+#EXTINF:-1,RU: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3044.ts
+#EXTINF:-1,RU: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3045.ts
+#EXTINF:-1,RU: Nash Futbol HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3046.ts
+#EXTINF:-1,RU: Nash Futbol
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3047.ts
+#EXTINF:-1,RU: MUSICBOX UA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3048.ts
+#EXTINF:-1,RU: MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3049.ts
+#EXTINF:-1,RU: Moya Planeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3050.ts
+#EXTINF:-1,RU: Match! Planeta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3051.ts
+#EXTINF:-1,RU: Match! Nash Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3052.ts
+#EXTINF:-1,RU: Match! Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3053.ts
+#EXTINF:-1,RU: Match!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3054.ts
+#EXTINF:-1,RU: KHL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3055.ts
+#EXTINF:-1,RU: HTB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3056.ts
+#EXTINF:-1,RU: HTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3057.ts
+#EXTINF:-1,RU: HD Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3058.ts
+#EXTINF:-1,RU: EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3059.ts
+#EXTINF:-1,RU: EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3060.ts
+#EXTINF:-1,RU: EUREKA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3061.ts
+#EXTINF:-1,RU: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3062.ts
+#EXTINF:-1,RU: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3063.ts
+#EXTINF:-1,RU: CBC SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3064.ts
+#EXTINF:-1,RU: BOLLYWOOD TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3065.ts
+#EXTINF:-1,RU: AZ Idman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3066.ts
+#EXTINF:-1,RU: Auto Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3067.ts
+#EXTINF:-1,RU: ARENA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3068.ts
+#EXTINF:-1,RU: ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3069.ts
+#EXTINF:-1,RU: Animal Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3070.ts
+#EXTINF:-1,RU: 24 Doc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/3071.ts
+#EXTINF:-1,Scandinavia:k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2911.ts
+#EXTINF:-1,Scandinavia:k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2910.ts
+#EXTINF:-1,Scandinavia:Tv4Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2904.ts
+#EXTINF:-1,Scandinavia:Tv4Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2905.ts
+#EXTINF:-1,Scandinavia:Tv4FXL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2907.ts
+#EXTINF:-1,Scandinavia:Tv4Fakta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2908.ts
+#EXTINF:-1,Scandinavia:2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2903.ts
+#EXTINF:-1,Scandinavia:1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2902.ts
+#EXTINF:-1,Scandinavia:k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2900.ts
+#EXTINF:-1,Scandinavia:Tv3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2899.ts
+#EXTINF:-1,Scandinavia:Tv2Zulu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2890.ts
+#EXTINF:-1,Scandinavia:Tv2Zebra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2891.ts
+#EXTINF:-1,Scandinavia:Tv2Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2892.ts
+#EXTINF:-1,Scandinavia:Tv2OJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2893.ts
+#EXTINF:-1,Scandinavia:Tv2Nyhetskanalen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2898.ts
+#EXTINF:-1,Scandinavia:Tv2News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2894.ts
+#EXTINF:-1,Scandinavia:Tv2Lorry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2895.ts
+#EXTINF:-1,Scandinavia:Tv2Fri
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2896.ts
+#EXTINF:-1,Scandinavia:Tv2Charlie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2897.ts
+#EXTINF:-1,Scandinavia:Tnt
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2914.ts
+#EXTINF:-1,Scandinavia:e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2920.ts
+#EXTINF:-1,Scandinavia:Tcm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2917.ts
+#EXTINF:-1,Scandinavia:Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2929.ts
+#EXTINF:-1,Scandinavia:k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2909.ts
+#EXTINF:-1,Scandinavia:Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2916.ts
+#EXTINF:-1,Scandinavia:ComedyCentral
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2924.ts
+#EXTINF:-1,Scandinavia:k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2931.ts
+#EXTINF:-1,Scandinavia:AnimalPlanet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2927.ts
+#EXTINF:-1,Scandinavia:6Eren
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2919.ts
+#EXTINF:-1,Scandinavia:Viasat4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2524.ts
+#EXTINF:-1,Scandinavia:D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2526.ts
+#EXTINF:-1,Scandinavia: Baltic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2531.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2525.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2538.ts
+#EXTINF:-1,Scandinavia:re
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2541.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2535.ts
+#EXTINF:-1,Scandinavia:D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2532.ts
+#EXTINF:-1,Scandinavia:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2530.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2536.ts
+#EXTINF:-1,Scandinavia:y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2534.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2529.ts
+#EXTINF:-1,Scandinavia:lHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2528.ts
+#EXTINF:-1,Scandinavia:l
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2527.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2539.ts
+#EXTINF:-1,Scandinavia:e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2533.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2540.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2537.ts
+#EXTINF:-1,Scandinavia:phic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2590.ts
+#EXTINF:-1,Scandinavia:NatGeoWild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2589.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2585.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2586.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2587.ts
+#EXTINF:-1,Scandinavia:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2588.ts
+#EXTINF:-1,Scandinavia:Dr3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2544.ts
+#EXTINF:-1,Scandinavia:Dr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2543.ts
+#EXTINF:-1,Scandinavia:Dr1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2542.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2546.ts
+#EXTINF:-1,Scandinavia:ang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2547.ts
+#EXTINF:-1,Scandinavia:Dr.K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2545.ts
+#EXTINF:-1,Scandinavia:Dk4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2548.ts
+#EXTINF:-1,Scandinavia:DiscoverySc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2592.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2593.ts
+#EXTINF:-1,Scandinavia:Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2591.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2517.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2511.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2521.ts
+#EXTINF:-1,Scandinavia:4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2510.ts
+#EXTINF:-1,Scandinavia:3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2509.ts
+#EXTINF:-1,Scandinavia:2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2508.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2507.ts
+#EXTINF:-1,Scandinavia:HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2516.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2515.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2518.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2512.ts
+#EXTINF:-1,Scandinavia:lHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2514.ts
+#EXTINF:-1,Scandinavia:l
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2513.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2519.ts
+#EXTINF:-1,Scandinavia:n
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2522.ts
+#EXTINF:-1,Scandinavia:
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2520.ts
+#EXTINF:-1,ES:XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1606.ts
+#EXTINF:-1,ES:VIAJARHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1642.ts
+#EXTINF:-1,ES:TOROSHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1638.ts
+#EXTINF:-1,ES:TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1627.ts
+#EXTINF:-1,ES:TELEDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1626.ts
+#EXTINF:-1,ES:TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1625.ts
+#EXTINF:-1,ES:TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1624.ts
+#EXTINF:-1,ES:SYFYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1641.ts
+#EXTINF:-1,ES:SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1584.ts
+#EXTINF:-1,ES:SOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1583.ts
+#EXTINF:-1,ES:SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1605.ts
+#EXTINF:-1,ES:SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1604.ts
+#EXTINF:-1,ES:PLAYBOYTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1589.ts
+#EXTINF:-1,ES:PARTIDAZO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1603.ts
+#EXTINF:-1,ES:ORBE21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1608.ts
+#EXTINF:-1,ES:ODISEA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1593.ts
+#EXTINF:-1,ES:NGWILDHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1640.ts
+#EXTINF:-1,ES:NATGEOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1643.ts
+#EXTINF:-1,ES:MTVESPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1591.ts
+#EXTINF:-1,ES:LTC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1596.ts
+#EXTINF:-1,ES:LIGAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1629.ts
+#EXTINF:-1,ES:LASEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1623.ts
+#EXTINF:-1,ES:LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1622.ts
+#EXTINF:-1,ES:LA1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1631.ts
+#EXTINF:-1,ES:LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1621.ts
+#EXTINF:-1,ES:HOLLYWOODHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1633.ts
+#EXTINF:-1,ES:HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1620.ts
+#EXTINF:-1,ES:GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1590.ts
+#EXTINF:-1,ES:FOXNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1595.ts
+#EXTINF:-1,ES:FOXHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1636.ts
+#EXTINF:-1,ES:FOTBOLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1635.ts
+#EXTINF:-1,ES:FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1619.ts
+#EXTINF:-1,ES:EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1594.ts
+#EXTINF:-1,ES:ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1602.ts
+#EXTINF:-1,ES:ESTRELLAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1587.ts
+#EXTINF:-1,ES:DISNEYXD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1618.ts
+#EXTINF:-1,ES:DISNEYCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1617.ts
+#EXTINF:-1,ES:DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1616.ts
+#EXTINF:-1,ES:DEPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1588.ts
+#EXTINF:-1,ES:DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1592.ts
+#EXTINF:-1,ES:DCINESPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1615.ts
+#EXTINF:-1,ES:DCINEHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1634.ts
+#EXTINF:-1,ES:CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1614.ts
+#EXTINF:-1,ES:CRIMEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1613.ts
+#EXTINF:-1,ES:COMEDYCENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1612.ts
+#EXTINF:-1,ES:COMEDIAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1630.ts
+#EXTINF:-1,ES:CLANTVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1611.ts
+#EXTINF:-1,ES:CASAYPESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1610.ts
+#EXTINF:-1,ES:CANALSUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1609.ts
+#EXTINF:-1,ES:CANALCOCINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1607.ts
+#EXTINF:-1,ES:CALLE13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1639.ts
+#EXTINF:-1,ES:CALLE13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1597.ts
+#EXTINF:-1,ES:BEINSPHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1644.ts
+#EXTINF:-1,ES:BARCATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1585.ts
+#EXTINF:-1,ES:BABYTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1586.ts
+#EXTINF:-1,ES:AXNHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1632.ts
+#EXTINF:-1,ES:AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1601.ts
+#EXTINF:-1,ES:AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1600.ts
+#EXTINF:-1,ES:ACCIONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1628.ts
+#EXTINF:-1,ES:40TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1599.ts
+#EXTINF:-1,ES:24HORAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/1598.ts
+#EXTINF:-1,ES: RMADRIDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2090.ts
+#EXTINF:-1,ES: PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2091.ts
+#EXTINF:-1,ES: PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2085.ts
+#EXTINF:-1,ES: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2092.ts
+#EXTINF:-1,ES: DISNEYJR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2087.ts
+#EXTINF:-1,ES: DEPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2084.ts
+#EXTINF:-1,ES: CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2086.ts
+#EXTINF:-1,ES: BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2083.ts
+#EXTINF:-1,ES: BARCATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2080.ts
+#EXTINF:-1,ES: AXNWHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2082.ts
+#EXTINF:-1,ES: ANTENA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://edge.kmen-ltd.com:7022/live/fouad/fouad/2079.ts
