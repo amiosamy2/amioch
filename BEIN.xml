@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,AR: beIN Sports 1 HD
+#EXTINF:-1,beIN Sports 1 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/29.ts
-#EXTINF:-1,AR: bEIN Sports 2 HD
+#EXTINF:-1,bEIN Sports 2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/30.ts
-#EXTINF:-1,AR: beIN Sports 3 HD
+#EXTINF:-1,beIN Sports 3 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/31.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
+#EXTINF:-1,beIN Sports 4 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/32.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
+#EXTINF:-1,beIN Sports 5 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/33.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
+#EXTINF:-1,beIN Sports 6 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/34.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
+#EXTINF:-1,beIN Sports 7 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/35.ts
-#EXTINF:-1,AR: beIN Sports 8 HD
+#EXTINF:-1,beIN Sports 8 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/36.ts
-#EXTINF:-1,AR: beIN Sports 9 HD
+#EXTINF:-1,beIN Sports 9 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/37.ts
-#EXTINF:-1,AR: beIN Sports 10 HD
+#EXTINF:-1,beIN Sports 10 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/38.ts
-#EXTINF:-1,AR: beINSport 13 HD
+#EXTINF:-1,beINSport 13 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1779.ts
-#EXTINF:-1,AR: beINSport 12 HD
+#EXTINF:-1,beINSport 12 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1778.ts
-#EXTINF:-1,AR: beINSport 11 HD
+#EXTINF:-1,beINSport 11 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1777.ts
 #EXTINF:-1,ES: Bein Sports HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2679.ts
@@ -39,3 +39,27 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdt
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1454.ts
 #EXTINF:-1,FR: BEINSPORT MAX 8
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1455.ts
+#EXTINF:-1,Bein Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/768.ts
+#EXTINF:-1,Bein Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/769.ts
+#EXTINF:-1,Bein Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/770.ts
+#EXTINF:-1,Bein Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/771.ts
+#EXTINF:-1,Bein Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/772.ts
+#EXTINF:-1,Bein Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/773.ts
+#EXTINF:-1,Bein Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/774.ts
+#EXTINF:-1,Bein Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/775.ts
+#EXTINF:-1,Bein Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/776.ts
+#EXTINF:-1,Bein Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/777.ts
+#EXTINF:-1,Bein Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/778.ts
+#EXTINF:-1,Bein Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/779.ts
