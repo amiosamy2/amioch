@@ -1,65 +1,2253 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/29.ts
-#EXTINF:-1,bEIN Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/30.ts
-#EXTINF:-1,beIN Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/31.ts
-#EXTINF:-1,beIN Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/32.ts
-#EXTINF:-1,beIN Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/33.ts
-#EXTINF:-1,beIN Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/34.ts
-#EXTINF:-1,beIN Sports 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/35.ts
-#EXTINF:-1,beIN Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/36.ts
-#EXTINF:-1,beIN Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/37.ts
-#EXTINF:-1,beIN Sports 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/38.ts
-#EXTINF:-1,beINSport 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1779.ts
-#EXTINF:-1,beINSport 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1778.ts
-#EXTINF:-1,beINSport 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1777.ts
-#EXTINF:-1,ES: Bein Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2679.ts
-#EXTINF:-1,FR: Bein Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2096.ts
-#EXTINF:-1,FR: Bein Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2095.ts
-#EXTINF:-1,FR: Bein Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/2094.ts
-#EXTINF:-1,FR: BEINSPORT MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1453.ts
-#EXTINF:-1,FR:BEINSPORT MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1454.ts
-#EXTINF:-1,FR: BEINSPORT MAX 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.ukhdtv.com:7860/live/ZHNbj5QTfG/Ta4gt1CWiR/1455.ts
-#EXTINF:-1,Bein Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/768.ts
-#EXTINF:-1,Bein Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/769.ts
-#EXTINF:-1,Bein Sports 7 HD
+#EXTINF:-1,SPORTS TV   [720x488]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://77.223.131.175/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1972.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1799.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1797.ts
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2638.ts
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2639.ts
+#EXTINF:-1,(AR) BEIN SPORTS 12 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2640.ts
+#EXTINF:-1,(AR) BEIN SPORTS 2 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2630.ts
+#EXTINF:-1,(AR) BEIN SPORTS 3 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2631.ts
+#EXTINF:-1,(AR) BEIN SPORTS 5 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2633.ts
+#EXTINF:-1,(AR) BEIN SPORTS 4 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2632.ts
+#EXTINF:-1,(AR) BEIN SPORTS 6 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2634.ts
+#EXTINF:-1,(AR) BEIN SPORTS 7 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2635.ts
+#EXTINF:-1,(AR) BEIN SPORTS 8 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2636.ts
+#EXTINF:-1,(AR) BEIN SPORTS 9 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2637.ts
+#EXTINF:-1,Bein Sports 1   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/3084.ts
+#EXTINF:-1,Bein Sports 2   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/3085.ts
+#EXTINF:-1,Bein Sports 3   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/3086.ts
+#EXTINF:-1,Astro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7233.ts
+#EXTINF:-1,Astro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7234.ts
+#EXTINF:-1,Astro Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7235.ts
+#EXTINF:-1,BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7257.ts
+#EXTINF:-1,BeinSports 10HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7258.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7259.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7260.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7261.ts
+#EXTINF:-1,BeinSports 14HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7262.ts
+#EXTINF:-1,BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7264.ts
+#EXTINF:-1,BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7265.ts
+#EXTINF:-1,BeinSports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7267.ts
+#EXTINF:-1,BeinSports 6HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7268.ts
+#EXTINF:-1,BeinSports 7HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7269.ts
+#EXTINF:-1,BeinSports 8HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7270.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7271.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7275.ts
+#EXTINF:-1, BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7305.ts
+#EXTINF:-1, BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7306.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7307.ts
+#EXTINF:-1, Euro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7314.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7360.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7490.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7120.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7092.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7528.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7529.ts
+#EXTINF:-1,NBC Sports Extra 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7532.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7538.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7539.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7540.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7541.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7021.ts
+#EXTINF:-1, BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6785.ts
+#EXTINF:-1, BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6786.ts
+#EXTINF:-1, EuroSports2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6816.ts
+#EXTINF:-1, Premier Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6849.ts
+#EXTINF:-1, SetantaSports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6857.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6877.ts
+#EXTINF:-1, Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6878.ts
+#EXTINF:-1, Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6880.ts
+#EXTINF:-1, Sky Sports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6883.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6885.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6884.ts
+#EXTINF:-1, Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6910.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6958.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4584.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4585.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4587.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4590.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4591.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/4592.ts
+#EXTINF:-1,Astro Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7236.ts
+#EXTINF:-1,BeinSports 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7266.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7530.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7542.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/5956.ts
+#EXTINF:-1, SPORTS TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/7062.ts
+#EXTINF:-1, BT Sports ESPN   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6787.ts
+#EXTINF:-1, Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/fernando/fernando/6876.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6969.ts
+#EXTINF:-1,Astro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7233.ts
+#EXTINF:-1,Astro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7234.ts
+#EXTINF:-1,Astro Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7235.ts
+#EXTINF:-1,Astro Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7236.ts
+#EXTINF:-1,BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7257.ts
+#EXTINF:-1,BeinSports 10HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7258.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7259.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7260.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7261.ts
+#EXTINF:-1,BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7264.ts
+#EXTINF:-1,BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7265.ts
+#EXTINF:-1,BeinSports 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7266.ts
+#EXTINF:-1,BeinSports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7267.ts
+#EXTINF:-1,BeinSports 6HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7268.ts
+#EXTINF:-1,BeinSports 7HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7269.ts
+#EXTINF:-1,BeinSports 8HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7270.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7271.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7275.ts
+#EXTINF:-1, BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7306.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7307.ts
+#EXTINF:-1, Euro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7314.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7360.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7490.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7120.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7092.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7528.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7529.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7530.ts
+#EXTINF:-1,NBC Sports Extra 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7532.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7538.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7540.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7541.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7021.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/5956.ts
+#EXTINF:-1, BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6785.ts
+#EXTINF:-1, SPORTS TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/7062.ts
+#EXTINF:-1, BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6786.ts
+#EXTINF:-1, BT Sports ESPN   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6787.ts
+#EXTINF:-1, EuroSports2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6816.ts
+#EXTINF:-1, Premier Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6849.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6877.ts
+#EXTINF:-1, Sky Sports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6879.ts
+#EXTINF:-1, Sky Sports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6881.ts
+#EXTINF:-1, Sky Sports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6883.ts
+#EXTINF:-1, Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6882.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6885.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6884.ts
+#EXTINF:-1, Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6910.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/6958.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4584.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4585.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4587.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4590.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4591.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/michele/michele/4592.ts
+#EXTINF:-1,Astro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7233.ts
+#EXTINF:-1,Astro Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7236.ts
+#EXTINF:-1,BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7257.ts
+#EXTINF:-1,BeinSports 10HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7258.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7259.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7260.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7261.ts
+#EXTINF:-1,BeinSports 14HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7262.ts
+#EXTINF:-1,BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7264.ts
+#EXTINF:-1,BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7265.ts
+#EXTINF:-1,BeinSports 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7266.ts
+#EXTINF:-1,BeinSports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7267.ts
+#EXTINF:-1,BeinSports 6HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7268.ts
+#EXTINF:-1,BeinSports 7HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7269.ts
+#EXTINF:-1,BeinSports 8HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7270.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7275.ts
+#EXTINF:-1, BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7305.ts
+#EXTINF:-1, BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7306.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7307.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7360.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7490.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7120.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7092.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7528.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7529.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7530.ts
+#EXTINF:-1,NBC Sports Extra 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7532.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7538.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7541.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7542.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/5956.ts
+#EXTINF:-1, SPORTS TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/7062.ts
+#EXTINF:-1, EuroSports2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6816.ts
+#EXTINF:-1, Premier Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6849.ts
+#EXTINF:-1, SetantaSports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6857.ts
+#EXTINF:-1, Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6876.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6877.ts
+#EXTINF:-1, Sky Sports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6879.ts
+#EXTINF:-1, Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6878.ts
+#EXTINF:-1, Sky Sports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6881.ts
+#EXTINF:-1, Sky Sports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6883.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6885.ts
+#EXTINF:-1, Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6910.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6958.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/6976.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4584.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4585.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4587.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4590.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4591.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/ramon/ramon/4592.ts
+#EXTINF:-1,Astro Sports 2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7234.ts
+#EXTINF:-1,Astro Sports 3   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7235.ts
+#EXTINF:-1,Astro Sports 4   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7236.ts
+#EXTINF:-1,BeinSports 1HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7257.ts
+#EXTINF:-1,BeinSports 10HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7258.ts
+#EXTINF:-1,BeinSports 11HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7259.ts
+#EXTINF:-1,BeinSports 12HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7260.ts
+#EXTINF:-1,BeinSports 13HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7261.ts
+#EXTINF:-1,BeinSports 14HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7262.ts
+#EXTINF:-1,BeinSports 2HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7264.ts
+#EXTINF:-1,BeinSports 3HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7265.ts
+#EXTINF:-1,BeinSports 4HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7266.ts
+#EXTINF:-1,BeinSports 5HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7267.ts
+#EXTINF:-1,BeinSports 6HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7268.ts
+#EXTINF:-1,BeinSports 7HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7269.ts
+#EXTINF:-1,BeinSports 8HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7270.ts
+#EXTINF:-1,BeinSports 9HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7271.ts
+#EXTINF:-1, Bein Sports HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7275.ts
+#EXTINF:-1, BeinSports 1HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7305.ts
+#EXTINF:-1, BeinSports 2HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7306.ts
+#EXTINF:-1, BeinSports 3HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7307.ts
+#EXTINF:-1, Euro Sports 1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7314.ts
+#EXTINF:-1,Euro Sports 2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7360.ts
+#EXTINF:-1, Sky Fox Sports HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7490.ts
+#EXTINF:-1,JPN: JSPORTS 1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7119.ts
+#EXTINF:-1,JPN: JSPORTS 4   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7120.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7092.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7528.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7529.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7530.ts
+#EXTINF:-1,NBC Sports Extra 2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7532.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7538.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7539.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7540.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7541.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7542.ts
+#EXTINF:-1,RUS: Match Sports   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7021.ts
+#EXTINF:-1, SPORTS TV   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/7062.ts
+#EXTINF:-1, BT Sports 1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6785.ts
+#EXTINF:-1, BT Sports 2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6786.ts
+#EXTINF:-1, BT Sports ESPN   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6787.ts
+#EXTINF:-1, EuroSports2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6816.ts
+#EXTINF:-1, Sky Sports 1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6876.ts
+#EXTINF:-1, Sky Sports 3 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6881.ts
+#EXTINF:-1, Sky Sports 4 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6883.ts
+#EXTINF:-1, Sky Sports 5 HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6885.ts
+#EXTINF:-1, Sky Sports 5   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6884.ts
+#EXTINF:-1, Sky Sports F1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6910.ts
+#EXTINF:-1, SportsNet Ontario   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6958.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/6976.ts
+#EXTINF:-1,USA: Fox Sports 1   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4584.ts
+#EXTINF:-1,USA: Fox Sports 2   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4585.ts
+#EXTINF:-1,USA: NBC Sports   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4587.ts
+#EXTINF:-1,USA: SportsNet ONE   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4590.ts
+#EXTINF:-1,USA: SportsNet Ontario   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4591.ts
+#EXTINF:-1,USA: SportsNet World   [700x700]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/support/support/4592.ts
+#EXTINF:-1, BeIN Sports 11 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3683.ts
+#EXTINF:-1, BeIN Sports 12 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3684.ts
+#EXTINF:-1, beIN SPORTS News   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/2420.ts
+#EXTINF:-1, Fox Sports 1   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/2743.ts
+#EXTINF:-1, Fox Sports 2   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/2744.ts
+#EXTINF:-1, Fox Sports 4   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/2746.ts
+#EXTINF:-1, Fox Sports 5   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/2747.ts
+#EXTINF:-1, FOX SPORTS 1 US HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3587.ts
+#EXTINF:-1, SKY PREMIER SPORTS HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3652.ts
+#EXTINF:-1, SKY SPORTS 1 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3658.ts
+#EXTINF:-1, SKY SPORTS 2 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3659.ts
+#EXTINF:-1, SKY SPORTS 3 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3660.ts
+#EXTINF:-1, SKY SPORTS 4 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3661.ts
+#EXTINF:-1, SKY SPORTS 5 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3662.ts
+#EXTINF:-1, Sky SPORTS F1 HD   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3663.ts
+#EXTINF:-1, SKY SPORTS NEWS HQ   [1144x284]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.187.253.38:20000/live/s1-00330/h9VEcI9IEl/3664.ts
+#EXTINF:-1,=UK=: UK Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/3m/3m/10071.ts
+#EXTINF:-1, Star Sports 1   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/3m/3m/4948.ts
+#EXTINF:-1, Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/3m/3m/10778.ts
+#EXTINF:-1,USA BYU SPORTS TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/3m/3m/6404.ts
+#EXTINF:-1,Fox Sports 1 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/3m/3m/5816.ts
+#EXTINF:-1,TR | Sports TV   [768x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://87.98.130.82:8000/live/hasan/ozdemir/120.ts
+#EXTINF:-1,=UK=: Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10132.ts
+#EXTINF:-1,=UK=: UK EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10091.ts
+#EXTINF:-1,=UK=: UK Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10080.ts
+#EXTINF:-1,=UK=: UK Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10073.ts
+#EXTINF:-1,=UK=: UK Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10071.ts
+#EXTINF:-1, Star Sports 1   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/4948.ts
+#EXTINF:-1, Star Sports 2   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/4949.ts
+#EXTINF:-1, UK Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/10769.ts
+#EXTINF:-1,=UK=: BT SPORTS EXTRA   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10193.ts
+#EXTINF:-1,=UK=: Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10132.ts
+#EXTINF:-1,=UK=: UK EuroSports 1   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10092.ts
+#EXTINF:-1,=UK=: UK EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10091.ts
+#EXTINF:-1,=UK=: UK Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10071.ts
+#EXTINF:-1, Star Sports 2   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/4949.ts
+#EXTINF:-1, Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10778.ts
+#EXTINF:-1, UK EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10774.ts
+#EXTINF:-1, UK Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10773.ts
+#EXTINF:-1, UK Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test2/test2/10769.ts
+#EXTINF:-1,=UK=: Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10132.ts
+#EXTINF:-1,=UK=: UK EuroSports 1   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10092.ts
+#EXTINF:-1,=UK=: UK Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10081.ts
+#EXTINF:-1,=UK=: UK Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10075.ts
+#EXTINF:-1,=UK=: UK Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10071.ts
+#EXTINF:-1, Star Sports 1   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/4948.ts
+#EXTINF:-1, UK EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10774.ts
+#EXTINF:-1, UK Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/test/test/10769.ts
+#EXTINF:-1, star sports 2   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2443.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1156.ts
+#EXTINF:-1, star sports 3   [480x368]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2444.ts
+#EXTINF:-1,NL FOX SPORTS 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1158.ts
+#EXTINF:-1,NL Fox Sports 1 Eredivisie HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/2051.ts
+#EXTINF:-1,NL Fox Sports 2 Internationaal   [1280x960]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/2088.ts
+#EXTINF:-1,NL Fox Sports 4 Internationaal   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/2086.ts
+#EXTINF:-1,NL Fox Sports 5 Eredivisie   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/2085.ts
+#EXTINF:-1,NL Fox Sports 6 Internationaal   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/2084.ts
+#EXTINF:-1,UK SKY SPORTS 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.53.8.145:8000/live/uaug0607x/vS7vk43q4o/1444.ts
+#EXTINF:-1, BEIN SPORTS   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.56.13:8000/live/kako/kako/1534.ts
+#EXTINF:-1,MBC PROSPORTS2   [640x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/181.ts
+#EXTINF:-1,MBC PROSPORTS1   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/180.ts
+#EXTINF:-1,MBC PROSPORTS3   [640x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/182.ts
+#EXTINF:-1,BEIN SPORTS HD1+   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/3054.ts
+#EXTINF:-1,BEIN SPORTSHD1   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/26.ts
+#EXTINF:-1,BEIN SPORTSHD2   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/27.ts
+#EXTINF:-1,BEIN SPORTSHD3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/28.ts
+#EXTINF:-1,BEIN SPORTSHD4   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/29.ts
+#EXTINF:-1,BEIN SPORTSHD5   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/30.ts
+#EXTINF:-1,BEIN SPORTSHD6   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/31.ts
+#EXTINF:-1,BEIN SPORTSHD7   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/32.ts
+#EXTINF:-1,BEIN SPORTSHD9   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/34.ts
+#EXTINF:-1,BEIN SPORTSHD10   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/35.ts
+#EXTINF:-1,BEIN SPORTSHD11   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2576.ts
+#EXTINF:-1,BEIN SPORTSHD12   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2577.ts
+#EXTINF:-1,BEIN SPORTSHD13   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2578.ts
+#EXTINF:-1,BEIN SPORTSHD14   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2579.ts
+#EXTINF:-1,BEIN SPORTSHD15   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2580.ts
+#EXTINF:-1,BEIN SPORTS HD1+   [1088x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/2939.ts
+#EXTINF:-1,BEIN SPORTS HD1   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/190.ts
+#EXTINF:-1,BEIN SPORTS HD2   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/191.ts
+#EXTINF:-1,BEIN SPORTS HD3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/192.ts
+#EXTINF:-1,BT SPORTS 1HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/282.ts
+#EXTINF:-1,BT SPORTS 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/281.ts
+#EXTINF:-1,SKY SPORTS NEWS   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/271.ts
+#EXTINF:-1,SKY SPORTS F1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/272.ts
+#EXTINF:-1,SKY SPORTS 1HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/275.ts
+#EXTINF:-1,SKY SPORTS 2HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/274.ts
+#EXTINF:-1,SKY SPORTS 4HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/776.ts
+#EXTINF:-1,SKY SPORTS 3HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/273.ts
+#EXTINF:-1,SKY SPORTS 5HD   [704x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/777.ts
+#EXTINF:-1,FOX SPORTS1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1573.ts
+#EXTINF:-1,FOX SPORTS2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1574.ts
+#EXTINF:-1,FOX SPORTS3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1575.ts
+#EXTINF:-1,FOX SPORTS4   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1576.ts
+#EXTINF:-1,SKY SPORTS 24HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/349.ts
+#EXTINF:-1,FOX SPORTS   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1392.ts
+#EXTINF:-1,FOX SPORTS5   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/1577.ts
+#EXTINF:-1,SKY SPORTS 1HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/328.ts
+#EXTINF:-1,SKY SPORTS 2HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/573.ts
+#EXTINF:-1,SKY SPORTS 3HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/574.ts
+#EXTINF:-1,SKY SPORTS HD1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/357.ts
+#EXTINF:-1,SKY SPORTS HD2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/358.ts
+#EXTINF:-1,BEIN SPORTS   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.201.221:8000/live/bouzaher/ryade/486.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6976.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6958.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6910.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6886.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6885.ts
+#EXTINF:-1, Sky Sports 5   [704x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6884.ts
+#EXTINF:-1, Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6883.ts
+#EXTINF:-1, Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6881.ts
+#EXTINF:-1, Sky Sports 4   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6882.ts
+#EXTINF:-1, Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6876.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6877.ts
+#EXTINF:-1, Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6880.ts
+#EXTINF:-1, Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6879.ts
+#EXTINF:-1, Sky Sports 2   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6878.ts
+#EXTINF:-1, SetantaSports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6857.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6849.ts
+#EXTINF:-1, EuroSports2   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6816.ts
+#EXTINF:-1, BT Sports ESPN   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6787.ts
+#EXTINF:-1, BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6786.ts
+#EXTINF:-1, BT Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6785.ts
+#EXTINF:-1, SPORTS TV   [720x496]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7062.ts
+#EXTINF:-1,RUS: Match Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7021.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7542.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7541.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7539.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [768x432]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7540.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x960]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7538.ts
+#EXTINF:-1,NBC Sports Extra 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7532.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7530.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7529.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7092.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7528.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7120.ts
+#EXTINF:-1,JPN: JSPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7119.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7490.ts
+#EXTINF:-1, Euro Sports 1   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7314.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7360.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7307.ts
+#EXTINF:-1, BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7306.ts
+#EXTINF:-1, BeinSports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7305.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7271.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7275.ts
+#EXTINF:-1,BeinSports 6HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7268.ts
+#EXTINF:-1,BeinSports 8HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7270.ts
+#EXTINF:-1,BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7265.ts
+#EXTINF:-1,BeinSports 5HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7267.ts
+#EXTINF:-1,BeinSports 4HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7266.ts
+#EXTINF:-1,BeinSports 7HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7269.ts
+#EXTINF:-1,BeinSports 2HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7264.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7261.ts
+#EXTINF:-1,BeinSports 14HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7262.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7259.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7260.ts
+#EXTINF:-1,BeinSports 10HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7258.ts
+#EXTINF:-1,BeinSports 1HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7257.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7236.ts
+#EXTINF:-1,Astro Sports 3   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7235.ts
+#EXTINF:-1,Astro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7234.ts
+#EXTINF:-1,Astro Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/7233.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/6969.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4592.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/5956.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4590.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4587.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4591.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/derya/derya/4584.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6976.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6958.ts
+#EXTINF:-1, Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6910.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6885.ts
+#EXTINF:-1, Sky Sports 5   [704x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6884.ts
+#EXTINF:-1, Sky Sports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6883.ts
+#EXTINF:-1, Sky Sports 4   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6882.ts
+#EXTINF:-1, Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6881.ts
+#EXTINF:-1, Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6880.ts
+#EXTINF:-1, Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6879.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6877.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6849.ts
+#EXTINF:-1, Sky Sports 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6876.ts
+#EXTINF:-1, SetantaSports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6857.ts
+#EXTINF:-1, Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6878.ts
+#EXTINF:-1, EuroSports2   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6816.ts
+#EXTINF:-1, BT Sports ESPN   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6787.ts
+#EXTINF:-1, BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6786.ts
+#EXTINF:-1, BT Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6785.ts
+#EXTINF:-1, SPORTS TV   [720x496]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7062.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7021.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7542.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7541.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [768x432]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7540.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7538.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7539.ts
+#EXTINF:-1,NBC Sports Extra 2   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7532.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7530.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7529.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7528.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7092.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7120.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7490.ts
+#EXTINF:-1,JPN: JSPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7119.ts
+#EXTINF:-1, Euro Sports 1   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7314.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7360.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7307.ts
+#EXTINF:-1, BeinSports 2HD   [1040x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7306.ts
+#EXTINF:-1, BeinSports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7305.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7275.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7271.ts
+#EXTINF:-1,BeinSports 8HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7270.ts
+#EXTINF:-1,BeinSports 7HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7269.ts
+#EXTINF:-1,BeinSports 6HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7268.ts
+#EXTINF:-1,BeinSports 4HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7266.ts
+#EXTINF:-1,BeinSports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7267.ts
+#EXTINF:-1,BeinSports 3HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7265.ts
+#EXTINF:-1,BeinSports 2HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7264.ts
+#EXTINF:-1,BeinSports 14HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7262.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7261.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7260.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7259.ts
+#EXTINF:-1,BeinSports 1HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7257.ts
+#EXTINF:-1,BeinSports 10HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7258.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7236.ts
+#EXTINF:-1,Astro Sports 3   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7235.ts
+#EXTINF:-1,Astro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7234.ts
+#EXTINF:-1,Astro Sports 1   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/7233.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4591.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/6969.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4592.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/5956.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4590.ts
+#EXTINF:-1,USA: NBC Sports   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4587.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/erol/erol/4584.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6976.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6958.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6886.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6910.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6885.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6884.ts
+#EXTINF:-1, Sky Sports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6883.ts
+#EXTINF:-1, Sky Sports 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6880.ts
+#EXTINF:-1, Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6882.ts
+#EXTINF:-1, Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6881.ts
+#EXTINF:-1, Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6879.ts
+#EXTINF:-1, Sky Sports 2   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6878.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6877.ts
+#EXTINF:-1, Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6876.ts
+#EXTINF:-1, SetantaSports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6857.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6849.ts
+#EXTINF:-1, EuroSports2   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6816.ts
+#EXTINF:-1, BT Sports ESPN   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6787.ts
+#EXTINF:-1, BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6786.ts
+#EXTINF:-1, BT Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6785.ts
+#EXTINF:-1, SPORTS TV   [720x496]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7062.ts
+#EXTINF:-1,RUS: Match Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7021.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7542.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7541.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [768x432]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7540.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7539.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x960]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7538.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7530.ts
+#EXTINF:-1,NBC Sports Extra 2   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7532.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7529.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7528.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7092.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7120.ts
+#EXTINF:-1,JPN: JSPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7119.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7490.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7360.ts
+#EXTINF:-1, Euro Sports 1   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7314.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7307.ts
+#EXTINF:-1, BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7306.ts
+#EXTINF:-1, BeinSports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7305.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7275.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7271.ts
+#EXTINF:-1,BeinSports 8HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7270.ts
+#EXTINF:-1,BeinSports 7HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7269.ts
+#EXTINF:-1,BeinSports 6HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7268.ts
+#EXTINF:-1,BeinSports 5HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7267.ts
+#EXTINF:-1,BeinSports 4HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7266.ts
+#EXTINF:-1,BeinSports 3HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7265.ts
+#EXTINF:-1,BeinSports 2HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7264.ts
+#EXTINF:-1,BeinSports 14HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7262.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7261.ts
+#EXTINF:-1,BeinSports 12HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7260.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7259.ts
+#EXTINF:-1,BeinSports 10HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7258.ts
+#EXTINF:-1,BeinSports 1HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7257.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7236.ts
+#EXTINF:-1,Astro Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7235.ts
+#EXTINF:-1,Astro Sports 2   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7234.ts
+#EXTINF:-1,Astro Sports 1   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/7233.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/6969.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/5956.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4592.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4590.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4591.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4587.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/francesco2/francesco2/4584.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6976.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6958.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6910.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6886.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6885.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6884.ts
+#EXTINF:-1, Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6883.ts
+#EXTINF:-1, Sky Sports 4   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6882.ts
+#EXTINF:-1, Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6881.ts
+#EXTINF:-1, Sky Sports 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6880.ts
+#EXTINF:-1, Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6878.ts
+#EXTINF:-1, Sky Sports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6879.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6877.ts
+#EXTINF:-1, Sky Sports 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6876.ts
+#EXTINF:-1, SetantaSports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6857.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6849.ts
+#EXTINF:-1, EuroSports2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6816.ts
+#EXTINF:-1, BT Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6786.ts
+#EXTINF:-1, BT Sports ESPN   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6787.ts
+#EXTINF:-1, BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6785.ts
+#EXTINF:-1, SPORTS TV   [720x496]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7062.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7021.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7542.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7541.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7540.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x960]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7538.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7539.ts
+#EXTINF:-1,NBC Sports Extra 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7532.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7530.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7529.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7528.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7092.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7120.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7490.ts
+#EXTINF:-1,JPN: JSPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7119.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7360.ts
+#EXTINF:-1, Euro Sports 1   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7314.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7307.ts
+#EXTINF:-1, BeinSports 2HD   [1040x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7306.ts
+#EXTINF:-1, BeinSports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7305.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7275.ts
+#EXTINF:-1,BeinSports 9HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7271.ts
+#EXTINF:-1,BeinSports 8HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7270.ts
+#EXTINF:-1,BeinSports 7HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7269.ts
+#EXTINF:-1,BeinSports 6HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7268.ts
+#EXTINF:-1,BeinSports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7267.ts
+#EXTINF:-1,BeinSports 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7266.ts
+#EXTINF:-1,BeinSports 3HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7265.ts
+#EXTINF:-1,BeinSports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7264.ts
+#EXTINF:-1,BeinSports 14HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7262.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7261.ts
+#EXTINF:-1,BeinSports 12HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7260.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7259.ts
+#EXTINF:-1,BeinSports 10HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7258.ts
+#EXTINF:-1,BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7257.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7236.ts
+#EXTINF:-1,Astro Sports 3   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7235.ts
+#EXTINF:-1,Astro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7234.ts
+#EXTINF:-1,Astro Sports 1   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/7233.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/6969.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/5956.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4592.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4591.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4590.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4587.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/george1/george1/4584.ts
+#EXTINF:-1,USA/CA: Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6976.ts
+#EXTINF:-1, SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6958.ts
+#EXTINF:-1,US BYU Sports TV HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6910.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6886.ts
+#EXTINF:-1, Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6885.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6884.ts
+#EXTINF:-1, Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6883.ts
+#EXTINF:-1, Sky Sports 4   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6882.ts
+#EXTINF:-1, Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6881.ts
+#EXTINF:-1, Sky Sports 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6880.ts
+#EXTINF:-1, Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6879.ts
+#EXTINF:-1, Sky Sports 2   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6878.ts
+#EXTINF:-1, Sky Sports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6877.ts
+#EXTINF:-1, Sky Sports 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6876.ts
+#EXTINF:-1, SetantaSports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6857.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6849.ts
+#EXTINF:-1, EuroSports2   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6816.ts
+#EXTINF:-1, BT Sports ESPN   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6787.ts
+#EXTINF:-1, BT Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6786.ts
+#EXTINF:-1, BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6785.ts
+#EXTINF:-1, SPORTS TV   [720x496]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7062.ts
+#EXTINF:-1,RUS: Match Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7021.ts
+#EXTINF:-1,NL FOX SPORTS 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7542.ts
+#EXTINF:-1,NL FOX SPORTS 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7541.ts
+#EXTINF:-1,NL FOX SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7540.ts
+#EXTINF:-1,NL FOX SPORTS 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7539.ts
+#EXTINF:-1,NL FOX SPORTS 1 HD   [1280x960]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7538.ts
+#EXTINF:-1,NBC Sports Extra 2   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7532.ts
+#EXTINF:-1, ASTRO SPORTS 3HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7530.ts
+#EXTINF:-1, ASTRO SPORTS 2HD   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7529.ts
+#EXTINF:-1, ASTRO SPORTS 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7528.ts
+#EXTINF:-1,MIO ELEVEN SPORTS   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7092.ts
+#EXTINF:-1,JPN: JSPORTS 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7120.ts
+#EXTINF:-1,JPN: JSPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7119.ts
+#EXTINF:-1, Sky Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7490.ts
+#EXTINF:-1,Euro Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7360.ts
+#EXTINF:-1, Euro Sports 1   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7314.ts
+#EXTINF:-1, BeinSports 2HD   [1040x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7306.ts
+#EXTINF:-1, BeinSports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7307.ts
+#EXTINF:-1, Bein Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7275.ts
+#EXTINF:-1, BeinSports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7305.ts
+#EXTINF:-1,BeinSports 9HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7271.ts
+#EXTINF:-1,BeinSports 8HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7270.ts
+#EXTINF:-1,BeinSports 7HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7269.ts
+#EXTINF:-1,BeinSports 6HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7268.ts
+#EXTINF:-1,BeinSports 5HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7267.ts
+#EXTINF:-1,BeinSports 4HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7266.ts
+#EXTINF:-1,BeinSports 3HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7265.ts
+#EXTINF:-1,BeinSports 2HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7264.ts
+#EXTINF:-1,BeinSports 14HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7262.ts
+#EXTINF:-1,BeinSports 13HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7261.ts
+#EXTINF:-1,BeinSports 12HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7260.ts
+#EXTINF:-1,BeinSports 11HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7259.ts
+#EXTINF:-1,BeinSports 10HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7258.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7236.ts
+#EXTINF:-1,BeinSports 1HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7257.ts
+#EXTINF:-1,Astro Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7235.ts
+#EXTINF:-1,Astro Sports 2   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7234.ts
+#EXTINF:-1,Astro Sports 1   [864x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/7233.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/5956.ts
+#EXTINF:-1,(US) Fox Sports 1HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/6969.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4592.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4591.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4590.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4587.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/jase/jase/4584.ts
+#EXTINF:-1,TR Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/5956.ts
+#EXTINF:-1,USA: SportsNet World   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4592.ts
+#EXTINF:-1,USA: SportsNet Ontario   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4591.ts
+#EXTINF:-1,USA: SportsNet ONE   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4590.ts
+#EXTINF:-1,USA: NBC Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4587.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4585.ts
+#EXTINF:-1,USA: Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://89.163.148.31:8000/live/maurizio/maurizio/4584.ts
+#EXTINF:-1, Sky Sports F1 UK   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/550.ts
+#EXTINF:-1,NL FOX SPORTS 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/1157.ts
+#EXTINF:-1, star sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://IPTV-VOLKAN.NET:8000/live/stream3-iptv/test12/2442.ts
+#EXTINF:-1,EX YU: Fight Sports (RS)   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/2101.ts
+#EXTINF:-1, Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/2632.ts
+#EXTINF:-1, Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/2466.ts
+#EXTINF:-1, Bein Sports 1   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/2470.ts
+#EXTINF:-1, TRING SPORTS 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1926.ts
+#EXTINF:-1, TRING SPORTS 2   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1925.ts
+#EXTINF:-1, TRING SPORTS 1   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1924.ts
+#EXTINF:-1, Sky Sports News HQ   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/481.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/480.ts
+#EXTINF:-1, Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/479.ts
+#EXTINF:-1, Sky Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/478.ts
+#EXTINF:-1, Sky Sports 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/477.ts
+#EXTINF:-1, Sky Sports 2   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/476.ts
+#EXTINF:-1, Premier Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1073.ts
+#EXTINF:-1, BT Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/433.ts
+#EXTINF:-1, Fox Sports 5   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1728.ts
+#EXTINF:-1, Fox Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1727.ts
+#EXTINF:-1, Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1726.ts
+#EXTINF:-1, Fox Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1725.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1724.ts
+#EXTINF:-1, Sky Sports F1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/397.ts
+#EXTINF:-1, Sky Sports 2 HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/394.ts
+#EXTINF:-1, Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/393.ts
+#EXTINF:-1, Sky Sports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/320.ts
+#EXTINF:-1, Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/321.ts
+#EXTINF:-1, MBC Pro Sports 3   [640x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/1741.ts
+#EXTINF:-1, Bein Sports 7 HD   [1376x768]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/770.ts
-#EXTINF:-1,Bein Sports 6 HD
+#EXTINF:-1, Bein Sports 6 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/771.ts
-#EXTINF:-1,Bein Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/772.ts
-#EXTINF:-1,Bein Sports 4 HD
+#EXTINF:-1, Bein Sports 4 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/773.ts
-#EXTINF:-1,Bein Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/774.ts
-#EXTINF:-1,Bein Sports 2 HD
+#EXTINF:-1, Bein Sports 2 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/775.ts
-#EXTINF:-1,Bein Sports 12 HD
+#EXTINF:-1, Bein Sports 12 HD   [1376x768]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/776.ts
-#EXTINF:-1,Bein Sports 11 HD
+#EXTINF:-1, Bein Sports 11 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/777.ts
-#EXTINF:-1,Bein Sports 10 HD
+#EXTINF:-1, Bein Sports 10 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/778.ts
-#EXTINF:-1,Bein Sports 1 HD
+#EXTINF:-1, Super Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/284.ts
+#EXTINF:-1,beIN SPORTS HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/3350.ts
+#EXTINF:-1,beIN SPORTS News HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/3349.ts
+#EXTINF:-1,Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4862.ts
+#EXTINF:-1,SPORTS TV   [720x416]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4653.ts
+#EXTINF:-1,Sky Sports News HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4732.ts
+#EXTINF:-1,SKY SPORTS NEWS HQ   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4770.ts
+#EXTINF:-1,sky sports news hd   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4771.ts
+#EXTINF:-1,Sky Sports F1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4772.ts
+#EXTINF:-1,Sky Sports 4 HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4773.ts
+#EXTINF:-1,Sky Sports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4774.ts
+#EXTINF:-1,Sky Sports 2 HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4775.ts
+#EXTINF:-1,SKY SPORTS 1 HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4776.ts
+#EXTINF:-1,Setanta Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4787.ts
+#EXTINF:-1,beIN Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1.ts
+#EXTINF:-1,beIN Sports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/2.ts
+#EXTINF:-1,beIN Sports 3 HD   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/3.ts
+#EXTINF:-1,beIN Sports 4 HD   [1280x928]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/4.ts
+#EXTINF:-1,beIN Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/5.ts
+#EXTINF:-1,beIN Sports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/6.ts
+#EXTINF:-1,beIN Sports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/7.ts
+#EXTINF:-1,beIN Sports 8 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/8.ts
+#EXTINF:-1,beIN Sports 10 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/10.ts
+#EXTINF:-1,beIN Sports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/9.ts
+#EXTINF:-1,beIN Sports 11 EN HD   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/11.ts
+#EXTINF:-1,beIN Sports 12 EN HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/12.ts
+#EXTINF:-1,beIN Sports 13 FR HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/13.ts
+#EXTINF:-1,beIN Sports 14 FR HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/14.ts
+#EXTINF:-1,OSN AD Sports 2 HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/321.ts
+#EXTINF:-1,OSN Sports1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/270.ts
+#EXTINF:-1,OSN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/324.ts
+#EXTINF:-1, FOX 2 SPORTS   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/660.ts
+#EXTINF:-1, Premier Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/23.ts
+#EXTINF:-1, Setanta Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/652.ts
+#EXTINF:-1, Sky Sports News HQ   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/392.ts
+#EXTINF:-1, Sky Sports F1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/393.ts
+#EXTINF:-1, Sky Sports 5   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/398.ts
+#EXTINF:-1, Sky Sports 4   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/397.ts
+#EXTINF:-1, Sky Sports 3   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/396.ts
+#EXTINF:-1, Sky Sports 2   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/395.ts
+#EXTINF:-1, Sky Sports 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/394.ts
+#EXTINF:-1, BT Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/402.ts
+#EXTINF:-1, BT Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/401.ts
+#EXTINF:-1,Sky Sports Box Office   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1314.ts
+#EXTINF:-1,Kuwait Sports HD   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1425.ts
+#EXTINF:-1,DUBAI Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/167.ts
+#EXTINF:-1,Sharjah Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/753.ts
+#EXTINF:-1,Fox Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/157.ts
+#EXTINF:-1,Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1307.ts
+#EXTINF:-1,Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1306.ts
+#EXTINF:-1,beinsports 1HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/9.ts
+#EXTINF:-1,beinsports 2HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1.ts
+#EXTINF:-1,beinsports 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/10.ts
+#EXTINF:-1,beinsports 4HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/11.ts
+#EXTINF:-1,beinsports 5HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/12.ts
+#EXTINF:-1,AR Bein Sports 5 HD backup2   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1459.ts
+#EXTINF:-1,beinsports 6HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/13.ts
+#EXTINF:-1,beinsports 7HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/14.ts
+#EXTINF:-1,AR Bein Sports 6 HD backup2   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1460.ts
+#EXTINF:-1,beinsports 8HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/15.ts
+#EXTINF:-1,AR Bein SportS 7 HD backup2   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1461.ts
+#EXTINF:-1,AR Bein Sports 8 HD backup2   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1462.ts
+#EXTINF:-1,beinsports 9HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/16.ts
+#EXTINF:-1,AR Bein Sports 9 HD backup2   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1463.ts
+#EXTINF:-1,beinsports 10HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/17.ts
+#EXTINF:-1,AR beIN Sports 11HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1353.ts
+#EXTINF:-1,AR beIN Sports 12HD   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1354.ts
+#EXTINF:-1,AR BEIN SPORTS 13HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1355.ts
+#EXTINF:-1,AR BEIN SPORTS 14HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1356.ts
+#EXTINF:-1,AR BEIN SPORTS 15HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1357.ts
+#EXTINF:-1,AR BEIN SPORTS 16HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1358.ts
+#EXTINF:-1,AR BEIN SPORTS 17HD   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1359.ts
+#EXTINF:-1,FR BeIN SPORTS 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1038.ts
+#EXTINF:-1,FR BeIN SPORTS 2 HD   [1040x592]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1039.ts
+#EXTINF:-1,FR BeIN SPORTS 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1040.ts
+#EXTINF:-1, BT Sports Europe   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1332.ts
+#EXTINF:-1, BT Sports Europe HD   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1384.ts
+#EXTINF:-1, Premier Sports HD   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1229.ts
+#EXTINF:-1,StarSports1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1496.ts
+#EXTINF:-1,StarSports1hd   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1495.ts
+#EXTINF:-1,StarSports2hd   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1494.ts
+#EXTINF:-1,StarSports3hd   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1493.ts
+#EXTINF:-1,StarSports4hd   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.42.177:25461/live/redson-errifi/startimes/1492.ts
+#EXTINF:-1,USA: AFN Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/2412.ts
+#EXTINF:-1,USA: AFN Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/2414.ts
+#EXTINF:-1,USA: AFN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/2413.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1972.ts
+#EXTINF:-1, Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1379.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1837.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1836.ts
+#EXTINF:-1,Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1796.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1799.ts
+#EXTINF:-1,Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1798.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1797.ts
+#EXTINF:-1,Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1828.ts
+#EXTINF:-1,Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1827.ts
+#EXTINF:-1, beINSports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/882.ts
+#EXTINF:-1, beINSports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/883.ts
+#EXTINF:-1, beINSports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/884.ts
+#EXTINF:-1, beINSports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/885.ts
+#EXTINF:-1, beINSports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/886.ts
+#EXTINF:-1, beINSports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/887.ts
+#EXTINF:-1, beINSports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/888.ts
+#EXTINF:-1, beINSports 8 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/889.ts
+#EXTINF:-1, beINSports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1729.ts
+#EXTINF:-1, beINSports 10 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1730.ts
+#EXTINF:-1, beINSports 11 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/1769.ts
+#EXTINF:-1, Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/spartak11/Y2Rk6sC0r9/2033.ts
+#EXTINF:-1,USA : Fox Sports 2 HD   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1317.ts
+#EXTINF:-1,USA : Fox Sports 1 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1318.ts
+#EXTINF:-1,USA : Bein Sports USA HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1321.ts
+#EXTINF:-1,USA : AFN SPORTS HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1322.ts
+#EXTINF:-1,USA : AFN SPORTS 2   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1323.ts
+#EXTINF:-1,USA : AFN SPORTS   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1324.ts
+#EXTINF:-1, Sky Sports HD 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1329.ts
+#EXTINF:-1, Setanta Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1326.ts
+#EXTINF:-1, Fox Sports 6   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1357.ts
+#EXTINF:-1, Fox Sports 5   [848x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1358.ts
+#EXTINF:-1, Fox Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1359.ts
+#EXTINF:-1, Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1360.ts
+#EXTINF:-1, Fox Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1361.ts
+#EXTINF:-1, Fox Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1362.ts
+#EXTINF:-1, Ten Sports HD   [640x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1378.ts
+#EXTINF:-1, Star Sports3 HD   [720x416]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1380.ts
+#EXTINF:-1, Star Sports2 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1376.ts
+#EXTINF:-1, Star Sports1 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1377.ts
+#EXTINF:-1, beIN SPORTS 3HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1381.ts
+#EXTINF:-1, beIN SPORTS 2HD   [640x368]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1382.ts
+#EXTINF:-1, beIN SPORTS1 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1383.ts
+#EXTINF:-1, AD Sports 2   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1391.ts
+#EXTINF:-1, AD Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1392.ts
+#EXTINF:-1, beIN Sports 9 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1393.ts
+#EXTINF:-1, beIN Sports 8 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1394.ts
+#EXTINF:-1, beIN Sports 7 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1395.ts
+#EXTINF:-1, beIN Sports 6 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1396.ts
+#EXTINF:-1, beIN Sports 5 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1397.ts
+#EXTINF:-1, beIN Sports 4 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1398.ts
+#EXTINF:-1, beIN Sports 3 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1399.ts
+#EXTINF:-1, beIN Sports 2 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1400.ts
+#EXTINF:-1, Bein Sports 17 HD   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1401.ts
+#EXTINF:-1, Bein Sports 16 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1402.ts
+#EXTINF:-1, Bein Sports 15 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1403.ts
+#EXTINF:-1, beIN Sports 14 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1404.ts
+#EXTINF:-1, beIN Sports 13 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1405.ts
+#EXTINF:-1, beIN Sports 12 HD   [720x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1406.ts
+#EXTINF:-1, beIN Sports 11 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1407.ts
+#EXTINF:-1, beIN Sports 10 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1408.ts
+#EXTINF:-1, beIN Sports 1 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1409.ts
+#EXTINF:-1, beIN SPorts   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1410.ts
+#EXTINF:-1,USA: AFN Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/2412.ts
+#EXTINF:-1,USA: AFN Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/2414.ts
+#EXTINF:-1,USA: AFN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/2413.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1972.ts
+#EXTINF:-1, Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1379.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1837.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1836.ts
+#EXTINF:-1,Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1796.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1799.ts
+#EXTINF:-1,Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1798.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1797.ts
+#EXTINF:-1,Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1828.ts
+#EXTINF:-1,Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1827.ts
+#EXTINF:-1, beINSports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/882.ts
+#EXTINF:-1, beINSports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/883.ts
+#EXTINF:-1, beINSports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/884.ts
+#EXTINF:-1, beINSports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/885.ts
+#EXTINF:-1, beINSports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/886.ts
+#EXTINF:-1, beINSports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/887.ts
+#EXTINF:-1, beINSports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/888.ts
+#EXTINF:-1, beINSports 8 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/889.ts
+#EXTINF:-1, beINSports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1729.ts
+#EXTINF:-1, beINSports 10 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1730.ts
+#EXTINF:-1, beINSports 11 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/1769.ts
+#EXTINF:-1, Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/ariva11/iQzEqKh8hu/2033.ts
+#EXTINF:-1,USA: AFN Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/2412.ts
+#EXTINF:-1,USA: AFN Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/2414.ts
+#EXTINF:-1,USA: AFN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/2413.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1972.ts
+#EXTINF:-1, Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1379.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1837.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1836.ts
+#EXTINF:-1,Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1796.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1799.ts
+#EXTINF:-1,Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1798.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1797.ts
+#EXTINF:-1,Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1828.ts
+#EXTINF:-1,Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1827.ts
+#EXTINF:-1, beINSports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/882.ts
+#EXTINF:-1, beINSports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/883.ts
+#EXTINF:-1, beINSports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/884.ts
+#EXTINF:-1, beINSports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/885.ts
+#EXTINF:-1, beINSports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/886.ts
+#EXTINF:-1, beINSports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/887.ts
+#EXTINF:-1, beINSports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/888.ts
+#EXTINF:-1, beINSports 8 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/889.ts
+#EXTINF:-1, beINSports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1729.ts
+#EXTINF:-1, beINSports 10 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1730.ts
+#EXTINF:-1, beINSports 11 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/1769.ts
+#EXTINF:-1, Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/drenbox11/qMhKktAMPb/2033.ts
+#EXTINF:-1,USA: AFN Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/2412.ts
+#EXTINF:-1,USA: AFN Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/2414.ts
+#EXTINF:-1,USA: AFN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/2413.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1972.ts
+#EXTINF:-1, Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1379.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1837.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1836.ts
+#EXTINF:-1,Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1796.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1799.ts
+#EXTINF:-1,Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1798.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1797.ts
+#EXTINF:-1,Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1828.ts
+#EXTINF:-1,Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1827.ts
+#EXTINF:-1, beINSports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/882.ts
+#EXTINF:-1, beINSports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/883.ts
+#EXTINF:-1, beINSports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/884.ts
+#EXTINF:-1, beINSports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/885.ts
+#EXTINF:-1, beINSports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/886.ts
+#EXTINF:-1, beINSports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/887.ts
+#EXTINF:-1, beINSports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/888.ts
+#EXTINF:-1, beINSports 8 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/889.ts
+#EXTINF:-1, beINSports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1729.ts
+#EXTINF:-1, beINSports 10 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1730.ts
+#EXTINF:-1, beINSports 11 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/1769.ts
+#EXTINF:-1, Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/enigma11/RfhSBzfPcS/2033.ts
+#EXTINF:-1,Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1698.ts
+#EXTINF:-1,Sky Sports F1 UK   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1696.ts
+#EXTINF:-1,Sky Sports Box Office UK   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1695.ts
+#EXTINF:-1,Sky Sports 5 UK   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1693.ts
+#EXTINF:-1,Sky Sports 4 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1691.ts
+#EXTINF:-1,Sky Sports 3 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1689.ts
+#EXTINF:-1,Sky Sports 2 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1687.ts
+#EXTINF:-1,Sky Sports 1 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1685.ts
+#EXTINF:-1,Sky Sports F1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/724.ts
+#EXTINF:-1,Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/725.ts
+#EXTINF:-1,Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/726.ts
+#EXTINF:-1,Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/727.ts
+#EXTINF:-1,Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/728.ts
+#EXTINF:-1,Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/729.ts
+#EXTINF:-1,Premiere Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1494.ts
+#EXTINF:-1,Setanta Sports Ireland   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/717.ts
+#EXTINF:-1,Fox Sports 5   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4861.ts
+#EXTINF:-1,EuroSports 1   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/722.ts
+#EXTINF:-1,EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/721.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1893.ts
+#EXTINF:-1,TRACE SportStars   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1889.ts
+#EXTINF:-1,Mio Sports   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1879.ts
+#EXTINF:-1,BEIN Sports 1 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1178.ts
+#EXTINF:-1,BEIN Sports 3 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1179.ts
+#EXTINF:-1,BEIN Sports 4 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1180.ts
+#EXTINF:-1,BEIN Sports 5 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1181.ts
+#EXTINF:-1,BEIN Sports 6 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1182.ts
+#EXTINF:-1,BEIN Sports 7 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1183.ts
+#EXTINF:-1,BEIN Sports 8 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1184.ts
+#EXTINF:-1,BEIN Sports 9 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1185.ts
+#EXTINF:-1,BEIN Sports 10 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1186.ts
+#EXTINF:-1,Star Sports 1 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/493.ts
+#EXTINF:-1,Star Sports 2 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/486.ts
+#EXTINF:-1,Star Sports 3 HD   [720x416]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/492.ts
+#EXTINF:-1,Star Sports 4 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/491.ts
+#EXTINF:-1,Fox Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/415.ts
+#EXTINF:-1,Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/416.ts
+#EXTINF:-1,Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/417.ts
+#EXTINF:-1,Fox Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/418.ts
+#EXTINF:-1,Fox Sports 5   [848x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/419.ts
+#EXTINF:-1,Fox Sports 6   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/420.ts
+#EXTINF:-1,US SPORTSNET ONTARIO   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/gb/gb/1974.ts
+#EXTINF:-1,Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1698.ts
+#EXTINF:-1,Sky Sports F1 UK   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1696.ts
+#EXTINF:-1,Sky Sports Box Office UK   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1695.ts
+#EXTINF:-1,Sky Sports 5 UK   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1693.ts
+#EXTINF:-1,Sky Sports 4 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1691.ts
+#EXTINF:-1,Sky Sports 3 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1689.ts
+#EXTINF:-1,Sky Sports 2 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1687.ts
+#EXTINF:-1,Sky Sports 1 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1685.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1981.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1980.ts
+#EXTINF:-1,Sky Sports F1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/724.ts
+#EXTINF:-1,Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/725.ts
+#EXTINF:-1,Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/726.ts
+#EXTINF:-1,Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/727.ts
+#EXTINF:-1,Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/728.ts
+#EXTINF:-1,Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/729.ts
+#EXTINF:-1,Premiere Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1494.ts
+#EXTINF:-1,Setanta Sports Ireland   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/717.ts
+#EXTINF:-1,EuroSports 1   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/722.ts
+#EXTINF:-1,EuroSports 2   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/721.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1893.ts
+#EXTINF:-1,TRACE SportStars   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1889.ts
+#EXTINF:-1,Mio Sports   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1879.ts
+#EXTINF:-1,BEIN Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1178.ts
+#EXTINF:-1,BEIN Sports 3 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1179.ts
+#EXTINF:-1,BEIN Sports 4 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1180.ts
+#EXTINF:-1,BEIN Sports 5 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1181.ts
+#EXTINF:-1,BEIN Sports 6 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1182.ts
+#EXTINF:-1,BEIN Sports 7 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1183.ts
+#EXTINF:-1,BEIN Sports 8 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1184.ts
+#EXTINF:-1,BEIN Sports 9 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1185.ts
+#EXTINF:-1,BEIN Sports 10 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1186.ts
+#EXTINF:-1,Star Sports 1 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/493.ts
+#EXTINF:-1,Star Sports 2 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/486.ts
+#EXTINF:-1,Star Sports 3 HD   [720x416]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/492.ts
+#EXTINF:-1,Star Sports 4 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/491.ts
+#EXTINF:-1,Fox Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/415.ts
+#EXTINF:-1,Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/416.ts
+#EXTINF:-1,Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/417.ts
+#EXTINF:-1,Fox Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/418.ts
+#EXTINF:-1,Fox Sports 5   [848x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/419.ts
+#EXTINF:-1,Fox Sports 6   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/420.ts
+#EXTINF:-1,US SPORTSNET ONTARIO   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/julie/julie/1974.ts
+#EXTINF:-1,USA: AFN Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/2412.ts
+#EXTINF:-1,USA: AFN Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/2414.ts
+#EXTINF:-1,USA: AFN Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/2413.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1973.ts
+#EXTINF:-1, Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1972.ts
+#EXTINF:-1, Sports TV   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1379.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1837.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1836.ts
+#EXTINF:-1,Sky Sports F1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1796.ts
+#EXTINF:-1,Sky Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1799.ts
+#EXTINF:-1,Sky Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1798.ts
+#EXTINF:-1,Sky Sports 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1797.ts
+#EXTINF:-1,Sky Sports 4   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1828.ts
+#EXTINF:-1,Sky Sports 5   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1827.ts
+#EXTINF:-1, beINSports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/882.ts
+#EXTINF:-1, beINSports 2 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/883.ts
+#EXTINF:-1, beINSports 3 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/884.ts
+#EXTINF:-1, beINSports 4 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/885.ts
+#EXTINF:-1, beINSports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/886.ts
+#EXTINF:-1, beINSports 6 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/887.ts
+#EXTINF:-1, beINSports 7 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/888.ts
+#EXTINF:-1, beINSports 8 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/889.ts
+#EXTINF:-1, beINSports 9 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1729.ts
+#EXTINF:-1, beINSports 10 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1730.ts
+#EXTINF:-1, beINSports 11 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/1769.ts
+#EXTINF:-1, Fox Sports HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/mix11/7dCPcMF9rq/2033.ts
+#EXTINF:-1,Sky Sports News HD   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1698.ts
+#EXTINF:-1,Sky Sports F1 UK   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1696.ts
+#EXTINF:-1,Sky Sports Box Office UK   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1695.ts
+#EXTINF:-1,Sky Sports 5 UK   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1693.ts
+#EXTINF:-1,Sky Sports 4 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1691.ts
+#EXTINF:-1,Sky Sports 3 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1689.ts
+#EXTINF:-1,Sky Sports 2 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1687.ts
+#EXTINF:-1,Sky Sports 1 UK   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1685.ts
+#EXTINF:-1,BT Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1981.ts
+#EXTINF:-1,BT Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1980.ts
+#EXTINF:-1,Sky Sports F1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/724.ts
+#EXTINF:-1,Sky Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/725.ts
+#EXTINF:-1,Sky Sports 2 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/726.ts
+#EXTINF:-1,Sky Sports 3 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/727.ts
+#EXTINF:-1,Sky Sports 4 HD   [1920x1088]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/728.ts
+#EXTINF:-1,Sky Sports 5 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/729.ts
+#EXTINF:-1,Premiere Sports   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1494.ts
+#EXTINF:-1,Setanta Sports Ireland   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/717.ts
+#EXTINF:-1,EuroSports 1   [544x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/722.ts
+#EXTINF:-1,EuroSports 2   [960x544]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/721.ts
+#EXTINF:-1,Astro Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1893.ts
+#EXTINF:-1,TRACE SportStars   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1889.ts
+#EXTINF:-1,Mio Sports   [1024x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1879.ts
+#EXTINF:-1,BEIN Sports 1 HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1178.ts
+#EXTINF:-1,BEIN Sports 3 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1179.ts
+#EXTINF:-1,BEIN Sports 4 HD   [1376x768]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1180.ts
+#EXTINF:-1,BEIN Sports 5 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1181.ts
+#EXTINF:-1,BEIN Sports 6 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1182.ts
+#EXTINF:-1,BEIN Sports 7 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1183.ts
+#EXTINF:-1,BEIN Sports 8 HD   [1280x736]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1184.ts
+#EXTINF:-1,BEIN Sports 9 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1185.ts
+#EXTINF:-1,BEIN Sports 10 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1186.ts
+#EXTINF:-1,Star Sports 1 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/493.ts
+#EXTINF:-1,Star Sports 2 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/486.ts
+#EXTINF:-1,Star Sports 3 HD   [720x416]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/492.ts
+#EXTINF:-1,Star Sports 4 HD   [1920x1080]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/491.ts
+#EXTINF:-1,Fox Sports 1   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/415.ts
+#EXTINF:-1,Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/416.ts
+#EXTINF:-1,Fox Sports 3   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/417.ts
+#EXTINF:-1,Fox Sports 4   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/418.ts
+#EXTINF:-1,Fox Sports 5   [848x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/419.ts
+#EXTINF:-1,Fox Sports 6   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/420.ts
+#EXTINF:-1,US SPORTSNET ONTARIO   [864x480]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.70.112:8000/live/pg/pg/1974.ts
+#EXTINF:-1,Fox Sports 2   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4863.ts
+#EXTINF:-1,Fox Sports 6   [720x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.15.23:8000/live/efILR0i2c8q/BZO1TvpPGDv/4860.ts
+#EXTINF:-1, Bein Sports 1 HD   [1280x736]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/779.ts
+#EXTINF:-1,Eir Sports1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/264.ts
+#EXTINF:-1,Arena SPORTS 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1308.ts
+#EXTINF:-1,Jordan Sports   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1448.ts
+#EXTINF:-1,USA: Fox Sports 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/389.ts
+#EXTINF:-1,Arena SPORTS 3   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1310.ts
+#EXTINF:-1, Star Sports4 HD   [704x400]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://37.59.17.49:6969/live/tDB0VIF31V/xgkxyTskEB/1379.ts
+#EXTINF:-1,Arena SPORTS 2   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1309.ts
+#EXTINF:-1,beIN Sports 15 ES HD   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/15.ts
+#EXTINF:-1,Dubai Sports1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/1411.ts
+#EXTINF:-1, Fox Sports 1   [1280x720]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.243.155/live/android/n1JczePTXR/400.ts
+#EXTINF:-1, Sky Sports 1   [704x576]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.73.239.14:8000/live/cardsharing/yg4tdh/475.ts
