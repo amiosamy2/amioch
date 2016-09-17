@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,SPORTS TV   [720x488]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://77.223.131.175/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1, Fox Sports 1   [1280x720]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1973.ts
-#EXTINF:-1, Fox Sports 2   [1280x720]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1972.ts
-#EXTINF:-1,Sky Sports 1   [1280x720]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1799.ts
-#EXTINF:-1,Sky Sports 3   [1280x720]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.134.217.235:1557/live/gh/gh/1797.ts
 #EXTINF:-1,(AR) BEIN SPORTS 10 HD   [1920x1080]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/test11/test11/2638.ts
 #EXTINF:-1,(AR) BEIN SPORTS 11 HD   [1920x1080]
