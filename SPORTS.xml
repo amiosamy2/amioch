@@ -1,591 +1,193 @@
 #EXTM3U
-#EXTINF:-1,DE: zdf-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/324.ts
-#EXTINF:-1,DE: vox-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/325.ts
-#EXTINF:-1,DE: tnt-serie-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/321.ts
-#EXTINF:-1,DE: tnt-film-tcm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/322.ts
-#EXTINF:-1,DE: syfy-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/323.ts
-#EXTINF:-1,DE: sport1-us-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/337.ts
-#EXTINF:-1,DE: sport1-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/326.ts
-#EXTINF:-1,DE: sky-sport-news-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/310.ts
-#EXTINF:-1,DE: sky-sport-hd-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/302.ts
-#EXTINF:-1,DE: sky-sport-hd-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/301.ts
-#EXTINF:-1,DE: sky-nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/311.ts
-#EXTINF:-1,DE: sky-krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/312.ts
-#EXTINF:-1,DE: sky-hits-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/313.ts
-#EXTINF:-1,DE: sky-emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/314.ts
-#EXTINF:-1,DE: sky-comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/315.ts
-#EXTINF:-1,DE: sky-cinema-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/316.ts
-#EXTINF:-1,DE: sky-cinema-24-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/317.ts
-#EXTINF:-1,DE: sky-cinema-1-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/318.ts
-#EXTINF:-1,DE: sky-bundesliga-hd-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/319.ts
-#EXTINF:-1,DE: sky-atlantic-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/320.ts
-#EXTINF:-1,DE: sky-atlantic-1-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/299.ts
-#EXTINF:-1,DE: sky-action-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/300.ts
-#EXTINF:-1,DE: sat-1-gold-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/327.ts
-#EXTINF:-1,DE: prosieben-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/328.ts
-#EXTINF:-1,DE: pro7-maxx-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/329.ts
-#EXTINF:-1,DE: natgeo-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/307.ts
-#EXTINF:-1,DE: nat-geo-wild-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/308.ts
-#EXTINF:-1,DE: eurosport-2-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/335.ts
-#EXTINF:-1,DE: eurosport-1-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/336.ts
-#EXTINF:-1,DE: e-entertainm-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/331.ts
-#EXTINF:-1,DE: disney-xd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/303.ts
-#EXTINF:-1,DE: disney-junior-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/304.ts
-#EXTINF:-1,DE: disney-cinemagic-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/305.ts
-#EXTINF:-1,DE: disney-channel-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/306.ts
-#EXTINF:-1,DE: discovery-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/309.ts
-#EXTINF:-1,DE: cartoon-network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/330.ts
-#EXTINF:-1,DE: axn-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/334.ts
-#EXTINF:-1,DE: a-e
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/333.ts
-#EXTINF:-1,DE: 13th-street-hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/332.ts
-#EXTINF:-1,DE-WDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/158.ts
-#EXTINF:-1,DE-WDR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/161.ts
-#EXTINF:-1,DE-SWR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/160.ts
-#EXTINF:-1,DE-SERVUS TV DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/150.ts
-#EXTINF:-1,DE-ORF 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/151.ts
-#EXTINF:-1,DE-NDR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/157.ts
-#EXTINF:-1,DE-NDR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/159.ts
-#EXTINF:-1,DE-N 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/152.ts
-#EXTINF:-1,DE-HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/153.ts
-#EXTINF:-1,DE-DW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/148.ts
-#EXTINF:-1,DE-BUNDESLIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/156.ts
-#EXTINF:-1,DE-ARTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/149.ts
-#EXTINF:-1,DE-ARD DAS ERSTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/154.ts
-#EXTINF:-1,DE-3 SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/155.ts
-#EXTINF:-1,XXX: Adult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/264.ts
-#EXTINF:-1,XXX_BRAZZERRS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/278.ts
-#EXTINF:-1,RU: RedlightPremium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/265.ts
-#EXTINF:-1,RU: PINK OTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/266.ts
-#EXTINF:-1,RU: Brazzers
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/267.ts
-#EXTINF:-1,RU: Blue Hustler
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/268.ts
-#EXTINF:-1,ASIA_Zing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/283.ts
-#EXTINF:-1,ASIA_Zee Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/284.ts
-#EXTINF:-1,ASIA_Zee Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/285.ts
-#EXTINF:-1,ASIA_Star Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/286.ts
-#EXTINF:-1,ASIA_Star Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/287.ts
-#EXTINF:-1,ASIA_SONY SAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/288.ts
-#EXTINF:-1,ASIA_Sony Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/289.ts
-#EXTINF:-1,ASIA_Rishtey Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/290.ts
-#EXTINF:-1,ASIA_NDTV Good Times
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/291.ts
-#EXTINF:-1,ASIA_NDTV 24x7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/292.ts
-#EXTINF:-1,ASIA_Hum Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/293.ts
-#EXTINF:-1,ASIA_B4U Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/294.ts
-#EXTINF:-1,ASIA_ARY News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/295.ts
-#EXTINF:-1,ASIA_Ary Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/296.ts
-#EXTINF:-1,GBR Sky Uk Movies SciFi & Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/198.ts
-#EXTINF:-1,GBR Sky UK Movies Modern Greats
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/199.ts
-#EXTINF:-1,GBR Sky UK Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/200.ts
-#EXTINF:-1,GBR Sky UK Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/203.ts
-#EXTINF:-1,GBR Sky UK Discovery History
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/204.ts
-#EXTINF:-1,GBR Sky UK Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/201.ts
-#EXTINF:-1,UK_Sky Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/297.ts
-#EXTINF:-1,UK_Sky Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/298.ts
-#EXTINF:-1,GBR Sky UK Chelsea TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/202.ts
-#EXTINF:-1,GBR Sky UK Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/205.ts
-#EXTINF:-1,GBR Sky UK Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/206.ts
-#EXTINF:-1,GBR BT Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/196.ts
-#EXTINF:-1,GBR BT Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/197.ts
-#EXTINF:-1,UK Sky Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/128.ts
-#EXTINF:-1,UK Sky Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/129.ts
-#EXTINF:-1,UK Sky Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/130.ts
-#EXTINF:-1,UK Sky Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/131.ts
-#EXTINF:-1,UK Sky Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/132.ts
-#EXTINF:-1,UK Sky Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/133.ts
-#EXTINF:-1,CTH Channel Stadium 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/207.ts
-#EXTINF:-1,CTH Channel Stadium 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/208.ts
-#EXTINF:-1,CTH Channel Stadium 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/209.ts
-#EXTINF:-1,CTH Channel Stadium 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/210.ts
-#EXTINF:-1,CTH Channel Stadium 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/211.ts
-#EXTINF:-1,CTH Channel Stadium 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/212.ts
-#EXTINF:-1,FR_ITELE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/147.ts
-#EXTINF:-1,FR_BEIN_SPORT2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/126.ts
-#EXTINF:-1,FR_BEIN_SPORT1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/127.ts
-#EXTINF:-1,FR_BEINS_PORT3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/125.ts
-#EXTINF:-1,FR_Ushuaia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/227.ts
-#EXTINF:-1,FR_TF1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/218.ts
-#EXTINF:-1,FR_Science et vie TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/226.ts
-#EXTINF:-1,FR_Planete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/224.ts
-#EXTINF:-1,FR_National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/222.ts
-#EXTINF:-1,FR_NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/223.ts
-#EXTINF:-1,FR_M6_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/219.ts
-#EXTINF:-1,FR_France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/217.ts
-#EXTINF:-1,FR_France4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/216.ts
-#EXTINF:-1,FR_France3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/215.ts
-#EXTINF:-1,FR_France2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/214.ts
-#EXTINF:-1,FR_France O HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/213.ts
-#EXTINF:-1,FR_DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/225.ts
-#EXTINF:-1,FR_Chasse et Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/221.ts
-#EXTINF:-1,FR: Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/220.ts
-#EXTINF:-1,FR-OUI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/146.ts
-#EXTINF:-1,FR-LA CHAINE NORMANDIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/145.ts
-#EXTINF:-1,FR-KTO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/144.ts
-#EXTINF:-1,FR-EUROSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/140.ts
-#EXTINF:-1,FR-EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/139.ts
-#EXTINF:-1,FR-BFM BUSINESS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/141.ts
-#EXTINF:-1,FR-BFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/142.ts
-#EXTINF:-1,FR-ARTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/143.ts
-#EXTINF:-1,CRO Arena Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/134.ts
-#EXTINF:-1,CRO Arena Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/135.ts
-#EXTINF:-1,CRO Arena Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/136.ts
-#EXTINF:-1,CRO Arena Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/137.ts
-#EXTINF:-1,CRO Arena Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/138.ts
-#EXTINF:-1,IT: SKYIT F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/228.ts
-#EXTINF:-1,IT: SKYIT Cinema Hits HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/229.ts
-#EXTINF:-1,IT: SKYIT Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/230.ts
-#EXTINF:-1,IT: Sky Sport MotoGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/231.ts
-#EXTINF:-1,IT Sky Cinema Passion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/232.ts
-#EXTINF:-1,IT Sky Cinema Max  1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/233.ts
-#EXTINF:-1,IT Sky Cinema Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/234.ts
-#EXTINF:-1,IT Sky Cinema Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/235.ts
-#EXTINF:-1,IT Sky Cinema Cult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/236.ts
-#EXTINF:-1,IT Sky Cinema Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/237.ts
-#EXTINF:-1,IT Sky Cinema Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/238.ts
-#EXTINF:-1,IT Sky Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/239.ts
-#EXTINF:-1,IT Sky Cinema  24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/240.ts
-#EXTINF:-1,IT Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/241.ts
-#EXTINF:-1,IT Premium Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/242.ts
-#EXTINF:-1,IT Premium Mya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/243.ts
-#EXTINF:-1,IT Premium Joy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/244.ts
-#EXTINF:-1,IT Premium Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/245.ts
-#EXTINF:-1,IT Premium Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/246.ts
-#EXTINF:-1,IT Premium Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/247.ts
-#EXTINF:-1,IT Premium Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/248.ts
-#EXTINF:-1,IT Premium Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/249.ts
-#EXTINF:-1,IT Premium Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/250.ts
-#EXTINF:-1,IT Premium Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/251.ts
-#EXTINF:-1,IT Premium Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/252.ts
-#EXTINF:-1,IT Premium Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/253.ts
-#EXTINF:-1,IT National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/254.ts
-#EXTINF:-1,IT NatGeo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/255.ts
-#EXTINF:-1,IT Fox Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/256.ts
-#EXTINF:-1,IT Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/257.ts
-#EXTINF:-1,IT Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/258.ts
-#EXTINF:-1,IT Fox Animation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/259.ts
-#EXTINF:-1,IT Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/260.ts
-#EXTINF:-1,IT Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/261.ts
-#EXTINF:-1,IT Discovery Science
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/262.ts
-#EXTINF:-1,IT Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/263.ts
-#EXTINF:-1,AR-AL BAGHDADIA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/72.ts
-#EXTINF:-1,AR-AL BAGHDADIA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/71.ts
-#EXTINF:-1,AR-AL BAGHDADIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/70.ts
-#EXTINF:-1,AR__NOOR_DUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/111.ts
-#EXTINF:-1,AR_UGARIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/109.ts
-#EXTINF:-1,AR_TALAKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/107.ts
-#EXTINF:-1,AR_SYRSAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/102.ts
-#EXTINF:-1,AR_SYRNOOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/106.ts
-#EXTINF:-1,AR_SYRNEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/104.ts
-#EXTINF:-1,AR_SYREDUC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/108.ts
-#EXTINF:-1,AR_SYRDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/105.ts
-#EXTINF:-1,AR_SYR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/103.ts
-#EXTINF:-1,AR_SHARIKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/114.ts
-#EXTINF:-1,AR_SAUDITAKAFIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/119.ts
-#EXTINF:-1,AR_SAUDIRIYADIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/120.ts
-#EXTINF:-1,AR_SAUDI1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/122.ts
-#EXTINF:-1,AR_SAUDI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/121.ts
-#EXTINF:-1,AR_SAMADUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/116.ts
-#EXTINF:-1,AR_QATAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/96.ts
-#EXTINF:-1,AR_NAHARDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/94.ts
-#EXTINF:-1,AR_NAHARCH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/95.ts
-#EXTINF:-1,AR_NAHAR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/93.ts
-#EXTINF:-1,AR_NAHAR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/92.ts
-#EXTINF:-1,AR_MANAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/110.ts
-#EXTINF:-1,AR_JORDAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/101.ts
-#EXTINF:-1,AR_ENNAHAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/91.ts
-#EXTINF:-1,AR_EKHBARIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/123.ts
-#EXTINF:-1,AR_DUBAI_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/112.ts
-#EXTINF:-1,AR_DUBAI_ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/113.ts
-#EXTINF:-1,AR_DUBAIRACING1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/118.ts
-#EXTINF:-1,AR_DIBAIRACING2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/117.ts
-#EXTINF:-1,AR_CHARKIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/115.ts
-#EXTINF:-1,AR_ALKASS5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/100.ts
-#EXTINF:-1,AR_ALKASS4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/99.ts
-#EXTINF:-1,AR_ALKASS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/98.ts
-#EXTINF:-1,AR_ALKASS1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/97.ts
-#EXTINF:-1,AR_AJIAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/124.ts
-#EXTINF:-1,ARRAABIAA-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/47.ts
-#EXTINF:-1,AR-WISSAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/75.ts
-#EXTINF:-1,AR-TUNISIA-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/49.ts
-#EXTINF:-1,AR-TUNISIA-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/48.ts
-#EXTINF:-1,AR-TRT-ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/68.ts
-#EXTINF:-1,AR-RUSSIA-TO-DAY-ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/78.ts
-#EXTINF:-1,AR-ROTANA_CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/53.ts
-#EXTINF:-1,AR-ROTANA_AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/54.ts
-#EXTINF:-1,AR-QURAN MEKKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/73.ts
-#EXTINF:-1,AR-NOOR DUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/64.ts
-#EXTINF:-1,AR-NILSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/79.ts
-#EXTINF:-1,AR-NILFAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/83.ts
-#EXTINF:-1,AR-NILDRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/80.ts
-#EXTINF:-1,AR-NILCULTURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/84.ts
-#EXTINF:-1,AR-NILCOMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/85.ts
-#EXTINF:-1,AR-NILCINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/81.ts
-#EXTINF:-1,AR-NIL-TAALIMIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/86.ts
-#EXTINF:-1,AR-NIL-LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/82.ts
-#EXTINF:-1,AR-NESSMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/51.ts
-#EXTINF:-1,AR-NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/77.ts
-#EXTINF:-1,AR-MTV LIBAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/76.ts
-#EXTINF:-1,AR-MIKAMILINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/87.ts
-#EXTINF:-1,AR-Medi-1-Sat-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/43.ts
-#EXTINF:-1,AR-MBC_MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/15.ts
-#EXTINF:-1,AR-MBC_BOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/16.ts
-#EXTINF:-1,AR-MBC_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/17.ts
-#EXTINF:-1,AR-MBC_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/18.ts
-#EXTINF:-1,AR-MBC_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/19.ts
-#EXTINF:-1,AR-MBC_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/20.ts
-#EXTINF:-1,AR-MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/23.ts
-#EXTINF:-1,AR-MBC-Masr2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/21.ts
-#EXTINF:-1,AR-MBC-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/22.ts
-#EXTINF:-1,AR-MBC SPORT HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/90.ts
-#EXTINF:-1,AR-MBC SPORT HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/88.ts
-#EXTINF:-1,AR-MBC PROSPOR HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/89.ts
-#EXTINF:-1,AR-MAYADEEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/63.ts
-#EXTINF:-1,AR-HANIBALE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/52.ts
-#EXTINF:-1,AR-FRANCE 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/59.ts
-#EXTINF:-1,AR-EL-MEHWAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/69.ts
-#EXTINF:-1,AR-DUBAI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/65.ts
-#EXTINF:-1,AR-Dubai One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/66.ts
-#EXTINF:-1,AR-BBC ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/58.ts
-#EXTINF:-1,AR-ASSONA-NABAWIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/74.ts
-#EXTINF:-1,AR-Assadissa-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/46.ts
-#EXTINF:-1,AR-Art-Hekayat-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/36.ts
-#EXTINF:-1,AR-ART-CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/40.ts
-#EXTINF:-1,AR-Art Hekayat 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/37.ts
-#EXTINF:-1,AR-Art Aflam 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/38.ts
-#EXTINF:-1,AR-Art Aflam 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/39.ts
-#EXTINF:-1,AR-Arriadia-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/44.ts
-#EXTINF:-1,AR-ALWATANIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/50.ts
-#EXTINF:-1,AR-Almaghribia-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/45.ts
-#EXTINF:-1,AR-ALJAZEERA DOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/57.ts
-#EXTINF:-1,AR-ALJAZEERA CHILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/56.ts
-#EXTINF:-1,AR-ALJAZEERA AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/55.ts
-#EXTINF:-1,AR-Al-Oula-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/41.ts
-#EXTINF:-1,AR-Al-Hadath
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/62.ts
-#EXTINF:-1,AR-AL HURRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/60.ts
-#EXTINF:-1,AR-AL ARABIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/61.ts
-#EXTINF:-1,AR-AJYAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/67.ts
-#EXTINF:-1,AR-2M-MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/42.ts
-#EXTINF:-1,AR:OSN_YAHALA_HD_ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/270.ts
-#EXTINF:-1,AR:OSN_YAHALA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/269.ts
-#EXTINF:-1,AR:OSN_BOXOFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/273.ts
-#EXTINF:-1,AR:OSN_BOXOFFICE_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/272.ts
-#EXTINF:-1,AR:OSN_BOXOFFICE_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/271.ts
-#EXTINF:-1,AR_OSN_Star_Movies_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/25.ts
-#EXTINF:-1,AR_OSN_Movies.Action.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/29.ts
-#EXTINF:-1,AR_OSN.Star.World.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/24.ts
-#EXTINF:-1,AR_OSN.Movies.Premiere.plus.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/26.ts
-#EXTINF:-1,AR_OSN.Movies.Premiere.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/27.ts
-#EXTINF:-1,AR_OSN.Movies.Kids.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/30.ts
-#EXTINF:-1,AR_OSN.Movies.Festival.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/31.ts
-#EXTINF:-1,AR_OSN.Movies.Drama.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/32.ts
-#EXTINF:-1,AR_OSN.Movies.Comedy.Plus2.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/35.ts
-#EXTINF:-1,AR_OSN.Movies.Comedy.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/33.ts
-#EXTINF:-1,AR_OSN.Movies.Action2.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/28.ts
-#EXTINF:-1,AR_OSN.MOVIE.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/34.ts
-#EXTINF:-1,AR_BEINSPORT_10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/10.ts
-#EXTINF:-1,AR_BEINSPORT_9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/9.ts
-#EXTINF:-1,AR_BEINSPORT_8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/8.ts
-#EXTINF:-1,AR_BEINSPORT_7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/7.ts
-#EXTINF:-1,AR_BEINSPORT_6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/6.ts
-#EXTINF:-1,AR_BEINSPORT_5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/5.ts
-#EXTINF:-1,AR_BEINSPORT_4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/4.ts
-#EXTINF:-1,AR_BEINSPORT_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/3.ts
-#EXTINF:-1,AR_BEINSPORT_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/2.ts
-#EXTINF:-1,AR_BEINSPORT_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/1.ts
-#EXTINF:-1,AR_BeinHD_Movies4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/11.ts
-#EXTINF:-1,AR_BeinHD_Movies3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/12.ts
-#EXTINF:-1,AR_BeinHD_Movies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/13.ts
-#EXTINF:-1,AR_BeinHD_Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://space-iptv.ddns.net:8112/live/karim/karim/14.ts
+#EXTINF:-1,USA : WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1316.ts
+#EXTINF:-1,USA : NBC SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1319.ts
+#EXTINF:-1,USA : Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1317.ts
+#EXTINF:-1,USA : Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1318.ts
+#EXTINF:-1,USA : BTN Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1320.ts
+#EXTINF:-1,USA : Bein Sports USA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1321.ts
+#EXTINF:-1,USA : AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1322.ts
+#EXTINF:-1,USA : AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1323.ts
+#EXTINF:-1,USA : AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1324.ts
+#EXTINF:-1,UK : Sky_Sport_F1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1325.ts
+#EXTINF:-1,UK :  Sky Sports HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1329.ts
+#EXTINF:-1,UK :  Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1330.ts
+#EXTINF:-1,UK :  Sky Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1331.ts
+#EXTINF:-1,UK :  Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1332.ts
+#EXTINF:-1,UK :  Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1333.ts
+#EXTINF:-1,UK :  Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1334.ts
+#EXTINF:-1,UK :  Setanta Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1326.ts
+#EXTINF:-1,UK :  SATENTA SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1327.ts
+#EXTINF:-1,UK :  PREMIERE SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1328.ts
+#EXTINF:-1,UK :  BT Sport Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1335.ts
+#EXTINF:-1,UK :  BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1336.ts
+#EXTINF:-1,UK :  BT Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1337.ts
+#EXTINF:-1,UK :  BT Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1338.ts
+#EXTINF:-1,TH : TRUE SPORT HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1339.ts
+#EXTINF:-1,TH : TRUE SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1340.ts
+#EXTINF:-1,SR :  Supersport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1341.ts
+#EXTINF:-1,SR :  Supersport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1342.ts
+#EXTINF:-1,SR :  Supersport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1343.ts
+#EXTINF:-1,SR :  Arenasport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1344.ts
+#EXTINF:-1,SR :  Arenasport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1345.ts
+#EXTINF:-1,SR :  Arenasport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1346.ts
+#EXTINF:-1,SR :  Arenasport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1347.ts
+#EXTINF:-1,SR :  Arenasport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1348.ts
+#EXTINF:-1,PT : SPORT.TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1349.ts
+#EXTINF:-1,PT : SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1350.ts
+#EXTINF:-1,PT : SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1351.ts
+#EXTINF:-1,PT :  Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1352.ts
+#EXTINF:-1,PT :  Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1353.ts
+#EXTINF:-1,NL :  Ziggo Sport Extra 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1354.ts
+#EXTINF:-1,NL :  Sport 1 Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1355.ts
+#EXTINF:-1,NL :  Sport 1 Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1356.ts
+#EXTINF:-1,NL :  Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1357.ts
+#EXTINF:-1,NL :  Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1358.ts
+#EXTINF:-1,NL :  Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1359.ts
+#EXTINF:-1,NL :  Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1360.ts
+#EXTINF:-1,NL :  Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1361.ts
+#EXTINF:-1,NL :  Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1362.ts
+#EXTINF:-1,ML :  Astro Supersport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1363.ts
+#EXTINF:-1,ML :  Astro Supersport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1364.ts
+#EXTINF:-1,ML :  Astro Supersport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1365.ts
+#EXTINF:-1,ML :  Astro Supersport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1366.ts
+#EXTINF:-1,IT :  Sky Sport3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1367.ts
+#EXTINF:-1,IT :  Sky Sport2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1368.ts
+#EXTINF:-1,IT :  Sky Sport1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1369.ts
+#EXTINF:-1,IT :  Sky Sport F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1370.ts
+#EXTINF:-1,IT :  Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1371.ts
+#EXTINF:-1,IT :  Rai Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1372.ts
+#EXTINF:-1,IT :  Rai Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1373.ts
+#EXTINF:-1,IT :  Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1374.ts
+#EXTINF:-1,IT :  Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1375.ts
+#EXTINF:-1,IN:  Ten Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1378.ts
+#EXTINF:-1,IN:  Star Sports4-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1379.ts
+#EXTINF:-1,IN:  Star Sports3-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1380.ts
+#EXTINF:-1,IN:  Star Sports2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1376.ts
+#EXTINF:-1,IN:  Star Sports1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1377.ts
+#EXTINF:-1,IN Sony Six
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1315.ts
+#EXTINF:-1,FR: beIN_SPORTS_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1381.ts
+#EXTINF:-1,FR: beIN_SPORTS_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1382.ts
+#EXTINF:-1,FR: beIN SPORTS1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1383.ts
+#EXTINF:-1,FR:  Canal  Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1384.ts
+#EXTINF:-1,DE:  Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1385.ts
+#EXTINF:-1,DE:  Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1386.ts
+#EXTINF:-1,DE:  sky sport austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1387.ts
+#EXTINF:-1,DE:  Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1388.ts
+#EXTINF:-1,DE:  Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1389.ts
+#EXTINF:-1,AR: MBC Pro Sports 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1390.ts
+#EXTINF:-1,AR: AD_Sports_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1391.ts
+#EXTINF:-1,AR: AD_Sports_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1392.ts
+#EXTINF:-1,AR:  beIN Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1393.ts
+#EXTINF:-1,AR:  beIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1394.ts
+#EXTINF:-1,AR:  beIN Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1395.ts
+#EXTINF:-1,AR:  beIN Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1396.ts
+#EXTINF:-1,AR:  beIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1397.ts
+#EXTINF:-1,AR:  beIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1398.ts
+#EXTINF:-1,AR:  beIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1399.ts
+#EXTINF:-1,AR:  beIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1400.ts
+#EXTINF:-1,AR:  Bein Sports 17 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1401.ts
+#EXTINF:-1,AR:  Bein Sports 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1402.ts
+#EXTINF:-1,AR:  Bein Sports 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1403.ts
+#EXTINF:-1,AR:  beIN Sports 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1404.ts
+#EXTINF:-1,AR:  beIN Sports 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1405.ts
+#EXTINF:-1,AR:  beIN Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1406.ts
+#EXTINF:-1,AR:  beIN Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1407.ts
+#EXTINF:-1,AR:  beIN Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1408.ts
+#EXTINF:-1,AR:  beIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1409.ts
+#EXTINF:-1,AR:  beIN SPorts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1410.ts
