@@ -1,235 +1,2233 @@
 #EXTM3U
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOCAL_BEIN_SPORTS  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/60.ts
-#EXTINF:-1,BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/42.ts
-#EXTINF:-1,BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/41.ts
-#EXTINF:-1,BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/40.ts
-#EXTINF:-1,BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/39.ts
-#EXTINF:-1,BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/38.ts
-#EXTINF:-1,BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/37.ts
-#EXTINF:-1,BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/36.ts
-#EXTINF:-1,BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/35.ts
-#EXTINF:-1,BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/34.ts
-#EXTINF:-1,BeinSport_HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/33.ts
-#EXTINF:-1,BeinSport_HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/32.ts
-#EXTINF:-1,BeinSport_HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/31.ts
-#EXTINF:-1,BeinSport_HD17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/27.ts
-#EXTINF:-1,BeinSport_HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/30.ts
-#EXTINF:-1,BeinSport_HD15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/29.ts
-#EXTINF:-1,BeinSport_HD16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/28.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOCAL_Bein_SD  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/116.ts
-#EXTINF:-1,AR:BEIN_1_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/106.ts
-#EXTINF:-1,AR:BEIN_2_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/107.ts
-#EXTINF:-1,AR:BEIN_3_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/108.ts
-#EXTINF:-1,AR:BEIN_4_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/109.ts
-#EXTINF:-1,AR:BEIN_5_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/110.ts
-#EXTINF:-1,AR:BEIN_6_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/111.ts
-#EXTINF:-1,AR:BEIN_7_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/112.ts
-#EXTINF:-1,AR:BEIN_8_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/113.ts
-#EXTINF:-1,AR:BEIN_9_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/114.ts
-#EXTINF:-1,AR:BEIN_10_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/115.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BEIN_LOW █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/147.ts
-#EXTINF:-1,BEIN_1_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/141.ts
-#EXTINF:-1,BEIN_2_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/142.ts
-#EXTINF:-1,BEIN_3_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/143.ts
-#EXTINF:-1,BEIN_4_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/144.ts
-#EXTINF:-1,BEIN_5_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/145.ts
-#EXTINF:-1,BEIN_6_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/146.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BACKUP_BEIN_HD█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/148.ts
-#EXTINF:-1,Backup:BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/132.ts
-#EXTINF:-1,Backup:BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/133.ts
-#EXTINF:-1,Backup:BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/134.ts
-#EXTINF:-1,Backup:BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/135.ts
-#EXTINF:-1,Backup:BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/136.ts
-#EXTINF:-1,Backup:BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/137.ts
-#EXTINF:-1,Backup:BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/138.ts
-#EXTINF:-1,Backup:BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/139.ts
-#EXTINF:-1,Backup:BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/140.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOCAL:OSN  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/61.ts
-#EXTINF:-1,OSN_YAHALA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/55.ts
-#EXTINF:-1,OSN_STAR_WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/46.ts
-#EXTINF:-1,OSN_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/9.ts
-#EXTINF:-1,OSN_MOVIES_DRAMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/51.ts
-#EXTINF:-1,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/10.ts
-#EXTINF:-1,OSN_MBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/54.ts
-#EXTINF:-1,OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/11.ts
-#EXTINF:-1,OSN_FASHION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/50.ts
-#EXTINF:-1,OSN Music Now
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/65.ts
-#EXTINF:-1,OSN Alkass Two HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/71.ts
-#EXTINF:-1,OSN Alkass Four HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/72.ts
-#EXTINF:-1,OSN Alkass Five HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/73.ts
-#EXTINF:-1,OSN_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/44.ts
-#EXTINF:-1,OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/43.ts
-#EXTINF:-1,Backup:OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/149.ts
-#EXTINF:-1,OSN_BOX_OFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/49.ts
-#EXTINF:-1,OSN_AL_YAWM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/12.ts
-#EXTINF:-1,OSN Discovery ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/7.ts
-#EXTINF:-1,OSN_BOX_OFFICE_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/6.ts
-#EXTINF:-1,OSN_ART_HEKYAT_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/56.ts
-#EXTINF:-1,OSN Ad Sport 1 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/127.ts
-#EXTINF:-1,OSN Ad Sport 2 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/128.ts
-#EXTINF:-1,OSN Ad Sport 3 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/129.ts
-#EXTINF:-1,OSN Ad Sport 4 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/130.ts
-#EXTINF:-1,OSN Ad Sport 5 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/131.ts
-#EXTINF:-1,OSN Ad Sport 1 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/126.ts
-#EXTINF:-1,OSN Ad Sport 2 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/125.ts
-#EXTINF:-1,OSN Ad Sport 3 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/124.ts
-#EXTINF:-1,OSN Ad Sport 4 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/123.ts
-#EXTINF:-1,OSN Ad Sport 5 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/122.ts
-#EXTINF:-1,OSN Ad Sport 1 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/121.ts
-#EXTINF:-1,OSN Ad Sport 2 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/120.ts
-#EXTINF:-1,OSN Ad Sport 3 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/119.ts
-#EXTINF:-1,OSN Ad Sport 4 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/118.ts
-#EXTINF:-1,OSN Ad Sport 5 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/117.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOCAL_Nilesat  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/104.ts
-#EXTINF:-1,ZEE ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/98.ts
-#EXTINF:-1,TRT Kurdi TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/94.ts
-#EXTINF:-1,Toktok Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/78.ts
-#EXTINF:-1,Time Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/82.ts
-#EXTINF:-1,SALAM_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/90.ts
-#EXTINF:-1,Sada AL Balad Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/85.ts
-#EXTINF:-1,Rotana Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/74.ts
-#EXTINF:-1,NRT Arabiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/87.ts
-#EXTINF:-1,NRT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/93.ts
-#EXTINF:-1,Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/75.ts
-#EXTINF:-1,MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/92.ts
-#EXTINF:-1,MELODY_AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/79.ts
-#EXTINF:-1,LDC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/91.ts
-#EXTINF:-1,Jorden TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/102.ts
-#EXTINF:-1,Imagine Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/99.ts
-#EXTINF:-1,Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/76.ts
-#EXTINF:-1,CBC Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/83.ts
-#EXTINF:-1,AlKahera Wal Nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/84.ts
-#EXTINF:-1,Alaan TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/101.ts
-#EXTINF:-1,Al Rai TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/100.ts
-#EXTINF:-1,Al Hiwar TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/86.ts
-#EXTINF:-1,Al Fady TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/103.ts
-#EXTINF:-1,Abu Dhabi Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/97.ts
-#EXTINF:-1,Abu Dhabi Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/96.ts
-#EXTINF:-1,Abu Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/95.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ FR_CHANNELS █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/62.ts
-#EXTINF:-1,FR: beINSport HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/57.ts
-#EXTINF:-1,FR: beINSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/58.ts
-#EXTINF:-1,FR: beINSport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/59.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOCAL_SPORTS_CHS  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/105.ts
-#EXTINF:-1,SKY_SPORT_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/70.ts
-#EXTINF:-1,SKY_SPORT_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/69.ts
-#EXTINF:-1,SKY_SPORT_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/68.ts
-#EXTINF:-1,SKY_SPORT_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/67.ts
-#EXTINF:-1,SKY_SPORT_5_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.amrocomputers.com:25461/live/star7arab/42AuNowwgj/66.ts
+#EXTINF:-1,------ ★ FRENCH CHANNEL★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/324.ts
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/81.ts
+#EXTINF:-1,France 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/83.ts
+#EXTINF:-1,France 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/84.ts
+#EXTINF:-1,France 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/85.ts
+#EXTINF:-1,France 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/86.ts
+#EXTINF:-1,M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/82.ts
+#EXTINF:-1,teva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/95.ts
+#EXTINF:-1,fro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/87.ts
+#EXTINF:-1,w9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/88.ts
+#EXTINF:-1,France_24_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/493.ts
+#EXTINF:-1,----- ★|FR|   CHAINES CANAL  |FR| ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3541.ts
+#EXTINF:-1,canal+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/92.ts
+#EXTINF:-1,canal+cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/94.ts
+#EXTINF:-1,canal+serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/409.ts
+#EXTINF:-1,canal+family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/93.ts
+#EXTINF:-1,canal+decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/91.ts
+#EXTINF:-1,CANAL  CINE CLASSIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2511.ts
+#EXTINF:-1,CANAL  CINE FAMIZ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2512.ts
+#EXTINF:-1,CANAL  DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2513.ts
+#EXTINF:-1,----- ★|FR|  CINEMA   |FR| ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3542.ts
+#EXTINF:-1,SERIE_CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/446.ts
+#EXTINF:-1,Cine_frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/97.ts
+#EXTINF:-1,cine-premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/90.ts
+#EXTINF:-1,Cine_emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/99.ts
+#EXTINF:-1,COMEDIE+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/275.ts
+#EXTINF:-1,OCS_CITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/480.ts
+#EXTINF:-1,OCS_GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/407.ts
+#EXTINF:-1,OCS_MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/406.ts
+#EXTINF:-1,OCS-CHOC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/907.ts
+#EXTINF:-1,Equidia_Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/101.ts
+#EXTINF:-1,---- ★ |FR|  DECOUVERTE  |FR| ★ -----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3544.ts
+#EXTINF:-1,DISCOVERY_SC_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2820.ts
+#EXTINF:-1,Planet_CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/276.ts
+#EXTINF:-1,ushuaia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/98.ts
+#EXTINF:-1,FR_PLANETE_PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/597.ts
+#EXTINF:-1,FR_NATIONAL_GEOGRAPHIC_WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/598.ts
+#EXTINF:-1,NAT_GEO_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/152.ts
+#EXTINF:-1,PLANETE  THALASSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2539.ts
+#EXTINF:-1,PLANETE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2540.ts
+#EXTINF:-1,PLANETE  A-E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2541.ts
+#EXTINF:-1,HISTORIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2542.ts
+#EXTINF:-1,NAT GEO WILD HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2518.ts
+#EXTINF:-1,-------★  |FR|   JEUNESSE   |FR|  ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3547.ts
+#EXTINF:-1,DISNEY_XD_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/264.ts
+#EXTINF:-1,DISNEY_JUNIOR_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/260.ts
+#EXTINF:-1,BOOMERANG_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/262.ts
+#EXTINF:-1,Piwi+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/115.ts
+#EXTINF:-1,Nrj12_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/279.ts
+#EXTINF:-1,CARTOON_NETWORK_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/411.ts
+#EXTINF:-1,DISNEY_CINEMAGIC_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/273.ts
+#EXTINF:-1,Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/112.ts
+#EXTINF:-1,------- ★ |FR|  SPORT  |FR| ★  -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3546.ts
+#EXTINF:-1,bein_hd1_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/258.ts
+#EXTINF:-1,bein_hd2_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/259.ts
+#EXTINF:-1,bein_hd3_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/265.ts
+#EXTINF:-1,CANAL+sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/110.ts
+#EXTINF:-1,foot+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/100.ts
+#EXTINF:-1,EUROSPORT2_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/263.ts
+#EXTINF:-1,EUROSPORT HD FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2517.ts
+#EXTINF:-1,GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2526.ts
+#EXTINF:-1,LEQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2530.ts
+#EXTINF:-1,KOMBAT SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2536.ts
+#EXTINF:-1,INFOSPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2537.ts
+#EXTINF:-1,MA CHAINE SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2535.ts
+#EXTINF:-1,EQUIDIA LIVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2538.ts
+#EXTINF:-1,MOTOR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2534.ts
+#EXTINF:-1,------ ★|FR|    AUTRES   |FR|  ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3549.ts
+#EXTINF:-1,13_rue_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/410.ts
+#EXTINF:-1,syfy_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/408.ts
+#EXTINF:-1,D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/466.ts
+#EXTINF:-1,D17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2505.ts
+#EXTINF:-1,RTL9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2506.ts
+#EXTINF:-1,ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2507.ts
+#EXTINF:-1,6TER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2508.ts
+#EXTINF:-1,TRACE_URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/911.ts
+#EXTINF:-1,TMC_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/277.ts
+#EXTINF:-1,lcp_fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/261.ts
+#EXTINF:-1,chasse_peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2822.ts
+#EXTINF:-1,Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2821.ts
+#EXTINF:-1,NT1_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/278.ts
+#EXTINF:-1,BFM_tv_FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/280.ts
+#EXTINF:-1,Tv5_Monde_Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/492.ts
+#EXTINF:-1,FR-TV7-Bordeaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/906.ts
+#EXTINF:-1,FR-LCN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/908.ts
+#EXTINF:-1,iTELE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2509.ts
+#EXTINF:-1,Weo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2510.ts
+#EXTINF:-1,SYFY UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2514.ts
+#EXTINF:-1,PARIS PREMIERE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2515.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2516.ts
+#EXTINF:-1,ENORME TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2520.ts
+#EXTINF:-1,M6 MUSIC HITS LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2521.ts
+#EXTINF:-1,TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2523.ts
+#EXTINF:-1,TiJi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2524.ts
+#EXTINF:-1,TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2525.ts
+#EXTINF:-1,HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2528.ts
+#EXTINF:-1,NT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2529.ts
+#EXTINF:-1,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2531.ts
+#EXTINF:-1,RTC TÃ©lÃ© LiÃ¨ge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2532.ts
+#EXTINF:-1,RMC DÃ‰COUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2533.ts
+#EXTINF:-1,EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2543.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1055.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1056.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1057.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1058.ts
+#EXTINF:-1,A LA CARTE CANALPLAY  5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1059.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1060.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1061.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1062.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1063.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1064.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1065.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2794.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2795.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2796.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2797.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2798.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2799.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2800.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2801.ts
+#EXTINF:-1,A LA CARTE CANALPLAY 20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2802.ts
+#EXTINF:-1,-----â–¼|FR|  Canal Play- VOD  |FR| â–¼ -----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2954.ts
+#EXTINF:-1,Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2955.mkv
+#EXTINF:-1,Macbeth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2956.mkv
+#EXTINF:-1,Spotlight hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2957.mkv
+#EXTINF:-1,Admiral HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2958.mkv
+#EXTINF:-1,A fond la caisse -Alvin et les Chipmunks HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2959.mkv
+#EXTINF:-1,Creed HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2960.mkv
+#EXTINF:-1,The 33 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2961.mkv
+#EXTINF:-1,Standoff HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2962.mkv
+#EXTINF:-1,Docteur Frankenstein HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2963.mkv
+#EXTINF:-1,Criminal Activities HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2964.mkv
+#EXTINF:-1,Au coeur de l'OcÃ©an HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2965.mkv
+#EXTINF:-1,Les Nouvelles aventures d'Aladin HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2966.mkv
+#EXTINF:-1,Une Histoire de Fou
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2978.mkv
+#EXTINF:-1,Seul contre tous
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2973.mkv
+#EXTINF:-1,Point Break
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2975.mkv
+#EXTINF:-1,Misconduct
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2971.mkv
+#EXTINF:-1,Mia-Madre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2976.mkv
+#EXTINF:-1,Made in France
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2974.mkv
+#EXTINF:-1,Les Huit salopards
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2972.mkv
+#EXTINF:-1,IP Man 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2970.mkv
+#EXTINF:-1,Babysitting 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2977.mkv
+#EXTINF:-1,------ ★ BELGIQUE ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/898.ts
+#EXTINF:-1,BE_RTL-TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/890.ts
+#EXTINF:-1,BE_LA DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/891.ts
+#EXTINF:-1,BE_LA-TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/892.ts
+#EXTINF:-1,BE_Televesdre_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/894.ts
+#EXTINF:-1,BE_VITAYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/889.ts
+#EXTINF:-1,BE_Een_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/893.ts
+#EXTINF:-1,BE_CLUB_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/895.ts
+#EXTINF:-1,BE_LA_UNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/896.ts
+#EXTINF:-1,BE_Plug rtl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/897.ts
+#EXTINF:-1,------ ★ ITALIANI   ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2229.ts
+#EXTINF:-1,Rai 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2230.ts
+#EXTINF:-1,Rai 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2231.ts
+#EXTINF:-1,Rai 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2232.ts
+#EXTINF:-1,Rete 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2233.ts
+#EXTINF:-1,Canale 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2234.ts
+#EXTINF:-1,Italia 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2235.ts
+#EXTINF:-1,La 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2236.ts
+#EXTINF:-1,La 7d
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2237.ts
+#EXTINF:-1,La 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2238.ts
+#EXTINF:-1,------ ★  SKY CINEMA ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2239.ts
+#EXTINF:-1,Sky Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2240.ts
+#EXTINF:-1,Sky Cinema  +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2241.ts
+#EXTINF:-1,Sky Cinema  +24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2242.ts
+#EXTINF:-1,Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2243.ts
+#EXTINF:-1,Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2244.ts
+#EXTINF:-1,SKY Cinema Family  +1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2245.ts
+#EXTINF:-1,Sky Cinema Passion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2246.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2247.ts
+#EXTINF:-1,Sky Cinema Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2248.ts
+#EXTINF:-1,Sky Cinema Max  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2249.ts
+#EXTINF:-1,Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2250.ts
+#EXTINF:-1,Sky Cinema Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2251.ts
+#EXTINF:-1,Sky Cinema 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2252.ts
+#EXTINF:-1,PARAMOUNT COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2979.ts
+#EXTINF:-1,Paramount Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2980.ts
+#EXTINF:-1,------ ★ INTRATTENIMENTO★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2253.ts
+#EXTINF:-1,Sky Uno HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2254.ts
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2255.ts
+#EXTINF:-1,Fox  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2256.ts
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2257.ts
+#EXTINF:-1,Fox Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2258.ts
+#EXTINF:-1,Fox Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2259.ts
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2260.ts
+#EXTINF:-1,CI Crime Investigation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2261.ts
+#EXTINF:-1,Fox Animation HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2262.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2264.ts
+#EXTINF:-1,AXN Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2266.ts
+#EXTINF:-1,Cielo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2267.ts
+#EXTINF:-1,Lei
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2268.ts
+#EXTINF:-1,Real Time
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2269.ts
+#EXTINF:-1,Explora HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2270.ts
+#EXTINF:-1,Frisbee
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2271.ts
+#EXTINF:-1,------ ★ SPORT ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2272.ts
+#EXTINF:-1,Sky Sport 24  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2274.ts
+#EXTINF:-1,Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2276.ts
+#EXTINF:-1,SKY Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2278.ts
+#EXTINF:-1,Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2280.ts
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2281.ts
+#EXTINF:-1,Sky Sport Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2282.ts
+#EXTINF:-1,Eurosport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2283.ts
+#EXTINF:-1,Sky Formula 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2284.ts
+#EXTINF:-1,Sky Moto GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2285.ts
+#EXTINF:-1,Eurosport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2286.ts
+#EXTINF:-1,Super tennis HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2287.ts
+#EXTINF:-1,Rai Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2288.ts
+#EXTINF:-1,Rai Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2289.ts
+#EXTINF:-1,Sport Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2290.ts
+#EXTINF:-1,BIKE Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2291.ts
+#EXTINF:-1,Poker Italia 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2929.ts
+#EXTINF:-1,------ ★ CALCIO ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2292.ts
+#EXTINF:-1,Sky Supercalcio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2294.ts
+#EXTINF:-1,SKY Supercalcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2295.ts
+#EXTINF:-1,Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2297.ts
+#EXTINF:-1,Sky Calcio  2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2299.ts
+#EXTINF:-1,Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2301.ts
+#EXTINF:-1,Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2303.ts
+#EXTINF:-1,Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2305.ts
+#EXTINF:-1,Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2306.ts
+#EXTINF:-1,SKY Calcio 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2307.ts
+#EXTINF:-1,SKY Calcio 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2308.ts
+#EXTINF:-1,SKY Calcio 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2309.ts
+#EXTINF:-1,SKY Calcio 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2310.ts
+#EXTINF:-1,SKY Calcio 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2311.ts
+#EXTINF:-1,SKY Calcio 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2312.ts
+#EXTINF:-1,SKY Calcio 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2313.ts
+#EXTINF:-1,Juventus Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2314.ts
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2315.ts
+#EXTINF:-1,Milan channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2316.ts
+#EXTINF:-1,Roma Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2317.ts
+#EXTINF:-1,----- ★ CULTURA  ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2318.ts
+#EXTINF:-1,NatGeo People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2319.ts
+#EXTINF:-1,Nat Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2320.ts
+#EXTINF:-1,Discovery Sci HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2321.ts
+#EXTINF:-1,Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2322.ts
+#EXTINF:-1,Nat Geo People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2323.ts
+#EXTINF:-1,Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2324.ts
+#EXTINF:-1,Discovery Travel  Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2325.ts
+#EXTINF:-1,Focus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2326.ts
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2328.ts
+#EXTINF:-1,Gambero Rosso HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2329.ts
+#EXTINF:-1,Caccia e Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2330.ts
+#EXTINF:-1,Pesca e Caccia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2331.ts
+#EXTINF:-1,Italian Fishing Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2332.ts
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2333.ts
+#EXTINF:-1,Alice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2334.ts
+#EXTINF:-1,Sky History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2335.ts
+#EXTINF:-1,Sky Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2336.ts
+#EXTINF:-1,MarcoPolo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2337.ts
+#EXTINF:-1,Premium DIscovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2338.ts
+#EXTINF:-1,Fine Living
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2339.ts
+#EXTINF:-1,LaEFFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2340.ts
+#EXTINF:-1,----- ★ BAMBINI ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2341.ts
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2342.ts
+#EXTINF:-1,K2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2343.ts
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2344.ts
+#EXTINF:-1,Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2345.ts
+#EXTINF:-1,Cartoonito
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2346.ts
+#EXTINF:-1,Boing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2347.ts
+#EXTINF:-1,Rai Gulp
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2348.ts
+#EXTINF:-1,Rai Yoyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2349.ts
+#EXTINF:-1,Premium Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2350.ts
+#EXTINF:-1,Premium Disney Channel  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2351.ts
+#EXTINF:-1,Premium Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2352.ts
+#EXTINF:-1,Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2353.ts
+#EXTINF:-1,MANGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2354.ts
+#EXTINF:-1,Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2944.ts
+#EXTINF:-1,------- ★ NOTIZIE ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2355.ts
+#EXTINF:-1,Sky Tg 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2356.ts
+#EXTINF:-1,Tg Com 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2357.ts
+#EXTINF:-1,Rai News 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2358.ts
+#EXTINF:-1,Mediaset Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2359.ts
+#EXTINF:-1,TG Norba 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2360.ts
+#EXTINF:-1,Rai Senato
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2361.ts
+#EXTINF:-1,Rai Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2362.ts
+#EXTINF:-1,Rai Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2363.ts
+#EXTINF:-1,Rai 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2364.ts
+#EXTINF:-1,Rai 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2365.ts
+#EXTINF:-1,Mtv IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2366.ts
+#EXTINF:-1,RSI La1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2367.ts
+#EXTINF:-1,RSI La 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2368.ts
+#EXTINF:-1,Tv Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2369.ts
+#EXTINF:-1,TV 2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2370.ts
+#EXTINF:-1,Nuvolari
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2371.ts
+#EXTINF:-1,Teleticino HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2372.ts
+#EXTINF:-1,Italia 7 gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2373.ts
+#EXTINF:-1,Mediaset Italia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2374.ts
+#EXTINF:-1,Iris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2375.ts
+#EXTINF:-1,Giallo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2376.ts
+#EXTINF:-1,Videolina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2377.ts
+#EXTINF:-1,Antenna Sicilia Catania
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2378.ts
+#EXTINF:-1,TeleMilano
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2379.ts
+#EXTINF:-1,Sardegna 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2380.ts
+#EXTINF:-1,Canale 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2381.ts
+#EXTINF:-1,Video Brescia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2382.ts
+#EXTINF:-1,Trentino TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2383.ts
+#EXTINF:-1,TelePavia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2384.ts
+#EXTINF:-1,AltoAdige TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2385.ts
+#EXTINF:-1,R3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2386.ts
+#EXTINF:-1,Tele Diogene
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2387.ts
+#EXTINF:-1,Clb classic Italia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2388.ts
+#EXTINF:-1,------ ★ MEDIASET  PREMIUM  ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2389.ts
+#EXTINF:-1,Premium Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2390.ts
+#EXTINF:-1,Premium Cinema  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2391.ts
+#EXTINF:-1,Premium Cinema 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2392.ts
+#EXTINF:-1,Premium Cinema 2  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2393.ts
+#EXTINF:-1,Premium Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2394.ts
+#EXTINF:-1,Premium Action  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2395.ts
+#EXTINF:-1,Premium Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2396.ts
+#EXTINF:-1,Premium Crime 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2397.ts
+#EXTINF:-1,Premium Cinema Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2398.ts
+#EXTINF:-1,Premium Cinema Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2399.ts
+#EXTINF:-1,Premium Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2400.ts
+#EXTINF:-1,Premium Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2401.ts
+#EXTINF:-1,Premium Joy 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2402.ts
+#EXTINF:-1,Top Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2403.ts
+#EXTINF:-1,Premium Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2404.ts
+#EXTINF:-1,Premium Stories  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2405.ts
+#EXTINF:-1,Premium Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2406.ts
+#EXTINF:-1,Premium Calcio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2407.ts
+#EXTINF:-1,Premium Calcio 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2408.ts
+#EXTINF:-1,Premium Calcio 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2409.ts
+#EXTINF:-1,Premium Calcio 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2410.ts
+#EXTINF:-1,Premium Calcio 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2411.ts
+#EXTINF:-1,Premium Calcio 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2412.ts
+#EXTINF:-1,Premium Calcio 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2413.ts
+#EXTINF:-1,Premium Calcio 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2414.ts
+#EXTINF:-1,Premium Calcio 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2415.ts
+#EXTINF:-1,------ ★ MUSICA ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2416.ts
+#EXTINF:-1,R.T.L 102.5 tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2417.ts
+#EXTINF:-1,Radio 105 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2418.ts
+#EXTINF:-1,m2o
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2419.ts
+#EXTINF:-1,Dance 90
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2420.ts
+#EXTINF:-1,Radio 101 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2421.ts
+#EXTINF:-1,DeeJay TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2422.ts
+#EXTINF:-1,DeeJay Tv  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2423.ts
+#EXTINF:-1,Radio Montecarlo TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2424.ts
+#EXTINF:-1,Virgin Radio TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2425.ts
+#EXTINF:-1,Onda Latina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2426.ts
+#EXTINF:-1,Radio Italia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2427.ts
+#EXTINF:-1,------ ★ SKY-PRIMAFILA★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2428.ts
+#EXTINF:-1,Sky_PrimaFila_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2217.ts
+#EXTINF:-1,Sky_PrimaFila_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2218.ts
+#EXTINF:-1,Sky_PrimaFila_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2219.ts
+#EXTINF:-1,Sky_PrimaFila_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2220.ts
+#EXTINF:-1,Sky_PrimaFila_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2221.ts
+#EXTINF:-1,Sky_PrimaFila_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2222.ts
+#EXTINF:-1,Sky_PrimaFila_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2223.ts
+#EXTINF:-1,Sky_PrimaFila_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2224.ts
+#EXTINF:-1,Sky_PrimaFila_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2225.ts
+#EXTINF:-1,Sky_PrimaFila_10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2226.ts
+#EXTINF:-1,Sky_PrimaFila_11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2227.ts
+#EXTINF:-1,Sky_PrimaFila_12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2228.ts
+#EXTINF:-1,Sky PrimaFila 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2783.ts
+#EXTINF:-1,Sky PrimaFila 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2784.ts
+#EXTINF:-1,Sky PrimaFila 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2785.ts
+#EXTINF:-1,------ ★ SKY-PRIMAFILA-ONDEMAND★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2808.ts
+#EXTINF:-1,Sky PrimaFila 1 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2787.mkv
+#EXTINF:-1,Sky PrimaFila 3 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2788.mkv
+#EXTINF:-1,Sky PrimaFila 5 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2789.mkv
+#EXTINF:-1,Sky PrimaFila 7 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2790.mkv
+#EXTINF:-1,Sky PrimaFila 9 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2791.mkv
+#EXTINF:-1,SKY PRIMAFILA 11 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2792.mkv
+#EXTINF:-1,SKY PRIMAFILA 13 VOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/movie/barryd/barryd/2793.mkv
+#EXTINF:-1,------ ★ NETHERLANDS★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/545.ts
+#EXTINF:-1,NL_NPO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/535.ts
+#EXTINF:-1,NL_NPO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/536.ts
+#EXTINF:-1,NL_NPO_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/554.ts
+#EXTINF:-1,NL_RTL_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/537.ts
+#EXTINF:-1,NL_RTL_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/538.ts
+#EXTINF:-1,NL_SBS_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/541.ts
+#EXTINF:-1,NL_RTL_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/539.ts
+#EXTINF:-1,NL_RTL_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/540.ts
+#EXTINF:-1,NL_SBS_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/553.ts
+#EXTINF:-1,NL_NET_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/555.ts
+#EXTINF:-1,NL_VERONICA_/_DISNEY_XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/552.ts
+#EXTINF:-1,NL_COMEDY_CENTRAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/519.ts
+#EXTINF:-1,NL_DISCOVERY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/520.ts
+#EXTINF:-1,NL_Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2109.ts
+#EXTINF:-1,NL_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2111.ts
+#EXTINF:-1,NL_Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2107.ts
+#EXTINF:-1,NL_National_Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2110.ts
+#EXTINF:-1,NL_FILM_1_SUNDANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/524.ts
+#EXTINF:-1,NL_FILM_1_PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/523.ts
+#EXTINF:-1,NL_FILM_1_COMEDY_AND_KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/522.ts
+#EXTINF:-1,NL_FILM_1_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/521.ts
+#EXTINF:-1,NL_Film1_Spotlight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2099.ts
+#EXTINF:-1,NL_HBO_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/527.ts
+#EXTINF:-1,NL_HBO_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/528.ts
+#EXTINF:-1,NL_HBO_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/529.ts
+#EXTINF:-1,NL__FOX_SPORTS_1_EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/530.ts
+#EXTINF:-1,NL__FOX_SPORTS_2_INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/531.ts
+#EXTINF:-1,NL__FOX_SPORTS_3_EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/532.ts
+#EXTINF:-1,NL_FOX_SPORTS_4_INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/533.ts
+#EXTINF:-1,NL_FOX_SPORTS_5_EREDIVISIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/534.ts
+#EXTINF:-1,NL_Sport_Extra_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2097.ts
+#EXTINF:-1,NL_Sport_Extra_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2098.ts
+#EXTINF:-1,NL_SPORT_1_VOETBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/544.ts
+#EXTINF:-1,NL_SPORT_1_SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/543.ts
+#EXTINF:-1,NL_SPORT_1_GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/542.ts
+#EXTINF:-1,NL_Sport1_Select_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2095.ts
+#EXTINF:-1,NL_Sport_1_Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2096.ts
+#EXTINF:-1,NL_24kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/556.ts
+#EXTINF:-1,NL_HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/525.ts
+#EXTINF:-1,NL_Xite_Awrds
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2101.ts
+#EXTINF:-1,NL_TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2102.ts
+#EXTINF:-1,NL_NPO_101
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2103.ts
+#EXTINF:-1,NL_NPO_Zappelin_Xtra/Humor_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2104.ts
+#EXTINF:-1,NL_NPO_Politiek/Best
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2105.ts
+#EXTINF:-1,NL_NPO_Doc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2106.ts
+#EXTINF:-1,NL_AT5_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2108.ts
+#EXTINF:-1,---- ★  SPAIN ★ -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/677.ts
+#EXTINF:-1,ES_LA_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/585.ts
+#EXTINF:-1,ES_LA_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/586.ts
+#EXTINF:-1,ES_MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/712.ts
+#EXTINF:-1,ES_REAL_MADRID_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/702.ts
+#EXTINF:-1,ES_SYFY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/703.ts
+#EXTINF:-1,ES_TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/584.ts
+#EXTINF:-1,ES_TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/704.ts
+#EXTINF:-1,ES_HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/711.ts
+#EXTINF:-1,ES_HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/710.ts
+#EXTINF:-1,ES_FOX_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/682.ts
+#EXTINF:-1,ES_DISNEY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/709.ts
+#EXTINF:-1,ES_DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/681.ts
+#EXTINF:-1,ES_Barca_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/587.ts
+#EXTINF:-1,ES_CANAL_SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/588.ts
+#EXTINF:-1,ES_CANAL_LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/589.ts
+#EXTINF:-1,ES_CANAL_GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/707.ts
+#EXTINF:-1,ES_CANAL_FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/590.ts
+#EXTINF:-1,ES_CANAL_ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/591.ts
+#EXTINF:-1,ES_CANAL_DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/592.ts
+#EXTINF:-1,ES_CANAL_DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/593.ts
+#EXTINF:-1,ES_CANAL_COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/594.ts
+#EXTINF:-1,ES_CANAL_ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/595.ts
+#EXTINF:-1,ES_Canal_T_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/708.ts
+#EXTINF:-1,ES_CANAL+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/596.ts
+#EXTINF:-1,ES_AXN_WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/706.ts
+#EXTINF:-1,ES_AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/680.ts
+#EXTINF:-1,ES_A-E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/705.ts
+#EXTINF:-1,ESTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/432.ts
+#EXTINF:-1,ESPN_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/256.ts
+#EXTINF:-1,ESPACE-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/832.ts
+#EXTINF:-1,ES Moviestar MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/903.ts
+#EXTINF:-1,ES-TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/904.ts
+#EXTINF:-1,ES-MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/901.ts
+#EXTINF:-1,ES-Canal-Sur-(Andalucia)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/902.ts
+#EXTINF:-1,VEVO_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2112.ts
+#EXTINF:-1,VEVO_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2113.ts
+#EXTINF:-1,VEVO_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2114.ts
+#EXTINF:-1,------ ★ GERMAN ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/518.ts
+#EXTINF:-1,GERMAN_sky_cinema_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/173.ts
+#EXTINF:-1,GERMAN_sky_cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/175.ts
+#EXTINF:-1,GERMAN_sky_action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/174.ts
+#EXTINF:-1,GERMAN_SKY_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/515.ts
+#EXTINF:-1,GERMAN_SKY_EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/499.ts
+#EXTINF:-1,GERMAN_NAT_GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/476.ts
+#EXTINF:-1,GERMAN_VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/495.ts
+#EXTINF:-1,GERMAN_FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/500.ts
+#EXTINF:-1,GERMAN_Sat_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/909.ts
+#EXTINF:-1,GERMAN-ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/513.ts
+#EXTINF:-1,GERMAN_RTL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/517.ts
+#EXTINF:-1,GERMAN_Super_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/497.ts
+#EXTINF:-1,GERMAN_RTL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/498.ts
+#EXTINF:-1,GERMAN_ORF_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/507.ts
+#EXTINF:-1,GERMAN_ORF_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/508.ts
+#EXTINF:-1,GERMAN_KABEL_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/510.ts
+#EXTINF:-1,GERMAN_DISCOVERY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/503.ts
+#EXTINF:-1,GERMAN_SKY_ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/514.ts
+#EXTINF:-1,GERMAN_VOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/501.ts
+#EXTINF:-1,GERMAN_Bundesliga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/172.ts
+#EXTINF:-1,GERMAN_sky_sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/170.ts
+#EXTINF:-1,GERMAN_sky_sport2_hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/171.ts
+#EXTINF:-1,GERMAN_SKY_HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/502.ts
+#EXTINF:-1,GERMAN_ZDF_info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/516.ts
+#EXTINF:-1,GERMAN_SKY_KRIMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/494.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1289.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1288.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1287.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1286.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1285.ts
+#EXTINF:-1,GERMANY_Sky-Select_HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1284.ts
+#EXTINF:-1,GERMANY_Sky_Sport_plus_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2048.ts
+#EXTINF:-1,GERMANY_Sky_Sport_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2049.ts
+#EXTINF:-1,GERMANY_Sky_Sport_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2050.ts
+#EXTINF:-1,GERMANY_Sky_Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2051.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2052.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2053.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2054.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2055.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2056.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2057.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Time_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2058.ts
+#EXTINF:-1,GERMANY_Sky_Select_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2059.ts
+#EXTINF:-1,GERMANY_Sky_Select_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2060.ts
+#EXTINF:-1,GERMANY_Sky_Sport_Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2061.ts
+#EXTINF:-1,GERMANY_Sky_Cinema_ 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2062.ts
+#EXTINF:-1,GERMANY_Sky_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2063.ts
+#EXTINF:-1,GERMANY_Sky_Swr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2064.ts
+#EXTINF:-1,GERMANY_Sky_RTL_Nitro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2065.ts
+#EXTINF:-1,GERMANY_ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2066.ts
+#EXTINF:-1,GERMANY_Sky_SRF_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2067.ts
+#EXTINF:-1,GERMANY_Sky_SRF_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2068.ts
+#EXTINF:-1,GERMANY_Sky_FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2069.ts
+#EXTINF:-1,GERMANY_Sky_Deluxe_Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2070.ts
+#EXTINF:-1,GERMANY_Sky_Disney_Cinemagic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2071.ts
+#EXTINF:-1,GERMANY_Sky_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2072.ts
+#EXTINF:-1,GERMANY_Sky_TNT_Serie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2073.ts
+#EXTINF:-1,GERMANY_Sky_TNT_Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2074.ts
+#EXTINF:-1,GERMANY_Sky_Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2075.ts
+#EXTINF:-1,GERMANY_Sky_Nat_Geo_wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2076.ts
+#EXTINF:-1,GERMANY_Sky_History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2077.ts
+#EXTINF:-1,GERMANY_Sky_Servus_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2078.ts
+#EXTINF:-1,GERMANY_Sky_13th_Street
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2079.ts
+#EXTINF:-1,GERMANY_Sky_BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2080.ts
+#EXTINF:-1,GERMANY_Sky_RBB_Berlin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2081.ts
+#EXTINF:-1,GERMANY_Sky_Phoenix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2082.ts
+#EXTINF:-1,GERMANY_Sky_WDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2083.ts
+#EXTINF:-1,GERMANY_Sky_Sixx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2084.ts
+#EXTINF:-1,GERMANY_Sky_Pro_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2085.ts
+#EXTINF:-1,GERMANY_Sky_NDR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2086.ts
+#EXTINF:-1,GERMANY_Sky_N24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2087.ts
+#EXTINF:-1,GERMANY_Sky_N-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2088.ts
+#EXTINF:-1,GERMANY_Sky_MDR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2089.ts
+#EXTINF:-1,GERMANY_Sky_Kika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2090.ts
+#EXTINF:-1,GERMANY_Sky_Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2091.ts
+#EXTINF:-1,GERMANY_Sky_AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2092.ts
+#EXTINF:-1,GERMANY_Sky_ARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2093.ts
+#EXTINF:-1,GERMANY_Sky_3sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2094.ts
+#EXTINF:-1,------ ★ Turkish  ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/676.ts
+#EXTINF:-1,TR:TRT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3251.ts
+#EXTINF:-1,TR:TRT_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3252.ts
+#EXTINF:-1,TR:TRT_TURK_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3253.ts
+#EXTINF:-1,TR:TRT_TUrk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3254.ts
+#EXTINF:-1,TR:Show_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3255.ts
+#EXTINF:-1,TR:Fox_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3256.ts
+#EXTINF:-1,TR:Star_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3257.ts
+#EXTINF:-1,TR:KANAL_D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3258.ts
+#EXTINF:-1,TR:ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3259.ts
+#EXTINF:-1,TR:TV_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3260.ts
+#EXTINF:-1,TR:Kanal_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3261.ts
+#EXTINF:-1,TR:Show_Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3262.ts
+#EXTINF:-1,TR:TV_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3263.ts
+#EXTINF:-1,TR:TLC_TURKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3264.ts
+#EXTINF:-1,TR:TGRT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3265.ts
+#EXTINF:-1,TR:YASIN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3266.ts
+#EXTINF:-1,TR:SEMERKAND_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3267.ts
+#EXTINF:-1,TR:Planet_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3268.ts
+#EXTINF:-1,TR:Planet_PEMBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3269.ts
+#EXTINF:-1,TR:Planet_Mutfak
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3270.ts
+#EXTINF:-1,TR:Mesaj_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3271.ts
+#EXTINF:-1,TR:Meltem_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3272.ts
+#EXTINF:-1,TR:KURAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3273.ts
+#EXTINF:-1,TR:FLASH_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3274.ts
+#EXTINF:-1,TR:Beyaz_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3275.ts
+#EXTINF:-1,TR:AKILLI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3276.ts
+#EXTINF:-1,TR:tivubu_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3277.ts
+#EXTINF:-1,TR:tivubu_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3278.ts
+#EXTINF:-1,TR:DSMART_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3279.ts
+#EXTINF:-1,TR:DSMART_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3280.ts
+#EXTINF:-1,TR:NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3281.ts
+#EXTINF:-1,TR:EUROSPORTHD_TR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3282.ts
+#EXTINF:-1,TR:Mtv_sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3283.ts
+#EXTINF:-1,TR:TRT_SPOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3284.ts
+#EXTINF:-1,TR:TRT_spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3285.ts
+#EXTINF:-1,TR:SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3286.ts
+#EXTINF:-1,TR:NTV_SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3287.ts
+#EXTINF:-1,TR:FB_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3288.ts
+#EXTINF:-1,TR:A_Spor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3289.ts
+#EXTINF:-1,TR:YABAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3290.ts
+#EXTINF:-1,TR:World_Travel_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3291.ts
+#EXTINF:-1,TR:TRT_BELGESEL_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3292.ts
+#EXTINF:-1,TR:TGRT_Belgesel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3293.ts
+#EXTINF:-1,TR:M_BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3294.ts
+#EXTINF:-1,TR:Fashion_One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3295.ts
+#EXTINF:-1,TR:CIFTCI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3296.ts
+#EXTINF:-1,TR:BEREKET_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3297.ts
+#EXTINF:-1,TR:AV_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3298.ts
+#EXTINF:-1,TR:TRT_COCUK_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3299.ts
+#EXTINF:-1,TR:TRT_cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3300.ts
+#EXTINF:-1,TR:Planet_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3301.ts
+#EXTINF:-1,TR:Minika_Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3302.ts
+#EXTINF:-1,TR:Minika_cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3303.ts
+#EXTINF:-1,TR:DIsney_Ch_TURKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3304.ts
+#EXTINF:-1,TR:CARTOON_NET_TURKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3305.ts
+#EXTINF:-1,TR:Yurdum_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3306.ts
+#EXTINF:-1,TR:YOL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3307.ts
+#EXTINF:-1,TR:YILDIZ_TV*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3308.ts
+#EXTINF:-1,TR:YILDIZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3309.ts
+#EXTINF:-1,TR:VUSLAT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3310.ts
+#EXTINF:-1,TR:VIZYON_TURKTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3311.ts
+#EXTINF:-1,TR:Vizyon_58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3312.ts
+#EXTINF:-1,TR:VATAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3313.ts
+#EXTINF:-1,TR:Ulke_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3314.ts
+#EXTINF:-1,TR:TV_HDEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3315.ts
+#EXTINF:-1,TR:TV_Net
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3316.ts
+#EXTINF:-1,TR:TV_KAYSERI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3317.ts
+#EXTINF:-1,TR:TV_52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3318.ts
+#EXTINF:-1,TR:TV_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3319.ts
+#EXTINF:-1,TR:TV_27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3320.ts
+#EXTINF:-1,TR:TV_10_TURKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3321.ts
+#EXTINF:-1,TR:TV_100
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3322.ts
+#EXTINF:-1,TR:TVT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3323.ts
+#EXTINF:-1,TR:TV5_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3324.ts
+#EXTINF:-1,TR:TV1_TURKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3325.ts
+#EXTINF:-1,TR:TURKIYEM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3326.ts
+#EXTINF:-1,TR:Ton_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3327.ts
+#EXTINF:-1,TR:TELE_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3328.ts
+#EXTINF:-1,TR:TEKRUMELI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3329.ts
+#EXTINF:-1,TR:SUPER_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3330.ts
+#EXTINF:-1,TR:SUNNA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3331.ts
+#EXTINF:-1,TR:SRT_Sivas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3332.ts
+#EXTINF:-1,TR:SIHHAT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3333.ts
+#EXTINF:-1,TR:RUMELI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3334.ts
+#EXTINF:-1,TR:PAMUKKALE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3335.ts
+#EXTINF:-1,TR:ON_4TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3336.ts
+#EXTINF:-1,TR:OLAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3337.ts
+#EXTINF:-1,TR:NUR_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3338.ts
+#EXTINF:-1,TR:Mercan_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3339.ts
+#EXTINF:-1,TR:MEDINE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3340.ts
+#EXTINF:-1,TR:MAVIKARADENIZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3341.ts
+#EXTINF:-1,TR:Manisa_Medya_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3342.ts
+#EXTINF:-1,TR:MAKINE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3343.ts
+#EXTINF:-1,TR:Kudus_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3344.ts
+#EXTINF:-1,TR:KRT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3345.ts
+#EXTINF:-1,TR:KOZA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3346.ts
+#EXTINF:-1,TR:Koy_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3347.ts
+#EXTINF:-1,TR:KON_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3348.ts
+#EXTINF:-1,TR:Kocaeli_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3349.ts
+#EXTINF:-1,TR:Karadeniz_Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3350.ts
+#EXTINF:-1,TR:KANAL_V
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3351.ts
+#EXTINF:-1,TR:KANAL_URFA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3352.ts
+#EXTINF:-1,TR:Kanal_TEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3353.ts
+#EXTINF:-1,TR:Kanal_T
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3354.ts
+#EXTINF:-1,TR:KANAL_S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3355.ts
+#EXTINF:-1,TR:KANAL_K33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3356.ts
+#EXTINF:-1,TR:KANAL_G
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3357.ts
+#EXTINF:-1,TR:KANAL_F
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3358.ts
+#EXTINF:-1,TR:KANAL_C
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3359.ts
+#EXTINF:-1,TR:Kanal_B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3360.ts
+#EXTINF:-1,TR:KANAL_AVRUPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3361.ts
+#EXTINF:-1,TR:KANAL_A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3362.ts
+#EXTINF:-1,TR:Kanal_5TU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3363.ts
+#EXTINF:-1,TR:KANAL_58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3364.ts
+#EXTINF:-1,TR:KANAL_42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3365.ts
+#EXTINF:-1,TR:Kanal_35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3366.ts
+#EXTINF:-1,TR:Kanal_32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3367.ts
+#EXTINF:-1,TR:Kanal_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3368.ts
+#EXTINF:-1,TR:Kanal_26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3369.ts
+#EXTINF:-1,TR:Kanal_23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3370.ts
+#EXTINF:-1,TR:Kanal_15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3371.ts
+#EXTINF:-1,TR:Kanal68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3372.ts
+#EXTINF:-1,TR:KADIRGA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3373.ts
+#EXTINF:-1,TR:KACKAR_KARADENIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3374.ts
+#EXTINF:-1,TR:HILAL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3375.ts
+#EXTINF:-1,TR:HAYAT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3376.ts
+#EXTINF:-1,TR:GONCA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3377.ts
+#EXTINF:-1,TR:GENC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3378.ts
+#EXTINF:-1,TR:GAZIANTEP_OLAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3379.ts
+#EXTINF:-1,TR:GALA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3380.ts
+#EXTINF:-1,TR:FULL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3381.ts
+#EXTINF:-1,TR:FM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3382.ts
+#EXTINF:-1,TR:Ezgi_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3383.ts
+#EXTINF:-1,TR:EGE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3384.ts
+#EXTINF:-1,TR:EGE_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3385.ts
+#EXTINF:-1,TR:Dost_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3386.ts
+#EXTINF:-1,TR:Dolunay
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3387.ts
+#EXTINF:-1,TR:DOHUTV_ERZURUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3388.ts
+#EXTINF:-1,TR:DENIZLI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3389.ts
+#EXTINF:-1,TR:Damla_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3390.ts
+#EXTINF:-1,TR:CEM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3391.ts
+#EXTINF:-1,TR:CAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3392.ts
+#EXTINF:-1,TR:Can_Erzincan_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3393.ts
+#EXTINF:-1,TR:Bursa_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3394.ts
+#EXTINF:-1,TR:BEYKENT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3395.ts
+#EXTINF:-1,TR:BENGU_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3396.ts
+#EXTINF:-1,TR:BEDIR_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3397.ts
+#EXTINF:-1,TR:BARIS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3398.ts
+#EXTINF:-1,TR:ASTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3399.ts
+#EXTINF:-1,TR:ART_Aksaray
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3400.ts
+#EXTINF:-1,TR:AKSU_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3401.ts
+#EXTINF:-1,TR:Akit_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3402.ts
+#EXTINF:-1,TR:AKDENIZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3403.ts
+#EXTINF:-1,TR:AGI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3404.ts
+#EXTINF:-1,TR:ADANA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3405.ts
+#EXTINF:-1,TR:Abant_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3406.ts
+#EXTINF:-1,TR:A9_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3407.ts
+#EXTINF:-1,TR:4EYLUL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3408.ts
+#EXTINF:-1,TR:Show Radyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3409.ts
+#EXTINF:-1,TR:Semerkand Radyo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3410.ts
+#EXTINF:-1,TR:Radyo Viva
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3411.ts
+#EXTINF:-1,TR:RADYO EGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3412.ts
+#EXTINF:-1,TR:RADYO 2000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3413.ts
+#EXTINF:-1,TR:Number 1 TÃ¼rk FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3414.ts
+#EXTINF:-1,TR:Kral FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3415.ts
+#EXTINF:-1,TR:Karadeniz FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3416.ts
+#EXTINF:-1,TR:DOST FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3417.ts
+#EXTINF:-1,TR:DOLUNAY FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3418.ts
+#EXTINF:-1,TR:ZAROK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3419.ts
+#EXTINF:-1,TR:Waar_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3420.ts
+#EXTINF:-1,TR:VAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3421.ts
+#EXTINF:-1,TR:TRT_kurd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3422.ts
+#EXTINF:-1,TR:RUDAW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3423.ts
+#EXTINF:-1,TR:LALE_GUL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3424.ts
+#EXTINF:-1,TR:Kurdistan_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3425.ts
+#EXTINF:-1,TR:KANAL_FIRAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3426.ts
+#EXTINF:-1,TR:JIYAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3427.ts
+#EXTINF:-1,TR:HEVI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3428.ts
+#EXTINF:-1,TR:EVIN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3429.ts
+#EXTINF:-1,TR:DENGE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3430.ts
+#EXTINF:-1,TR:Azadi_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3431.ts
+#EXTINF:-1,TR:VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3432.ts
+#EXTINF:-1,TR:TRT_MUZIK_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3433.ts
+#EXTINF:-1,TR:TMB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3434.ts
+#EXTINF:-1,TR:SEYMEN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3435.ts
+#EXTINF:-1,TR:NUMBER1_TVHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3436.ts
+#EXTINF:-1,TR:NUMBER1_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3437.ts
+#EXTINF:-1,TR:NUMBER1TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3438.ts
+#EXTINF:-1,TR:MMC_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3439.ts
+#EXTINF:-1,TR:Kral_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3440.ts
+#EXTINF:-1,TR:Kral_Pop_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3441.ts
+#EXTINF:-1,TR:DREAM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3442.ts
+#EXTINF:-1,TR:DREAM_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3443.ts
+#EXTINF:-1,TR:BEST_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3444.ts
+#EXTINF:-1,TR:wip turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3445.ts
+#EXTINF:-1,TR:wip korku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3446.ts
+#EXTINF:-1,TR:wip germany
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3447.ts
+#EXTINF:-1,TR:wip comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3448.ts
+#EXTINF:-1,TR:wip cocuk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3449.ts
+#EXTINF:-1,TR:wip action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3450.ts
+#EXTINF:-1,TR:saloon1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3453.ts
+#EXTINF:-1,TR:saloon2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3452.ts
+#EXTINF:-1,TR:saloon3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3451.ts
+#EXTINF:-1,TR:gala1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3467.ts
+#EXTINF:-1,TR:gala2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3461.ts
+#EXTINF:-1,TR:gala3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3460.ts
+#EXTINF:-1,TR:gala4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3459.ts
+#EXTINF:-1,TR:gala5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3458.ts
+#EXTINF:-1,TR:gala6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3457.ts
+#EXTINF:-1,TR:gala7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3456.ts
+#EXTINF:-1,TR:gala8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3455.ts
+#EXTINF:-1,TR:gala9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3454.ts
+#EXTINF:-1,TR:gala10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3466.ts
+#EXTINF:-1,TR:gala11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3465.ts
+#EXTINF:-1,TR:gala12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3464.ts
+#EXTINF:-1,TR:gala13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3463.ts
+#EXTINF:-1,TR:gala14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3462.ts
+#EXTINF:-1,TR:UZAY_HABERTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3468.ts
+#EXTINF:-1,TR:ULUSAL_KANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3469.ts
+#EXTINF:-1,TR:TRT_HABER_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3470.ts
+#EXTINF:-1,TR:TRT_Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3471.ts
+#EXTINF:-1,TR:TGRT_Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3472.ts
+#EXTINF:-1,TR:NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3473.ts
+#EXTINF:-1,TR:HALK_TV_EU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3474.ts
+#EXTINF:-1,TR:Halk_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3475.ts
+#EXTINF:-1,TR:Haber_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3476.ts
+#EXTINF:-1,TR:Haberturk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3477.ts
+#EXTINF:-1,TR:HABERAKS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3478.ts
+#EXTINF:-1,TR:CNNTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3479.ts
+#EXTINF:-1,TR:Bloomberg_HT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3480.ts
+#EXTINF:-1,TR:A_Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3481.ts
+#EXTINF:-1,TR:360_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3482.ts
+#EXTINF:-1,TR:LIGTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2832.ts
+#EXTINF:-1,TR:LIGTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2833.ts
+#EXTINF:-1,TR:LIGTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2834.ts
+#EXTINF:-1,TR:LIGTV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2835.ts
+#EXTINF:-1,TR:TIVIBU SPOR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2836.ts
+#EXTINF:-1,TR:TIVIBU SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2837.ts
+#EXTINF:-1,TRT_KURDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2831.ts
+#EXTINF:-1,tu_ligtv1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1705.ts
+#EXTINF:-1,tu_ligtv2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1706.ts
+#EXTINF:-1,TU_ligtv3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1707.ts
+#EXTINF:-1,Turkish:PPV Salon 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1709.ts
+#EXTINF:-1,Turkish: TRT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1711.ts
+#EXTINF:-1,TR: TRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1712.ts
+#EXTINF:-1,Turkish: TRT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1699.ts
+#EXTINF:-1,Turkish: Sports TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1700.ts
+#EXTINF:-1,Turkish: Show TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1714.ts
+#EXTINF:-1,Turkish: Salon 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1710.ts
+#EXTINF:-1,Turkish: Salon 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1708.ts
+#EXTINF:-1,Turkish: PPV Dsmart Loca3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1715.ts
+#EXTINF:-1,Turkish: PPV Dsmart Loca2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1716.ts
+#EXTINF:-1,Turkish: PPV Dsmart Loca1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1717.ts
+#EXTINF:-1,TR: Kanal A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1718.ts
+#EXTINF:-1,Turkish: Kanal 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1702.ts
+#EXTINF:-1,Turkish: foxtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1721.ts
+#EXTINF:-1,Turkish: Euro D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1713.ts
+#EXTINF:-1,Turkish: ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1719.ts
+#EXTINF:-1,Turkish: A Spor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/1720.ts
+#EXTINF:-1,------ ★ TV_AFRICAINES ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/551.ts
+#EXTINF:-1,sntv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/226.ts
+#EXTINF:-1,2STV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/728.ts
+#EXTINF:-1,SenTV-HD_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/723.ts
+#EXTINF:-1,Sen-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/724.ts
+#EXTINF:-1,Tfm-Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/729.ts
+#EXTINF:-1,QACAIDTV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/736.ts
+#EXTINF:-1,ALAZHARTOUBA-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/738.ts
+#EXTINF:-1,BICHRI-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/733.ts
+#EXTINF:-1,Cinema-Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/726.ts
+#EXTINF:-1,Diaspora24_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/734.ts
+#EXTINF:-1,Lamp-Fall-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/732.ts
+#EXTINF:-1,ortm_af
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/229.ts
+#EXTINF:-1,TOUBA-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/735.ts
+#EXTINF:-1,TELE-ECOLE_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/739.ts
+#EXTINF:-1,tfm_senegal_af
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/228.ts
+#EXTINF:-1,Xidma-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/740.ts
+#EXTINF:-1,Walf-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/725.ts
+#EXTINF:-1,RTS1_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/727.ts
+#EXTINF:-1,LSC-SENEGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/737.ts
+#EXTINF:-1,Mouride-tv_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/730.ts
+#EXTINF:-1,MOURCHID-TV_Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/731.ts
+#EXTINF:-1,MUSICTV-Senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/741.ts
+#EXTINF:-1,AF_STAR-TV-TANZANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/905.ts
+#EXTINF:-1,AF--Canal-225-TV-Benin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/854.ts
+#EXTINF:-1,Al-Sunnah-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/855.ts
+#EXTINF:-1,AF--AIT-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/856.ts
+#EXTINF:-1,AF--Afro-Music-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/857.ts
+#EXTINF:-1,AF--Africable
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/858.ts
+#EXTINF:-1,ADOM-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/834.ts
+#EXTINF:-1,Aci-TV_OM5-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/815.ts
+#EXTINF:-1,Abidjan-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/838.ts
+#EXTINF:-1,AF--Nollywood-Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/887.ts
+#EXTINF:-1,AF--Mali--TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/844.ts
+#EXTINF:-1,AF--KTN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/845.ts
+#EXTINF:-1,AF--EWTN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/846.ts
+#EXTINF:-1,AF--ESTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/847.ts
+#EXTINF:-1,AF--Equinoxe-TV-Cameroon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/848.ts
+#EXTINF:-1,AF--EBC-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/849.ts
+#EXTINF:-1,AF--Digital-Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/850.ts
+#EXTINF:-1,AF--Tele-Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/841.ts
+#EXTINF:-1,AF--D24-Diaspora-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/851.ts
+#EXTINF:-1,AF--CRTV-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/852.ts
+#EXTINF:-1,AF--Canal-2-International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/853.ts
+#EXTINF:-1,APTV-Martinique
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/803.ts
+#EXTINF:-1,Afrique-Media-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/814.ts
+#EXTINF:-1,Afrique-Media
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/816.ts
+#EXTINF:-1,Africa-News-Network-7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/875.ts
+#EXTINF:-1,Africa-Cable-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/818.ts
+#EXTINF:-1,AFRICA-24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/885.ts
+#EXTINF:-1,AF-Gulli-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/840.ts
+#EXTINF:-1,Al-Quraan-Al-Kareem-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/839.ts
+#EXTINF:-1,AF--RTVS1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/842.ts
+#EXTINF:-1,AF--Oromiyaa-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/843.ts
+#EXTINF:-1,AF--Nollywood-Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/886.ts
+#EXTINF:-1,ELECTRON-TV_Chad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/793.ts
+#EXTINF:-1,Dunamis-tv_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/779.ts
+#EXTINF:-1,DUNAMIS-NIGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/868.ts
+#EXTINF:-1,LOVEWORLD-PLUS-NIGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/876.ts
+#EXTINF:-1,Emmanuel-TV_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/781.ts
+#EXTINF:-1,Digital-Congo-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/824.ts
+#EXTINF:-1,B-ONE-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/751.ts
+#EXTINF:-1,BEN-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/813.ts
+#EXTINF:-1,BeIN-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/861.ts
+#EXTINF:-1,BBC-NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/873.ts
+#EXTINF:-1,BB24-Benin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/888.ts
+#EXTINF:-1,Mfm-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/827.ts
+#EXTINF:-1,ManaSat-MZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/804.ts
+#EXTINF:-1,MAISHA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/828.ts
+#EXTINF:-1,LC2-Benin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/749.ts
+#EXTINF:-1,K24-KENYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/884.ts
+#EXTINF:-1,Impact-TV_Burkina-Faso
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/808.ts
+#EXTINF:-1,GRTS-TV_Gambia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/829.ts
+#EXTINF:-1,Golfe-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/810.ts
+#EXTINF:-1,Fusion-Plus-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/811.ts
+#EXTINF:-1,EWTN-Africa--India
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/837.ts
+#EXTINF:-1,Eletron-Tv_Chad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/812.ts
+#EXTINF:-1,ATV_Amansan-Television_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/762.ts
+#EXTINF:-1,Cine_Africa_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/761.ts
+#EXTINF:-1,GTV_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/760.ts
+#EXTINF:-1,Joy-News_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/759.ts
+#EXTINF:-1,Homebase-TV-Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/756.ts
+#EXTINF:-1,GTV-SPORTS-PLUS_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/809.ts
+#EXTINF:-1,CinePlus_Africa _Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/777.ts
+#EXTINF:-1,TV-Africa-Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/758.ts
+#EXTINF:-1,CNN-ENGLISH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/872.ts
+#EXTINF:-1,Cnbc-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/819.ts
+#EXTINF:-1,CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/748.ts
+#EXTINF:-1,Cine24-Gambia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/831.ts
+#EXTINF:-1,Chosen-TV_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/780.ts
+#EXTINF:-1,CANAL-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/778.ts
+#EXTINF:-1,dici
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/878.ts
+#EXTINF:-1,Channel-TV-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/867.ts
+#EXTINF:-1,DIVINE-TRUTH-(SOUTH-AFRICA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/883.ts
+#EXTINF:-1,Kurios-TV_South-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/806.ts
+#EXTINF:-1,Kruiskyk-TV_South-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/807.ts
+#EXTINF:-1,Music-Snegale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/882.ts
+#EXTINF:-1,af_tpa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/479.ts
+#EXTINF:-1,ORTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/433.ts
+#EXTINF:-1,rts1_af
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/435.ts
+#EXTINF:-1,royal_somali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/471.ts
+#EXTINF:-1,Somaliland_National_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/318.ts
+#EXTINF:-1,Universal_Somali_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/434.ts
+#EXTINF:-1,rudaw
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/223.ts
+#EXTINF:-1,El_Mouritaniya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/467.ts
+#EXTINF:-1,RTD_Djibouti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/460.ts
+#EXTINF:-1,etv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/227.ts
+#EXTINF:-1,R2TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/801.ts
+#EXTINF:-1,Press-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/874.ts
+#EXTINF:-1,Planet-RTV_Afriquedusud
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/805.ts
+#EXTINF:-1,PEACE-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/860.ts
+#EXTINF:-1,ORTM_Mali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/785.ts
+#EXTINF:-1,ORTB_Benin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/786.ts
+#EXTINF:-1,One-WebTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/802.ts
+#EXTINF:-1,OH-TV_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/754.ts
+#EXTINF:-1,Ogun-state-tv_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/747.ts
+#EXTINF:-1,NTAi_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/782.ts
+#EXTINF:-1,NOLLYWOOD-PREMIERE..
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/744.ts
+#EXTINF:-1,Nollywood-Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/881.ts
+#EXTINF:-1,NOLLYWOOD-MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/745.ts
+#EXTINF:-1,NOLLYWOOD-FRENCH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/746.ts
+#EXTINF:-1,Sports-Plus-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/720.ts
+#EXTINF:-1,Somali-Broadcasting-Corporation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/797.ts
+#EXTINF:-1,SNTV-(TOOS-U-DAAWO)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/817.ts
+#EXTINF:-1,SLBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/864.ts
+#EXTINF:-1,SilverBird-TV-Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/879.ts
+#EXTINF:-1,Sikka-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/795.ts
+#EXTINF:-1,SAT-7-(EGYPT)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/870.ts
+#EXTINF:-1,TV-ManaMaputo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/789.ts
+#EXTINF:-1,TV-Continental_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/783.ts
+#EXTINF:-1,TPA_Angola
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/821.ts
+#EXTINF:-1,TM2-MALI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/822.ts
+#EXTINF:-1,THE-LORD'S-CHOSEN-TV-NIGERIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/869.ts
+#EXTINF:-1,TELESAHEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/863.ts
+#EXTINF:-1,ROUGE-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/790.ts
+#EXTINF:-1,Tele-6-Univers
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/791.ts
+#EXTINF:-1,TELE-50_Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/823.ts
+#EXTINF:-1,Tchad-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/792.ts
+#EXTINF:-1,SUNNA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/794.ts
+#EXTINF:-1,Tele_Congo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/481.ts
+#EXTINF:-1,Southern_Sudan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/167.ts
+#EXTINF:-1,Sudan_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/166.ts
+#EXTINF:-1,roya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/462.ts
+#EXTINF:-1,kalsan_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/436.ts
+#EXTINF:-1,Tele_Tchad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/490.ts
+#EXTINF:-1,SOUTHERN_ETHIOPIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/437.ts
+#EXTINF:-1,ZTV_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/752.ts
+#EXTINF:-1,Vox-Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/820.ts
+#EXTINF:-1,Somali-Africa-TV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/788.ts
+#EXTINF:-1,AF_Somali-Africa-TV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/796.ts
+#EXTINF:-1,TVT_Togo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/825.ts
+#EXTINF:-1,TVC-News_Nigeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/784.ts
+#EXTINF:-1,TVC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/826.ts
+#EXTINF:-1,TV7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/750.ts
+#EXTINF:-1,TV3-Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/757.ts
+#EXTINF:-1,TV-SOMALI-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/862.ts
+#EXTINF:-1,Radio-Y-FM_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/763.ts
+#EXTINF:-1,Radio-Starr-Fm_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/764.ts
+#EXTINF:-1,Radio-Sankofa-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/765.ts
+#EXTINF:-1,Radio-Rainbow-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/766.ts
+#EXTINF:-1,Radio-Praises-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/767.ts
+#EXTINF:-1,Radio-Peace-104.3-FM_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/768.ts
+#EXTINF:-1,Radio-Mighty-God-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/769.ts
+#EXTINF:-1,Radio-Joy-99.7-FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/770.ts
+#EXTINF:-1,Radio-Highlife-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/771.ts
+#EXTINF:-1,Radio-Ghana-Waves_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/772.ts
+#EXTINF:-1,Radio-Apple-68-Fm_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/773.ts
+#EXTINF:-1,Radio-Adom-106.3-FM_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/774.ts
+#EXTINF:-1,Radio-ACCRA24_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/775.ts
+#EXTINF:-1,Radio-AB-Zion-Radio_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/776.ts
+#EXTINF:-1,RWANDA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/755.ts
+#EXTINF:-1,RTVGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/798.ts
+#EXTINF:-1,RTP-AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/865.ts
+#EXTINF:-1,RTNC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/799.ts
+#EXTINF:-1,RTi2_Cote-dâ€™ivoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/743.ts
+#EXTINF:-1,RTi1_Cote-dâ€™ivoire
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/742.ts
+#EXTINF:-1,RTGA-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/835.ts
+#EXTINF:-1,Gabon_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/866.ts
+#EXTINF:-1,RTG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/836.ts
+#EXTINF:-1,RTD-Djibouti-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/880.ts
+#EXTINF:-1,RTB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/787.ts
+#EXTINF:-1,RMC-SPORT-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/871.ts
+#EXTINF:-1,Resurrection-TV_Ghana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/753.ts
+#EXTINF:-1,RDV_Gambia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/830.ts
+#EXTINF:-1,Rave-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/800.ts
+#EXTINF:-1,------ ★ SKY_UK ★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/325.ts
+#EXTINF:-1,Sky_Sports_1_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/235.ts
+#EXTINF:-1,Sky_Sports_2_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/236.ts
+#EXTINF:-1,Sky_Sports_3_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/240.ts
+#EXTINF:-1,BT_Sport_1_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/246.ts
+#EXTINF:-1,BT_Sport_2_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/247.ts
+#EXTINF:-1,Sky_Select_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/251.ts
+#EXTINF:-1,sky_Premiere_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/242.ts
+#EXTINF:-1,Sky_Livingit_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/252.ts
+#EXTINF:-1,Sky_Family_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/254.ts
+#EXTINF:-1,UK: DISNEY XD +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/250.ts
+#EXTINF:-1,Sky_Comedy_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/237.ts
+#EXTINF:-1,sky_action_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/255.ts
+#EXTINF:-1,PBS_America_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/244.ts
+#EXTINF:-1,Nat_Geo_Wild_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/249.ts
+#EXTINF:-1,FOX_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/248.ts
+#EXTINF:-1,fox_news_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/257.ts
+#EXTINF:-1,DISCOVERY_History_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/253.ts
+#EXTINF:-1,Cartoonito_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/241.ts
+#EXTINF:-1,uk_TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/245.ts
+#EXTINF:-1,uk_SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/243.ts
+#EXTINF:-1,NickToons_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3486.ts
+#EXTINF:-1,Nickelodeon_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3487.ts
+#EXTINF:-1,Nat_Geo_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/239.ts
+#EXTINF:-1,Disney_MOVIES_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3490.ts
+#EXTINF:-1,Disney_junior_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3491.ts
+#EXTINF:-1,Disney_Channel_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3492.ts
+#EXTINF:-1,Cartoon_Network_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3489.ts
+#EXTINF:-1,uk_alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/405.ts
+#EXTINF:-1,uk_dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/404.ts
+#EXTINF:-1,uk_disney_junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/403.ts
+#EXTINF:-1,uk_eden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/401.ts
+#EXTINF:-1,uk_good_food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/400.ts
+#EXTINF:-1,uk_home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/399.ts
+#EXTINF:-1,UK: REAL LIVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/398.ts
+#EXTINF:-1,UK_SKY_SPORT_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/397.ts
+#EXTINF:-1,uk_sky_drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/396.ts
+#EXTINF:-1,uk_sky_greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/395.ts
+#EXTINF:-1,uk_sky_horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/394.ts
+#EXTINF:-1,uk_skythriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/392.ts
+#EXTINF:-1,uk_watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/391.ts
+#EXTINF:-1,uk_yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/390.ts
+#EXTINF:-1,uk_disney_channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/389.ts
+#EXTINF:-1,uk_atraces
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/388.ts
+#EXTINF:-1,uk_CHANNEL4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/387.ts
+#EXTINF:-1,uk_channel5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/386.ts
+#EXTINF:-1,uk_E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/385.ts
+#EXTINF:-1,UK_FILM_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/384.ts
+#EXTINF:-1,uk_rte1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/383.ts
+#EXTINF:-1,UK_SKY_SPORTS_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/382.ts
+#EXTINF:-1,UK_SKY_SPORTS_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/381.ts
+#EXTINF:-1,UK_SKY_SPORTS_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/380.ts
+#EXTINF:-1,uk_Utv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/379.ts
+#EXTINF:-1,UK_SKY_SPORTS_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/378.ts
+#EXTINF:-1,uk_sky_sports_f1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/376.ts
+#EXTINF:-1,UK_MTV_HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/372.ts
+#EXTINF:-1,uk_ANIMAL_planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/370.ts
+#EXTINF:-1,uk_BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/369.ts
+#EXTINF:-1,uk_CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/367.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/366.ts
+#EXTINF:-1,uk_bbc_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/365.ts
+#EXTINF:-1,uk_WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/363.ts
+#EXTINF:-1,uk_itv3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/362.ts
+#EXTINF:-1,uk_itv2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/361.ts
+#EXTINF:-1,uk_itv1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/360.ts
+#EXTINF:-1,UK_COLORS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2710.ts
+#EXTINF:-1,UK_B4U MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2711.ts
+#EXTINF:-1,UK_ZEE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2712.ts
+#EXTINF:-1,UK_ZING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2713.ts
+#EXTINF:-1,UK_LIVING IT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2714.ts
+#EXTINF:-1,UK_DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2715.ts
+#EXTINF:-1,UK_B4U PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2716.ts
+#EXTINF:-1,UK_B4U MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2717.ts
+#EXTINF:-1,UK_BBC ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2718.ts
+#EXTINF:-1,UK_BBC FOUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2719.ts
+#EXTINF:-1,UK_ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2720.ts
+#EXTINF:-1,UK_ITV BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2721.ts
+#EXTINF:-1,UK_CHANNEL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2722.ts
+#EXTINF:-1,UK_Five Star
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2723.ts
+#EXTINF:-1,UK_GOLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2724.ts
+#EXTINF:-1,UK_SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2725.ts
+#EXTINF:-1,UK_SKY ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2726.ts
+#EXTINF:-1,UK_3e
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2727.ts
+#EXTINF:-1,UK_SONY MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2728.ts
+#EXTINF:-1,UK_CBS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2729.ts
+#EXTINF:-1,UK_MOVIES4MEN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2730.ts
+#EXTINF:-1,UK_SKY ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2731.ts
+#EXTINF:-1,UK_SKY MOVIES ACTION  ADVENTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2732.ts
+#EXTINF:-1,UK_SKY MOVIES SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2733.ts
+#EXTINF:-1,UK_CBEEBIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2734.ts
+#EXTINF:-1,UK_DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2735.ts
+#EXTINF:-1,UK_COMEDY CENTRAL EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2736.ts
+#EXTINF:-1,UK_CRIME  INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2737.ts
+#EXTINF:-1,UK_DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2738.ts
+#EXTINF:-1,UK_DISCOVERY SHED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2739.ts
+#EXTINF:-1,UK_DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2740.ts
+#EXTINF:-1,UK_FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2741.ts
+#EXTINF:-1,UK_HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2742.ts
+#EXTINF:-1,UK_LIFETIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2743.ts
+#EXTINF:-1,UK_QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2744.ts
+#EXTINF:-1,UK_SKY ARTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2745.ts
+#EXTINF:-1,UK_MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2746.ts
+#EXTINF:-1,UK_MTV ROCKS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2747.ts
+#EXTINF:-1,UK_VIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2748.ts
+#EXTINF:-1,UK_CLUBLAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2749.ts
+#EXTINF:-1,UK_VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2750.ts
+#EXTINF:-1,UK_MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2751.ts
+#EXTINF:-1,UK_BOXNATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2752.ts
+#EXTINF:-1,UK_BRITISH EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2753.ts
+#EXTINF:-1,UK_BRITISH EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2754.ts
+#EXTINF:-1,UK_BT SPORT EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2755.ts
+#EXTINF:-1,UK_BT SPORT EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2756.ts
+#EXTINF:-1,UK_LIVERPOOL FC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2757.ts
+#EXTINF:-1,UK_RACING UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2758.ts
+#EXTINF:-1,UK_SETANTA SPORT IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2759.ts
+#EXTINF:-1,UK_MTV BASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2760.ts
+#EXTINF:-1,Baby_Tv_EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/3488.ts
+#EXTINF:-1,------ ★ USA-CANADA★ ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2807.ts
+#EXTINF:-1,USA: ABC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2761.ts
+#EXTINF:-1,USA: GLOBAL MONTREAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2762.ts
+#EXTINF:-1,USA: SPECTRUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2763.ts
+#EXTINF:-1,USA: PRIME PACIFIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2764.ts
+#EXTINF:-1,USA: PRIME ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2765.ts
+#EXTINF:-1,USA: NBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2766.ts
+#EXTINF:-1,USA: FOX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2767.ts
+#EXTINF:-1,USA: DTX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2768.ts
+#EXTINF:-1,USA: DISCOVERY SHOWCASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2769.ts
+#EXTINF:-1,USA: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2770.ts
+#EXTINF:-1,USA: DISCOVERY ID XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2771.ts
+#EXTINF:-1,USA: CBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2772.ts
+#EXTINF:-1,USA: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2773.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2774.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2775.ts
+#EXTINF:-1,USA: AFN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2776.ts
+#EXTINF:-1,USA: AFN NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2777.ts
+#EXTINF:-1,USA: AFN MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2778.ts
+#EXTINF:-1,USA: AFM PULSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2779.ts
+#EXTINF:-1,CANADA: CPAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2780.ts
+#EXTINF:-1,CANADA: WEATHER NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2781.ts
+#EXTINF:-1,CANADA: TVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.104.34/live/barryd/barryd/2782.ts
