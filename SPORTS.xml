@@ -1,193 +1,1085 @@
 #EXTM3U
-#EXTINF:-1,USA : WWE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1316.ts
-#EXTINF:-1,USA : NBC SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1319.ts
-#EXTINF:-1,USA : Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1317.ts
-#EXTINF:-1,USA : Fox Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1318.ts
-#EXTINF:-1,USA : BTN Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1320.ts
-#EXTINF:-1,USA : Bein Sports USA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1321.ts
-#EXTINF:-1,USA : AFN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1322.ts
-#EXTINF:-1,USA : AFN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1323.ts
-#EXTINF:-1,USA : AFN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1324.ts
-#EXTINF:-1,UK : Sky_Sport_F1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1325.ts
-#EXTINF:-1,UK :  Sky Sports HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1329.ts
-#EXTINF:-1,UK :  Sky Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1330.ts
-#EXTINF:-1,UK :  Sky Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1331.ts
-#EXTINF:-1,UK :  Sky Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1332.ts
-#EXTINF:-1,UK :  Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1333.ts
-#EXTINF:-1,UK :  Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1334.ts
-#EXTINF:-1,UK :  Setanta Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1326.ts
-#EXTINF:-1,UK :  SATENTA SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1327.ts
-#EXTINF:-1,UK :  PREMIERE SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1328.ts
-#EXTINF:-1,UK :  BT Sport Europe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1335.ts
-#EXTINF:-1,UK :  BT Sport ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1336.ts
-#EXTINF:-1,UK :  BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1337.ts
-#EXTINF:-1,UK :  BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1338.ts
-#EXTINF:-1,TH : TRUE SPORT HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1339.ts
-#EXTINF:-1,TH : TRUE SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1340.ts
-#EXTINF:-1,SR :  Supersport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1341.ts
-#EXTINF:-1,SR :  Supersport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1342.ts
-#EXTINF:-1,SR :  Supersport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1343.ts
-#EXTINF:-1,SR :  Arenasport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1344.ts
-#EXTINF:-1,SR :  Arenasport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1345.ts
-#EXTINF:-1,SR :  Arenasport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1346.ts
-#EXTINF:-1,SR :  Arenasport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1347.ts
-#EXTINF:-1,SR :  Arenasport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1348.ts
-#EXTINF:-1,PT : SPORT.TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1349.ts
-#EXTINF:-1,PT : SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1350.ts
-#EXTINF:-1,PT : SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1351.ts
-#EXTINF:-1,PT :  Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1352.ts
-#EXTINF:-1,PT :  Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1353.ts
-#EXTINF:-1,NL :  Ziggo Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1354.ts
-#EXTINF:-1,NL :  Sport 1 Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1355.ts
-#EXTINF:-1,NL :  Sport 1 Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1356.ts
-#EXTINF:-1,NL :  Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1357.ts
-#EXTINF:-1,NL :  Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1358.ts
-#EXTINF:-1,NL :  Fox Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1359.ts
-#EXTINF:-1,NL :  Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1360.ts
-#EXTINF:-1,NL :  Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1361.ts
-#EXTINF:-1,NL :  Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1362.ts
-#EXTINF:-1,ML :  Astro Supersport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1363.ts
-#EXTINF:-1,ML :  Astro Supersport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1364.ts
-#EXTINF:-1,ML :  Astro Supersport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1365.ts
-#EXTINF:-1,ML :  Astro Supersport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1366.ts
-#EXTINF:-1,IT :  Sky Sport3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1367.ts
-#EXTINF:-1,IT :  Sky Sport2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1368.ts
-#EXTINF:-1,IT :  Sky Sport1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1369.ts
-#EXTINF:-1,IT :  Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1370.ts
-#EXTINF:-1,IT :  Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1371.ts
-#EXTINF:-1,IT :  Rai Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1372.ts
-#EXTINF:-1,IT :  Rai Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1373.ts
-#EXTINF:-1,IT :  Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1374.ts
-#EXTINF:-1,IT :  Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1375.ts
-#EXTINF:-1,IN:  Ten Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1378.ts
-#EXTINF:-1,IN:  Star Sports4-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1379.ts
-#EXTINF:-1,IN:  Star Sports3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1380.ts
-#EXTINF:-1,IN:  Star Sports2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1376.ts
-#EXTINF:-1,IN:  Star Sports1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1377.ts
-#EXTINF:-1,IN Sony Six
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1315.ts
-#EXTINF:-1,FR: beIN_SPORTS_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1381.ts
-#EXTINF:-1,FR: beIN_SPORTS_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1382.ts
-#EXTINF:-1,FR: beIN SPORTS1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1383.ts
-#EXTINF:-1,FR:  Canal  Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1384.ts
-#EXTINF:-1,DE:  Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1385.ts
-#EXTINF:-1,DE:  Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1386.ts
-#EXTINF:-1,DE:  sky sport austria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1387.ts
-#EXTINF:-1,DE:  Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1388.ts
-#EXTINF:-1,DE:  Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1389.ts
-#EXTINF:-1,AR: MBC Pro Sports 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1390.ts
-#EXTINF:-1,AR: AD_Sports_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1391.ts
-#EXTINF:-1,AR: AD_Sports_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1392.ts
-#EXTINF:-1,AR:  beIN Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1393.ts
-#EXTINF:-1,AR:  beIN Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1394.ts
-#EXTINF:-1,AR:  beIN Sports 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1395.ts
-#EXTINF:-1,AR:  beIN Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1396.ts
-#EXTINF:-1,AR:  beIN Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1397.ts
-#EXTINF:-1,AR:  beIN Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1398.ts
-#EXTINF:-1,AR:  beIN Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1399.ts
-#EXTINF:-1,AR:  beIN Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1400.ts
-#EXTINF:-1,AR:  Bein Sports 17 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1401.ts
-#EXTINF:-1,AR:  Bein Sports 16 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1402.ts
-#EXTINF:-1,AR:  Bein Sports 15 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1403.ts
-#EXTINF:-1,AR:  beIN Sports 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1404.ts
-#EXTINF:-1,AR:  beIN Sports 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1405.ts
-#EXTINF:-1,AR:  beIN Sports 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1406.ts
-#EXTINF:-1,AR:  beIN Sports 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1407.ts
-#EXTINF:-1,AR:  beIN Sports 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1408.ts
-#EXTINF:-1,AR:  beIN Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1409.ts
-#EXTINF:-1,AR:  beIN SPorts
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfree1.com:6969/live/xih9BMko8z/067yOFnd5L/1410.ts
+#EXTINF:-1,------- beIN SPORTS CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2380.ts
+#EXTINF:-1,beIN SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1675.ts
+#EXTINF:-1,beIN SPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1674.ts
+#EXTINF:-1,beIN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1566.ts
+#EXTINF:-1,beIN SPORTS 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1565.ts
+#EXTINF:-1,beIN SPORTS 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1564.ts
+#EXTINF:-1,beIN SPORTS 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1563.ts
+#EXTINF:-1,beIN SPORTS 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/487.ts
+#EXTINF:-1,beIN SPORTS 8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/10.ts
+#EXTINF:-1,beIN SPORTS 9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/9.ts
+#EXTINF:-1,beIN SPORTS 10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/8.ts
+#EXTINF:-1,beIN SPORTS 11 EN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/7.ts
+#EXTINF:-1,beIN SPORTS 12 EN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/6.ts
+#EXTINF:-1,beIN SPORTS 13 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/5.ts
+#EXTINF:-1,beIN SPORTS 14 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/4.ts
+#EXTINF:-1,beIN SPORTS 15 ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3.ts
+#EXTINF:-1,beIN SPORTS 16 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2.ts
+#EXTINF:-1,beIN SPORTS 17 ES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2917.ts
+#EXTINF:-1,beIN MOVIES 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2388.ts
+#EXTINF:-1,beIN MOVIES 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2459.ts
+#EXTINF:-1,beIN MOVIES 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2617.ts
+#EXTINF:-1,beIN MOVIES 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2835.ts
+#EXTINF:-1,beIN Fatafeat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2683.ts
+#EXTINF:-1,beIN Baraem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2837.ts
+#EXTINF:-1,beIN Jeem HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2583.ts
+#EXTINF:-1,beIN Dream Works HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2998.ts
+#EXTINF:-1,beIN JUNIOR KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2867.ts
+#EXTINF:-1,beIN SPORTS NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2673.ts
+#EXTINF:-1,beIN SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2674.ts
+#EXTINF:-1,beIN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1791.ts
+#EXTINF:-1,beIN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1777.ts
+#EXTINF:-1,beIN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1776.ts
+#EXTINF:-1,beIN SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1775.ts
+#EXTINF:-1,beIN SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1773.ts
+#EXTINF:-1,beIN SPORTS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1772.ts
+#EXTINF:-1,beIN SPORTS 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1679.ts
+#EXTINF:-1,beIN SPORTS 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1678.ts
+#EXTINF:-1,beIN SPORTS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1677.ts
+#EXTINF:-1,beIN SPORTS 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1676.ts
+#EXTINF:-1,beIN MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2549.ts
+#EXTINF:-1,beIN MOVIES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2548.ts
+#EXTINF:-1,Al Fajer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2601.ts
+#EXTINF:-1,-------  AlKASS TV CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2573.ts
+#EXTINF:-1,AlKASS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2569.ts
+#EXTINF:-1,AlKASS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2570.ts
+#EXTINF:-1,AlKASS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2571.ts
+#EXTINF:-1,AlKASS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2572.ts
+#EXTINF:-1,-------  MBC PRO SPORT CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2595.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2594.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2593.ts
+#EXTINF:-1,MBC Pro Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2592.ts
+#EXTINF:-1,------- OSN SPORTS CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2410.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2411.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2412.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2413.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2415.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2895.ts
+#EXTINF:-1,OSN Abu Dhabi Sports 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2523.ts
+#EXTINF:-1,OSN SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/78.ts
+#EXTINF:-1,OSN SPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/79.ts
+#EXTINF:-1,OSN SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/80.ts
+#EXTINF:-1,OSN SPORTS 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2416.ts
+#EXTINF:-1,OSN WWE Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2417.ts
+#EXTINF:-1,OSN WWE Network HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2483.ts
+#EXTINF:-1,OSN Fight Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2848.ts
+#EXTINF:-1,OSN Extreme Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2596.ts
+#EXTINF:-1,------- OSN CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2381.ts
+#EXTINF:-1,OSN DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2291.ts
+#EXTINF:-1,OSN Discovery Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3042.ts
+#EXTINF:-1,OSN DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2894.ts
+#EXTINF:-1,OSN Discovery Sc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1800.ts
+#EXTINF:-1,OSN DISCOVERY FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2836.ts
+#EXTINF:-1,OSN Nat People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2586.ts
+#EXTINF:-1,OSN Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2241.ts
+#EXTINF:-1,OSN Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1927.ts
+#EXTINF:-1,OSN Outdoor HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2892.ts
+#EXTINF:-1,OSN History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2768.ts
+#EXTINF:-1,OSN H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2765.ts
+#EXTINF:-1,OSN DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2766.ts
+#EXTINF:-1,OSN Travel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2585.ts
+#EXTINF:-1,OSN Ya Hala! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1823.ts
+#EXTINF:-1,OSN Yahala HD+2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.tunisiaiptv.com:8000/live/HasanSabt/HasanSabt/3564.ts
+#EXTINF:-1,OSN Yahala Shabab HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2242.ts
+#EXTINF:-1,OSN Ya Hala! Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2239.ts
+#EXTINF:-1,OSN Yahala Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2616.ts
+#EXTINF:-1,OSN MBC+ Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1798.ts
+#EXTINF:-1,OSN MBC P Variety HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2618.ts
+#EXTINF:-1,OSN ORBIT Mousalsalt HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3038.ts
+#EXTINF:-1,OSN Al Yawm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2482.ts
+#EXTINF:-1,OSN Al Safwa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2881.ts
+#EXTINF:-1,OSN Fann
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3041.ts
+#EXTINF:-1,OSN CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/85.ts
+#EXTINF:-1,OSN CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1909.ts
+#EXTINF:-1,OSN ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2405.ts
+#EXTINF:-1,OSN ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2406.ts
+#EXTINF:-1,OSN ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2409.ts
+#EXTINF:-1,OSN ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2407.ts
+#EXTINF:-1,OSN ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2408.ts
+#EXTINF:-1,OSN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2289.ts
+#EXTINF:-1,OSN Movies 2+HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/74.ts
+#EXTINF:-1,OSN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://83.149.125.90:8000/live/h0FpfEsesi/hTHo1iTF34/73.ts
+#EXTINF:-1,OSN Movies  Action +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1827.ts
+#EXTINF:-1,OSN Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2246.ts
+#EXTINF:-1,OSN Movies Premier +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2205.ts
+#EXTINF:-1,OSN Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1915.ts
+#EXTINF:-1,OSN MOVIES COMEDY +2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3037.ts
+#EXTINF:-1,OSN Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1877.ts
+#EXTINF:-1,OSN MOVIES FESTIVAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2244.ts
+#EXTINF:-1,OSN MOVIES Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1914.ts
+#EXTINF:-1,OSN Movies Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2995.ts
+#EXTINF:-1,OSN Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3039.ts
+#EXTINF:-1,OSN AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3007.ts
+#EXTINF:-1,OSN FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2908.ts
+#EXTINF:-1,OSN Fox Family Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2566.ts
+#EXTINF:-1,OSN Fox Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2598.ts
+#EXTINF:-1,OSN Star movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2529.ts
+#EXTINF:-1,OSN Star movies+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2574.ts
+#EXTINF:-1,OSN Star world
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2905.ts
+#EXTINF:-1,OSN Star world+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2528.ts
+#EXTINF:-1,OSN First HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1916.ts
+#EXTINF:-1,OSN First HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2912.ts
+#EXTINF:-1,OSN First Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2292.ts
+#EXTINF:-1,OMN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2767.ts
+#EXTINF:-1,OMN Movie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2843.ts
+#EXTINF:-1,OSN Baby tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2821.ts
+#EXTINF:-1,OSN Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2525.ts
+#EXTINF:-1,OSN Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2526.ts
+#EXTINF:-1,OSN Disney Channel HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2488.ts
+#EXTINF:-1,OSN Nick Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2829.ts
+#EXTINF:-1,OSN Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2828.ts
+#EXTINF:-1,OSN CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2842.ts
+#EXTINF:-1,OSN Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2997.ts
+#EXTINF:-1,OSN E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2565.ts
+#EXTINF:-1,OSN TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2581.ts
+#EXTINF:-1,OSN Fashion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2815.ts
+#EXTINF:-1,OSN Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2713.ts
+#EXTINF:-1,OSN CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2597.ts
+#EXTINF:-1,OSN Music Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2588.ts
+#EXTINF:-1,OSN Box Office 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1917.ts
+#EXTINF:-1,OSN Box Office 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1878.ts
+#EXTINF:-1,OSN Box Office 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1918.ts
+#EXTINF:-1,OSN On Demand HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/1802.ts
+#EXTINF:-1,OSN On Demand Extra 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2182.ts
+#EXTINF:-1,OSN On Demand Extra 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2996.ts
+#EXTINF:-1,PPV 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2460.ts
+#EXTINF:-1,PPV 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2461.ts
+#EXTINF:-1,PPV 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2462.ts
+#EXTINF:-1,PPV 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2463.ts
+#EXTINF:-1,PPV WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2464.ts
+#EXTINF:-1,------- My GMA CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2481.ts
+#EXTINF:-1,OSN TFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2834.ts
+#EXTINF:-1,GMA Life TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2479.ts
+#EXTINF:-1,GMA Pinoy TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2478.ts
+#EXTINF:-1,GMA News TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2480.ts
+#EXTINF:-1,------- SKY UK CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2383.ts
+#EXTINF:-1,Sky Movies Select HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2307.ts
+#EXTINF:-1,Sky Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2314.ts
+#EXTINF:-1,Sky Movies Sci-Fi&Horror HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2308.ts
+#EXTINF:-1,Sky Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2309.ts
+#EXTINF:-1,Sky Movies Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2310.ts
+#EXTINF:-1,Sky Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2311.ts
+#EXTINF:-1,Sky Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2313.ts
+#EXTINF:-1,Sky Movies Disney HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2312.ts
+#EXTINF:-1,Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3026.ts
+#EXTINF:-1,Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3018.ts
+#EXTINF:-1,Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3022.ts
+#EXTINF:-1,TLC-IRELAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3017.ts
+#EXTINF:-1,ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3008.ts
+#EXTINF:-1,ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3009.ts
+#EXTINF:-1,ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3010.ts
+#EXTINF:-1,ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3011.ts
+#EXTINF:-1,ITV BE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3012.ts
+#EXTINF:-1,ITV ENCORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3013.ts
+#EXTINF:-1,Good Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3020.ts
+#EXTINF:-1,Fox UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3025.ts
+#EXTINF:-1,Film 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3027.ts
+#EXTINF:-1,E4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3021.ts
+#EXTINF:-1,Dave
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3024.ts
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3019.ts
+#EXTINF:-1,CBS Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3015.ts
+#EXTINF:-1,CBS ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3014.ts
+#EXTINF:-1,Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3023.ts
+#EXTINF:-1,TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2670.ts
+#EXTINF:-1,TRUE MOVIES 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2333.ts
+#EXTINF:-1,TRUE MOVIES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2334.ts
+#EXTINF:-1,Sky News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2524.ts
+#EXTINF:-1,Fox News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2841.ts
+#EXTINF:-1,CBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2567.ts
+#EXTINF:-1,ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2568.ts
+#EXTINF:-1,MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2658.ts
+#EXTINF:-1,CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2659.ts
+#EXTINF:-1,BBC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2664.ts
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2663.ts
+#EXTINF:-1,BBC 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2318.ts
+#EXTINF:-1,BBC 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2319.ts
+#EXTINF:-1,BBC 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2320.ts
+#EXTINF:-1,BBC 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2321.ts
+#EXTINF:-1,Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2340.ts
+#EXTINF:-1,National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2671.ts
+#EXTINF:-1,ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2661.ts
+#EXTINF:-1,DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2662.ts
+#EXTINF:-1,Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2343.ts
+#EXTINF:-1,DISCOVERY TURBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2660.ts
+#EXTINF:-1,DISCOVERY HOME HEALTH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2666.ts
+#EXTINF:-1,Animal Planet UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2668.ts
+#EXTINF:-1,Discovery Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2667.ts
+#EXTINF:-1,History Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2665.ts
+#EXTINF:-1,DISCOVERY HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2342.ts
+#EXTINF:-1,Crime & Investigiation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2669.ts
+#EXTINF:-1,SKY SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2249.ts
+#EXTINF:-1,SKY SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2250.ts
+#EXTINF:-1,SKY SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2296.ts
+#EXTINF:-1,SKY SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2297.ts
+#EXTINF:-1,SKY SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2298.ts
+#EXTINF:-1,SKY SPORTS F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2299.ts
+#EXTINF:-1,BT Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2301.ts
+#EXTINF:-1,BT Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2300.ts
+#EXTINF:-1,BT Sports Europe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2826.ts
+#EXTINF:-1,BT Sports ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2816.ts
+#EXTINF:-1,Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3016.ts
+#EXTINF:-1,Mototrs TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2771.ts
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2613.ts
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2614.ts
+#EXTINF:-1,-------  USA CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2712.ts
+#EXTINF:-1,TSN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2817.ts
+#EXTINF:-1,TSN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2818.ts
+#EXTINF:-1,TSN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2819.ts
+#EXTINF:-1,TSN 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2820.ts
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2484.ts
+#EXTINF:-1,ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2612.ts
+#EXTINF:-1,ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2710.ts
+#EXTINF:-1,NFL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2705.ts
+#EXTINF:-1,Fox Sports 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2703.ts
+#EXTINF:-1,Fox Sports 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2702.ts
+#EXTINF:-1,AFN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2838.ts
+#EXTINF:-1,AFN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2839.ts
+#EXTINF:-1,USA Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2711.ts
+#EXTINF:-1,BRAVO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2709.ts
+#EXTINF:-1,TBS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2699.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2704.ts
+#EXTINF:-1,ABC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2698.ts
+#EXTINF:-1,CW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2707.ts
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2708.ts
+#EXTINF:-1,BYU TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2706.ts
+#EXTINF:-1,CBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2700.ts
+#EXTINF:-1,HALLMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2697.ts
+#EXTINF:-1,------- SKY IT CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2522.ts
+#EXTINF:-1,Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2518.ts
+#EXTINF:-1,Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2520.ts
+#EXTINF:-1,Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2519.ts
+#EXTINF:-1,Sky Sport 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2521.ts
+#EXTINF:-1,Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2517.ts
+#EXTINF:-1,FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2508.ts
+#EXTINF:-1,Supercalcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2575.ts
+#EXTINF:-1,Sky Cinema 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2509.ts
+#EXTINF:-1,Sky Cinema Passion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2516.ts
+#EXTINF:-1,SKY CINEMA MAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2510.ts
+#EXTINF:-1,Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2511.ts
+#EXTINF:-1,Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2512.ts
+#EXTINF:-1,Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2515.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2513.ts
+#EXTINF:-1,Sky Cinema Classic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2514.ts
+#EXTINF:-1,Sky UNO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2576.ts
+#EXTINF:-1,FOX +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2580.ts
+#EXTINF:-1,Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2579.ts
+#EXTINF:-1,Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2578.ts
+#EXTINF:-1,Sky 3D
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2770.ts
+#EXTINF:-1,Sky Primafila 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2882.ts
+#EXTINF:-1,Sky Primafila 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2883.ts
+#EXTINF:-1,Sky Primafila 03 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2884.ts
+#EXTINF:-1,Sky Primafila 04 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2885.ts
+#EXTINF:-1,Sky Primafila 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2886.ts
+#EXTINF:-1,Sky Primafila 06 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2887.ts
+#EXTINF:-1,Sky Primafila 07 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2888.ts
+#EXTINF:-1,Sky Primafila 08 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2889.ts
+#EXTINF:-1,Sky Primafila 09 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2890.ts
+#EXTINF:-1,Sky Primafila 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2891.ts
+#EXTINF:-1,Sky Primafila 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2999.ts
+#EXTINF:-1,Sky Primafila 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3000.ts
+#EXTINF:-1,Sky Primafila 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3001.ts
+#EXTINF:-1,Sky Primafila 14 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3002.ts
+#EXTINF:-1,Sky Primafila 15 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3003.ts
+#EXTINF:-1,Sky Primafila 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3004.ts
+#EXTINF:-1,Sky Primafila 17 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3005.ts
+#EXTINF:-1,Sky Primafila 18 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3006.ts
+#EXTINF:-1,------- CLUB TV CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2530.ts
+#EXTINF:-1,Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2505.ts
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2502.ts
+#EXTINF:-1,MUTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2402.ts
+#EXTINF:-1,LIVERPOOL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2485.ts
+#EXTINF:-1,CHELSEA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2564.ts
+#EXTINF:-1,Roma TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2608.ts
+#EXTINF:-1,Juventus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2610.ts
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2611.ts
+#EXTINF:-1,Milan Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2609.ts
+#EXTINF:-1,-------  TURK CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2813.ts
+#EXTINF:-1,Moviemax Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2783.ts
+#EXTINF:-1,Moviemax Premier 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2782.ts
+#EXTINF:-1,Moviemax Stars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2781.ts
+#EXTINF:-1,FILMBOXHD TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2780.ts
+#EXTINF:-1,Moviemax Festival
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2784.ts
+#EXTINF:-1,MovieSmart Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2811.ts
+#EXTINF:-1,Moviemax Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2785.ts
+#EXTINF:-1,SALON 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2791.ts
+#EXTINF:-1,SALON 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2792.ts
+#EXTINF:-1,SALON 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2793.ts
+#EXTINF:-1,LOCA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2814.ts
+#EXTINF:-1,LOCA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2789.ts
+#EXTINF:-1,LOCA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2790.ts
+#EXTINF:-1,STAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2798.ts
+#EXTINF:-1,Show TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2794.ts
+#EXTINF:-1,POWER TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2806.ts
+#EXTINF:-1,KRAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2805.ts
+#EXTINF:-1,TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2807.ts
+#EXTINF:-1,Fox TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2795.ts
+#EXTINF:-1,KANAL D HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2799.ts
+#EXTINF:-1,KANAL 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2800.ts
+#EXTINF:-1,KANAL 7 AVRUPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2801.ts
+#EXTINF:-1,DREAM TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2804.ts
+#EXTINF:-1,Beyaz TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2796.ts
+#EXTINF:-1,ATV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2797.ts
+#EXTINF:-1,TRT HABER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2810.ts
+#EXTINF:-1,HABER TÜRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2802.ts
+#EXTINF:-1,Nat Geo wild Turk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2808.ts
+#EXTINF:-1,CARTON NETWORK TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2809.ts
+#EXTINF:-1,LIG TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2786.ts
+#EXTINF:-1,LIG TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2787.ts
+#EXTINF:-1,LIG TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2788.ts
+#EXTINF:-1,TRT SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2827.ts
+#EXTINF:-1,NTV SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2803.ts
+#EXTINF:-1,A SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2812.ts
+#EXTINF:-1,------- SKY DE CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2384.ts
+#EXTINF:-1,SKY SPORT HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2323.ts
+#EXTINF:-1,SKY SPORT HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2322.ts
+#EXTINF:-1,Sky Bundesliga HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2425.ts
+#EXTINF:-1,SKY CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2859.ts
+#EXTINF:-1,SKY CINEMA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2866.ts
+#EXTINF:-1,SKY CINEMA 24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2860.ts
+#EXTINF:-1,SKY EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2855.ts
+#EXTINF:-1,SKY COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2858.ts
+#EXTINF:-1,SKY HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2849.ts
+#EXTINF:-1,SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2850.ts
+#EXTINF:-1,SKY KRIMI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2854.ts
+#EXTINF:-1,SKY MGM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2853.ts
+#EXTINF:-1,SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2865.ts
+#EXTINF:-1,SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2864.ts
+#EXTINF:-1,SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2863.ts
+#EXTINF:-1,SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2862.ts
+#EXTINF:-1,SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2861.ts
+#EXTINF:-1,SKY NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2852.ts
+#EXTINF:-1,SKY NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2851.ts
+#EXTINF:-1,SKY DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2857.ts
+#EXTINF:-1,SKY DISNEY CINEMAGIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2856.ts
+#EXTINF:-1,ARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2419.ts
+#EXTINF:-1,ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2418.ts
+#EXTINF:-1,VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2422.ts
+#EXTINF:-1,Sat1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2426.ts
+#EXTINF:-1,RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2428.ts
+#EXTINF:-1,RTL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2427.ts
+#EXTINF:-1,ORF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2431.ts
+#EXTINF:-1,ORF2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2430.ts
+#EXTINF:-1,PRO 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2424.ts
+#EXTINF:-1,Kabel 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2475.ts
+#EXTINF:-1,Sixx
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2423.ts
+#EXTINF:-1,AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2429.ts
+#EXTINF:-1,FOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2420.ts
+#EXTINF:-1,------- CSAT FR CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2382.ts
+#EXTINF:-1,BEINSPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2282.ts
+#EXTINF:-1,BEINSPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2283.ts
+#EXTINF:-1,BEINSPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2302.ts
+#EXTINF:-1,BEINSPORTS MAX 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2545.ts
+#EXTINF:-1,BEINSPORTS MAX 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2544.ts
+#EXTINF:-1,BEINSPORTS MAX 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2543.ts
+#EXTINF:-1,BEINSPORTS MAX 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2542.ts
+#EXTINF:-1,CANAL+ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2718.ts
+#EXTINF:-1,CANAL+ Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2715.ts
+#EXTINF:-1,CANAL+ DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2716.ts
+#EXTINF:-1,CANAL+ CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2717.ts
+#EXTINF:-1,CANAL+ SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2714.ts
+#EXTINF:-1,ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/3028.ts
+#EXTINF:-1,Paris Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2725.ts
+#EXTINF:-1,W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2745.ts
+#EXTINF:-1,Ushuaia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2721.ts
+#EXTINF:-1,Planete
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2733.ts
+#EXTINF:-1,Planete  CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2734.ts
+#EXTINF:-1,PLANETE THALASSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2732.ts
+#EXTINF:-1,OCS Max HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2722.ts
+#EXTINF:-1,OCS Geants HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2723.ts
+#EXTINF:-1,OCS City HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2724.ts
+#EXTINF:-1,M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2731.ts
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2741.ts
+#EXTINF:-1,Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2735.ts
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2736.ts
+#EXTINF:-1,Disney Cinemagic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2737.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2738.ts
+#EXTINF:-1,D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2746.ts
+#EXTINF:-1,Chasse et Pêche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2747.ts
+#EXTINF:-1,Animaux HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2739.ts
+#EXTINF:-1,DISCOVERY SCIENCES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2740.ts
+#EXTINF:-1,France O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2455.ts
+#EXTINF:-1,France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2451.ts
+#EXTINF:-1,France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2452.ts
+#EXTINF:-1,France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2453.ts
+#EXTINF:-1,France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2454.ts
+#EXTINF:-1,TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2450.ts
+#EXTINF:-1,CinÃ© Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2456.ts
+#EXTINF:-1,CINE EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2457.ts
+#EXTINF:-1,CINE FRISSON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2458.ts
+#EXTINF:-1,BOX OFFICE 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2444.ts
+#EXTINF:-1,BOX OFFICE 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2445.ts
+#EXTINF:-1,BOX OFFICE 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2446.ts
+#EXTINF:-1,BOX OFFICE 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2447.ts
+#EXTINF:-1,BOX OFFICE 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2448.ts
+#EXTINF:-1,BOX OFFICE 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2449.ts
+#EXTINF:-1,------- Greece CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2965.ts
+#EXTINF:-1,O1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2966.ts
+#EXTINF:-1,O2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2967.ts
+#EXTINF:-1,O24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2968.ts
+#EXTINF:-1,Zougla TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2958.ts
+#EXTINF:-1,ERT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2951.ts
+#EXTINF:-1,ERT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2952.ts
+#EXTINF:-1,4E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2942.ts
+#EXTINF:-1,STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2949.ts
+#EXTINF:-1,SKAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2950.ts
+#EXTINF:-1,SIGMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2953.ts
+#EXTINF:-1,MEGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2948.ts
+#EXTINF:-1,MEGACY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2955.ts
+#EXTINF:-1,MACEDONIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2947.ts
+#EXTINF:-1,EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2957.ts
+#EXTINF:-1,Nea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2946.ts
+#EXTINF:-1,CAPITAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2956.ts
+#EXTINF:-1,APT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2945.ts
+#EXTINF:-1,ANT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2944.ts
+#EXTINF:-1,Creta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2954.ts
+#EXTINF:-1,Action24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2960.ts
+#EXTINF:-1,JIMJAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2959.ts
+#EXTINF:-1,E Start TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2964.ts
+#EXTINF:-1,Thema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2962.ts
+#EXTINF:-1,ANIMAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2961.ts
+#EXTINF:-1,Kriti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2963.ts
+#EXTINF:-1,------- CTH Staduim CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2535.ts
+#EXTINF:-1,CTH Staduim 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2362.ts
+#EXTINF:-1,CTH Staduim 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2361.ts
+#EXTINF:-1,CTH Staduim 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2360.ts
+#EXTINF:-1,CTH Staduim 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2531.ts
+#EXTINF:-1,CTH Staduim 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2532.ts
+#EXTINF:-1,CTH Staduim 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2533.ts
+#EXTINF:-1,CTH Staduim XHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2534.ts
+#EXTINF:-1,------- Russia CH -------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2991.ts
+#EXTINF:-1,DigiSport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2606.ts
+#EXTINF:-1,DigiSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2486.ts
+#EXTINF:-1,DigiSport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2979.ts
+#EXTINF:-1,DigiSport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2980.ts
+#EXTINF:-1,Digi World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2982.ts
+#EXTINF:-1,Digi 24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2984.ts
+#EXTINF:-1,Digi Animal World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2983.ts
+#EXTINF:-1,football 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2970.ts
+#EXTINF:-1,football 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2969.ts
+#EXTINF:-1,Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2973.ts
+#EXTINF:-1,Russia 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2972.ts
+#EXTINF:-1,Russia 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2971.ts
+#EXTINF:-1,Nashe Kino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2988.ts
+#EXTINF:-1,NASH FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2974.ts
+#EXTINF:-1,Action Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2978.ts
+#EXTINF:-1,hello tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2987.ts
+#EXTINF:-1,Kino Hit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2990.ts
+#EXTINF:-1,Kino Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2989.ts
+#EXTINF:-1,Basketball
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2986.ts
+#EXTINF:-1,MUSIC BOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2985.ts
+#EXTINF:-1,Disney Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2975.ts
+#EXTINF:-1,Cartoon network Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2976.ts
+#EXTINF:-1,Fishing & Hunting
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2981.ts
+#EXTINF:-1,Animal Planet Russia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2977.ts
+#EXTINF:-1,------- Tring CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2385.ts
+#EXTINF:-1,Tring Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2356.ts
+#EXTINF:-1,Tring Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2359.ts
+#EXTINF:-1,Film Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2387.ts
+#EXTINF:-1,Film Aksion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2358.ts
+#EXTINF:-1,Film Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2357.ts
+#EXTINF:-1,Kino Premium 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2589.ts
+#EXTINF:-1,Kino Premium 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2590.ts
+#EXTINF:-1,Kino Premium 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2591.ts
+#EXTINF:-1,------- DISH TV CH --------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2399.ts
+#EXTINF:-1,Star Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2404.ts
+#EXTINF:-1,Star Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2468.ts
+#EXTINF:-1,Star Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2466.ts
+#EXTINF:-1,Star Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2474.ts
+#EXTINF:-1,TEN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2547.ts
+#EXTINF:-1,TEN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2893.ts
+#EXTINF:-1,TEN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2845.ts
+#EXTINF:-1,TEN CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2503.ts
+#EXTINF:-1,WILLOW
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2774.ts
+#EXTINF:-1,Sony Six
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2469.ts
+#EXTINF:-1,Sony ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2847.ts
+#EXTINF:-1,Sony HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2476.ts
+#EXTINF:-1,JALSHA MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2840.ts
+#EXTINF:-1,Star Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2772.ts
+#EXTINF:-1,Star Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2470.ts
+#EXTINF:-1,Colors HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2546.ts
+#EXTINF:-1,&Picture HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2490.ts
+#EXTINF:-1,UTV Movies International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2541.ts
+#EXTINF:-1,Life OK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2992.ts
+#EXTINF:-1,Food Food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2993.ts
+#EXTINF:-1,ZING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2504.ts
+#EXTINF:-1,Rishtey
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2563.ts
+#EXTINF:-1,ZEE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2498.ts
+#EXTINF:-1,Zee Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2492.ts
+#EXTINF:-1,Zee Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2489.ts
+#EXTINF:-1,Zee Smile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2499.ts
+#EXTINF:-1,ZEE Punjabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2500.ts
+#EXTINF:-1,ZEE Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2501.ts
+#EXTINF:-1,ZEE Studio HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2477.ts
+#EXTINF:-1,Zee Bollywood HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2846.ts
+#EXTINF:-1,Zee Bangla
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2536.ts
+#EXTINF:-1,Zee Cinema Bangla
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2994.ts
+#EXTINF:-1,Star Jalsha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2400.ts
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2604.ts
+#EXTINF:-1,Sonic Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2605.ts
+#EXTINF:-1,Music India
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2471.ts
+#EXTINF:-1,Asianet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2497.ts
+#EXTINF:-1,Asianet Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2495.ts
+#EXTINF:-1,Asianet Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2494.ts
+#EXTINF:-1,Asianet News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2493.ts
+#EXTINF:-1,Asianet Suvarna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2769.ts
+#EXTINF:-1,Kiran TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2607.ts
+#EXTINF:-1,Kairali TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2540.ts
+#EXTINF:-1,Surya TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2539.ts
+#EXTINF:-1,Sun TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2537.ts
+#EXTINF:-1,Sun Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2538.ts
+#EXTINF:-1,GEO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2554.ts
+#EXTINF:-1,GEO SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2555.ts
+#EXTINF:-1,GEO KAHANI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2557.ts
+#EXTINF:-1,GEO NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2556.ts
+#EXTINF:-1,HUM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2559.ts
+#EXTINF:-1,HUM TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2558.ts
+#EXTINF:-1,HUM Sitaray
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2560.ts
+#EXTINF:-1,PTV HOME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2553.ts
+#EXTINF:-1,PTV WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2551.ts
+#EXTINF:-1,PTV NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2552.ts
+#EXTINF:-1,PTV SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2550.ts
+#EXTINF:-1,ARY QTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2562.ts
+#EXTINF:-1,ARY DIGITAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.ipsat.me:8000/live/mohit/mohit/2561.ts
