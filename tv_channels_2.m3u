@@ -1,235 +1,49 @@
 #EXTM3U
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BEIN_SPORT_HD  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/47.ts
-#EXTINF:-1,BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/16.ts
-#EXTINF:-1,BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/15.ts
-#EXTINF:-1,BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/14.ts
-#EXTINF:-1,BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/13.ts
-#EXTINF:-1,BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/12.ts
-#EXTINF:-1,BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/11.ts
-#EXTINF:-1,BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/10.ts
-#EXTINF:-1,BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/9.ts
-#EXTINF:-1,BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/8.ts
-#EXTINF:-1,BeinSport_HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/7.ts
-#EXTINF:-1,BeinSport_HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/6.ts
-#EXTINF:-1,BeinSport_HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/5.ts
-#EXTINF:-1,BeinSport_HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/4.ts
-#EXTINF:-1,BeinSport_HD15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/3.ts
-#EXTINF:-1,BeinSport_HD16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/2.ts
-#EXTINF:-1,BeinSport_HD17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/1.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SD_BEIN_SPORT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/162.ts
-#EXTINF:-1,AR:BEIN_1_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/152.ts
-#EXTINF:-1,AR:BEIN_2_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/153.ts
-#EXTINF:-1,AR:BEIN_3_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/154.ts
-#EXTINF:-1,AR:BEIN_4_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/155.ts
-#EXTINF:-1,AR:BEIN_5_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/156.ts
-#EXTINF:-1,AR:BEIN_6_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/157.ts
-#EXTINF:-1,AR:BEIN_7_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/158.ts
-#EXTINF:-1,AR:BEIN_8_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/159.ts
-#EXTINF:-1,AR:BEIN_9_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/160.ts
-#EXTINF:-1,AR:BEIN_10_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/161.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ LOW_BEIN_SPORT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/169.ts
-#EXTINF:-1,AR:BEIN_1_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/163.ts
-#EXTINF:-1,AR:BEIN_2_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/164.ts
-#EXTINF:-1,AR:BEIN_3_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/165.ts
-#EXTINF:-1,AR:BEIN_4_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/166.ts
-#EXTINF:-1,AR:BEIN_5_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/167.ts
-#EXTINF:-1,AR:BEIN_6_LOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/168.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BACKUP_BEIN_HD █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/82.ts
-#EXTINF:-1,Backup:BeinSport_HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/72.ts
-#EXTINF:-1,Backup:BeinSport_HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/73.ts
-#EXTINF:-1,Backup:BeinSport_HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/74.ts
-#EXTINF:-1,Backup:BeinSport_HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/75.ts
-#EXTINF:-1,Backup:BeinSport_HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/76.ts
-#EXTINF:-1,Backup:BeinSport_HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/77.ts
-#EXTINF:-1,Backup:BeinSport_HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/78.ts
-#EXTINF:-1,Backup:BeinSport_HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/79.ts
-#EXTINF:-1,Backup:BeinSport_HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/80.ts
-#EXTINF:-1,Backup:BeinSport_HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/81.ts
-#EXTINF:-1,Backup:BeinSport_HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/86.ts
-#EXTINF:-1,Backup:BeinSport_HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/88.ts
-#EXTINF:-1,Backup:BeinSport_HD14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/89.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SOON:BEIN_SD █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/101.ts
-#EXTINF:-1,BEIN_2_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/91.ts
-#EXTINF:-1,BEIN_4_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/93.ts
-#EXTINF:-1,BEIN_6_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/95.ts
-#EXTINF:-1,BEIN_10_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/99.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ OSN_PRIVATE  █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/48.ts
-#EXTINF:-1,OSN_YAHALA_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/175.ts
-#EXTINF:-1,OSN_MOVIES_KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/179.ts
-#EXTINF:-1,OSN_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/182.ts
-#EXTINF:-1,OSN_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/177.ts
-#EXTINF:-1,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/183.ts
-#EXTINF:-1,OSN_FANN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/172.ts
-#EXTINF:-1,OSN_DISCOVERY_ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/184.ts
-#EXTINF:-1,OSN_AL_YAWM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/170.ts
-#EXTINF:-1,OSN_AL_SAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/171.ts
-#EXTINF:-1,TEST:OSN_BOX_OFFICE_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/50.ts
-#EXTINF:-1,OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/55.ts
-#EXTINF:-1,BACKUP:OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/178.ts
-#EXTINF:-1,OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/49.ts
-#EXTINF:-1,BACKUP:OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/181.ts
-#EXTINF:-1,OSN_FIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/57.ts
-#EXTINF:-1,OSN_BOX_OFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/54.ts
-#EXTINF:-1,TEST:OSN_YAHALA_SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/43.ts
-#EXTINF:-1,BACKUP:OSN_YAHLA_SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/174.ts
-#EXTINF:-1,TEST:OSN_YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/41.ts
-#EXTINF:-1,TEST:OSN_MOVIES_ACTION_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/46.ts
-#EXTINF:-1,TEST:OSN_MOVIES_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/45.ts
-#EXTINF:-1,OSN_STAR_WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/35.ts
-#EXTINF:-1,OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/36.ts
-#EXTINF:-1,BACKUP:OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/180.ts
-#EXTINF:-1,OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/33.ts
-#EXTINF:-1,Backup:OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/131.ts
-#EXTINF:-1,OSN_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/34.ts
-#EXTINF:-1,OSN_BoxOffice_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/32.ts
-#EXTINF:-1,OSN Ad Sport 5 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/22.ts
-#EXTINF:-1,OSN Ad Sport 5 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/31.ts
-#EXTINF:-1,OSN Ad Sport 5 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/17.ts
-#EXTINF:-1,OSN Ad Sport 4 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/23.ts
-#EXTINF:-1,OSN Ad Sport 4 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/30.ts
-#EXTINF:-1,OSN Ad Sport 4 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/18.ts
-#EXTINF:-1,OSN Ad Sport 3 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/24.ts
-#EXTINF:-1,OSN Ad Sport 3 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/29.ts
-#EXTINF:-1,OSN Ad Sport 3 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/19.ts
-#EXTINF:-1,OSN Ad Sport 2 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/25.ts
-#EXTINF:-1,OSN Ad Sport 2 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/28.ts
-#EXTINF:-1,OSN Ad Sport 2 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/20.ts
-#EXTINF:-1,OSN Ad Sport 1 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/26.ts
-#EXTINF:-1,OSN Ad Sport 1 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/27.ts
-#EXTINF:-1,OSN Ad Sport 1 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/21.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NILESAT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/149.ts
-#EXTINF:-1,AR:MBC Masr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/191.ts
-#EXTINF:-1,AR:MBC MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/192.ts
-#EXTINF:-1,Toktok Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/133.ts
-#EXTINF:-1,Time Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/135.ts
-#EXTINF:-1,Sada AL Balad Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/139.ts
-#EXTINF:-1,Rotana Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/129.ts
-#EXTINF:-1,OSN_MUSIC_NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/141.ts
-#EXTINF:-1,Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/130.ts
-#EXTINF:-1,Musalsalat HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/136.ts
-#EXTINF:-1,MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/143.ts
-#EXTINF:-1,Melody Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/134.ts
-#EXTINF:-1,LDC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/142.ts
-#EXTINF:-1,Cima Habisha TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/132.ts
-#EXTINF:-1,CBC Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/137.ts
-#EXTINF:-1,AlKahera Wal Nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/138.ts
-#EXTINF:-1,Abu Dhabi Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/146.ts
-#EXTINF:-1,Abu Dhabi Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/145.ts
-#EXTINF:-1,Abu Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arab/AL4ooil79w/144.ts
+#EXTINF:-1,####OSN####
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/808.ts
+#EXTINF:-1,OSN_YahallDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2268.ts
+#EXTINF:-1,OSN_YahalaShabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2267.ts
+#EXTINF:-1,OSN_Movie_kids_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2273.ts
+#EXTINF:-1,OSN_MOVIE_FESTIVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2274.ts
+#EXTINF:-1,OSN_MOVIE_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2276.ts
+#EXTINF:-1,OSN_MovieDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2275.ts
+#EXTINF:-1,OSN_MovieAction2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2277.ts
+#EXTINF:-1,OSN_MovieAction
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2278.ts
+#EXTINF:-1,OSN_FirstComedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2282.ts
+#EXTINF:-1,OSN_AnimalPlanet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/2270.ts
+#EXTINF:-1,OSN: Ya Hala Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/869.ts
+#EXTINF:-1,OSN: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/868.ts
+#EXTINF:-1,OSN: MOVIES PREMIERE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/817.ts
+#EXTINF:-1,OSN: Movie Action 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/818.ts
+#EXTINF:-1,OSN: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/810.ts
+#EXTINF:-1,OSN: MOVIE ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/809.ts
+#EXTINF:-1,OSN: Yahala HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/815.ts
+#EXTINF:-1,OSN: Movies Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/744.ts
+#EXTINF:-1,OSN: Movie Action 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/741.ts
+#EXTINF:-1,OSN: MOVIES FESTIVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/742.ts
+#EXTINF:-1,OSN: Movie Box Office 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/747.ts
+#EXTINF:-1,OSN: Movie Box Office 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/746.ts
+#EXTINF:-1,OSN: Movie Box Office 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.kmsat.info:8000/live/salah/salah/745.ts
