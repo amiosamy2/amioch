@@ -1,21 +1,113 @@
 #EXTM3U
-#EXTINF: -1,BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/209.ts
-#EXTINF: -1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/210.ts
-#EXTINF: -1,BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/211.ts
-#EXTINF: -1,BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/212.ts
-#EXTINF: -1,BEIN SPORTS HD 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/213.ts
-#EXTINF: -1,BEIN SPORTS HD 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/214.ts
-#EXTINF: -1,BEIN SPORTS HD 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/215.ts
-#EXTINF: -1,BEIN SPORTS HD 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/216.ts
-#EXTINF: -1,BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/217.ts
-#EXTINF: -1,BEIN SPORTS HD 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://opasnivirus.dynns.com:8000/live/stefan/stefan123/218.ts
+#EXTINF:-1,SFR SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3191.ts
+#EXTINF:-1,SFR SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3192.ts
+#EXTINF:-1,FR: beinHD Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/17.ts
+#EXTINF:-1,FR: beinHD Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/18.ts
+#EXTINF:-1,FR: beinHD Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/19.ts
+#EXTINF:-1,UK: Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2006.ts
+#EXTINF:-1,UK: Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2007.ts
+#EXTINF:-1,UK: Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2011.ts
+#EXTINF:-1,UK: Sky Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2012.ts
+#EXTINF:-1,UK: Sky Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2451.ts
+#EXTINF:-1,UK: Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2502.ts
+#EXTINF:-1,Ru: Match Football 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3138.ts
+#EXTINF:-1,Ru: Match Football 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3139.ts
+#EXTINF:-1,Ru: Match Football 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3140.ts
+#EXTINF:-1,SuperSport 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3131.ts
+#EXTINF:-1,SuperSport 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3132.ts
+#EXTINF:-1,SuperSport 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3133.ts
+#EXTINF:-1,superSport 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3134.ts
+#EXTINF:-1,CTH Stadium 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3283.ts
+#EXTINF:-1,CTH Stadium 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3284.ts
+#EXTINF:-1,CTH Stadium 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3285.ts
+#EXTINF:-1,CTH Stadium 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3286.ts
+#EXTINF:-1,CTH Stadium 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3287.ts
+#EXTINF:-1,CTH Stadium 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3288.ts
+#EXTINF:-1,RO: Digi Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2816.ts
+#EXTINF:-1,IN: Star Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2792.ts
+#EXTINF:-1,IN: Star Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2793.ts
+#EXTINF:-1,IN: Star Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2791.ts
+#EXTINF:-1,IN: Star Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2794.ts
+#EXTINF:-1,RO: Digi Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2817.ts
+#EXTINF:-1,RO: Digi Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2818.ts
+#EXTINF:-1,RO: Digi Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2819.ts
+#EXTINF:-1,AR: Dubai Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3317.ts
+#EXTINF:-1,AR: Dubai Racing 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3318.ts
+#EXTINF:-1,AR: Dubai Racing 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3319.ts
+#EXTINF:-1,AR: Kuwait TV Sport Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3321.ts
+#EXTINF:-1,AR: Kuwait TV Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3320.ts
+#EXTINF:-1,AR: YAS SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3209.ts
+#EXTINF:-1,AR: AD Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1041.ts
+#EXTINF:-1,AR: AD Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1042.ts
+#EXTINF:-1,AR: AD Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1301.ts
+#EXTINF:-1,AR: AD Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2416.ts
+#EXTINF:-1,AR: AD Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2417.ts
+#EXTINF:-1,AR: AD Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3682.ts
+#EXTINF:-1,AR: Al Kass Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1213.ts
+#EXTINF:-1,AR: Al Kass Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1214.ts
+#EXTINF:-1,AR: MBC Pro Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1217.ts
+#EXTINF:-1,AR: MBC Pro Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1218.ts
+#EXTINF:-1,AR: MBC Pro Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1220.ts
+#EXTINF:-1,AR: MBC Pro Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1219.ts
+#EXTINF:-1,EX-YU: Arena Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1898.ts
+#EXTINF:-1,EX-YU: Arena Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1899.ts
+#EXTINF:-1,EX-YU: Arena Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1900.ts
+#EXTINF:-1,EX-YU: Arena Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1901.ts
+#EXTINF:-1,UK: BT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1795.ts
+#EXTINF:-1,UK: BT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1796.ts
