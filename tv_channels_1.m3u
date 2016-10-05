@@ -1,2121 +1,384 @@
 #EXTM3U
-#EXTINF:0,====BEINSPORT====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1739.ts
-#EXTINF:0,BEIN_MOVIES_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2773.ts
-#EXTINF:0,BEIN_MOVIES_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2776.ts
-#EXTINF:0,BEIN_MOVIES_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2777.ts
-#EXTINF:0,BEIN_MOVIES_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2778.ts
-#EXTINF:0,BEIN_FATAFEAT_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2780.ts
-#EXTINF:0,BEIN STAR WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2866.ts
-#EXTINF:0,BEIN_DREAMWORKS_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2779.ts
-#EXTINF:0,BEIN_JEEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2775.ts
-#EXTINF:0,BEIN_BARRAEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2774.ts
-#EXTINF:0,BEINSPORT_NEWS_ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/685.ts
-#EXTINF:0,BEIN_SPORTS_1_HD_AR
+#EXTINF:-1,BEIN_SPORTS_1_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/186.ts
-#EXTINF:0,BEIN_SPORTS_1_HDS
+#EXTINF:-1,BEIN_SPORTS_1_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2788.ts
-#EXTINF:0,BEIN_SPORTS_2_HD_AR
+#EXTINF:-1,BEIN_SPORTS_2_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/188.ts
-#EXTINF:0,BEIN_SPORTS_2_HDS
+#EXTINF:-1,BEIN_SPORTS_2_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2789.ts
-#EXTINF:0,BEIN_SPORTS_3_HD_AR
+#EXTINF:-1,BEIN_SPORTS_3_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/189.ts
-#EXTINF:0,BEIN_SPORTS_3_HDS
+#EXTINF:-1,BEIN_SPORTS_3_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2790.ts
-#EXTINF:0,BEIN_SPORTS_4_HD_AR
+#EXTINF:-1,BEIN_SPORTS_4_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/266.ts
-#EXTINF:0,BEIN_SPORTS_4_HDS
+#EXTINF:-1,BEIN_SPORTS_4_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2839.ts
-#EXTINF:0,BEIN_SPORTS_5_HD_AR
+#EXTINF:-1,BEIN_SPORTS_5_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/267.ts
-#EXTINF:0,BEIN_SPORTS_5_HDS
+#EXTINF:-1,BEIN_SPORTS_5_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2840.ts
-#EXTINF:0,BEIN_SPORTS_6_HD_AR
+#EXTINF:-1,BEIN_SPORTS_6_HD_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/268.ts
-#EXTINF:0,BEIN_SPORTS_6_HDS
+#EXTINF:-1,BEIN_SPORTS_6_HDS
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2841.ts
-#EXTINF:0,BEIN_SPORTS_HD7_AR
+#EXTINF:-1,BEIN_SPORTS_HD7_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/7.ts
-#EXTINF:0,BEIN_SPORTS_HD8_AR
+#EXTINF:-1,BEIN_SPORTS_7_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2889.ts
+#EXTINF:-1,BEIN_SPORTS_HD8_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/8.ts
-#EXTINF:0,BEIN_SPORTS_HD9_AR
+#EXTINF:-1,BEIN_SPORTS_8_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2890.ts
+#EXTINF:-1,BEIN_SPORTS_HD9_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/9.ts
-#EXTINF:0,BEIN_SPORTS_HD10_AR
+#EXTINF:-1,BEIN_SPORTS_9_HDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2891.ts
+#EXTINF:-1,BEIN_SPORTS_HD10_AR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/10.ts
-#EXTINF:0,beINSPORT11_HD
+#EXTINF:-1,beINSPORT11_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1798.ts
-#EXTINF:0,beINSPORT12_HD
+#EXTINF:-1,beINSPORT12_HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1799.ts
-#EXTINF:0,BEINSPORT1_SD
+#EXTINF:-1,BEINSPORT1_SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/388.ts
-#EXTINF:0,BEINSPORT_2SD
+#EXTINF:-1,BEINSPORT_2SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/389.ts
-#EXTINF:0,BEINSPORT_3SD
+#EXTINF:-1,BEINSPORT_3SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/390.ts
-#EXTINF:0,BEINSPORT_4SD
+#EXTINF:-1,BEINSPORT_4SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/391.ts
-#EXTINF:0,BEINSPORT_5SD
+#EXTINF:-1,BEINSPORT_5SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/392.ts
-#EXTINF:0,BEINSPORT_6SD
+#EXTINF:-1,BEINSPORT_6SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/393.ts
-#EXTINF:0,BEINSPORT_7SD
+#EXTINF:-1,BEINSPORT_7SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/394.ts
-#EXTINF:0,BEINSPORT_8SD
+#EXTINF:-1,BEINSPORT_8SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/395.ts
-#EXTINF:0,BEINSPORT9_SD
+#EXTINF:-1,BEINSPORT9_SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/396.ts
-#EXTINF:0,BEINSPORT_10SD
+#EXTINF:-1,BEINSPORT_10SD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/397.ts
-#EXTINF:0,OSN_Abu-Dhabi-Sports_3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2546.ts
-#EXTINF:0,OSN_Discovery_Science_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2544.ts
-#EXTINF:0,OSN_Animal-Planet_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2545.ts
-#EXTINF:0,OSN_FOX_ACTION_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1748.ts
-#EXTINF:0,OSN_FOX_FAMILY_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2543.ts
-#EXTINF:0,OSN_MBC_P_Variety_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2547.ts
-#EXTINF:0,OSN_ON_DEMAND_EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2883.ts
-#EXTINF:0,OSN_MOVIES_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2881.ts
-#EXTINF:0,OSN_Movies_Box_Office_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2887.ts
-#EXTINF:0,OSN_Movies_Box_Office_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2886.ts
-#EXTINF:0,OSN_Movies_Box_Office_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2885.ts
-#EXTINF:0,OSN_MOVIES_ACTION_2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2882.ts
-#EXTINF:0,OSN Movies Festilval HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2884.ts
-#EXTINF:0,====ARAB NILESAT====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1734.ts
-#EXTINF:0,AL OULA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/32.ts
-#EXTINF:0,2M MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/31.ts
-#EXTINF:0,AR: Medi1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/931.ts
-#EXTINF:0,AL OULA LAAYOUNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/666.ts
-#EXTINF:0,ARRIADIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/33.ts
-#EXTINF:0,ARRABIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/34.ts
-#EXTINF:0,ALMAGHRIBIA MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/35.ts
-#EXTINF:0,ASSADISA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/415.ts
-#EXTINF:0,AR ALGERIE Tamazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/941.ts
-#EXTINF:0,AL ARABIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/402.ts
-#EXTINF:0,AL ARABIYA ALHADATH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/404.ts
-#EXTINF:0,France24 ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/405.ts
-#EXTINF:0,France24 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/403.ts
-#EXTINF:0,Al JAZEERA ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/398.ts
-#EXTINF:0,BBC ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/660.ts
-#EXTINF:0,Al JAZEERA DOCUMENTARY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/399.ts
-#EXTINF:0,Al JAZEERA MUBASHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/401.ts
-#EXTINF:0,Al JAZEERA ENGLISH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/400.ts
-#EXTINF:0,DW ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2838.ts
-#EXTINF:0,SKY NEWS ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/411.ts
-#EXTINF:0,ART HEKAYAT ZAMANE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/21.ts
-#EXTINF:0,ART HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/22.ts
-#EXTINF:0,ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/20.ts
-#EXTINF:0,ART AFLAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/18.ts
-#EXTINF:0,ART AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/19.ts
-#EXTINF:0,AR Zaytoona – AR Zaytoona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2033.ts
-#EXTINF:0,AR_Wesal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2398.ts
-#EXTINF:0,AR TV Coran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2027.ts
-#EXTINF:0,AR Tunisna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2029.ts
-#EXTINF:0,AR Tunisia National 2 – AR Tunisia National 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2038.ts
-#EXTINF:0,AR Tunisia National 1 – AR Tunisia National 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2037.ts
-#EXTINF:0,Abu_Dhabi_Sports_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/579.ts
-#EXTINF:0,AR Top Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2280.ts
-#EXTINF:0,AR Tok Tok Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2077.ts
-#EXTINF:0,AR Tok Tok Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2076.ts
-#EXTINF:0,AR Time Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2279.ts
-#EXTINF:0,AR Time Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2278.ts
-#EXTINF:0,AR_Time_Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2446.ts
-#EXTINF:0,AR Time Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2277.ts
-#EXTINF:0,AR Ten
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2069.ts
-#EXTINF:0,AR_Tayba_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2337.ts
-#EXTINF:0,AR_Talaqie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2325.ts
-#EXTINF:0,AR_Syria_Education
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2313.ts
-#EXTINF:0,AR_Syria_Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2312.ts
-#EXTINF:0,AR Star Cinema 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2075.ts
-#EXTINF:0,AR Star Cinema 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2074.ts
-#EXTINF:0,AR_Semsem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2393.ts
-#EXTINF:0,AR Saudi Sunnah – AR Saudi Sunnah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2046.ts
-#EXTINF:0,AR Saudi Quran – AR Saudi Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2045.ts
-#EXTINF:0,AR_Saudi_Channel2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2324.ts
-#EXTINF:0,AR_Saudi_Anti
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2323.ts
-#EXTINF:0,AR_Saudi24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2322.ts
-#EXTINF:0,AR_Saudi1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2321.ts
-#EXTINF:0,AR_Sat_7Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2362.ts
-#EXTINF:0,AR_Sat_7Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2363.ts
-#EXTINF:0,AR_Sat7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2361.ts
-#EXTINF:0,AR_Sama_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2317.ts
-#EXTINF:0,AR_Sama_Dubai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2458.ts
-#EXTINF:0,AR_Sadr_Al_Iraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2357.ts
-#EXTINF:0,AR Sada El Balad Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2068.ts
-#EXTINF:0,AR Sada El Balad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2067.ts
-#EXTINF:0,AR Rotana Cinema Ksa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2026.ts
-#EXTINF:0,AR Rotana – AR Rotana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2025.ts
-#EXTINF:0,AR Resalat Al Islam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2047.ts
-#EXTINF:0,AR_Quran_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2441.ts
-#EXTINF:0,AR_Qatar_Today
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2432.ts
-#EXTINF:0,AR Otv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2056.ts
-#EXTINF:0,AR_Oman_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2400.ts
-#EXTINF:0,AR_Noursat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2284.ts
-#EXTINF:0,AR_Nour_El_Sham
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2302.ts
-#EXTINF:0,AR_Noor_Dubai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2457.ts
-#EXTINF:0,AR_Neelain_Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2450.ts
-#EXTINF:0,AR_Naba_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2298.ts
-#EXTINF:0,AR Mtv Lebanon – AR Mtv Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2058.ts
-#EXTINF:0,AR Mta Muslim TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2051.ts
-#EXTINF:0,AR Mta Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2052.ts
-#EXTINF:0,AR_Mouritania_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2451.ts
-#EXTINF:0,AR_Modern_Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2437.ts
-#EXTINF:0,AR_Misr_Alzera3ia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2281.ts
-#EXTINF:0,AR_Menara_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2433.ts
-#EXTINF:0,AR Mazazikh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2060.ts
-#EXTINF:0,AR_Masdar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2385.ts
-#EXTINF:0,AR_Majestick_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2384.ts
-#EXTINF:0,AR_Maan_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2310.ts
-#EXTINF:0,AR_Ltc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2299.ts
-#EXTINF:0,AR Ldc – AR Ldc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2055.ts
-#EXTINF:0,AR Lbc Libanon – AR Lbc Libanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2054.ts
-#EXTINF:0,AR_Kuwait_Deretna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2341.ts
-#EXTINF:0,AR_Kuwait
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2339.ts
-#EXTINF:0,AR_Ktv_Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2473.ts
-#EXTINF:0,A_Ktv_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2472.ts
-#EXTINF:0,AR_Ktv_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2471.ts
-#EXTINF:0,AR_Karbala
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2365.ts
-#EXTINF:0,AR karameesh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2062.ts
-#EXTINF:0,AR_Kanal_Hayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2364.ts
-#EXTINF:0,AR_Jordan_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2410.ts
-#EXTINF:0,AR_Jordan_Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2414.ts
-#EXTINF:0,AR_Jordan_Manaseer
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2419.ts
-#EXTINF:0,AR_Jordan_Jood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2417.ts
-#EXTINF:0,AR_Jordan_Amen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2418.ts
-#EXTINF:0,AR_Jordan_Alwastalbalad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2420.ts
-#EXTINF:0,AR Jannah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2049.ts
-#EXTINF:0,AR i24 News Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2043.ts
-#EXTINF:0,AR_I_Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2318.ts
-#EXTINF:0,AR_Hona_Al_Quds
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2394.ts
-#EXTINF:0,AR Hod Hod TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2061.ts
-#EXTINF:0,AR Hannibal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2030.ts
-#EXTINF:0,AR Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2059.ts
-#EXTINF:0,AR Euronews Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2041.ts
-#EXTINF:0,AR Esc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2063.ts
-#EXTINF:0,AR_Eladjwaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2333.ts
-#EXTINF:0,AR El Hiwar Ettounsi – AR El Hiwar Ettounsi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2032.ts
-#EXTINF:0,AR_El_Heya_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2293.ts
-#EXTINF:0,AR_Dubai_Zaman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2459.ts
-#EXTINF:0,AR_Dubai_Sport_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2463.ts
-#EXTINF:0,AR_Dubai_Sport_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2466.ts
-#EXTINF:0,AR_Dubai_Sport_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2465.ts
-#EXTINF:0,AR_Dubai_Drama_AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2460.ts
-#EXTINF:0,AR_Dubai_AlOula_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2462.ts
-#EXTINF:0,AR_Dawan_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2383.ts
-#EXTINF:0,AR_Daloaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2331.ts
-#EXTINF:0,AR_Cinema_Pro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2282.ts
-#EXTINF:0,AR Cbc 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2064.ts
-#EXTINF:0,AR Cairo Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2276.ts
-#EXTINF:0,AR_Blue_Nile
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2455.ts
-#EXTINF:0,AR_Belad_Haramen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2456.ts
-#EXTINF:0,AR_Bahrain_Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2453.ts
-#EXTINF:0,AR_Bahia_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2328.ts
-#EXTINF:0,AR_Baghdad_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2352.ts
-#EXTINF:0,AR_Azhari
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2405.ts
-#EXTINF:0,AR Attasia TV – AR Attasia TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2031.ts
-#EXTINF:0,AR_Ashorooq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2447.ts
-#EXTINF:0,AR_Arabica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2343.ts
-#EXTINF:0,AR_Annajaf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2439.ts
-#EXTINF:0,AR_Ann
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2286.ts
-#EXTINF:0,AR_Althaqafiah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2452.ts
-#EXTINF:0,AR Al Zitouna Hedaya – AR Al Zitouna Hedaya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2034.ts
-#EXTINF:0,AR_Al_Waad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2319.ts
-#EXTINF:0,AR_Al_Thabat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2347.ts
-#EXTINF:0,AR_Al_Teeb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2382.ts
-#EXTINF:0,AR_Al_Sirat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2399.ts
-#EXTINF:0,AR_Al_Sharqia_News_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2360.ts
-#EXTINF:0,AR_Al_Sharqia_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2358.ts
-#EXTINF:0,AR_Al_Sharq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2294.ts
-#EXTINF:0,AR_Al_Shareyyah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2335.ts
-#EXTINF:0,AR_Al_Shallal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2348.ts
-#EXTINF:0,AR_Al_Shahed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2349.ts
-#EXTINF:0,AR_Al_Shababtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2344.ts
-#EXTINF:0,AR_Al_Sahraa_Aalebel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2373.ts
-#EXTINF:0,AR_Al_Rayyan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2401.ts
-#EXTINF:0,AR_Al_Rasheed
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2316.ts
-#EXTINF:0,AR Al Rahma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2048.ts
-#EXTINF:0,AR_Al_Quds
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2392.ts
-#EXTINF:0,AR_Al_Qanat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2379.ts
-#EXTINF:0,AR_Al_Qamar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2376.ts
-#EXTINF:0,AR Al Omah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2050.ts
-#EXTINF:0,AR_Al_Noujaba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2332.ts
-#EXTINF:0,AR Al Nahar One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2070.ts
-#EXTINF:0,AR Al Nahar Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2071.ts
-#EXTINF:0,AR Al Nahar Alyoum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2072.ts
-#EXTINF:0,AR_Al_Naeem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2338.ts
-#EXTINF:0,AR_Al_Nada
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2377.ts
-#EXTINF:0,AR_Al_Mustakila
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2329.ts
-#EXTINF:0,AR_Al_Mergab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2381.ts
-#EXTINF:0,AR Al Mayadeen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2042.ts
-#EXTINF:0,AR Al Masrawia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2387.ts
-#EXTINF:0,AR_Al_Maaref
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2330.ts
-#EXTINF:0,AR_Al_Kawthar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2444.ts
-#EXTINF:0,AR_Al_Karma_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2296.ts
-#EXTINF:0,AR Al Kahera Wel Nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2066.ts
-#EXTINF:0,AR Al Kahera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2065.ts
-#EXTINF:0,AR Al Jazeera HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2039.ts
-#EXTINF:0,AR Al Janoubia – AR Al Janoubia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2035.ts
-#EXTINF:0,AR_Al_Itejah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2327.ts
-#EXTINF:0,AR_Al_InsenTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2295.ts
-#EXTINF:0,AR Al Hiwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2073.ts
-#EXTINF:0,AR Al Haqiqa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2053.ts
-#EXTINF:0,AR_Al_Ghad_Alarbiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2283.ts
-#EXTINF:0,AR_Al_Gamaiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2305.ts
-#EXTINF:0,AR_Al_Forat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2351.ts
-#EXTINF:0,AR_Al_Fayhaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2320.ts
-#EXTINF:0,AR_Al_Eshraq
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2380.ts
-#EXTINF:0,AR_Al_Embrator_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2372.ts
-#EXTINF:0,AR_Al_Ekhbaria_Al_Soriya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2315.ts
-#EXTINF:0,AR_Al_Diyar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2378.ts
-#EXTINF:0,AR_Al_Bawadi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2409.ts
-#EXTINF:0,AR_Al_Basira_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2356.ts
-#EXTINF:0,AR_Al_Basira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2355.ts
-#EXTINF:0,AR_Al_Bait_Baitak_Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2309.ts
-#EXTINF:0,AR_Al_Baghdadia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2353.ts
-#EXTINF:0,AR_Al_Awhad
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2370.ts
-#EXTINF:0,AR_Al_Atrja
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2396.ts
-#EXTINF:0,AR_Al_Asrar_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2297.ts
-#EXTINF:0,AR_Al_Asr_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2406.ts
-#EXTINF:0,AR_Al_Araby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2350.ts
-#EXTINF:0,AR_Al_Anis_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2340.ts
-#EXTINF:0,AR Al Alam News Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2040.ts
-#EXTINF:0,AR_Akh_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2291.ts
-#EXTINF:0,AR_Ajyal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2445.ts
-#EXTINF:0,AR_Ahel_Al_Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2395.ts
-#EXTINF:0,AR_Aghanina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2334.ts
-#EXTINF:0,AR_Aghani
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2287.ts
-#EXTINF:0,AR_Afrah_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2285.ts
-#EXTINF:0,AR_Abu_Dhabi_Sport_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2469.ts
-#EXTINF:0,AR_Abalfadhl_Allabas_Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2367.ts
-#EXTINF:0,AL HURRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1913.ts
-#EXTINF:0,AL AAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1901.ts
-#EXTINF:0,AR_MBC1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2527.ts
-#EXTINF:0,AR_MBC2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2528.ts
-#EXTINF:0,AR_MBC3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2529.ts
-#EXTINF:0,AR_MBC_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2530.ts
-#EXTINF:0,AR_MBC_MAX_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2531.ts
-#EXTINF:0,AR_MBC_DRAMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2533.ts
-#EXTINF:0,AR_MBC_ACTION_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2532.ts
-#EXTINF:0,AR_MBC_PRO_SPORT_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2536.ts
-#EXTINF:0,AR_MBC_PRO_SPORT_ 2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2535.ts
-#EXTINF:0,AR_MBC_PRO_SPORT_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2534.ts
-#EXTINF:0,MBC 1 ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/24.ts
-#EXTINF:0,MBC 2 ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/25.ts
-#EXTINF:0,MBC 3 ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/26.ts
-#EXTINF:0,MBC 4 ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/27.ts
-#EXTINF:0,MBC DRAMA ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/360.ts
-#EXTINF:0,MBC MAX ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/28.ts
-#EXTINF:0,MBC ACTION ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/29.ts
-#EXTINF:0,MBC BOLLYWOOD ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/30.ts
-#EXTINF:0,MBC_MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/386.ts
-#EXTINF:0,MBC_MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/385.ts
-#EXTINF:0,WANASAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1902.ts
-#EXTINF:0,ROTANA_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/148.ts
-#EXTINF:0,ROTANA_MASRIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/147.ts
-#EXTINF:0,ROTANA CLIP ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/144.ts
-#EXTINF:0,ROTANA_CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/146.ts
-#EXTINF:0,ROTANA MUSIC ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/145.ts
-#EXTINF:0,ROTANA_KHALIJIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/352.ts
-#EXTINF:0,AR Panorama film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1673.ts
-#EXTINF:0,AR B4U Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1469.ts
-#EXTINF:0,AR B4U Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1470.ts
-#EXTINF:0,ZEE ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1903.ts
-#EXTINF:0,ZEE AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1919.ts
-#EXTINF:0,PSC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1914.ts
-#EXTINF:0,PALESTINE TODAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1916.ts
-#EXTINF:0,NILE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1900.ts
-#EXTINF:0,NILE FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1893.ts
-#EXTINF:0,MEHWAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1917.ts
-#EXTINF:0,FUNOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1896.ts
-#EXTINF:0,DREAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1897.ts
-#EXTINF:0,CNBC ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1912.ts
-#EXTINF:0,CBC TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/535.ts
-#EXTINF:0,CBC Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/536.ts
-#EXTINF:0,CBC EXtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/537.ts
-#EXTINF:0,CBC Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/538.ts
-#EXTINF:0,DUBAI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/413.ts
-#EXTINF:0,DUBAI ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/414.ts
-#EXTINF:0,DUBAI SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/429.ts
-#EXTINF:0,SAMA DUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/425.ts
-#EXTINF:0,ASHARIQAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/424.ts
-#EXTINF:0,AR AL Hayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1716.ts
-#EXTINF:0,AR Al Hayat Musalsalat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1715.ts
-#EXTINF:0,AR Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1679.ts
-#EXTINF:0,AR Nile Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1678.ts
-#EXTINF:0,AR Nile Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1677.ts
-#EXTINF:0,AR Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1686.ts
-#EXTINF:0,AR.Cairo.Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1689.ts
-#EXTINF:0,AR Cairo Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1690.ts
-#EXTINF:0,AR Bzaf ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1691.ts
-#EXTINF:0,AR AL Nahar Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1706.ts
-#EXTINF:0,AR AL Nahar Nour
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1707.ts
-#EXTINF:0,AR Al Nahar Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1710.ts
-#EXTINF:0,IQRAA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/430.ts
-#EXTINF:0,AL RESALAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/383.ts
-#EXTINF:0,MEKKA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/422.ts
-#EXTINF:0,AL MAJD QURAN AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/677.ts
-#EXTINF:0,AL MAJD ISLAM AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/676.ts
-#EXTINF:0,AR Al Majd 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1713.ts
-#EXTINF:0,AR Canal Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1688.ts
-#EXTINF:0,ENTV ALGERIE NATIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/36.ts
-#EXTINF:0,EL CHOUROUK HD ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/592.ts
-#EXTINF:0,ALGERIE3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/380.ts
-#EXTINF:0,KBC ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/42.ts
-#EXTINF:0,SAMIRA TV ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/47.ts
-#EXTINF:0,ENNAHAR TV ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/48.ts
-#EXTINF:0,ELHADDAF ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/40.ts
-#EXTINF:0,BENNA TV ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/41.ts
-#EXTINF:0,ELCHOUROUK ALGERIE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/45.ts
-#EXTINF:0,NUMEDIA NEWS ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/594.ts
-#EXTINF:0,DZAIR NEWS ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/37.ts
-#EXTINF:0,DZAIR TV ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/46.ts
-#EXTINF:0,AR Cartoon network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1687.ts
-#EXTINF:0,AR: Toyor Al Janah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/932.ts
-#EXTINF:0,AR: Spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/934.ts
-#EXTINF:0,HONA BAGHDAD IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/593.ts
-#EXTINF:0,AL FORAT IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/614.ts
-#EXTINF:0,AL IRAQIA IRAQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/672.ts
-#EXTINF:0,RUDAW KURDISTAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/669.ts
-#EXTINF:0,KURDMAX KURDISTAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/662.ts
-#EXTINF:0,ALJALEYA TV ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/661.ts
-#EXTINF:0,MAJLISS TV ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/683.ts
-#EXTINF:0,IFILM ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/680.ts
-#EXTINF:0,AL QHARIQA SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/682.ts
-#EXTINF:0,AL JAMEELA ARABIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/664.ts
-#EXTINF:0,AR CNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1684.ts
-#EXTINF:0,AR Beur TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1692.ts
-#EXTINF:0,AR Al Waha
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1701.ts
-#EXTINF:0,AR AL Sumaira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1702.ts
-#EXTINF:0,AR YAS Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1671.ts
-#EXTINF:0,AR AL Shallal TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1703.ts
-#EXTINF:0,AR AL Nahar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1711.ts
-#EXTINF:0,AR Al Magharibia Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1708.ts
-#EXTINF:0,AR Al Magharibia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1709.ts
-#EXTINF:0,MOURIDIYAH SENEGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/684.ts
-#EXTINF:0,====SUISSE====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1742.ts
-#EXTINF:0,RTS_UN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2864.ts
-#EXTINF:0,RTS_DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2865.ts
-#EXTINF:0,====CanalSat_Canal+====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1731.ts
-#EXTINF:0,TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/58.ts
-#EXTINF:0,FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/137.ts
-#EXTINF:0,FRANCE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/61.ts
-#EXTINF:0,FRANCE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/60.ts
-#EXTINF:0,FRANCE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/59.ts
-#EXTINF:0,France O
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/345.ts
-#EXTINF:0,M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/138.ts
-#EXTINF:0,W9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/337.ts
-#EXTINF:0,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2570.ts
-#EXTINF:0,NRJ_12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2560.ts
-#EXTINF:0,Arte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/338.ts
-#EXTINF:0,CANAL+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/52.ts
-#EXTINF:0,CANAL+ CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/56.ts
-#EXTINF:0,CANAL+ FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/53.ts
-#EXTINF:0,CANAL+ DECALE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/54.ts
-#EXTINF:0,CANAL+ SERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/55.ts
-#EXTINF:0,CANAL+ SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/57.ts
-#EXTINF:0,CINE PREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/135.ts
-#EXTINF:0,CINE+ FAMIZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/65.ts
-#EXTINF:0,CINE+ FRISSON FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/64.ts
-#EXTINF:0,TEVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2637.ts
-#EXTINF:0,CINE+ CLASSIC FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/67.ts
-#EXTINF:0,CINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/136.ts
-#EXTINF:0,OCS_Choc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2561.ts
-#EXTINF:0,Cherie_25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/133.ts
-#EXTINF:0,OCS_CITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/134.ts
-#EXTINF:0,FR: Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/611.ts
-#EXTINF:0,13_Eme_Rue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2548.ts
-#EXTINF:0,Paris_Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2562.ts
-#EXTINF:0,SyFy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2569.ts
-#EXTINF:0,Serie_Club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2568.ts
-#EXTINF:0,RMC_Decouverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2565.ts
-#EXTINF:0,RTL_9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2566.ts
-#EXTINF:0,FR.Planet_A&E_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2689.ts
-#EXTINF:0,FR.Paramount_Channel_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2690.ts
-#EXTINF:0,FR.OL_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2691.ts
-#EXTINF:0,Ocs_Geants
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2682.ts
-#EXTINF:0,OCS_MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2693.ts
-#EXTINF:0,Numero_23
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2683.ts
-#EXTINF:0,FR.Histoire_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2686.ts
-#EXTINF:0,FR.Cine_Polar_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2685.ts
-#EXTINF:0,HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2538.ts
-#EXTINF:0,FR_AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2537.ts
-#EXTINF:0,TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2611.ts
-#EXTINF:0,C8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2551.ts
-#EXTINF:0,D17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2550.ts
-#EXTINF:0,Comedie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2549.ts
-#EXTINF:0,6TER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/673.ts
-#EXTINF:0,LCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/334.ts
-#EXTINF:0,I_Tele
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/336.ts
-#EXTINF:0,EURONEWS FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/674.ts
-#EXTINF:0,BFM_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2541.ts
-#EXTINF:0,Planet+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2563.ts
-#EXTINF:0,Planet+ci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2564.ts
-#EXTINF:0,NATIONAL GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/139.ts
-#EXTINF:0,National_Geo_Wild_FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2559.ts
-#EXTINF:0,DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/63.ts
-#EXTINF:0,DISCOVERY SCIENCE FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/62.ts
-#EXTINF:0,USHUAIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/372.ts
-#EXTINF:0,Chasse et peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/471.ts
-#EXTINF:0,FR ANIMAUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/478.ts
-#EXTINF:0,Voyage_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2571.ts
-#EXTINF:0,Science_et_Vie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2567.ts
-#EXTINF:0,BEINSPORT_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/49.ts
-#EXTINF:0,BEINSPORT _2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/50.ts
-#EXTINF:0,BEINSPORT 3 HD FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/51.ts
-#EXTINF:0,SFR_SPORT_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2803.ts
-#EXTINF:0,SFR_SPORT_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2804.ts
-#EXTINF:0,SFR_SPORT_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2880.ts
-#EXTINF:0,INFOSPORT+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1809.ts
-#EXTINF:0,Foot+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2556.ts
-#EXTINF:0,FR.Foot_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2684.ts
-#EXTINF:0,EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/377.ts
-#EXTINF:0,EUROSPORT_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2555.ts
-#EXTINF:0,Equipe21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2554.ts
-#EXTINF:0,Equidia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2552.ts
-#EXTINF:0,Equidia_Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2553.ts
-#EXTINF:0,FR_NICKELODEON_JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2867.ts
-#EXTINF:0,FR.Zouzou_Tv_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2688.ts
-#EXTINF:0,Game_One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2557.ts
-#EXTINF:0,FR:_Disney_XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2635.ts
-#EXTINF:0,Tiji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2680.ts
-#EXTINF:0,teletoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2681.ts
-#EXTINF:0,MANGAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/375.ts
-#EXTINF:0,FR:_Disney_Cinemagic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2634.ts
-#EXTINF:0,DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/376.ts
-#EXTINF:0,FR: Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/472.ts
-#EXTINF:0,FR:_Canal_J
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2636.ts
-#EXTINF:0,Gulli
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/335.ts
-#EXTINF:0,PIWI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/374.ts
-#EXTINF:0,A.LA.CARTE.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/544.ts
-#EXTINF:0,A.LA.CARTE.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/545.ts
-#EXTINF:0,A.LA.CARTE.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/546.ts
-#EXTINF:0,A.LA.CARTE.4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/539.ts
-#EXTINF:0,A_LA_CARTE_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2612.ts
-#EXTINF:0,A_LA_CARTE_6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2613.ts
-#EXTINF:0,A_LA_CARTE_7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2653.ts
-#EXTINF:0,A_LA_CARTE_8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2654.ts
-#EXTINF:0,A_LA_CARTE_9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2655.ts
-#EXTINF:0,A_LA_CARTE_10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2644.ts
-#EXTINF:0,A_LA_CARTE_11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2645.ts
-#EXTINF:0,A_LA_CARTE_12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2646.ts
-#EXTINF:0,A_LA_CARTE_13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2647.ts
-#EXTINF:0,A_LA_CARTE_14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2657.ts
-#EXTINF:0,A_LA_CARTE_15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2656.ts
-#EXTINF:0,A_LA_CARTE_16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2648.ts
-#EXTINF:0,A_LA_CARTE_17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2649.ts
-#EXTINF:0,A_LA_CARTE_18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2650.ts
-#EXTINF:0,A_LA_CARTE_19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2651.ts
-#EXTINF:0,A_LA_CARTE_20
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2652.ts
-#EXTINF:0,===MUSIC====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1746.ts
-#EXTINF:0,VEVO 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/572.ts
-#EXTINF:0,VEVO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/571.ts
-#EXTINF:0,VEVO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/570.ts
-#EXTINF:0,VEVO4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2842.ts
-#EXTINF:0,VEVO5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2843.ts
-#EXTINF:0,VEVO6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2844.ts
-#EXTINF:0,VEVO7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2845.ts
-#EXTINF:0,VEVO8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2846.ts
-#EXTINF:0,VEVO9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2847.ts
-#EXTINF:0,VEVO10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2848.ts
-#EXTINF:0,VEVO11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2849.ts
-#EXTINF:0,VEVO12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2850.ts
-#EXTINF:0,VEVO13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2851.ts
-#EXTINF:0,VEVO14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2852.ts
-#EXTINF:0,VEVO15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2853.ts
-#EXTINF:0,VEVO16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2854.ts
-#EXTINF:0,VEVO17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2855.ts
-#EXTINF:0,VEVO18
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2856.ts
-#EXTINF:0,====BELGIQUE_TELESAT====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1741.ts
-#EXTINF:0,LA UNE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/541.ts
-#EXTINF:0,LA.DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/542.ts
-#EXTINF:0,LA.TROIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/543.ts
-#EXTINF:0,RTL_TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2639.ts
-#EXTINF:0,PLUG_RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2640.ts
-#EXTINF:0,BE:RTL_TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2641.ts
-#EXTINF:0,BE:Plug_RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2643.ts
-#EXTINF:0,BE:Club_RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2642.ts
-#EXTINF:0,BE:VTM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/905.ts
-#EXTINF:0,BE:Vijf TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/906.ts
-#EXTINF:0,BE:Vier HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/907.ts
-#EXTINF:0,BE:EEN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/908.ts
-#EXTINF:0,BE:Canvas HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/909.ts
-#EXTINF:0,BE:2BE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/910.ts
-#EXTINF:0,====PORTUGAL====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1747.ts
-#EXTINF:0,PORTUGAL:TVCINE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/511.ts
-#EXTINF:0,PORTUGAL:TVCINE 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/512.ts
-#EXTINF:0,PORTUGAL:TVCINE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/513.ts
-#EXTINF:0,PORTUGAL:TVCINE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/514.ts
-#EXTINF:0,PORTUGAL:TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/604.ts
-#EXTINF:0,PORTUGAL:SPORT TV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/515.ts
-#EXTINF:0,PORTUGAL:SPORT TV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/516.ts
-#EXTINF:0,PORTUGAL:SPORT TV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/517.ts
-#EXTINF:0,PORTUGAL:SPORT TV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/518.ts
-#EXTINF:0,PORTUGAL:SPORT TV5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/519.ts
-#EXTINF:0,PORTUGAL:Sic Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/609.ts
-#EXTINF:0,PORTUGAL:SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/596.ts
-#EXTINF:0,PORTUGAL:RTP1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/606.ts
-#EXTINF:0,PORTUGAL:RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/607.ts
-#EXTINF:0,PORTUGAL:RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/608.ts
-#EXTINF:0,PORTUGAL:PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/597.ts
-#EXTINF:0,PORTUGAL:CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/598.ts
-#EXTINF:0,PORTUGAL:BENFICA TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/520.ts
-#EXTINF:0,PORTUGAL:BENFICA TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/599.ts
-#EXTINF:0,Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/373.ts
-#EXTINF:0,PORTUGAL:_TVsÃ©ries HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/600.ts
-#EXTINF:0,PORTUGAL:_TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/601.ts
-#EXTINF:0,PORTUGAL: TV record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/602.ts
-#EXTINF:0,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/378.ts
-#EXTINF:0,PORTUGAL: TV GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/603.ts
-#EXTINF:0,PORTUGAL: SPORTING TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/605.ts
-#EXTINF:0,PORTUGAL: SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/610.ts
-#EXTINF:0,====NETHERLAND====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1738.ts
-#EXTINF:0,NL Veronica HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/732.ts
-#EXTINF:0,NL TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/740.ts
-#EXTINF:0,NL Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/747.ts
-#EXTINF:0,NL Sport1 Voetbal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/757.ts
-#EXTINF:0,NL Sport1 Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/756.ts
-#EXTINF:0,NL Sport 1 Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/761.ts
-#EXTINF:0,NL SBS6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/725.ts
-#EXTINF:0,NL SBS9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/728.ts
-#EXTINF:0,NL RTL4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/723.ts
-#EXTINF:0,NL RTL5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/724.ts
-#EXTINF:0,NL RTL7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/726.ts
-#EXTINF:0,NL RTL8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/727.ts
-#EXTINF:0,NL Rtl Lounge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/730.ts
-#EXTINF:0,NL NPO1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/720.ts
-#EXTINF:0,NL NPO2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/721.ts
-#EXTINF:0,NL NPO3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/722.ts
-#EXTINF:0,NL Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/731.ts
-#EXTINF:0,NL NGC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/745.ts
-#EXTINF:0,NL NET5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/729.ts
-#EXTINF:0,NL MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/738.ts
-#EXTINF:0,NL HBO1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/753.ts
-#EXTINF:0,NL HBO2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/754.ts
-#EXTINF:0,NL HBO3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/755.ts
-#EXTINF:0,NL Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/762.ts
-#EXTINF:0,NL Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/763.ts
-#EXTINF:0,NL Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/764.ts
-#EXTINF:0,NL Fox Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/765.ts
-#EXTINF:0,NL Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/766.ts
-#EXTINF:0,NL Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/741.ts
-#EXTINF:0,NL Film1 Sundance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/750.ts
-#EXTINF:0,NL Film1 Premiere HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/749.ts
-#EXTINF:0,NL Film1 Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/751.ts
-#EXTINF:0,NL Film1 Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/752.ts
-#EXTINF:0,NL Eurosport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/742.ts
-#EXTINF:0,NL Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/736.ts
-#EXTINF:0,NL Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/735.ts
-#EXTINF:0,NL Discovery Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/744.ts
-#EXTINF:0,NL Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/743.ts
-#EXTINF:0,NL Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/734.ts
-#EXTINF:0,NL Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/737.ts
-#EXTINF:0,NL Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/733.ts
-#EXTINF:0,NL 24Kitchen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/739.ts
-#EXTINF:0,NL 13th Street
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/746.ts
-#EXTINF:0,====Albania====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2665.ts
-#EXTINF:0,ALB:_Vizion_Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2667.ts
-#EXTINF:0,ALB:_Tring_24_News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2678.ts
-#EXTINF:0,ALB:_Tirng_Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2677.ts
-#EXTINF:0,ALB:_Plus_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2672.ts
-#EXTINF:0,ALB:_Ora_News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2674.ts
-#EXTINF:0,ALB:_Bbf_Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2675.ts
-#EXTINF:0,ALB:_Music_Al
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2676.ts
-#EXTINF:0,====SPAIN====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1735.ts
-#EXTINF:0,SP Viajar – SP Viajar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1829.ts
-#EXTINF:0,SP TVI Inter – SP TVI Inter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1825.ts
-#EXTINF:0,SP TV Internacional Europa – SP TV Internacional Europa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1824.ts
-#EXTINF:0,SP TNT – SP TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1823.ts
-#EXTINF:0,SP Teledeporte – SP Teledeporte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1822.ts
-#EXTINF:0,SP Telecino – SP Telecino
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1821.ts
-#EXTINF:0,TCM_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1890.ts
-#EXTINF:0,SyFy_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1889.ts
-#EXTINF:0,Sol_Musica_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1888.ts
-#EXTINF:0,SP Real Madrid TV – SP Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1827.ts
-#EXTINF:0,SP NGC Wild – SP NGC Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1851.ts
-#EXTINF:0,SP NGC – SP NGC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1852.ts
-#EXTINF:0,SP Neox – SP Neox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1830.ts
-#EXTINF:0,SP MTV Espana – SP MTV Espana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1850.ts
-#EXTINF:0,SP Moto GP – SP Moto GP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1867.ts
-#EXTINF:0,SP Mezzo – SP Mezzo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1861.ts
-#EXTINF:0,SP Ltc – SP Ltc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1866.ts
-#EXTINF:0,SP La Sexta – SP La Sexta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1846.ts
-#EXTINF:0,SP La 2 – SP La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1847.ts
-#EXTINF:0,SP La 1 – SP La 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1854.ts
-#EXTINF:0,SP Hollywood – SP Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1855.ts
-#EXTINF:0,SP Historia – SP Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1856.ts
-#EXTINF:0,SP Fox News – SP Fox News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1857.ts
-#EXTINF:0,SP FDF – SP FDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1858.ts
-#EXTINF:0,SP Energy – SP Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1864.ts
-#EXTINF:0,SP Divinity – SP Divinity
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1863.ts
-#EXTINF:0,SP Disney xd – SP Disney xd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1862.ts
-#EXTINF:0,SP Disney Ch – SP Disney Ch
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1820.ts
-#EXTINF:0,SP Discovery – SP Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1837.ts
-#EXTINF:0,SP Dcine Espanol – SP Dcine Espanol
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1840.ts
-#EXTINF:0,SP Cuatro – SP Cuatro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1871.ts
-#EXTINF:0,SP Comedy Central – SP Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1833.ts
-#EXTINF:0,SP Comedia HD – SP Comedia HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1859.ts
-#EXTINF:0,SP Classica – SP Classica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1836.ts
-#EXTINF:0,SP Clan TVe – SP Clan TVe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1848.ts
-#EXTINF:0,SP Canal Sur – SP Canal Sur
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1841.ts
-#EXTINF:0,SP Canal Panda – SP Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1839.ts
-#EXTINF:0,SP Canal Odisea – SP Canal Odisea
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1842.ts
-#EXTINF:0,SP Canal Decasa – SP Canal Decasa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1870.ts
-#EXTINF:0,SP Canal Cocina – SP Canal Cocina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1869.ts
-#EXTINF:0,SP Canal 24 Horas – SP Canal 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1868.ts
-#EXTINF:0,SP Calle 13 – SP Calle 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1843.ts
-#EXTINF:0,SP C Toros – SP C Toros
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1828.ts
-#EXTINF:0,SP C Series Xtra – SP C Series Xtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1874.ts
-#EXTINF:0,SP C Series – SP C Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1834.ts
-#EXTINF:0,SP C Liga – SP C Liga
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1878.ts
-#EXTINF:0,C+Golf _SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1887.ts
-#EXTINF:0,SP C Fotbol HD – SP C Fotbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1832.ts
-#EXTINF:0,C+Footbol_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1886.ts
-#EXTINF:0,C+Estrenos_SPAIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1885.ts
-#EXTINF:0,SP C Estrellas – SP C Estrellas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1882.ts
-#EXTINF:0,SP C Deportes 2 – SP C Deportes 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1883.ts
-#EXTINF:0,SP C Deportes – SP C Deportes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1884.ts
-#EXTINF:0,SP C Dcine HD – SP C Dcine HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1838.ts
-#EXTINF:0,SP C Accion HD – SP C Accion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1831.ts
-#EXTINF:0,SP Boing – SP Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1881.ts
-#EXTINF:0,SP Bein Sports – SP Bein Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1826.ts
-#EXTINF:0,SP bCaza Y Pesca – SP bCaza Y Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1845.ts
-#EXTINF:0,SP Barca Tv – SP Barca Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1860.ts
-#EXTINF:0,SP Baby Tv – SP Baby Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1844.ts
-#EXTINF:0,SP AXN HD – SP AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1853.ts
-#EXTINF:0,SP Antena 3 – SP Antena 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1872.ts
-#EXTINF:0,SP AMC – SP AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1880.ts
-#EXTINF:0,SP AE – SP AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1875.ts
-#EXTINF:0,SP 40 TV – SP 40 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1877.ts
-#EXTINF:0,SP 24 Horas – SP 24 Horas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1876.ts
-#EXTINF:0,SP_TAQUILLA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2621.ts
-#EXTINF:0,SP_TAQUILLA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2622.ts
-#EXTINF:0,SP-TAQUILLA-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2623.ts
-#EXTINF:0,SP_TAQUILLA_4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2624.ts
-#EXTINF:0,SP_TAQUILLA_5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2625.ts
-#EXTINF:0,SP_TAQUILLA_6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2626.ts
-#EXTINF:0,SP_TAQUILLA_7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2627.ts
-#EXTINF:0,SP_TAQUILLA_8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2628.ts
-#EXTINF:0,SP_TAQUILLA_9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2629.ts
-#EXTINF:0,SP_TAQUILLA_10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2630.ts
-#EXTINF:0,TAQUILLA_11_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2658.ts
-#EXTINF:0,TAQUILLA_12_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2659.ts
-#EXTINF:0,TAQUILLA_13_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2660.ts
-#EXTINF:0,TAQUILLA_14_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2661.ts
-#EXTINF:0,TAQUILLA_15_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2662.ts
-#EXTINF:0,TAQUILLA_16_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2663.ts
-#EXTINF:0,====TURKISH====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1745.ts
-#EXTINF:0,TR_Ulke_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2477.ts
-#EXTINF:0,TR_TV_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2498.ts
-#EXTINF:0,TR_Trt_Muzik_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2474.ts
-#EXTINF:0,TR _trt_Cocuk_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2475.ts
-#EXTINF:0,TR_Saudi_Sunnah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2491.ts
-#EXTINF:0,TR_Powerturk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2497.ts
-#EXTINF:0,TR_Power_TURK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2502.ts
-#EXTINF:0,TR_Planet_Turk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2482.ts
-#EXTINF:0,TR_Number_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2484.ts
-#EXTINF:0,TR_Ngc_Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2488.ts
-#EXTINF:0,TR_Ngc_People
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2489.ts
-#EXTINF:0,TR_Ngc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2487.ts
-#EXTINF:0,TR_Net_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2478.ts
-#EXTINF:0,TR_Minika_GO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2504.ts
-#EXTINF:0,TR_Minika_Cocuk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2505.ts
-#EXTINF:0,TR_M_Belgesel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2501.ts
-#EXTINF:0,TR_Kral_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2506.ts
-#EXTINF:0,TR_Kral_Pop
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2507.ts
-#EXTINF:0,TR_Kanal_Avrupa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2492.ts
-#EXTINF:0,TR_Kanal_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2476.ts
-#EXTINF:0,TR_Filmbox_Türk_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2516.ts
-#EXTINF:0,TR_Filmbox_Premier_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2512.ts
-#EXTINF:0,TR_Filmbox_Korku_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2514.ts
-#EXTINF:0,TR_Filmbox_Aile_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2513.ts
-#EXTINF:0,TR_Fil_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2500.ts
-#EXTINF:0,TR_Dream_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2495.ts
-#EXTINF:0,TR_Dream_Turk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2496.ts
-#EXTINF:0,TR_Discovery_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2486.ts
-#EXTINF:0,TR_Cartoon_Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2481.ts
-#EXTINF:0,TR_Bloomberg
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2503.ts
-#EXTINF:0,TR_Al_quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2490.ts
-#EXTINF:0,TR TRT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/706.ts
-#EXTINF:0,TR STAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/711.ts
-#EXTINF:0,TR SHOW TV hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/710.ts
-#EXTINF:0,TR NTV SmartSpor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/717.ts
-#EXTINF:0,TR KANAL D HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/713.ts
-#EXTINF:0,TR KANAL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/714.ts
-#EXTINF:0,TR FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/709.ts
-#EXTINF:0,TR ATV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/708.ts
-#EXTINF:0,TR TV 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1755.ts
-#EXTINF:0,TR TRT Spor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1764.ts
-#EXTINF:0,TR TRT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1751.ts
-#EXTINF:0,TR TRT Haber HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1752.ts
-#EXTINF:0,TR TRT planet Cocuk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1753.ts
-#EXTINF:0,TR TRT Belgesel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1750.ts
-#EXTINF:0,TR TGRT Haber
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1756.ts
-#EXTINF:0,TR Semerkand HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1760.ts
-#EXTINF:0,TR NTV Spor
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1763.ts
-#EXTINF:0,TR NTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1762.ts
-#EXTINF:0,TR Halk TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1766.ts
-#EXTINF:0,TR Flash TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1767.ts
-#EXTINF:0,TR CNN Turk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1761.ts
-#EXTINF:0,TR Beyaz TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1768.ts
-#EXTINF:0,TR A Spor HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1765.ts
-#EXTINF:0,TR A Haber HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1770.ts
-#EXTINF:0,TR:Salon 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/902.ts
-#EXTINF:0,TR:Salon 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/903.ts
-#EXTINF:0,TR:Salon 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/904.ts
-#EXTINF:0,====SKY DE====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1732.ts
-#EXTINF:0,ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2618.ts
-#EXTINF:0,SAT_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2620.ts
-#EXTINF:0,Vox – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2807.ts
-#EXTINF:0,Syfy – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2808.ts
-#EXTINF:0,Sport 1 HD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2809.ts
-#EXTINF:0,Spiegel Geschichte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2810.ts
-#EXTINF:0,Sky TNT Serie – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2811.ts
-#EXTINF:0,Sky RTL Passion – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2812.ts
-#EXTINF:0,Sky Nostalgie – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2813.ts
-#EXTINF:0,Sky Krimi – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2814.ts
-#EXTINF:0,Sky Disney XD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2815.ts
-#EXTINF:0,Sky Comedy – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2816.ts
-#EXTINF:0,Sky Cinema HD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2817.ts
-#EXTINF:0,Sky Cinema 1 – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2818.ts
-#EXTINF:0,Sky Cinema 24 – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2819.ts
-#EXTINF:0,Sat 1 Gold – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2820.ts
-#EXTINF:0,Rtl Nitro – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2821.ts
-#EXTINF:0,Rtl Living – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2822.ts
-#EXTINF:0,Rtl Crime – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2823.ts
-#EXTINF:0,Prosieben Maxx – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2824.ts
-#EXTINF:0,Prosieben – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2825.ts
-#EXTINF:0,National Geographic Wild HD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2826.ts
-#EXTINF:0,National Geographic – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2827.ts
-#EXTINF:0,N24 – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2828.ts
-#EXTINF:0,Motorvision TV – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2805.ts
-#EXTINF:0,Junior – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2829.ts
-#EXTINF:0,Jukebox – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2830.ts
-#EXTINF:0,Heimat Kanal – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2831.ts
-#EXTINF:0,Fox Serie – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2832.ts
-#EXTINF:0,Disney Junior – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2833.ts
-#EXTINF:0,Disney Cinemagic – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2806.ts
-#EXTINF:0,Disney Channel HD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2834.ts
-#EXTINF:0,Discovery HD – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2835.ts
-#EXTINF:0,Classica – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2836.ts
-#EXTINF:0,13th Street – Germany
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2837.ts
-#EXTINF:0,DE_ARD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2619.ts
-#EXTINF:0,SKYDE:_cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/554.ts
-#EXTINF:0,SKYDE: Cinema24HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/555.ts
-#EXTINF:0,SKYDE: 13StreetHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/557.ts
-#EXTINF:0,DE:RTL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1003.ts
-#EXTINF:0,DE TNT Film HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1014.ts
-#EXTINF:0,DE Super RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1015.ts
-#EXTINF:0,DE Sky Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1016.ts
-#EXTINF:0,DE Sky Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1017.ts
-#EXTINF:0,DE Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1019.ts
-#EXTINF:0,DE: Sky Germany Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1729.ts
-#EXTINF:0,DE Sky Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1020.ts
-#EXTINF:0,DE: Sky Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1730.ts
-#EXTINF:0,DE: Sky Germany MGM HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1728.ts
-#EXTINF:0,DE: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1721.ts
-#EXTINF:0,DE: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1722.ts
-#EXTINF:0,DE: SKY SPORT NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1726.ts
-#EXTINF:0,DE: SKY Bundesliga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1723.ts
-#EXTINF:0,DE Sat 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1007.ts
-#EXTINF:0,DE RTL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1006.ts
-#EXTINF:0,DE Kika HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1008.ts
-#EXTINF:0,DE Kabel 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1009.ts
-#EXTINF:0,DE Sky Select 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1778.ts
-#EXTINF:0,DE Sky Select 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1779.ts
-#EXTINF:0,DE Sky Select 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1780.ts
-#EXTINF:0,DE Sky Select 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1781.ts
-#EXTINF:0,DE Sky Select 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1782.ts
-#EXTINF:0,DE Sky Select 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1783.ts
-#EXTINF:0,DE Sky Select 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1784.ts
-#EXTINF:0,DE Sky Select 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1785.ts
-#EXTINF:0,====INDIAN====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1740.ts
-#EXTINF:0,IN Zing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/696.ts
-#EXTINF:0,IN Zee TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/693.ts
-#EXTINF:0,IN Zee Punjabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/695.ts
-#EXTINF:0,IN Zee cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/694.ts
-#EXTINF:0,IN UMP Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/917.ts
-#EXTINF:0,IN Star Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/918.ts
-#EXTINF:0,IN Star Gold
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/919.ts
-#EXTINF:0,IN Sony TV Asia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/700.ts
-#EXTINF:0,IN Sony Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/701.ts
-#EXTINF:0,IN Samaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/702.ts
-#EXTINF:0,IN Rishtey
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/920.ts
-#EXTINF:0,IN PTV Prime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/921.ts
-#EXTINF:0,IN Life OK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/922.ts
-#EXTINF:0,IN Hum TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/923.ts
-#EXTINF:0,IN Geo TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/924.ts
-#EXTINF:0,IN Geo News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/703.ts
-#EXTINF:0,IN Dunya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/925.ts
-#EXTINF:0,IN Colors
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/704.ts
-#EXTINF:0,IN B4you Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/697.ts
-#EXTINF:0,IN B4U Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/698.ts
-#EXTINF:0,IN Ary Q TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/926.ts
-#EXTINF:0,IN Ary Digital
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/705.ts
-#EXTINF:0,IN AND TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/699.ts
-#EXTINF:0,IN Akaal channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/927.ts
-#EXTINF:0,IN ABP News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/928.ts
-#EXTINF:0,IN Aajtak
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/929.ts
-#EXTINF:0,====SKY UK====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1733.ts
-#EXTINF:0,UK True Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/89.ts
-#EXTINF:0,UK True Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/74.ts
-#EXTINF:0,UK Syfy UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/96.ts
-#EXTINF:0,UK SKYArt 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/106.ts
-#EXTINF:0,UK Sky Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/76.ts
-#EXTINF:0,UK Sky Sport News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/107.ts
-#EXTINF:0,UK Sky Sport 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/112.ts
-#EXTINF:0,UK Sky Sport 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/111.ts
-#EXTINF:0,UK Sky Sport 3 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/110.ts
-#EXTINF:0,UK:_CBS_Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2638.ts
-#EXTINF:0,UK sky sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/109.ts
-#EXTINF:0,UK Sky Sport 5 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/108.ts
-#EXTINF:0,UK Sky Sports F1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/68.ts
-#EXTINF:0,UK Setantasport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/915.ts
-#EXTINF:0,UK ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/914.ts
-#EXTINF:0,UK BT Sport Europe
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/913.ts
-#EXTINF:0,UK BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/911.ts
-#EXTINF:0,UK BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/912.ts
-#EXTINF:0,UK British Muslim
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/916.ts
-#EXTINF:0,UK Sky One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/69.ts
-#EXTINF:0,UK Sky Movies Thriller
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/95.ts
-#EXTINF:0,UK Sky Movies Sci-Fi & Horror
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/114.ts
-#EXTINF:0,UK Sky Movies Premiere UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/115.ts
-#EXTINF:0,UK Sky Movies Modern HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/116.ts
-#EXTINF:0,UK Sky Movies Family UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/79.ts
-#EXTINF:0,UK Sky Movies Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/118.ts
-#EXTINF:0,UK Sky Movies Action & Adventure
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/119.ts
-#EXTINF:0,UK Sky Family UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/121.ts
-#EXTINF:0,UK Sky Atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/70.ts
-#EXTINF:0,UK Rte One UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/88.ts
-#EXTINF:0,UK National Geographic UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/102.ts
-#EXTINF:0,UK Movies-4men Uk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/98.ts
-#EXTINF:0,UK ITV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/84.ts
-#EXTINF:0,UK ITV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/83.ts
-#EXTINF:0,UK ITV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/82.ts
-#EXTINF:0,UK ITV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/81.ts
-#EXTINF:0,UK Five
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/99.ts
-#EXTINF:0,UKCBS Reality UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/78.ts
-#EXTINF:0,UK Film4 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/100.ts
-#EXTINF:0,UK Eurosport 1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/92.ts
-#EXTINF:0,UK Eurosport 2 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/91.ts
-#EXTINF:0,UK Discovery Science UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/104.ts
-#EXTINF:0,UK DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/123.ts
-#EXTINF:0,UK Discovery History UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/124.ts
-#EXTINF:0,UK Discovery Channel UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/125.ts
-#EXTINF:0,UK cbs drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/75.ts
-#EXTINF:0,UK Box Nation UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/94.ts
-#EXTINF:0,UK BBC One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/130.ts
-#EXTINF:0,UK BBC Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/86.ts
-#EXTINF:0,UK BBC Three
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/85.ts
-#EXTINF:0,UK BBC Four
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/101.ts
-#EXTINF:0,UK B4U Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/71.ts
-#EXTINF:0,UK Animal Planet UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/105.ts
-#EXTINF:0,====SKY IT====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/573.ts
-#EXTINF:0,IT: Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/493.ts
-#EXTINF:0,IT: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/492.ts
-#EXTINF:0,Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/569.ts
-#EXTINF:0,Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/567.ts
-#EXTINF:0,IT: Sky Sport 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/491.ts
-#EXTINF:0,Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/568.ts
-#EXTINF:0,IT: Sky Calcio 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/501.ts
-#EXTINF:0,IT: Sky Calcio 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/500.ts
-#EXTINF:0,Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/566.ts
-#EXTINF:0,IT: Sky Sport MotoGP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/631.ts
-#EXTINF:0,IT: Sky Super tennis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/490.ts
-#EXTINF:0,IT: SKY CINEMA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/498.ts
-#EXTINF:0,IT: Sky Cinema Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/495.ts
-#EXTINF:0,IT: Sky Cinema Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/497.ts
-#EXTINF:0,IT: Sky Cinema Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/628.ts
-#EXTINF:0,IT: Sky Cinema Classics HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/629.ts
-#EXTINF:0,IT:Premium Studio Universal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/779.ts
-#EXTINF:0,IT:Premium Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/778.ts
-#EXTINF:0,IT:Premium Joi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/780.ts
-#EXTINF:0,IT:Premium EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/786.ts
-#EXTINF:0,IT:Premium EuroSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/787.ts
-#EXTINF:0,IT:Premium Energy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/788.ts
-#EXTINF:0,IT:Premium Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/789.ts
-#EXTINF:0,IT:Premium Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/791.ts
-#EXTINF:0,IT:Premium Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/792.ts
-#EXTINF:0,IT:Premium Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/801.ts
-#EXTINF:0,IT:Premium Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/793.ts
-#EXTINF:0,IT:Premium Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/794.ts
-#EXTINF:0,IT:Premium Cinema 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/797.ts
-#EXTINF:0,IT:Premium Cinema Plus 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/795.ts
-#EXTINF:0,IT:Premium Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/796.ts
-#EXTINF:0,IT:Premium Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/790.ts
-#EXTINF:0,IT:Premium Calcio HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/782.ts
-#EXTINF:0,IT:Premium Calcio 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/783.ts
-#EXTINF:0,IT:Premium Calcio 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/784.ts
-#EXTINF:0,IT:Premium Calcio 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/785.ts
-#EXTINF:0,IT:Premium Calcio
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/781.ts
-#EXTINF:0,IT:Premium BBC Knowledge
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/798.ts
-#EXTINF:0,IT:Premium BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/799.ts
-#EXTINF:0,IT:Premium Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/800.ts
-#EXTINF:0,IT: RSI La 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/633.ts
-#EXTINF:0,IT: RSI La 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/632.ts
-#EXTINF:0,IT: Rai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/627.ts
-#EXTINF:0,IT: Rai Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/630.ts
-#EXTINF:0,IT: RAI PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/626.ts
-#EXTINF:0,IT: Rai 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/510.ts
-#EXTINF:0,IT: RAI 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/623.ts
-#EXTINF:0,IT: RAI 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/624.ts
-#EXTINF:0,IT: Rai 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/625.ts
-#EXTINF:0,IT: National Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/634.ts
-#EXTINF:0,IT: NatGeo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/635.ts
-#EXTINF:0,IT: NatGeo People HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/636.ts
-#EXTINF:0,IT: Milan Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/637.ts
-#EXTINF:0,IT: Mediaset Italia due
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/638.ts
-#EXTINF:0,IT: JUVE CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/639.ts
-#EXTINF:0,IT: Italia 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/640.ts
-#EXTINF:0,IT: Inter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/641.ts
-#EXTINF:0,IT: FOX SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/643.ts
-#EXTINF:0,IT: Fox Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/645.ts
-#EXTINF:0,IT: Fox Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/646.ts
-#EXTINF:0,IT: Disney Juniour
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/648.ts
-#EXTINF:0,IT: Discovery World
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/649.ts
-#EXTINF:0,IT: Discovery Sci HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/650.ts
-#EXTINF:0,IT: Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/651.ts
-#EXTINF:0,IT: CARTOONITO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/652.ts
-#EXTINF:0,IT: CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/653.ts
-#EXTINF:0,IT: Canale 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/654.ts
-#EXTINF:0,IT: Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/655.ts
-#EXTINF:0,IT: AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/656.ts
-#EXTINF:0,IT: Prima Fila 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/618.ts
-#EXTINF:0,IT: Prima Fila 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/619.ts
-#EXTINF:0,IT: Prima Fila 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/620.ts
-#EXTINF:0,PRIMAFILA 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/560.ts
-#EXTINF:0,PRIMAFILA 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/559.ts
-#EXTINF:0,IT: Prima Fila 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/621.ts
-#EXTINF:0,IT: Prima Fila 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/622.ts
-#EXTINF:0,IT:_Prima_Fila_10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2631.ts
-#EXTINF:0,IT:_Prima_Fila_12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2632.ts
-#EXTINF:0,====BALKAN====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1737.ts
-#EXTINF:0,BK:VIASAT HISTORY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/866.ts
-#EXTINF:0,BK:VIASAT sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/867.ts
-#EXTINF:0,BK:TV TK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/852.ts
-#EXTINF:0,BK:TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/848.ts
-#EXTINF:0,BK:SPORT KLUB 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/773.ts
-#EXTINF:0,BK:SPORT KLUB 1 SR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/776.ts
-#EXTINF:0,BK:SPORT KLUB 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/774.ts
-#EXTINF:0,BK:SPORT KLUB 3 SR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/777.ts
-#EXTINF:0,BK:RTS SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/862.ts
-#EXTINF:0,BK:RTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/861.ts
-#EXTINF:0,BK:RTRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/839.ts
-#EXTINF:0,BK:RTL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/857.ts
-#EXTINF:0,BK:RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/856.ts
-#EXTINF:0,BK:PINK ZABAVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/876.ts
-#EXTINF:0,BK:PINK WESTERN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/896.ts
-#EXTINF:0,BK:PINK THRILLER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/887.ts
-#EXTINF:0,BK:PINK SERIJE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/884.ts
-#EXTINF:0,BK:PINK SCIFI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/891.ts
-#EXTINF:0,BK:PINK ROMANCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/890.ts
-#EXTINF:0,BK:PINK REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/874.ts
-#EXTINF:0,BK:PINK PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/892.ts
-#EXTINF:0,BK:PINK PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/850.ts
-#EXTINF:0,BK:PINK MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/889.ts
-#EXTINF:0,BK:PINK HORROR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/894.ts
-#EXTINF:0,BK:PINK FOLK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/875.ts
-#EXTINF:0,BK:PINK FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/885.ts
-#EXTINF:0,BK:PINK EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/851.ts
-#EXTINF:0,BK:PINK CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/888.ts
-#EXTINF:0,BK:PINK COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/893.ts
-#EXTINF:0,BK:PINK CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/895.ts
-#EXTINF:0,BK:PINK BH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/841.ts
-#EXTINF:0,BK:PINK ACTIOn
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/886.ts
-#EXTINF:0,BK:PINK 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/843.ts
-#EXTINF:0,BK:PINK 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/842.ts
-#EXTINF:0,BK:PINK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/849.ts
-#EXTINF:0,BK:OBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/840.ts
-#EXTINF:0,BK:NOVA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/858.ts
-#EXTINF:0,BK:NGC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/864.ts
-#EXTINF:0,BK:KCN 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/880.ts
-#EXTINF:0,BK:KCN 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/879.ts
-#EXTINF:0,BK:IZVORNA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/872.ts
-#EXTINF:0,BK:HRT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/855.ts
-#EXTINF:0,BK:HRT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/854.ts
-#EXTINF:0,BK:HAYATOVCI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/881.ts
-#EXTINF:0,BK:HAYAT PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/845.ts
-#EXTINF:0,BK:HAYAT MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/868.ts
-#EXTINF:0,BK:HAYAT FOLK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/877.ts
-#EXTINF:0,BK:HAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/844.ts
-#EXTINF:0,BK:FTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/837.ts
-#EXTINF:0,BK:FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/882.ts
-#EXTINF:0,BK:FACE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/847.ts
-#EXTINF:0,BK:EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/883.ts
-#EXTINF:0,BK:DUGA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/878.ts
-#EXTINF:0,BK:DOMA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/859.ts
-#EXTINF:0,BK:DM SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/873.ts
-#EXTINF:0,BK:BN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/846.ts
-#EXTINF:0,BK:BN MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/869.ts
-#EXTINF:0,BK:BHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/838.ts
-#EXTINF:0,BK:ARENA SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/769.ts
-#EXTINF:0,BK:ARENA SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/770.ts
-#EXTINF:0,BK:ARENA SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/771.ts
-#EXTINF:0,BK ARENA SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/772.ts
-#EXTINF:0,BK POSAVINA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/871.ts
-#EXTINF:0,BK PINK WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/898.ts
-#EXTINF:0,BK PINK FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/897.ts
-#EXTINF:0,BK AL JAZEERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/853.ts
-#EXTINF:0,====AFRICAIN====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1736.ts
-#EXTINF:0,atv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2003.ts
-#EXTINF:0,AF:Walf_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2520.ts
-#EXTINF:0,AF:TFM.OLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2524.ts
-#EXTINF:0,AF:TFM.INFO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2525.ts
-#EXTINF:0,AF:tfm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2523.ts
-#EXTINF:0,AF:SenTV.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2521.ts
-#EXTINF:0,AF:RTS1.Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2526.ts
-#EXTINF:0,AF:RTI2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2519.ts
-#EXTINF:0,AF:RTI1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2518.ts
-#EXTINF:0,AF:2STV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2522.ts
-#EXTINF:0,AF Universal TV (Somalia) – AF Universal TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1993.ts
-#EXTINF:0,AF Sudan TV (Sudan) – AF Sudan TV (Sudan)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1984.ts
-#EXTINF:0,AF Sudan Dabanga (Sudan)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1995.ts
-#EXTINF:0,AF Somaliland TV (Somalia) – AF Somaliland TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1992.ts
-#EXTINF:0,AF Somali Cable (Somalia) – AF Somali Cable (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1991.ts
-#EXTINF:0,AF SNTV (Somalia) – AF SNTV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1994.ts
-#EXTINF:0,AF Sbc Somali TV (Somalia) – AF Sbc Somali TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1985.ts
-#EXTINF:0,AF Rti (Cote D)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2001.ts
-#EXTINF:0,AF Rtd (Djibouti)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2000.ts
-#EXTINF:0,AF Royal TV (Somalia) – AF Royal TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1983.ts
-#EXTINF:0,AF_Nollywood_French_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/2575.ts
-#EXTINF:0,AF Nollywood (Nigiria) – AF Nollywood (Nigiria)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1980.ts
-#EXTINF:0,AF Love World (Nigiria High)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1997.ts
-#EXTINF:0,AF Kalsan TV (Somalia) – AF Kalsan TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1990.ts
-#EXTINF:0,AF Horn Cable TV (Somalia) – AF Horn Cable TV (Somalia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1989.ts
-#EXTINF:0,AF Etv (Eritria)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1996.ts
-#EXTINF:0,AF Es TV (Eritrea) – AF Es TV (Eritrea)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1988.ts
-#EXTINF:0,AF Eritrea TV (Eritrea) – AF Eritrea TV (Eritrea)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1987.ts
-#EXTINF:0,AF Ebc TV (Ethiopia) – AF Ebc TV (Ethiopia)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1998.ts
-#EXTINF:0,AF E TV (Eritrea) – AF E TV (Eritrea)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1982.ts
-#EXTINF:0,AF Djibouti (Djibouti) – AF Djibouti (Djibouti)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1986.ts
-#EXTINF:0,AF Ait Inter (Nigiria) – AF Ait Inter (Nigiria)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1981.ts
-#EXTINF:0,AF Africa 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ip.cs4ip.com:8000/live/tactac/tactac/1999.ts
+#EXTINF:-1,BEIN SPORT HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1064.ts
+#EXTINF:-1,BEIN SPORT HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1057.ts
+#EXTINF:-1,BEIN SPORT HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1056.ts
+#EXTINF:-1,BEIN SPORT HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1055.ts
+#EXTINF:-1,BEIN SPORT HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1054.ts
+#EXTINF:-1,BEIN SPORT HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1053.ts
+#EXTINF:-1,BEIN SPORT HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1052.ts
+#EXTINF:-1,BEIN SPORT HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1051.ts
+#EXTINF:-1,BEIN SPORT HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1050.ts
+#EXTINF:-1,BEIN SPORT HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1063.ts
+#EXTINF:-1,BEIN SPORT HD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1062.ts
+#EXTINF:-1,BEIN SPORT HD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/1061.ts
+#EXTINF:-1,AR: BEINSPORTS-13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2069.ts
+#EXTINF:-1,AR: BEINSPORTS14HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2070.ts
+#EXTINF:-1,AR: BEINSPORTS15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2071.ts
+#EXTINF:-1,AR: BEINSPORTS16HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2072.ts
+#EXTINF:-1,AR_BEIN_SPORTS_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2627.ts
+#EXTINF:-1,AR_BEIN_SPORTS_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2628.ts
+#EXTINF:-1,AR_BEIN_SPORTS_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2629.ts
+#EXTINF:-1,AR_BEIN_SPORTS_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2630.ts
+#EXTINF:-1,AR_BEIN_SPORTS_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2631.ts
+#EXTINF:-1,AR_BEIN_SPORTS_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2632.ts
+#EXTINF:-1,AR_BEIN_SPORTS_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2633.ts
+#EXTINF:-1,AR_BEIN_SPORTS_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2634.ts
+#EXTINF:-1,AR_BEIN_SPORTS_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2635.ts
+#EXTINF:-1,AR_BEIN_SPORTS_10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2636.ts
+#EXTINF:-1,AR_BEIN_SPORTS_11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2637.ts
+#EXTINF:-1,AR_BEIN_SPORTS_12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2638.ts
+#EXTINF:-1,AR_BEIN_SPORTS_13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2639.ts
+#EXTINF:-1,AR_BEIN_SPORTS_14HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2640.ts
+#EXTINF:-1,AR_BEIN_SPORTS_15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2641.ts
+#EXTINF:-1,AR_BEIN_SPORTS_16HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://orbit-iptv.com:2500/live/nicolas2/nicolas2/2642.ts
+#EXTINF:-1,BEINSPORT_FULLHD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5770.ts
+#EXTINF:-1,BEINSPORT_FULLHD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5771.ts
+#EXTINF:-1,BEINSPORT_FULLHD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5772.ts
+#EXTINF:-1,BEINSPORT_FULLHD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5773.ts
+#EXTINF:-1,BEINSPORT_FULLHD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5774.ts
+#EXTINF:-1,BEINSPORT_FULLHD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5775.ts
+#EXTINF:-1,BEINSPORT_FULLHD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5776.ts
+#EXTINF:-1,BEINSPORT_FULLHD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5777.ts
+#EXTINF:-1,BEINSPORT_FULLHD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5778.ts
+#EXTINF:-1,BEINSPORT_FULLHD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5779.ts
+#EXTINF:-1,AR:beINSPORT01HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6856.ts
+#EXTINF:-1,AR:beINSPORT02HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6857.ts
+#EXTINF:-1,AR:beINSPORT03HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6858.ts
+#EXTINF:-1,AR:beINSPORT04HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6859.ts
+#EXTINF:-1,AR:beINSPORT05HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6860.ts
+#EXTINF:-1,AR:beINSPORT06HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6861.ts
+#EXTINF:-1,AR:beINSPORT07HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6862.ts
+#EXTINF:-1,AR:beINSPORT08HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6863.ts
+#EXTINF:-1,AR:beINSPORT09HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6864.ts
+#EXTINF:-1,AR:beINSPORT10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6865.ts
+#EXTINF:-1,BeinSports_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5792.ts
+#EXTINF:-1,BeinSports_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5795.ts
+#EXTINF:-1,BeinSports_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5798.ts
+#EXTINF:-1,BeinSports_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5801.ts
+#EXTINF:-1,BeinSports_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5804.ts
+#EXTINF:-1,BeinSports_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5807.ts
+#EXTINF:-1,BeinSports_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5810.ts
+#EXTINF:-1,BeinSports_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5813.ts
+#EXTINF:-1,BeinSports_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5816.ts
+#EXTINF:-1,BeinSports_10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5819.ts
+#EXTINF:-1,BeinSport_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5791.ts
+#EXTINF:-1,BeinSport_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5794.ts
+#EXTINF:-1,BeinSport_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5797.ts
+#EXTINF:-1,BeinSport_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5800.ts
+#EXTINF:-1,BeinSport_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5803.ts
+#EXTINF:-1,BeinSport_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5806.ts
+#EXTINF:-1,BeinSport_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5809.ts
+#EXTINF:-1,BeinSport_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5812.ts
+#EXTINF:-1,BeinSport_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5815.ts
+#EXTINF:-1,BeinSport_10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/5818.ts
+#EXTINF:-1,BeInSport-1HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7987.ts
+#EXTINF:-1,BeInSport-2HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7988.ts
+#EXTINF:-1,BeInSport-3HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7989.ts
+#EXTINF:-1,BeInSport-4HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7990.ts
+#EXTINF:-1,BeInSport-5HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7991.ts
+#EXTINF:-1,BeInSport-6HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7992.ts
+#EXTINF:-1,BeInSport-7HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7993.ts
+#EXTINF:-1,BeInSport-8HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7994.ts
+#EXTINF:-1,BeInSport-9HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7995.ts
+#EXTINF:-1,BeInSport-10HD(AR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/7996.ts
+#EXTINF:-1,BE:BEINSPORT_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3845.ts
+#EXTINF:-1,BE:BEINSPORT_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3846.ts
+#EXTINF:-1,BE:-BEINSPORT_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3847.ts
+#EXTINF:-1,BE:BEINSPORT_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3848.ts
+#EXTINF:-1,BE:BEINSPORT_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3849.ts
+#EXTINF:-1,BE:BEINSPORT_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3850.ts
+#EXTINF:-1,BE:BEINSPORT_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3851.ts
+#EXTINF:-1,BE:BEINSPORT_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/3852.ts
+#EXTINF:-1,BEINSPORT-MAX1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/8452.ts
+#EXTINF:-1,BEINSPORT-MAX2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/8455.ts
+#EXTINF:-1,BEINSPORT_FULLHD11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/6585.ts
+#EXTINF:-1,BEINSPORT_FULLHD12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://giant-iptv.com:5477/live/camille/camille/8534.ts
+#EXTINF:-1,ARENASPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.70/PLTV/88888888/224/3221226643/04.m3u8
+#EXTINF:-1,ARENASPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.70/PLTV/88888888/224/3221226662/04.m3u8
+#EXTINF:-1,ARENASPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.70/PLTV/88888888/224/3221226664/04.m3u8
+#EXTINF:-1,ARENASPORT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.70/PLTV/88888888/224/3221226661/04.m3u8
+#EXTINF:-1,ARENASPORT 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.87.85.70/PLTV/88888888/224/3221226665/04.m3u8
+#EXTM3U
+#EXTINF:-1,█ ▇ ▆ BEIN ENTERTAINMENT ▆ ▇ █
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/23.ts
+#EXTINF:-1,beIN Sports HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/5.ts
+#EXTINF:-1,beIN Sports HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/6.ts
+#EXTINF:-1,beIN Sports HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/7.ts
+#EXTINF:-1,beIN Sports HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/8.ts
+#EXTINF:-1,beIN Sports HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/9.ts
+#EXTINF:-1,beIN Sports HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/10.ts
+#EXTINF:-1,beIN Sports HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/11.ts
+#EXTINF:-1,beIN Sports HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/12.ts
+#EXTINF:-1,beIN Sports HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/13.ts
+#EXTINF:-1,beIN Sports HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/14.ts
+#EXTINF:-1,beIN Sports 1 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/15.ts
+#EXTINF:-1,beIN Sports 2 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/16.ts
+#EXTINF:-1,beIN Sports 3 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/17.ts
+#EXTINF:-1,beIN Sports 4 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/18.ts
+#EXTINF:-1,beIN Sports 5 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/19.ts
+#EXTINF:-1,beIN Sports 6 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/20.ts
+#EXTINF:-1,beIN Sports 7 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/21.ts
+#EXTINF:-1,Bein Sports HD1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/42.ts
+#EXTINF:-1,Bein Sports HD2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/43.ts
+#EXTINF:-1,Bein Sports HD3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://91.236.239.71:8000/live/last/star7arab/44.ts
+#EXTINF:-1,Bein Sports USA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/95.ts
+#EXTINF:-1,Bein Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/576.ts
+#EXTINF:-1,Bein Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/575.ts
+#EXTINF:-1,Bein Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/475.ts
+#EXTINF:-1,Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/474.ts
+#EXTINF:-1,Bein Sports 1 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/390.ts
+#EXTINF:-1,Bein Sports 2 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/391.ts
+#EXTINF:-1,Bein Sports 3 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/392.ts
+#EXTINF:-1,Bein Sports 4 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/393.ts
+#EXTINF:-1,Bein Sports 5 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/394.ts
+#EXTINF:-1,Bein Sports 6 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/395.ts
+#EXTINF:-1,Bein Sports 7 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/396.ts
+#EXTINF:-1,Bein Sports 8 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/397.ts
+#EXTINF:-1,Bein Sports 9 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/398.ts
+#EXTINF:-1,Bein Sports 10 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/399.ts
+#EXTINF:-1,Bein Sports 11 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/400.ts
+#EXTINF:-1,Bein Sports 12 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/401.ts
+#EXTINF:-1,Bein Sports 13 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/402.ts
+#EXTINF:-1,Bein Sports 14 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/403.ts
+#EXTINF:-1,Bein Sports 15 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/404.ts
+#EXTINF:-1,Bein Sports 16 HD Beta
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/875.ts
+#EXTINF:-1,Bein Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/16.ts
+#EXTINF:-1,Bein Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/17.ts
+#EXTINF:-1,Bein Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/18.ts
+#EXTINF:-1,Bein Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/19.ts
+#EXTINF:-1,Bein Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/20.ts
+#EXTINF:-1,Bein Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/21.ts
+#EXTINF:-1,Bein Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/22.ts
+#EXTINF:-1,Bein Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/23.ts
+#EXTINF:-1,Bein Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/24.ts
+#EXTINF:-1,Bein Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/25.ts
+#EXTINF:-1,Bein Sports 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/247.ts
+#EXTINF:-1,Bein Sports 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/248.ts
+#EXTINF:-1,Abu Dhabi Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/919.ts
+#EXTINF:-1,Abu Dhabi Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/920.ts
+#EXTINF:-1,Abu Dhabi Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/921.ts
+#EXTINF:-1,Abu Dhabi Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/922.ts
+#EXTINF:-1,Abu Dhabi Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/923.ts
+#EXTINF:-1,Abu Dhabi Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/924.ts
+#EXTINF:-1,E! Entertainment
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.39.70.216/live/louis/louis/896.ts
