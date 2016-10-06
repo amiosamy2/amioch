@@ -1,113 +1,377 @@
 #EXTM3U
-#EXTINF:-1,SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3191.ts
-#EXTINF:-1,SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3192.ts
-#EXTINF:-1,FR: beinHD Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/17.ts
-#EXTINF:-1,FR: beinHD Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/18.ts
-#EXTINF:-1,FR: beinHD Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/19.ts
-#EXTINF:-1,UK: Sky Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2006.ts
-#EXTINF:-1,UK: Sky Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2007.ts
-#EXTINF:-1,UK: Sky Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2011.ts
-#EXTINF:-1,UK: Sky Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2012.ts
-#EXTINF:-1,UK: Sky Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2451.ts
-#EXTINF:-1,UK: Sky Sport F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2502.ts
-#EXTINF:-1,Ru: Match Football 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3138.ts
-#EXTINF:-1,Ru: Match Football 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3139.ts
-#EXTINF:-1,Ru: Match Football 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3140.ts
-#EXTINF:-1,SuperSport 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3131.ts
-#EXTINF:-1,SuperSport 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3132.ts
-#EXTINF:-1,SuperSport 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3133.ts
-#EXTINF:-1,superSport 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3134.ts
-#EXTINF:-1,CTH Stadium 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3283.ts
-#EXTINF:-1,CTH Stadium 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3284.ts
-#EXTINF:-1,CTH Stadium 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3285.ts
-#EXTINF:-1,CTH Stadium 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3286.ts
-#EXTINF:-1,CTH Stadium 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3287.ts
-#EXTINF:-1,CTH Stadium 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3288.ts
-#EXTINF:-1,RO: Digi Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2816.ts
-#EXTINF:-1,IN: Star Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2792.ts
-#EXTINF:-1,IN: Star Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2793.ts
-#EXTINF:-1,IN: Star Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2791.ts
-#EXTINF:-1,IN: Star Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2794.ts
-#EXTINF:-1,RO: Digi Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2817.ts
-#EXTINF:-1,RO: Digi Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2818.ts
-#EXTINF:-1,RO: Digi Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2819.ts
-#EXTINF:-1,AR: Dubai Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3317.ts
-#EXTINF:-1,AR: Dubai Racing 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3318.ts
-#EXTINF:-1,AR: Dubai Racing 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3319.ts
-#EXTINF:-1,AR: Kuwait TV Sport Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3321.ts
-#EXTINF:-1,AR: Kuwait TV Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3320.ts
-#EXTINF:-1,AR: YAS SPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3209.ts
-#EXTINF:-1,AR: AD Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1041.ts
-#EXTINF:-1,AR: AD Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1042.ts
-#EXTINF:-1,AR: AD Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1301.ts
-#EXTINF:-1,AR: AD Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2416.ts
-#EXTINF:-1,AR: AD Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/2417.ts
-#EXTINF:-1,AR: AD Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/3682.ts
-#EXTINF:-1,AR: Al Kass Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1213.ts
-#EXTINF:-1,AR: Al Kass Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1214.ts
-#EXTINF:-1,AR: MBC Pro Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1217.ts
-#EXTINF:-1,AR: MBC Pro Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1218.ts
-#EXTINF:-1,AR: MBC Pro Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1220.ts
-#EXTINF:-1,AR: MBC Pro Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1219.ts
-#EXTINF:-1,EX-YU: Arena Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1898.ts
-#EXTINF:-1,EX-YU: Arena Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1899.ts
-#EXTINF:-1,EX-YU: Arena Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1900.ts
-#EXTINF:-1,EX-YU: Arena Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1901.ts
-#EXTINF:-1,UK: BT Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1795.ts
-#EXTINF:-1,UK: BT Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.re/live/1/1/1796.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ -Local-BeIN SPORT  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/460.ts
+#EXTINF:-1,-Local-BeIN News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/549.ts
+#EXTINF:-1,-Local-BeIN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/550.ts
+#EXTINF:-1,-Local-BeIN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/528.ts
+#EXTINF:-1,-Local-BeIN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/529.ts
+#EXTINF:-1,-Local-BeIN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/530.ts
+#EXTINF:-1,-Local-BeIN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/531.ts
+#EXTINF:-1,-Local-BeIN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/532.ts
+#EXTINF:-1,-Local-BeIN Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/533.ts
+#EXTINF:-1,-Local-BeIN Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/534.ts
+#EXTINF:-1,-Local-BeIN Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/535.ts
+#EXTINF:-1,-Local-BeIN Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/536.ts
+#EXTINF:-1,-Local-BeIN Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/537.ts
+#EXTINF:-1,-Local-BeIN Sport 11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/538.ts
+#EXTINF:-1,-Local-BeIN Sport 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/539.ts
+#EXTINF:-1,-Local-BeIN Sport 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/540.ts
+#EXTINF:-1,-Local-BeIN Sport 14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/541.ts
+#EXTINF:-1,-Local-BeIN Sport 15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/542.ts
+#EXTINF:-1,-Local-BeIN Sport 16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/543.ts
+#EXTINF:-1,-Local- Bein HD Movies 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/437.ts
+#EXTINF:-1,-Local- Bein HD Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/438.ts
+#EXTINF:-1,-Local- Bein HD Movies 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/439.ts
+#EXTINF:-1,-Local- Bein HD Movies 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/440.ts
+#EXTINF:-1,-Local-BeIN Sport 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/551.ts
+#EXTINF:-1,-Local-BeIN Sport 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/552.ts
+#EXTINF:-1,-Local-BeIN Sport 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/553.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BeIN SPORT  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/564.ts
+#EXTINF:-1,AR LOCAL: bein Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/554.ts
+#EXTINF:-1,AR LOCAL: bein Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/555.ts
+#EXTINF:-1,AR LOCAL: bein Sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/556.ts
+#EXTINF:-1,AR LOCAL: bein Sport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/557.ts
+#EXTINF:-1,AR LOCAL: bein Sport5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/558.ts
+#EXTINF:-1,AR LOCAL: bein Sport6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/559.ts
+#EXTINF:-1,AR LOCAL: bein Sport7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/560.ts
+#EXTINF:-1,AR LOCAL: bein Sport8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/561.ts
+#EXTINF:-1,AR LOCAL: bein Sport9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/562.ts
+#EXTINF:-1,AR LOCAL: bein Sport10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/563.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BeIN SPORT HD  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/574.ts
+#EXTINF:-1,BeIN Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/575.ts
+#EXTINF:-1,BeIN Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/576.ts
+#EXTINF:-1,BeIN Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/577.ts
+#EXTINF:-1,BeIN Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/578.ts
+#EXTINF:-1,BeIN Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/579.ts
+#EXTINF:-1,BeIN Sport 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/580.ts
+#EXTINF:-1,BeIN Sport 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/581.ts
+#EXTINF:-1,BeIN Sport 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/582.ts
+#EXTINF:-1,BeIN Sport 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/583.ts
+#EXTINF:-1,BeIN Sport 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/584.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ -Local-OSN_PRIVATE  █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/48.ts
+#EXTINF:-1,-Local-OSN: Yahala HD Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/454.ts
+#EXTINF:-1,-Local-OSN: Movies-star-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/455.ts
+#EXTINF:-1,-Local-OSN: ON DEMAND 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/445.ts
+#EXTINF:-1,-Local-OSN: NAT GEO ABUDUBAI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/441.ts
+#EXTINF:-1,-Local-OSN: Movies Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/448.ts
+#EXTINF:-1,-Local-OSN: MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/443.ts
+#EXTINF:-1,-Local-OSN: Movies Festilval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/447.ts
+#EXTINF:-1,-Local-OSN: MOVIES DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/442.ts
+#EXTINF:-1,-Local-OSN: MOVIES ACTION 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/444.ts
+#EXTINF:-1,-Local-OSN: MOVIES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/450.ts
+#EXTINF:-1,-Local-OSN: Movie-kids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/452.ts
+#EXTINF:-1,-Local-OSN: FIRST COMEDY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/449.ts
+#EXTINF:-1,-Local-OSN: ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/459.ts
+#EXTINF:-1,-Local-OSN: ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/458.ts
+#EXTINF:-1,-Local-OSN-Movies-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/451.ts
+#EXTINF:-1,-Local-OSN ON DEMAND 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/446.ts
+#EXTINF:-1,-Lcoal-OSN: Movies-FESTIVAL-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/456.ts
+#EXTINF:-1,OSN Ad Sport 5 SD Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/22.ts
+#EXTINF:-1,OSN Ad Sport 5 Original (HD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/31.ts
+#EXTINF:-1,OSN Ad Sport 5 LOW Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/17.ts
+#EXTINF:-1,OSN Ad Sport 4 SD Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/23.ts
+#EXTINF:-1,OSN Ad Sport 4 Original (HD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/30.ts
+#EXTINF:-1,OSN Ad Sport 4 LOW Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/18.ts
+#EXTINF:-1,OSN Ad Sport 3 SD Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/24.ts
+#EXTINF:-1,OSN Ad Sport 3 Original (HD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/29.ts
+#EXTINF:-1,OSN Ad Sport 3 LOW Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/19.ts
+#EXTINF:-1,OSN Ad Sport 2 SD Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/25.ts
+#EXTINF:-1,OSN Ad Sport 2 Original (HD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/28.ts
+#EXTINF:-1,OSN Ad Sport 2 LOW Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/20.ts
+#EXTINF:-1,OSN Ad Sport 1 SD Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/26.ts
+#EXTINF:-1,OSN Ad Sport 1 Original (HD)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/27.ts
+#EXTINF:-1,OSN Ad Sport 1 LOW Original
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/21.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NILESAT █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/149.ts
+#EXTINF:-1,MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/194.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/544.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/361.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/196.ts
+#EXTINF:-1,MBC ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/193.ts
+#EXTINF:-1,AR:MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/191.ts
+#EXTINF:-1,AR:MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/192.ts
+#EXTINF:-1,TRT Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/280.ts
+#EXTINF:-1,MBC Pro 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/545.ts
+#EXTINF:-1,MBC Pro 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/546.ts
+#EXTINF:-1,MBC Pro 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/547.ts
+#EXTINF:-1,MBC Pro 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/548.ts
+#EXTINF:-1,Sama Dubai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/272.ts
+#EXTINF:-1,Naba TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/282.ts
+#EXTINF:-1,Libiya TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/279.ts
+#EXTINF:-1,DW Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/277.ts
+#EXTINF:-1,Dubai One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/268.ts
+#EXTINF:-1,Aljazeera Doc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/276.ts
+#EXTINF:-1,Al Aoula Maroc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/252.ts
+#EXTINF:-1,Al Aan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/281.ts
+#EXTINF:-1,Toktok Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/133.ts
+#EXTINF:-1,Time Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/135.ts
+#EXTINF:-1,Sada AL Balad Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/139.ts
+#EXTINF:-1,Wesal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/205.ts
+#EXTINF:-1,Sunna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/204.ts
+#EXTINF:-1,Press TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/233.ts
+#EXTINF:-1,Libya24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/242.ts
+#EXTINF:-1,Libya News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/243.ts
+#EXTINF:-1,Libya Alhadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/244.ts
+#EXTINF:-1,Libya 218
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/241.ts
+#EXTINF:-1,Libya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/245.ts
+#EXTINF:-1,iFilm TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/232.ts
+#EXTINF:-1,France24 EN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/236.ts
+#EXTINF:-1,France24 AR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/234.ts
+#EXTINF:-1,Dzair News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/246.ts
+#EXTINF:-1,DZ:Ennahar-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/565.ts
+#EXTINF:-1,DZ:Ennahar Laki
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/566.ts
+#EXTINF:-1,DZ:Elchourok_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/567.ts
+#EXTINF:-1,DZ:Elchourok News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/568.ts
+#EXTINF:-1,DZ:Dzair TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/569.ts
+#EXTINF:-1,DZ:Canal Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/570.ts
+#EXTINF:-1,DZ:Al-Khabar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/571.ts
+#EXTINF:-1,Algeria 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/251.ts
+#EXTINF:-1,Alechorouk Dz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/248.ts
+#EXTINF:-1,Daawa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/238.ts
+#EXTINF:-1,Alhiwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/237.ts
+#EXTINF:-1,Alalam TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/231.ts
+#EXTINF:-1,Saudi Cultural TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/213.ts
+#EXTINF:-1,Rotana Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/129.ts
+#EXTINF:-1,Quran TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/203.ts
+#EXTINF:-1,Mecca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/208.ts
+#EXTINF:-1,Iqraa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/206.ts
+#EXTINF:-1,Aldana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/209.ts
+#EXTINF:-1,Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/130.ts
+#EXTINF:-1,Musalsalat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/136.ts
+#EXTINF:-1,MTV Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/143.ts
+#EXTINF:-1,LDC TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/142.ts
+#EXTINF:-1,Cima Habisha TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/132.ts
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/137.ts
+#EXTINF:-1,AlKahera Wal Nas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/138.ts
+#EXTINF:-1,Abu Dhabi Emarat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/146.ts
+#EXTINF:-1,Abu Dhabi Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/145.ts
+#EXTINF:-1,Abu Dhabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/144.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ France_Channels█ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/410.ts
+#EXTINF:-1,FR:TOUTE l'HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/608.ts
+#EXTINF:-1,FR:SEASON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/606.ts
+#EXTINF:-1,FR:PLANETE +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/611.ts
+#EXTINF:-1,FR:EQUIPE 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/620.ts
+#EXTINF:-1,FR: SCIENCES & VIE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/607.ts
+#EXTINF:-1,FR: PLANETE CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/610.ts
+#EXTINF:-1,FR: Planete  A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/609.ts
+#EXTINF:-1,FR: Ma Chaine Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/619.ts
+#EXTINF:-1,FR: Foot  24/24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/618.ts
+#EXTINF:-1,FR: CANAL SPORT  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/613.ts
+#EXTINF:-1,FR: CANAL FAMILY  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/615.ts
+#EXTINF:-1,FR: CANAL DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/616.ts
+#EXTINF:-1,FR: CANAL CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/617.ts
+#EXTINF:-1,FR: CANAL  SERIE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/614.ts
+#EXTINF:-1,FR: CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/612.ts
+#EXTINF:-1,FR:W9 hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/594.ts
+#EXTINF:-1,FR:VOYAGE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/602.ts
+#EXTINF:-1,FR:Sfr SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/586.ts
+#EXTINF:-1,FR:SFR SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/587.ts
+#EXTINF:-1,FR:SFR SPORT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/588.ts
+#EXTINF:-1,FR:M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/593.ts
+#EXTINF:-1,FR:GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/585.ts
+#EXTINF:-1,FR:E!-ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/600.ts
+#EXTINF:-1,FR:AB1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/603.ts
+#EXTINF:-1,FR: USHUAIA  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/601.ts
+#EXTINF:-1,FR: TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/592.ts
+#EXTINF:-1,FR: NUMERO 23 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/591.ts
+#EXTINF:-1,FR: France O  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/596.ts
+#EXTINF:-1,FR: FRANCE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/597.ts
+#EXTINF:-1,FR: DISCOVERY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/598.ts
+#EXTINF:-1,FR: CHASSE ET  PACHE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/605.ts
+#EXTINF:-1,FR: ANIMAUX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/604.ts
+#EXTINF:-1,FR:  Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/599.ts
+#EXTINF:-1,FR.ARTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/595.ts
+#EXTINF:-1,France24 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/235.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ UK_Channels█ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/411.ts
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ Palestine Local TV █ ▇ ▆ ▅ ▄ ▃
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/487.ts
+#EXTINF:-1,Salam TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/483.ts
+#EXTINF:-1,Kol Alnas TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/484.ts
+#EXTINF:-1,Belad TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/485.ts
+#EXTINF:-1,Adwa TV HD Nablus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/486.ts
+#EXTINF:-1,Ajyal TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/StAr7aRaB/hUmiyDwFAl/520.ts
