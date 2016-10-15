@@ -1,1109 +1,297 @@
 #EXTM3U
-#EXTINF:-1,---TN-CH----------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/884.ts
-#EXTINF:-1,Tunisia1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/368.ts
-#EXTINF:-1,Tunisia2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/369.ts
-#EXTINF:-1,Ettounisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/370.ts
-#EXTINF:-1,Nessma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/372.ts
-#EXTINF:-1,Hannibal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/371.ts
-#EXTINF:-1,Attessia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/375.ts
-#EXTINF:-1,Tunisna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/374.ts
-#EXTINF:-1,Aljanoubia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/376.ts
-#EXTINF:-1,Tnn-Tunisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/378.ts
-#EXTINF:-1,Almutawasit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/383.ts
-#EXTINF:-1,Zaytouna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/380.ts
-#EXTINF:-1,Telvza-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/373.ts
-#EXTINF:-1,M-tunisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/379.ts
-#EXTINF:-1,Firs-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/377.ts
-#EXTINF:-1,ShemFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/892.ts
-#EXTINF:-1,CapFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/905.ts
-#EXTINF:-1,MosaiqueFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/891.ts
-#EXTINF:-1,IFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/903.ts
-#EXTINF:-1,KnoozFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/904.ts
-#EXTINF:-1,---Bein-Sp-----------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/885.ts
-#EXTINF:-1,BeinSport-HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1033.ts
-#EXTINF:-1,BeinSport-HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1031.ts
-#EXTINF:-1,BeinSport-HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1030.ts
-#EXTINF:-1,BeinSport-HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1029.ts
-#EXTINF:-1,BeinSport-HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1028.ts
-#EXTINF:-1,BeinSport-HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1027.ts
-#EXTINF:-1,BeinSport-HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1026.ts
-#EXTINF:-1,BeinSport-HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1025.ts
-#EXTINF:-1,BeinSport-HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1024.ts
-#EXTINF:-1,BeinSport-HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1032.ts
-#EXTINF:-1,BEIN-S1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/528.ts
-#EXTINF:-1,BEIN-S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/529.ts
-#EXTINF:-1,BEIN-S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/530.ts
-#EXTINF:-1,BEIN-S4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/531.ts
-#EXTINF:-1,BEIN-S5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/532.ts
-#EXTINF:-1,BEIN-S6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/533.ts
-#EXTINF:-1,BEIN-S7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/534.ts
-#EXTINF:-1,BEIN-S8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/535.ts
-#EXTINF:-1,BEIN-S9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/536.ts
-#EXTINF:-1,BEIN-S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/537.ts
-#EXTINF:-1,BEIN_MOVIES_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/952.ts
-#EXTINF:-1,BEIN_MOVIES_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/953.ts
-#EXTINF:-1,Bein-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/603.ts
-#EXTINF:-1,Bein-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/604.ts
-#EXTINF:-1,Bein-Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/605.ts
-#EXTINF:-1,Alkass-sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/815.ts
-#EXTINF:-1,Alkass-sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/816.ts
-#EXTINF:-1,Alkass-sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/817.ts
-#EXTINF:-1,Alkass-sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/818.ts
-#EXTINF:-1,BEIN-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/526.ts
-#EXTINF:-1,---OSN----------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1126.ts
-#EXTINF:-1,OSN_MOVIES_FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1125.ts
-#EXTINF:-1,OSN_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1124.ts
-#EXTINF:-1,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1123.ts
-#EXTINF:-1,OSN_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1122.ts
-#EXTINF:-1,OSN-YAHALA-SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1121.ts
-#EXTINF:-1,OSN-Yahala-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1120.ts
-#EXTINF:-1,OSN-YAHAlA-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1119.ts
-#EXTINF:-1,OSN-YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1118.ts
-#EXTINF:-1,OSN-ORBIT-CINEMA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1116.ts
-#EXTINF:-1,OSN-ORBIT-CINEMA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1117.ts
-#EXTINF:-1,OSN-On-Demand-Extra-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1114.ts
-#EXTINF:-1,OSN-OFFICBOX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1111.ts
-#EXTINF:-1,OSN-OFFICBOX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1112.ts
-#EXTINF:-1,OSN-Movies-Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1110.ts
-#EXTINF:-1,OSN-Movie-kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1109.ts
-#EXTINF:-1,OSN-MBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1108.ts
-#EXTINF:-1,OSN-ELYOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1107.ts
-#EXTINF:-1,OSN-Discovery-Science-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1106.ts
-#EXTINF:-1,OSN-DISCOVERY-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1105.ts
-#EXTINF:-1,OSN-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1104.ts
-#EXTINF:-1,OSN-Animal-Planet-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1103.ts
-#EXTINF:-1,OSN-ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1102.ts
-#EXTINF:-1,---ARABIC------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/886.ts
-#EXTINF:-1,MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/388.ts
-#EXTINF:-1,Mbc2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/387.ts
-#EXTINF:-1,MBC-kIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/504.ts
-#EXTINF:-1,Mbc4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/389.ts
-#EXTINF:-1,Mbc-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/386.ts
-#EXTINF:-1,Mbc-MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/390.ts
-#EXTINF:-1,Mbc-MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/391.ts
-#EXTINF:-1,Mbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/392.ts
-#EXTINF:-1,Mbc-Bolly
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/384.ts
-#EXTINF:-1,Mbc-Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/385.ts
-#EXTINF:-1,Zee-Alwan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/393.ts
-#EXTINF:-1,Rotana_Masriya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/516.ts
-#EXTINF:-1,RotanaKhaliji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/517.ts
-#EXTINF:-1,RotanaCLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/514.ts
-#EXTINF:-1,Rotana-Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/515.ts
-#EXTINF:-1,Rotana-masria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/412.ts
-#EXTINF:-1,Rotana-classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/413.ts
-#EXTINF:-1,Rotana-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/411.ts
-#EXTINF:-1,Rotana-Aflem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/410.ts
-#EXTINF:-1,Melody-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/881.ts
-#EXTINF:-1,Cbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/460.ts
-#EXTINF:-1,Cbc-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/461.ts
-#EXTINF:-1,CBC-Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/464.ts
-#EXTINF:-1,CBC-Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/463.ts
-#EXTINF:-1,Cbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/462.ts
-#EXTINF:-1,Rotana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/513.ts
-#EXTINF:-1,Cinema-osn-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/800.ts
-#EXTINF:-1,Cinema-osn2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/799.ts
-#EXTINF:-1,Aflam1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/405.ts
-#EXTINF:-1,Aflam2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/406.ts
-#EXTINF:-1,Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/407.ts
-#EXTINF:-1,Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/408.ts
-#EXTINF:-1,Hekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/409.ts
-#EXTINF:-1,Zee-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/414.ts
-#EXTINF:-1,Toyor-Janah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/510.ts
-#EXTINF:-1,Majd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/498.ts
-#EXTINF:-1,Iqraa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/496.ts
-#EXTINF:-1,Toyor-Baby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/511.ts
-#EXTINF:-1,Saoudi1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1057.ts
-#EXTINF:-1,Saoudi2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1058.ts
-#EXTINF:-1,Saoudi-sonnah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1055.ts
-#EXTINF:-1,Saoudi-Ekberia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1056.ts
-#EXTINF:-1,Saudi-Mekka
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/897.ts
-#EXTINF:-1,Mehwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/899.ts
-#EXTINF:-1,almasria1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/984.ts
-#EXTINF:-1,almasria2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/985.ts
-#EXTINF:-1,I24-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/898.ts
-#EXTINF:-1,Time-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/436.ts
-#EXTINF:-1,Time-Taxi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/812.ts
-#EXTINF:-1,Star-Cin2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/427.ts
-#EXTINF:-1,Cinema-Shobra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/895.ts
-#EXTINF:-1,Abu-dhabi-yass
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/900.ts
-#EXTINF:-1,Moga-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/894.ts
-#EXTINF:-1,Time-comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/813.ts
-#EXTINF:-1,Time-cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/814.ts
-#EXTINF:-1,star-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/425.ts
-#EXTINF:-1,Samira-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/467.ts
-#EXTINF:-1,Tamazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/792.ts
-#EXTINF:-1,Otv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/788.ts
-#EXTINF:-1,NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/778.ts
-#EXTINF:-1,Mtv-lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/819.ts
-#EXTINF:-1,Lbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/472.ts
-#EXTINF:-1,Melody-classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/789.ts
-#EXTINF:-1,Manartv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/777.ts
-#EXTINF:-1,Heya-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/779.ts
-#EXTINF:-1,BeurTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/880.ts
-#EXTINF:-1,Jsc-Mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1063.ts
-#EXTINF:-1,Jsc-Chidren
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1064.ts
-#EXTINF:-1,Jsc-Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1065.ts
-#EXTINF:-1,ECHOUROUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/795.ts
-#EXTINF:-1,Cn-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/783.ts
-#EXTINF:-1,AR.Numedia_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1016.ts
-#EXTINF:-1,AR.Lindex_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1023.ts
-#EXTINF:-1,AR.Laki_ENNAHAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1014.ts
-#EXTINF:-1,AR.KBC_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1020.ts
-#EXTINF:-1,AR.ENTV_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1003.ts
-#EXTINF:-1,AR.ENNAHAR_algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1013.ts
-#EXTINF:-1,AR.El_Magharibya_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1012.ts
-#EXTINF:-1,AR.El_Magharibya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1011.ts
-#EXTINF:-1,AR.EL_HADDAF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1022.ts
-#EXTINF:-1,AR.EL_Djazairia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1015.ts
-#EXTINF:-1,AR.EL_Biled
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1021.ts
-#EXTINF:-1,AR.Echourouk_news
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1010.ts
-#EXTINF:-1,AR.Echerouk_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1008.ts
-#EXTINF:-1,AR.Echerouk_Benna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1009.ts
-#EXTINF:-1,AR.Dzair_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1017.ts
-#EXTINF:-1,AR.Dzair24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1019.ts
-#EXTINF:-1,AR.Dzair21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1018.ts
-#EXTINF:-1,AR.Canal_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1004.ts
-#EXTINF:-1,AR.Algerie5_Quoran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1007.ts
-#EXTINF:-1,AR.Algerie3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1005.ts
-#EXTINF:-1,AR.ALGERIAN_amazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1006.ts
-#EXTINF:-1,CinemaPro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/787.ts
-#EXTINF:-1,Bzaflive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/794.ts
-#EXTINF:-1,Arabica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/781.ts
-#EXTINF:-1,Alriadhia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/791.ts
-#EXTINF:-1,Alqods
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/782.ts
-#EXTINF:-1,Alnas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/503.ts
-#EXTINF:-1,TVA3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/793.ts
-#EXTINF:-1,KBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/879.ts
-#EXTINF:-1,Toktok-cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/786.ts
-#EXTINF:-1,Toktok-Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/430.ts
-#EXTINF:-1,Sama-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/797.ts
-#EXTINF:-1,Sat7Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/785.ts
-#EXTINF:-1,Sat7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/784.ts
-#EXTINF:-1,National-Geo-AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/798.ts
-#EXTINF:-1,Nile-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/455.ts
-#EXTINF:-1,Nile-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/983.ts
-#EXTINF:-1,Nile-family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/456.ts
-#EXTINF:-1,Nile-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/457.ts
-#EXTINF:-1,Nile-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/810.ts
-#EXTINF:-1,Nile-cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/424.ts
-#EXTINF:-1,Syria-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/450.ts
-#EXTINF:-1,Panorama-comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/428.ts
-#EXTINF:-1,panorama-food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/429.ts
-#EXTINF:-1,PanoramaAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/422.ts
-#EXTINF:-1,Panoram-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/453.ts
-#EXTINF:-1,Panorama-Drama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/454.ts
-#EXTINF:-1,Cairo-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/452.ts
-#EXTINF:-1,Cairo-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/431.ts
-#EXTINF:-1,AD-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/439.ts
-#EXTINF:-1,Oscarcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/432.ts
-#EXTINF:-1,Oscar-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/451.ts
-#EXTINF:-1,Karameech
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/507.ts
-#EXTINF:-1,Hawas-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/438.ts
-#EXTINF:-1,Fox-Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/418.ts
-#EXTINF:-1,Mody
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/505.ts
-#EXTINF:-1,Spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/508.ts
-#EXTINF:-1,Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/473.ts
-#EXTINF:-1,Fox-Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/419.ts
-#EXTINF:-1,Dubai-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/421.ts
-#EXTINF:-1,Dubai-Dra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/443.ts
-#EXTINF:-1,Dubai-zaman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1060.ts
-#EXTINF:-1,Dubai-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1061.ts
-#EXTINF:-1,Dubai-Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1062.ts
-#EXTINF:-1,Dubai-AlOula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/445.ts
-#EXTINF:-1,El-Djazairia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/488.ts
-#EXTINF:-1,Dzair-25
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/493.ts
-#EXTINF:-1,Dzair-24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/492.ts
-#EXTINF:-1,Dzair-21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/491.ts
-#EXTINF:-1,Dzair-19
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/490.ts
-#EXTINF:-1,DTV-AlgÃˆrie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/494.ts
-#EXTINF:-1,CNBC-Arabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/400.ts
-#EXTINF:-1,CnArabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/509.ts
-#EXTINF:-1,Medi-1TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/486.ts
-#EXTINF:-1,Mbc-pro1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/544.ts
-#EXTINF:-1,Mbc-Pro2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/545.ts
-#EXTINF:-1,Mbc-Pro3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/546.ts
-#EXTINF:-1,Mbc-Pro4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/547.ts
-#EXTINF:-1,Mazika-Zoom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/519.ts
-#EXTINF:-1,Mazika
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/518.ts
-#EXTINF:-1,AlnaharDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/458.ts
-#EXTINF:-1,Almajd3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/495.ts
-#EXTINF:-1,ALjazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/394.ts
-#EXTINF:-1,Alhayet-S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/449.ts
-#EXTINF:-1,Alhayet-Musalsalet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/448.ts
-#EXTINF:-1,Alhayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/470.ts
-#EXTINF:-1,Alhayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/469.ts
-#EXTINF:-1,2M-Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/482.ts
-#EXTINF:-1,Algerie-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/489.ts
-#EXTINF:-1,ALarabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/395.ts
-#EXTINF:-1,Alafasy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/499.ts
-#EXTINF:-1,Al-Maghribia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/483.ts
-#EXTINF:-1,Al-Aoula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/485.ts
-#EXTINF:-1,Ajman-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/481.ts
-#EXTINF:-1,AD-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/522.ts
-#EXTINF:-1,AD-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/521.ts
-#EXTINF:-1,JSc-Docum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/402.ts
-#EXTINF:-1,Majestic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/437.ts
-#EXTINF:-1,Maghreb24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/487.ts
-#EXTINF:-1,AD-Aloula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/442.ts
-#EXTINF:-1,Abu-dhabi-racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/901.ts
-#EXTINF:-1,BBC-arab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/398.ts
-#EXTINF:-1,Baraem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/506.ts
-#EXTINF:-1,Assadissa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/484.ts
-#EXTINF:-1,Abu-Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/441.ts
-#EXTINF:-1,AD-Natgeo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/403.ts
-#EXTINF:-1,AD-Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/440.ts
-#EXTINF:-1,AlnaharDrama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/459.ts
-#EXTINF:-1,Dream
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/474.ts
-#EXTINF:-1,Dream2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/475.ts
-#EXTINF:-1,Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/423.ts
-#EXTINF:-1,---CsatFR---------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/887.ts
-#EXTINF:-1,M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/564.ts
-#EXTINF:-1,TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/563.ts
-#EXTINF:-1,W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/566.ts
-#EXTINF:-1,NT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/878.ts
-#EXTINF:-1,NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/877.ts
-#EXTINF:-1,HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1270.ts
-#EXTINF:-1,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1272.ts
-#EXTINF:-1,Disney-channel-fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1271.ts
-#EXTINF:-1,Kombat-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1269.ts
-#EXTINF:-1,Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/548.ts
-#EXTINF:-1,Canal-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/549.ts
-#EXTINF:-1,Canal-Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/551.ts
-#EXTINF:-1,Canal-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/602.ts
-#EXTINF:-1,Canal-Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/552.ts
-#EXTINF:-1,Canal-Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/550.ts
-#EXTINF:-1,Cine-Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/554.ts
-#EXTINF:-1,Cine-Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/553.ts
-#EXTINF:-1,Cine-Famiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/557.ts
-#EXTINF:-1,Cine-Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/555.ts
-#EXTINF:-1,Cine-Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/556.ts
-#EXTINF:-1,TEVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/583.ts
-#EXTINF:-1,VOYAGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/592.ts
-#EXTINF:-1,USHUAIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/593.ts
-#EXTINF:-1,Chasse-Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/883.ts
-#EXTINF:-1,Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/853.ts
-#EXTINF:-1,TV5-Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/401.ts
-#EXTINF:-1,Tv-Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/575.ts
-#EXTINF:-1,TELETOONplus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/620.ts
-#EXTINF:-1,TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/614.ts
-#EXTINF:-1,Serie-Club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/579.ts
-#EXTINF:-1,SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/584.ts
-#EXTINF:-1,SRF-Zwei
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/623.ts
-#EXTINF:-1,SRF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/622.ts
-#EXTINF:-1,RTS-Un
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/624.ts
-#EXTINF:-1,RTS-Deux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/625.ts
-#EXTINF:-1,SPORT365
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/606.ts
-#EXTINF:-1,PLANETE-AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/588.ts
-#EXTINF:-1,PLANETE-CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/587.ts
-#EXTINF:-1,PlANETE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/586.ts
-#EXTINF:-1,Paris-Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/576.ts
-#EXTINF:-1,Ocs-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/561.ts
-#EXTINF:-1,Ocs-Geant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/560.ts
-#EXTINF:-1,Ocs-City
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/558.ts
-#EXTINF:-1,Ocs-CHoc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/559.ts
-#EXTINF:-1,NATIONAL-GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/598.ts
-#EXTINF:-1,France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/397.ts
-#EXTINF:-1,JUNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/585.ts
-#EXTINF:-1,HISTOIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/597.ts
-#EXTINF:-1,France2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/569.ts
-#EXTINF:-1,France3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/570.ts
-#EXTINF:-1,France4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/571.ts
-#EXTINF:-1,France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/572.ts
-#EXTINF:-1,France0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/573.ts
-#EXTINF:-1,FOOT24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/607.ts
-#EXTINF:-1,Eurosport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/608.ts
-#EXTINF:-1,NFOSPORTPLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1273.ts
-#EXTINF:-1,Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/609.ts
-#EXTINF:-1,EQUIDIA-LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/610.ts
-#EXTINF:-1,DISNEY-CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/619.ts
-#EXTINF:-1,DISCOVERY-SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/601.ts
-#EXTINF:-1,D8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/567.ts
-#EXTINF:-1,D17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/568.ts
-#EXTINF:-1,Piwi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/882.ts
-#EXTINF:-1,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/613.ts
-#EXTINF:-1,6Ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/565.ts
-#EXTINF:-1,13Eme-RUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/578.ts
-#EXTINF:-1,CANALJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/612.ts
-#EXTINF:-1,RTL-TVI-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1215.ts
-#EXTINF:-1,PLUG-RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1216.ts
-#EXTINF:-1,LA-UNE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1217.ts
-#EXTINF:-1,LA-DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1219.ts
-#EXTINF:-1,LA-TROIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1218.ts
-#EXTINF:-1,CLUB-RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1220.ts
-#EXTINF:-1,---Sky-It--------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/888.ts
-#EXTINF:-1,Sky-Cinema-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/821.ts
-#EXTINF:-1,Sky-ITCinema1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/849.ts
-#EXTINF:-1,Sky-IT-PassionHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/850.ts
-#EXTINF:-1,Sky-ITHitsHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/847.ts
-#EXTINF:-1,Sky-ITFamilyHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/851.ts
-#EXTINF:-1,Sky-IT-ComedyHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/852.ts
-#EXTINF:-1,Sky-ITClassicHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/848.ts
-#EXTINF:-1,SkyITNatGeoWild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/918.ts
-#EXTINF:-1,SkyITDisneyJunior1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/935.ts
-#EXTINF:-1,SkyITDisneyJunior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/936.ts
-#EXTINF:-1,SkyITCinemaMax1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/942.ts
-#EXTINF:-1,SkyITCinemaCult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/945.ts
-#EXTINF:-1,SkyITCinemaClassics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/947.ts
-#EXTINF:-1,Sky-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/651.ts
-#EXTINF:-1,Sky-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/652.ts
-#EXTINF:-1,SKYCACLIO1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1178.ts
-#EXTINF:-1,SKYCALCIO5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1182.ts
-#EXTINF:-1,SkyITCalcio1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/948.ts
-#EXTINF:-1,SkyCalcio3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/932.ts
-#EXTINF:-1,SkyCalcio4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/931.ts
-#EXTINF:-1,SkyCalcio5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/930.ts
-#EXTINF:-1,SkyCalcio6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/929.ts
-#EXTINF:-1,SkyCalcio7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/928.ts
-#EXTINF:-1,SkyMotoGPHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/846.ts
-#EXTINF:-1,SkySport3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/841.ts
-#EXTINF:-1,SkySportF1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/842.ts
-#EXTINF:-1,SkySport24HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/843.ts
-#EXTINF:-1,SkyCalcio1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/844.ts
-#EXTINF:-1,Sky-Calcio2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/845.ts
-#EXTINF:-1,Sky-Uno-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1226.ts
-#EXTINF:-1,Sky-Supercalcio-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1227.ts
-#EXTINF:-1,Sky-Super-Tennis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1228.ts
-#EXTINF:-1,Sky-Sports-24-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1229.ts
-#EXTINF:-1,Sky-Sport-F1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1222.ts
-#EXTINF:-1,Sky-MotoGP-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1230.ts
-#EXTINF:-1,Sky-Sport 3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1224.ts
-#EXTINF:-1,Sky-Sport-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1221.ts
-#EXTINF:-1,Sky-Fox-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1231.ts
-#EXTINF:-1,Rai-Sport-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1236.ts
-#EXTINF:-1,Rai-Sport-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1235.ts
-#EXTINF:-1,Fox-Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1234.ts
-#EXTINF:-1,Eurosport-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1232.ts
-#EXTINF:-1,Eurosport-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1233.ts
-#EXTINF:-1,Rete-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/627.ts
-#EXTINF:-1,Italia-Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/626.ts
-#EXTINF:-1,Canal-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/628.ts
-#EXTINF:-1,Rai1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/836.ts
-#EXTINF:-1,Rai2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/837.ts
-#EXTINF:-1,Rai3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/838.ts
-#EXTINF:-1,caccia-Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/811.ts
-#EXTINF:-1,PRE_CINEMA_EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1097.ts
-#EXTINF:-1,Premium_Stories
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1090.ts
-#EXTINF:-1,Premium_Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1082.ts
-#EXTINF:-1,Premium_Crime_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1091.ts
-#EXTINF:-1,Premium_Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1084.ts
-#EXTINF:-1,PREMIUM_CINEMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1092.ts
-#EXTINF:-1,Premium_Cinema_2_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1083.ts
-#EXTINF:-1,Premium_Cinema_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1086.ts
-#EXTINF:-1,Premium_Cinema-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1087.ts
-#EXTINF:-1,Premium_BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1089.ts
-#EXTINF:-1,Premium_ Disney_Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1093.ts
-#EXTINF:-1,PREMIUM CINEMHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1094.ts
-#EXTINF:-1,Premium BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1085.ts
-#EXTINF:-1,PRE-CINEMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1095.ts
-#EXTINF:-1,PRIMAFILA1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1153.ts
-#EXTINF:-1,PRIMAFILA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1154.ts
-#EXTINF:-1,PRIMAFILA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1155.ts
-#EXTINF:-1,PRIMAFILA4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1156.ts
-#EXTINF:-1,PRIMAFILA5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1157.ts
-#EXTINF:-1,PRIMAFILA6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1158.ts
-#EXTINF:-1,PRIMAFILA7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1159.ts
-#EXTINF:-1,PRIMAFILA8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1160.ts
-#EXTINF:-1,PRIMAFILA9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1161.ts
-#EXTINF:-1,PRIMAFILA10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1162.ts
-#EXTINF:-1,PRIMAFILA11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1163.ts
-#EXTINF:-1,PRIMAFILA12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1164.ts
-#EXTINF:-1,PRIMAFILA13HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1165.ts
-#EXTINF:-1,PRIMAFILA14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1166.ts
-#EXTINF:-1,PRIMAFILA15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1167.ts
-#EXTINF:-1,---Mediaset-IT-----------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1188.ts
-#EXTINF:-1,PREMIUM-STORIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1196.ts
-#EXTINF:-1,PREMIUM-SPORTHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1197.ts
-#EXTINF:-1,PREMIUM-JOIHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1189.ts
-#EXTINF:-1,PREMIUM-ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1198.ts
-#EXTINF:-1,PREMIUM-EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1199.ts
-#EXTINF:-1,PREMIUM-CRIMEHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1200.ts
-#EXTINF:-1,PREMIUM-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1202.ts
-#EXTINF:-1,PREMIUM-CINEMAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1203.ts
-#EXTINF:-1,PREMIUM-CINEMA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1192.ts
-#EXTINF:-1,MEDIASET-ITALIA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1193.ts
-#EXTINF:-1,MEDIASET-EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1194.ts
-#EXTINF:-1,---Sky-DE--------------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/889.ts
-#EXTINF:-1,ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/832.ts
-#EXTINF:-1,VOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/833.ts
-#EXTINF:-1,super-rtl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/954.ts
-#EXTINF:-1,Sky-DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/822.ts
-#EXTINF:-1,Skyde-sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/992.ts
-#EXTINF:-1,SkySport2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/834.ts
-#EXTINF:-1,Sky-BundesLiga1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/824.ts
-#EXTINF:-1,Sky-Cinema1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/823.ts
-#EXTINF:-1,Sky007
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/986.ts
-#EXTINF:-1,Sky-nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/991.ts
-#EXTINF:-1,Sky-krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/988.ts
-#EXTINF:-1,Sky-emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/989.ts
-#EXTINF:-1,Sky-atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/990.ts
-#EXTINF:-1,Sky-action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/987.ts
-#EXTINF:-1,Sky-Comedy-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/820.ts
-#EXTINF:-1,sky-cinemaplus1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/981.ts
-#EXTINF:-1,sky-cinema24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/982.ts
-#EXTINF:-1,Sky-Action-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/825.ts
-#EXTINF:-1,skyhits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/980.ts
-#EXTINF:-1,syfy-de
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/979.ts
-#EXTINF:-1,mgm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/978.ts
-#EXTINF:-1,NdrHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/829.ts
-#EXTINF:-1,N24HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/830.ts
-#EXTINF:-1,N-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/831.ts
-#EXTINF:-1,BlizzHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/828.ts
-#EXTINF:-1,Skyselect1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1002.ts
-#EXTINF:-1,Skyselect2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1001.ts
-#EXTINF:-1,Skyselect3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1000.ts
-#EXTINF:-1,Skyselect4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/999.ts
-#EXTINF:-1,Skyselect5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/998.ts
-#EXTINF:-1,SkySelect6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/997.ts
-#EXTINF:-1,SkySelect7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/996.ts
-#EXTINF:-1,SkySelect8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/995.ts
-#EXTINF:-1,SkySelect9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/994.ts
-#EXTINF:-1,---Digitalplus---------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1152.ts
-#EXTINF:-1,TELECINCOHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1245.ts
-#EXTINF:-1,NATGEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1246.ts
-#EXTINF:-1,LASEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1247.ts
-#EXTINF:-1,LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1248.ts
-#EXTINF:-1,LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1249.ts
-#EXTINF:-1,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1250.ts
-#EXTINF:-1,GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1251.ts
-#EXTINF:-1,EXTREMADURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1252.ts
-#EXTINF:-1,CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1254.ts
-#EXTINF:-1,CAZAYPESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1255.ts
-#EXTINF:-1,CANALSERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1262.ts
-#EXTINF:-1,CANALLALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1257.ts
-#EXTINF:-1,CANALLALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1256.ts
-#EXTINF:-1,CANALFUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1263.ts
-#EXTINF:-1,CANALESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1258.ts
-#EXTINF:-1,CANALDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1264.ts
-#EXTINF:-1,CANALDCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1259.ts
-#EXTINF:-1,CANALCOMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1260.ts
-#EXTINF:-1,CANALACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1261.ts
-#EXTINF:-1,CALLE13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1265.ts
-#EXTINF:-1,BEINESPAÃ‘A
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1266.ts
-#EXTINF:-1,ANTENASERIESHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1267.ts
-#EXTINF:-1,ANTENA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1268.ts
-#EXTINF:-1,---Sky-Uk--------------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/890.ts
-#EXTINF:-1,SkyUKSport1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/859.ts
-#EXTINF:-1,SkyUKSport2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/858.ts
-#EXTINF:-1,SkyUKSport3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/857.ts
-#EXTINF:-1,SkyUKSport4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/856.ts
-#EXTINF:-1,SkyUKSport5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/855.ts
-#EXTINF:-1,SkyThrillerUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/867.ts
-#EXTINF:-1,SkyShowCaseUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/868.ts
-#EXTINF:-1,SkySelectUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/869.ts
-#EXTINF:-1,SkySci-FihorrorUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/875.ts
-#EXTINF:-1,SkyITMaxhd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/854.ts
-#EXTINF:-1,SkyGreatsUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/871.ts
-#EXTINF:-1,SkyFamilyUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/872.ts
-#EXTINF:-1,SkyDramaRomanceUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/873.ts
-#EXTINF:-1,SkyDisneyUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/874.ts
-#EXTINF:-1,SkyActionUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/866.ts
-#EXTINF:-1,NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1242.ts
-#EXTINF:-1,DISNEYXD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1239.ts
-#EXTINF:-1,BT-SPORTS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1241.ts
-#EXTINF:-1,BT-SPORTS1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1240.ts
-#EXTINF:-1,SkyPremiereUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/870.ts
-#EXTINF:-1,SkyComedyUk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/865.ts
-#EXTINF:-1,CBS-RealityUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1066.ts
-#EXTINF:-1,UK-Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1069.ts
-#EXTINF:-1,UK-SKYArt1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1070.ts
-#EXTINF:-1,UK-Sky-Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1071.ts
-#EXTINF:-1,UK Sky-F1UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1072.ts
-#EXTINF:-1,TrueMovies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/864.ts
-#EXTINF:-1,TrueMovies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/863.ts
-#EXTINF:-1,True-Movies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1067.ts
-#EXTINF:-1,True-Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1068.ts
-#EXTINF:-1,Sky-Sp-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1073.ts
-#EXTINF:-1,Sky-One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1074.ts
-#EXTINF:-1,Sky-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/399.ts
-#EXTINF:-1,National-GeoUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1076.ts
-#EXTINF:-1,NatGeoWildUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/862.ts
-#EXTINF:-1,NATGEO-WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/599.ts
-#EXTINF:-1,Movies-4men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1077.ts
-#EXTINF:-1,ITV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1081.ts
-#EXTINF:-1,ITV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1080.ts
-#EXTINF:-1,ITV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1079.ts
-#EXTINF:-1,ITV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1078.ts
-#EXTINF:-1,---Africa-Tv----------------------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1054.ts
-#EXTINF:-1,TVCONTINENTAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1035.ts
-#EXTINF:-1,TVCNEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1034.ts
-#EXTINF:-1,Tfm-senegal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1051.ts
-#EXTINF:-1,tfm-roku
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1036.ts
-#EXTINF:-1,tfm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1052.ts
-#EXTINF:-1,teleceiba
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1037.ts
-#EXTINF:-1,TELEBASICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1038.ts
-#EXTINF:-1,SULAVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1039.ts
-#EXTINF:-1,RADIO Corcas.com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1040.ts
-#EXTINF:-1,ORTM-mali
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1053.ts
-#EXTINF:-1,MAYATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1042.ts
-#EXTINF:-1,MAURITANIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1043.ts
-#EXTINF:-1,hchtv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1044.ts
-#EXTINF:-1,GTVGhana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1045.ts
-#EXTINF:-1,DIASPORA24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1048.ts
-#EXTINF:-1,CNBCAfrica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1049.ts
-#EXTINF:-1,Africa-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/1050.ts
-#EXTINF:-1,---Movies---
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/live/test02/test02/951.ts
-#EXTINF:-1,First-Movie1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/966.mkv
-#EXTINF:-1,First-Movie2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/967.mkv
-#EXTINF:-1,First-Movie3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/968.mkv
-#EXTINF:-1,First-Movie4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/969.mkv
-#EXTINF:-1,First-Movie5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/970.mkv
-#EXTINF:-1,First-Movie6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/971.mkv
-#EXTINF:-1,First-Movie7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/972.mkv
-#EXTINF:-1,First-Movie8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/973.mkv
-#EXTINF:-1,First-Movie9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/974.mkv
-#EXTINF:-1,First-Movie11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/976.mkv
-#EXTINF:-1,First-Movie12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://firstiptv.ddns.net:7500/movie/test02/test02/977.mkv
+#EXTINF:-1,UK:Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/519.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/520.ts
+#EXTINF:-1,UK: Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/521.ts
+#EXTINF:-1,UK: Sky Sports Active 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/522.ts
+#EXTINF:-1,UK: Sky Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/523.ts
+#EXTINF:-1,UK: Sky Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/524.ts
+#EXTINF:-1,UK: Sky Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/525.ts
+#EXTINF:-1,UK: Sky Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/526.ts
+#EXTINF:-1,UK: Sky Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/527.ts
+#EXTINF:-1,UK: Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/528.ts
+#EXTINF:-1,UK: Sky SPORT 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/529.ts
+#EXTINF:-1,UK: Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/530.ts
+#EXTINF:-1,UK: Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/531.ts
+#EXTINF:-1,UK: Sky SPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/532.ts
+#EXTINF:-1,UK: SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/533.ts
+#EXTINF:-1,UK: Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/534.ts
+#EXTINF:-1,UK: Sky Movies Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/535.ts
+#EXTINF:-1,UK: Sky Movies Great
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/536.ts
+#EXTINF:-1,UK: Sky Movies Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/537.ts
+#EXTINF:-1,UK: Sky Movies Disney HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/538.ts
+#EXTINF:-1,UK: Sky Movies Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/539.ts
+#EXTINF:-1,UK: Setanta Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/540.ts
+#EXTINF:-1,UK: QUEST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/541.ts
+#EXTINF:-1,UK: Daystar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/542.ts
+#EXTINF:-1,UK: Chelsea TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/543.ts
+#EXTINF:-1,UK: BT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/545.ts
+#EXTINF:-1,UK: BT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/546.ts
+#EXTINF:-1,UK: BT Sport Extra 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/548.ts
+#EXTINF:-1,UK: BT Sport Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/549.ts
+#EXTINF:-1,UK: Box Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/550.ts
+#EXTINF:-1,UK: BBC NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/551.ts
+#EXTINF:-1,UK:  Premier Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/552.ts
+#EXTINF:-1,USA: Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/553.ts
+#EXTINF:-1,USA: ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/554.ts
+#EXTINF:-1,USA: ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/555.ts
+#EXTINF:-1,US: Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/556.ts
+#EXTINF:-1,US: FOX 2 SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/557.ts
+#EXTINF:-1,OSN_ALYOUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/558.ts
+#EXTINF:-1,osn yahalahd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/559.ts
+#EXTINF:-1,OSN YAHALA Shabab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/560.ts
+#EXTINF:-1,OSN YAHALA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/561.ts
+#EXTINF:-1,OSN YAHALA drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/562.ts
+#EXTINF:-1,OSN WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/563.ts
+#EXTINF:-1,OSN TCM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/564.ts
+#EXTINF:-1,OSN store Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/565.ts
+#EXTINF:-1,OSN store 3  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/566.ts
+#EXTINF:-1,OSN STAR WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/567.ts
+#EXTINF:-1,OSN Sports1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/568.ts
+#EXTINF:-1,OSN Sports CRICKET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/569.ts
+#EXTINF:-1,OSN SERIES ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/570.ts
+#EXTINF:-1,OSN Ondemand sc-fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/571.ts
+#EXTINF:-1,OSN Ondemand Horro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/572.ts
+#EXTINF:-1,OSN Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/573.ts
+#EXTINF:-1,OSN MOVIES KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/574.ts
+#EXTINF:-1,OSN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/575.ts
+#EXTINF:-1,OSN MOVIES FESTIVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/576.ts
+#EXTINF:-1,OSN MOVIES DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/577.ts
+#EXTINF:-1,OSN MOVIES Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/578.ts
+#EXTINF:-1,OSN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/579.ts
+#EXTINF:-1,OSN FIRST MORE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/580.ts
+#EXTINF:-1,OSN FIRST COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/581.ts
+#EXTINF:-1,OSN FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/582.ts
+#EXTINF:-1,OSN FIGHT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/583.ts
+#EXTINF:-1,OSN FANN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/584.ts
+#EXTINF:-1,OSN Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/585.ts
+#EXTINF:-1,OSN DISNEY Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/586.ts
+#EXTINF:-1,OSN DISCOVERY ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/587.ts
+#EXTINF:-1,OSN CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/588.ts
+#EXTINF:-1,OSN Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/589.ts
+#EXTINF:-1,OSN Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/590.ts
+#EXTINF:-1,osn CINEMA  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/591.ts
+#EXTINF:-1,OSN BOXOFFICE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/592.ts
+#EXTINF:-1,OSN BoxOffice 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/593.ts
+#EXTINF:-1,OSN BoxOffice 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/594.ts
+#EXTINF:-1,OSN Box store 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/595.ts
+#EXTINF:-1,OSN Box store 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/596.ts
+#EXTINF:-1,OSN Box store 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/597.ts
+#EXTINF:-1,osn alyoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/598.ts
+#EXTINF:-1,OSN AD Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/599.ts
+#EXTINF:-1,France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/600.ts
+#EXTINF:-1,France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/601.ts
+#EXTINF:-1,FRANCE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/602.ts
+#EXTINF:-1,France 24 Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/603.ts
+#EXTINF:-1,France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/604.ts
+#EXTINF:-1,FRANCE 0 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/605.ts
+#EXTINF:-1,FR: Canal Plus Sport HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/606.ts
+#EXTINF:-1,FR: Canal Plus Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/607.ts
+#EXTINF:-1,FR: Canal Plus HD  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/608.ts
+#EXTINF:-1,FR: Canal Plus Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/609.ts
+#EXTINF:-1,FR: Canal Plus Decale HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/610.ts
+#EXTINF:-1,FR: Canal Plus Décalé HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/611.ts
+#EXTINF:-1,FR: Canal Plus Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/612.ts
+#EXTINF:-1,FR: Canal Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/613.ts
+#EXTINF:-1,BeinSport Max 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/624.ts
+#EXTINF:-1,BeinSport Max 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/623.ts
+#EXTINF:-1,BeinSport Max 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/544.ts
+#EXTINF:-1,BeinSport Max 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/547.ts
+#EXTINF:-1,BeinSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/629.ts
+#EXTINF:-1,BeinSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/621.ts
+#EXTINF:-1,BeinSport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/620.ts
+#EXTINF:-1,BeinSport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/619.ts
+#EXTINF:-1,BeinSport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/618.ts
+#EXTINF:-1,BeinSport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/617.ts
+#EXTINF:-1,BeinSport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/616.ts
+#EXTINF:-1,BeinSport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/615.ts
+#EXTINF:-1,BeinSport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/614.ts
+#EXTINF:-1,BeinSport 16 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/622.ts
+#EXTINF:-1,BeinSport 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/625.ts
+#EXTINF:-1,BeinSport 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/626.ts
+#EXTINF:-1,BeinSport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/627.ts
+#EXTINF:-1,BeinSport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/628.ts
+#EXTINF:-1,Bein Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/632.ts
+#EXTINF:-1,BeIN Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/631.ts
+#EXTINF:-1,Bein Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/630.ts
+#EXTINF:-1,bein1 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/643.ts
+#EXTINF:-1,bein2 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/640.ts
+#EXTINF:-1,bein3 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/639.ts
+#EXTINF:-1,bein4 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/638.ts
+#EXTINF:-1,bein5 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/637.ts
+#EXTINF:-1,bein6 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/636.ts
+#EXTINF:-1,bein7 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/635.ts
+#EXTINF:-1,bein8 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/634.ts
+#EXTINF:-1,bein9 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/633.ts
+#EXTINF:-1,bein11 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/641.ts
+#EXTINF:-1,bein10 sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/642.ts
+#EXTINF:-1,ART-CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/644.ts
+#EXTINF:-1,ART-AFLAM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/646.ts
+#EXTINF:-1,ART-AFLAM2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/645.ts
+#EXTINF:-1,ART Hikayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/648.ts
+#EXTINF:-1,ART Hikayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/647.ts
+#EXTINF:-1,ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/649.ts
+#EXTINF:-1,ART Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/650.ts
+#EXTINF:-1,ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/651.ts
+#EXTINF:-1,MBC Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/652.ts
+#EXTINF:-1,MBC PRO SP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/656.ts
+#EXTINF:-1,MBC PRO SP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/655.ts
+#EXTINF:-1,MBC PRO SP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/654.ts
+#EXTINF:-1,MBC PRO SP 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/653.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/666.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/665.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/664.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/663.ts
+#EXTINF:-1,MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/662.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/657.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/660.ts
+#EXTINF:-1,MBC Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/661.ts
+#EXTINF:-1,MBC Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/658.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mega4dz.ddns.net:8080/live/mega/star7arab00/659.ts
