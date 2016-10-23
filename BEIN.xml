@@ -1,519 +1,1907 @@
 #EXTM3U
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BeIN SPORT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/74.ts
-#EXTINF:-1,AR LOCAL: bein Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/64.ts
-#EXTINF:-1,AR LOCAL: bein Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/65.ts
-#EXTINF:-1,AR LOCAL: bein Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/66.ts
-#EXTINF:-1,AR LOCAL: bein Sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/67.ts
-#EXTINF:-1,AR LOCAL: bein Sport5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/68.ts
-#EXTINF:-1,AR LOCAL: bein Sport6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/69.ts
-#EXTINF:-1,AR LOCAL: bein Sport7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/70.ts
-#EXTINF:-1,AR LOCAL: bein Sport8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/71.ts
-#EXTINF:-1,AR LOCAL: bein Sport9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/72.ts
-#EXTINF:-1,AR LOCAL: bein Sport10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/73.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ -LOCAL-BEIN SPORT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/42.ts
-#EXTINF:-1,-Local-BeIN Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/43.ts
-#EXTINF:-1,-Local-BeIN Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/44.ts
-#EXTINF:-1,-Local-BeIN Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/45.ts
-#EXTINF:-1,-Local-BeIN Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/46.ts
-#EXTINF:-1,-Local-BeIN Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/47.ts
-#EXTINF:-1,-Local-BeIN Sport 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/48.ts
-#EXTINF:-1,-Local-BeIN Sport 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/49.ts
-#EXTINF:-1,-Local-BeIN Sport 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/50.ts
-#EXTINF:-1,-Local-BeIN Sport 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/51.ts
-#EXTINF:-1,-Local-BeIN Sport 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/52.ts
-#EXTINF:-1,-Local-BeIN Sport 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/53.ts
-#EXTINF:-1,-Local-BeIN Sport 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/54.ts
-#EXTINF:-1,-Local-BeIN Sport 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/55.ts
-#EXTINF:-1,-Local-BeIN Sport 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/56.ts
-#EXTINF:-1,-Local-BeIN Sport 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/57.ts
-#EXTINF:-1,-Local-BeIN Sport 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/58.ts
-#EXTINF:-1,-Local-BeIN Sport 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/61.ts
-#EXTINF:-1,-Local-BeIN Sport 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/62.ts
-#EXTINF:-1,-Local-BeIN Sport 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/63.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ BEIN_SPORT_HD █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/17.ts
-#EXTINF:-1,Backup:Bein1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/101.ts
-#EXTINF:-1,Backup:Bein3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/103.ts
-#EXTINF:-1,Backup:Bein4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/104.ts
-#EXTINF:-1,Backup:Bein5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/105.ts
-#EXTINF:-1,Backup:Bein6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/106.ts
-#EXTINF:-1,Backup:Bein7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/107.ts
-#EXTINF:-1,Backup:Bein8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/108.ts
-#EXTINF:-1,Backup:Bein9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/109.ts
-#EXTINF:-1,Backup:Bein10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/110.ts
-#EXTINF:-1,Backup:Bein11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/111.ts
-#EXTINF:-1,Backup:Bein12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/112.ts
-#EXTINF:-1,-Local- Bein HD Movies 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/20.ts
-#EXTINF:-1,-Local- Bein HD Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/21.ts
-#EXTINF:-1,-Local- Bein HD Movies 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/22.ts
-#EXTINF:-1,-Local- Bein HD Movies 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/23.ts
-#EXTINF:-1,***Backup:BeinSport***
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/356.ts
-#EXTINF:-1,Backup:BEIN SPORT HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/344.ts
-#EXTINF:-1,Backup:BEIN SPORT HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/345.ts
-#EXTINF:-1,Backup:BEIN SPORT HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/346.ts
-#EXTINF:-1,Backup:BEIN SPORT HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/347.ts
-#EXTINF:-1,Backup:BEIN SPORT HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/348.ts
-#EXTINF:-1,Backup:BEIN SPORT HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/349.ts
-#EXTINF:-1,Backup:BEIN SPORT HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/350.ts
-#EXTINF:-1,Backup:BEIN SPORT HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/351.ts
-#EXTINF:-1,Backup:BEIN SPORT HD13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/343.ts
-#EXTINF:-1,Backup:BEIN SPORT HD12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/352.ts
-#EXTINF:-1,Backup:BEIN SPORT HD11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/353.ts
-#EXTINF:-1,Backup:BEIN SPORT HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/354.ts
-#EXTINF:-1,Backup:BEIN SPORT HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/355.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SD_BEIN SPORT █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/84.ts
-#EXTINF:-1,Bein1_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/75.ts
-#EXTINF:-1,Bein2_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/76.ts
-#EXTINF:-1,Bein3_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/77.ts
-#EXTINF:-1,Bein4_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/78.ts
-#EXTINF:-1,Bein5_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/79.ts
-#EXTINF:-1,Bein6_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/80.ts
-#EXTINF:-1,Bein7_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/81.ts
-#EXTINF:-1,Bein8_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/82.ts
-#EXTINF:-1,Bein9_sd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/83.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ Backup_OSN█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/133.ts
-#EXTINF:-1,Backup:OSN_YA_HALA_SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/117.ts
-#EXTINF:-1,Backup:OSN_YA_HALA_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/118.ts
-#EXTINF:-1,Backup:OSN_YA_HALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/116.ts
-#EXTINF:-1,Backup:OSN_STAR_WORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/130.ts
-#EXTINF:-1,Backup:OSN_MOVIES_PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/120.ts
-#EXTINF:-1,Backup:OSN_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/126.ts
-#EXTINF:-1,Backup:OSN_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/122.ts
-#EXTINF:-1,Backup:OSN_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/123.ts
-#EXTINF:-1,Backup:OSN_MOVIES_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/119.ts
-#EXTINF:-1,Backup:OSN_Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/127.ts
-#EXTINF:-1,Backup:OSN_FIRST_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/125.ts
-#EXTINF:-1,Backup:OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/124.ts
-#EXTINF:-1,Backup:OSN_Fest
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/121.ts
-#EXTINF:-1,Backup:OSN_FANN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/115.ts
-#EXTINF:-1,Backup:OSN_DISC_ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/131.ts
-#EXTINF:-1,Backup:OSN_CINEMA_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/129.ts
-#EXTINF:-1,Backup:OSN_CINEMA_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/128.ts
-#EXTINF:-1,Backup:OSN_BoxOffice_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/132.ts
-#EXTINF:-1,Backup:OSN_AL_YAWM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/113.ts
-#EXTINF:-1,Backup:OSN_AL_SAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/114.ts
-#EXTINF:-1,OSN_MUSIC_NOW
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/19.ts
-#EXTINF:-1,OSN: Movies Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/39.ts
-#EXTINF:-1,-Local-OSN: MOVIES DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/25.ts
-#EXTINF:-1,-Local-OSN: ON DEMAND 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/28.ts
-#EXTINF:-1,-Local-OSN: NAT GEO ABUDUBAI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/24.ts
-#EXTINF:-1,-Local-OSN: Movies-star-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/37.ts
-#EXTINF:-1,-Local-OSN: Movies Kids HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/31.ts
-#EXTINF:-1,OSN Ad Sport 5 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/16.ts
-#EXTINF:-1,OSN Ad Sport 5 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/2.ts
-#EXTINF:-1,OSN Ad Sport 4 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/15.ts
-#EXTINF:-1,OSN Ad Sport 4 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/3.ts
-#EXTINF:-1,OSN Ad Sport 3 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/14.ts
-#EXTINF:-1,OSN Ad Sport 3 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/4.ts
-#EXTINF:-1,OSN Ad Sport 2 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/13.ts
-#EXTINF:-1,OSN Ad Sport 2 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/5.ts
-#EXTINF:-1,OSN Ad Sport 1 Original (HD)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/12.ts
-#EXTINF:-1,OSN Ad Sport 1 LOW Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/6.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ -LOCAL-OSN_PRIVATE █ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/18.ts
-#EXTINF:-1,OSN_Yahala_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/365.ts
-#EXTINF:-1,OSN_Yahala_drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/367.ts
-#EXTINF:-1,OSN_TCM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/395.ts
-#EXTINF:-1,OSN_movie_hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/378.ts
-#EXTINF:-1,OSN_movie_drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/377.ts
-#EXTINF:-1,OSN_movie_action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/370.ts
-#EXTINF:-1,OSN_FIRST_MORE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/386.ts
-#EXTINF:-1,OSN_FIRST
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/384.ts
-#EXTINF:-1,OSN_Fashion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/382.ts
-#EXTINF:-1,OSN_E-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/399.ts
-#EXTINF:-1,OSN_BOXOFFICE_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/413.ts
-#EXTINF:-1,OSN_BOXOFFICE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/412.ts
-#EXTINF:-1,OSN_BOXOFFICE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/410.ts
-#EXTINF:-1,OSN-MOVIES-PREMIERE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/376.ts
-#EXTINF:-1,OSN-MOVIES-PREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/374.ts
-#EXTINF:-1,OSN-MOVIES-FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/373.ts
-#EXTINF:-1,OSN-MOVIES-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/372.ts
-#EXTINF:-1,OSN-MGM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/392.ts
-#EXTINF:-1,OSN-HD-nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/390.ts
-#EXTINF:-1,OSN-DISENY-Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/389.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ SD_OSN█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/190.ts
-#EXTINF:-1,OSN_SERIES_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/187.ts
-#EXTINF:-1,OSN_MUSIC_NOW_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/189.ts
-#EXTINF:-1,OSN_CINEMA_1_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/185.ts
-#EXTINF:-1,OSN_AL_SAFWA_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/184.ts
-#EXTINF:-1,OSN_ALYOUM_SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/183.ts
-#EXTINF:-1,BACKUP_LOCAL:OSN_MOVIES_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/188.ts
-#EXTINF:-1,OSN Ad Sport 1 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/11.ts
-#EXTINF:-1,OSN Ad Sport 2 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/10.ts
-#EXTINF:-1,OSN Ad Sport 3 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/9.ts
-#EXTINF:-1,OSN Ad Sport 4 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/8.ts
-#EXTINF:-1,OSN Ad Sport 5 SD Original
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/7.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ NILESAT█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/178.ts
-#EXTINF:-1,QURAN_KARIM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/177.ts
-#EXTINF:-1,ZEE ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/154.ts
-#EXTINF:-1,ROTANA_MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/174.ts
-#EXTINF:-1,ROTANA_MASRIYAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/169.ts
-#EXTINF:-1,ROTANA_KHALAIGIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/167.ts
-#EXTINF:-1,ROTANA_CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/173.ts
-#EXTINF:-1,ROTANA_CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/168.ts
-#EXTINF:-1,ROTANA_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/165.ts
-#EXTINF:-1,Rotana Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/170.ts
-#EXTINF:-1,NILE_FAMILAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/175.ts
-#EXTINF:-1,NILE_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/172.ts
-#EXTINF:-1,Nile Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/171.ts
-#EXTINF:-1,NILE_LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/192.ts
-#EXTINF:-1,NILE_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/191.ts
-#EXTINF:-1,MTV Lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/150.ts
-#EXTINF:-1,MBC_MISR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/159.ts
-#EXTINF:-1,MBC_MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/162.ts
-#EXTINF:-1,MBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/158.ts
-#EXTINF:-1,MBC_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/161.ts
-#EXTINF:-1,MBC_3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/164.ts
-#EXTINF:-1,MBC_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/160.ts
-#EXTINF:-1,MBC_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/157.ts
-#EXTINF:-1,MBC Bollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/163.ts
-#EXTINF:-1,LDC_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/153.ts
-#EXTINF:-1,Feuture_International
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/151.ts
-#EXTINF:-1,CBC_EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/143.ts
-#EXTINF:-1,CBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/142.ts
-#EXTINF:-1,CBC Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/144.ts
-#EXTINF:-1,CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/141.ts
-#EXTINF:-1,B4U_PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/155.ts
-#EXTINF:-1,B4U_AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/156.ts
-#EXTINF:-1,AL_NAHAR_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/148.ts
-#EXTINF:-1,AL_NAHAR_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/145.ts
-#EXTINF:-1,Al_Jaded
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/152.ts
-#EXTINF:-1,Al_Hayat_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/147.ts
-#EXTINF:-1,AL_AHLY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/176.ts
-#EXTINF:-1,AlKahera Wal Nas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/149.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ UK_CHANNLES█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/303.ts
-#EXTINF:-1,UK WGN News Chicago
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/289.ts
-#EXTINF:-1,UK WEATHER NATION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/290.ts
-#EXTINF:-1,UK Smile of a Child
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/293.ts
-#EXTINF:-1,UK DoughyGuy Broadcast System
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/294.ts
-#EXTINF:-1,UK Bloomberg TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/296.ts
-#EXTINF:-1,UK AMG TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/297.ts
-#EXTINF:-1,UK  QVC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/298.ts
-#EXTINF:-1,UK  QVC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/299.ts
-#EXTINF:-1,UK  QVC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/300.ts
-#EXTINF:-1,UK  QVC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/301.ts
-#EXTINF:-1,UK  London Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/302.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ IT_CHANNLES█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/288.ts
-#EXTINF:-1,IT:SkySupertennis
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/205.ts
-#EXTINF:-1,IT:SkySport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/206.ts
-#EXTINF:-1,IT:SkyCinemaMax
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/207.ts
-#EXTINF:-1,IT:SkyCinemaHits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/208.ts
-#EXTINF:-1,IT:SkyCinemaFamily
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/209.ts
-#EXTINF:-1,IT:SkyCinemaComedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/210.ts
-#EXTINF:-1,IT:SkyCinemaClassic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/211.ts
-#EXTINF:-1,IT:SkyCalcio3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/212.ts
-#EXTINF:-1,IT:RAIYOYO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/216.ts
-#EXTINF:-1,IT:RaiSport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/218.ts
-#EXTINF:-1,IT:RAIGULP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/221.ts
-#EXTINF:-1,IT:RAI5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/222.ts
-#EXTINF:-1,IT:RAI4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/223.ts
-#EXTINF:-1,IT:RAI3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/224.ts
-#EXTINF:-1,IT:RAI2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/225.ts
-#EXTINF:-1,IT:RAI1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/226.ts
-#EXTINF:-1,IT:PremiumEmotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/229.ts
-#EXTINF:-1,IT:PremiumCrime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/230.ts
-#EXTINF:-1,IT:PremiumComedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/231.ts
-#EXTINF:-1,IT:PremiumCinema2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/232.ts
-#EXTINF:-1,IT:PremiumCinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/233.ts
-#EXTINF:-1,IT:PremiumCalcio6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/234.ts
-#EXTINF:-1,IT:PremiumCalcio5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/235.ts
-#EXTINF:-1,IT:PremiumCalcio4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/236.ts
-#EXTINF:-1,IT:PremiumCalcio3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/237.ts
-#EXTINF:-1,IT:PremiumCalcio1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/239.ts
-#EXTINF:-1,▃ ▄ ▅ ▆ ▇ █ FR_CHANNELS█ ▇ ▆ ▅ ▄ ▃
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/287.ts
-#EXTINF:-1,FRm Tf1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/257.ts
-#EXTINF:-1,FRm Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/258.ts
-#EXTINF:-1,FRm Serie club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/259.ts
-#EXTINF:-1,FRm Planete ci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/260.ts
-#EXTINF:-1,FRm Planete
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/261.ts
-#EXTINF:-1,FRm Ocs max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/262.ts
-#EXTINF:-1,FRm National geo wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/263.ts
-#EXTINF:-1,FRm Mangas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/264.ts
-#EXTINF:-1,FRm M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/265.ts
-#EXTINF:-1,FRm France 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/267.ts
-#EXTINF:-1,FRm France 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/268.ts
-#EXTINF:-1,FRm France 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/269.ts
-#EXTINF:-1,FRm France 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/270.ts
-#EXTINF:-1,FRm Euronews
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/272.ts
-#EXTINF:-1,FRm Disney junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/273.ts
-#EXTINF:-1,FRm Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/274.ts
-#EXTINF:-1,FRm cine  premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/275.ts
-#EXTINF:-1,FRm Cine  classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/276.ts
-#EXTINF:-1,FRm Cartoon network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/277.ts
-#EXTINF:-1,FRm Canal  sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/278.ts
-#EXTINF:-1,FRm Canal  serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/279.ts
-#EXTINF:-1,FRm Canal  family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/280.ts
-#EXTINF:-1,FRm Canal  cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/281.ts
-#EXTINF:-1,FRm Bein sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/282.ts
-#EXTINF:-1,FRm Bein sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/283.ts
-#EXTINF:-1,FRm Bein sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/284.ts
-#EXTINF:-1,FRm Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/285.ts
-#EXTINF:-1,FR:OCSMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/240.ts
-#EXTINF:-1,FR:OCSCITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/241.ts
-#EXTINF:-1,FR:Mangas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/242.ts
-#EXTINF:-1,FR:FRANCE2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/244.ts
-#EXTINF:-1,FR:Foot 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/245.ts
-#EXTINF:-1,FR:Canal Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/246.ts
+#EXTINF:-1,LiG TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/636.ts
+#EXTINF:-1,LiG TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/634.ts
+#EXTINF:-1,LIG TV YEDEK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3693.ts
+#EXTINF:-1,LiG TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/637.ts
+#EXTINF:-1,LiG TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1026.ts
+#EXTINF:-1,LiG TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3696.ts
+#EXTINF:-1,TIVIBU SPOR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2647.ts
+#EXTINF:-1,TIVIBU SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3698.ts
+#EXTINF:-1,TIVIBU SPOR 3 (sadece maclarda)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3694.ts
+#EXTINF:-1,TIVIBU SPOR 4 (sadece maclarda)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3695.ts
+#EXTINF:-1,SMART SPOR 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2833.ts
+#EXTINF:-1,SMART SPOR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2834.ts
+#EXTINF:-1,NTV_SPOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/604.ts
+#EXTINF:-1,A_SPOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/605.ts
+#EXTINF:-1,TRT_SPOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/599.ts
+#EXTINF:-1,TRT_SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/584.ts
+#EXTINF:-1,SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/582.ts
+#EXTINF:-1,TR ULUSAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3543.ts
+#EXTINF:-1,TRT1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/731.ts
+#EXTINF:-1,TRT1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/541.ts
+#EXTINF:-1,STAR_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/546.ts
+#EXTINF:-1,STAR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1029.ts
+#EXTINF:-1,SHOW_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/729.ts
+#EXTINF:-1,SHOW_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/547.ts
+#EXTINF:-1,ATV_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/728.ts
+#EXTINF:-1,ATV_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/545.ts
+#EXTINF:-1,KANALD_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/730.ts
+#EXTINF:-1,KANALD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/544.ts
+#EXTINF:-1,FOX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/732.ts
+#EXTINF:-1,FOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/548.ts
+#EXTINF:-1,TV8_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/733.ts
+#EXTINF:-1,TV8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/549.ts
+#EXTINF:-1,TV 8.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3860.ts
+#EXTINF:-1,KANAL_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/553.ts
+#EXTINF:-1,KANAL_7_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1615.ts
+#EXTINF:-1,BEYAZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/551.ts
+#EXTINF:-1,TR HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3542.ts
+#EXTINF:-1,NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1028.ts
+#EXTINF:-1,360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1089.ts
+#EXTINF:-1,HABER_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1444.ts
+#EXTINF:-1,CNN_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/598.ts
+#EXTINF:-1,A_Haber
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1077.ts
+#EXTINF:-1,A_Haber_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1041.ts
+#EXTINF:-1,TRT HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/577.ts
+#EXTINF:-1,TGRT_HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/565.ts
+#EXTINF:-1,BLOOMBERGHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/557.ts
+#EXTINF:-1,ULKE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/912.ts
+#EXTINF:-1,24_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1042.ts
+#EXTINF:-1,TR COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3546.ts
+#EXTINF:-1,MiNiKAGO_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/600.ts
+#EXTINF:-1,DiSNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/595.ts
+#EXTINF:-1,CARTON_NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/589.ts
+#EXTINF:-1,TRTOKUL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/601.ts
+#EXTINF:-1,TRTCOCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/588.ts
+#EXTINF:-1,PLANET_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/597.ts
+#EXTINF:-1,TR BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3544.ts
+#EXTINF:-1,HISTORY CHANNEL HD ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/620.ts
+#EXTINF:-1,NAT GEO ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/614.ts
+#EXTINF:-1,NAT GEO WILD ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/615.ts
+#EXTINF:-1,DISCOVERY_CHANNEL_ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/617.ts
+#EXTINF:-1,DISCOVERY SCIENCE ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/618.ts
+#EXTINF:-1,DISCOVERY_SHOWCASE_HD_ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1030.ts
+#EXTINF:-1,ANIMAL_PLANET_HD__ORGINAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/621.ts
+#EXTINF:-1,WORD_TRAVEL_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/587.ts
+#EXTINF:-1,TRT BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/613.ts
+#EXTINF:-1,TGRT_BELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/606.ts
+#EXTINF:-1,YABAN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/624.ts
+#EXTINF:-1,CiFTCi_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/897.ts
+#EXTINF:-1,KOY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/570.ts
+#EXTINF:-1,TR SINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3545.ts
+#EXTINF:-1,SALON 1 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4203.ts
+#EXTINF:-1,SALON 2 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4202.ts
+#EXTINF:-1,SALON 3 HD PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4204.ts
+#EXTINF:-1,SALON_1_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/639.ts
+#EXTINF:-1,SALON_2_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/640.ts
+#EXTINF:-1,SALON_3_SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/641.ts
+#EXTINF:-1,LOCA_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/642.ts
+#EXTINF:-1,LOCA_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/643.ts
+#EXTINF:-1,LOCA_3_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/644.ts
+#EXTINF:-1,MMX STARS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/645.ts
+#EXTINF:-1,MMX SPEED HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/648.ts
+#EXTINF:-1,MMX FESTIVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/646.ts
+#EXTINF:-1,MMX FAMiLiY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/647.ts
+#EXTINF:-1,MMX PREMiER 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/649.ts
+#EXTINF:-1,MMX PREMiER 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/650.ts
+#EXTINF:-1,MOVIESMART FEST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/655.ts
+#EXTINF:-1,MOViESMART FAMiLiY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/656.ts
+#EXTINF:-1,MOViESMART PREMIUM  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/651.ts
+#EXTINF:-1,MOViESMART GOLD 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/653.ts
+#EXTINF:-1,MOVIESMART GOLD 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/654.ts
+#EXTINF:-1,ADIGE VİZYON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/19.ts
+#EXTINF:-1,OSCAR  VIZYON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/658.ts
+#EXTINF:-1,OSCAR KORKU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/659.ts
+#EXTINF:-1,FILBOXHD TÜRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/21.ts
+#EXTINF:-1,YESiLCAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/583.ts
+#EXTINF:-1,FILBOXHD AKSIYON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1033.ts
+#EXTINF:-1,FILBOXHD DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/660.ts
+#EXTINF:-1,FILBOXHD FANTASTIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1058.ts
+#EXTINF:-1,TR:Sinetivi Karnaval HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3574.ts
+#EXTINF:-1,TR:MOVIE PREMIUM HD DSMART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3571.ts
+#EXTINF:-1,TR:Movie Platin 2 HD DSMART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3572.ts
+#EXTINF:-1,TR:MOVIE GOLD DSMART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3573.ts
+#EXTINF:-1,TR:MOVIE FAMILY DSMART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3569.ts
+#EXTINF:-1,TR:DIZISMART PLATIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3570.ts
+#EXTINF:-1,TR: DIZI TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3575.ts
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2645.ts
+#EXTINF:-1,FOX_CRIME_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2646.ts
+#EXTINF:-1,FILBOX KORKU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/559.ts
+#EXTINF:-1,FIGHTBOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3690.ts
+#EXTINF:-1,LIFE TIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4201.ts
+#EXTINF:-1,KRALTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/627.ts
+#EXTINF:-1,KRALPOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/628.ts
+#EXTINF:-1,ViVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/632.ts
+#EXTINF:-1,NR1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/630.ts
+#EXTINF:-1,NR1_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/631.ts
+#EXTINF:-1,TRT_MUZiK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/626.ts
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1734.ts
+#EXTINF:-1,Ulusal_Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1140.ts
+#EXTINF:-1,HALK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1088.ts
+#EXTINF:-1,KANAL_AVRUPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/896.ts
+#EXTINF:-1,TRT_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/543.ts
+#EXTINF:-1,AKILLI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/913.ts
+#EXTINF:-1,RUMELI_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/558.ts
+#EXTINF:-1,GS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1074.ts
+#EXTINF:-1,FB_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1075.ts
+#EXTINF:-1,BJK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1076.ts
+#EXTINF:-1,BURSASPORTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/608.ts
+#EXTINF:-1,PLANET_MUTFAK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/619.ts
+#EXTINF:-1,TGRT_EV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/580.ts
+#EXTINF:-1,FLASH_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/554.ts
+#EXTINF:-1,KANAL_A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/555.ts
+#EXTINF:-1,KANAL_B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/556.ts
+#EXTINF:-1,FIL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/884.ts
+#EXTINF:-1,KANAL_FiRAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/560.ts
+#EXTINF:-1,KAYSERi_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/907.ts
+#EXTINF:-1,KANAL_26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/893.ts
+#EXTINF:-1,ViZYON_58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/919.ts
+#EXTINF:-1,SIVAS KANAL 58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/911.ts
+#EXTINF:-1,SRT SİVAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/581.ts
+#EXTINF:-1,HiLAL_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1092.ts
+#EXTINF:-1,Semerkand_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1073.ts
+#EXTINF:-1,Lalegul_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1072.ts
+#EXTINF:-1,NUR_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/901.ts
+#EXTINF:-1,TRT_DiYANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/910.ts
+#EXTINF:-1,YASiN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/914.ts
+#EXTINF:-1,100_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/561.ts
+#EXTINF:-1,YURDUM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/563.ts
+#EXTINF:-1,YOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/903.ts
+#EXTINF:-1,UCANKUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/898.ts
+#EXTINF:-1,TV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/895.ts
+#EXTINF:-1,KANAL_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/905.ts
+#EXTINF:-1,TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/894.ts
+#EXTINF:-1,VTV_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/908.ts
+#EXTINF:-1,MPL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/902.ts
+#EXTINF:-1,DAMLA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/917.ts
+#EXTINF:-1,OLAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/900.ts
+#EXTINF:-1,A_BAND
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/915.ts
+#EXTINF:-1,DREAM_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/594.ts
+#EXTINF:-1,SEYMENTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/566.ts
+#EXTINF:-1,KARADENiZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/564.ts
+#EXTINF:-1,MAVi_KARADENiZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/572.ts
+#EXTINF:-1,CAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/576.ts
+#EXTINF:-1,CEM_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/575.ts
+#EXTINF:-1,PLANETTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/567.ts
+#EXTINF:-1,PLANET_PEMBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/623.ts
+#EXTINF:-1,GERMANY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2711.ts
+#EXTINF:-1,DE:TAGESSCHAU 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2712.ts
+#EXTINF:-1,DE: Sky TNT Serie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2715.ts
+#EXTINF:-1,DE: Sky Krimi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2718.ts
+#EXTINF:-1,DE: Sky Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2720.ts
+#EXTINF:-1,DE: SAT 1 EMOTIONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2716.ts
+#EXTINF:-1,DE: Sat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2717.ts
+#EXTINF:-1,DE: Phoenix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2714.ts
+#EXTINF:-1,DE: ORF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2713.ts
+#EXTINF:-1,DE_ORF_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/396.ts
+#EXTINF:-1,DE_Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3353.ts
+#EXTINF:-1,DE_TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3347.ts
+#EXTINF:-1,DE_PRO_MAXX_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3348.ts
+#EXTINF:-1,DE_SWR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3354.ts
+#EXTINF:-1,DE_SIXX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3356.ts
+#EXTINF:-1,DE_Romance TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3357.ts
+#EXTINF:-1,DE_RBB_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3358.ts
+#EXTINF:-1,DE_NDR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3359.ts
+#EXTINF:-1,DE_N TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3360.ts
+#EXTINF:-1,DE_KINOWELT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3346.ts
+#EXTINF:-1,DE_GOLD STAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3361.ts
+#EXTINF:-1,DE_PROSIEBEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3352.ts
+#EXTINF:-1,DE_DW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3349.ts
+#EXTINF:-1,DE_BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3362.ts
+#EXTINF:-1,DE_DAS_ERSTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3364.ts
+#EXTINF:-1,DE_3 SAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3363.ts
+#EXTINF:-1,DE_WDR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/410.ts
+#EXTINF:-1,DE_Sky_Pro_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1051.ts
+#EXTINF:-1,DE_ZDF_NEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1046.ts
+#EXTINF:-1,DE_ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/438.ts
+#EXTINF:-1,DE_VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/433.ts
+#EXTINF:-1,DE_RTLCRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1608.ts
+#EXTINF:-1,DE_KIKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1607.ts
+#EXTINF:-1,DE_SUPER_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1605.ts
+#EXTINF:-1,DE_SKY_FOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1602.ts
+#EXTINF:-1,DE_SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1604.ts
+#EXTINF:-1,DE_TNTFilm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/432.ts
+#EXTINF:-1,DE_Sky_MGM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/372.ts
+#EXTINF:-1,DE_Eins_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/381.ts
+#EXTINF:-1,DE_SKY_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/878.ts
+#EXTINF:-1,DE_Sky _Cinema_1_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1048.ts
+#EXTINF:-1,DE_Sky-Cinema-24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1047.ts
+#EXTINF:-1,DE_Sky-Action-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1049.ts
+#EXTINF:-1,DE_Sky_Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/379.ts
+#EXTINF:-1,DE_NationalGeographicWildHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/397.ts
+#EXTINF:-1,DE_Nat-Geog-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/398.ts
+#EXTINF:-1,DE_MDR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/407.ts
+#EXTINF:-1,DE_Sky_Discovery_ChannelHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/418.ts
+#EXTINF:-1,DE_Sky-Sat1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/385.ts
+#EXTINF:-1,DE_Sky_Select_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1053.ts
+#EXTINF:-1,DE_RTL-NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/374.ts
+#EXTINF:-1,DE_RTL Passion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/387.ts
+#EXTINF:-1,DE_RTL-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/388.ts
+#EXTINF:-1,DE_N24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/401.ts
+#EXTINF:-1,DE_Kabel_Eins_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/405.ts
+#EXTINF:-1,DE_D_MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/409.ts
+#EXTINF:-1,DE_ARD_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/430.ts
+#EXTINF:-1,DE_Sky_Select_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/460.ts
+#EXTINF:-1,DE_Sky_Select_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/459.ts
+#EXTINF:-1,DE_Sky_Select_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/457.ts
+#EXTINF:-1,DE_Sky_Select_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/456.ts
+#EXTINF:-1,DE_Sky_Select_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/455.ts
+#EXTINF:-1,Germany Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3408.ts
+#EXTINF:-1,Germany Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3409.ts
+#EXTINF:-1,Germany Cinema 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3410.ts
+#EXTINF:-1,(DE) Sky Sport News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3578.ts
+#EXTINF:-1,(DE) Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3577.ts
+#EXTINF:-1,(DE) Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3590.ts
+#EXTINF:-1,(DE) Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3588.ts
+#EXTINF:-1,(DE) Sky Sport HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3580.ts
+#EXTINF:-1,(DE) Sky Sport HD 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3579.ts
+#EXTINF:-1,(DE) Sky Sport 3 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3587.ts
+#EXTINF:-1,(DE) Sky Sport 4 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3586.ts
+#EXTINF:-1,(DE) Sky Sport 5 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3585.ts
+#EXTINF:-1,(DE) Sky Sport 6 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3584.ts
+#EXTINF:-1,(DE) Sky Sport 7 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3583.ts
+#EXTINF:-1,(DE) Sky Sport 8 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3582.ts
+#EXTINF:-1,(DE) Sky Sport 9 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3581.ts
+#EXTINF:-1,(DE) Sky Sport 10 (Match Time)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3589.ts
+#EXTINF:-1,DE:Sky Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3559.ts
+#EXTINF:-1,DE:Sky Bundesliga 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3576.ts
+#EXTINF:-1,DE:Sky Bundesliga 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3560.ts
+#EXTINF:-1,DE:Sky Bundesliga 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3561.ts
+#EXTINF:-1,DE:Sky Bundesliga 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3562.ts
+#EXTINF:-1,DE:Sky Bundesliga 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3563.ts
+#EXTINF:-1,DE:Sky Bundesliga 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3564.ts
+#EXTINF:-1,DE:Sky Bundesliga 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3565.ts
+#EXTINF:-1,DE:Sky Bundesliga 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3566.ts
+#EXTINF:-1,DE:Sky Bundesliga 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3567.ts
+#EXTINF:-1,DE:SKY Bundesliga 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3568.ts
+#EXTINF:-1,DE_SKY_SPORT_NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1606.ts
+#EXTINF:-1,DE_SKY_SPORT_AUSTRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1616.ts
+#EXTINF:-1,SKY UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2768.ts
+#EXTINF:-1,(UK) ITV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2775.ts
+#EXTINF:-1,(UK) ITV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2776.ts
+#EXTINF:-1,(UK) ITV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2777.ts
+#EXTINF:-1,(UK) ITV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2778.ts
+#EXTINF:-1,(UK) True Movies 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2779.ts
+#EXTINF:-1,(UK) True Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2780.ts
+#EXTINF:-1,(UK) CBS DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2797.ts
+#EXTINF:-1,(UK) CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2796.ts
+#EXTINF:-1,(UK) BBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2769.ts
+#EXTINF:-1,(UK) BBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2770.ts
+#EXTINF:-1,(UK) BBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2771.ts
+#EXTINF:-1,(UK) BBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2772.ts
+#EXTINF:-1,(UK) BBC WORLD NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2773.ts
+#EXTINF:-1,(UK) CNN INTERNATIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2774.ts
+#EXTINF:-1,(UK) BT SPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2814.ts
+#EXTINF:-1,(UK) BT SPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2815.ts
+#EXTINF:-1,(UK) BT SPORT EUROPE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2813.ts
+#EXTINF:-1,(UK) SKY SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2818.ts
+#EXTINF:-1,(UK) SKY SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2819.ts
+#EXTINF:-1,(UK) SKY SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2820.ts
+#EXTINF:-1,(UK) SKY SPORTS 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2821.ts
+#EXTINF:-1,(UK) SKY SPORTS 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2822.ts
+#EXTINF:-1,(UK) SKY SPORTS F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2823.ts
+#EXTINF:-1,(UK) SKY SPORT NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2817.ts
+#EXTINF:-1,(UK) PREMIER SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2811.ts
+#EXTINF:-1,(UK) SETANTA SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2812.ts
+#EXTINF:-1,(UK) SKY ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2782.ts
+#EXTINF:-1,(UK) SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2784.ts
+#EXTINF:-1,(UK) SKY MOVIES SELECT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2783.ts
+#EXTINF:-1,(UK) SKY MOVIES SCI-FI AND HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2785.ts
+#EXTINF:-1,(UK) SKY MOVIES PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2786.ts
+#EXTINF:-1,(UK) SKY MOVIES FAMILY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2787.ts
+#EXTINF:-1,(UK) SKY MOVIES CRIME AND THRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2788.ts
+#EXTINF:-1,(UK) SKY MOVIES COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2789.ts
+#EXTINF:-1,(UK) SKY MOVIES ACTION AND ADVENTURE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2790.ts
+#EXTINF:-1,(UK) Sky Movies 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2791.ts
+#EXTINF:-1,(UK) Sky More 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2792.ts
+#EXTINF:-1,(UK) SKY LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2798.ts
+#EXTINF:-1,(UK) SKY HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2809.ts
+#EXTINF:-1,(UK) Sky Film 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2793.ts
+#EXTINF:-1,(UK) SKY ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2799.ts
+#EXTINF:-1,(UK) SKY ART
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2800.ts
+#EXTINF:-1,(UK) RTE ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2801.ts
+#EXTINF:-1,(UK) ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2816.ts
+#EXTINF:-1,(UK) Horse and Country
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2827.ts
+#EXTINF:-1,(UK) Food Network 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2828.ts
+#EXTINF:-1,(UK) Food Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2829.ts
+#EXTINF:-1,(UK) FIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2802.ts
+#EXTINF:-1,(UK) CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2832.ts
+#EXTINF:-1,(UK) DISNEY XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2830.ts
+#EXTINF:-1,(UK) DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2831.ts
+#EXTINF:-1,(UK) CHELSEA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2795.ts
+#EXTINF:-1,(UK) CHANNEL 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2781.ts
+#EXTINF:-1,(UK) VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2824.ts
+#EXTINF:-1,UK: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2794.ts
+#EXTINF:-1,(UK) ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2808.ts
+#EXTINF:-1,(UK) NATIONAL GEOGRAPHIC WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2803.ts
+#EXTINF:-1,(UK) NATIONAL GEOGRAPHIC CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2804.ts
+#EXTINF:-1,(UK) Lifetime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2825.ts
+#EXTINF:-1,(UK) DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2806.ts
+#EXTINF:-1,(UK) DISCOVERY HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2807.ts
+#EXTINF:-1,(UK) DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2805.ts
+#EXTINF:-1,(UK) BOX NATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2810.ts
+#EXTINF:-1,(UK) AtTheRaces
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2826.ts
+#EXTINF:-1,SKY ITALY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3854.ts
+#EXTINF:-1,IT:TG24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3879.ts
+#EXTINF:-1,IT:Super Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3935.ts
+#EXTINF:-1,IT:Sky Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3878.ts
+#EXTINF:-1,IT:Sky Super Calcio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3929.ts
+#EXTINF:-1,IT:Sky Sport MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3934.ts
+#EXTINF:-1,IT:Sky Sport F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3933.ts
+#EXTINF:-1,IT:Sky Sport 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3932.ts
+#EXTINF:-1,IT:Sky Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3931.ts
+#EXTINF:-1,IT:Sky Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3930.ts
+#EXTINF:-1,IT:Sky Calcio 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3928.ts
+#EXTINF:-1,IT:Sky Calcio 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3927.ts
+#EXTINF:-1,IT:Rete 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3881.ts
+#EXTINF:-1,IT:Rai Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3926.ts
+#EXTINF:-1,IT:Rai Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3925.ts
+#EXTINF:-1,IT:Rai 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3877.ts
+#EXTINF:-1,IT:Rai 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3876.ts
+#EXTINF:-1,IT:Rai 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3875.ts
+#EXTINF:-1,IT:Radio Italia Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3886.ts
+#EXTINF:-1,IT:Primafila9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3923.ts
+#EXTINF:-1,IT:Primafila8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3922.ts
+#EXTINF:-1,IT:Primafila7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3921.ts
+#EXTINF:-1,IT:Primafila6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3920.ts
+#EXTINF:-1,IT:Primafila5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3919.ts
+#EXTINF:-1,IT:Primafila4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3918.ts
+#EXTINF:-1,IT:Primafila3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3917.ts
+#EXTINF:-1,IT:Primafila2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3916.ts
+#EXTINF:-1,IT:Primafila10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3924.ts
+#EXTINF:-1,IT:Primafila1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3915.ts
+#EXTINF:-1,IT:Premium Studio Universal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3910.ts
+#EXTINF:-1,IT:Premium Story
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3900.ts
+#EXTINF:-1,IT:Premium Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3913.ts
+#EXTINF:-1,IT:Premium Joi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3901.ts
+#EXTINF:-1,IT:Premium Energy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3909.ts
+#EXTINF:-1,IT:Premium Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3907.ts
+#EXTINF:-1,IT:Premium Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3911.ts
+#EXTINF:-1,IT:Premium Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3912.ts
+#EXTINF:-1,IT:Premium Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3908.ts
+#EXTINF:-1,IT:Premium Cinema 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3906.ts
+#EXTINF:-1,IT:Premium Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3905.ts
+#EXTINF:-1,IT:Premium Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3904.ts
+#EXTINF:-1,IT:Premium BBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3914.ts
+#EXTINF:-1,IT:Premium Action Prima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3903.ts
+#EXTINF:-1,IT:Premium Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3902.ts
+#EXTINF:-1,IT:Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3889.ts
+#EXTINF:-1,IT:Nat Geo People
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3890.ts
+#EXTINF:-1,IT:Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3888.ts
+#EXTINF:-1,IT:Iris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3882.ts
+#EXTINF:-1,IT:History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3893.ts
+#EXTINF:-1,IT:Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3884.ts
+#EXTINF:-1,IT:Dmax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3885.ts
+#EXTINF:-1,IT:Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3887.ts
+#EXTINF:-1,IT:Discovery World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3892.ts
+#EXTINF:-1,IT:Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3891.ts
+#EXTINF:-1,IT:Cinema Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3895.ts
+#EXTINF:-1,IT:Cinema Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3896.ts
+#EXTINF:-1,IT:Cinema Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3897.ts
+#EXTINF:-1,IT:Cinema Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3898.ts
+#EXTINF:-1,IT:Cinema Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3899.ts
+#EXTINF:-1,IT:Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3894.ts
+#EXTINF:-1,IT:Cielo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3883.ts
+#EXTINF:-1,IT:Canale 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3880.ts
+#EXTINF:-1,FRANSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3083.ts
+#EXTINF:-1,FR:Bein Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3084.ts
+#EXTINF:-1,FR:Bein Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3085.ts
+#EXTINF:-1,FR:Bein Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3086.ts
+#EXTINF:-1,FR:France O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3095.ts
+#EXTINF:-1,FR:France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3096.ts
+#EXTINF:-1,FR:France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3097.ts
+#EXTINF:-1,FR:France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3098.ts
+#EXTINF:-1,FR:France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3099.ts
+#EXTINF:-1,FR:France 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3100.ts
+#EXTINF:-1,FR:TV5 Monde Europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3107.ts
+#EXTINF:-1,FR:TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3105.ts
+#EXTINF:-1,FR:TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3106.ts
+#EXTINF:-1,FR:NRJ 12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3104.ts
+#EXTINF:-1,FR:M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3101.ts
+#EXTINF:-1,FR:Cine  Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3094.ts
+#EXTINF:-1,FR:Cine  Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3093.ts
+#EXTINF:-1,FR:Cine  Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3092.ts
+#EXTINF:-1,FR:Cine  Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3091.ts
+#EXTINF:-1,FR:Cine  Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3090.ts
 #EXTINF:-1,FR:Canal Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/247.ts
-#EXTINF:-1,FR:Canal Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/248.ts
-#EXTINF:-1,FR:Canal Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/249.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3088.ts
 #EXTINF:-1,FR:Canal Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/250.ts
-#EXTINF:-1,FR:Boomerang
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/251.ts
-#EXTINF:-1,FR:Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptv.kodi.ps:8000/live/star7arabs0/IrGEhLFdao/252.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3087.ts
+#EXTINF:-1,FR:Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3089.ts
+#EXTINF:-1,FR:Nat Geo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3102.ts
+#EXTINF:-1,FR:Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3103.ts
+#EXTINF:-1,(FR) W9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3224.ts
+#EXTINF:-1,(FR) VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3280.ts
+#EXTINF:-1,(FR) USHUAIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3271.ts
+#EXTINF:-1,(FR) TV BREIZH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3229.ts
+#EXTINF:-1,(FR) TREK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3279.ts
+#EXTINF:-1,(FR) TOUTE L HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3273.ts
+#EXTINF:-1,(FR) TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3261.ts
+#EXTINF:-1,(FR) TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3228.ts
+#EXTINF:-1,(FR) TELETOON  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3254.ts
+#EXTINF:-1,(FR) TCM CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3294.ts
+#EXTINF:-1,(FR) SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3227.ts
+#EXTINF:-1,(FR) SERIE CLUB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3230.ts
+#EXTINF:-1,(FR) SEASONS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3278.ts
+#EXTINF:-1,(FR) SCIENCE ET VIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3276.ts
+#EXTINF:-1,(FR) RTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3247.ts
+#EXTINF:-1,(FR) RTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3246.ts
+#EXTINF:-1,(FR) RTL 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3236.ts
+#EXTINF:-1,(FR) RMC DECOUVERTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3272.ts
+#EXTINF:-1,(FR) PLANETE  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3264.ts
+#EXTINF:-1,(FR) PLANETE  CI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3266.ts
+#EXTINF:-1,(FR) PLANETE  AE HD (FR)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3265.ts
+#EXTINF:-1,(FR) PIWI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3262.ts
+#EXTINF:-1,(FR) PARIS PREMIERE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3235.ts
+#EXTINF:-1,(FR) PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3233.ts
+#EXTINF:-1,(FR) OLTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3329.ts
+#EXTINF:-1,(FR) OCS Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3286.ts
+#EXTINF:-1,(FR) OCS GEANTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3297.ts
+#EXTINF:-1,(FR) OCS City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3287.ts
+#EXTINF:-1,(FR) Ocs Choc HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3288.ts
+#EXTINF:-1,(FR) NUMERO 23 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3243.ts
+#EXTINF:-1,(FR) NT1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3238.ts
+#EXTINF:-1,(FR) NRJ 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3245.ts
+#EXTINF:-1,(FR) NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3258.ts
+#EXTINF:-1,(FR) NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3259.ts
+#EXTINF:-1,(FR) MTV HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3338.ts
+#EXTINF:-1,(FR) MTV DANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3339.ts
+#EXTINF:-1,(FR) MANGAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3256.ts
+#EXTINF:-1,(FR) M6 MUSIC HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3337.ts
+#EXTINF:-1,(FR) LCP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3343.ts
+#EXTINF:-1,(FR) LCI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3344.ts
+#EXTINF:-1,(FR) L EQUIPE 21 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3334.ts
+#EXTINF:-1,(FR) KTO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3345.ts
+#EXTINF:-1,(FR) JUNE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3232.ts
+#EXTINF:-1,(FR) INFOSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3331.ts
+#EXTINF:-1,(FR) I TELE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3340.ts
+#EXTINF:-1,(FR) HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3277.ts
+#EXTINF:-1,(FR) HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3241.ts
+#EXTINF:-1,(FR) GULLI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3257.ts
+#EXTINF:-1,(FR) GAME ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3260.ts
+#EXTINF:-1,(FR) Foot
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3330.ts
+#EXTINF:-1,(FR) EUROSPORT FRANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3332.ts
+#EXTINF:-1,(FR) EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3333.ts
+#EXTINF:-1,(FR) EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3335.ts
+#EXTINF:-1,(FR) E!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3231.ts
+#EXTINF:-1,(FR) DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3252.ts
+#EXTINF:-1,(FR) DISNEY CINEMAGIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3250.ts
+#EXTINF:-1,(FR) DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3248.ts
+#EXTINF:-1,(FR) DISNEY CHANNEL  1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3249.ts
+#EXTINF:-1,(FR) DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3270.ts
+#EXTINF:-1,(FR) DISCOVERY FRANCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3269.ts
+#EXTINF:-1,(FR) D8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3221.ts
+#EXTINF:-1,(FR) D17 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3244.ts
+#EXTINF:-1,(FR) COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3234.ts
+#EXTINF:-1,(FR) CINE FX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3296.ts
+#EXTINF:-1,(FR) CINE   POLAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3295.ts
+#EXTINF:-1,(FR) CHERIE 25 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3242.ts
+#EXTINF:-1,(FR) CHASSE ET PECHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3274.ts
+#EXTINF:-1,(FR) CANAL J
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3263.ts
+#EXTINF:-1,(FR) CANAL  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3281.ts
+#EXTINF:-1,(FR) CANAL   SPORT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3325.ts
+#EXTINF:-1,(FR) CANAL   FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3284.ts
+#EXTINF:-1,(FR) CANAL   DECALE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3285.ts
+#EXTINF:-1,(FR) CANAL   CINEMA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3282.ts
+#EXTINF:-1,(FR) BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3255.ts
+#EXTINF:-1,(FR) BFM TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3342.ts
+#EXTINF:-1,(FR) ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3219.ts
+#EXTINF:-1,(FR) ANIMAUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3275.ts
+#EXTINF:-1,(FR) ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3237.ts
+#EXTINF:-1,(FR) AB MOTEUR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3336.ts
+#EXTINF:-1,(FR) A La Carte 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3304.ts
+#EXTINF:-1,(FR) A La Carte 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3303.ts
+#EXTINF:-1,(FR) A La Carte 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3302.ts
+#EXTINF:-1,(FR) A La Carte 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3301.ts
+#EXTINF:-1,(FR) A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3300.ts
+#EXTINF:-1,(FR) A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3299.ts
+#EXTINF:-1,(FR) A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3298.ts
+#EXTINF:-1,(FR) 6TER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3240.ts
+#EXTINF:-1,(FR) 13EME RUE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3226.ts
+#EXTINF:-1,HOLLANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3108.ts
+#EXTINF:-1,NL:Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3140.ts
+#EXTINF:-1,NL:History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3124.ts
+#EXTINF:-1,NL:Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3141.ts
+#EXTINF:-1,NL:MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3123.ts
+#EXTINF:-1,NL:Net 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3118.ts
+#EXTINF:-1,NL:TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3144.ts
+#EXTINF:-1,NL:Nickelodeon / Spike
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3121.ts
+#EXTINF:-1,NL:Veronica Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3119.ts
+#EXTINF:-1,NL:Ziggo Sport Voetbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3138.ts
+#EXTINF:-1,NL:Ziggo Sport Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3139.ts
+#EXTINF:-1,NL:Ziggo Sport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3137.ts
+#EXTINF:-1,NL:HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3129.ts
+#EXTINF:-1,NL:HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3130.ts
+#EXTINF:-1,NL:HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3131.ts
+#EXTINF:-1,NL:NPO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3110.ts
+#EXTINF:-1,NL:NPO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3109.ts
+#EXTINF:-1,NL:NPO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3111.ts
+#EXTINF:-1,NL:RTL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3112.ts
+#EXTINF:-1,NL:RTL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3113.ts
+#EXTINF:-1,NL:RTL 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3115.ts
+#EXTINF:-1,NL:RTL 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3116.ts
+#EXTINF:-1,NL:SBS 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3114.ts
+#EXTINF:-1,NL:SBS 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3117.ts
+#EXTINF:-1,NL:AT5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3120.ts
+#EXTINF:-1,NL:Fox Sports 5 Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3136.ts
+#EXTINF:-1,NL:Fox Sports 4 Internationaal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3135.ts
+#EXTINF:-1,NL:Fox Sports 3 Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3134.ts
+#EXTINF:-1,NL:Fox Sports 2 International
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3133.ts
+#EXTINF:-1,NL:Fox Sports 1 Eredivisie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3132.ts
+#EXTINF:-1,NL:Film 1 Sundance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3128.ts
+#EXTINF:-1,NL:Film 1 Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3126.ts
+#EXTINF:-1,NL:Film 1 Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3127.ts
+#EXTINF:-1,NL:Film 1 Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3125.ts
+#EXTINF:-1,NL:Crime Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3142.ts
+#EXTINF:-1,NL:Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3143.ts
+#EXTINF:-1,NL:Cartoon Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3122.ts
+#EXTINF:-1,BE:RTBF 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3145.ts
+#EXTINF:-1,BE:RTBF 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3146.ts
+#EXTINF:-1,BE:RTBF 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3147.ts
+#EXTINF:-1,BE:RTL TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3148.ts
+#EXTINF:-1,BE:Plug RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3149.ts
+#EXTINF:-1,BE:Club RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3150.ts
+#EXTINF:-1,ARAP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2721.ts
+#EXTINF:-1,AR:MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3415.ts
+#EXTINF:-1,AR:MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3416.ts
+#EXTINF:-1,AR:MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3417.ts
+#EXTINF:-1,AR:MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3418.ts
+#EXTINF:-1,AR:Tunisia 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3428.ts
+#EXTINF:-1,AR:Tunisia 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3429.ts
+#EXTINF:-1,AR:Tounesna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3430.ts
+#EXTINF:-1,AR:Saudi Quran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3476.ts
+#EXTINF:-1,AR:Samira TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3431.ts
+#EXTINF:-1,AR:Sama Dubai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3432.ts
+#EXTINF:-1,AR:Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3435.ts
+#EXTINF:-1,AR:Rotana Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3436.ts
+#EXTINF:-1,AR:Rotana Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3433.ts
+#EXTINF:-1,AR:Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3434.ts
+#EXTINF:-1,AR:Rotana Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3426.ts
+#EXTINF:-1,AR:Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3439.ts
+#EXTINF:-1,AR:Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3437.ts
+#EXTINF:-1,AR:Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3438.ts
+#EXTINF:-1,AR:Nessma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3440.ts
+#EXTINF:-1,AR:Medi 1 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3425.ts
+#EXTINF:-1,AR:MBC Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3422.ts
+#EXTINF:-1,AR:MBC Masr 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3424.ts
+#EXTINF:-1,AR:MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3423.ts
+#EXTINF:-1,AR:MBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3421.ts
+#EXTINF:-1,AR:MBC Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3420.ts
+#EXTINF:-1,AR:MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3419.ts
+#EXTINF:-1,AR:KBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3441.ts
+#EXTINF:-1,AR:Hannibal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3442.ts
+#EXTINF:-1,AR:First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3443.ts
+#EXTINF:-1,AR:Ettounsia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3444.ts
+#EXTINF:-1,AR:Ennahar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3445.ts
+#EXTINF:-1,AR:Echourok TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3446.ts
+#EXTINF:-1,AR:Echourok News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3447.ts
+#EXTINF:-1,AR:Dzair TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3448.ts
+#EXTINF:-1,AR:Dzair News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3449.ts
+#EXTINF:-1,AR:Dubai Zaman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3450.ts
+#EXTINF:-1,AR:Dubai TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3451.ts
+#EXTINF:-1,AR:Dubai Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3454.ts
+#EXTINF:-1,AR:Dubai One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3452.ts
+#EXTINF:-1,AR:Dubai Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3453.ts
+#EXTINF:-1,AR:Dream 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3456.ts
+#EXTINF:-1,AR:Dream 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3455.ts
+#EXTINF:-1,AR:CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3457.ts
+#EXTINF:-1,AR:CBC Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3459.ts
+#EXTINF:-1,AR:CBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3458.ts
+#EXTINF:-1,AR:CBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3461.ts
+#EXTINF:-1,AR:CBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3460.ts
+#EXTINF:-1,AR:Cairo Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3462.ts
+#EXTINF:-1,AR:Beur TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3463.ts
+#EXTINF:-1,AR:Assadissa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3414.ts
+#EXTINF:-1,AR:ART Hekayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3465.ts
+#EXTINF:-1,AR:ART Hekayat1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3464.ts
+#EXTINF:-1,AR:ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3466.ts
+#EXTINF:-1,AR:ART Aflam2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3468.ts
+#EXTINF:-1,AR:ART Aflam1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3467.ts
+#EXTINF:-1,AR:Arriadhia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3469.ts
+#EXTINF:-1,AR:Aoula HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3413.ts
+#EXTINF:-1,AR:Alnahar Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3471.ts
+#EXTINF:-1,AR:Alnahar Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3472.ts
+#EXTINF:-1,AR:Alnahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3473.ts
+#EXTINF:-1,AR:Almaghrebia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3412.ts
+#EXTINF:-1,AR:Alhayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3475.ts
+#EXTINF:-1,AR:Alhayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3474.ts
+#EXTINF:-1,AR:AL Bilad
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3470.ts
+#EXTINF:-1,AR:AbuDhabi Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3479.ts
+#EXTINF:-1,AR:AbuDhabi Emarat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3477.ts
+#EXTINF:-1,AR:AbuDhabi Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3478.ts
+#EXTINF:-1,AR:2M TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3411.ts
+#EXTINF:-1,AR Rotana Masrya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3427.ts
+#EXTINF:-1,(AR) BEIN SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2629.ts
+#EXTINF:-1,(AR) BEIN SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2630.ts
+#EXTINF:-1,(AR) BEIN SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2631.ts
+#EXTINF:-1,(AR) BEIN SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2632.ts
+#EXTINF:-1,(AR) BEIN SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2633.ts
+#EXTINF:-1,(AR) BEIN SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2634.ts
+#EXTINF:-1,(AR) BEIN SPORTS 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2635.ts
+#EXTINF:-1,(AR) BEIN SPORTS 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2636.ts
+#EXTINF:-1,(AR) BEIN SPORTS 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2637.ts
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2638.ts
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2639.ts
+#EXTINF:-1,(AR) BEIN SPORTS 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2640.ts
+#EXTINF:-1,(AR) BEIN SPORTS 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/2641.ts
+#EXTINF:-1,ISPANYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3618.ts
+#EXTINF:-1,SP: LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3591.ts
+#EXTINF:-1,SP: LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3592.ts
+#EXTINF:-1,SP: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3597.ts
+#EXTINF:-1,SP: TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3598.ts
+#EXTINF:-1,SP: TELECINCO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3595.ts
+#EXTINF:-1,SP: Real Madrid tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3600.ts
+#EXTINF:-1,SP: LA SEXTA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3596.ts
+#EXTINF:-1,SP: CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3594.ts
+#EXTINF:-1,SP: CANAL DECASA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3614.ts
+#EXTINF:-1,SP: CANAL  XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3615.ts
+#EXTINF:-1,SP: CANAL  SERIESXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3616.ts
+#EXTINF:-1,SP: CANAL  SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3617.ts
+#EXTINF:-1,SP: CANAL  LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3602.ts
+#EXTINF:-1,SP: CANAL  LIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3603.ts
+#EXTINF:-1,SP: CANAL  GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3604.ts
+#EXTINF:-1,SP: CANAL  GOLF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3605.ts
+#EXTINF:-1,SP: CANAL  FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3606.ts
+#EXTINF:-1,SP: CANAL  ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3607.ts
+#EXTINF:-1,SP: CANAL  DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3608.ts
+#EXTINF:-1,SP: CANAL  DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3609.ts
+#EXTINF:-1,SP: CANAL  DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3610.ts
+#EXTINF:-1,SP: CANAL  COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3611.ts
+#EXTINF:-1,SP: CANAL  COMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3612.ts
+#EXTINF:-1,SP: CANAL  ACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3613.ts
+#EXTINF:-1,SP: BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3601.ts
+#EXTINF:-1,SP: ANTENA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3593.ts
+#EXTINF:-1,SP: ANDALUCIA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3599.ts
+#EXTINF:-1,PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4198.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4189.ts
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4190.ts
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4188.ts
+#EXTINF:-1,FOX Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4187.ts
+#EXTINF:-1,FOX Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4191.ts
+#EXTINF:-1,JM JM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4197.ts
+#EXTINF:-1,IGGRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3691.ts
+#EXTINF:-1,GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4186.ts
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4195.ts
+#EXTINF:-1,Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4184.ts
+#EXTINF:-1,PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4183.ts
+#EXTINF:-1,Porto Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4181.ts
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4160.ts
+#EXTINF:-1,Sic Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4159.ts
+#EXTINF:-1,SIC Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4158.ts
+#EXTINF:-1,TV CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4163.ts
+#EXTINF:-1,TV Cine 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4164.ts
+#EXTINF:-1,TV Cine 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4165.ts
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4166.ts
+#EXTINF:-1,Tv Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4185.ts
+#EXTINF:-1,TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4172.ts
+#EXTINF:-1,Sport TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4178.ts
+#EXTINF:-1,Sport TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4179.ts
+#EXTINF:-1,EUROSPORT HD 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4193.ts
+#EXTINF:-1,EUROSPORT 2 XTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4192.ts
+#EXTINF:-1,CA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4169.ts
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4196.ts
+#EXTINF:-1,Canal de Historia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4168.ts
+#EXTINF:-1,A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4180.ts
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4194.ts
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4173.ts
+#EXTINF:-1,AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4174.ts
+#EXTINF:-1,PT:BTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4170.ts
+#EXTINF:-1,PT:BTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4171.ts
+#EXTINF:-1,PT:RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4145.ts
+#EXTINF:-1,PT:RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4146.ts
+#EXTINF:-1,PT:RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4147.ts
+#EXTINF:-1,PT:Sport TV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4175.ts
+#EXTINF:-1,PT:Sport TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4176.ts
+#EXTINF:-1,PT:Sport TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4177.ts
+#EXTINF:-1,PT:TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4155.ts
+#EXTINF:-1,PT:TVC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4162.ts
+#EXTINF:-1,PT:TVC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4167.ts
+#EXTINF:-1,PT:TVC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4149.ts
+#EXTINF:-1,PT:TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4154.ts
+#EXTINF:-1,PT:SIC Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4156.ts
+#EXTINF:-1,PT:SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4157.ts
+#EXTINF:-1,PT:RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4153.ts
+#EXTINF:-1,PT:RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4151.ts
+#EXTINF:-1,PT:RTP Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4150.ts
+#EXTINF:-1,PT:RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4152.ts
+#EXTINF:-1,PT:AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4182.ts
+#EXTINF:-1,PT:Panda
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4148.ts
+#EXTINF:-1,PT:Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4161.ts
+#EXTINF:-1,(MK) BOSNA-SERBIA-CROTIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3939.ts
+#EXTINF:-1,(MK)  A1 Shqipetare
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3943.ts
+#EXTINF:-1,(MK) ALFA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3945.ts
+#EXTINF:-1,(MK) ALSAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3944.ts
+#EXTINF:-1,(MK) Kanal 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3949.ts
+#EXTINF:-1,(MK) Kanal 5 Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3950.ts
+#EXTINF:-1,(MK) MRT 1 - Maqedoni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3940.ts
+#EXTINF:-1,(MK) MRT 2 - Maqedoni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3941.ts
+#EXTINF:-1,(MK) MRT 3 - Maqedoni
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3942.ts
+#EXTINF:-1,(MK) Sitel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3946.ts
+#EXTINF:-1,(MK) Sitel 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3948.ts
+#EXTINF:-1,(MK) Telma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3947.ts
+#EXTINF:-1,(SER)  RTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3967.ts
+#EXTINF:-1,(SER)  RTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3968.ts
+#EXTINF:-1,(SER) Rtrs Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3972.ts
+#EXTINF:-1,(SER)  HAPPY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3969.ts
+#EXTINF:-1,(SER)  DUGA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3970.ts
+#EXTINF:-1,(SER)  DM SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3971.ts
+#EXTINF:-1,(CRO)  HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3974.ts
+#EXTINF:-1,(CRO)  HRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3975.ts
+#EXTINF:-1,(CRO) HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3976.ts
+#EXTINF:-1,(CRO) HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3977.ts
+#EXTINF:-1,(CRO) Doma Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3973.ts
+#EXTINF:-1,(CRO)  NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3979.ts
+#EXTINF:-1,(CRO)  B92
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3978.ts
+#EXTINF:-1,(BIH):BOSNA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3952.ts
+#EXTINF:-1,(BIH) Tv Posavina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3962.ts
+#EXTINF:-1,(BIH) TK Tuzla
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3961.ts
+#EXTINF:-1,(BIH) Izvorna Muzika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3963.ts
+#EXTINF:-1,(BIH) Igman tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3964.ts
+#EXTINF:-1,(BIH) HAYAT FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3955.ts
+#EXTINF:-1,(BIH) Ftv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3951.ts
+#EXTINF:-1,(BIH) DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3960.ts
+#EXTINF:-1,(BIH) Atv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3965.ts
+#EXTINF:-1,(BIH)  TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3956.ts
+#EXTINF:-1,(BIH)  OBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3958.ts
+#EXTINF:-1,(BIH)  HAYAT TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3959.ts
+#EXTINF:-1,(BIH)  HAYAT PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3954.ts
+#EXTINF:-1,(BIH)  Hayat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3953.ts
+#EXTINF:-1,(BIH)  FACE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3966.ts
+#EXTINF:-1,(BIH)  BHT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3957.ts
+#EXTINF:-1,EX-YU:EX-YU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4089.ts
+#EXTINF:-1,EXYU:CINEMAX 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4140.ts
+#EXTINF:-1,EXYU:CINEMAX 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4141.ts
+#EXTINF:-1,EXYU:CINESTAR ACTION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4144.ts
+#EXTINF:-1,EXYU:CINESTAR PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4142.ts
+#EXTINF:-1,EXYU:CINESTAR PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4143.ts
+#EXTINF:-1,EXYU:CRIME & INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4136.ts
+#EXTINF:-1,EXYU:N1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4120.ts
+#EXTINF:-1,EXYU:VIP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4129.ts
+#EXTINF:-1,EXYU:VALENTINO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4130.ts
+#EXTINF:-1,EXYU:TV 1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4139.ts
+#EXTINF:-1,EXYU:SOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4131.ts
+#EXTINF:-1,EXYU:PRVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4128.ts
+#EXTINF:-1,EXYU:OSJECKA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4132.ts
+#EXTINF:-1,EXYU:NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4133.ts
+#EXTINF:-1,EXYU:RTV ZENICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4127.ts
+#EXTINF:-1,EXYU:RTV PI KANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4126.ts
+#EXTINF:-1,EXYU:RTV NOVI PAZAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4125.ts
+#EXTINF:-1,EXYU:KCN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4121.ts
+#EXTINF:-1,EXYU:KCN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4122.ts
+#EXTINF:-1,EXYU:KCN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4123.ts
+#EXTINF:-1,EXYU:Atlas CG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4124.ts
+#EXTINF:-1,EXYU:BANOVINA GLINA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4134.ts
+#EXTINF:-1,EXYU:NAT GEOGRAPHIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4135.ts
+#EXTINF:-1,EXYU:ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4137.ts
+#EXTINF:-1,EX-YU:PTPC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4091.ts
+#EXTINF:-1,EX-YU:RTL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4090.ts
+#EXTINF:-1,EX-YU:Prva Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4092.ts
+#EXTINF:-1,EXYU:PINK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4111.ts
+#EXTINF:-1,EX-YU:Pink 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4112.ts
+#EXTINF:-1,EX-YU:Pink 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4113.ts
+#EXTINF:-1,EX-YU:Pink 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4114.ts
+#EXTINF:-1,EXYU:PINK BiH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4110.ts
+#EXTINF:-1,EX-YU:Pink Zabava
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4093.ts
+#EXTINF:-1,EX-YU:Pink Western
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4094.ts
+#EXTINF:-1,EX-YU:Pink Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4095.ts
+#EXTINF:-1,EX-YU:Pink Soap
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4096.ts
+#EXTINF:-1,EX-YU:Pink Sci-Fi Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4097.ts
+#EXTINF:-1,EX-YU:Pink Romance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4098.ts
+#EXTINF:-1,EX-YU:Pink Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4099.ts
+#EXTINF:-1,EX-YU:Pink Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4100.ts
+#EXTINF:-1,EX-YU:Pink Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4101.ts
+#EXTINF:-1,EX-YU:Pink Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4102.ts
+#EXTINF:-1,EX-YU:Pink Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4103.ts
+#EXTINF:-1,EX-YU:Pink Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4104.ts
+#EXTINF:-1,EX-YU:Pink Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4105.ts
+#EXTINF:-1,EX-YU:Pink Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4106.ts
+#EXTINF:-1,EX-YU:Pink Crime Mystery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4107.ts
+#EXTINF:-1,EX-YU:Pink Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4108.ts
+#EXTINF:-1,EX-YU:Pink Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4109.ts
+#EXTINF:-1,EX-YU:OBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4115.ts
+#EXTINF:-1,EX-YU:Nova TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4116.ts
+#EXTINF:-1,EX-YU:Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4119.ts
+#EXTINF:-1,EX-YU:Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4117.ts
+#EXTINF:-1,EX-YU:Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4118.ts
+#EXTINF:-1,EX-YU:DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4138.ts
+#EXTINF:-1,ALBANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3980.ts
+#EXTINF:-1,ALB:Tring 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4030.ts
+#EXTINF:-1,ALB:Tring World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4032.ts
+#EXTINF:-1,ALB:Tring Vizion Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4035.ts
+#EXTINF:-1,ALB:Tring Tring
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4031.ts
+#EXTINF:-1,ALB:Tring Super
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4036.ts
+#EXTINF:-1,ALB:Tring Stinet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4037.ts
+#EXTINF:-1,ALB:Tring Smile
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4038.ts
+#EXTINF:-1,ALB:Tring Shqip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4039.ts
+#EXTINF:-1,ALB:Tring Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4033.ts
+#EXTINF:-1,ALB:Tring Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4046.ts
+#EXTINF:-1,ALB:Tring Klan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4040.ts
+#EXTINF:-1,ALB:Tring Jolly
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4041.ts
+#EXTINF:-1,ALB:Tring History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4034.ts
+#EXTINF:-1,ALB:Tring Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4042.ts
+#EXTINF:-1,ALB:Tring Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4043.ts
+#EXTINF:-1,ALB:Top Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4044.ts
+#EXTINF:-1,ALB:Film Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4047.ts
+#EXTINF:-1,ALB:Film DY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4051.ts
+#EXTINF:-1,ALB:Film Aksion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4045.ts
+#EXTINF:-1,(AL)  Super Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4005.ts
+#EXTINF:-1,(AL) Super Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4006.ts
+#EXTINF:-1,AL:Super Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4007.ts
+#EXTINF:-1,AL:Super Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4008.ts
+#EXTINF:-1,AL:SuperSport Kosova 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4009.ts
+#EXTINF:-1,AL:SuperSport Kosova 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4010.ts
+#EXTINF:-1,(AL) Kino Scifi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4019.ts
+#EXTINF:-1,(AL) Kino Thriller HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4020.ts
+#EXTINF:-1,(AL) Kino Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4016.ts
+#EXTINF:-1,(AL) Kino Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4017.ts
+#EXTINF:-1,(AL) Kino Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4018.ts
+#EXTINF:-1,(AL) Vizion Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3993.ts
+#EXTINF:-1,(AL) TVSH Tokesor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3990.ts
+#EXTINF:-1,(AL) TV2 Gostivar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3989.ts
+#EXTINF:-1,(AL) Tv Shenja
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3997.ts
+#EXTINF:-1,(AL) TV Opoja*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3998.ts
+#EXTINF:-1,(AL) Tring Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4011.ts
+#EXTINF:-1,(AL) Tribuna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3999.ts
+#EXTINF:-1,(AL) RTK 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3982.ts
+#EXTINF:-1,(AL) RTV 21 Toksor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3983.ts
+#EXTINF:-1,(AL) Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3996.ts
+#EXTINF:-1,(AL) KTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3987.ts
+#EXTINF:-1,(AL) KTV Toksor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3988.ts
+#EXTINF:-1,(AL) Klan Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3984.ts
+#EXTINF:-1,(AL) Klan HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3985.ts
+#EXTINF:-1,(AL) Kohavision HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3994.ts
+#EXTINF:-1,(AL) Jolly HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3991.ts
+#EXTINF:-1,(AL) Folk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4003.ts
+#EXTINF:-1,(AL) Era TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4004.ts
+#EXTINF:-1,(AL) Alb hits HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3995.ts
+#EXTINF:-1,(AL)  Vizion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3992.ts
+#EXTINF:-1,(AL) Explorer Shkence
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4000.ts
+#EXTINF:-1,(AL) Explorer Natyre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4001.ts
+#EXTINF:-1,(AL) Explorer History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4002.ts
+#EXTINF:-1,(AL) Film Stinet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4024.ts
+#EXTINF:-1,(AL) Film NJE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4025.ts
+#EXTINF:-1,(AL) Film Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4026.ts
+#EXTINF:-1,(AL) Film DY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4027.ts
+#EXTINF:-1,(AL)  Tring Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4012.ts
+#EXTINF:-1,(AL)  Tring MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4048.ts
+#EXTINF:-1,(AL)  Tring Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4049.ts
+#EXTINF:-1,(AL)  Tring Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4050.ts
+#EXTINF:-1,(AL)  Top Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4014.ts
+#EXTINF:-1,(AL)  Supersonic TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4015.ts
+#EXTINF:-1,(AL)  RTK 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3981.ts
+#EXTINF:-1,(AL)  KLAN KOSOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3986.ts
+#EXTINF:-1,(AL)  Film Komedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4021.ts
+#EXTINF:-1,(AL)  Film Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4022.ts
+#EXTINF:-1,(AL)  Film Drame
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4023.ts
+#EXTINF:-1,(AL)  Film Autor
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4028.ts
+#EXTINF:-1,(AL)  Film Aksion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4029.ts
+#EXTINF:-1,(AL)  BBF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4013.ts
+#EXTINF:-1,DENMARK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4052.ts
+#EXTINF:-1,DK:Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4068.ts
+#EXTINF:-1,DK:Canal 8 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4081.ts
+#EXTINF:-1,DK: Viasat Fotboll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4077.ts
+#EXTINF:-1,DK: DR-K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4070.ts
+#EXTINF:-1,DK: MTV Denmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4080.ts
+#EXTINF:-1,DK: Nat Geo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4078.ts
+#EXTINF:-1,DK: Nickelodeon Denmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4076.ts
+#EXTINF:-1,DK: TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4055.ts
+#EXTINF:-1,DK: Tv Lorry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4071.ts
+#EXTINF:-1,DK: TV2 Charlie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4059.ts
+#EXTINF:-1,DK: TV2 Fri
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4061.ts
+#EXTINF:-1,DK: TV2 News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4060.ts
+#EXTINF:-1,DK: TV2 Zulu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4058.ts
+#EXTINF:-1,DK: TV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4064.ts
+#EXTINF:-1,DK: TV3 Danmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4063.ts
+#EXTINF:-1,DK: TV3 Puls Denmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4062.ts
+#EXTINF:-1,DK: TV3 Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4065.ts
+#EXTINF:-1,DK: TV3 Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4066.ts
+#EXTINF:-1,DK: TV4 Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4067.ts
+#EXTINF:-1,DK: Kanal 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4056.ts
+#EXTINF:-1,DK: Kanal 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4057.ts
+#EXTINF:-1,DK: DR1 Denmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4053.ts
+#EXTINF:-1,DK: DR2 Denmark
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4054.ts
+#EXTINF:-1,DK: DR-Ramasjang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4069.ts
+#EXTINF:-1,DK: Disney XD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4074.ts
+#EXTINF:-1,DK: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4075.ts
+#EXTINF:-1,DK: Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4079.ts
+#EXTINF:-1,DK: Comedy Central
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4073.ts
+#EXTINF:-1,DK: 6eren
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4072.ts
+#EXTINF:-1,C More Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4084.ts
+#EXTINF:-1,:C More Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4082.ts
+#EXTINF:-1,:C More Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4083.ts
+#EXTINF:-1,:C More Fotboll
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4085.ts
+#EXTINF:-1,:C More First
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4086.ts
+#EXTINF:-1,:C More Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4087.ts
+#EXTINF:-1,:C More Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/4088.ts
+#EXTINF:-1,KURDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3874.ts
+#EXTINF:-1,(KURDI) EVIN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3866.ts
+#EXTINF:-1,(KURD) ZAGROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3864.ts
+#EXTINF:-1,(KURD) TRT KURDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3861.ts
+#EXTINF:-1,(KURD) STERK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3868.ts
+#EXTINF:-1,(KURD) RUDAW TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3865.ts
+#EXTINF:-1,(KURD) RONAHI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3870.ts
+#EXTINF:-1,(KURD) NEWROZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3872.ts
+#EXTINF:-1,(KURD) MED MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3873.ts
+#EXTINF:-1,(KURD) KURDSAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3869.ts
+#EXTINF:-1,(KURD) KURDMAX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3862.ts
+#EXTINF:-1,(KURD) KURDISTAN TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3863.ts
+#EXTINF:-1,(KURD) KOMALA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3867.ts
+#EXTINF:-1,(KURD) GUNAZ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/3871.ts
+#EXTINF:-1,NE VEREYiM ABiME 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/662.ts
+#EXTINF:-1,NE VEREYiM ABiME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/920.ts
+#EXTINF:-1,NE VEREYiM ABiME 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/921.ts
+#EXTINF:-1,NE VEREYiM ABiME 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/922.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1174.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1175.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1176.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1177.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1178.ts
+#EXTINF:-1,NE_VEREYiM_ABiME_10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/live/DenizTok/DenizTok/1179.ts
+#EXTINF:-1,Buz Devri 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/4206.avi
+#EXTINF:-1,Mechanic Resurrection Suikast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/4200.mkv
+#EXTINF:-1,Inferno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/4199.avi
+#EXTINF:-1,Tarzan Efsanesi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3937.avi
+#EXTINF:-1,Kurtulus Gunu 2 Yeni Tehdit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3936.avi
+#EXTINF:-1,Star Trek Beyond
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3855.mkv
+#EXTINF:-1,Ninja Kaplumbagalar Golgelerin Icinden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3692.mkv
+#EXTINF:-1,Sihirbazlar Cetesi 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3687.mkv
+#EXTINF:-1,Kralin Kilici Final Fantasy XV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3686.mkv
+#EXTINF:-1,Yeralti Krallari
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3859.avi
+#EXTINF:-1,Kickboxer Vengeance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3857.avi
+#EXTINF:-1,Karanlik Sular
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3858.mkv
+#EXTINF:-1,Alice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3856.mkv
+#EXTINF:-1,The Magnificent Seven
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3938.mkv
+#EXTINF:-1,The Matrix 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3547.mp4
+#EXTINF:-1,The Matrix 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3548.mp4
+#EXTINF:-1,The Matrix 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.71.237:8000/movie/DenizTok/DenizTok/3549.mp4
