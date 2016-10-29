@@ -1,49 +1,303 @@
 #EXTM3U
-#EXTINF:-1,=====BeIN-Arabia=====
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/191.ts
-#EXTINF:-1,beINSPORTS_News_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/135.ts
-#EXTINF:-1,beINSPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/136.ts
-#EXTINF:-1,beINSPORTS-1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/116.ts
-#EXTINF:-1,beINSPORTS-2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/117.ts
-#EXTINF:-1,beINSPORTS-3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/118.ts
-#EXTINF:-1,beINSPORTS-4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/119.ts
-#EXTINF:-1,beINSPORTS-5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/120.ts
-#EXTINF:-1,beINSPORTS-6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/121.ts
-#EXTINF:-1,beINSPORTS-7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/122.ts
-#EXTINF:-1,beINSPORTS-8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/123.ts
-#EXTINF:-1,beINSPORTS-9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/124.ts
-#EXTINF:-1,beINSPORTS-10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/125.ts
-#EXTINF:-1,beINSPORTS-11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/126.ts
-#EXTINF:-1,beINSPORTS-12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/127.ts
-#EXTINF:-1,beINSPORTS-13HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/128.ts
-#EXTINF:-1,beINSPORTS-14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/129.ts
-#EXTINF:-1,beINSPORTS-15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/130.ts
-#EXTINF:-1,beINSPORTS-16HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/131.ts
-#EXTINF:-1,beINSPORTS-USA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/292.ts
-#EXTINF:-1,beINMOVIES-1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/132.ts
-#EXTINF:-1,beINMOVIES-2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/133.ts
-#EXTINF:-1,beINMOVIES-3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/134.ts
-#EXTINF:-1,beINMOVIES-4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.37.71:8789/live/karimos/test/484.ts
+#EXTINF:-1,█ ▇ ▆ FRENCH CHANNEL ▆ ▇ █
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/36.ts
+#EXTINF:-1,FR: France 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/50.ts
+#EXTINF:-1,FR: France 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/47.ts
+#EXTINF:-1,FR: France 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/49.ts
+#EXTINF:-1,FR: France 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/48.ts
+#EXTINF:-1,FR:Cine Polar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/44.ts
+#EXTINF:-1,FR:Cine Plus Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/43.ts
+#EXTINF:-1,FR:Cine Plus Famiz HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/39.ts
+#EXTINF:-1,FR:Canal Plus Series HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/38.ts
+#EXTINF:-1,FR:Canal Plus HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/40.ts
+#EXTINF:-1,FR:Canal Plus Decale HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/42.ts
+#EXTINF:-1,FR:Canal Plus Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/41.ts
+#EXTINF:-1,FR: Paris Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/52.ts
+#EXTINF:-1,FR: Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/37.ts
+#EXTINF:-1,FR:Animaux HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/45.ts
+#EXTINF:-1,FR: TV5 Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/54.ts
+#EXTINF:-1,FR: HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/51.ts
+#EXTINF:-1,FR: TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/53.ts
+#EXTINF:-1,FR:Enorme TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/46.ts
+#EXTINF:-1,FR:Ushuaia TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/58.ts
+#EXTINF:-1,FR:TF1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/61.ts
+#EXTINF:-1,FR:Foot 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/60.ts
+#EXTINF:-1,FR: Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/56.ts
+#EXTINF:-1,FR: Mangas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/62.ts
+#EXTINF:-1,FR: M6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/59.ts
+#EXTINF:-1,FR: W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/57.ts
+#EXTINF:-1,FR: Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/33.ts
+#EXTINF:-1,FR:Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/35.ts
+#EXTINF:-1,FR: Cinema 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/34.ts
+#EXTINF:-1,FR: A LA CARTE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/32.ts
+#EXTINF:-1,FR: A LA CARTE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/31.ts
+#EXTINF:-1,FR: A LA CARTE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/30.ts
+#EXTINF:-1,FR: A LA CARTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/29.ts
+#EXTINF:-1,FR: A LA CARTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/28.ts
+#EXTINF:-1,FR: A LA CARTE 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/27.ts
+#EXTINF:-1,FR: A LA CARTE 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/26.ts
+#EXTINF:-1,FR: A LA CARTE 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/25.ts
+#EXTINF:-1,FR: A LA CARTE 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/24.ts
+#EXTINF:-1,FR: A LA CARTE 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/23.ts
+#EXTINF:-1,█ ▇ ▆ SPORT CHANNEL ▆ ▇ █
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/55.ts
+#EXTINF:-1,MATCH NOW 1 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/12.ts
+#EXTINF:-1,MATCH NOW 2 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/13.ts
+#EXTINF:-1,MATCH NOW 3 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/14.ts
+#EXTINF:-1,MATCH NOW 4 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/15.ts
+#EXTINF:-1,MATCH NOW 5 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/16.ts
+#EXTINF:-1,MATCH NOW 6 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/17.ts
+#EXTINF:-1,MATCH NOW 7 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/18.ts
+#EXTINF:-1,MATCH NOW 8 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/19.ts
+#EXTINF:-1,MATCH NOW 9 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/20.ts
+#EXTINF:-1,MATCH NOW 10 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/21.ts
+#EXTINF:-1,MATCH NOW 11 Low
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/22.ts
+#EXTINF:-1,Fajer TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/7.ts
+#EXTINF:-1,Fajer TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/157.ts
+#EXTINF:-1,Fajer TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/8.ts
+#EXTINF:-1,Fajer TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/9.ts
+#EXTINF:-1,Alfaje5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/10.ts
+#EXTINF:-1,Alfaje6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/11.ts
+#EXTINF:-1,Horreya TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/150.ts
+#EXTINF:-1,Horreya TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/149.ts
+#EXTINF:-1,█ ▇ ▆ ARABIC CHANNEL ▆ ▇ █
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/63.ts
+#EXTINF:-1,2M TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/64.ts
+#EXTINF:-1,ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/103.ts
+#EXTINF:-1,ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/123.ts
+#EXTINF:-1,ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/87.ts
+#EXTINF:-1,ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/93.ts
+#EXTINF:-1,ART Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/131.ts
+#EXTINF:-1,Arriadia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/91.ts
+#EXTINF:-1,Arrabiaa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/90.ts
+#EXTINF:-1,ALResala
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/89.ts
+#EXTINF:-1,ALRAHMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/88.ts
+#EXTINF:-1,AlNaharDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/84.ts
+#EXTINF:-1,AlNaharcinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/86.ts
+#EXTINF:-1,AlNaharAlYoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/85.ts
+#EXTINF:-1,AlNahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/82.ts
+#EXTINF:-1,AlKaheraWalNas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/81.ts
+#EXTINF:-1,Aljazeera Documentary
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/77.ts
+#EXTINF:-1,ALJADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/78.ts
+#EXTINF:-1,AlHayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/76.ts
+#EXTINF:-1,ALhayat-EGYPT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/75.ts
+#EXTINF:-1,Algerie5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/72.ts
+#EXTINF:-1,Algerie4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/73.ts
+#EXTINF:-1,Algerie3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/74.ts
+#EXTINF:-1,Al Maghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/83.ts
+#EXTINF:-1,Al Jazeera Mubasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/79.ts
+#EXTINF:-1,Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/80.ts
+#EXTINF:-1,Al Arabiya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/69.ts
+#EXTINF:-1,Al Aoula Inter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/68.ts
+#EXTINF:-1,Al Aan TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/67.ts
+#EXTINF:-1,Abu Dhabi TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/65.ts
+#EXTINF:-1,Abu Dhabi Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/71.ts
+#EXTINF:-1,BBC Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/94.ts
+#EXTINF:-1,CLASSICTUBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/143.ts
+#EXTINF:-1,CINEMATUBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/144.ts
+#EXTINF:-1,CinemaPro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/145.ts
+#EXTINF:-1,CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/146.ts
+#EXTINF:-1,CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/147.ts
+#EXTINF:-1,CIMATUBE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/104.ts
+#EXTINF:-1,Chorouk TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/121.ts
+#EXTINF:-1,CBCSofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/101.ts
+#EXTINF:-1,CBCExtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/100.ts
+#EXTINF:-1,CBCDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/98.ts
+#EXTINF:-1,CBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/99.ts
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/97.ts
+#EXTINF:-1,Cartoon Network Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/135.ts
+#EXTINF:-1,Canal Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/66.ts
+#EXTINF:-1,Dubai TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/141.ts
+#EXTINF:-1,Dubai Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/142.ts
+#EXTINF:-1,Dubai One HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/140.ts
+#EXTINF:-1,Djazairia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/139.ts
+#EXTINF:-1,Elnnahar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/138.ts
+#EXTINF:-1,Rotana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/115.ts
+#EXTINF:-1,FutureTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/134.ts
+#EXTINF:-1,FUNoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/133.ts
+#EXTINF:-1,France 24 Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/148.ts
+#EXTINF:-1,LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/129.ts
+#EXTINF:-1,LBCSAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/130.ts
+#EXTINF:-1,KBC Algeria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/137.ts
+#EXTINF:-1,RotanaMasriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/109.ts
+#EXTINF:-1,RotanaKhalijia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/111.ts
+#EXTINF:-1,RotanaClip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/113.ts
+#EXTINF:-1,RotanaClassic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/110.ts
+#EXTINF:-1,Rotana Cinema KSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/112.ts
+#EXTINF:-1,Rotana Cinema EGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/114.ts
+#EXTINF:-1,MTV Lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/92.ts
+#EXTINF:-1,Mehwer
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/122.ts
+#EXTINF:-1,Medi1TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/154.ts
+#EXTINF:-1,MBC Pro Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/156.ts
+#EXTINF:-1,MBC Pro Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/155.ts
+#EXTINF:-1,MBC Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/70.ts
+#EXTINF:-1,MBC Masr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/105.ts
+#EXTINF:-1,MBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/96.ts
+#EXTINF:-1,MBC Bollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/124.ts
+#EXTINF:-1,MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/125.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/102.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/107.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/126.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/127.ts
+#EXTINF:-1,MAJESTICCINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/128.ts
+#EXTINF:-1,niletv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/119.ts
+#EXTINF:-1,NileFamily
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/120.ts
+#EXTINF:-1,Nessma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/151.ts
+#EXTINF:-1,NBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/153.ts
+#EXTINF:-1,PanoramaFilm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/118.ts
+#EXTINF:-1,PanoramaDrama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/116.ts
+#EXTINF:-1,PanoramaDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/117.ts
+#EXTINF:-1,Iqraa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/132.ts
+#EXTINF:-1,Sky News Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/152.ts
+#EXTINF:-1,SamiraTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/108.ts
+#EXTINF:-1,Tounesna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/136.ts
+#EXTINF:-1,Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/95.ts
+#EXTINF:-1,Zee Alwan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://yousse4k.iptv.re:8000/live/www.star7arab.com/stopsharingthis/106.ts
