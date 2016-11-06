@@ -1,659 +1,1129 @@
 #EXTM3U
-#EXTINF:-1,|AR| BEIN NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3522.ts
-#EXTINF:-1,|AR| BEIN SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3523.ts
-#EXTINF:-1,|AR| BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2757.ts
-#EXTINF:-1,|AR| BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2758.ts
-#EXTINF:-1,|AR| BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2759.ts
-#EXTINF:-1,|AR| BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2760.ts
-#EXTINF:-1,|AR| BEIN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2761.ts
-#EXTINF:-1,|AR| BEIN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2762.ts
-#EXTINF:-1,|AR| BEIN SPORTS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2763.ts
-#EXTINF:-1,|AR| BEIN SPORTS 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2764.ts
-#EXTINF:-1,|AR| BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2765.ts
-#EXTINF:-1,|AR| BEIN SPORTS 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2766.ts
-#EXTINF:-1,|AR| BEIN SPORTS 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2949.ts
-#EXTINF:-1,|AR| BEIN SPORTS 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2950.ts
-#EXTINF:-1,|AR| BEIN SPORTS 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2951.ts
-#EXTINF:-1,|AR| BEIN SPORTS 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2952.ts
-#EXTINF:-1,|AR| BEIN SPORTS 15 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2953.ts
-#EXTINF:-1,|AR| BEIN SPORTS 16 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2954.ts
-#EXTINF:-1,|AR| OSN SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5526.ts
-#EXTINF:-1,|AR| OSN SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5527.ts
-#EXTINF:-1,|AR| OSN SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5528.ts
-#EXTINF:-1,|AR| OSN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5529.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5520.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5521.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5522.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5523.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5524.ts
-#EXTINF:-1,|AR| ABU DHABI SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5525.ts
-#EXTINF:-1,|AR| AL KASS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5516.ts
-#EXTINF:-1,|AR| AL KASS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5517.ts
-#EXTINF:-1,|AR| AL KASS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5518.ts
-#EXTINF:-1,|AR| AL KASS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5519.ts
-#EXTINF:-1,|AR| MBC SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5513.ts
-#EXTINF:-1,|AR| MBC SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5514.ts
-#EXTINF:-1,|AR| MBC SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5515.ts
-#EXTINF:-1,-------★ ISLAM CHANNEL ★--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5440.ts
-#EXTINF:-1,|AR| SUNNAH NEBAWIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5442.ts
-#EXTINF:-1,|AR| AYAAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5443.ts
-#EXTINF:-1,|AR| QURAN HIDAYAH FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5444.ts
-#EXTINF:-1,|AR| IQRAA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3542.ts
-#EXTINF:-1,|AR| AL RAHMA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3537.ts
-#EXTINF:-1,|AR| AL MAJD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3529.ts
-#EXTINF:-1,|AR| AL MAJD HOLY QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3541.ts
-#EXTINF:-1,|AR| RISALAT AL ISLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5446.ts
-#EXTINF:-1,|AR| AL MAJD HADITH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5447.ts
-#EXTINF:-1,|AR| AL MAJD SCIENTIFIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5448.ts
-#EXTINF:-1,|AR| NOOR DUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2747.ts
-#EXTINF:-1,|AR| AL HAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5449.ts
-#EXTINF:-1,|AR| NOUR AL CHAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5450.ts
-#EXTINF:-1,|AR| AHL AL QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5451.ts
-#EXTINF:-1,|AR| WISAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5452.ts
-#EXTINF:-1,|AR| SAFA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2737.ts
-#EXTINF:-1,|AR| AZHARI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5453.ts
-#EXTINF:-1,|AR| KAYFA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5454.ts
-#EXTINF:-1,|AR| AL MAALI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5455.ts
-#EXTINF:-1,|AR| AL HUDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5457.ts
-#EXTINF:-1,|AR| AL HAKIKA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5458.ts
-#EXTINF:-1,--------★ ARABIC CHANNEL ★-------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2200.ts
-#EXTINF:-1,|AR| 2M MAROC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2585.ts
-#EXTINF:-1,|AR| AL AOULA INTER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2583.ts
-#EXTINF:-1,|AR| AL AOULA LAAYOUNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2584.ts
-#EXTINF:-1,|AR| ASSADISSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2587.ts
-#EXTINF:-1,|AR| AL MAGHRIBIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2590.ts
-#EXTINF:-1,|AR| ARRABIAA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2589.ts
-#EXTINF:-1,|AR| ARRIADIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2588.ts
-#EXTINF:-1,|AR| MEDI 1 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2586.ts
-#EXTINF:-1,|AR| TAMAZIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2742.ts
-#EXTINF:-1,|AR| LAAYOUNE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2650.ts
-#EXTINF:-1,|AR| BZAF MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3540.ts
-#EXTINF:-1,-------▼|AR| ALGERIE |AR|▼-------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2774.ts
-#EXTINF:-1,|AR| ALGERIE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2715.ts
-#EXTINF:-1,|AR| CANAL ALGERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2712.ts
-#EXTINF:-1,|AR| KBC ALGERIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3078.ts
-#EXTINF:-1,|AR| SAMIRA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2604.ts
-#EXTINF:-1,|AR| ENNAHAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3071.ts
-#EXTINF:-1,|AR| ECHOROUK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2673.ts
-#EXTINF:-1,|AR| ECHOUROUK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2714.ts
-#EXTINF:-1,|AR| ECHOROUK NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3075.ts
-#EXTINF:-1,|AR| ECHOROUK BENNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3076.ts
-#EXTINF:-1,|AR| AL HADAF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3489.ts
-#EXTINF:-1,|AR| EL HEDDAF TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3539.ts
-#EXTINF:-1,|AR| TV CORAN CZ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2682.ts
-#EXTINF:-1,|AR| TV TAMAZIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2591.ts
-#EXTINF:-1,|AR| NUMIDIA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3079.ts
-#EXTINF:-1,|AR| DZAIR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3072.ts
-#EXTINF:-1,|AR| DZAIR 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3074.ts
-#EXTINF:-1,|AR| DZAIR NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3073.ts
-#EXTINF:-1,|AR| BERBERE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3439.ts
-#EXTINF:-1,|AR| BERBERE MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3440.ts
-#EXTINF:-1,|AR| BERBERE JEUNESSE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3441.ts
-#EXTINF:-1,-------▼|AR| TUNISIE |AR|▼-------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2775.ts
-#EXTINF:-1,|AR| AL JANOUBIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2721.ts
-#EXTINF:-1,|AR| HANNIBAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2600.ts
-#EXTINF:-1,|AR| NESSMA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2602.ts
-#EXTINF:-1,|AR| TUNISIA NAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2598.ts
-#EXTINF:-1,|AR| TUNISIA NAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2599.ts
-#EXTINF:-1,|AR| TUNISIA FIRST TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3438.ts
-#EXTINF:-1,|AR| ZAYTOONA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3082.ts
-#EXTINF:-1,|AR| TUNISNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3081.ts
-#EXTINF:-1,|AR| ETTASIAA - tunisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5120.ts
-#EXTINF:-1,|AR| MAGHREB 24 TV - Tunisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5122.ts
-#EXTINF:-1,|AR| AL MUSTAKILLAH TV - tunisie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5121.ts
-#EXTINF:-1,|AR| AL HIWAR ETTOUNSI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3080.ts
-#EXTINF:-1,|AR| M TUNISIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3534.ts
-#EXTINF:-1,|AR| TNN TUNISIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3535.ts
-#EXTINF:-1,|AR| TELVZA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3538.ts
-#EXTINF:-1,|AR| ATTASI3A TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3536.ts
-#EXTINF:-1,|AR| AL INSEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3532.ts
-#EXTINF:-1,-------▼|AR| E.A.U. |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2781.ts
-#EXTINF:-1,|AR| MBC 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2592.ts
-#EXTINF:-1,|AR| MBC 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2593.ts
-#EXTINF:-1,|AR| MBC 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2594.ts
-#EXTINF:-1,|AR| MBC 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2595.ts
-#EXTINF:-1,|AR| MBC MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3068.ts
-#EXTINF:-1,|AR| MBC ACTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3067.ts
-#EXTINF:-1,|AR| MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2596.ts
-#EXTINF:-1,|AR| MBC BOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2597.ts
-#EXTINF:-1,|AR| MBC MISR 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5530.ts
-#EXTINF:-1,|AR| MBC MISR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5531.ts
-#EXTINF:-1,|AR| ART AFLAM 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2612.ts
-#EXTINF:-1,|AR| ART AFLAM 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2613.ts
-#EXTINF:-1,|AR| ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2614.ts
-#EXTINF:-1,|AR| ART HEKAYAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2615.ts
-#EXTINF:-1,|AR| ART HEKAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2616.ts
-#EXTINF:-1,|AR| AL RASHEED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2718.ts
-#EXTINF:-1,|AR| MTA 3 AL ARABIYAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2695.ts
-#EXTINF:-1,|AR| ONE TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2746.ts
-#EXTINF:-1,|AR| ORIENT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2689.ts
-#EXTINF:-1,|AR| SHARJAH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3543.ts
-#EXTINF:-1,|AR| SPACE TOON 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3448.ts
-#EXTINF:-1,|AR| MBC PRO SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3445.ts
-#EXTINF:-1,|AR| MBC PRO SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3446.ts
-#EXTINF:-1,|AR| MBC PRO SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3447.ts
-#EXTINF:-1,--------▼|AR| LIBAN |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2780.ts
-#EXTINF:-1,|AR| ALAAN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2717.ts
-#EXTINF:-1,|AR| FUTURE TV INT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2750.ts
-#EXTINF:-1,|AR| LBC SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2620.ts
-#EXTINF:-1,|AR| OTV LEBANON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2678.ts
-#EXTINF:-1,|AR| ROTANA AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3070.ts
-#EXTINF:-1,|AR| ROTANA CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2610.ts
-#EXTINF:-1,|AR| ROTANA CINEMA KSA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2611.ts
-#EXTINF:-1,|AR| ROTANA CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2609.ts
-#EXTINF:-1,|AR| ROTANA KHALEJIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3069.ts
-#EXTINF:-1,|AR| ROTANA KHALIJAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2607.ts
-#EXTINF:-1,|AR| ROTANA MASRIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2606.ts
-#EXTINF:-1,|AR| ROTANA CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2608.ts
-#EXTINF:-1,|AR| ROTANA MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2605.ts
-#EXTINF:-1,-----▼|AR| ROYAUME-UNI |AR|▼-----
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2813.ts
-#EXTINF:-1,|AR| CBC ABU DHABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2632.ts
-#EXTINF:-1,|AR| CBC 2 ABU DHABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2633.ts
-#EXTINF:-1,|AR| CBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2631.ts
-#EXTINF:-1,|AR| CBC EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2630.ts
-#EXTINF:-1,|AR| CBC SOFRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2629.ts
-#EXTINF:-1,|AR| BBC ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6254.ts
-#EXTINF:-1,-------▼|AR| SHOWTIME |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3085.ts
-#EXTINF:-1,|AR| OSN ALSAFWA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5547.ts
-#EXTINF:-1,|AR| OSN OFFICBOX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3059.ts
-#EXTINF:-1,|AR| OSN OFFICBOX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3060.ts
-#EXTINF:-1,|AR| OSN OFFICBOX 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3061.ts
-#EXTINF:-1,|AR| OSN ORBIT CINEMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3298.ts
-#EXTINF:-1,|AR| OSN ORBIT CINEMA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3299.ts
-#EXTINF:-1,|AR| OSN SERIES CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5546.ts
-#EXTINF:-1,|AR| OSN STAR MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5553.ts
-#EXTINF:-1,|AR| OSN STARWORLD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5552.ts
-#EXTINF:-1,|AR| OSN YAHALA SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5544.ts
-#EXTINF:-1,|AR| OSN ON-DEMAND HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3066.ts
-#EXTINF:-1,|AR| OSN ON-DEMAND EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3295.ts
-#EXTINF:-1,|AR| OSN MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3292.ts
-#EXTINF:-1,|AR| OSN MOVIE STAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3056.ts
-#EXTINF:-1,|AR| OSN MOVIES DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3293.ts
-#EXTINF:-1,|AR| OSN MOVIES PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3065.ts
-#EXTINF:-1,|AR| OSN MOVIES FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3054.ts
-#EXTINF:-1,|AR| OSN MOVIE KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3064.ts
-#EXTINF:-1,|AR| OSN FIRST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3301.ts
-#EXTINF:-1,|AR| OSN NAT-GEO-WILD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3302.ts
-#EXTINF:-1,|AR| OSN FIRST COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3063.ts
-#EXTINF:-1,|AR| OSN ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3062.ts
-#EXTINF:-1,|AR| OSN DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5550.ts
-#EXTINF:-1,|AR| OSN DISCOVERY FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5551.ts
-#EXTINF:-1,|AR| OSN NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5548.ts
-#EXTINF:-1,|AR| OSN NAT PEOPLE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5549.ts
-#EXTINF:-1,|AR| OSN ELYOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3057.ts
-#EXTINF:-1,|AR| OSN DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5545.ts
-#EXTINF:-1,|AR| CARTOON NETWORK ARABIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2674.ts
-#EXTINF:-1,|AR| OSN FANS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3294.ts
-#EXTINF:-1,|AR| OSN MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3058.ts
-#EXTINF:-1,|AR| OSN YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3300.ts
-#EXTINF:-1,|AR| OSN YAHAlA DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3055.ts
-#EXTINF:-1,|AR| OSN ACTION 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3296.ts
-#EXTINF:-1,|AR| OSN STAR WORLD HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3297.ts
-#EXTINF:-1,-------▼|AR| EGYPTE |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2779.ts
-#EXTINF:-1,|AR| CAIRO CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2625.ts
-#EXTINF:-1,|AR| CAIRO DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2624.ts
-#EXTINF:-1,|AR| CAIRO AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3560.ts
-#EXTINF:-1,|AR| EL SHARQ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2672.ts
-#EXTINF:-1,|AR| MELODY CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2697.ts
-#EXTINF:-1,|AR| MODERN SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2692.ts
-#EXTINF:-1,|AR| BLUE NILE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3551.ts
-#EXTINF:-1,|AR| TIME QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3557.ts
-#EXTINF:-1,|AR| TIME FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3558.ts
-#EXTINF:-1,|AR| TIME CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3559.ts
-#EXTINF:-1,|AR| TIME COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2623.ts
-#EXTINF:-1,|AR| NILE CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3544.ts
-#EXTINF:-1,|AR| NILE CULTURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3550.ts
-#EXTINF:-1,|AR| NILE DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3547.ts
-#EXTINF:-1,|AR| NILE FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3546.ts
-#EXTINF:-1,|AR| NILE LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3545.ts
-#EXTINF:-1,|AR| NILE NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3549.ts
-#EXTINF:-1,|AR| NILE SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3548.ts
-#EXTINF:-1,|AR| PANORAMA COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3555.ts
-#EXTINF:-1,|AR| PANORAMA DRAMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3552.ts
-#EXTINF:-1,|AR| PANORAMA DRAMA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3553.ts
-#EXTINF:-1,|AR| PANORAMA FILM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3554.ts
-#EXTINF:-1,|AR| PANORAMA FOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3556.ts
-#EXTINF:-1,|AR| WESAL TV - egypt religion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5512.ts
-#EXTINF:-1,--------▼|AR| LIBYE |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2776.ts
-#EXTINF:-1,|AR| AL NAHAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2667.ts
-#EXTINF:-1,|AR| AL NAHAR DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2666.ts
-#EXTINF:-1,|AR| LIBYA 218 TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2649.ts
-#EXTINF:-1,|AR| AL JAMAHIRIYA - Libye
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5123.ts
-#EXTINF:-1,-----▼|AR| AR. SAOUDI |AR|▼------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2777.ts
-#EXTINF:-1,|AR| AL AMAKEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2735.ts
-#EXTINF:-1,|AR| AL AMAKEN DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2734.ts
-#EXTINF:-1,|AR| MECCA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2693.ts
-#EXTINF:-1,|AR| SAOUDI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3531.ts
-#EXTINF:-1,|AR| SAUDI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2744.ts
-#EXTINF:-1,|AR| SAUDI QURAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3530.ts
-#EXTINF:-1,--------▼|AR| QATAR |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2778.ts
-#EXTINF:-1,|AR| AL JAZEERA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3083.ts
-#EXTINF:-1,|AR| AL JAZEERA MUBASHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2733.ts
-#EXTINF:-1,|AR| AL JAZEERA DOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3084.ts
-#EXTINF:-1,|AR| QATAR TODAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2687.ts
-#EXTINF:-1,|AR| BEIN MOVIES 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3524.ts
-#EXTINF:-1,|AR| BEIN MOVIES 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3525.ts
-#EXTINF:-1,|AR| BEIN MOVIES 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3526.ts
-#EXTINF:-1,|AR| BEIN MOVIES 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3527.ts
-#EXTINF:-1,|AR| BARAEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3450.ts
-#EXTINF:-1,--------▼|AR| DUBAÏ |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2782.ts
-#EXTINF:-1,|AR| DUBAI AL OULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2628.ts
-#EXTINF:-1,|AR| SAMAI DUBAI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2745.ts
-#EXTINF:-1,|AR| DUBAI DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2627.ts
-#EXTINF:-1,|AR| DUBAI ZAMAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2626.ts
-#EXTINF:-1,|AR| DUBAI SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2770.ts
-#EXTINF:-1,|AR| DUBAI SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2772.ts
-#EXTINF:-1,|AR| DUBAI RACING 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2771.ts
-#EXTINF:-1,------▼|AR| JORDANIE |AR|▼-------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2784.ts
-#EXTINF:-1,|AR| AGHANINA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2724.ts
-#EXTINF:-1,|AR| KARAMEESH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3449.ts
-#EXTINF:-1,|AR| JORDAN SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2708.ts
-#EXTINF:-1,-------▼|AR| KOWEIT |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2800.ts
-#EXTINF:-1,|AR| KUWAIT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2698.ts
-#EXTINF:-1,|AR| KUWAIT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6073.ts
-#EXTINF:-1,|AR| KUWAIT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6074.ts
-#EXTINF:-1,|AR| KUWAIT AL ARABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6075.ts
-#EXTINF:-1,|AR| KUWAIT XTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6077.ts
-#EXTINF:-1,|AR| KUWAIT PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6076.ts
-#EXTINF:-1,|AR| AL RESALAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2728.ts
-#EXTINF:-1,|AR| AL RESALAH - Koweit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/3528.ts
-#EXTINF:-1,|AR| KTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2703.ts
-#EXTINF:-1,|AR| KTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2704.ts
-#EXTINF:-1,|AR| KTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2705.ts
-#EXTINF:-1,|AR| KTV AL ARABI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2702.ts
-#EXTINF:-1,|AR| KUWAIT SPORTS PLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2699.ts
-#EXTINF:-1,--------▼|AR| SYRIE |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2814.ts
-#EXTINF:-1,|AR| SYRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5532.ts
-#EXTINF:-1,|AR| SYRIA ALIKHBARIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5537.ts
-#EXTINF:-1,|AR| SYRIA ALOULA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5534.ts
-#EXTINF:-1,|AR| SYRIA DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5535.ts
-#EXTINF:-1,|AR| SYRIA NOUR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5536.ts
-#EXTINF:-1,|AR| SYRIA SAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5533.ts
-#EXTINF:-1,|AR| MASSAYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2741.ts
-#EXTINF:-1,--------▼|AR| IRAK |AR|▼---------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2788.ts
-#EXTINF:-1,|AR| AL SUMARIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2662.ts
-#EXTINF:-1,|AR| ALDIYAR SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2660.ts
-#EXTINF:-1,|AR| AL MASAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2637.ts
-#EXTINF:-1,|AR| AL RAFIDEN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2636.ts
-#EXTINF:-1,|AR| KNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2638.ts
-#EXTINF:-1,|AR| SHARQIYA NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2647.ts
-#EXTINF:-1,|AR| SHARQIYA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2646.ts
-#EXTINF:-1,--------▼|AR| IRAN |AR|▼---------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2789.ts
-#EXTINF:-1,|AR| AL ALAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2736.ts
-#EXTINF:-1,|AR| IFILM ENGLISH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2709.ts
-#EXTINF:-1,-------▼|AR| SOUDAN |AR|▼--------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2804.ts
-#EXTINF:-1,|AR| ASHOROOQ TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2713.ts
-#EXTINF:-1,------▼|AR| INDEFINI |AR|▼-------
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2815.ts
-#EXTINF:-1,|AR| 24 NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2641.ts
-#EXTINF:-1,|AR| AL DAFRAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2670.ts
-#EXTINF:-1,|AR| AL ETJAH TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2722.ts
-#EXTINF:-1,|AR| AL GHAD AL ARABY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2669.ts
-#EXTINF:-1,|AR| AL MA ALY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2731.ts
-#EXTINF:-1,|AR| AL MASDAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2730.ts
-#EXTINF:-1,|AR| AL MASRAWEYA AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2729.ts
-#EXTINF:-1,|AR| AL NAEEM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2719.ts
-#EXTINF:-1,|AR| AL NOUJABA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2665.ts
-#EXTINF:-1,|AR| AL SEHA WALJAMAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2640.ts
-#EXTINF:-1,|AR| AL SHAMAL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2663.ts
-#EXTINF:-1,|AR| AL WAAD CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2661.ts
-#EXTINF:-1,|AR| AL HAYAT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6069.ts
-#EXTINF:-1,|AR| AL HAYAT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6070.ts
-#EXTINF:-1,|AR| AL HAYAT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6071.ts
-#EXTINF:-1,|AR| ALHAYAH ALAAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2659.ts
-#EXTINF:-1,|AR| ALTHANYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2658.ts
-#EXTINF:-1,|AR| AL HAYAT CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6072.ts
-#EXTINF:-1,|AR| BELQEES TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2755.ts
-#EXTINF:-1,|AR| BIN OTHAIMEEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2754.ts
-#EXTINF:-1,|AR| CINEMA PRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2711.ts
-#EXTINF:-1,|AR| EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2710.ts
-#EXTINF:-1,|AR| FACE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2753.ts
-#EXTINF:-1,|AR| FADAK TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2752.ts
-#EXTINF:-1,|AR| MOHABAT TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2749.ts
-#EXTINF:-1,|AR| MIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2696.ts
-#EXTINF:-1,|AR| NOON KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2691.ts
-#EXTINF:-1,|AR| PLAY AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2688.ts
-#EXTINF:-1,|AR| RAWABI TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2739.ts
-#EXTINF:-1,|AR| RUSIYA AL-YAUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2675.ts
-#EXTINF:-1,|AR| SANAA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2648.ts
-#EXTINF:-1,|AR| STAR CINEMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2621.ts
-#EXTINF:-1,|AR| STAR CINEMA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2622.ts
-#EXTINF:-1,|AR| TALAQIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5538.ts
-#EXTINF:-1,|AR| SAT7 KIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5511.ts
-#EXTINF:-1,|AR| MTV LEBANON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5541.ts
-#EXTINF:-1,|AR| MARAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5540.ts
-#EXTINF:-1,|AR| HALAB TODAY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5539.ts
-#EXTINF:-1,|AR| ALMAYADEEN-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/6255.ts
-#EXTINF:-1,|AR| ALJADEED
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5542.ts
-#EXTINF:-1,|AR| AL MANAR TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/5543.ts
-#EXTINF:-1,|AR| TOK TOK CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2645.ts
-#EXTINF:-1,|AR| ZEE AFLAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2643.ts
-#EXTINF:-1,|AR| ZEE ALWAN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.81.138:8000/live/nicolasbelpaire/0r3znJHgrg/2642.ts
+#EXTINF:0,Tunisia1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/368.ts
+#EXTINF:0,Tunisia2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/369.ts
+#EXTINF:0,Ettounisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/370.ts
+#EXTINF:0,Nessma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/372.ts
+#EXTINF:0,Hannibal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/371.ts
+#EXTINF:0,Attessia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/375.ts
+#EXTINF:0,Tunisna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/374.ts
+#EXTINF:0,Aljanoubia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/376.ts
+#EXTINF:0,Tnn-Tunisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/378.ts
+#EXTINF:0,Almutawasit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/383.ts
+#EXTINF:0,Zaytouna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/380.ts
+#EXTINF:0,Telvza-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/373.ts
+#EXTINF:0,M-tunisia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/379.ts
+#EXTINF:0,Firs-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/377.ts
+#EXTINF:0,ShemFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/892.ts
+#EXTINF:0,CapFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/905.ts
+#EXTINF:0,MosaiqueFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/891.ts
+#EXTINF:0,IFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/903.ts
+#EXTINF:0,KnoozFM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/904.ts
+#EXTINF:0,—Bein-Sp———————–
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/885.ts
+#EXTINF:0,BeinSport-HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1033.ts
+#EXTINF:0,BeinSport-HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1031.ts
+#EXTINF:0,BeinSport-HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1030.ts
+#EXTINF:0,BeinSport-HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1029.ts
+#EXTINF:0,BeinSport-HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1028.ts
+#EXTINF:0,BeinSport-HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1027.ts
+#EXTINF:0,BeinSport-HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1026.ts
+#EXTINF:0,BeinSport-HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1025.ts
+#EXTINF:0,BeinSport-HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1024.ts
+#EXTINF:0,BeinSport-HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1032.ts
+#EXTINF:0,BEIN-S1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/528.ts
+#EXTINF:0,BEIN-S2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/529.ts
+#EXTINF:0,BEIN-S3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/530.ts
+#EXTINF:0,BEIN-S4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/531.ts
+#EXTINF:0,BEIN-S5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/532.ts
+#EXTINF:0,BEIN-S6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/533.ts
+#EXTINF:0,BEIN-S7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/534.ts
+#EXTINF:0,BEIN-S8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/535.ts
+#EXTINF:0,BEIN-S9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/536.ts
+#EXTINF:0,BEIN-S10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/537.ts
+#EXTINF:0,BEIN-S11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/538.ts
+#EXTINF:0,BEIN-S12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/539.ts
+#EXTINF:0,BEIN-S13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/540.ts
+#EXTINF:0,BEIN-S14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/541.ts
+#EXTINF:0,BEIN-S16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/543.ts
+#EXTINF:0,BEIN_MOVIES_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/952.ts
+#EXTINF:0,BEIN_MOVIES_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/953.ts
+#EXTINF:0,Bein-Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/603.ts
+#EXTINF:0,Bein-Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/604.ts
+#EXTINF:0,Bein-Sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/605.ts
+#EXTINF:0,Bein-sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1463.ts
+#EXTINF:0,Alkass-sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/815.ts
+#EXTINF:0,Alkass-sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/816.ts
+#EXTINF:0,Alkass-sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/817.ts
+#EXTINF:0,Alkass-sport4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/818.ts
+#EXTINF:0,BEIN-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/526.ts
+#EXTINF:0,—OSN———————-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1126.ts
+#EXTINF:0,OSN_MOVIES_FESTIVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1125.ts
+#EXTINF:0,OSN_MOVIES_DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1124.ts
+#EXTINF:0,OSN_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1123.ts
+#EXTINF:0,OSN_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1122.ts
+#EXTINF:0,OSN-YAHALA-SHABAB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1121.ts
+#EXTINF:0,OSN-Yahala-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1120.ts
+#EXTINF:0,OSN-YAHAlA-DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1119.ts
+#EXTINF:0,OSN-YAHALA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1118.ts
+#EXTINF:0,OSN-ORBIT-CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1116.ts
+#EXTINF:0,OSN-ORBIT-CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1117.ts
+#EXTINF:0,OSN-On-Demand-Extra-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1114.ts
+#EXTINF:0,OSN-OFFICBOX1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1111.ts
+#EXTINF:0,OSN-OFFICBOX2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1112.ts
+#EXTINF:0,OSN-Movies-Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1110.ts
+#EXTINF:0,OSN-Movie-kids-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1109.ts
+#EXTINF:0,OSN-MBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1108.ts
+#EXTINF:0,OSN-ELYOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1107.ts
+#EXTINF:0,OSN-Discovery-Science-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1106.ts
+#EXTINF:0,OSN-DISCOVERY-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1105.ts
+#EXTINF:0,OSN-COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1104.ts
+#EXTINF:0,OSN-Animal-Planet-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1103.ts
+#EXTINF:0,OSN-ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1102.ts
+#EXTINF:0,—ARABIC——————
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/886.ts
+#EXTINF:0,MBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/388.ts
+#EXTINF:0,Mbc2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/387.ts
+#EXTINF:0,MBC-kIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/504.ts
+#EXTINF:0,Mbc4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/389.ts
+#EXTINF:0,Mbc-Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/386.ts
+#EXTINF:0,Mbc-MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/390.ts
+#EXTINF:0,Mbc-MASR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/391.ts
+#EXTINF:0,Mbc-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/392.ts
+#EXTINF:0,Mbc-Bolly
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/384.ts
+#EXTINF:0,Mbc-Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/385.ts
+#EXTINF:0,Zee-Alwan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/393.ts
+#EXTINF:0,Rotana_Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/516.ts
+#EXTINF:0,RotanaKhaliji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/517.ts
+#EXTINF:0,RotanaCLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/514.ts
+#EXTINF:0,Rotana-Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/515.ts
+#EXTINF:0,Rotana-masria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/412.ts
+#EXTINF:0,Rotana-classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/413.ts
+#EXTINF:0,Rotana-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/411.ts
+#EXTINF:0,Rotana-Aflem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/410.ts
+#EXTINF:0,Melody-Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/881.ts
+#EXTINF:0,Cbc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/460.ts
+#EXTINF:0,Cbc-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/461.ts
+#EXTINF:0,CBC-Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/464.ts
+#EXTINF:0,CBC-Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/463.ts
+#EXTINF:0,Cbc-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/462.ts
+#EXTINF:0,Rotana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/513.ts
+#EXTINF:0,Cinema-osn-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/800.ts
+#EXTINF:0,Cinema-osn2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/799.ts
+#EXTINF:0,Aflam1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/405.ts
+#EXTINF:0,Aflam2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/406.ts
+#EXTINF:0,Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/407.ts
+#EXTINF:0,Hekayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/408.ts
+#EXTINF:0,Hekayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/409.ts
+#EXTINF:0,Zee-Aflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/414.ts
+#EXTINF:0,Toyor-Janah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/510.ts
+#EXTINF:0,Majd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/498.ts
+#EXTINF:0,Iqraa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/496.ts
+#EXTINF:0,Toyor-Baby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/511.ts
+#EXTINF:0,Saoudi1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1057.ts
+#EXTINF:0,Saoudi2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1058.ts
+#EXTINF:0,Saoudi-sonnah
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1055.ts
+#EXTINF:0,Saoudi-Ekberia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1056.ts
+#EXTINF:0,Saudi-Mekka
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/897.ts
+#EXTINF:0,Mehwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/899.ts
+#EXTINF:0,almasria1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/984.ts
+#EXTINF:0,almasria2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/985.ts
+#EXTINF:0,I24-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/898.ts
+#EXTINF:0,Time-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/436.ts
+#EXTINF:0,Time-Taxi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/812.ts
+#EXTINF:0,Star-Cin2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/427.ts
+#EXTINF:0,Cinema-Shobra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/895.ts
+#EXTINF:0,Abu-dhabi-yass
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/900.ts
+#EXTINF:0,Moga-Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/894.ts
+#EXTINF:0,Time-comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/813.ts
+#EXTINF:0,Time-cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/814.ts
+#EXTINF:0,star-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/425.ts
+#EXTINF:0,Samira-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/467.ts
+#EXTINF:0,Tamazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/792.ts
+#EXTINF:0,Otv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/788.ts
+#EXTINF:0,NBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/778.ts
+#EXTINF:0,Mtv-lebanon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/819.ts
+#EXTINF:0,Lbc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/472.ts
+#EXTINF:0,Melody-classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/789.ts
+#EXTINF:0,Manartv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/777.ts
+#EXTINF:0,Heya-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/779.ts
+#EXTINF:0,BeurTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/880.ts
+#EXTINF:0,Jsc-Mubasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1063.ts
+#EXTINF:0,Jsc-Chidren
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1064.ts
+#EXTINF:0,Jsc-Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1065.ts
+#EXTINF:0,ECHOUROUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/795.ts
+#EXTINF:0,Cn-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/783.ts
+#EXTINF:0,AR.Numedia_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1016.ts
+#EXTINF:0,AR.Lindex_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1023.ts
+#EXTINF:0,AR.Laki_ENNAHAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1014.ts
+#EXTINF:0,AR.KBC_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1020.ts
+#EXTINF:0,AR.ENTV_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1003.ts
+#EXTINF:0,AR.ENNAHAR_algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1013.ts
+#EXTINF:0,AR.El_Magharibya_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1012.ts
+#EXTINF:0,AR.El_Magharibya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1011.ts
+#EXTINF:0,AR.EL_HADDAF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1022.ts
+#EXTINF:0,AR.EL_Djazairia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1015.ts
+#EXTINF:0,AR.EL_Biled
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1021.ts
+#EXTINF:0,AR.Echourouk_news
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1010.ts
+#EXTINF:0,AR.Echerouk_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1008.ts
+#EXTINF:0,AR.Echerouk_Benna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1009.ts
+#EXTINF:0,AR.Dzair_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1017.ts
+#EXTINF:0,AR.Dzair24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1019.ts
+#EXTINF:0,AR.Dzair21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1018.ts
+#EXTINF:0,AR.Canal_Algerie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1004.ts
+#EXTINF:0,AR.Algerie5_Quoran
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1007.ts
+#EXTINF:0,AR.Algerie3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1005.ts
+#EXTINF:0,AR.ALGERIAN_amazight
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1006.ts
+#EXTINF:0,CinemaPro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/787.ts
+#EXTINF:0,Bzaflive
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/794.ts
+#EXTINF:0,Arabica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/781.ts
+#EXTINF:0,Alriadhia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/791.ts
+#EXTINF:0,Alqods
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/782.ts
+#EXTINF:0,Alnas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/503.ts
+#EXTINF:0,TVA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/793.ts
+#EXTINF:0,KBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/879.ts
+#EXTINF:0,Toktok-cine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/786.ts
+#EXTINF:0,Toktok-Cima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/430.ts
+#EXTINF:0,Sama-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/797.ts
+#EXTINF:0,Sat7Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/785.ts
+#EXTINF:0,Sat7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/784.ts
+#EXTINF:0,National-Geo-AD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/798.ts
+#EXTINF:0,Nile-Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/455.ts
+#EXTINF:0,Nile-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/983.ts
+#EXTINF:0,Nile-family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/456.ts
+#EXTINF:0,Nile-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/457.ts
+#EXTINF:0,Nile-Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/810.ts
+#EXTINF:0,Nile-cima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/424.ts
+#EXTINF:0,Syria-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/450.ts
+#EXTINF:0,Panorama-comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/428.ts
+#EXTINF:0,panorama-food
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/429.ts
+#EXTINF:0,PanoramaAC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/422.ts
+#EXTINF:0,Panoram-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/453.ts
+#EXTINF:0,Panorama-Drama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/454.ts
+#EXTINF:0,Cairo-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/452.ts
+#EXTINF:0,Cairo-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/431.ts
+#EXTINF:0,AD-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/439.ts
+#EXTINF:0,Oscarcine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/432.ts
+#EXTINF:0,Oscar-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/451.ts
+#EXTINF:0,Karameech
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/507.ts
+#EXTINF:0,Arabia-hadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/396.ts
+#EXTINF:0,AR:SAT7-ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1507.ts
+#EXTINF:0,AR:Rudaw-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1509.ts
+#EXTINF:0,AR–Zing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1505.ts
+#EXTINF:0,Althanya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1287.ts
+#EXTINF:0,Alsumaria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/466.ts
+#EXTINF:0,ALnahar-one
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1288.ts
+#EXTINF:0,Almustakila
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/381.ts
+#EXTINF:0,AlMayaden
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1457.ts
+#EXTINF:0,AlManar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/478.ts
+#EXTINF:0,Alkass
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/525.ts
+#EXTINF:0,AlKahera-WalNas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/479.ts
+#EXTINF:0,aljadeed
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1459.ts
+#EXTINF:0,Alhayat-We-Alnas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1290.ts
+#EXTINF:0,ALHadath
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1274.ts
+#EXTINF:0,Alanwar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/780.ts
+#EXTINF:0,AlAhlyTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1281.ts
+#EXTINF:0,ALAANTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1286.ts
+#EXTINF:0,Hawas-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/438.ts
+#EXTINF:0,Fox-Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/418.ts
+#EXTINF:0,Mody
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/505.ts
+#EXTINF:0,Spacetoon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/508.ts
+#EXTINF:0,Future
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/473.ts
+#EXTINF:0,Fox-Movie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/419.ts
+#EXTINF:0,Dubai-one
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/421.ts
+#EXTINF:0,Dubai-Dra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/443.ts
+#EXTINF:0,Dubai-zaman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1060.ts
+#EXTINF:0,Dubai-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1061.ts
+#EXTINF:0,Dubai-Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1062.ts
+#EXTINF:0,Dubai-AlOula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/445.ts
+#EXTINF:0,El-Djazairia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/488.ts
+#EXTINF:0,Dzair-25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/493.ts
+#EXTINF:0,Dzair-24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/492.ts
+#EXTINF:0,Dzair-21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/491.ts
+#EXTINF:0,Dzair-19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/490.ts
+#EXTINF:0,DTV-AlgÃplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/494.ts
+#EXTINF:0,CNBC-Arabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/400.ts
+#EXTINF:0,CnArabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/509.ts
+#EXTINF:0,Medi-1TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/486.ts
+#EXTINF:0,Mbc-pro1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/544.ts
+#EXTINF:0,Mbc-Pro2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/545.ts
+#EXTINF:0,Mbc-Pro3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/546.ts
+#EXTINF:0,Mbc-Pro4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/547.ts
+#EXTINF:0,Mazika-Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/519.ts
+#EXTINF:0,Mazika
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/518.ts
+#EXTINF:0,AlnaharDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/458.ts
+#EXTINF:0,Almajd3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/495.ts
+#EXTINF:0,ALjazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/394.ts
+#EXTINF:0,Alhayet-S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/449.ts
+#EXTINF:0,Alhayet-Musalsalet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/448.ts
+#EXTINF:0,Alhayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/470.ts
+#EXTINF:0,Alhayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/469.ts
+#EXTINF:0,2M-Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/482.ts
+#EXTINF:0,Algerie-3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/489.ts
+#EXTINF:0,ALarabia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/395.ts
+#EXTINF:0,Alafasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/499.ts
+#EXTINF:0,Al-Maghribia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/483.ts
+#EXTINF:0,Al-Aoula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/485.ts
+#EXTINF:0,Ajman-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/481.ts
+#EXTINF:0,AD-Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/522.ts
+#EXTINF:0,AD-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/521.ts
+#EXTINF:0,JSc-Docum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/402.ts
+#EXTINF:0,Majestic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/437.ts
+#EXTINF:0,Maghreb24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/487.ts
+#EXTINF:0,AD-Aloula
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/442.ts
+#EXTINF:0,Abu-dhabi-racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/901.ts
+#EXTINF:0,BBC-arab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/398.ts
+#EXTINF:0,Baraem
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/506.ts
+#EXTINF:0,Assadissa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/484.ts
+#EXTINF:0,Abu-Dhabi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/441.ts
+#EXTINF:0,AD-Natgeo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/403.ts
+#EXTINF:0,AD-Emarat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/440.ts
+#EXTINF:0,AlnaharDrama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/459.ts
+#EXTINF:0,Dream
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/474.ts
+#EXTINF:0,Dream2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/475.ts
+#EXTINF:0,Cima
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/423.ts
+#EXTINF:0,—CsatFR—————————
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/887.ts
+#EXTINF:0,M6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/564.ts
+#EXTINF:0,TF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/563.ts
+#EXTINF:0,W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/566.ts
+#EXTINF:0,NT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/878.ts
+#EXTINF:0,NRJ12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/877.ts
+#EXTINF:0,HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1270.ts
+#EXTINF:0,TMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1272.ts
+#EXTINF:0,Disney-channel-fr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1271.ts
+#EXTINF:0,Kombat-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1269.ts
+#EXTINF:0,Canal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/548.ts
+#EXTINF:0,Canal-Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/549.ts
+#EXTINF:0,Canal-Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/551.ts
+#EXTINF:0,Canal-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/602.ts
+#EXTINF:0,Canal-Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/552.ts
+#EXTINF:0,Canal-Decale
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/550.ts
+#EXTINF:0,Cine-Premier
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/554.ts
+#EXTINF:0,Cine-Frisson
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/553.ts
+#EXTINF:0,Cine-Famiz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/557.ts
+#EXTINF:0,Cine-Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/555.ts
+#EXTINF:0,Cine-Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/556.ts
+#EXTINF:0,TEVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/583.ts
+#EXTINF:0,VOYAGE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/592.ts
+#EXTINF:0,USHUAIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/593.ts
+#EXTINF:0,Chasse-Peche
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/883.ts
+#EXTINF:0,Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/853.ts
+#EXTINF:0,TV5-Monde
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/401.ts
+#EXTINF:0,Tv-Breizh
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/575.ts
+#EXTINF:0,TELETOONplus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/620.ts
+#EXTINF:0,TIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/614.ts
+#EXTINF:0,Serie-Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/579.ts
+#EXTINF:0,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/584.ts
+#EXTINF:0,SRF-Zwei
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/623.ts
+#EXTINF:0,SRF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/622.ts
+#EXTINF:0,RTS-Un
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/624.ts
+#EXTINF:0,RTS-Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/625.ts
+#EXTINF:0,SPORT365
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/606.ts
+#EXTINF:0,PLANETE-AE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/588.ts
+#EXTINF:0,PLANETE-CI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/587.ts
+#EXTINF:0,PlANETE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/586.ts
+#EXTINF:0,Paris-Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/576.ts
+#EXTINF:0,Ocs-Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/561.ts
+#EXTINF:0,Ocs-Geant
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/560.ts
+#EXTINF:0,Ocs-City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/558.ts
+#EXTINF:0,Ocs-CHoc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/559.ts
+#EXTINF:0,NATIONAL-GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/598.ts
+#EXTINF:0,France24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/397.ts
+#EXTINF:0,JUNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/585.ts
+#EXTINF:0,HISTOIRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/597.ts
+#EXTINF:0,France2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/569.ts
+#EXTINF:0,France3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/570.ts
+#EXTINF:0,France4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/571.ts
+#EXTINF:0,France5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/572.ts
+#EXTINF:0,France0
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/573.ts
+#EXTINF:0,FOOT24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/607.ts
+#EXTINF:0,Eurosport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/608.ts
+#EXTINF:0,NFOSPORTPLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1273.ts
+#EXTINF:0,Eurosport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/609.ts
+#EXTINF:0,EQUIDIA-LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/610.ts
+#EXTINF:0,DISNEY-CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/619.ts
+#EXTINF:0,DISCOVERY-SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/601.ts
+#EXTINF:0,D8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/567.ts
+#EXTINF:0,D17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/568.ts
+#EXTINF:0,Piwi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/882.ts
+#EXTINF:0,BOOMERANG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/613.ts
+#EXTINF:0,6Ter
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/565.ts
+#EXTINF:0,13Eme-RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/578.ts
+#EXTINF:0,CANALJ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/612.ts
+#EXTINF:0,RTL-TVI-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1215.ts
+#EXTINF:0,PLUG-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1216.ts
+#EXTINF:0,LA-UNE-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1217.ts
+#EXTINF:0,LA-DEUX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1219.ts
+#EXTINF:0,LA-TROIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1218.ts
+#EXTINF:0,CLUB-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1220.ts
+#EXTINF:0,—Sky-It————————–
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/888.ts
+#EXTINF:0,Sky-Cinema-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/821.ts
+#EXTINF:0,Sky-ITCinema1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/849.ts
+#EXTINF:0,Sky-IT-PassionHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/850.ts
+#EXTINF:0,Sky-ITHitsHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/847.ts
+#EXTINF:0,Sky-ITFamilyHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/851.ts
+#EXTINF:0,Sky-IT-ComedyHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/852.ts
+#EXTINF:0,Sky-ITClassicHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/848.ts
+#EXTINF:0,SkyITNatGeoWild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/918.ts
+#EXTINF:0,SkyITDisneyJunior1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/935.ts
+#EXTINF:0,SkyITDisneyJunior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/936.ts
+#EXTINF:0,SkyITCinemaMax1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/942.ts
+#EXTINF:0,SkyITCinemaCult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/945.ts
+#EXTINF:0,SkyITCinemaClassics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/947.ts
+#EXTINF:0,Sky-Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/651.ts
+#EXTINF:0,Sky-Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/652.ts
+#EXTINF:0,SKYCACLIO1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1178.ts
+#EXTINF:0,SKYCALCIO5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1182.ts
+#EXTINF:0,SkyITCalcio1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/948.ts
+#EXTINF:0,SkyCalcio3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/932.ts
+#EXTINF:0,SkyCalcio4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/931.ts
+#EXTINF:0,SkyCalcio5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/930.ts
+#EXTINF:0,SkyCalcio6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/929.ts
+#EXTINF:0,SkyCalcio7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/928.ts
+#EXTINF:0,SkyMotoGPHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/846.ts
+#EXTINF:0,SkySport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/841.ts
+#EXTINF:0,SkySportF1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/842.ts
+#EXTINF:0,SkySport24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/843.ts
+#EXTINF:0,SkyCalcio1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/844.ts
+#EXTINF:0,Sky-Calcio2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/845.ts
+#EXTINF:0,Sky-Uno-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1226.ts
+#EXTINF:0,Sky-Supercalcio-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1227.ts
+#EXTINF:0,Sky-Super-Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1228.ts
+#EXTINF:0,Sky-Sports-24-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1229.ts
+#EXTINF:0,Sky-Sport-F1-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1222.ts
+#EXTINF:0,Sky-MotoGP-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1230.ts
+#EXTINF:0,Sky-Sport 3-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1224.ts
+#EXTINF:0,Sky-Sport-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1221.ts
+#EXTINF:0,Sky-Fox-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1231.ts
+#EXTINF:0,Rai-Sport-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1236.ts
+#EXTINF:0,Rai-Sport-2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1235.ts
+#EXTINF:0,Fox-Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1234.ts
+#EXTINF:0,Eurosport-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1232.ts
+#EXTINF:0,Eurosport-2-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1233.ts
+#EXTINF:0,Rete-4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/627.ts
+#EXTINF:0,Italia-Uno
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/626.ts
+#EXTINF:0,Canal-5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/628.ts
+#EXTINF:0,Rai1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/836.ts
+#EXTINF:0,Rai2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/837.ts
+#EXTINF:0,Rai3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/838.ts
+#EXTINF:0,caccia-Pesca
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/811.ts
+#EXTINF:0,PRE_CINEMA_EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1097.ts
+#EXTINF:0,Premium_Stories
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1090.ts
+#EXTINF:0,Premium_Emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1082.ts
+#EXTINF:0,Premium_Crime_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1091.ts
+#EXTINF:0,Premium_Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1084.ts
+#EXTINF:0,PREMIUM_CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1092.ts
+#EXTINF:0,Premium_Cinema_2_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1083.ts
+#EXTINF:0,Premium_Cinema_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1086.ts
+#EXTINF:0,Premium_Cinema-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1087.ts
+#EXTINF:0,Premium_BBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1089.ts
+#EXTINF:0,Premium_ Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1093.ts
+#EXTINF:0,PREMIUM CINEMHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1094.ts
+#EXTINF:0,Premium BBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1085.ts
+#EXTINF:0,PRE-CINEMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1095.ts
+#EXTINF:0,PRIMAFILA1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1153.ts
+#EXTINF:0,PRIMAFILA2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1154.ts
+#EXTINF:0,PRIMAFILA3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1155.ts
+#EXTINF:0,PRIMAFILA4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1156.ts
+#EXTINF:0,PRIMAFILA5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1157.ts
+#EXTINF:0,PRIMAFILA6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1158.ts
+#EXTINF:0,PRIMAFILA7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1159.ts
+#EXTINF:0,PRIMAFILA8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1160.ts
+#EXTINF:0,PRIMAFILA9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1161.ts
+#EXTINF:0,PRIMAFILA10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1162.ts
+#EXTINF:0,PRIMAFILA11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1163.ts
+#EXTINF:0,PRIMAFILA12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1164.ts
+#EXTINF:0,PRIMAFILA13HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1165.ts
+#EXTINF:0,PRIMAFILA14HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1166.ts
+#EXTINF:0,PRIMAFILA15HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1167.ts
+#EXTINF:0,—Mediaset-IT—————————–
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1188.ts
+#EXTINF:0,PREMIUM-STORIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1196.ts
+#EXTINF:0,PREMIUM-SPORTHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1197.ts
+#EXTINF:0,PREMIUM-JOIHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1189.ts
+#EXTINF:0,PREMIUM-ENERGY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1198.ts
+#EXTINF:0,PREMIUM-EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1199.ts
+#EXTINF:0,PREMIUM-CRIMEHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1200.ts
+#EXTINF:0,PREMIUM-COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1202.ts
+#EXTINF:0,PREMIUM-CINEMAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1203.ts
+#EXTINF:0,PREMIUM-CINEMA2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1192.ts
+#EXTINF:0,MEDIASET-ITALIA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1193.ts
+#EXTINF:0,MEDIASET-EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1194.ts
+#EXTINF:0,—Sky-DE——————————–
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/889.ts
+#EXTINF:0,ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/832.ts
+#EXTINF:0,VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/833.ts
+#EXTINF:0,super-rtl
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/954.ts
+#EXTINF:0,Sky-DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/822.ts
+#EXTINF:0,Skyde-sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/992.ts
+#EXTINF:0,SkySport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/834.ts
+#EXTINF:0,Sky-BundesLiga1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/824.ts
+#EXTINF:0,Sky-Cinema1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/823.ts
+#EXTINF:0,Sky007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/986.ts
+#EXTINF:0,Sky-nostalgie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/991.ts
+#EXTINF:0,Sky-krimi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/988.ts
+#EXTINF:0,Sky-emotion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/989.ts
+#EXTINF:0,Sky-atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/990.ts
+#EXTINF:0,Sky-action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/987.ts
+#EXTINF:0,Sky-Comedy-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/820.ts
+#EXTINF:0,sky-cinemaplus1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/981.ts
+#EXTINF:0,sky-cinema24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/982.ts
+#EXTINF:0,Sky-Action-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/825.ts
+#EXTINF:0,skyhits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/980.ts
+#EXTINF:0,syfy-de
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/979.ts
+#EXTINF:0,mgm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/978.ts
+#EXTINF:0,NdrHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/829.ts
+#EXTINF:0,N24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/830.ts
+#EXTINF:0,N-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/831.ts
+#EXTINF:0,BlizzHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/828.ts
+#EXTINF:0,Skyselect1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1002.ts
+#EXTINF:0,Skyselect2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1001.ts
+#EXTINF:0,Skyselect3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1000.ts
+#EXTINF:0,Skyselect4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/999.ts
+#EXTINF:0,Skyselect5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/998.ts
+#EXTINF:0,SkySelect6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/997.ts
+#EXTINF:0,SkySelect7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/996.ts
+#EXTINF:0,SkySelect8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/995.ts
+#EXTINF:0,SkySelect9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/994.ts
+#EXTINF:0,—Digitalplus———————
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1152.ts
+#EXTINF:0,TELECINCOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1245.ts
+#EXTINF:0,NATGEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1246.ts
+#EXTINF:0,LASEXTA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1247.ts
+#EXTINF:0,LA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1248.ts
+#EXTINF:0,LA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1249.ts
+#EXTINF:0,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1250.ts
+#EXTINF:0,GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1251.ts
+#EXTINF:0,EXTREMADURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1252.ts
+#EXTINF:0,CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1254.ts
+#EXTINF:0,CAZAYPESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1255.ts
+#EXTINF:0,CANALSERIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1262.ts
+#EXTINF:0,CANALLALIGA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1257.ts
+#EXTINF:0,CANALLALIGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1256.ts
+#EXTINF:0,CANALFUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1263.ts
+#EXTINF:0,CANALESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1258.ts
+#EXTINF:0,CANALDEPORTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1264.ts
+#EXTINF:0,CANALDCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1259.ts
+#EXTINF:0,CANALCOMEDIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1260.ts
+#EXTINF:0,CANALACCION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1261.ts
+#EXTINF:0,CALLE13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1265.ts
+#EXTINF:0,BEINESPAÃplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1266.ts
+#EXTINF:0,ANTENASERIESHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1267.ts
+#EXTINF:0,ANTENA3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1268.ts
+#EXTINF:0,—Sky-Uk————————–
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/890.ts
+#EXTINF:0,SkyUKSport1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/859.ts
+#EXTINF:0,SkyUKSport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/858.ts
+#EXTINF:0,SkyUKSport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/857.ts
+#EXTINF:0,SkyUKSport4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/856.ts
+#EXTINF:0,SkyUKSport5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/855.ts
+#EXTINF:0,SkyThrillerUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/867.ts
+#EXTINF:0,SkyShowCaseUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/868.ts
+#EXTINF:0,SkySelectUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/869.ts
+#EXTINF:0,SkySci-FihorrorUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/875.ts
+#EXTINF:0,SkyITMaxhd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/854.ts
+#EXTINF:0,SkyGreatsUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/871.ts
+#EXTINF:0,SkyFamilyUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/872.ts
+#EXTINF:0,SkyDramaRomanceUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/873.ts
+#EXTINF:0,SkyDisneyUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/874.ts
+#EXTINF:0,SkyActionUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/866.ts
+#EXTINF:0,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1242.ts
+#EXTINF:0,DISNEYXD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1239.ts
+#EXTINF:0,BT-SPORTS2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1241.ts
+#EXTINF:0,BT-SPORTS1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1240.ts
+#EXTINF:0,SkyPremiereUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/870.ts
+#EXTINF:0,SkyComedyUk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/865.ts
+#EXTINF:0,CBS-RealityUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1066.ts
+#EXTINF:0,UK-Syfy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1069.ts
+#EXTINF:0,UK-SKYArt1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1070.ts
+#EXTINF:0,UK-Sky-Two
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1071.ts
+#EXTINF:0,UK Sky-F1UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1072.ts
+#EXTINF:0,TrueMovies2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/864.ts
+#EXTINF:0,TrueMovies1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/863.ts
+#EXTINF:0,True-Movies1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1067.ts
+#EXTINF:0,True-Movies 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1068.ts
+#EXTINF:0,Sky-Sp-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1073.ts
+#EXTINF:0,Sky-One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1074.ts
+#EXTINF:0,Sky-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/399.ts
+#EXTINF:0,National-GeoUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1076.ts
+#EXTINF:0,NatGeoWildUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/862.ts
+#EXTINF:0,NATGEO-WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/599.ts
+#EXTINF:0,Movies-4men
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1077.ts
+#EXTINF:0,ITV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1081.ts
+#EXTINF:0,ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1080.ts
+#EXTINF:0,ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1079.ts
+#EXTINF:0,ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1078.ts
+#EXTINF:0,—Africa-Tv———————-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1054.ts
+#EXTINF:0,TVCONTINENTAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1035.ts
+#EXTINF:0,TVCNEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1034.ts
+#EXTINF:0,Tfm-senegal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1051.ts
+#EXTINF:0,tfm-roku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1036.ts
+#EXTINF:0,tfm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1052.ts
+#EXTINF:0,teleceiba
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1037.ts
+#EXTINF:0,TELEBASICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1038.ts
+#EXTINF:0,SULAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1039.ts
+#EXTINF:0,RADIO Corcas.com
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1040.ts
+#EXTINF:0,ORTM-mali
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1053.ts
+#EXTINF:0,MAYATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1042.ts
+#EXTINF:0,MAURITANIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1043.ts
+#EXTINF:0,hchtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1044.ts
+#EXTINF:0,GTVGhana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1045.ts
+#EXTINF:0,DIASPORA24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1048.ts
+#EXTINF:0,CNBCAfrica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1049.ts
+#EXTINF:0,Africa-News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/biro/biro/1050.ts

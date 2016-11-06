@@ -1,791 +1,1787 @@
 #EXTM3U
-#EXTINF:0,————-ARABIC——————-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/338.ts
-#EXTINF:0,TUNISIA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/9.ts
-#EXTINF:0,TUNISIA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/31.ts
-#EXTINF:0,ELHIWAR ETTOUNSI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/32.ts
-#EXTINF:0,ETTOUNISIA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/38.ts
-#EXTINF:0,HANNIBAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/33.ts
-#EXTINF:0,NESSMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/30.ts
-#EXTINF:0,ETTASSIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/39.ts
-#EXTINF:0,ZAITOUNA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/40.ts
-#EXTINF:0,TUNISNA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/36.ts
-#EXTINF:0,JANOUBIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/34.ts
-#EXTINF:0,MUTAWASSIT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/37.ts
-#EXTINF:0,FIRST TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/35.ts
-#EXTINF:0,TNN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/459.ts
-#EXTINF:0,ART CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/52.ts
-#EXTINF:0,ART AFLAM1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/53.ts
-#EXTINF:0,ART AFLAM2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/54.ts
-#EXTINF:0,ART HEKAYAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/55.ts
-#EXTINF:0,AL_Nahar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/251.ts
-#EXTINF:0,Al-Nahar_Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/253.ts
-#EXTINF:0,AR-CBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/249.ts
-#EXTINF:0,CBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/248.ts
-#EXTINF:0,CBC_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/247.ts
-#EXTINF:0,CBC_eXtra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/246.ts
-#EXTINF:0,CBC_SOFRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/245.ts
-#EXTINF:0,ZEE_ALWEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/400.ts
-#EXTINF:0,MBC MAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/46.ts
-#EXTINF:0,MBC ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/237.ts
-#EXTINF:0,MBC MASR 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/49.ts
-#EXTINF:0,MBC MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/48.ts
-#EXTINF:0,MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/47.ts
-#EXTINF:0,MBC bollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/45.ts
-#EXTINF:0,MBC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/44.ts
-#EXTINF:0,MBC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/43.ts
-#EXTINF:0,MBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/42.ts
-#EXTINF:0,MBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/41.ts
-#EXTINF:0,Iqraa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/240.ts
-#EXTINF:0,AL MAJD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/398.ts
-#EXTINF:0,Minhaj Noubouwa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/397.ts
-#EXTINF:0,AL MAJD Coran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/399.ts
-#EXTINF:0,AL_RESALAH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/250.ts
-#EXTINF:0,ALquds
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/252.ts
-#EXTINF:0,Toyor_Al_Janah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/217.ts
-#EXTINF:0,Ajyal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/218.ts
-#EXTINF:0,SPACETOON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/219.ts
-#EXTINF:0,KARAMEESH
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/239.ts
-#EXTINF:0,CAIRO_CIN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/221.ts
-#EXTINF:0,ROTANA_KHALIGIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/223.ts
-#EXTINF:0,ROTANA_MASRIYA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/222.ts
-#EXTINF:0,ROTANA_CINE_EGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/225.ts
-#EXTINF:0,ROTANA_CLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/224.ts
-#EXTINF:0,ROTANA-CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/220.ts
-#EXTINF:0,ROTANA_AR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/226.ts
-#EXTINF:0,Nour dubai
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/227.ts
-#EXTINF:0,Noor Jordan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/228.ts
-#EXTINF:0,NILE_SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/229.ts
-#EXTINF:0,NILE_NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/230.ts
-#EXTINF:0,NILE_LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/231.ts
-#EXTINF:0,NILE_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/232.ts
-#EXTINF:0,NILE_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/233.ts
-#EXTINF:0,NILE_CULTURE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/234.ts
-#EXTINF:0,Nile Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/235.ts
-#EXTINF:0,NILE_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/236.ts
-#EXTINF:0,MajdKidsTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/238.ts
-#EXTINF:0,Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/244.ts
-#EXTINF:0,DUBAI_ONE_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/242.ts
-#EXTINF:0,DUBAI_DRAMA_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/243.ts
-#EXTINF:0,DUBAI_SPORT_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/241.ts
-#EXTINF:0,ABOU_DHABI_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/258.ts
-#EXTINF:0,ADdrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/257.ts
-#EXTINF:0,ADsport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/256.ts
-#EXTINF:0,AD_Al_EMARAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/255.ts
-#EXTINF:0,AD_SPORT_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/254.ts
-#EXTINF:0,AL_JAZAEIRIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/198.ts
-#EXTINF:0,TV TAMAZIGHT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/197.ts
-#EXTINF:0,ALKASS_ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/305.ts
-#EXTINF:0,AR:OSN MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/191.ts
-#EXTINF:0,OSN-MBC DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/194.ts
-#EXTINF:0,OSN CINEMA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/196.ts
-#EXTINF:0,OSN ALYAWM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/195.ts
-#EXTINF:0,AR:OSN MOVIES ACTION 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/192.ts
-#EXTINF:0,OSN-YaHala-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/193.ts
-#EXTINF:0,OSN_BOX_OFFICE.1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/391.ts
-#EXTINF:0,OSN_BOX_OFFICE.2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/395.ts
-#EXTINF:0,OSN_BOX_OFFICE.3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/392.ts
-#EXTINF:0,————–SPORT—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/339.ts
-#EXTINF:0,BEIN-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/332.ts
-#EXTINF:0,BEINSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/207.ts
-#EXTINF:0,BEINSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/206.ts
-#EXTINF:0,BEINSPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/209.ts
-#EXTINF:0,beINSports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/180.ts
-#EXTINF:0,beINSports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/181.ts
-#EXTINF:0,BEINSPORT6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/56.ts
-#EXTINF:0,BEINSPORT 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/57.ts
-#EXTINF:0,BEINSPORT 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/58.ts
-#EXTINF:0,BEINSPORT 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/59.ts
-#EXTINF:0,BEINSPORT 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/60.ts
-#EXTINF:0,BEINSPORT-11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/311.ts
-#EXTINF:0,BEINSPORT-12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/331.ts
-#EXTINF:0,BEIN SPORTS MAX 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/387.ts
-#EXTINF:0,BEIN SPORTS MAX 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/388.ts
-#EXTINF:0,Bein Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/416.ts
-#EXTINF:0,BEINMOVIES-1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/333.ts
-#EXTINF:0,BEINMOVIES-2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/334.ts
-#EXTINF:0,BEINMOVIES-3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/335.ts
-#EXTINF:0,BEINMOVIES-4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/313.ts
-#EXTINF:0,————–FRANSH—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/340.ts
-#EXTINF:0,RTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/200.ts
-#EXTINF:0,RTS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/203.ts
-#EXTINF:0,RTVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/61.ts
-#EXTINF:0,LA UNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/63.ts
-#EXTINF:0,LA DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/64.ts
-#EXTINF:0,LA TROIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/62.ts
-#EXTINF:0,PLUG_RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/389.ts
-#EXTINF:0,ClUB_ RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/390.ts
-#EXTINF:0,TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/1.ts
-#EXTINF:0,M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/2.ts
-#EXTINF:0,FRANCE 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/6.ts
-#EXTINF:0,FRANCE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/7.ts
-#EXTINF:0,FRANCE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/50.ts
-#EXTINF:0,FRANCE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/51.ts
-#EXTINF:0,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/261.ts
-#EXTINF:0,NT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/347.ts
-#EXTINF:0,W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/3.ts
-#EXTINF:0,NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/4.ts
-#EXTINF:0,M6 MUSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/167.ts
-#EXTINF:0,MTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/271.ts
-#EXTINF:0,MTV_Hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/272.ts
-#EXTINF:0,VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/447.ts
-#EXTINF:0,MTV_Dance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/276.ts
-#EXTINF:0,AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/89.ts
-#EXTINF:0,E!
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/90.ts
-#EXTINF:0,Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/78.ts
-#EXTINF:0,TV Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/403.ts
-#EXTINF:0,PARIS_PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/77.ts
-#EXTINF:0,13eme Rue
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/205.ts
-#EXTINF:0,Comedie+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/84.ts
-#EXTINF:0,Paramount channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/449.ts
-#EXTINF:0,BFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/23.ts
-#EXTINF:0,D17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/8.ts
-#EXTINF:0,teva
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/76.ts
-#EXTINF:0,RTL 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/69.ts
-#EXTINF:0,6TER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/5.ts
-#EXTINF:0,GULLI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/14.ts
-#EXTINF:0,Boing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/187.ts
-#EXTINF:0,FR: Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/314.ts
-#EXTINF:0,Disney.Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/186.ts
-#EXTINF:0,Disney Cine Magic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/95.ts
-#EXTINF:0,Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/96.ts
-#EXTINF:0,DINEYCHANELPLUS1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/337.ts
-#EXTINF:0,teletoon+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/18.ts
-#EXTINF:0,Teletoon_+1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/450.ts
-#EXTINF:0,Cartoon Network FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/16.ts
-#EXTINF:0,Nick Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/17.ts
-#EXTINF:0,NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/352.ts
-#EXTINF:0,ZOUZOUS_FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/470.ts
-#EXTINF:0,BOOMRANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/15.ts
-#EXTINF:0,Mangas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/94.ts
-#EXTINF:0,Tiji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/92.ts
-#EXTINF:0,CANAL J
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/19.ts
-#EXTINF:0,piwi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/111.ts
-#EXTINF:0,J-One HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/458.ts
-#EXTINF:0,Baby_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/393.ts
-#EXTINF:0,GAME_ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/394.ts
-#EXTINF:0,CANAL+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/24.ts
-#EXTINF:0,Canal+ Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/26.ts
-#EXTINF:0,canal+ Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/28.ts
-#EXTINF:0,Canal+ Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/27.ts
-#EXTINF:0,Canal+ Serie HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/25.ts
-#EXTINF:0,ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/216.ts
-#EXTINF:0,serie club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/79.ts
-#EXTINF:0,canal+ Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/29.ts
-#EXTINF:0,BEINSPORT FR1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/65.ts
-#EXTINF:0,BEINSPORT FR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/66.ts
-#EXTINF:0,BEINSPORT FR3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/67.ts
-#EXTINF:0,FOOT_24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/306.ts
-#EXTINF:0,MA CHAINE SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/201.ts
-#EXTINF:0,INFO_SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/182.ts
-#EXTINF:0,Equidia Live
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/401.ts
-#EXTINF:0,FR : CINE CLUB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/316.ts
-#EXTINF:0,KOMBAT_SPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/307.ts
-#EXTINF:0,EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/309.ts
-#EXTINF:0,OL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/259.ts
-#EXTINF:0,EUROSPORT1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/184.ts
-#EXTINF:0,OCS CITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/10.ts
-#EXTINF:0,OCS CHOC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/11.ts
-#EXTINF:0,OCS Max HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/82.ts
-#EXTINF:0,OCS Geants HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/83.ts
-#EXTINF:0,Cine frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/13.ts
-#EXTINF:0,Cine+ Premier HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/80.ts
-#EXTINF:0,cinema classique
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/202.ts
-#EXTINF:0,Cine+ Emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/81.ts
-#EXTINF:0,CINE FAMIZ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/262.ts
-#EXTINF:0,CINE_FX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/422.ts
-#EXTINF:0,CINE POLAR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/421.ts
-#EXTINF:0,TCM CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/308.ts
-#EXTINF:0,PLANETE +
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/22.ts
-#EXTINF:0,DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/169.ts
-#EXTINF:0,Planete-ci
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/86.ts
-#EXTINF:0,RMC Decouverte
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/448.ts
-#EXTINF:0,NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/20.ts
-#EXTINF:0,Animal_Planet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/479.ts
-#EXTINF:0,Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/98.ts
-#EXTINF:0,PLANET+_AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/168.ts
-#EXTINF:0,VOYAGE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/185.ts
-#EXTINF:0,Histoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/446.ts
-#EXTINF:0,Toute histoire
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/204.ts
-#EXTINF:0,ScienceetVieTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/93.ts
-#EXTINF:0,ushuaia tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/75.ts
-#EXTINF:0,season
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/304.ts
-#EXTINF:0,Animaux HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/87.ts
-#EXTINF:0,Chasse et Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/97.ts
-#EXTINF:0,Discovery
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/21.ts
-#EXTINF:0,i tele
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/348.ts
-#EXTINF:0,————–SPAIN—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/343.ts
-#EXTINF:0,SP-TNT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/268.ts
-#EXTINF:0,SP-Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/270.ts
-#EXTINF:0,SP-National Geographic Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/287.ts
-#EXTINF:0,SP-National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/286.ts
-#EXTINF:0,SP-FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/266.ts
-#EXTINF:0,SP-Disney XD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/280.ts
-#EXTINF:0,SP-Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/281.ts
-#EXTINF:0,SP-Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/279.ts
-#EXTINF:0,EP: Canal+ Accion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/188.ts
-#EXTINF:0,SP-Canal+ Comedia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/165.ts
-#EXTINF:0,SP-Canal+ DCine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/164.ts
-#EXTINF:0,SP-Canal+ Series HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/264.ts
-#EXTINF:0,SP-Canal+ Liga HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/274.ts
-#EXTINF:0,SP-Canal+ Estrenos
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/263.ts
-#EXTINF:0,SP-Canal+ Deportes HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/163.ts
-#EXTINF:0,SP-Canal+ Futbol HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/162.ts
-#EXTINF:0,SP- Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/278.ts
-#EXTINF:0,SP-Barca TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/277.ts
-#EXTINF:0,SP-ARENA SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/157.ts
-#EXTINF:0,SP-ARENA SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/158.ts
-#EXTINF:0,SP-ARENA SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/159.ts
-#EXTINF:0,SP-ARENA SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/160.ts
-#EXTINF:0,SP-ARENA SPORT 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/161.ts
-#EXTINF:0,————–PORTUGUES—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/344.ts
-#EXTINF:0,PT: TVCine 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/303.ts
-#EXTINF:0,PT: TVCine 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/302.ts
-#EXTINF:0,PT: TVCine 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/301.ts
-#EXTINF:0,PT: TVCine 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/300.ts
-#EXTINF:0,PT: TV Globo Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/290.ts
-#EXTINF:0,PT: TV Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/289.ts
-#EXTINF:0,PT: SyFu
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/288.ts
-#EXTINF:0,PT: SportTV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/295.ts
-#EXTINF:0,PT: SportTV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/294.ts
-#EXTINF:0,PT: SportTV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/293.ts
-#EXTINF:0,PT: SportTV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/292.ts
-#EXTINF:0,PT: SportTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/291.ts
-#EXTINF:0,PT: SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/298.ts
-#EXTINF:0,PT: RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/299.ts
-#EXTINF:0,PT: Benfica TV 1 Full HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/296.ts
-#EXTINF:0,SYFY_DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/175.ts
-#EXTINF:0,IT-RAI SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/285.ts
-#EXTINF:0,SP-Canal+ TOROS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/267.ts
-#EXTINF:0,SP-Canal+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/166.ts
-#EXTINF:0,SP-Canal+ ACCION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/265.ts
-#EXTINF:0,SP-Canal+ Liga 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/275.ts
-#EXTINF:0,————–SKY_UK—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/345.ts
-#EXTINF:0,SKY_Discovery _Investigation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/282.ts
-#EXTINF:0,SKY_Discovery_History 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/273.ts
-#EXTINF:0,SKY_MOVIES_FAMILY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/328.ts
-#EXTINF:0,SKY_MOVIES_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/324.ts
-#EXTINF:0,SKY_MOVIES_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/330.ts
-#EXTINF:0,SKY-UK MOVIES ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/178.ts
-#EXTINF:0,SKY_MOVIES _DISNEY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/329.ts
-#EXTINF:0,SKY_MOVIES PREMIER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/326.ts
-#EXTINF:0,SKY_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/327.ts
-#EXTINF:0,SKY-NEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/325.ts
-#EXTINF:0,BBC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/211.ts
-#EXTINF:0,BBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/210.ts
-#EXTINF:0,BT_SPORT_EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/269.ts
-#EXTINF:0,BT_SPORT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/284.ts
-#EXTINF:0,BT_SPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/283.ts
-#EXTINF:0,CTH Staduim XHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/317.ts
-#EXTINF:0,CTH Staduim 6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/318.ts
-#EXTINF:0,CTH Staduim 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/319.ts
-#EXTINF:0,CTH Staduim 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/320.ts
-#EXTINF:0,CTH Staduim 3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/321.ts
-#EXTINF:0,CTH Staduim 2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/322.ts
-#EXTINF:0,CTH Staduim 1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/323.ts
-#EXTINF:0,Sky Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/70.ts
-#EXTINF:0,Sky Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/71.ts
-#EXTINF:0,Sky Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/72.ts
-#EXTINF:0,Sky Sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/73.ts
-#EXTINF:0,Sky Sport 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/74.ts
-#EXTINF:0,————–HOLANDES—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/346.ts
-#EXTINF:0,RTL 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/357.ts
-#EXTINF:0,RTL 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/358.ts
-#EXTINF:0,SBS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/364.ts
-#EXTINF:0,RTL 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/359.ts
-#EXTINF:0,RTL 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/360.ts
-#EXTINF:0,NPO 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/363.ts
-#EXTINF:0,NPO 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/362.ts
-#EXTINF:0,NPO 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/361.ts
-#EXTINF:0,Net 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/365.ts
-#EXTINF:0,NL-FILM1 PREMIERE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/171.ts
-#EXTINF:0,NL-HBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/173.ts
-#EXTINF:0,NL-HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/172.ts
-#EXTINF:0,NL-HBO 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/170.ts
-#EXTINF:0,Ketnet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/369.ts
-#EXTINF:0,Jim Jam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/372.ts
-#EXTINF:0,Mickey Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/371.ts
-#EXTINF:0,MTV_NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/373.ts
-#EXTINF:0,National Geographic HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/366.ts
-#EXTINF:0,Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/368.ts
-#EXTINF:0,History Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/367.ts
-#EXTINF:0,Comedy Central
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/370.ts
-#EXTINF:0,Ziggo Sport 1 Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/374.ts
-#EXTINF:0,Ziggo Sport 1 Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/375.ts
-#EXTINF:0,Ziggo Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/376.ts
-#EXTINF:0,Fox Sports Eredivisie 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/381.ts
-#EXTINF:0,Fox Sports Eredivisie 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/379.ts
-#EXTINF:0,Fox Sports Eredivisie 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/377.ts
-#EXTINF:0,Fox Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/382.ts
-#EXTINF:0,Fox Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/380.ts
-#EXTINF:0,Fox Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/378.ts
-#EXTINF:0,Extreme Sports_NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/384.ts
-#EXTINF:0,EUROSPORT_NL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/383.ts
-#EXTINF:0,NL-FOX SPORTS 1 EREDIVISIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/174.ts
-#EXTINF:0,————–SKY_GER—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/342.ts
-#EXTINF:0,SAT_1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/350.ts
-#EXTINF:0,RTL_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/351.ts
-#EXTINF:0,DE-VOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/112.ts
-#EXTINF:0,ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/349.ts
-#EXTINF:0,3SAT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/356.ts
-#EXTINF:0,SUPER_RTL.HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/114.ts
-#EXTINF:0,RTL_LIVING
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/115.ts
-#EXTINF:0,ORF 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/353.ts
-#EXTINF:0,DISNEY ChANNEL_DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/355.ts
-#EXTINF:0,Kabel Eins
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/120.ts
-#EXTINF:0,SKY_CINEMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/103.ts
-#EXTINF:0,SKY_CINEMA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/105.ts
-#EXTINF:0,SKY_EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/121.ts
-#EXTINF:0,SKY_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/104.ts
-#EXTINF:0,SKY_COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/107.ts
-#EXTINF:0,SKY_HITS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/123.ts
-#EXTINF:0,SKY_ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/122.ts
-#EXTINF:0,SKY_NAT_GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/177.ts
-#EXTINF:0,SKY_DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/113.ts
-#EXTINF:0,UNIVERSAL_DE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/102.ts
-#EXTINF:0,EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/354.ts
-#EXTINF:0,SKY-DT BUNDESLIGA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/176.ts
-#EXTINF:0,SKY_SPORT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/124.ts
-#EXTINF:0,SKY_SPORT2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/125.ts
-#EXTINF:0,DE-B-Sky-Select 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/117.ts
-#EXTINF:0,DE-B-Sky-Select 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/118.ts
-#EXTINF:0,DE-B-Sky-Select 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/119.ts
-#EXTINF:0,————–SKY_ITALY—————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/341.ts
-#EXTINF:0,IT-RAI 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/140.ts
-#EXTINF:0,IT-RAI 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/141.ts
-#EXTINF:0,IT-RAI 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/142.ts
-#EXTINF:0,IT-Rai Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/129.ts
-#EXTINF:0,IT- LA 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/135.ts
-#EXTINF:0,IT- ITALIA 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/139.ts
-#EXTINF:0,IT-MEDIASET 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/154.ts
-#EXTINF:0,IT-RETE 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/127.ts
-#EXTINF:0,IT-CANALE 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/212.ts
-#EXTINF:0,IT-SKY SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/131.ts
-#EXTINF:0,IT-SKY SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/132.ts
-#EXTINF:0,IT-SKY SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/133.ts
-#EXTINF:0,IT-SKY SPORT 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/130.ts
-#EXTINF:0,Premium Crime HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/405.ts
-#EXTINF:0,Premium Crime +24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/406.ts
-#EXTINF:0,Premium Cinema Energy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/407.ts
-#EXTINF:0,Premium Cinema Emotion HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/408.ts
-#EXTINF:0,Premium Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/409.ts
-#EXTINF:0,Premium Cinema +24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/126.ts
-#EXTINF:0,IT-PREMIUM Cinema HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/152.ts
-#EXTINF:0,TI-Sky Cinema 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/153.ts
-#EXTINF:0,IT-SKY CINEMA MAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/128.ts
-#EXTINF:0,IT-Sky Cinema Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/137.ts
-#EXTINF:0,IT-Sky Cinema Cult HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/151.ts
-#EXTINF:0,IT_SKY_ATLANTIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/155.ts
-#EXTINF:0,IT-Sky Cinema Family HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/156.ts
-#EXTINF:0,IT-Sky Cinema hits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/134.ts
-#EXTINF:0,IT-Sky Nat Geo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/148.ts
-#EXTINF:0,IT-Sky Nat Geo Wild HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/149.ts
-#EXTINF:0,IT-Sky Discovery HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/150.ts
-#EXTINF:0,Premium Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/138.ts
-#EXTINF:0,Premium Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/404.ts
-#EXTINF:0,Fox HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/413.ts
-#EXTINF:0,Fox Life HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/412.ts
-#EXTINF:0,Real Time
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/414.ts
-#EXTINF:0,SKY Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/415.ts
-#EXTINF:0,TG 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/410.ts
-#EXTINF:0,Super Tenis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/411.ts
-#EXTINF:0,IT_SKY_CINEMA_PASSION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/136.ts
-#EXTINF:0,IT-PRIMAFILA 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/143.ts
-#EXTINF:0,IT-PRIMAFILA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/144.ts
-#EXTINF:0,IT-PRIMAFILA 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/145.ts
-#EXTINF:0,IT-PRIMAFILA 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/146.ts
-#EXTINF:0,IT-PRIMAFILA 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://136.243.173.94:8000/live/majid/majid/147.ts
+#EXTINF:-1,TR_VIP_LIGTV1-Backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2502.ts
+#EXTINF:-1,TR_VIP_LIGTVSD-Backup
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2573.ts
+#EXTINF:-1,TR_VIP_LIGTV1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/470.ts
+#EXTINF:-1,TR_VIP_LIGTV1SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1530.ts
+#EXTINF:-1,TR_VIP_LIGTV2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/472.ts
+#EXTINF:-1,TR_VIP_LIGTV3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/473.ts
+#EXTINF:-1,TR_VIP_LIGTV4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1632.ts
+#EXTINF:-1,VIP_LIGTV_5HD(91.Kanal)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2084.ts
+#EXTINF:-1,TR_LIGTV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1721.ts
+#EXTINF:-1,TR_LIGTV2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1557.ts
+#EXTINF:-1,TR_LIGTV3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1558.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/477.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/478.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2127.ts
+#EXTINF:-1,TR_VIP_TIVIBUSPOR4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2128.ts
+#EXTINF:-1,TR_TIVIBUSPOR1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1636.ts
+#EXTINF:-1,TR_TIVIBUSPOR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2091.ts
+#EXTINF:-1,TR_EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2097.ts
+#EXTINF:-1,TR_EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2098.ts
+#EXTINF:-1,TR_SmartSpor1-NBATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1637.ts
+#EXTINF:-1,TR_SMART-SPOR2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2500.ts
+#EXTINF:-1,TR_TV8.5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2574.ts
+#EXTINF:-1,TR_FBTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/931.ts
+#EXTINF:-1,TR_GSTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1751.ts
+#EXTINF:-1,TR_BJK TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1224.ts
+#EXTINF:-1,TR_BURSASPORTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1503.ts
+#EXTINF:-1,TR_NTV_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/663.ts
+#EXTINF:-1,TR_NTV_SPOR_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/666.ts
+#EXTINF:-1,TR_NTVSPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1580.ts
+#EXTINF:-1,TR_A_SPOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/541.ts
+#EXTINF:-1,TR_TRT_SPOR_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/531.ts
+#EXTINF:-1,TR_Idman_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1317.ts
+#EXTINF:-1,TR_SPORTS_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1223.ts
+#EXTINF:-1,TR_TRT1_HD_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/526.ts
+#EXTINF:-1,TR_TRT_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1576.ts
+#EXTINF:-1,TR_TRT_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/932.ts
+#EXTINF:-1,TR_TRT_HABER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/933.ts
+#EXTINF:-1,TR_TRT_ARAPCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2581.ts
+#EXTINF:-1,TR_TRT_MUZIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/918.ts
+#EXTINF:-1,TR_ATV_HD_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/538.ts
+#EXTINF:-1,TR_ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1585.ts
+#EXTINF:-1,TR_ATV_yedek
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1444.ts
+#EXTINF:-1,TR_STARTV_HD_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/660.ts
+#EXTINF:-1,TR_STAR_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/578.ts
+#EXTINF:-1,TR_STARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1577.ts
+#EXTINF:-1,TR_SHOW_HD_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/525.ts
+#EXTINF:-1,TR_SHOW_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1578.ts
+#EXTINF:-1,TR_SHOW_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/928.ts
+#EXTINF:-1,TR_Kanal_D_HD_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/507.ts
+#EXTINF:-1,TR_KANAL-DHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1581.ts
+#EXTINF:-1,TR_FOX_TV_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/665.ts
+#EXTINF:-1,TR_FOX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1583.ts
+#EXTINF:-1,TR_TV8_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/540.ts
+#EXTINF:-1,TR_TV8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1575.ts
+#EXTINF:-1,TR_BEYAZ_TV_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1500.ts
+#EXTINF:-1,TR_BEYAZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1584.ts
+#EXTINF:-1,TR_Kanal_7_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/530.ts
+#EXTINF:-1,TR_KANAL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1582.ts
+#EXTINF:-1,TR_TV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2548.ts
+#EXTINF:-1,TR_CAY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1449.ts
+#EXTINF:-1,TR_KONYA_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1442.ts
+#EXTINF:-1,TR_TV_360
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1446.ts
+#EXTINF:-1,TR_TJK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1466.ts
+#EXTINF:-1,TR_CNNTURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/557.ts
+#EXTINF:-1,TR_HALK_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/926.ts
+#EXTINF:-1,TR_HABER_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1225.ts
+#EXTINF:-1,TR_Turkmax_Gurme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/581.ts
+#EXTINF:-1,TR_DREAM_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/536.ts
+#EXTINF:-1,TR_DREAMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/537.ts
+#EXTINF:-1,TR_NUMBER_ONE_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/556.ts
+#EXTINF:-1,TR_POWER_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2575.ts
+#EXTINF:-1,TR_MAVI_KARADENIZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2576.ts
+#EXTINF:-1,TR_EKIN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2577.ts
+#EXTINF:-1,TR_24-TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/917.ts
+#EXTINF:-1,TR_IstanbulWebTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/661.ts
+#EXTINF:-1,TR_MINIKA_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1502.ts
+#EXTINF:-1,TR_MINIKA_GO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/476.ts
+#EXTINF:-1,TR_TRT_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/534.ts
+#EXTINF:-1,TR_PLANET_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/559.ts
+#EXTINF:-1,TR_DISNEY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2100.ts
+#EXTINF:-1,TR_NICK_JR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2096.ts
+#EXTINF:-1,TR_KANAL_A
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/485.ts
+#EXTINF:-1,TR_AHABER_LOCAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/532.ts
+#EXTINF:-1,TR_ULKE_TVHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/580.ts
+#EXTINF:-1,TR_KENT_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1439.ts
+#EXTINF:-1,TR-ULUSALTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1911.ts
+#EXTINF:-1,TR-EURONEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1913.ts
+#EXTINF:-1,TR_SEMERKANDTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2571.ts
+#EXTINF:-1,TR_LALEGÜLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2572.ts
+#EXTINF:-1,TR_TGRTBELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/583.ts
+#EXTINF:-1,TR_TRTBELGESEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/582.ts
+#EXTINF:-1,TR_NATINOAL_GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1119.ts
+#EXTINF:-1,TR-NATINOAL_GEO_WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/494.ts
+#EXTINF:-1,TR-NATINOAL_GEO_PEOBLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1441.ts
+#EXTINF:-1,TR_DISCOVERY SCIENCE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2549.ts
+#EXTINF:-1,TR_DA_VINCI_LEARNING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2149.ts
+#EXTINF:-1,TR_HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/493.ts
+#EXTINF:-1,TR_ANIMAL_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2147.ts
+#EXTINF:-1,TR_DISCOVERY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/920.ts
+#EXTINF:-1,TR_IZTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/543.ts
+#EXTINF:-1,TR_FILTVHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2151.ts
+#EXTINF:-1,TR_DISCOVERY_SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2150.ts
+#EXTINF:-1,TR_FOX_LIFE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2143.ts
+#EXTINF:-1,TR_YABANTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/659.ts
+#EXTINF:-1,TR_VIP_SinemaTV(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2224.ts
+#EXTINF:-1,TR_VIP-Sinamatv2HD(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2498.ts
+#EXTINF:-1,TR_VIP_SinemaTVAksiyon(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2226.ts
+#EXTINF:-1,TR_VIP-Sinematv-1001hd(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2499.ts
+#EXTINF:-1,TR_VIP_SinemaTVAile(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2225.ts
+#EXTINF:-1,TR_VIP-SinetiviHD(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2497.ts
+#EXTINF:-1,TR_VIP-Sinet-karnavaLHD(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2496.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Turk(canli))
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2232.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Premium2(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2236.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Premium(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2227.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Platin2(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2235.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Platin(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2234.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Gold(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2231.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Fest(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2230.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Family(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2229.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Classic(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2233.ts
+#EXTINF:-1,TR_VIP_MovieSmart_Action(canli)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2228.ts
+#EXTINF:-1,TR_DIZI-SMART-PLATIN-HDCANLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2146.ts
+#EXTINF:-1,TR_DİZİ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2145.ts
+#EXTINF:-1,TR_SALON1KF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1654.ts
+#EXTINF:-1,TR_SALON2KF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1652.ts
+#EXTINF:-1,TR_SALON3KF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1651.ts
+#EXTINF:-1,TR_SALON1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/479.ts
+#EXTINF:-1,TR_SALON2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/480.ts
+#EXTINF:-1,TR_SALON3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/481.ts
+#EXTINF:-1,TR_Tiviturkturk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1436.ts
+#EXTINF:-1,TR_TiviTurkkomedi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1772.ts
+#EXTINF:-1,TR_Tiviturkkorku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1741.ts
+#EXTINF:-1,TR_TiviTurkaksiyon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1773.ts
+#EXTINF:-1,TR_TiviTurkanimasyon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1767.ts
+#EXTINF:-1,TR_TiviTurknostalji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/486.ts
+#EXTINF:-1,ViP_VIXX_TV_TURK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1660.ts
+#EXTINF:-1,ViP_VIXX_TV_HORROR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1739.ts
+#EXTINF:-1,ViP_VIXX_TV_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1694.ts
+#EXTINF:-1,ViP_VIXX_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1692.ts
+#EXTINF:-1,ViP_MOVIEMAX_PREMIERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1754.ts
+#EXTINF:-1,TR_CINE_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1229.ts
+#EXTINF:-1,TR_CINE_YERLI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1774.ts
+#EXTINF:-1,TR_CINE_YESILCAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1771.ts
+#EXTINF:-1,TR_CINE_KOMEDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1763.ts
+#EXTINF:-1,TR_CINE_COCUK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1688.ts
+#EXTINF:-1,TR_DiGiMAX_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1657.ts
+#EXTINF:-1,TR_DiGiMAX_2_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1658.ts
+#EXTINF:-1,TR_DiGimax_Animasyon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1474.ts
+#EXTINF:-1,TR_SINETIVI_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/723.ts
+#EXTINF:-1,TR_SINETIVI_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/678.ts
+#EXTINF:-1,TR_SINETIVI_ADRENALINHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/677.ts
+#EXTINF:-1,TR_SINETIVI_ADRENALIN2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/725.ts
+#EXTINF:-1,TR_SINETIVI_KARNAVAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1655.ts
+#EXTINF:-1,TR_SINETIVI_KARNAVAL_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1656.ts
+#EXTINF:-1,TR_CINESTAR_VIZYON3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1437.ts
+#EXTINF:-1,TR_CINESTAR_KORKU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1438.ts
+#EXTINF:-1,TR_CINESTAR_NOSTALJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/724.ts
+#EXTINF:-1,TR_SineMAX_Comedy_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/484.ts
+#EXTINF:-1,TR_TiviTurkerotik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/924.ts
+#EXTINF:-1,TR_SineMAX_Erotic_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/919.ts
+#EXTINF:-1,TR_CINESTAR_KOMEDI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1762.ts
+#EXTINF:-1,TR_CINESTAR_VIZYON1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1764.ts
+#EXTINF:-1,TR_CINESTAR_VIZYON2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1766.ts
+#EXTINF:-1,TR_CINESTAR_TÜRK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1768.ts
+#EXTINF:-1,TR_CINESTAR_TÜRK2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1769.ts
+#EXTINF:-1,TR_CINESTAR_ANIMASYON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1770.ts
+#EXTINF:-1,TR_CINESTAR_GERILIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1301.ts
+#EXTINF:-1,TR_SINEMA5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2375.ts
+#EXTINF:-1,TR_Sinemaxfear
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1527.ts
+#EXTINF:-1,TR_Sinemaxnostalji
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1633.ts
+#EXTINF:-1,TR_Sinemaxturk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1634.ts
+#EXTINF:-1,TR_SINE_ACTION2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1738.ts
+#EXTINF:-1,TR_Cinevision3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1690.ts
+#EXTINF:-1,TR_LOCA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1644.ts
+#EXTINF:-1,TR_LOCA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/909.ts
+#EXTINF:-1,TR_KRAL_POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1303.ts
+#EXTINF:-1,TR_CINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/904.ts
+#EXTINF:-1,TR_CINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1036.ts
+#EXTINF:-1,TR_SINEMA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1691.ts
+#EXTINF:-1,TR_SINEMA2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1737.ts
+#EXTINF:-1,TR_SINEMA3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1740.ts
+#EXTINF:-1,TR_SINEMA4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1765.ts
+#EXTINF:-1,TR_MOVIEMAX-TURKHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1753.ts
+#EXTINF:-1,TR_SINEMA9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1752.ts
+#EXTINF:-1,TR_MOVIEMAX-PREMIERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2371.ts
+#EXTINF:-1,TR_SINEMA8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2372.ts
+#EXTINF:-1,TR_SINEMA7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2373.ts
+#EXTINF:-1,TR_SINEMA6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2374.ts
+#EXTINF:-1,TR_VIP-CHANNEL1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2378.ts
+#EXTINF:-1,TR_VIP_CHANNEL2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2377.ts
+#EXTINF:-1,TR_SINEMA_TV_AKSIYONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2148.ts
+#EXTINF:-1,TR_VIP_Salon1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1695.ts
+#EXTINF:-1,TR_VIP_Salon2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1696.ts
+#EXTINF:-1,TR_VIP_Salon3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/902.ts
+#EXTINF:-1,TR_VIP_Salon4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1693.ts
+#EXTINF:-1,TR_VIP_Salon5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1689.ts
+#EXTINF:-1,TR_VIP_Salon6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1687.ts
+#EXTINF:-1,TR_VIP_Salon7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1643.ts
+#EXTINF:-1,TR_VIP_Salon8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1638.ts
+#EXTINF:-1,TR_VIP_Salon9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1526.ts
+#EXTINF:-1,TR_VIP_Salon10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2376.ts
+#EXTINF:-1,------TÜRK_RADYO-----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2033.ts
+#EXTINF:-1,TR_112_ACiL_Fm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2034.ts
+#EXTINF:-1,TR_AnkaraFm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2036.ts
+#EXTINF:-1,TRT-FM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2476.ts
+#EXTINF:-1,Acik-Radyo94.9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2475.ts
+#EXTINF:-1,------ALMAN------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1802.ts
+#EXTINF:-1,DE_Kino1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2181.ts
+#EXTINF:-1,DE_Kino2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2182.ts
+#EXTINF:-1,VIP_DE_Sky_Select
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2210.ts
+#EXTINF:-1,VIP_DE_Sky_Select2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2211.ts
+#EXTINF:-1,VIP_DE_Sky_Select3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2212.ts
+#EXTINF:-1,VIP_DE_Sky_Select4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2213.ts
+#EXTINF:-1,VIP_DE_Sky_Select5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2214.ts
+#EXTINF:-1,VIP_DE_Sky_Select6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2215.ts
+#EXTINF:-1,VIP_DE_Sky_Select7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2216.ts
+#EXTINF:-1,VIP_DE_Sky_Select8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2217.ts
+#EXTINF:-1,VIP_DE_Sky_Select9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2218.ts
+#EXTINF:-1,VIP_DE_Sky_Select10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2219.ts
+#EXTINF:-1,VIP_DE_Sky_Select11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2220.ts
+#EXTINF:-1,VIP_DE_Sky_Select12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2221.ts
+#EXTINF:-1,VIP_DE_Sky_Select13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2222.ts
+#EXTINF:-1,DE_SkySelect1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1451.ts
+#EXTINF:-1,DE_SkySelect2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1452.ts
+#EXTINF:-1,DE_SkySelect3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1453.ts
+#EXTINF:-1,DE_SkySelect4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1454.ts
+#EXTINF:-1,DE_SkySelect5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1455.ts
+#EXTINF:-1,DE_SkySelect6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1456.ts
+#EXTINF:-1,DE_SkySelect7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1457.ts
+#EXTINF:-1,DE_SkySelect8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1458.ts
+#EXTINF:-1,DE_SKY_SPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/518.ts
+#EXTINF:-1,DE_SKY_SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/519.ts
+#EXTINF:-1,DE_SKYSPORT3-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1680.ts
+#EXTINF:-1,DE_SKYSPORT4-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1681.ts
+#EXTINF:-1,DE_SKYSPORT5-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1682.ts
+#EXTINF:-1,DE_SKY_BUNDESLIGA1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/520.ts
+#EXTINF:-1,DE_SKY_BUNDESL?GA2-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1683.ts
+#EXTINF:-1,DE_SKY_BUNDESL?GA3-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1684.ts
+#EXTINF:-1,DE_SKY_BUNDESL?GA4-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1685.ts
+#EXTINF:-1,DE_SKY_BUNDESL?GA5-MAC-SAATINDE-ACIK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1686.ts
+#EXTINF:-1,DE_Sky-Sport-Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1368.ts
+#EXTINF:-1,DE_SKY_EMOTÄ°ON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/728.ts
+#EXTINF:-1,DE_SKY_ATLANTIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1361.ts
+#EXTINF:-1,DE_SKY_CINEMA24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/572.ts
+#EXTINF:-1,DE_SkyCinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/575.ts
+#EXTINF:-1,DE_SKY_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/576.ts
+#EXTINF:-1,DE_NAT_GEO_WÄ°LD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1369.ts
+#EXTINF:-1,DE_SKY_KRIMI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/574.ts
+#EXTINF:-1,DE_TNT_SERIE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1400.ts
+#EXTINF:-1,DE_SKY_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/573.ts
+#EXTINF:-1,DE_KABEL_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1230.ts
+#EXTINF:-1,DE_ARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2207.ts
+#EXTINF:-1,DE_disneyxd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2092.ts
+#EXTINF:-1,DE_disneycinemagic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2093.ts
+#EXTINF:-1,DE_Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2094.ts
+#EXTINF:-1,DE_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2095.ts
+#EXTINF:-1,DE_RTL_LivingHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2199.ts
+#EXTINF:-1,DE_National_GeoHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2198.ts
+#EXTINF:-1,DE_Discovery_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2197.ts
+#EXTINF:-1,DE_SAT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2580.ts
+#EXTINF:-1,DE_ZDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1366.ts
+#EXTINF:-1,DE_VOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1367.ts
+#EXTINF:-1,DE_RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1408.ts
+#EXTINF:-1,DE_RTL_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1362.ts
+#EXTINF:-1,DE_PRO_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1363.ts
+#EXTINF:-1,DE_TNTFILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1469.ts
+#EXTINF:-1,DE_ORF_EINS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1364.ts
+#EXTINF:-1,DE_ORF_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1365.ts
+#EXTINF:-1,DE_SRF1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2088.ts
+#EXTINF:-1,DE_NDRHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2090.ts
+#EXTINF:-1,DE_MGM_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2085.ts
+#EXTINF:-1,DE_FOXHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2086.ts
+#EXTINF:-1,DE_DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2087.ts
+#EXTINF:-1,------FRANCE------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1798.ts
+#EXTINF:-1,FR_BEINSPORT1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1130.ts
+#EXTINF:-1,FR_beINSport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1121.ts
+#EXTINF:-1,FR_beINSport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1122.ts
+#EXTINF:-1,FR_BEIN_MAX4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2122.ts
+#EXTINF:-1,FR_BEIN_MAX5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2123.ts
+#EXTINF:-1,FR_BEIN_MAX6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2124.ts
+#EXTINF:-1,FR_BEIN_MAX7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2125.ts
+#EXTINF:-1,FR_BEIN_MAX8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2126.ts
+#EXTINF:-1,FR_PLANETE_A_E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1735.ts
+#EXTINF:-1,FR_PLANETECI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1736.ts
+#EXTINF:-1,FR_FRANCE_O
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2065.ts
+#EXTINF:-1,FR_FRANCE_5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2069.ts
+#EXTINF:-1,FR_FRANCE_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2068.ts
+#EXTINF:-1,FR_FRANCE_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2067.ts
+#EXTINF:-1,FR_FRANCE_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2066.ts
+#EXTINF:-1,FR_EUROSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2071.ts
+#EXTINF:-1,FR_EUROSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2070.ts
+#EXTINF:-1,FR_PLANETE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1734.ts
+#EXTINF:-1,FR_CANAL_SPORT_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1728.ts
+#EXTINF:-1,FR_CANAL_SERIES_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1729.ts
+#EXTINF:-1,FR_CANAL_FAMILY_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1730.ts
+#EXTINF:-1,FR_CANAL_FAMILYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1733.ts
+#EXTINF:-1,FR_CANAL _DECALE_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1731.ts
+#EXTINF:-1,FR_CANAL_CINEMA_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1732.ts
+#EXTINF:-1,FR_OCS_GeantsHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2206.ts
+#EXTINF:-1,FR_OC_CHOCHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2205.ts
+#EXTINF:-1,FR_M6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2201.ts
+#EXTINF:-1,FR_CINE_PREMIERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2202.ts
+#EXTINF:-1,FR_CINE_FRISSONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2203.ts
+#EXTINF:-1,FR_CINE_EmotionHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2204.ts
+#EXTINF:-1,FR_CANAL+HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2200.ts
+#EXTINF:-1,FR_ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2142.ts
+#EXTINF:-1,FR_W9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2140.ts
+#EXTINF:-1,FR_6TERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2141.ts
+#EXTINF:-1,FR_Tf1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2133.ts
+#EXTINF:-1,FR_Sy-Fy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2137.ts
+#EXTINF:-1,FR_RTL_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2135.ts
+#EXTINF:-1,FR_Ocs_max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2132.ts
+#EXTINF:-1,FR_National_geo_wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2131.ts
+#EXTINF:-1,FR_NATIONAL-GEO-HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2130.ts
+#EXTINF:-1,FR_Animaux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2136.ts
+#EXTINF:-1,FR_CARTOON_NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2138.ts
+#EXTINF:-1,FR_BOOMRANGHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2139.ts
+#EXTINF:-1,FR-TMCHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2369.ts
+#EXTINF:-1,FR_TevaHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2364.ts
+#EXTINF:-1,FR_TCM-CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2370.ts
+#EXTINF:-1,FR_Numero-23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2365.ts
+#EXTINF:-1,FR_COMEDIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2366.ts
+#EXTINF:-1,FR_Cherie25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2367.ts
+#EXTINF:-1,FR_AB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2363.ts
+#EXTINF:-1,FR_13EME-RUE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2368.ts
+#EXTINF:-1,FR_Disney_Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2134.ts
+#EXTINF:-1,----Portugal---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2184.ts
+#EXTINF:-1,PT_TV_Globo_Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2193.ts
+#EXTINF:-1,PT_TV_Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2192.ts
+#EXTINF:-1,PT_TVRecord
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2183.ts
+#EXTINF:-1,PT_TVI_24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2195.ts
+#EXTINF:-1,PT_TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2194.ts
+#EXTINF:-1,PT_SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2191.ts
+#EXTINF:-1,PT_RTP_Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2190.ts
+#EXTINF:-1,PT_RTP_Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2189.ts
+#EXTINF:-1,PT_RTP_Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2188.ts
+#EXTINF:-1,PT_RTP_1SD/HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2187.ts
+#EXTINF:-1,PT_RTP2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2185.ts
+#EXTINF:-1,PT_CANAL_PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2186.ts
+#EXTINF:-1,----Polonya----
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2337.ts
+#EXTINF:-1,PL_TVN24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2357.ts
+#EXTINF:-1,PL_TVN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2355.ts
+#EXTINF:-1,PL_TV6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2356.ts
+#EXTINF:-1,PL_TV-Trwam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2358.ts
+#EXTINF:-1,PL_TNT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2359.ts
+#EXTINF:-1,PL_PolsatHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2344.ts
+#EXTINF:-1,PL_Polsat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2347.ts
+#EXTINF:-1,PL_Polsat-Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2336.ts
+#EXTINF:-1,PL_Polsat-Romans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2340.ts
+#EXTINF:-1,PL_Polsat-Play
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2341.ts
+#EXTINF:-1,PL_ELEVEN SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2342.ts
+#EXTINF:-1,PL_Polsat-Jim-Jam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2343.ts
+#EXTINF:-1,PL_Polsat-Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2345.ts
+#EXTINF:-1,PL_Polsat_SportNews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2338.ts
+#EXTINF:-1,PL_Polsat_Cafe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2346.ts
+#EXTINF:-1,PL_Polsat Sport-ExtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2339.ts
+#EXTINF:-1,PL_Polsat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2348.ts
+#EXTINF:-1,PL_POLSAT-PLAYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2349.ts
+#EXTINF:-1,PL_TVPHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2350.ts
+#EXTINF:-1,PL_FIGHTKLUB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2351.ts
+#EXTINF:-1,PL_FILMBOX-EXTRAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2352.ts
+#EXTINF:-1,PL_NSPORTHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2353.ts
+#EXTINF:-1,PL_POLSAT2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2354.ts
+#EXTINF:-1,---BELGIUM--
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2503.ts
+#EXTINF:-1,BE_VTMHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2504.ts
+#EXTINF:-1,BE_VITAYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2505.ts
+#EXTINF:-1,BE_VIJF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2506.ts
+#EXTINF:-1,BE_VIERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2507.ts
+#EXTINF:-1,BE_La-Une
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2508.ts
+#EXTINF:-1,BE_La_Trois
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2509.ts
+#EXTINF:-1,BE_La_Deux
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2510.ts
+#EXTINF:-1,BE_KETNET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2511.ts
+#EXTINF:-1,BE_JIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2512.ts
+#EXTINF:-1,BE_EENHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2513.ts
+#EXTINF:-1,BE_CLUB-RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2514.ts
+#EXTINF:-1,BE_CANVASHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2515.ts
+#EXTINF:-1,BE_ACHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2516.ts
+#EXTINF:-1,BE_2BEHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2517.ts
+#EXTINF:-1,------ARAP------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1806.ts
+#EXTINF:-1,AR_beINSport1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/608.ts
+#EXTINF:-1,AR_beINSport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/609.ts
+#EXTINF:-1,AR_beINSport3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/610.ts
+#EXTINF:-1,AR_beINSport4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/611.ts
+#EXTINF:-1,AR_beINSport5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/612.ts
+#EXTINF:-1,AR_beINSport6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/613.ts
+#EXTINF:-1,AR_beINSport7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/614.ts
+#EXTINF:-1,AR_beINSport8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/615.ts
+#EXTINF:-1,AR_beINSport9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/616.ts
+#EXTINF:-1,AR_beINSport10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/617.ts
+#EXTINF:-1,AR_BEIN-SPORTS11HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2546.ts
+#EXTINF:-1,AR_BEIN-SPORTS12HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2547.ts
+#EXTINF:-1,AR_BeinSportsNewsHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1810.ts
+#EXTINF:-1,AR_BeinSportsNewsSD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1811.ts
+#EXTINF:-1,AR_BeinMovie_1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1812.ts
+#EXTINF:-1,AR_BeinMovie_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1813.ts
+#EXTINF:-1,Ar_MbcMax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1779.ts
+#EXTINF:-1,Ar_MbcMasr2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1782.ts
+#EXTINF:-1,Ar_MbcMasr
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1781.ts
+#EXTINF:-1,Ar_MbcDrama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1783.ts
+#EXTINF:-1,Ar_MbcBollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1784.ts
+#EXTINF:-1,Ar_MbcAction
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1780.ts
+#EXTINF:-1,Ar_Mbc4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1778.ts
+#EXTINF:-1,Ar_Mbc3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1777.ts
+#EXTINF:-1,Ar_Mbc2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1776.ts
+#EXTINF:-1,Ar_Mbc1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1775.ts
+#EXTINF:-1,AR_TUNISIE_NAT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2248.ts
+#EXTINF:-1,AR_TUNISIE_NAT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2247.ts
+#EXTINF:-1,AR_ROTANA_MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2249.ts
+#EXTINF:-1,AR_ROTANA_MASRIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2250.ts
+#EXTINF:-1,AR_ROTANA_KHALIJI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2251.ts
+#EXTINF:-1,AR_ROTANA_CLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2252.ts
+#EXTINF:-1,AR_ROTANA_CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2253.ts
+#EXTINF:-1,AR_ROTANA_CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2254.ts
+#EXTINF:-1,AR_LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2237.ts
+#EXTINF:-1,AR_HANNIBALTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2238.ts
+#EXTINF:-1,AR_FUTURETV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2239.ts
+#EXTINF:-1,AR_FIRSTTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2240.ts
+#EXTINF:-1,AR_ARTCINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2241.ts
+#EXTINF:-1,AR_ALJADEED
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2242.ts
+#EXTINF:-1,AR_AL_MEHWAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2243.ts
+#EXTINF:-1,AR_AL_JANOUBIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2244.ts
+#EXTINF:-1,AR_AFLAM2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2246.ts
+#EXTINF:-1,AR_AFLAM1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2245.ts
+#EXTINF:-1,------KURTCE------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1808.ts
+#EXTINF:-1,Kurtce_STERKTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1794.ts
+#EXTINF:-1,Kurtce_NEWROZ_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1793.ts
+#EXTINF:-1,Kurtce_rudawtv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1759.ts
+#EXTINF:-1,Kurtce_med_nuçe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1758.ts
+#EXTINF:-1,Kurtce_med_muzik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1761.ts
+#EXTINF:-1,Kurtce_IMCTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1756.ts
+#EXTINF:-1,Kurtce_DENGE_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2079.ts
+#EXTINF:-1,Kurtce_trt_kurdi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1760.ts
+#EXTINF:-1,Kurtce_TV10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2083.ts
+#EXTINF:-1,Kurtce_KNN_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2082.ts
+#EXTINF:-1,Kurtce_KANAL_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2081.ts
+#EXTINF:-1,Kurtce_WAARTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2080.ts
+#EXTINF:-1,------ALBANIA------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1797.ts
+#EXTINF:-1,ALB_Super Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1035.ts
+#EXTINF:-1,ALB_SUPER_SPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1040.ts
+#EXTINF:-1,ALB_SUPER_SPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1043.ts
+#EXTINF:-1,ALB_SUPER_SPORT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1044.ts
+#EXTINF:-1,ALB_Super_Sport_Kosova1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1712.ts
+#EXTINF:-1,ALB_Super_Sport_Kosova2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1711.ts
+#EXTINF:-1,AL_Tring_Sport1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1713.ts
+#EXTINF:-1,AL_Tring_Sport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1714.ts
+#EXTINF:-1,AL_Tring_Sport3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1715.ts
+#EXTINF:-1,ALB_RTK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1796.ts
+#EXTINF:-1,ALB_AlsatM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1795.ts
+#EXTINF:-1,ALB_TV_TIRANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1708.ts
+#EXTINF:-1,ALB_ZjarrTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1706.ts
+#EXTINF:-1,ALB_TVSH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1707.ts
+#EXTINF:-1,ALB_Tring_History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1709.ts
+#EXTINF:-1,ALB_SupersonicTv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1710.ts
+#EXTINF:-1,ALb_FILM_TRILLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1717.ts
+#EXTINF:-1,ALb_FILM_HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1719.ts
+#EXTINF:-1,ALb_FILM_DRAME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1716.ts
+#EXTINF:-1,ALb_FILM_AUTOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1720.ts
+#EXTINF:-1,ALb_FILM_AKSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1718.ts
+#EXTINF:-1,ALB_BBF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1697.ts
+#EXTINF:-1,ALB_Abc_News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1701.ts
+#EXTINF:-1,ALB_3_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1702.ts
+#EXTINF:-1,ALB_24_Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1703.ts
+#EXTINF:-1,ALB_21_Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1704.ts
+#EXTINF:-1,ALB_21HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1705.ts
+#EXTINF:-1,ALB_TRING_MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1031.ts
+#EXTINF:-1,ALB_TRING_SUPER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1275.ts
+#EXTINF:-1,ALB_TRIN_TRING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1276.ts
+#EXTINF:-1,ALB_TRING_World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1272.ts
+#EXTINF:-1,ALB-FOX TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1273.ts
+#EXTINF:-1,ALB_PinkHorror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1399.ts
+#EXTINF:-1,ALB_TRING_COMEDYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1398.ts
+#EXTINF:-1,ALB_TRING_PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1274.ts
+#EXTINF:-1,ALB_PinkFilm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1381.ts
+#EXTINF:-1,ALB-FILM-HITS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1034.ts
+#EXTINF:-1,ALB-FILM-DY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1032.ts
+#EXTINF:-1,ALB-FILM-AKSION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1033.ts
+#EXTINF:-1,----ESPANYOL---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2007.ts
+#EXTINF:-1,ES_TV_Galicia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2006.ts
+#EXTINF:-1,ES_Real_MadridTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2009.ts
+#EXTINF:-1,ES_Nat_Geo_Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2012.ts
+#EXTINF:-1,ES_Movistan_MotoGP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2013.ts
+#EXTINF:-1,ES_Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2017.ts
+#EXTINF:-1,ES_Disney_Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2018.ts
+#EXTINF:-1,ES_Canal_Estronos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2026.ts
+#EXTINF:-1,ES_Canal_Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2021.ts
+#EXTINF:-1,ES_Canal _Futbal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2025.ts
+#EXTINF:-1,------INGILIZ------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1805.ts
+#EXTINF:-1,UK-SkySports1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/487.ts
+#EXTINF:-1,UK-Sky_Sports2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/488.ts
+#EXTINF:-1,UK-Sky_Sports3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/489.ts
+#EXTINF:-1,UK-Sky_Sports4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/490.ts
+#EXTINF:-1,UK-Sky_Sports5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/491.ts
+#EXTINF:-1,UK_SKY_SPORT_1-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2074.ts
+#EXTINF:-1,UK_SKY_SPORT_2-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2075.ts
+#EXTINF:-1,UK_SKY_SPORT_3-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2076.ts
+#EXTINF:-1,UK_SKY_SPORT_4-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2077.ts
+#EXTINF:-1,UK_SKY_SPORT_5-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2078.ts
+#EXTINF:-1,UK_SKY_SPORT_F1-y
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2073.ts
+#EXTINF:-1,UK_ITV2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/670.ts
+#EXTINF:-1,UK_ITV3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/671.ts
+#EXTINF:-1,UK_ITV4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/672.ts
+#EXTINF:-1,UK_BTSPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/667.ts
+#EXTINF:-1,UK_BTSPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/668.ts
+#EXTINF:-1,UK_BBC2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/674.ts
+#EXTINF:-1,UK_BBC3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/675.ts
+#EXTINF:-1,UK_BBC1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/676.ts
+#EXTINF:-1,Uk_Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2176.ts
+#EXTINF:-1,Uk_watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2180.ts
+#EXTINF:-1,Uk_Tlc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2177.ts
+#EXTINF:-1,UK_ID
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2379.ts
+#EXTINF:-1,Uk_Tcm
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2178.ts
+#EXTINF:-1,Uk_skysportnews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2160.ts
+#EXTINF:-1,Uk_skynews
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2174.ts
+#EXTINF:-1,Uk_Setantasport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2161.ts
+#EXTINF:-1,Uk_premiersport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2162.ts
+#EXTINF:-1,Uk_btsport-extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2164.ts
+#EXTINF:-1,UK_Foodnetwork
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2208.ts
+#EXTINF:-1,Uk_btsport-europe
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2163.ts
+#EXTINF:-1,Uk_bt-sport-espn
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2165.ts
+#EXTINF:-1,Uk_racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2171.ts
+#EXTINF:-1,Uk_Mutv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2168.ts
+#EXTINF:-1,Uk_Lfc-tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2169.ts
+#EXTINF:-1,Uk_Home
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2175.ts
+#EXTINF:-1,Uk_gbi-racing/atthe-racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2172.ts
+#EXTINF:-1,Uk_F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2167.ts
+#EXTINF:-1,Uk_Chelsea_tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2170.ts
+#EXTINF:-1,Uk_boxnation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2166.ts
+#EXTINF:-1,Uk_Bbc-Ent
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2173.ts
+#EXTINF:-1,uk_alibi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2179.ts
+#EXTINF:-1,UK_ANIMAL-PLANET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2382.ts
+#EXTINF:-1,UK_HISTORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2380.ts
+#EXTINF:-1,UK_DISCOVERY_SCICENCE-CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2381.ts
+#EXTINF:-1,------ITALIA------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1801.ts
+#EXTINF:-1,IT_SkySport_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/635.ts
+#EXTINF:-1,IT_Sky_Sport_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/636.ts
+#EXTINF:-1,IT_Sky_Sport_F1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/639.ts
+#EXTINF:-1,IT_Eurosport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1898.ts
+#EXTINF:-1,IT_Eurosport2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1899.ts
+#EXTINF:-1,IT_Sky_Calcio_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1888.ts
+#EXTINF:-1,IT_Sky_Calcio_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1889.ts
+#EXTINF:-1,IT_Sky_Calcio_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1890.ts
+#EXTINF:-1,IT_Sky_Calcio_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1891.ts
+#EXTINF:-1,IT_Sky_Calcio_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1892.ts
+#EXTINF:-1,IT_Sky_Calcio_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1893.ts
+#EXTINF:-1,IT_Sky_Calcio_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1894.ts
+#EXTINF:-1,IT_Sky_Calcio_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1895.ts
+#EXTINF:-1,IT_Sky_Calcio_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1896.ts
+#EXTINF:-1,IT_Sky_Calcio_10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1897.ts
+#EXTINF:-1,IT_Sky_Calcio1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1679.ts
+#EXTINF:-1,IT_RAI_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1883.ts
+#EXTINF:-1,IT_RAI_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1884.ts
+#EXTINF:-1,IT_RAI_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1885.ts
+#EXTINF:-1,IT_RAI_4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1886.ts
+#EXTINF:-1,IT_RAI_5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1887.ts
+#EXTINF:-1,IT_SKY_Cinema_Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1672.ts
+#EXTINF:-1,IT_Sky_Cinema_Max_-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1673.ts
+#EXTINF:-1,IT_Sky_Cinema_Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1674.ts
+#EXTINF:-1,IT_Sky_Cinema_Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1675.ts
+#EXTINF:-1,IT_Sky_Cinema_Cult
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1676.ts
+#EXTINF:-1,IT_Sky_Cinema_Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1677.ts
+#EXTINF:-1,IT_Sky_Cinema_Classics
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1678.ts
+#EXTINF:-1,IT_PREMIUM_CRIME_24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1905.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_ENERGYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1907.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_EMOTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1908.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA_COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1909.ts
+#EXTINF:-1,IT_PREMIUM_ACTIONHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1906.ts
+#EXTINF:-1,IT_PREMIUM_STORIESHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2041.ts
+#EXTINF:-1,IT_PREMIUM_SPORTHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2040.ts
+#EXTINF:-1,IT_PREMIUM_JOYHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2042.ts
+#EXTINF:-1,IT_PREMIUM_DISCOVERY_WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2039.ts
+#EXTINF:-1,IT_PREMIUM_CINEMA _PLUS24HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2037.ts
+#EXTINF:-1,IT_PREMIUM_CINEMAHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2038.ts
+#EXTINF:-1,IT_NAT_GEO_WILDHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2043.ts
+#EXTINF:-1,IT_MARCO_POLOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2044.ts
+#EXTINF:-1,IT_MARCO_POLO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2045.ts
+#EXTINF:-1,IT_LA_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2046.ts
+#EXTINF:-1,IT_LA_7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2047.ts
+#EXTINF:-1,IT_ITALIA_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2048.ts
+#EXTINF:-1,IT_FOX_SPORTSHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2049.ts
+#EXTINF:-1,IT_BOING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2209.ts
+#EXTINF:-1,IT_FOX_CRIMEHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2050.ts
+#EXTINF:-1,IT_DISNEY_CHANNEL2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2051.ts
+#EXTINF:-1,IT_DISCOVERY_CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2052.ts
+#EXTINF:-1,------RUS------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1807.ts
+#EXTINF:-1,RS_ARENASPORT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/495.ts
+#EXTINF:-1,RS_ARENASPORT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/496.ts
+#EXTINF:-1,RS_ARENASPORT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/497.ts
+#EXTINF:-1,RS_ARENASPORT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/498.ts
+#EXTINF:-1,---Bulgar---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2551.ts
+#EXTINF:-1,BG_TravelTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2552.ts
+#EXTINF:-1,BG_RINGTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2553.ts
+#EXTINF:-1,BG_PlanetaSD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2554.ts
+#EXTINF:-1,BG_PlanetaHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2555.ts
+#EXTINF:-1,BG_Nova_SportHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2556.ts
+#EXTINF:-1,BG_Nova
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2557.ts
+#EXTINF:-1,BG_ID_XtraHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2558.ts
+#EXTINF:-1,BG_HobbyHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2559.ts
+#EXTINF:-1,BG_HBOHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2560.ts
+#EXTINF:-1,BG_HBO2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2561.ts
+#EXTINF:-1,BG_FENTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2562.ts
+#EXTINF:-1,BG_F
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2563.ts
+#EXTINF:-1,BG_Diema_SportHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2564.ts
+#EXTINF:-1,BG_Diema_Sport2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2565.ts
+#EXTINF:-1,BG_CITY_MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2566.ts
+#EXTINF:-1,BG_BTV1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2567.ts
+#EXTINF:-1,BG_BNT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2568.ts
+#EXTINF:-1,BG_BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2569.ts
+#EXTINF:-1,BG_PLANETA-FOLK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2570.ts
+#EXTINF:-1,------HOLANDA------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1800.ts
+#EXTINF:-1,NL_FoxSport1-Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/502.ts
+#EXTINF:-1,NL_FoxSport2-Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/503.ts
+#EXTINF:-1,NL_FoxSport3-Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/504.ts
+#EXTINF:-1,NL_FoxSport4-Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/505.ts
+#EXTINF:-1,NL_FoxSport5-Eredivisie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/506.ts
+#EXTINF:-1,NL_HBO1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1661.ts
+#EXTINF:-1,NL_HBO2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1662.ts
+#EXTINF:-1,NL_HBO3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1663.ts
+#EXTINF:-1,NL_NPO1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1665.ts
+#EXTINF:-1,NL_NPO2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1666.ts
+#EXTINF:-1,NL_NPO3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1667.ts
+#EXTINF:-1,NL_RTL4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1668.ts
+#EXTINF:-1,NL_RTL5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1669.ts
+#EXTINF:-1,NL_SBS6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1670.ts
+#EXTINF:-1,NL_RTL7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1671.ts
+#EXTINF:-1,NL_RTL8_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2153.ts
+#EXTINF:-1,NL-SBS9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2158.ts
+#EXTINF:-1,NL_NETS5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1664.ts
+#EXTINF:-1,NL_Veronica_Disney-XDHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2157.ts
+#EXTINF:-1,NL_CARTOON_NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2159.ts
+#EXTINF:-1,------EX-YU------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1803.ts
+#EXTINF:-1,EXYU_SPORTKLUB1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1013.ts
+#EXTINF:-1,EXYU_SPORTKLUB2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1014.ts
+#EXTINF:-1,EXYU_SPORTKLUB3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1015.ts
+#EXTINF:-1,EX-YU_HRT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2058.ts
+#EXTINF:-1,EX-YU_HRT_2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2059.ts
+#EXTINF:-1,EX-YU_HRT_3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2060.ts
+#EXTINF:-1,EX-YU_HRT_4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2061.ts
+#EXTINF:-1,EX-YU_FOX_MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2063.ts
+#EXTINF:-1,EX-YU_FOX_CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2064.ts
+#EXTINF:-1,EX-YU_FOXTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2062.ts
+#EXTINF:-1,------TURKEY-VOD------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2362.ts
+#EXTINF:-1,TR_VOD-Ben-Gazap
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2495.mkv
+#EXTINF:-1,TR_VOD-Oyle.Ya.Da.Boyle
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2402.mkv
+#EXTINF:-1,TR_VOD-Baska.Soze.Gerek.Yok
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2401.mkv
+#EXTINF:-1,TR_VOD-Kolpacıno3Devre2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2400.mkv
+#EXTINF:-1,TR_VOD_Kardeşim_Benim(2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2260.mkv
+#EXTINF:-1,TR_VOD_Ertuğrul_1890(2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2332.mp4
+#EXTINF:-1,TR_VOD-Ceberrut - 2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2360.mkv
+#EXTINF:-1,TR_VOD-Yar1m-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2395.mkv
+#EXTINF:-1,TR_VOD-Warcraft.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2492.mkv
+#EXTINF:-1,TR_VOD-Walt.Before.Mickey.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2491.mkv
+#EXTINF:-1,TR_VOD-Vurgun.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2490.mkv
+#EXTINF:-1,TR_VOD-Trzn.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2489.mkv
+#EXTINF:-1,TR_VOD-The.Huntsman.Winters.War.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2488.mkv
+#EXTINF:-1,TR_VOD-The.Fundamentals.of.Caring.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2487.mkv
+#EXTINF:-1,TR_VOD-The.Brothers.Grimsby.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2486.mkv
+#EXTINF:-1,TR_VOD-The.Assassin.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2485.mkv
+#EXTINF:-1,TR_VOD-Pets-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2484.mkv
+#EXTINF:-1,TR_VOD-Nefesim-Kesilene-KadaR-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2483.mkv
+#EXTINF:-1,TR_VOD-Miles.Ahead.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2482.mkv
+#EXTINF:-1,TR_VOD-Kirmizi.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2481.mkv
+#EXTINF:-1,TR_VOD-Kemik.Balta.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2480.mkv
+#EXTINF:-1,TR_VOD-iki-kafadar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2494.mkv
+#EXTINF:-1,TR_VOD-Helak-Kayıp-Köy-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2493.mkv
+#EXTINF:-1,TR_VOD-Deadpool.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2479.mkv
+#EXTINF:-1,TR_VOD-Concussion.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2478.mkv
+#EXTINF:-1,TR_VOD-Sol-Şerit-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2394.mkv
+#EXTINF:-1,TR_VOD-Siccin2-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2393.mkv
+#EXTINF:-1,TR_VOD-Olaylar-Olaylar-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2392.mkv
+#EXTINF:-1,TR_VOD-Memleket-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2391.mkv
+#EXTINF:-1,TR_VOD-Kariyer-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2389.mkv
+#EXTINF:-1,TR_VOD-Kaçma-Birader-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2390.mkv
+#EXTINF:-1,TR_VOD-Nadid-Hayat-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2419.mkv
+#EXTINF:-1,TR_VOD-Les.Ogres.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2418.mkv
+#EXTINF:-1,TR_VOD-Ugursuz.Gun.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2473.mkv
+#EXTINF:-1,TR_VOD-Tuhaf.iliski2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2472.mkv
+#EXTINF:-1,TR_VOD-Son.Kral.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2471.mkv
+#EXTINF:-1,TR_VOD-Siradisi.iliski2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2470.mkv
+#EXTINF:-1,TR_VOD-Saruhan-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2469.mkv
+#EXTINF:-1,TR_VOD-Sadece.Jim.2015.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2468.mkv
+#EXTINF:-1,TR_VOD-Robinson.Crusoe.&.Cuma.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2467.mkv
+#EXTINF:-1,TR_VOD-Mitt.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2466.mkv
+#EXTINF:-1,TR_VOD-Kutu.314.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2465.mkv
+#EXTINF:-1,TR_VOD-Kocan-Kadar-Konuş-Diriliş-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2464.mkv
+#EXTINF:-1,TR_VOD-Kanayan.Yurek.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2462.mkv
+#EXTINF:-1,TR_VOD-Hush.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2461.mkv
+#EXTINF:-1,TR_VOD-Guruldayan.Kalpler.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2460.mkv
+#EXTINF:-1,TR_VOD-Git-Başımdan-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2459.mkv
+#EXTINF:-1,TR_VOD-Geniş.Aile.Yapıştır.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2445.mkv
+#EXTINF:-1,TR_VOD-Fatih'in-Fedaisi-Kara-Murat-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2458.mkv
+#EXTINF:-1,TR_VOD-Eski.Sevgiliyi.Unutmanın.On.Yolu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2457.mkv
+#EXTINF:-1,TR_VOD-En.Guzeli.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2456.mkv
+#EXTINF:-1,TR_VOD-Emicem.Hospital.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2455.mkv
+#EXTINF:-1,TR_VOD-Doraemon.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2454.mkv
+#EXTINF:-1,TR_VOD-Davet.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2453.mkv
+#EXTINF:-1,TR_VOD-Bizim-Hikaye-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2452.mkv
+#EXTINF:-1,TR_VOD-Bebek.Bakicisi.2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2451.mkv
+#EXTINF:-1,TR_VOD-Bana.Sans.Dile.2013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2450.mkv
+#EXTINF:-1,TR_VOD-Ashby.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2449.mkv
+#EXTINF:-1,TR_VOD-Annabelle.Hooper.Ve.Nantucket.Adasi.Hayaletleri.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2448.mkv
+#EXTINF:-1,TR_VOD-Ali-Baba-ve-7-CüceleR-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2446.mkv
+#EXTINF:-1,TR_VOD-Adana-İşi-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2447.mkv
+#EXTINF:-1,TR_Kaçış-1950-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2463.mkv
+#EXTINF:-1,TR_VOD-Karlar-Kralicesinin-Gizemi.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2417.mkv
+#EXTINF:-1,TR_VOD-Kanunsuz.Savas.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2413.mkv
+#EXTINF:-1,TR_VOD-Kanli.Hasat.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2416.mkv
+#EXTINF:-1,TR_VOD-Gibby.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2415.mkv
+#EXTINF:-1,TR_VOD-Col.Kralicesi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2414.mkv
+#EXTINF:-1,TR_VOD-Hep-Yek-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2388.mkv
+#EXTINF:-1,TR_VOD-Dedemin-Fisi-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2384.mkv
+#EXTINF:-1,TR_VOD-Aşkopat-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2383.mkv
+#EXTINF:-1,TR_VOD-Ekisporter-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2387.mkv
+#EXTINF:-1,TR_VOD-Dünyanın-En-Güzel-Kokusu-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2386.mkv
+#EXTINF:-1,TR_VOD-Deliormanlı-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2385.mp4
+#EXTINF:-1,TR_VOD-turkBizans.Oyunlari.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2398.mkv
+#EXTINF:-1,TR_VOD_Dadinin.Boylesi.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2397.mkv
+#EXTINF:-1,TR_VOD-Soygun.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2399.mkv
+#EXTINF:-1,TR_VOD-Yemekteydik-ve-Karar-Verdim-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2410.mkv
+#EXTINF:-1,TR_VOD-Stereo.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2406.avi
+#EXTINF:-1,TR_VOD-Somuncu-Baba-Aşkın-Sırrı-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2409.mkv
+#EXTINF:-1,TR_VOD-Keanu.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2405.mkv
+#EXTINF:-1,TR_VOD-inatcilar.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2404.mkv
+#EXTINF:-1,TR_VOD-Code.M.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2412.mkv
+#EXTINF:-1,TR_VOD-Çarşı-Pazar-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2411.mkv
+#EXTINF:-1,TR_VOD-Bay.Dgru.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2403.mkv
+#EXTINF:-1,TR_VOD-Ali_Kundilli2-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2407.mkv
+#EXTINF:-1,TR_VOD-91.1-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2408.mkv
+#EXTINF:-1,TR_VOD-Zoolander.2.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2443.mkv
+#EXTINF:-1,TR_VOD-Yaktın Beni-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2442.mkv
+#EXTINF:-1,TR_VOD-Uzaklarda-Arama-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2441.mkv
+#EXTINF:-1,TR_VOD-Ugrsz.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2440.mkv
+#EXTINF:-1,TR_VOD-Tek.Gozlu.Kiz.2014
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2439.mkv
+#EXTINF:-1,TR_VOD-Tallulah.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2438.mkv
+#EXTINF:-1,TR_VOD-Son-Takla-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2437.mkv
+#EXTINF:-1,TR_VOD-Şevkat-Yerimdar2Bizde-Sakat-Çok-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2444.mkv
+#EXTINF:-1,TR_VOD-Seni.Hatirliyorum.2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2436.mkv
+#EXTINF:-1,TR_VOD-Sarmaşık-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2435.mkv
+#EXTINF:-1,TR_VOD-Olumsuzluk.Pesinde.2013
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2434.mkv
+#EXTINF:-1,TR_VOD-Nadide-Hayat-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2432.mkv
+#EXTINF:-1,TR_VOD-Miracles.From.Heaven.2016.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2431.mkv
+#EXTINF:-1,TR_VOD-Marguerite.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2430.mkv
+#EXTINF:-1,TR_VOD-Leblebi-Tozu-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2421.mkv
+#EXTINF:-1,TR_VOD-Köstebekgiller2Gölgenin-Tılsımı-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2422.mp4
+#EXTINF:-1,TR_VOD-Hope-Lost(2015)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2429.mkv
+#EXTINF:-1,TR_VOD-Her-Şey-Aşktan-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2428.mkv
+#EXTINF:-1,TR_VOD-Gece.Tarifesi.Night.Fare.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2427.mkv
+#EXTINF:-1,TR_VOD-Dabbe6-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2426.mkv
+#EXTINF:-1,TR_VOD-Bünyamim-2016
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2424.mkv
+#EXTINF:-1,TR_VOD-Bulantı-2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2425.mkv
+#EXTINF:-1,TR_VOD-Amn.Hcm.2.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2423.mkv
+#EXTINF:-1,TR_VOD_Naomi.and.Ely's.No.Kiss.List.2015
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2433.mkv
+#EXTINF:-1,---VOD-TURKEY-KEMAL-SUNAL---
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2545.ts
+#EXTINF:-1,TR_VOD-Zehir-Hafiye1989
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2544.mkv
+#EXTINF:-1,TR_VOD-Yüz-Numarali-Adam1978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2543.mkv
+#EXTINF:-1,TR_VOD-Yoksul
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2542.mkv
+#EXTINF:-1,TR_VOD-Yakisikli1987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2541.mkv
+#EXTINF:-1,TR_VOD-Toktor-civanim.1983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2540.mkv
+#EXTINF:-1,TR_VOD-Süt-Kardesler1976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2539.mkv
+#EXTINF:-1,TR_VOD-Salako1974
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2538.mkv
+#EXTINF:-1,TR_VOD-Salak-Milyoner
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2537.mkv
+#EXTINF:-1,TR_VOD-Sabani.ye.1984
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2535.mkv
+#EXTINF:-1,TR_VOD-Kiracı1987
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2534.mkv
+#EXTINF:-1,TR_VOD-Kilibik1983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2533.mkv
+#EXTINF:-1,TR_VOD-Kibar-Feyzo1978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2532.mkv
+#EXTINF:-1,TR_VOD-KapicilarKirali.1976
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2530.mkv
+#EXTINF:-1,TR_VOD-Kadmadegersaban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2529.mkv
+#EXTINF:-1,TR_VOD-Hanzo.1975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2528.mkv
+#EXTINF:-1,TR_VOD-Gülsah_ile_saban.1975
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2527.mkv
+#EXTINF:-1,TR_VOD-Geri.k.S.n.1980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2526.mkv
+#EXTINF:-1,TR_VOD-Garip1986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2525.mkv
+#EXTINF:-1,TR_VOD-EN.Büyük:Saban.1983
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2524.mp4
+#EXTINF:-1,TR_VOD-Devlet-Kusu1980
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2523.mkv
+#EXTINF:-1,TR_VOD-Deli-Deli-Küpeli1986
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2522.mkv
+#EXTINF:-1,TR_VOD-Bickin1988
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2521.mp4
+#EXTINF:-1,TR_VOD-Bekciler_Krali1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2520.mkv
+#EXTINF:-1,TR_VOD-AvanakApti.1978
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2519.mkv
+#EXTINF:-1,TR_VOD-Atla_Gel_Saban
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2518.mkv
+#EXTINF:-1,TR_Saban-Oglu-Saban1977
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2536.mkv
+#EXTINF:-1,TR_Katma-Deger-Saban1985
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2531.mkv
+#EXTINF:-1,------ALMAN-VOD------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2361.ts
+#EXTINF:-1,DE_VOD-LEGEND-OF-TARZAN(2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2420.mkv
+#EXTINF:-1,DE_VOD-Darkest-Day(2016)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2335.mkv
+#EXTINF:-1,DE-VOD_UnReal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2129.mp4
+#EXTINF:-1,DE-VOD_BATMANS-RÜCKKEHR(1992)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2102.mkv
+#EXTINF:-1,DE-VOD_Twilight_Over_Burma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2103.mp4
+#EXTINF:-1,DE-VOD_Trigger_Point
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2104.mp4
+#EXTINF:-1,DE-Mockingjay-Part2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2105.mp4
+#EXTINF:-1,DE-VOD_In_the_Heart_of_the_Sea
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2196.mp4
+#EXTINF:-1,DE-VOD_Taxi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2106.mp4
+#EXTINF:-1,DE-VOD_Steve_Jobs
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2107.mp4
+#EXTINF:-1,DE-VOD_Episode_VII-The_Force_Awakens
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2108.mp4
+#EXTINF:-1,DE-VOD_Rettet_Raffi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2109.mp4
+#EXTINF:-1,DE-VOD_Scream_at _he_Devil
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2110.mp4
+#EXTINF:-1,DE-VOD_Pan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2111.mp4
+#EXTINF:-1,DE-VOD_Mia_madre
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2112.mp4
+#EXTINF:-1,DE-VOD_Martian_Land
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2113.mp4
+#EXTINF:-1,DE-VOD_Macho_Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2114.mp4
+#EXTINF:-1,DE-VOD_L.A_Slasher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2115.mp4
+#EXTINF:-1,DE-VOD_Kill_Zone2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2116.mp4
+#EXTINF:-1,DE-VOD_Die_Gefangene
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2117.mp4
+#EXTINF:-1,DE-VOD_Irrational_Man
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2118.mp4
+#EXTINF:-1,------+18------
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/1804.ts
+#EXTINF:-1,XXX_Ne-Vereyim-Amcama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/589.ts
+#EXTINF:-1,XXX_Ne-Vereyim -Dayıma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/590.ts
+#EXTINF:-1,XXX_SCTSD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/512.ts
+#EXTINF:-1,XXX_REDLIGHTHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/513.ts
+#EXTINF:-1,XXX-Kralferoadult-1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/508.ts
+#EXTINF:-1,XXX-pink_erotica2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/509.ts
+#EXTINF:-1,XXX-pink_erotica3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/510.ts
+#EXTINF:-1,XXX-pink_erotica4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/511.ts
+#EXTINF:-1,XX_HUSTLERHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/514.ts
+#EXTINF:-1,XXX_PLAYBOY_TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/515.ts
+#EXTINF:-1,XXX_PRÄ°VATE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/516.ts
+#EXTINF:-1,XXX_HUSTLER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/517.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/586.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/587.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/588.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/591.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/592.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_8HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/593.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club_9HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/594.ts
+#EXTINF:-1,IT_PrimaFila_Hot_Club10HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/595.ts
+#EXTINF:-1,---ADULT_VOD--
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/live/cengiz1/cengiz2/2257.ts
+#EXTINF:-1,VOD_ADULT1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2261.mkv
+#EXTINF:-1,VOD_ADULT2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2262.mkv
+#EXTINF:-1,VOD_ADULT3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2264.mkv
+#EXTINF:-1,VOD_ADULT4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2265.mkv
+#EXTINF:-1,VOD_ADULT5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2266.mkv
+#EXTINF:-1,VOD_ADULT6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2267.mkv
+#EXTINF:-1,VOD_ADULT7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2268.mkv
+#EXTINF:-1,VOD_ADULT8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2269.mkv
+#EXTINF:-1,VOD_ADULT9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2270.mkv
+#EXTINF:-1,VOD_ADULT10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2271.mkv
+#EXTINF:-1,VOD_ADULT11
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2272.mkv
+#EXTINF:-1,VOD_ADULT12
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2273.mkv
+#EXTINF:-1,VOD_ADULT13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2274.mkv
+#EXTINF:-1,VOD_ADULT14
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2275.mkv
+#EXTINF:-1,VOD_ADULT15
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2276.mkv
+#EXTINF:-1,VOD_ADULT16
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2277.mkv
+#EXTINF:-1,VOD_ADULT17
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2278.mkv
+#EXTINF:-1,VOD_ADULT18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2279.mkv
+#EXTINF:-1,VOD_ADULT19
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2280.mkv
+#EXTINF:-1,VOD_ADULT20
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2281.mkv
+#EXTINF:-1,VOD_ADULT21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2282.mkv
+#EXTINF:-1,VOD_ADULT22
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2283.mkv
+#EXTINF:-1,VOD_ADULT23
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2284.mkv
+#EXTINF:-1,VOD_ADULT24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2285.mkv
+#EXTINF:-1,VOD_ADULT25
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2286.mkv
+#EXTINF:-1,VOD_ADULT26
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2287.mkv
+#EXTINF:-1,VOD_ADULT27
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2288.mkv
+#EXTINF:-1,VOD_ADULT28
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2289.mkv
+#EXTINF:-1,VOD_ADULT29
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2290.mkv
+#EXTINF:-1,VOD_ADULT30
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2291.mkv
+#EXTINF:-1,VOD_ADULT31
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2292.mkv
+#EXTINF:-1,VOD_ADULT32
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2293.mkv
+#EXTINF:-1,VOD_ADULT33
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2294.mkv
+#EXTINF:-1,VOD_ADULT34
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2295.mkv
+#EXTINF:-1,VOD_ADULT35
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2296.mkv
+#EXTINF:-1,VOD_ADULT36
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2297.mkv
+#EXTINF:-1,VOD_ADULT37
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2298.mkv
+#EXTINF:-1,VOD_ADULT38
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2299.mkv
+#EXTINF:-1,VOD_ADULT39
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2300.mkv
+#EXTINF:-1,VOD_ADULT40
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2301.mkv
+#EXTINF:-1,VOD_ADULT41
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2302.mkv
+#EXTINF:-1,VOD_ADULT42
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2303.mkv
+#EXTINF:-1,VOD_ADULT43
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2304.mkv
+#EXTINF:-1,VOD_ADULT44
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2305.mkv
+#EXTINF:-1,VOD_ADULT45
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2306.mkv
+#EXTINF:-1,VOD_ADULT46
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2307.mkv
+#EXTINF:-1,VOD_ADULT47
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2308.mkv
+#EXTINF:-1,VOD_ADULT48
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2309.mkv
+#EXTINF:-1,VOD_ADULT49
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2310.mkv
+#EXTINF:-1,VOD_ADULT50
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2311.mkv
+#EXTINF:-1,VOD_ADULT51
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2312.mkv
+#EXTINF:-1,VOD_ADULT52
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2313.mkv
+#EXTINF:-1,VOD_ADULT53
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2314.mkv
+#EXTINF:-1,VOD_ADULT54
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2315.mkv
+#EXTINF:-1,VOD_ADULT55
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2316.mp4
+#EXTINF:-1,VOD_ADULT56
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2317.mkv
+#EXTINF:-1,VOD_ADULT57
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2318.mkv
+#EXTINF:-1,VOD_ADULT58
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2319.mkv
+#EXTINF:-1,VOD_ADULT59
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2320.mkv
+#EXTINF:-1,VOD_ADULT60
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2321.mkv
+#EXTINF:-1,VOD_ADULT61
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2322.mp4
+#EXTINF:-1,VOD_ADULT62
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2323.mkv
+#EXTINF:-1,VOD_ADULT63
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2324.mkv
+#EXTINF:-1,VOD_ADULT64
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2325.mkv
+#EXTINF:-1,VOD_ADULT65
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2326.mkv
+#EXTINF:-1,VOD_ADULT66
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2327.mkv
+#EXTINF:-1,VOD_ADULT67
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2328.mkv
+#EXTINF:-1,VOD_ADULT68
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2329.mkv
+#EXTINF:-1,VOD_ADULT69
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2330.mkv
+#EXTINF:-1,VOD_ADULT70
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://arenaiptv.xyz:1795/movie/cengiz1/cengiz2/2331.mp4
