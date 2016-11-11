@@ -1,75 +1,59 @@
 #EXTM3U
-#EXTINF:0,—Bein-Sp———————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/885.ts
-#EXTINF:0,BeinSport-HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1033.ts
-#EXTINF:0,BeinSport-HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1031.ts
-#EXTINF:0,BeinSport-HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1030.ts
-#EXTINF:0,BeinSport-HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1029.ts
-#EXTINF:0,BeinSport-HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1028.ts
-#EXTINF:0,BeinSport-HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1027.ts
-#EXTINF:0,BeinSport-HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1026.ts
-#EXTINF:0,BeinSport-HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1025.ts
-#EXTINF:0,BeinSport-HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1024.ts
-#EXTINF:0,BeinSport-HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1032.ts
-#EXTINF:0,BEIN-S1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/528.ts
-#EXTINF:0,BEIN-S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/529.ts
-#EXTINF:0,BEIN-S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/530.ts
-#EXTINF:0,BEIN-S4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/531.ts
-#EXTINF:0,BEIN-S5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/532.ts
-#EXTINF:0,BEIN-S6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/533.ts
-#EXTINF:0,BEIN-S7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/534.ts
-#EXTINF:0,BEIN-S8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/535.ts
-#EXTINF:0,BEIN-S9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/536.ts
-#EXTINF:0,BEIN-S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/537.ts
-#EXTINF:0,BEIN-S11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/538.ts
-#EXTINF:0,BEIN-S12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/539.ts
-#EXTINF:0,BEIN-S13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/540.ts
-#EXTINF:0,BEIN-S14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/541.ts
-#EXTINF:0,BEIN-S16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/543.ts
-#EXTINF:0,BEIN_MOVIES_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/952.ts
-#EXTINF:0,BEIN_MOVIES_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/953.ts
-#EXTINF:0,Bein-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/603.ts
-#EXTINF:0,Bein-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/604.ts
-#EXTINF:0,Bein-Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/605.ts
-#EXTINF:0,Bein-sport 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/1463.ts
-#EXTINF:0,Alkass-sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/815.ts
-#EXTINF:0,Alkass-sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/816.ts
-#EXTINF:0,Alkass-sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/817.ts
-#EXTINF:0,Alkass-sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/818.ts
-#EXTINF:0,BEIN-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/adel/adel/526.ts
+#EXTINF:-1,OSN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/20.ts
+#EXTINF:-1,OSN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/21.ts
+#EXTINF:-1,OSN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/22.ts
+#EXTINF:-1,OSN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/23.ts
+#EXTINF:-1,OSN Cricket HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/24.ts
+#EXTINF:-1,OSN Fight HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/26.ts
+#EXTINF:-1,OSN Yahala HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/16.ts
+#EXTINF:-1,OSN Yahala Shabab HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/17.ts
+#EXTINF:-1,OSN Yahala Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/18.ts
+#EXTINF:-1,OSN Yahala Cinema HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/19.ts
+#EXTINF:-1,OSN Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/29.ts
+#EXTINF:-1,OSN Movies Festival HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/31.ts
+#EXTINF:-1,OSN Movies Family HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/32.ts
+#EXTINF:-1,OSN Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/33.ts
+#EXTINF:-1,OSN Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/34.ts
+#EXTINF:-1,OSN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/35.ts
+#EXTINF:-1,OSN Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/27.ts
+#EXTINF:-1,OSN Movies Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/28.ts
+#EXTINF:-1,OSN First HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/36.ts
+#EXTINF:-1,OSN First HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/37.ts
+#EXTINF:-1,OSN First Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/38.ts
+#EXTINF:-1,OSN WWE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/25.ts
+#EXTINF:-1,OSN Nat Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/39.ts
+#EXTINF:-1,OSN Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/40.ts
+#EXTINF:-1,OSN Nat Geo People HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/41.ts
+#EXTINF:-1,OSN Discovery SC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/42.ts
+#EXTINF:-1,OSN Discovery ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/43.ts
+#EXTINF:-1,OSN Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/44.ts
+#EXTINF:-1,OSN Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://enjoytvfree.serveftp.com:8000/live/skype:bein_stream/YZ0qQTGx9H/45.ts
