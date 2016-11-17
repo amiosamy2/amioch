@@ -1,1217 +1,397 @@
 #EXTM3U
-#EXTINF:0,AB1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/580.ts
-#EXTINF:0,Tunisia1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/368.ts
-#EXTINF:0,Tunisia2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/369.ts
-#EXTINF:0,Ettounisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/370.ts
-#EXTINF:0,Nessma
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/372.ts
-#EXTINF:0,Hannibal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/371.ts
-#EXTINF:0,Attessia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/375.ts
-#EXTINF:0,Tunisna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/374.ts
-#EXTINF:0,Aljanoubia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/376.ts
-#EXTINF:0,Tnn-Tunisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/378.ts
-#EXTINF:0,Almutawasit
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/383.ts
-#EXTINF:0,Zaytouna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/380.ts
-#EXTINF:0,Telvza-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/373.ts
-#EXTINF:0,M-tunisia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/379.ts
-#EXTINF:0,Firs-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/377.ts
-#EXTINF:0,ShemFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/892.ts
-#EXTINF:0,Oxygene-FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1381.ts
-#EXTINF:0,Oasis-FM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1380.ts
-#EXTINF:0,JawhraFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1379.ts
-#EXTINF:0,CapFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/905.ts
-#EXTINF:0,MosaiqueFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/891.ts
-#EXTINF:0,IFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/903.ts
-#EXTINF:0,KnoozFM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/904.ts
-#EXTINF:0,—Bein-Sp———————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/885.ts
-#EXTINF:0,BeinSport-HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1033.ts
-#EXTINF:0,BeinSport-HD2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1031.ts
-#EXTINF:0,BeinSport-HD3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1030.ts
-#EXTINF:0,BeinSport-HD4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1029.ts
-#EXTINF:0,BeinSport-HD5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1028.ts
-#EXTINF:0,BeinSport-HD6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1027.ts
-#EXTINF:0,BeinSport-HD7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1026.ts
-#EXTINF:0,BeinSport-HD8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1025.ts
-#EXTINF:0,BeinSport-HD9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1024.ts
-#EXTINF:0,BeinSport-HD10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1032.ts
-#EXTINF:0,BEIN-S1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/528.ts
-#EXTINF:0,BEIN-S2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/529.ts
-#EXTINF:0,BEIN-S3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/530.ts
-#EXTINF:0,BEIN-S4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/531.ts
-#EXTINF:0,BEIN-S5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/532.ts
-#EXTINF:0,BEIN-S6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/533.ts
-#EXTINF:0,BEIN-S7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/534.ts
-#EXTINF:0,BEIN-S8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/535.ts
-#EXTINF:0,BEIN-S9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/536.ts
-#EXTINF:0,BEIN-S10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/537.ts
-#EXTINF:0,BEIN_MOVIES_1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/952.ts
-#EXTINF:0,BEIN_MOVIES_2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/953.ts
-#EXTINF:0,Bein-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/603.ts
-#EXTINF:0,Bein-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/604.ts
-#EXTINF:0,Bein-Sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/605.ts
-#EXTINF:0,Alkass-sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/815.ts
-#EXTINF:0,Alkass-sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/816.ts
-#EXTINF:0,Alkass-sport3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/817.ts
-#EXTINF:0,Alkass-sport4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/818.ts
-#EXTINF:0,BEIN-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/526.ts
-#EXTINF:0,—OSN———————-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1126.ts
-#EXTINF:0,OSN_MOVIES_FESTIVAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1125.ts
-#EXTINF:0,OSN_MOVIES_DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1124.ts
-#EXTINF:0,OSN_MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1123.ts
-#EXTINF:0,OSN_ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1122.ts
-#EXTINF:0,OSN-YAHALA-SHABAB
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1121.ts
-#EXTINF:0,OSN-Yahala-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1120.ts
-#EXTINF:0,OSN-YAHAlA-DRAMA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1119.ts
-#EXTINF:0,OSN-YAHALA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1118.ts
-#EXTINF:0,OSN-ORBIT-CINEMA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1116.ts
-#EXTINF:0,OSN-ORBIT-CINEMA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1117.ts
-#EXTINF:0,OSN-On-Demand-Extra-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1114.ts
-#EXTINF:0,OSN-OFFICBOX1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1111.ts
-#EXTINF:0,OSN-OFFICBOX2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1112.ts
-#EXTINF:0,OSN-Movies-Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1110.ts
-#EXTINF:0,OSN-Movie-kids-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1109.ts
-#EXTINF:0,OSN-MBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1108.ts
-#EXTINF:0,OSN-ELYOM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1107.ts
-#EXTINF:0,OSN-Discovery-Science-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1106.ts
-#EXTINF:0,OSN-DISCOVERY-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1105.ts
-#EXTINF:0,OSN-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1104.ts
-#EXTINF:0,OSN-Animal-Planet-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1103.ts
-#EXTINF:0,OSN-ACTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1102.ts
-#EXTINF:0,—ARABIC——————
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/886.ts
-#EXTINF:0,MBC1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/388.ts
-#EXTINF:0,Mbc2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/387.ts
-#EXTINF:0,MBC-kIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/504.ts
-#EXTINF:0,Mbc4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/389.ts
-#EXTINF:0,Mbc-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/386.ts
-#EXTINF:0,Mbc-MASR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/390.ts
-#EXTINF:0,Mbc-MASR2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/391.ts
-#EXTINF:0,Mbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/392.ts
-#EXTINF:0,Mbc-Bolly
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/384.ts
-#EXTINF:0,Mbc-Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/385.ts
-#EXTINF:0,Zee-Alwan
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/393.ts
-#EXTINF:0,B4U-Plus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/416.ts
-#EXTINF:0,B4U-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/415.ts
-#EXTINF:0,Rotana_Masriya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/516.ts
-#EXTINF:0,RotanaKhaliji
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/517.ts
-#EXTINF:0,RotanaCLIP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/514.ts
-#EXTINF:0,Rotana-Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/515.ts
-#EXTINF:0,Rotana-masria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/412.ts
-#EXTINF:0,Rotana-classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/413.ts
-#EXTINF:0,Rotana-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/411.ts
-#EXTINF:0,Rotana-Aflem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/410.ts
-#EXTINF:0,Melody-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/881.ts
-#EXTINF:0,Cbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/460.ts
-#EXTINF:0,Cbc-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/461.ts
-#EXTINF:0,CBC-Sofra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/464.ts
-#EXTINF:0,CBC-Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/463.ts
-#EXTINF:0,Cbc-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/462.ts
-#EXTINF:0,Rotana
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/513.ts
-#EXTINF:0,Aflam1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/405.ts
-#EXTINF:0,Aflam2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/406.ts
-#EXTINF:0,Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/407.ts
-#EXTINF:0,Hekayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/408.ts
-#EXTINF:0,Hekayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/409.ts
-#EXTINF:0,Zee-Aflam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/414.ts
-#EXTINF:0,Toyor-Janah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/510.ts
-#EXTINF:0,Majd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/498.ts
-#EXTINF:0,Iqraa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/496.ts
-#EXTINF:0,Toyor-Baby
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/511.ts
-#EXTINF:0,Saoudi1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1057.ts
-#EXTINF:0,Saoudi2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1058.ts
-#EXTINF:0,Saudi-Sona
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/896.ts
-#EXTINF:0,Saudi–Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1518.ts
-#EXTINF:0,Saudi–Quran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1517.ts
-#EXTINF:0,Saoudi-sonnah
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1055.ts
-#EXTINF:0,Saoudi-Ekberia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1056.ts
-#EXTINF:0,Saudi-Mekka
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/897.ts
-#EXTINF:0,Mehwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/899.ts
-#EXTINF:0,almasria1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/984.ts
-#EXTINF:0,almasria2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/985.ts
-#EXTINF:0,I24-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/898.ts
-#EXTINF:0,AlKahera-WalNas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/479.ts
-#EXTINF:0,Alhayat-We-Alnas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1290.ts
-#EXTINF:0,Alanwar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/780.ts
-#EXTINF:0,Al-Insen
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/382.ts
-#EXTINF:0,Al-Ghadir
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1400.ts
-#EXTINF:0,Al-Fath
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1399.ts
-#EXTINF:0,Al-Eskandaria-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1398.ts
-#EXTINF:0,Al-Ekhbariya-Al-Soriya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1397.ts
-#EXTINF:0,Al-Delta
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1396.ts
-#EXTINF:0,Al-Baghdadia-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1395.ts
-#EXTINF:0,Al-Baghdadia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1394.ts
-#EXTINF:0,Al-Assema-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1393.ts
-#EXTINF:0,Al-Arabiya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/809.ts
-#EXTINF:0,Al-Aqsa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1392.ts
-#EXTINF:0,Al-Anbar
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1391.ts
-#EXTINF:0,Al-Adjwaa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1390.ts
-#EXTINF:0,Aghanina
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1389.ts
-#EXTINF:0,Aghani-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1388.ts
-#EXTINF:0,Adhafra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1387.ts
-#EXTINF:0,AbuDhabi-Imarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1384.ts
-#EXTINF:0,Abu-Dhabi-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1386.ts
-#EXTINF:0,Abu Dhabi Aloula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1385.ts
-#EXTINF:0,4Shabeb TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1383.ts
-#EXTINF:0,Time-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/436.ts
-#EXTINF:0,Time-Taxi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/812.ts
-#EXTINF:0,Star-Cin2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/427.ts
-#EXTINF:0,Cinema-Shobra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/895.ts
-#EXTINF:0,Abu-dhabi-yass
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/900.ts
-#EXTINF:0,Moga-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/894.ts
-#EXTINF:0,Time-comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/813.ts
-#EXTINF:0,Time-cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/814.ts
-#EXTINF:0,star-Film
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/425.ts
-#EXTINF:0,Samira-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/467.ts
-#EXTINF:0,Tamazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/792.ts
-#EXTINF:0,Otv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/788.ts
-#EXTINF:0,NBN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/778.ts
-#EXTINF:0,Mtv-lebanon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/819.ts
-#EXTINF:0,Lbc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/472.ts
-#EXTINF:0,Melody-classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/789.ts
-#EXTINF:0,Manartv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/777.ts
-#EXTINF:0,HITV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1275.ts
-#EXTINF:0,HAWACOMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1280.ts
-#EXTINF:0,ALHadath
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1274.ts
-#EXTINF:0,AlAhlyTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1281.ts
-#EXTINF:0,ONT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1276.ts
-#EXTINF:0,LANATV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1279.ts
-#EXTINF:0,GEAR-ONE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1277.ts
-#EXTINF:0,Heya-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/779.ts
-#EXTINF:0,BeurTv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/880.ts
-#EXTINF:0,Jsc-Mubasher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1063.ts
-#EXTINF:0,Jsc-Chidren
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1064.ts
-#EXTINF:0,Jsc-Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1065.ts
-#EXTINF:0,ECHOUROUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/795.ts
-#EXTINF:0,Cn-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/783.ts
-#EXTINF:0,AR.Numedia_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1016.ts
-#EXTINF:0,AR.Lindex_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1023.ts
-#EXTINF:0,AR.Laki_ENNAHAR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1014.ts
-#EXTINF:0,AR.KBC_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1020.ts
-#EXTINF:0,AR.ENTV_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1003.ts
-#EXTINF:0,AR.ENNAHAR_algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1013.ts
-#EXTINF:0,AR.El_Magharibya_2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1012.ts
-#EXTINF:0,AR.El_Magharibya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1011.ts
-#EXTINF:0,AR.EL_HADDAF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1022.ts
-#EXTINF:0,AR.EL_Djazairia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1015.ts
-#EXTINF:0,AR.EL_Biled
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1021.ts
-#EXTINF:0,AR.Echourouk_news
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1010.ts
-#EXTINF:0,AR.Echerouk_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1008.ts
-#EXTINF:0,AR.Echerouk_Benna
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1009.ts
-#EXTINF:0,AR.Dzair_TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1017.ts
-#EXTINF:0,AR.Dzair24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1019.ts
-#EXTINF:0,AR.Dzair21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1018.ts
-#EXTINF:0,AR.Canal_Algerie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1004.ts
-#EXTINF:0,AR.Algerie5_Quoran
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1007.ts
-#EXTINF:0,AR.Algerie3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1005.ts
-#EXTINF:0,AR.ALGERIAN_amazight
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1006.ts
-#EXTINF:0,CinemaPro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/787.ts
-#EXTINF:0,Bzaflive
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/794.ts
-#EXTINF:0,Arabica
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/781.ts
-#EXTINF:0,Alriadhia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/791.ts
-#EXTINF:0,Alqods
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/782.ts
-#EXTINF:0,Alnas
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/503.ts
-#EXTINF:0,TVA3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/793.ts
-#EXTINF:0,KBC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/879.ts
-#EXTINF:0,Toktok-cine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/786.ts
-#EXTINF:0,Toktok-Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/430.ts
-#EXTINF:0,Sama-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/797.ts
-#EXTINF:0,Sat7Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/785.ts
-#EXTINF:0,Sat7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/784.ts
-#EXTINF:0,TEN2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1291.ts
-#EXTINF:0,ENNAHAR-LAKI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1289.ts
-#EXTINF:0,Althanya
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1287.ts
-#EXTINF:0,ALAANTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1286.ts
-#EXTINF:0,National-Geo-AD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/798.ts
-#EXTINF:0,Nile-Tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/455.ts
-#EXTINF:0,Nile-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/983.ts
-#EXTINF:0,Nile-family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/456.ts
-#EXTINF:0,Nile-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/457.ts
-#EXTINF:0,Nile-Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/810.ts
-#EXTINF:0,Nile-cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/424.ts
-#EXTINF:0,Syria-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/450.ts
-#EXTINF:0,Panorama-comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/428.ts
-#EXTINF:0,panorama-food
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/429.ts
-#EXTINF:0,PanoramaAC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/422.ts
-#EXTINF:0,Panoram-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/453.ts
-#EXTINF:0,Panorama-Drama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/454.ts
-#EXTINF:0,Cairo-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/452.ts
-#EXTINF:0,Cairo-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/431.ts
-#EXTINF:0,AD-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/439.ts
-#EXTINF:0,Oscarcine
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/432.ts
-#EXTINF:0,Oscar-Drama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/451.ts
-#EXTINF:0,Karameech
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/507.ts
-#EXTINF:0,Hawas-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/438.ts
-#EXTINF:0,Fox-Arabic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/418.ts
-#EXTINF:0,Mody
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/505.ts
-#EXTINF:0,Spacetoon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/508.ts
-#EXTINF:0,Future
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/473.ts
-#EXTINF:0,Fox-Movie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/419.ts
-#EXTINF:0,Dubai-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/421.ts
-#EXTINF:0,Dubai-Dra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/443.ts
-#EXTINF:0,Dubai-zaman
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1060.ts
-#EXTINF:0,DUBAI-SPORT4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1278.ts
-#EXTINF:0,Dubai-tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1061.ts
-#EXTINF:0,Dubai-Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1062.ts
-#EXTINF:0,Dubai-AlOula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/445.ts
-#EXTINF:0,El-Djazairia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/488.ts
-#EXTINF:0,DTV-AlgÃplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/494.ts
-#EXTINF:0,CNBC-Arabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/400.ts
-#EXTINF:0,CnArabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/509.ts
-#EXTINF:0,ALnahar-one
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1288.ts
-#EXTINF:0,Medi-1TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/486.ts
-#EXTINF:0,Mbc-pro1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/544.ts
-#EXTINF:0,Mbc-Pro2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/545.ts
-#EXTINF:0,Mbc-Pro3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/546.ts
-#EXTINF:0,Mbc-Pro4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/547.ts
-#EXTINF:0,Mazika-Zoom
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/519.ts
-#EXTINF:0,Mazika
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/518.ts
-#EXTINF:0,AlnaharDrama
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/458.ts
-#EXTINF:0,Al-Nahar-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1285.ts
-#EXTINF:0,Al-Nahar-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1284.ts
-#EXTINF:0,Almajd3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/495.ts
-#EXTINF:0,ALjazeera
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/394.ts
-#EXTINF:0,Alhayet-S
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/449.ts
-#EXTINF:0,Alhayet-Musalsalet
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/448.ts
-#EXTINF:0,Alhayat2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/470.ts
-#EXTINF:0,Alhayat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/469.ts
-#EXTINF:0,2M-Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/482.ts
-#EXTINF:0,Algerie-3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/489.ts
-#EXTINF:0,ALarabia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/395.ts
-#EXTINF:0,Alafasy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/499.ts
-#EXTINF:0,Al-Maghribia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/483.ts
-#EXTINF:0,Al-Aoula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/485.ts
-#EXTINF:0,Ajman-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/481.ts
-#EXTINF:0,AD-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/522.ts
-#EXTINF:0,AD-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/521.ts
-#EXTINF:0,JSc-Docum
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/402.ts
-#EXTINF:0,Majestic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/437.ts
-#EXTINF:0,Maghreb24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/487.ts
-#EXTINF:0,AD-Aloula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/442.ts
-#EXTINF:0,Abu-dhabi-racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/901.ts
-#EXTINF:0,BBC-arab
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/398.ts
-#EXTINF:0,Baraem
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/506.ts
-#EXTINF:0,Assadissa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/484.ts
-#EXTINF:0,Abu-Dhabi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/441.ts
-#EXTINF:0,AD-Natgeo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/403.ts
-#EXTINF:0,AD-Emarat
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/440.ts
-#EXTINF:0,AlnaharDrama2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/459.ts
-#EXTINF:0,Dream
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/474.ts
-#EXTINF:0,Dream2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/475.ts
-#EXTINF:0,Cima
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/423.ts
-#EXTINF:0,—CsatFR—————————
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/887.ts
-#EXTINF:0,M6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/564.ts
-#EXTINF:0,TF1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/563.ts
-#EXTINF:0,W9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/566.ts
-#EXTINF:0,NT1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/878.ts
-#EXTINF:0,NRJ12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/877.ts
-#EXTINF:0,HD1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1270.ts
-#EXTINF:0,TMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1272.ts
-#EXTINF:0,Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/548.ts
-#EXTINF:0,Canal-Cinema
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/549.ts
-#EXTINF:0,Canal-Family
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/551.ts
-#EXTINF:0,Canal-Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/602.ts
-#EXTINF:0,Canal-Series
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/552.ts
-#EXTINF:0,Canal-Decale
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/550.ts
-#EXTINF:0,Cine-Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/554.ts
-#EXTINF:0,Cine-Frisson
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/553.ts
-#EXTINF:0,Cine-Famiz
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/557.ts
-#EXTINF:0,Cine-Emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/555.ts
-#EXTINF:0,Cine-Classic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/556.ts
-#EXTINF:0,TEVA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/583.ts
-#EXTINF:0,VOYAGE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/592.ts
-#EXTINF:0,USHUAIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/593.ts
-#EXTINF:0,Chasse-Peche
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/883.ts
-#EXTINF:0,Animaux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/853.ts
-#EXTINF:0,TV5-Monde
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/401.ts
-#EXTINF:0,Tv-Breizh
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/575.ts
-#EXTINF:0,TELETOONplus
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/620.ts
-#EXTINF:0,TIJI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/614.ts
-#EXTINF:0,Disney-channel-fr
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1271.ts
-#EXTINF:0,Serie-Club
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/579.ts
-#EXTINF:0,SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/584.ts
-#EXTINF:0,SRF-Zwei
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/623.ts
-#EXTINF:0,SRF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/622.ts
-#EXTINF:0,RTS-Un
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/624.ts
-#EXTINF:0,RTS-Deux
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/625.ts
-#EXTINF:0,SPORT365
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/606.ts
-#EXTINF:0,PLANETE-AE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/588.ts
-#EXTINF:0,PLANETE-CI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/587.ts
-#EXTINF:0,PlANETE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/586.ts
-#EXTINF:0,Paris-Premiere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/576.ts
-#EXTINF:0,Ocs-Max
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/561.ts
-#EXTINF:0,Ocs-Geant
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/560.ts
-#EXTINF:0,Ocs-City
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/558.ts
-#EXTINF:0,Ocs-CHoc
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/559.ts
-#EXTINF:0,NATIONAL-GEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/598.ts
-#EXTINF:0,France24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/397.ts
-#EXTINF:0,JUNE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/585.ts
-#EXTINF:0,HISTOIRE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/597.ts
-#EXTINF:0,France2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/569.ts
-#EXTINF:0,France3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/570.ts
-#EXTINF:0,France4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/571.ts
-#EXTINF:0,France5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/572.ts
-#EXTINF:0,France0
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/573.ts
-#EXTINF:0,FOOT24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/607.ts
-#EXTINF:0,Eurosport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/608.ts
-#EXTINF:0,NFOSPORTPLUS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1273.ts
-#EXTINF:0,Eurosport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/609.ts
-#EXTINF:0,EQUIDIA-LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/610.ts
-#EXTINF:0,DISNEY-CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/619.ts
-#EXTINF:0,DISCOVERY-SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/601.ts
-#EXTINF:0,D8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/567.ts
-#EXTINF:0,D17
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/568.ts
-#EXTINF:0,Piwi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/882.ts
-#EXTINF:0,BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/613.ts
-#EXTINF:0,6Ter
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/565.ts
-#EXTINF:0,13Eme-RUE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/578.ts
-#EXTINF:0,CANALJ
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/612.ts
-#EXTINF:0,RTL-TVI-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1215.ts
-#EXTINF:0,PLUG-RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1216.ts
-#EXTINF:0,LA-UNE-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1217.ts
-#EXTINF:0,LA-DEUX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1219.ts
-#EXTINF:0,LA-TROIS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1218.ts
-#EXTINF:0,CLUB-RTL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1220.ts
-#EXTINF:0,—Sky-It————————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/888.ts
-#EXTINF:0,Sky-Cinema-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/821.ts
-#EXTINF:0,Sky-ITCinema1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/849.ts
-#EXTINF:0,Sky-IT-PassionHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/850.ts
-#EXTINF:0,Sky-ITHitsHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/847.ts
-#EXTINF:0,Sky-ITFamilyHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/851.ts
-#EXTINF:0,Sky-IT-ComedyHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/852.ts
-#EXTINF:0,Sky-ITClassicHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/848.ts
-#EXTINF:0,SkyITNatGeoWild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/918.ts
-#EXTINF:0,SkyITDisneyJunior1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/935.ts
-#EXTINF:0,SkyITDisneyJunior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/936.ts
-#EXTINF:0,SkyITCinemaMax1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/942.ts
-#EXTINF:0,SkyITCinemaCult
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/945.ts
-#EXTINF:0,SkyITCinemaClassics
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/947.ts
-#EXTINF:0,Sky-Sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/651.ts
-#EXTINF:0,Sky-Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/652.ts
-#EXTINF:0,SkyMotoGPHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/846.ts
-#EXTINF:0,SkySport3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/841.ts
-#EXTINF:0,SkySportF1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/842.ts
-#EXTINF:0,SkySport24HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/843.ts
-#EXTINF:0,SkyCalcio1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/844.ts
-#EXTINF:0,Sky-Calcio2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/845.ts
-#EXTINF:0,Sky-Uno-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1226.ts
-#EXTINF:0,Sky-Supercalcio-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1227.ts
-#EXTINF:0,Sky-Fox-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1231.ts
-#EXTINF:0,Rai-Sport-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1236.ts
-#EXTINF:0,Rai-Sport-2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1235.ts
-#EXTINF:0,Fox-Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1234.ts
-#EXTINF:0,Eurosport-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1232.ts
-#EXTINF:0,Eurosport-2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1233.ts
-#EXTINF:0,Rete-4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/627.ts
-#EXTINF:0,Italia-Uno
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/626.ts
-#EXTINF:0,Canal-5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/628.ts
-#EXTINF:0,Rai1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/836.ts
-#EXTINF:0,Rai2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/837.ts
-#EXTINF:0,Rai3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/838.ts
-#EXTINF:0,caccia-Pesca
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/811.ts
-#EXTINF:0,PRIMAFILA1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1153.ts
-#EXTINF:0,PRIMAFILA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1154.ts
-#EXTINF:0,PRIMAFILA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1155.ts
-#EXTINF:0,PRIMAFILA4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1156.ts
-#EXTINF:0,PRIMAFILA5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1157.ts
-#EXTINF:0,PRIMAFILA6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1158.ts
-#EXTINF:0,PRIMAFILA7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1159.ts
-#EXTINF:0,PRIMAFILA8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1160.ts
-#EXTINF:0,PRIMAFILA9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1161.ts
-#EXTINF:0,PRIMAFILA10HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1162.ts
-#EXTINF:0,PRIMAFILA11HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1163.ts
-#EXTINF:0,PRIMAFILA12HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1164.ts
-#EXTINF:0,PRIMAFILA13HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1165.ts
-#EXTINF:0,PRIMAFILA14HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1166.ts
-#EXTINF:0,PRIMAFILA15HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1167.ts
-#EXTINF:0,—Mediaset-IT—————————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1188.ts
-#EXTINF:0,PREMIUM-STORIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1196.ts
-#EXTINF:0,PREMIUM-SPORTHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1197.ts
-#EXTINF:0,PREMIUM-JOIHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1189.ts
-#EXTINF:0,PREMIUM-ENERGY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1198.ts
-#EXTINF:0,PREMIUM-EMOTION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1199.ts
-#EXTINF:0,PREMIUM-CRIMEHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1200.ts
-#EXTINF:0,PREMIUM-COMEDY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1202.ts
-#EXTINF:0,PREMIUM-CINEMAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1203.ts
-#EXTINF:0,PREMIUM-CINEMA2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1192.ts
-#EXTINF:0,MEDIASET-ITALIA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1193.ts
-#EXTINF:0,MEDIASET-EXTRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1194.ts
-#EXTINF:0,—Sky-DE——————————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/889.ts
-#EXTINF:0,DE-Sat-1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1357.ts
-#EXTINF:0,DE-RTL2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1355.ts
-#EXTINF:0,DE-RTL-Nitro
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1356.ts
-#EXTINF:0,DE-RTL-I
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1354.ts
-#EXTINF:0,DE-RTL-Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1353.ts
-#EXTINF:0,DE-ProSieben
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1352.ts
-#EXTINF:0,DE-PRO7-MAXX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1351.ts
-#EXTINF:0,DE-Pro7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1350.ts
-#EXTINF:0,DE-Phoenix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1349.ts
-#EXTINF:0,ZDF
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/832.ts
-#EXTINF:0,VOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/833.ts
-#EXTINF:0,super-rtl
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/954.ts
-#EXTINF:0,Sky-DMAX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/822.ts
-#EXTINF:0,Skyde-sport1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/992.ts
-#EXTINF:0,SkySport2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/834.ts
-#EXTINF:0,Sky-BundesLiga1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/824.ts
-#EXTINF:0,Sky-Cinema1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/823.ts
-#EXTINF:0,Sky007
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/986.ts
-#EXTINF:0,Sky-nostalgie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/991.ts
-#EXTINF:0,Sky-krimi
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/988.ts
-#EXTINF:0,Sky-emotion
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/989.ts
-#EXTINF:0,Sky-atlantic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/990.ts
-#EXTINF:0,Sky-action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/987.ts
-#EXTINF:0,Sky-Comedy-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/820.ts
-#EXTINF:0,sky-cinemaplus1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/981.ts
-#EXTINF:0,sky-cinema24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/982.ts
-#EXTINF:0,Sky-Action-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/825.ts
-#EXTINF:0,skyhits
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/980.ts
-#EXTINF:0,syfy-de
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/979.ts
-#EXTINF:0,mgm
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/978.ts
-#EXTINF:0,NdrHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/829.ts
-#EXTINF:0,N24HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/830.ts
-#EXTINF:0,N-TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/831.ts
-#EXTINF:0,BlizzHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/828.ts
-#EXTINF:0,Skyselect1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1002.ts
-#EXTINF:0,Skyselect2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1001.ts
-#EXTINF:0,Skyselect3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1000.ts
-#EXTINF:0,Skyselect4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/999.ts
-#EXTINF:0,Skyselect5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/998.ts
-#EXTINF:0,SkySelect6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/997.ts
-#EXTINF:0,SkySelect7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/996.ts
-#EXTINF:0,SkySelect8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/995.ts
-#EXTINF:0,SkySelect9HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/994.ts
-#EXTINF:0,—Digitalplus———————
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1152.ts
-#EXTINF:0,TELECINCOHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1245.ts
-#EXTINF:0,NATGEO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1246.ts
-#EXTINF:0,LASEXTA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1247.ts
-#EXTINF:0,LA2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1248.ts
-#EXTINF:0,LA1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1249.ts
-#EXTINF:0,HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1250.ts
-#EXTINF:0,GALICIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1251.ts
-#EXTINF:0,EXTREMADURA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1252.ts
-#EXTINF:0,CUATRO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1254.ts
-#EXTINF:0,CAZAYPESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1255.ts
-#EXTINF:0,CANALSERIE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1262.ts
-#EXTINF:0,CANALLALIGA 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1257.ts
-#EXTINF:0,CANALLALIGA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1256.ts
-#EXTINF:0,CANALFUTBOL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1263.ts
-#EXTINF:0,CANALESTRENOS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1258.ts
-#EXTINF:0,CANALDEPORTE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1264.ts
-#EXTINF:0,CANALDCINE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1259.ts
-#EXTINF:0,CANALCOMEDIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1260.ts
-#EXTINF:0,CANALACCION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1261.ts
-#EXTINF:0,CALLE13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1265.ts
-#EXTINF:0,BEINESPAÃplugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1266.ts
-#EXTINF:0,ANTENASERIESHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1267.ts
-#EXTINF:0,ANTENA3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1268.ts
-#EXTINF:0,—NL——————————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1334.ts
-#EXTINF:0,Stadium1-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1343.ts
-#EXTINF:0,Stadium2-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1344.ts
-#EXTINF:0,Stadium3-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1345.ts
-#EXTINF:0,Stadium4-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1346.ts
-#EXTINF:0,Stadium5-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1347.ts
-#EXTINF:0,Stadium6-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1348.ts
-#EXTINF:0,DISNEY_CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1333.ts
-#EXTINF:0,TELEKIDS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1332.ts
-#EXTINF:0,NL-VERONICAHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1436.ts
-#EXTINF:0,NL-TLCHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1434.ts
-#EXTINF:0,NL-SBS6HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1431.ts
-#EXTINF:0,NL-RTL8HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1433.ts
-#EXTINF:0,NL-RTL7HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1432.ts
-#EXTINF:0,NL-RTL5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1428.ts
-#EXTINF:0,NL-RTL4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1427.ts
-#EXTINF:0,NL-NPO1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1421.ts
-#EXTINF:0,NL-NPO2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1422.ts
-#EXTINF:0,NL-NPO3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1423.ts
-#EXTINF:0,NL-NICKTOONSHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1439.ts
-#EXTINF:0,NL-NICKELODEON-SPIKE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1438.ts
-#EXTINF:0,NL-NET5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1429.ts
-#EXTINF:0,NL-INVESTIGATION-DISC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1442.ts
-#EXTINF:0,NL-HBOHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1424.ts
-#EXTINF:0,NL-HBO2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1425.ts
-#EXTINF:0,NL-HBO3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1426.ts
-#EXTINF:0,NL-FOXSPORTS1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1448.ts
-#EXTINF:0,NL-FOXSPORTS2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1449.ts
-#EXTINF:0,NL-FOXSPORTS3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1450.ts
-#EXTINF:0,NL-FOXSPORTS4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1451.ts
-#EXTINF:0,NL-FOXSPORTS5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1452.ts
-#EXTINF:0,NL-FOX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1435.ts
-#EXTINF:0,NL-FILM1SUNDANCEHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1444.ts
-#EXTINF:0,NL-FILM1PREMIEREHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1445.ts
-#EXTINF:0,NL-FILM1COMEDYHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1446.ts
-#EXTINF:0,NL-FILM1ACTIONHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1447.ts
-#EXTINF:0,NL-DISNEYJUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1441.ts
-#EXTINF:0,NL-DISCOVERY-CHANNEL-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1443.ts
-#EXTINF:0,NL-COMEDYCENTRAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1437.ts
-#EXTINF:0,NL-CARTOONNLHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1440.ts
-#EXTINF:0,NL-AT5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1430.ts
-#EXTINF:0,FILM1_PREMIERE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1331.ts
-#EXTINF:0,EEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1330.ts
-#EXTINF:0,NET5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1326.ts
-#EXTINF:0,HBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1327.ts
-#EXTINF:0,HBO2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1328.ts
-#EXTINF:0,HBO3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1329.ts
-#EXTINF:0,RTL4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1322.ts
-#EXTINF:0,RTL5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1323.ts
-#EXTINF:0,RTL7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1324.ts
-#EXTINF:0,RTL8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1325.ts
-#EXTINF:0,RTL9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/581.ts
-#EXTINF:0,NPO1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1319.ts
-#EXTINF:0,NPO2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1320.ts
-#EXTINF:0,NPO3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1321.ts
-#EXTINF:0,—Sky-Uk————————–
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/890.ts
-#EXTINF:0,SkyUKSport1HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/859.ts
-#EXTINF:0,SkyUKSport2HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/858.ts
-#EXTINF:0,SkyUKSport3HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/857.ts
-#EXTINF:0,SkyUKSport4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/856.ts
-#EXTINF:0,SkyUKSport5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/855.ts
-#EXTINF:0,BBC-One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1337.ts
-#EXTINF:0,BBC-Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1338.ts
-#EXTINF:0,BBC-Three
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1339.ts
-#EXTINF:0,SkyThrillerUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/867.ts
-#EXTINF:0,SkyShowCaseUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/868.ts
-#EXTINF:0,SkySelectUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/869.ts
-#EXTINF:0,SkySci-FihorrorUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/875.ts
-#EXTINF:0,SkyITMaxhd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/854.ts
-#EXTINF:0,SkyGreatsUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/871.ts
-#EXTINF:0,SkyFamilyUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/872.ts
-#EXTINF:0,SkyDramaRomanceUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/873.ts
-#EXTINF:0,SkyDisneyUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/874.ts
-#EXTINF:0,SkyActionUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/866.ts
-#EXTINF:0,NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1242.ts
-#EXTINF:0,DISNEYXD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1239.ts
-#EXTINF:0,BT-SPORTS2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1241.ts
-#EXTINF:0,BT-SPORTS1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1240.ts
-#EXTINF:0,SkyPremiereUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/870.ts
-#EXTINF:0,SkyComedyUk
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/865.ts
-#EXTINF:0,CBS-RealityUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1066.ts
-#EXTINF:0,UK-Syfy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1069.ts
-#EXTINF:0,UK-SKYArt1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1070.ts
-#EXTINF:0,UK-Sky-Two
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1071.ts
-#EXTINF:0,UK Sky-F1UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1072.ts
-#EXTINF:0,TrueMovies2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/864.ts
-#EXTINF:0,TrueMovies1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/863.ts
-#EXTINF:0,True-Movies 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1068.ts
-#EXTINF:0,Sky-Sp-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1073.ts
-#EXTINF:0,Sky-One
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1074.ts
-#EXTINF:0,Sky-News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/399.ts
-#EXTINF:0,National-GeoUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1076.ts
-#EXTINF:0,NatGeoWildUK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/862.ts
-#EXTINF:0,NATGEO-WILD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/599.ts
-#EXTINF:0,Movies-4men
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1077.ts
-#EXTINF:0,ITV1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1081.ts
-#EXTINF:0,ITV2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1080.ts
-#EXTINF:0,ITV3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1079.ts
-#EXTINF:0,ITV4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1078.ts
-#EXTINF:0,—Turkish————————-
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1318.ts
-#EXTINF:0,SALON1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1294.ts
-#EXTINF:0,SALON2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1293.ts
-#EXTINF:0,SALON3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1292.ts
-#EXTINF:0,TR-FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1309.ts
-#EXTINF:0,CNNTURK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1313.ts
-#EXTINF:0,CARTONNETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1315.ts
-#EXTINF:0,ATV-HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://149.202.77.226:7500/live/pass1/pass1/1316.ts
+#EXTINF:-1,***** ARABIC *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2364.ts
+#EXTINF:-1,AR | LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2355.ts
+#EXTINF:-1,AR | DW ARABIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2351.ts
+#EXTINF:-1,AR | KUWAIT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2353.ts
+#EXTINF:-1,AR | FIRST TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2352.ts
+#EXTINF:-1,AR | SAMA DUBAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2360.ts
+#EXTINF:-1,AR | NESSMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2330.ts
+#EXTINF:-1,AR | MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2346.ts
+#EXTINF:-1,AR | AL JAZEERA KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2345.ts
+#EXTINF:-1,AR | AL JAZEERA DOCU
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2344.ts
+#EXTINF:-1,AR | AL JAZEERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2343.ts
+#EXTINF:-1,AR | MBC ACTION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2342.ts
+#EXTINF:-1,AR | MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2341.ts
+#EXTINF:-1,AR | MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2340.ts
+#EXTINF:-1,AR | MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2339.ts
+#EXTINF:-1,AR | MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2338.ts
+#EXTINF:-1,AR | DUBAI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2350.ts
+#EXTINF:-1,AR | ROTANA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2334.ts
+#EXTINF:-1,AR | ROTANA CLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2335.ts
+#EXTINF:-1,AR | 2M MAROC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2336.ts
+#EXTINF:-1,AR | ROTANA MASRIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2361.ts
+#EXTINF:-1,AR | SHARJAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2362.ts
+#EXTINF:-1,AR | ROTANA KHALIJIAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2359.ts
+#EXTINF:-1,AR | O TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2357.ts
+#EXTINF:-1,AR | NOOR DUBAI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2356.ts
+#EXTINF:-1,AR | ROTANA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2358.ts
+#EXTINF:-1,AR | BEIN MOVIES 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2333.ts
+#EXTINF:-1,AR | AL ARABIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2337.ts
+#EXTINF:-1,AR | ALAAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2347.ts
+#EXTINF:-1,AR | KUWAIT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2354.ts
+#EXTINF:-1,AR | BBC ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2348.ts
+#EXTINF:-1,AR | DUBAI ONE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2349.ts
+#EXTINF:-1,AR | AJYAL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2331.ts
+#EXTINF:-1,AR | ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2332.ts
+#EXTINF:-1,AR | LBC INT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2363.ts
+#EXTINF:-1,AR | OSN Star world
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3074.ts
+#EXTINF:-1,AR | OSN STAR MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3075.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3066.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3065.ts
+#EXTINF:-1,AR | OSN ON DEMAND EXTRA 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3064.ts
+#EXTINF:-1,AR | OSN ON DEMAND 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3069.ts
+#EXTINF:-1,AR | OSN ON DEMAND 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3068.ts
+#EXTINF:-1,AR | OSN ON DEMAND 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3067.ts
+#EXTINF:-1,AR | OSN Movies Premiere plus 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3055.ts
+#EXTINF:-1,AR | OSN Movies Premiere HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3056.ts
+#EXTINF:-1,AR | OSN Movies Kids HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3057.ts
+#EXTINF:-1,AR | OSN Movies Festival HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3058.ts
+#EXTINF:-1,AR | OSN Movies Drama HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3059.ts
+#EXTINF:-1,AR | OSN Movies Comedy Plus2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3060.ts
+#EXTINF:-1,AR | OSN Movies Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3061.ts
+#EXTINF:-1,AR | OSN Movies Box Office 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3073.ts
+#EXTINF:-1,AR | OSN Movies Box Office 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3072.ts
+#EXTINF:-1,AR | OSN Movies Box Office 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3071.ts
+#EXTINF:-1,AR | OSN Movies Action2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3062.ts
+#EXTINF:-1,AR | OSN Movies Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3070.ts
+#EXTINF:-1,AR | OSN MOVIE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3063.ts
+#EXTINF:-1,***** SPAIN *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2669.ts
+#EXTINF:-1,SP | FDF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2650.ts
+#EXTINF:-1,SP | La Sexta HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2649.ts
+#EXTINF:-1,SP | DCINE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2651.ts
+#EXTINF:-1,SP | TV3 CAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2656.ts
+#EXTINF:-1,SP | CUATRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2652.ts
+#EXTINF:-1,SP | TVE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2659.ts
+#EXTINF:-1,SP | MOVISTAR MOTO GP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2664.ts
+#EXTINF:-1,SP | Barca TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2665.ts
+#EXTINF:-1,SP | TELEVISA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2661.ts
+#EXTINF:-1,SP | Real Madrid tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2648.ts
+#EXTINF:-1,SP | Teledeporte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2653.ts
+#EXTINF:-1,SP | CANAL+ TOROS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2654.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2657.ts
+#EXTINF:-1,SP | CALLE 13
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2658.ts
+#EXTINF:-1,SP | CANAL+ FUTBOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2662.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2640.ts
+#EXTINF:-1,SP | NEOX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2641.ts
+#EXTINF:-1,SP | NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2639.ts
+#EXTINF:-1,SP | TVE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2666.ts
+#EXTINF:-1,SP | A&E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2667.ts
+#EXTINF:-1,SP | Canal+ Accion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2668.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2663.ts
+#EXTINF:-1,SP | PARAMOUNT CH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2643.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2644.ts
+#EXTINF:-1,***** PORTUGAL *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2813.ts
+#EXTINF:-1,PT | TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2803.ts
+#EXTINF:-1,PT | TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2804.ts
+#EXTINF:-1,PT | TVI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2793.ts
+#EXTINF:-1,PT | TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2791.ts
+#EXTINF:-1,PT | TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2790.ts
+#EXTINF:-1,PT | TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2789.ts
+#EXTINF:-1,PT | TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2788.ts
+#EXTINF:-1,PT | TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2805.ts
+#EXTINF:-1,PT | SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2792.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2807.ts
+#EXTINF:-1,PT | SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2808.ts
+#EXTINF:-1,PT | SIC Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2802.ts
+#EXTINF:-1,PT | SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2794.ts
+#EXTINF:-1,PT | RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2801.ts
+#EXTINF:-1,PT | RTP ÃƒÂfrica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2800.ts
+#EXTINF:-1,PT | RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2799.ts
+#EXTINF:-1,PT | RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2798.ts
+#EXTINF:-1,PT | RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2797.ts
+#EXTINF:-1,PT | PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2809.ts
+#EXTINF:-1,PT | MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2806.ts
+#EXTINF:-1,PT | FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2810.ts
+#EXTINF:-1,PT | FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2811.ts
+#EXTINF:-1,PT | BTV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2796.ts
+#EXTINF:-1,PT | BTV1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2795.ts
+#EXTINF:-1,PT | AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2812.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2989.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2990.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2991.ts
+#EXTINF:-1,PT | SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/2992.ts
+#EXTINF:-1,PT | VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3104.ts
+#EXTINF:-1,PT | TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3080.ts
+#EXTINF:-1,PT | SPORT TV+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3088.ts
+#EXTINF:-1,PT | SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3087.ts
+#EXTINF:-1,PT | SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3082.ts
+#EXTINF:-1,PT | PANDA BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3086.ts
+#EXTINF:-1,PT | Odisseia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3100.ts
+#EXTINF:-1,PT | NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3101.ts
+#EXTINF:-1,PT | MOV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3095.ts
+#EXTINF:-1,PT | MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3092.ts
+#EXTINF:-1,PT | JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3085.ts
+#EXTINF:-1,PT | HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3093.ts
+#EXTINF:-1,PT | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3098.ts
+#EXTINF:-1,PT | FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3099.ts
+#EXTINF:-1,PT | EUROSPORT 2 XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3091.ts
+#EXTINF:-1,PT | DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3083.ts
+#EXTINF:-1,PT | DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3102.ts
+#EXTINF:-1,PT | CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3081.ts
+#EXTINF:-1,PT | CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3094.ts
+#EXTINF:-1,PT | CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3103.ts
+#EXTINF:-1,PT | CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3084.ts
+#EXTINF:-1,PT | BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3089.ts
+#EXTINF:-1,PT | AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3096.ts
+#EXTINF:-1,PT | AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3097.ts
+#EXTINF:-1,PT | A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3090.ts
+#EXTINF:-1,***** WORLD SPORTS *****
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/904.ts
+#EXTINF:-1,STAR SPORTS 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/946.ts
+#EXTINF:-1,STAR SPORTS 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/945.ts
+#EXTINF:-1,STAR SPORTS 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/944.ts
+#EXTINF:-1,STAR SPORTS 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/943.ts
+#EXTINF:-1,MBC Pro Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/927.ts
+#EXTINF:-1,MBC Pro Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/926.ts
+#EXTINF:-1,MBC ProSports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/925.ts
+#EXTINF:-1,OLTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/955.ts
+#EXTINF:-1,AD Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/957.ts
+#EXTINF:-1,AD Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/956.ts
+#EXTINF:-1,Dubai Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/959.ts
+#EXTINF:-1,Dubai Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/958.ts
+#EXTINF:-1,Dubai Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/974.ts
+#EXTINF:-1,CANAL SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/917.ts
+#EXTINF:-1,CANAL LIGA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/921.ts
+#EXTINF:-1,CANAL GOLF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/920.ts
+#EXTINF:-1,CANAL FUTBALL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/919.ts
+#EXTINF:-1,CANAL DEPORTES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/918.ts
+#EXTINF:-1,Real Madrid TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/947.ts
+#EXTINF:-1,EQUIDIA Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/948.ts
+#EXTINF:-1,EQUIDIA LIVE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/949.ts
+#EXTINF:-1,BEIN SPORT 1 FR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/954.ts
+#EXTINF:-1,BEIN SPORT 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/953.ts
+#EXTINF:-1,BEIN SPORT 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/952.ts
+#EXTINF:-1,FR Eurosport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/951.ts
+#EXTINF:-1,FR Eurosport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/950.ts
+#EXTINF:-1,BEIN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/942.ts
+#EXTINF:-1,BEIN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/941.ts
+#EXTINF:-1,BEIN 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/940.ts
+#EXTINF:-1,BEIN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/939.ts
+#EXTINF:-1,BEIN 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/938.ts
+#EXTINF:-1,BEIN 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/937.ts
+#EXTINF:-1,BEIN 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/936.ts
+#EXTINF:-1,BEIN 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/935.ts
+#EXTINF:-1,BEIN 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/934.ts
+#EXTINF:-1,BEIN 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/933.ts
+#EXTINF:-1,BEIN 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/932.ts
+#EXTINF:-1,BEIN 12 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/931.ts
+#EXTINF:-1,BEIN 13 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/930.ts
+#EXTINF:-1,BARCA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/914.ts
+#EXTINF:-1,DE | BUNDESLIGA 1 HD uuu
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3314.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3045.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 2 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3046.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 3 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3047.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 4 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3048.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 5 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3049.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 6 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3050.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 7 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3051.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 8 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3052.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 9 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3053.ts
+#EXTINF:-1,DE | SKY BUNDESLIGA 10 HD !!! weekend only !!!
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3054.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3076.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3077.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3078.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://devcon.1dns1.com:8080/live/cccamclup/325697/3079.ts
