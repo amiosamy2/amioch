@@ -1,451 +1,1543 @@
 #EXTM3U
-#EXTINF:-1,MBC 1
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1,MBC Drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
-#EXTINF:-1,MBC Masr
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1,MBC Masr +2
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1,MBC 4 
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_4
-#EXTINF:0,MBC2
-http://51.255.81.190:8080/MBC-2/playlist.m3u8
-#EXTINF:0,MBC Max
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mbc_max
-#EXTINF:0,MBC Action
-http://51.255.81.190:8080/MBC-Action/playlist.m3u8
-#EXTINF:-1,Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Dhabi Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:0,Funoon
-http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
-#EXTINF:-1,Abu Dabi Drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
-#EXTINF:-1,Abu Dabi
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
-#EXTINF:-1,Abu Dabi Emarat
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
-#EXTINF:-1,FATAFEAT
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/fatafeat
-#EXTINF:-1,CBC SOFRA
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8
-#EXTINF:-1,Panorama Food 
-http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
-#EXTINF:-1,Al-Nahar TV
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
-#EXTINF:-1,Al-Nahar Drama
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
-#EXTINF:-1,Al Nahar Alyom
-http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/index.m3u8
-#EXTINF:-1,AlKahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1,Sada AL Balad Drama
-http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
-#EXTINF:-1,CBC
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
-#EXTINF:-1,CBC Drama
-http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
-#EXTINF:-1,CBC Extra
-http://selevision9891-i.akamaihd.net/hls/live/219328/98911/2.m3u8
-#EXTINF:-1,Musalsalat HD
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-#EXTINF:-1,AL-HAYAT TV
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat
-#EXTINF:-1,AL-HAYAT Series
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alhayat_musalsalat
-#EXTINF:-1,AL-HAYAT 2
-http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
-#EXTINF:-1,Dream TV
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dream_1
-#EXTINF:-1,Moga Comedy
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/moga_comedy
-#EXTINF:-1,MTV Lebanon
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1,OTV Lebanon
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/otv_lebanon
-#EXTINF:-1,LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1,LDC
-http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
-#EXTINF:-1,Future TV
-http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
-#EXTINF:-1,NRT arabic
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1,Aliraqia
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/al_iraqiya
-#EXTINF:-1, AL-Arabiya
-http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8
-#EXTINF:-1, AL-Arabiya AL-Hadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,AlJazeera
-http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Al-Jazeera Document
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,National Geographic
-http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
-#EXTINF:-1,RT Today Arabic
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
-#EXTINF:-1,DW Arabic
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,Quest Arabia
-http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
-#EXTINF:-1,AL HURRA
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1,NOORSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
-#EXTINF:-1,Al Fady TV
-http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
-#EXTINF:-1,AGHANI Tv
-http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
-#EXTINF:-1,ZEE ALWAN
-http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
-#EXTINF:-1,Mazzika
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/mazzika
-#EXTINF:-1,ART Aflam 1
-http://www.teledunet.tv:8888/art_aflam_1.m3u8?idu=future_82354624560
-#EXTINF:-1,ART Aflam 2
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/art_aflam_2
-#EXTINF:-1,ROTANA Cinema
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
-#EXTINF:-1,ROTANA AFLAM
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1,Nile Cinema
-http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
-#EXTINF:-1,Cairo Cinema
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cairo_cinema
-#EXTINF:-1,Cima
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cima
-#EXTINF:-1,Cinema 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,Cima Habisha TV
-http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
-#EXTINF:-1,Tok Tok Cinema
-http://selevision9892-i.akamaihd.net/hls/live/219340/98923/1.m3u8
-#EXTINF:-1,Al Nahar Cinema
-http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/index.m3u8
-#EXTINF:-1,Seevii 1
-http://9886.akamai.live.selevision.com/live/9886/98865/master.m3u8
-#EXTINF:-1,Abu Dhabi Sport 1
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_1
-#EXTINF:-1,Abu Dhabi Sport 2
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/abu_dhabi_sports_2
-#EXTINF:-1,Dubai Sport 1
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_1
-#EXTINF:-1,Dubai Sport 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Dubai Sport 4
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/dubai_sport_4
-#EXTINF:-1,AL Kass TV
-rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/alkass_tv
-#EXTINF:-1,Lebanon TV
-http://46.43.71.119:8000/play/a00e
-#EXTINF:-1,Al Jadeed
-http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
-#EXTINF:-1,MTV
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1,LDC
-http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
-#EXTINF:-1,MTV
-http://www.osltv.com/sniffs-s/mtv.m3u8
-#EXTINF:-1,Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
-#EXTINF:-1,Arabica TV
-https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-#EXTINF:-1,LDC TV
-http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
-#EXTINF:-1,MTV Lebanon
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1,MTV Lebanon
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1,NBN
-http://46.43.71.119:8000/play/a00c
-#EXTINF:-1,Hawacom
-http://46.43.71.119:8000/play/a00f
-#EXTINF:-1,AL Jaded
-http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
-#EXTINF:-1,LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1,LDC
-http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
-#EXTINF:-1,Future TV
-http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
-#EXTINF:-1,Rotana Aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1,Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1,Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1,Rotana Cinema
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-cinema
-#EXTINF:-1,Rotana Classic
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-classic
-#EXTINF:-1,Rotana Masriya
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
-#EXTINF:-1,Rotana Aflam
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-aflam
-#EXTINF:-1,Rotana Aflam
-http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
-#EXTINF:-1,CBC
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=cbc&t=ar
-#EXTINF:-1,Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-#EXTINF:-1,Cinema 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,Nile Cinema
-http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
-#EXTINF:-1,Cinema 1
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
-#EXTINF:-1,Cima Habisha TV
-http://selevision9892-i.akamaihd.net/hls/live/219343/98926/1.m3u8
-#EXTINF:-1,Musalsalat HD
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-#EXTINF:-1,AlKahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1,CBC SOFRA
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/master.m3u8
-#EXTINF:-1,Panorama Food
-http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
-#EXTINF:-1,Al-Nahar TV
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
-#EXTINF:-1,Al-Nahar Drama
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
-#EXTINF:-1,Al Nahar Alyom
-http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/index.m3u8
-#EXTINF:-1,AlKahera Wal Nas
-http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
-#EXTINF:-1,Sada AL Balad Drama
-http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
-#EXTINF:-1,CBC
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
-#EXTINF:-1,CBC Drama
-http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
-#EXTINF:-1,CBC Extra
-http://selevision9891-i.akamaihd.net/hls/live/219328/98911/2.m3u8
-#EXTINF:-1,Musalsalat HD
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
-#EXTINF:-1,AL-HAYAT 2
-http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
-#EXTINF:-1,DUBAI
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1, Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, Dubai ONE
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1, Noor DubaiTV
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1, Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1, Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1,Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=nat_geo_ad&t=ar
-#EXTINF:-1,Abu Dhabi Emarat
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
-#EXTINF:-1,Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Dhabi Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dabi Drama
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
-#EXTINF:-1,Abu Dabi
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
-#EXTINF:-1,Abu Dabi Emarat
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
-#EXTINF:-1,mbc 1	
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1,mbc 2
-http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
-#EXTINF:-1,mbc 3
-http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
-#EXTINF:-1,mbc 4
-http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
-#EXTINF:-1,mbc Action
-http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
-#EXTINF:-1,mbc Max
-http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
-#EXTINF:-1,mbc bollywood
-http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
-#EXTINF:-1,mbc Masr 1
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1,mbc Masr 2
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1,mbc Drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
-#EXTINF:-1,mbc Drama Plus
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
-#EXTINF:-1,mbc Variety
-http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
-#EXTINF:-1,MBC 1
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1,MBC 2
-http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC 4
-http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC ACTION
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC MAX
-http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,Mbc Drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/2.m3u8
-#EXTINF:-1,MBC Drama
-http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
-#EXTINF:-1,MBC Masr
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1,Mbc masr 1
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1,MBC Masr +2
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1,Mbc masr 2
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1,Mbc Drama Plus
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
-#EXTINF:-1,Mbc variety
-http://selevision9878-i.akamaihd.net/hls/live/219136/98788/1.m3u8
-#EXTINF:-1,Panorama food
-http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
-#EXTINF:-1,Mbc Bollywood
-http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
-#EXTINF:-1,MBC BOLLYWOOD
-http://63.237.48.28/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8 
-#EXTINF:-1,OSN Wild Arabic
-http://9894.akamai.live.selevision.com/live/9894/98944/master.m3u8
-#EXTINF:-1,Al Jazeera News
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
-#EXTINF:-1,Skynews Arabia
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8?v=1599781043
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Arabia Alhadath
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,Euro News
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-#EXTINF:-1,Russia Today
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
-#EXTINF:-1,Alhurra TV
-rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
-#EXTINF:-1,Aljazeera Arabic
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_ara_high
-#EXTINF:-1,BBC
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:0 ,AL HADATH
-http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
-#EXTINF:0 ,Alarabiya
-http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,Sky News
-http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,BBC Arabia
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-#EXTINF:-1,Aljazeera ENG
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1,Bloomberg (Europe)
-http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
-#EXTINF:-1,Abu Dabi Sport 1 HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,Abu Dabi Sport 2 HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,Abu Dhabi 1
-http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula-video=643200-audio_AACL_und_41200_120=41200.m3u8?v=1411929425
-#EXTINF:-1,Abu Dhabi 2
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
-#EXTINF:-1,Abu Dhabi AlEmarat 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1,Abu Dhabi AlEmarat 2
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
-#EXTINF:-1,Abu Dhabi Drama 1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1,Abu Dhabi Drama 2
-http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
-#EXTINF:-1,Dubai 1
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Dubai 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1,Dubai 3
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
-#EXTINF:-1,Dubai One 1
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/gmswf.m3u8?v=631087569
-#EXTINF:-1,Dubai One 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1,Dubai Zamaan 1
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
-#EXTINF:-1,Dubai Zamaan 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1,Sama Dubai 1
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1,Sama Dubai 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1,Sama Dubai 3
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b750000.m3u8
-#EXTINF:-1,Quest Arabiya
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=quest_arabiya&t=ar
-#EXTINF:-1,Nat Geo AD
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=nat_geo_ad&t=ar
-#EXTINF:-1,Nat Geo AD 2
-http://yooanime.com/stream/ADNatGeo_HD.m3u8?user=sglscg0wxh55l3ohfsmvvr5l0p45&session=951a6d2a0deba59d39581ed904a7bfbf093cd5f140331ecfaf5705b7f2d581feeed29a5e15bc9c81436b56f1277972f9e79d147fb07de1eade2a9a15d4e21705
-#EXTINF:-1,National Geographic En
-http://93.174.93.84:8081/live/natgeo-hq/playlist.m3u8?v=1411929425&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE3IDk6MzU6MzIgQU0maGFzaF92YWx1ZT1ZZ25mbVVxdE5CZTBIQlc0eHdCUnJRPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE0MS4xMDEuODAuMjIyJnN0cm1fbGVuPTE0
-#EXTINF:-1,Nahar Noor 2!
-http://stream138.n-stream.tv:1935/naharch/nahar_noor.stream/chunklist_w102Noor4699197.m3u8
-#EXTINF:-1,Nahar Drama
-http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8?v=1411929425
-#EXTINF:-1,Nahar Drama 2
-http://www.elahmad.com/tv/m3u8/egypt.m3u8?id=alnahardrama
-#EXTINF:-1,Nahar One
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8?v=1411929425
-#EXTINF:-1,Nahar One 2
-http://www.elahmad.com/tv/m3u8/egypt.m3u8?id=alnahartv
-#EXTINF:-1,Nahar Yaum!
-http://50.7.137.2:1935/naharch/nahar_youmprofile2.stream/gmswf.m3u8?v=2955429485
-#EXTINF:-1,MBC
-http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1,MBC 2
-http://nimlive3.giniko.com/mbc1tv/mbc1tv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE3IDEwOjM5OjI5IEFNJmhhc2hfdmFsdWU9cE04bUcvN2J6aTZ0Q2xMSnlTL1dJZz09JnZhbGlkbWludXRlcz0yODgw
-#EXTINF:-1,MBC 2 2
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_1&t=ar
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/170.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2456.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2457.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2458.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2459.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2460.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2461.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2462.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2463.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2464.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2465.ts
+#EXTINF:-1,AR: Bein Sport 11 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2466.ts
+#EXTINF:-1,AR: Bein Sport 12 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2467.ts
+#EXTINF:-1,AR: Bein Sport 1 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2472.ts
+#EXTINF:-1,AR: Bein Sport 2 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2473.ts
+#EXTINF:-1,AR: Bein Sport 3 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2481.ts
+#EXTINF:-1,AR: Bein Sport 4 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2474.ts
+#EXTINF:-1,AR: Bein Sport 5 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2475.ts
+#EXTINF:-1,AR: Bein Sport 6 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2476.ts
+#EXTINF:-1,AR: Bein Sport 7 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2477.ts
+#EXTINF:-1,AR: Bein Sport 8 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2478.ts
+#EXTINF:-1,AR: Bein Sport 9 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2479.ts
+#EXTINF:-1,AR: Bein Sport 10 Low
+http://ipsatpro.info:8000/live/andreas1/andreas1/2480.ts
+#EXTINF:-1,AR: Bein Movies 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/175.ts
+#EXTINF:-1,AR: Bein Movies 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/176.ts
+#EXTINF:-1,AR: Bein Movies 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/177.ts
+#EXTINF:-1,AR: Bein Movies 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/178.ts
+#EXTINF:-1,------ OSN ----------
+http://ipsatpro.info:8000/live/andreas1/andreas1/2455.ts
+#EXTINF:-1,AR: Osn Cinema 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/2384.ts
+#EXTINF:-1,AR: Osn Cinema 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2385.ts
+#EXTINF:-1,AR: Osn AlYawm
+http://ipsatpro.info:8000/live/andreas1/andreas1/2386.ts
+#EXTINF:-1,AR: Osn Safwa
+http://ipsatpro.info:8000/live/andreas1/andreas1/2399.ts
+#EXTINF:-1,AR: Osn Fann
+http://ipsatpro.info:8000/live/andreas1/andreas1/2390.ts
+#EXTINF:-1,AR: Osn Yahla Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/2391.ts
+#EXTINF:-1,AR: Osn Yahla
+http://ipsatpro.info:8000/live/andreas1/andreas1/2420.ts
+#EXTINF:-1,AR: Osn Yahla Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/2421.ts
+#EXTINF:-1,AR: Osn Yahla Shabab
+http://ipsatpro.info:8000/live/andreas1/andreas1/2422.ts
+#EXTINF:-1,AR: Osn MBC+ Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/2387.ts
+#EXTINF:-1,AR: Osn Mousalsalat
+http://ipsatpro.info:8000/live/andreas1/andreas1/2398.ts
+#EXTINF:-1,AR: Osn Mousalsalat 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2400.ts
+#EXTINF:-1,AR: Osn SeeVii Drama HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2366.ts
+#EXTINF:-1,AR: Osn SeeVii Beelink HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2368.ts
+#EXTINF:-1,AR: Osn SeeVii Shamiya HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2367.ts
+#EXTINF:-1,AR: Osn SeeVii Al Aoula HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2365.ts
+#EXTINF:-1,AR: Osn Movies HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2374.ts
+#EXTINF:-1,AR: Osn Movies+2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2377.ts
+#EXTINF:-1,AR: Osn Movies Action HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2375.ts
+#EXTINF:-1,AR: Osn Movies Action 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2376.ts
+#EXTINF:-1,AR: Osn Movies Premier 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2378.ts
+#EXTINF:-1,AR: Osn Movies Comdy HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2372.ts
+#EXTINF:-1,AR: Osn Movies Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/2426.ts
+#EXTINF:-1,AR: Osn Movies Festival
+http://ipsatpro.info:8000/live/andreas1/andreas1/2424.ts
+#EXTINF:-1,AR: Osn Movies Thriller HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2405.ts
+#EXTINF:-1,AR: Osn Movies Hollywood
+http://ipsatpro.info:8000/live/andreas1/andreas1/2370.ts
+#EXTINF:-1,AR: Osn Movies Hollywood 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2371.ts
+#EXTINF:-1,AR: Osn Movies Kids
+http://ipsatpro.info:8000/live/andreas1/andreas1/2379.ts
+#EXTINF:-1,AR: Osn Movies Fox
+http://ipsatpro.info:8000/live/andreas1/andreas1/2381.ts
+#EXTINF:-1,AR: Osn Movies Disny
+http://ipsatpro.info:8000/live/andreas1/andreas1/2380.ts
+#EXTINF:-1,AR: Osn Box Offiec 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/2419.ts
+#EXTINF:-1,AR: Osn Box Offiec 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2418.ts
+#EXTINF:-1,AR: Osn Box Offiec 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/2417.ts
+#EXTINF:-1,AR: Osn Demand HD HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2369.ts
+#EXTINF:-1,AR: Osn Demand 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2359.ts
+#EXTINF:-1,AR: Osn Demand 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2388.ts
+#EXTINF:-1,AR: Osn Food Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/2397.ts
+#EXTINF:-1,AR: Osn Discovry
+http://ipsatpro.info:8000/live/andreas1/andreas1/2430.ts
+#EXTINF:-1,AR: Osn Discovry ID
+http://ipsatpro.info:8000/live/andreas1/andreas1/2431.ts
+#EXTINF:-1,AR: Osn Discovry SCI ID
+http://ipsatpro.info:8000/live/andreas1/andreas1/2432.ts
+#EXTINF:-1,AR: Osn Nat Geo People HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2429.ts
+#EXTINF:-1,AR: Osn National Geo HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2358.ts
+#EXTINF:-1,AR: Osn Nat Geo Wild HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2357.ts
+#EXTINF:-1,AR: Osn Animal Planet
+http://ipsatpro.info:8000/live/andreas1/andreas1/2383.ts
+#EXTINF:-1,AR: Osn History HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2360.ts
+#EXTINF:-1,AR: Osn History 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2361.ts
+#EXTINF:-1,AR: Osn Nickelodeon HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2406.ts
+#EXTINF:-1,AR: Osn Nickelodeon JR
+http://ipsatpro.info:8000/live/andreas1/andreas1/2389.ts
+#EXTINF:-1,AR: Osn Disney XD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2363.ts
+#EXTINF:-1,AR: Osn Star Movies
+http://ipsatpro.info:8000/live/andreas1/andreas1/2428.ts
+#EXTINF:-1,AR: Osn Star world
+http://ipsatpro.info:8000/live/andreas1/andreas1/2427.ts
+#EXTINF:-1,AR: Osn First HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2423.ts
+#EXTINF:-1,AR: Osn First +2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2425.ts
+#EXTINF:-1,AR: Osn First HBO HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2364.ts
+#EXTINF:-1,AR: Osn First Comdy HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2382.ts
+#EXTINF:-1,AR: Osn Fox Movies HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2401.ts
+#EXTINF:-1,AR: Osn Fox HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2402.ts
+#EXTINF:-1,AR: Osn Dream Works
+http://ipsatpro.info:8000/live/andreas1/andreas1/2403.ts
+#EXTINF:-1,AR: Osn Filmbox
+http://ipsatpro.info:8000/live/andreas1/andreas1/2404.ts
+#EXTINF:-1,AR: Osn TLC HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2393.ts
+#EXTINF:-1,AR: Osn SYFY
+http://ipsatpro.info:8000/live/andreas1/andreas1/2392.ts
+#EXTINF:-1,AR: Osn Fatafeat
+http://ipsatpro.info:8000/live/andreas1/andreas1/2362.ts
+#EXTINF:-1,AR: Osn Baraem 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2396.ts
+#EXTINF:-1,AR: Osn AD Sport 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2395.ts
+#EXTINF:-1,AR: Osn AD Sport 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2394.ts
+#EXTINF:-1,AR: Osn Wwe
+http://ipsatpro.info:8000/live/andreas1/andreas1/2373.ts
+#EXTINF:-1,AR: EL Donia Cartoon 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/2407.ts
+#EXTINF:-1,AR: EL Donia Cartoon 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2408.ts
+#EXTINF:-1,AR: EL Donia Cartoon 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/2409.ts
+#EXTINF:-1,AR: EL Donia Cartoon 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/2410.ts
+#EXTINF:-1,AR: EL Donia Cartoon 5
+http://ipsatpro.info:8000/live/andreas1/andreas1/2411.ts
+#EXTINF:-1,AR: EL Donia Cartoon 6
+http://ipsatpro.info:8000/live/andreas1/andreas1/2412.ts
+#EXTINF:-1,AR: EL Donia Cartoon 7
+http://ipsatpro.info:8000/live/andreas1/andreas1/2413.ts
+#EXTINF:-1,AR: EL Donia Cartoon 8
+http://ipsatpro.info:8000/live/andreas1/andreas1/2414.ts
+#EXTINF:-1,AR: EL Donia Cartoon 9
+http://ipsatpro.info:8000/live/andreas1/andreas1/2415.ts
+#EXTINF:-1,AR: EL Donia Cartoon 10
+http://ipsatpro.info:8000/live/andreas1/andreas1/2416.ts
+#EXTINF:-1,AR: Osn الـزعـيــــــــم
+http://ipsatpro.info:8000/live/andreas1/andreas1/2451.ts
+#EXTINF:-1,AR: Osn الـعـيــــــال كــــــبــرتـــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2450.ts
+#EXTINF:-1,AR: Osn الــمـــــتـــزوجــــــونـــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2449.ts
+#EXTINF:-1,AR: Osn الواد سيد الشغال
+http://ipsatpro.info:8000/live/andreas1/andreas1/2452.ts
+#EXTINF:-1,AR: Osn ريــا وســكــــــيـنــــة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2448.ts
+#EXTINF:-1,AR: Osn شاهد ما شفش حاجة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2453.ts
+#EXTINF:-1,AR: Osn مدرسة المشاغبين
+http://ipsatpro.info:8000/live/andreas1/andreas1/2454.ts
+#EXTINF:-1,AR: Osn الجــــــزيــــــــــــــرة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2444.ts
+#EXTINF:-1,AR: Osn الجــــــزيــــــــــــــرة 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/2443.ts
+#EXTINF:-1,AR: Osn الرســـــــــالـــــة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2445.ts
+#EXTINF:-1,AR: Osn ظـهــــــــور الإســـــــــلام
+http://ipsatpro.info:8000/live/andreas1/andreas1/2446.ts
+#EXTINF:-1,AR: Osn وا إســـــــــلامـــــاهـــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2447.ts
+#EXTINF:-1,AR: Osn أبـعـــــــــاد كــنـتـــــــم
+http://ipsatpro.info:8000/live/andreas1/andreas1/2539.ts
+#EXTINF:-1,AR: Osn أنــا قـلـــبـي لـــــيـك مـيــــال
+http://ipsatpro.info:8000/live/andreas1/andreas1/2542.ts
+#EXTINF:-1,AR: Osn اطــفــــال وســــط الـمــــــوتــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2514.ts
+#EXTINF:-1,AR: Osn اعـطـــــونـا الـطـــفــولــه
+http://ipsatpro.info:8000/live/andreas1/andreas1/2532.ts
+#EXTINF:-1,AR: Osn اعـطــــونـا الـطــفــــــولــة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2515.ts
+#EXTINF:-1,AR: Osn اكـــــدب عـــلـيـك
+http://ipsatpro.info:8000/live/andreas1/andreas1/2537.ts
+#EXTINF:-1,AR: Osn الــ جــالــــى بـعــــد يـومـيـــن
+http://ipsatpro.info:8000/live/andreas1/andreas1/2544.ts
+#EXTINF:-1,AR: Osn امـــ الـعــــــيــون الــــســـــود
+http://ipsatpro.info:8000/live/andreas1/andreas1/2517.ts
+#EXTINF:-1,AR: Osn انـا قــلـبــــي دلـيـلــــــي
+http://ipsatpro.info:8000/live/andreas1/andreas1/2541.ts
+#EXTINF:-1,AR: Osn خــــدنـــــي مـعــــــكــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2525.ts
+#EXTINF:-1,AR: Osn دبـنـــــا ع غـيــــابـــك
+http://ipsatpro.info:8000/live/andreas1/andreas1/2535.ts
+#EXTINF:-1,AR: Osn زيــــ الـعـســــــل
+http://ipsatpro.info:8000/live/andreas1/andreas1/2524.ts
+#EXTINF:-1,AR: Osn زيـنـــة لـبســـت خـلــخــالا
+http://ipsatpro.info:8000/live/andreas1/andreas1/2534.ts
+#EXTINF:-1,AR: Osn عـيـــــونــ الـقــلـــــب
+http://ipsatpro.info:8000/live/andreas1/andreas1/2527.ts
+#EXTINF:-1,AR: Osn غـنــيـــلــي شـــويــ شــــويــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2523.ts
+#EXTINF:-1,AR: Osn كـــــده يــا قــلـبـــــــي
+http://ipsatpro.info:8000/live/andreas1/andreas1/2521.ts
+#EXTINF:-1,AR: Osn كـــل الـلــــي لامــــونــي
+http://ipsatpro.info:8000/live/andreas1/andreas1/2538.ts
+#EXTINF:-1,AR: Osn لــزرعـــلـك بـســتــان ورود
+http://ipsatpro.info:8000/live/andreas1/andreas1/2536.ts
+#EXTINF:-1,AR: Osn لــيــن الـحـــايــك الـمـــكـمــــة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2540.ts
+#EXTINF:-1,AR: Osn مــــوالــ الـبــــارحـــة بـالـحــــلـم
+http://ipsatpro.info:8000/live/andreas1/andreas1/2531.ts
+#EXTINF:-1,AR: Osn مــيـن حـبـيـبـــــي أنــا
+http://ipsatpro.info:8000/live/andreas1/andreas1/2520.ts
+#EXTINF:-1,AR: Osn مـحـتــــاج أطـيــــــــر
+http://ipsatpro.info:8000/live/andreas1/andreas1/2518.ts
+#EXTINF:-1,AR: Osn مـعـقـــــول الـغــــــــرام
+http://ipsatpro.info:8000/live/andreas1/andreas1/2519.ts
+#EXTINF:-1,AR: Osn موال ماكل من ذاق الصبابة
+http://ipsatpro.info:8000/live/andreas1/andreas1/2533.ts
+#EXTINF:-1,AR: Osn نــــور قـمـــــر بـرضـــاكـ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2529.ts
+#EXTINF:-1,AR: Osn نـهـيـــلـة الـقــلـعــــي الأســــامـيــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2528.ts
+#EXTINF:-1,AR: Osn هــــو الــحـــــب لـلــــعـبــه
+http://ipsatpro.info:8000/live/andreas1/andreas1/2543.ts
+#EXTINF:-1,AR: Osn هـــديـــه للــــعــراقــيــن
+http://ipsatpro.info:8000/live/andreas1/andreas1/2516.ts
+#EXTINF:-1,AR: Osn هــديــــة لــ اهـــلـ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2522.ts
+#EXTINF:-1,AR: Osn وحــشــــتــونــــيـــ
+http://ipsatpro.info:8000/live/andreas1/andreas1/2526.ts
+#EXTINF:-1,AR: Spacetoon
+http://ipsatpro.info:8000/live/andreas1/andreas1/114.ts
+#EXTINF:-1,AR: SemSem
+http://ipsatpro.info:8000/live/andreas1/andreas1/2315.ts
+#EXTINF:-1,AR: Baraem
+http://ipsatpro.info:8000/live/andreas1/andreas1/95.ts
+#EXTINF:-1,AR: Karameesh
+http://ipsatpro.info:8000/live/andreas1/andreas1/96.ts
+#EXTINF:-1,AR: Al Masriya
+http://ipsatpro.info:8000/live/andreas1/andreas1/110.ts
+#EXTINF:-1,AR: Al Thania
+http://ipsatpro.info:8000/live/andreas1/andreas1/97.ts
+#EXTINF:-1,AR: Art Aflam 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/105.ts
+#EXTINF:-1,AR: Art Aflam 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/104.ts
+#EXTINF:-1,AR: Art Hekayat
+http://ipsatpro.info:8000/live/andreas1/andreas1/101.ts
+#EXTINF:-1,AR: Art Hekayat 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/100.ts
+#EXTINF:-1,AR: Art Cinema
+http://ipsatpro.info:8000/live/andreas1/andreas1/103.ts
+#EXTINF:-1,AR: Afrah TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/86.ts
+#EXTINF:-1,AR: Sha3beyat
+http://ipsatpro.info:8000/live/andreas1/andreas1/118.ts
+#EXTINF:-1,AR: Musawa TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/2263.ts
+#EXTINF:-1,AR: Hob Fee EL Moled
+http://ipsatpro.info:8000/live/andreas1/andreas1/1268.ts
+#EXTINF:-1,AR: Maspero Zaman
+http://ipsatpro.info:8000/live/andreas1/andreas1/2283.ts
+#EXTINF:-1,AR: Music Al Haneen
+http://ipsatpro.info:8000/live/andreas1/andreas1/2199.ts
+#EXTINF:-1,AR: One Music TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/59.ts
+#EXTINF:-1,AR: Syphonia
+http://ipsatpro.info:8000/live/andreas1/andreas1/1253.ts
+#EXTINF:-1,AR: Bolika
+http://ipsatpro.info:8000/live/andreas1/andreas1/53.ts
+#EXTINF:-1,AR: Mazika
+http://ipsatpro.info:8000/live/andreas1/andreas1/89.ts
+#EXTINF:-1,AR: 4Shbab
+http://ipsatpro.info:8000/live/andreas1/andreas1/61.ts
+#EXTINF:-1,AR: Hawa Com
+http://ipsatpro.info:8000/live/andreas1/andreas1/1259.ts
+#EXTINF:-1,AR: Music plus
+http://ipsatpro.info:8000/live/andreas1/andreas1/1261.ts
+#EXTINF:-1,AR: Wanasa
+http://ipsatpro.info:8000/live/andreas1/andreas1/126.ts
+#EXTINF:-1,AR: Melody Classic
+http://ipsatpro.info:8000/live/andreas1/andreas1/65.ts
+#EXTINF:-1,AR: Mbc 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/50.ts
+#EXTINF:-1,AR: Mbc 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2274.ts
+#EXTINF:-1,AR: Mbc 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/49.ts
+#EXTINF:-1,AR: Mbc 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2272.ts
+#EXTINF:-1,AR: Mbc 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/48.ts
+#EXTINF:-1,AR: Mbc 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/47.ts
+#EXTINF:-1,AR: Mbc 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2271.ts
+#EXTINF:-1,AR: Mbc Masr
+http://ipsatpro.info:8000/live/andreas1/andreas1/46.ts
+#EXTINF:-1,AR: Mbc Masr 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/45.ts
+#EXTINF:-1,AR: Mbc Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/42.ts
+#EXTINF:-1,AR: Mbc Drama HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2273.ts
+#EXTINF:-1,AR: Mbc Action
+http://ipsatpro.info:8000/live/andreas1/andreas1/44.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2270.ts
+#EXTINF:-1,AR: Mbc Max
+http://ipsatpro.info:8000/live/andreas1/andreas1/43.ts
+#EXTINF:-1,AR: Mbc Bollywood
+http://ipsatpro.info:8000/live/andreas1/andreas1/41.ts
+#EXTINF:-1,AR: Mbc Sport 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1244.ts
+#EXTINF:-1,AR: Mbc Sport 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1245.ts
+#EXTINF:-1,AR: Mbc Sport 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/1246.ts
+#EXTINF:-1,AR: Ad Sport 1HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1248.ts
+#EXTINF:-1,AR: Ad Sport 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1249.ts
+#EXTINF:-1,AR: ON Sport
+http://ipsatpro.info:8000/live/andreas1/andreas1/2242.ts
+#EXTINF:-1,AR: DMC Sports
+http://ipsatpro.info:8000/live/andreas1/andreas1/2243.ts
+#EXTINF:-1,AR: Al Ahly TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/1274.ts
+#EXTINF:-1,AR: Dmc Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/2262.ts
+#EXTINF:-1,AR: DMC HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/34.ts
+#EXTINF:-1,AR: El Mehwer
+http://ipsatpro.info:8000/live/andreas1/andreas1/1247.ts
+#EXTINF:-1,AR: Nile Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/76.ts
+#EXTINF:-1,AR: Nile Comedy
+http://ipsatpro.info:8000/live/andreas1/andreas1/75.ts
+#EXTINF:-1,AR: Nile Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/74.ts
+#EXTINF:-1,AR: Nile Life
+http://ipsatpro.info:8000/live/andreas1/andreas1/62.ts
+#EXTINF:-1,AR: Nile News
+http://ipsatpro.info:8000/live/andreas1/andreas1/38.ts
+#EXTINF:-1,AR: Nile sport
+http://ipsatpro.info:8000/live/andreas1/andreas1/73.ts
+#EXTINF:-1,AR: Nile tv
+http://ipsatpro.info:8000/live/andreas1/andreas1/27.ts
+#EXTINF:-1,AR: Nile Blue TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/2227.ts
+#EXTINF:-1,AR: Nline Sport tv
+http://ipsatpro.info:8000/live/andreas1/andreas1/2244.ts
+#EXTINF:-1,AR: Panorama Film
+http://ipsatpro.info:8000/live/andreas1/andreas1/98.ts
+#EXTINF:-1,AR: Panorama Comedy
+http://ipsatpro.info:8000/live/andreas1/andreas1/155.ts
+#EXTINF:-1,AR: Panorama Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/77.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/25.ts
+#EXTINF:-1,AR: Cbc
+http://ipsatpro.info:8000/live/andreas1/andreas1/90.ts
+#EXTINF:-1,AR: Cbc Extra
+http://ipsatpro.info:8000/live/andreas1/andreas1/92.ts
+#EXTINF:-1,AR: Cbc Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/91.ts
+#EXTINF:-1,AR: Rotana Music
+http://ipsatpro.info:8000/live/andreas1/andreas1/79.ts
+#EXTINF:-1,AR: Rotana Clip
+http://ipsatpro.info:8000/live/andreas1/andreas1/83.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://ipsatpro.info:8000/live/andreas1/andreas1/80.ts
+#EXTINF:-1,AR: Rotana Classic
+http://ipsatpro.info:8000/live/andreas1/andreas1/82.ts
+#EXTINF:-1,AR: Rotana Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/81.ts
+#EXTINF:-1,AR: Rotana Khalijiah
+http://ipsatpro.info:8000/live/andreas1/andreas1/72.ts
+#EXTINF:-1,AR: Dream 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/94.ts
+#EXTINF:-1,AR: Dream 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/93.ts
+#EXTINF:-1,AR: Al Nahar
+http://ipsatpro.info:8000/live/andreas1/andreas1/154.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/152.ts
+#EXTINF:-1,AR: Al Nahar Al Youm
+http://ipsatpro.info:8000/live/andreas1/andreas1/151.ts
+#EXTINF:-1,AR: Al Nahar Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/71.ts
+#EXTINF:-1,AR: Sada ALbalad HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/51.ts
+#EXTINF:-1,AR: Sada Albalad Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/116.ts
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/55.ts
+#EXTINF:-1,AR: Al Emarat tv HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/130.ts
+#EXTINF:-1,AR: Alhayat 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/109.ts
+#EXTINF:-1,AR: Alhayat 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/111.ts
+#EXTINF:-1,AR: Alhayat Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/144.ts
+#EXTINF:-1,AR: Alhayat Series
+http://ipsatpro.info:8000/live/andreas1/andreas1/108.ts
+#EXTINF:-1,AR: Alhayat We Alnas
+http://ipsatpro.info:8000/live/andreas1/andreas1/2200.ts
+#EXTINF:-1,AR: Alkahera wal nas
+http://ipsatpro.info:8000/live/andreas1/andreas1/141.ts
+#EXTINF:-1,AR: Alkahera wal nas 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/30.ts
+#EXTINF:-1,AR: TEN
+http://ipsatpro.info:8000/live/andreas1/andreas1/87.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/99.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/78.ts
+#EXTINF:-1,AR: Masraweya Aflam
+http://ipsatpro.info:8000/live/andreas1/andreas1/1271.ts
+#EXTINF:-1,AR: Cima Alibaba
+http://ipsatpro.info:8000/live/andreas1/andreas1/119.ts
+#EXTINF:-1,AR: LCD Movies
+http://ipsatpro.info:8000/live/andreas1/andreas1/124.ts
+#EXTINF:-1,AR: Al Assema
+http://ipsatpro.info:8000/live/andreas1/andreas1/2245.ts
+#EXTINF:-1,AR: Time Taxi
+http://ipsatpro.info:8000/live/andreas1/andreas1/120.ts
+#EXTINF:-1,AR: Time Film
+http://ipsatpro.info:8000/live/andreas1/andreas1/112.ts
+#EXTINF:-1,AR: Time Comedy
+http://ipsatpro.info:8000/live/andreas1/andreas1/150.ts
+#EXTINF:-1,AR: Time Cinema
+http://ipsatpro.info:8000/live/andreas1/andreas1/115.ts
+#EXTINF:-1,AR: Cairo One
+http://ipsatpro.info:8000/live/andreas1/andreas1/156.ts
+#EXTINF:-1,AR: Cairo Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/85.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://ipsatpro.info:8000/live/andreas1/andreas1/84.ts
+#EXTINF:-1,AR: Jordan Sport
+http://ipsatpro.info:8000/live/andreas1/andreas1/153.ts
+#EXTINF:-1,AR: Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/57.ts
+#EXTINF:-1,AR: Cinema Pro
+http://ipsatpro.info:8000/live/andreas1/andreas1/1260.ts
+#EXTINF:-1,AR: TokTok Cinma
+http://ipsatpro.info:8000/live/andreas1/andreas1/64.ts
+#EXTINF:-1,AR: Sat 7
+http://ipsatpro.info:8000/live/andreas1/andreas1/1257.ts
+#EXTINF:-1,AR: Sama Dubai
+http://ipsatpro.info:8000/live/andreas1/andreas1/29.ts
+#EXTINF:-1,AR: Abu Dhabi Emarat
+http://ipsatpro.info:8000/live/andreas1/andreas1/39.ts
+#EXTINF:-1,AR: Dubai Aloula
+http://ipsatpro.info:8000/live/andreas1/andreas1/40.ts
+#EXTINF:-1,AR: Dubai Sport
+http://ipsatpro.info:8000/live/andreas1/andreas1/70.ts
+#EXTINF:-1,AR: Dubai one
+http://ipsatpro.info:8000/live/andreas1/andreas1/148.ts
+#EXTINF:-1,AR: Dubai Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/145.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://ipsatpro.info:8000/live/andreas1/andreas1/146.ts
+#EXTINF:-1,AR: Cct Arabic
+http://ipsatpro.info:8000/live/andreas1/andreas1/2224.ts
+#EXTINF:-1,AR: TRT Arapca
+http://ipsatpro.info:8000/live/andreas1/andreas1/2232.ts
+#EXTINF:-1,AR: Alarabiya
+http://ipsatpro.info:8000/live/andreas1/andreas1/37.ts
+#EXTINF:-1,AR: Al Mayaden
+http://ipsatpro.info:8000/live/andreas1/andreas1/58.ts
+#EXTINF:-1,AR: Orient News
+http://ipsatpro.info:8000/live/andreas1/andreas1/2210.ts
+#EXTINF:-1,AR: BBC News
+http://ipsatpro.info:8000/live/andreas1/andreas1/66.ts
+#EXTINF:-1,AR: Aljazera News
+http://ipsatpro.info:8000/live/andreas1/andreas1/36.ts
+#EXTINF:-1,AR: Mekameleen
+http://ipsatpro.info:8000/live/andreas1/andreas1/2279.ts
+#EXTINF:-1,AR: EL Sharq tv
+http://ipsatpro.info:8000/live/andreas1/andreas1/2282.ts
+#EXTINF:-1,AR: Aljazera Mobashir
+http://ipsatpro.info:8000/live/andreas1/andreas1/33.ts
+#EXTINF:-1,AR: Sky News HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/18.ts
+#EXTINF:-1,AR: AL Arabia Hadath
+http://ipsatpro.info:8000/live/andreas1/andreas1/35.ts
+#EXTINF:-1,AR: Russiya Al Yaum
+http://ipsatpro.info:8000/live/andreas1/andreas1/2198.ts
+#EXTINF:-1,AR: TV5 News
+http://ipsatpro.info:8000/live/andreas1/andreas1/2205.ts
+#EXTINF:-1,AR: France24 News
+http://ipsatpro.info:8000/live/andreas1/andreas1/2206.ts
+#EXTINF:-1,UK: Sky News HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/550.ts
+#EXTINF:-1,UK: Sky RTE News
+http://ipsatpro.info:8000/live/andreas1/andreas1/431.ts
+#EXTINF:-1,UK: Sky BBC News
+http://ipsatpro.info:8000/live/andreas1/andreas1/428.ts
+#EXTINF:-1,UK: Sky Sports News HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/549.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/533.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/532.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/531.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/530.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://ipsatpro.info:8000/live/andreas1/andreas1/529.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/548.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/547.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/546.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/545.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/544.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsatpro.info:8000/live/andreas1/andreas1/539.ts
+#EXTINF:-1,UK: Sky Sport AU 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/438.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/527.ts
+#EXTINF:-1,UK: Sky BT Sport Europe
+http://ipsatpro.info:8000/live/andreas1/andreas1/453.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://ipsatpro.info:8000/live/andreas1/andreas1/479.ts
+#EXTINF:-1,UK: Sky 4 Music
+http://ipsatpro.info:8000/live/andreas1/andreas1/1543.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/540.ts
+#EXTINF:-1,UK: Sky Sports MixHD
+http://ipsatpro.info:8000/live/andreas1/andreas1/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://ipsatpro.info:8000/live/andreas1/andreas1/484.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://ipsatpro.info:8000/live/andreas1/andreas1/535.ts
+#EXTINF:-1,Uk: Sky At the Races
+http://ipsatpro.info:8000/live/andreas1/andreas1/461.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/421.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/420.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/419.ts
+#EXTINF:-1,UK: Sky Cinema Box Office 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1542.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/519.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://ipsatpro.info:8000/live/andreas1/andreas1/516.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/517.ts
+#EXTINF:-1,UK: Sky Movies Action HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/511.ts
+#EXTINF:-1,UK: Sky Movies Greats
+http://ipsatpro.info:8000/live/andreas1/andreas1/518.ts
+#EXTINF:-1,UK: Sky Movies Family HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/520.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/521.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/524.ts
+#EXTINF:-1,UK: Sky Home & Health
+http://ipsatpro.info:8000/live/andreas1/andreas1/1547.ts
+#EXTINF:-1,UK: Sky Vintage
+http://ipsatpro.info:8000/live/andreas1/andreas1/1544.ts
+#EXTINF:-1,UK: Sky Movies Crime
+http://ipsatpro.info:8000/live/andreas1/andreas1/512.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://ipsatpro.info:8000/live/andreas1/andreas1/515.ts
+#EXTINF:-1,UK: Sky Movies 24
+http://ipsatpro.info:8000/live/andreas1/andreas1/523.ts
+#EXTINF:-1,UK: Sky True Movies 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/472.ts
+#EXTINF:-1,UK: Sky True Movies 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/534.ts
+#EXTINF:-1,UK: Sky True Entertaimnt
+http://ipsatpro.info:8000/live/andreas1/andreas1/1546.ts
+#EXTINF:-1,UK: Sky Real Lives
+http://ipsatpro.info:8000/live/andreas1/andreas1/1555.ts
+#EXTINF:-1,UK: Sky More 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/504.ts
+#EXTINF:-1,UK: Sky MTV
+http://ipsatpro.info:8000/live/andreas1/andreas1/1550.ts
+#EXTINF:-1,UK: Sky Movies4Men
+http://ipsatpro.info:8000/live/andreas1/andreas1/1557.ts
+#EXTINF:-1,UK: Sky Horse & Country
+http://ipsatpro.info:8000/live/andreas1/andreas1/1549.ts
+#EXTINF:-1,UK: Sky Home
+http://ipsatpro.info:8000/live/andreas1/andreas1/1553.ts
+#EXTINF:-1,UK: Sky Quest
+http://ipsatpro.info:8000/live/andreas1/andreas1/1551.ts
+#EXTINF:-1,UK: Sky Really
+http://ipsatpro.info:8000/live/andreas1/andreas1/1552.ts
+#EXTINF:-1,UK: Sky Travel Channel
+http://ipsatpro.info:8000/live/andreas1/andreas1/1556.ts
+#EXTINF:-1,UK: Sky Horror Channel
+http://ipsatpro.info:8000/live/andreas1/andreas1/1548.ts
+#EXTINF:-1,UK: Sky S4C
+http://ipsatpro.info:8000/live/andreas1/andreas1/435.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/505.ts
+#EXTINF:-1,UK: Sky CBBC HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/430.ts
+#EXTINF:-1,UK: Sky ITV 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/471.ts
+#EXTINF:-1,UK: Sky ITV 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/470.ts
+#EXTINF:-1,UK: Sky ITV 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/469.ts
+#EXTINF:-1,UK: Sky ITV 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/468.ts
+#EXTINF:-1,UK: Sky ITV Be
+http://ipsatpro.info:8000/live/andreas1/andreas1/429.ts
+#EXTINF:-1,UK: Sky ITV Encore
+http://ipsatpro.info:8000/live/andreas1/andreas1/467.ts
+#EXTINF:-1,UK: Sky BBC4/CBEEBIES
+http://ipsatpro.info:8000/live/andreas1/andreas1/433.ts
+#EXTINF:-1,UK: Sky 3e
+http://ipsatpro.info:8000/live/andreas1/andreas1/432.ts
+#EXTINF:-1,UK: Sky TV3
+http://ipsatpro.info:8000/live/andreas1/andreas1/434.ts
+#EXTINF:-1,UK: Sky CITV
+http://ipsatpro.info:8000/live/andreas1/andreas1/436.ts
+#EXTINF:-1,UK: Sky Cbs Drama
+http://ipsatpro.info:8000/live/andreas1/andreas1/482.ts
+#EXTINF:-1,UK: Sky Pick
+http://ipsatpro.info:8000/live/andreas1/andreas1/437.ts
+#EXTINF:-1,UK: Sky Cbs Action
+http://ipsatpro.info:8000/live/andreas1/andreas1/481.ts
+#EXTINF:-1,UK: Sky CBS Reality
+http://ipsatpro.info:8000/live/andreas1/andreas1/510.ts
+#EXTINF:-1,UK: Sky BBC One HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/488.ts
+#EXTINF:-1,UK: Sky BBC Two HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/487.ts
+#EXTINF:-1,UK: Sky BBC Three HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/486.ts
+#EXTINF:-1,UK: Sky BBC Four HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/485.ts
+#EXTINF:-1,UK: Sky Channel 4 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/426.ts
+#EXTINF:-1,UK: Sky Channel 5 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/427.ts
+#EXTINF:-1,UK: Sky Comedy Central
+http://ipsatpro.info:8000/live/andreas1/andreas1/463.ts
+#EXTINF:-1,UK: Sky Comedy Central Ex
+http://ipsatpro.info:8000/live/andreas1/andreas1/462.ts
+#EXTINF:-1,UK: Sky Food Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/495.ts
+#EXTINF:-1,UK: Sky Good Food HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/501.ts
+#EXTINF:-1,UK: Sky Bloomberg HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/457.ts
+#EXTINF:-1,UK: Sky Boomerang
+http://ipsatpro.info:8000/live/andreas1/andreas1/444.ts
+#EXTINF:-1,UK: Sky Cartoon Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/522.ts
+#EXTINF:-1,UK: Sky Nickelodeon
+http://ipsatpro.info:8000/live/andreas1/andreas1/503.ts
+#EXTINF:-1,UK: Sky Nickelodeon JR
+http://ipsatpro.info:8000/live/andreas1/andreas1/423.ts
+#EXTINF:-1,UK: Sky NickToons
+http://ipsatpro.info:8000/live/andreas1/andreas1/446.ts
+#EXTINF:-1,UK: Sky Disney XD HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/493.ts
+#EXTINF:-1,UK: Sky Disney Junior HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/494.ts
+#EXTINF:-1,UK: Sky Disney Chaneel HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/492.ts
+#EXTINF:-1,UK: Sky Discovery Science
+http://ipsatpro.info:8000/live/andreas1/andreas1/526.ts
+#EXTINF:-1,UK: Sky Discovery History
+http://ipsatpro.info:8000/live/andreas1/andreas1/491.ts
+#EXTINF:-1,UK: Sky Discovery Turbo
+http://ipsatpro.info:8000/live/andreas1/andreas1/465.ts
+#EXTINF:-1,UK: Sky Discovery Shed
+http://ipsatpro.info:8000/live/andreas1/andreas1/445.ts
+#EXTINF:-1,UK: Sky Discovery
+http://ipsatpro.info:8000/live/andreas1/andreas1/464.ts
+#EXTINF:-1,UK: Sky National Geographic HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/499.ts
+#EXTINF:-1,UK: Sky Nat Geo Wild HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/498.ts
+#EXTINF:-1,UK: Sky Animal Planet HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/497.ts
+#EXTINF:-1,UK: Sky History HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/496.ts
+#EXTINF:-1,UK: Sky History 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/452.ts
+#EXTINF:-1,UK: Sky Ci
+http://ipsatpro.info:8000/live/andreas1/andreas1/514.ts
+#EXTINF:-1,UK: Sky 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/475.ts
+#EXTINF:-1,UK: Sky 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/507.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://ipsatpro.info:8000/live/andreas1/andreas1/483.ts
+#EXTINF:-1,UK: Sky E!
+http://ipsatpro.info:8000/live/andreas1/andreas1/447.ts
+#EXTINF:-1,UK: Sky VH1
+http://ipsatpro.info:8000/live/andreas1/andreas1/449.ts
+#EXTINF:-1,UK: Sky E4
+http://ipsatpro.info:8000/live/andreas1/andreas1/451.ts
+#EXTINF:-1,UK: Sky TG4
+http://ipsatpro.info:8000/live/andreas1/andreas1/422.ts
+#EXTINF:-1,UK: Sky Syfy
+http://ipsatpro.info:8000/live/andreas1/andreas1/538.ts
+#EXTINF:-1,UK: Sky CNBC
+http://ipsatpro.info:8000/live/andreas1/andreas1/466.ts
+#EXTINF:-1,UK: Sky Dave HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/506.ts
+#EXTINF:-1,UK: Sky RTE One
+http://ipsatpro.info:8000/live/andreas1/andreas1/474.ts
+#EXTINF:-1,UK: Sky RTE Two
+http://ipsatpro.info:8000/live/andreas1/andreas1/478.ts
+#EXTINF:-1,UK: SKY Fox
+http://ipsatpro.info:8000/live/andreas1/andreas1/460.ts
+#EXTINF:-1,UK: Sky Five
+http://ipsatpro.info:8000/live/andreas1/andreas1/473.ts
+#EXTINF:-1,UK: Sky Arts 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/489.ts
+#EXTINF:-1,UK: Sky Baby
+http://ipsatpro.info:8000/live/andreas1/andreas1/424.ts
+#EXTINF:-1,UK: Sky Eden
+http://ipsatpro.info:8000/live/andreas1/andreas1/425.ts
+#EXTINF:-1,UK: Sky Alibi
+http://ipsatpro.info:8000/live/andreas1/andreas1/509.ts
+#EXTINF:-1,UK: Sky Living HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/502.ts
+#EXTINF:-1,UK: Sky BoxNation
+http://ipsatpro.info:8000/live/andreas1/andreas1/490.ts
+#EXTINF:-1,UK: Sky Racing
+http://ipsatpro.info:8000/live/andreas1/andreas1/458.ts
+#EXTINF:-1,UK: Sky Gold
+http://ipsatpro.info:8000/live/andreas1/andreas1/508.ts
+#EXTINF:-1,UK: Sky 5 USA
+http://ipsatpro.info:8000/live/andreas1/andreas1/480.ts
+#EXTINF:-1,UK: Sky 5 star
+http://ipsatpro.info:8000/live/andreas1/andreas1/477.ts
+#EXTINF:-1,UK: Sky life Time
+http://ipsatpro.info:8000/live/andreas1/andreas1/476.ts
+#EXTINF:-1,UK: Sky E4+1
+http://ipsatpro.info:8000/live/andreas1/andreas1/525.ts
+#EXTINF:-1,UK: Sky TCM
+http://ipsatpro.info:8000/live/andreas1/andreas1/459.ts
+#EXTINF:-1,UK: Sky CNN
+http://ipsatpro.info:8000/live/andreas1/andreas1/454.ts
+#EXTINF:-1,UK: Sky Dmax
+http://ipsatpro.info:8000/live/andreas1/andreas1/456.ts
+#EXTINF:-1,UK: Sky TLC
+http://ipsatpro.info:8000/live/andreas1/andreas1/455.ts
+#EXTINF:-1,UK: Sky STV
+http://ipsatpro.info:8000/live/andreas1/andreas1/448.ts
+#EXTINF:-1,UK: Sky MTV Rocks
+http://ipsatpro.info:8000/live/andreas1/andreas1/450.ts
+#EXTINF:-1,UK: Sky MTV Rocks HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/442.ts
+#EXTINF:-1,UK: Sky MTV Hits HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/443.ts
+#EXTINF:-1,UK: Sky MTV Dance HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/441.ts
+#EXTINF:-1,UK: Sky MTV Live HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/439.ts
+#EXTINF:-1,UK: Sky MTV Classic
+http://ipsatpro.info:8000/live/andreas1/andreas1/500.ts
+#EXTINF:-1,UK: Sky MTV Base
+http://ipsatpro.info:8000/live/andreas1/andreas1/440.ts
+#EXTINF:-1,UK: Sky Kronehit TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/1545.ts
+#EXTINF:-1,US: Sport TSN 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://ipsatpro.info:8000/live/andreas1/andreas1/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://ipsatpro.info:8000/live/andreas1/andreas1/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://ipsatpro.info:8000/live/andreas1/andreas1/1475.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1497.ts
+#EXTINF:-1,US: Sports NET PACIFIC
+http://ipsatpro.info:8000/live/andreas1/andreas1/1502.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1526.ts
+#EXTINF:-1,US: Sports NET ONTARIO
+http://ipsatpro.info:8000/live/andreas1/andreas1/1503.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1525.ts
+#EXTINF:-1,US: Sports Tonight
+http://ipsatpro.info:8000/live/andreas1/andreas1/1490.ts
+#EXTINF:-1,US: Sport Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/1459.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1496.ts
+#EXTINF:-1,US: USA Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/1498.ts
+#EXTINF:-1,US: Espn Sport
+http://ipsatpro.info:8000/live/andreas1/andreas1/1483.ts
+#EXTINF:-1,US: BeIN Sports US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1486.ts
+#EXTINF:-1,US: Spike HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1442.ts
+#EXTINF:-1,US: Sports NFL Now HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1434.ts
+#EXTINF:-1,US: NHL Network HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1429.ts
+#EXTINF:-1,US: Sport Snet Central
+http://ipsatpro.info:8000/live/andreas1/andreas1/1430.ts
+#EXTINF:-1,US: ShowTime HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1439.ts
+#EXTINF:-1,US: Showtime US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1480.ts
+#EXTINF:-1,US: AFN Prime HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1479.ts
+#EXTINF:-1,US: AFN Movies HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1477.ts
+#EXTINF:-1,US: TMN Action
+http://ipsatpro.info:8000/live/andreas1/andreas1/1471.ts
+#EXTINF:-1,US: TMN Movies 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1467.ts
+#EXTINF:-1,US: TMN Movies 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1468.ts
+#EXTINF:-1,US: TMN Movies 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/1469.ts
+#EXTINF:-1,US: TMN Movies 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/1470.ts
+#EXTINF:-1,US: FX HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1478.ts
+#EXTINF:-1,US: FOX 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1435.ts
+#EXTINF:-1,US: Ion US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1531.ts
+#EXTINF:-1,US: FOX 30
+http://ipsatpro.info:8000/live/andreas1/andreas1/1523.ts
+#EXTINF:-1,US: FOX 23
+http://ipsatpro.info:8000/live/andreas1/andreas1/1519.ts
+#EXTINF:-1,US: Fox 24 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1509.ts
+#EXTINF:-1,US: Fox Action
+http://ipsatpro.info:8000/live/andreas1/andreas1/1448.ts
+#EXTINF:-1,US: Fox Action HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1441.ts
+#EXTINF:-1,US: Fox Premium HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1437.ts
+#EXTINF:-1,US: Cinemax ActionMax
+http://ipsatpro.info:8000/live/andreas1/andreas1/1512.ts
+#EXTINF:-1,US: HBO Signature
+http://ipsatpro.info:8000/live/andreas1/andreas1/1517.ts
+#EXTINF:-1,US: NBCSN Golf
+http://ipsatpro.info:8000/live/andreas1/andreas1/1533.ts
+#EXTINF:-1,US: SYFY HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1481.ts
+#EXTINF:-1,US: CBS HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1485.ts
+#EXTINF:-1,US: HBO 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1433.ts
+#EXTINF:-1,US: Bravo
+http://ipsatpro.info:8000/live/andreas1/andreas1/1482.ts
+#EXTINF:-1,US: Starz Edge
+http://ipsatpro.info:8000/live/andreas1/andreas1/1438.ts
+#EXTINF:-1,US: Starz East
+http://ipsatpro.info:8000/live/andreas1/andreas1/1450.ts
+#EXTINF:-1,US: YTV HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1506.ts
+#EXTINF:-1,US: Fight Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/1457.ts
+#EXTINF:-1,US: Bravo HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1507.ts
+#EXTINF:-1,US: A&E HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1500.ts
+#EXTINF:-1,US: HBO Action
+http://ipsatpro.info:8000/live/andreas1/andreas1/1511.ts
+#EXTINF:-1,US: Movie Time HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1499.ts
+#EXTINF:-1,US: RDS2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1505.ts
+#EXTINF:-1,US: NBCSN
+http://ipsatpro.info:8000/live/andreas1/andreas1/1456.ts
+#EXTINF:-1,US: HSN
+http://ipsatpro.info:8000/live/andreas1/andreas1/1462.ts
+#EXTINF:-1,US: London Live
+http://ipsatpro.info:8000/live/andreas1/andreas1/1494.ts
+#EXTINF:-1,US: Golbal HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1491.ts
+#EXTINF:-1,US: Starz Encore US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1524.ts
+#EXTINF:-1,US: AFN Movie HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1522.ts
+#EXTINF:-1,US: Kiro 7
+http://ipsatpro.info:8000/live/andreas1/andreas1/1520.ts
+#EXTINF:-1,US: Иллюзион +
+http://ipsatpro.info:8000/live/andreas1/andreas1/1518.ts
+#EXTINF:-1,US: CBSN
+http://ipsatpro.info:8000/live/andreas1/andreas1/1521.ts
+#EXTINF:-1,US: Famly HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1495.ts
+#EXTINF:-1,US: Olympic Channel
+http://ipsatpro.info:8000/live/andreas1/andreas1/1493.ts
+#EXTINF:-1,US: AMC
+http://ipsatpro.info:8000/live/andreas1/andreas1/1492.ts
+#EXTINF:-1,US: BBC Two Eng
+http://ipsatpro.info:8000/live/andreas1/andreas1/1443.ts
+#EXTINF:-1,US: Msnbc
+http://ipsatpro.info:8000/live/andreas1/andreas1/1447.ts
+#EXTINF:-1,US: Cinemax
+http://ipsatpro.info:8000/live/andreas1/andreas1/1461.ts
+#EXTINF:-1,US: AMC HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1534.ts
+#EXTINF:-1,US: Life Time HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1460.ts
+#EXTINF:-1,US: C-Span 1 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1487.ts
+#EXTINF:-1,US: C-Span 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1488.ts
+#EXTINF:-1,US: C-Span 3 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1489.ts
+#EXTINF:-1,US: Showtime Extreme
+http://ipsatpro.info:8000/live/andreas1/andreas1/1539.ts
+#EXTINF:-1,US: CBC Toronto
+http://ipsatpro.info:8000/live/andreas1/andreas1/1541.ts
+#EXTINF:-1,US: Comedy Central HD US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1540.ts
+#EXTINF:-1,US: ActionMAX US
+http://ipsatpro.info:8000/live/andreas1/andreas1/1527.ts
+#EXTINF:-1,US: CP24 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1528.ts
+#EXTINF:-1,US: Discovery Velocity HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1529.ts
+#EXTINF:-1,US: CTV Toronto HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1530.ts
+#EXTINF:-1,US: TWiT TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/1535.ts
+#EXTINF:-1,US: HBO Family
+http://ipsatpro.info:8000/live/andreas1/andreas1/1536.ts
+#EXTINF:-1,US: Starz Comedy
+http://ipsatpro.info:8000/live/andreas1/andreas1/1537.ts
+#EXTINF:-1,US: Starz Cinema
+http://ipsatpro.info:8000/live/andreas1/andreas1/1538.ts
+#EXTINF:-1,US: W Network HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1532.ts
+#EXTINF:-1,US: Bloomberg
+http://ipsatpro.info:8000/live/andreas1/andreas1/1464.ts
+#EXTINF:-1,US: Amazing Discoveries
+http://ipsatpro.info:8000/live/andreas1/andreas1/1465.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1466.ts
+#EXTINF:-1,US: A&E Network
+http://ipsatpro.info:8000/live/andreas1/andreas1/1458.ts
+#EXTINF:-1,US: AFN Prime Atlantic HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1484.ts
+#EXTINF:-1,US: Thai CH8
+http://ipsatpro.info:8000/live/andreas1/andreas1/1463.ts
+#EXTINF:-1,US: World Fashion TV
+http://ipsatpro.info:8000/live/andreas1/andreas1/1432.ts
+#EXTINF:-1,US: TBS Channle
+http://ipsatpro.info:8000/live/andreas1/andreas1/1449.ts
+#EXTINF:-1,US: Amazing Music
+http://ipsatpro.info:8000/live/andreas1/andreas1/1446.ts
+#EXTINF:-1,US: ABC
+http://ipsatpro.info:8000/live/andreas1/andreas1/1504.ts
+#EXTINF:-1,US: WGN 9 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1515.ts
+#EXTINF:-1,US: Euro plus
+http://ipsatpro.info:8000/live/andreas1/andreas1/1516.ts
+#EXTINF:-1,US: TRT World
+http://ipsatpro.info:8000/live/andreas1/andreas1/1513.ts
+#EXTINF:-1,US: TLC
+http://ipsatpro.info:8000/live/andreas1/andreas1/1510.ts
+#EXTINF:-1,US: NBC Live
+http://ipsatpro.info:8000/live/andreas1/andreas1/1501.ts
+#EXTINF:-1,US: BBC Amrica
+http://ipsatpro.info:8000/live/andreas1/andreas1/1514.ts
+#EXTINF:-1,ES: Taquilla 1
+http://ipsatpro.info:8000/live/andreas1/andreas1/1071.ts
+#EXTINF:-1,ES: Taquilla 2
+http://ipsatpro.info:8000/live/andreas1/andreas1/1070.ts
+#EXTINF:-1,ES: Taquilla 3
+http://ipsatpro.info:8000/live/andreas1/andreas1/1069.ts
+#EXTINF:-1,ES: Taquilla 4
+http://ipsatpro.info:8000/live/andreas1/andreas1/1068.ts
+#EXTINF:-1,ES: Taquilla 5
+http://ipsatpro.info:8000/live/andreas1/andreas1/1067.ts
+#EXTINF:-1,ES: Taquilla 6
+http://ipsatpro.info:8000/live/andreas1/andreas1/1066.ts
+#EXTINF:-1,ES: Taquilla 7
+http://ipsatpro.info:8000/live/andreas1/andreas1/1065.ts
+#EXTINF:-1,ES: Taquilla 8
+http://ipsatpro.info:8000/live/andreas1/andreas1/1064.ts
+#EXTINF:-1,ES: Taquilla 9
+http://ipsatpro.info:8000/live/andreas1/andreas1/1063.ts
+#EXTINF:-1,ES: Taquilla 10
+http://ipsatpro.info:8000/live/andreas1/andreas1/1062.ts
+#EXTINF:-1,ES: Canal+ Liga
+http://ipsatpro.info:8000/live/andreas1/andreas1/1022.ts
+#EXTINF:-1,ES: Canal+ Deportes HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/1012.ts
+#EXTINF:-1,ES: Canal+ Deportes 2 HD
+http://ipsatpro.info:8000/live/andreas1/andreas1/2590.ts
+#EXTINF:-1,ES: Canal+ Futpol
+http://ipsatpro.info:8000/live/andreas1/andreas1/1020.ts
+#EXTINF:-1,MBC1HD
+http://best4u.tn:8000/live/BEST/BEST/1378.ts
+#EXTINF:-1,MBC+_DRAMAHD
+http://best4u.tn:8000/live/BEST/BEST/3633.ts
+#EXTINF:-1,MBC-DRAMAHD
+http://best4u.tn:8000/live/BEST/BEST/1395.ts
+#EXTINF:-1,MBC+_Variety_HD
+http://best4u.tn:8000/live/BEST/BEST/3612.ts
+#EXTINF:-1,MBC2_HD
+http://best4u.tn:8000/live/BEST/BEST/1371.ts
+#EXTINF:-1,MBC3HD
+http://best4u.tn:8000/live/BEST/BEST/3613.ts
+#EXTINF:-1,MBC4HD
+http://best4u.tn:8000/live/BEST/BEST/1377.ts
+#EXTINF:-1,MBC-ACTIONHD
+http://best4u.tn:8000/live/BEST/BEST/1394.ts
+#EXTINF:-1,MBC_MAX_HD
+http://best4u.tn:8000/live/BEST/BEST/3614.ts
+#EXTINF:-1,RotanHD
+http://best4u.tn:8000/live/BEST/BEST/3623.ts
+#EXTINF:-1,Rotana-CinemaHD
+http://best4u.tn:8000/live/BEST/BEST/3624.ts
+#EXTINF:-1,Rotana-AflamHD
+http://best4u.tn:8000/live/BEST/BEST/3625.ts
+#EXTINF:-1,Rotana-ClassicHD
+http://best4u.tn:8000/live/BEST/BEST/3629.ts
+#EXTINF:-1,Rotan-MasriyaHD
+http://best4u.tn:8000/live/BEST/BEST/3626.ts
+#EXTINF:-1,RessalaHD
+http://best4u.tn:8000/live/BEST/BEST/3627.ts
+#EXTINF:-1,LBCHD
+http://best4u.tn:8000/live/BEST/BEST/3628.ts
+#EXTINF:-1,SeeVii-Al-Aoula
+http://best4u.tn:8000/live/BEST/BEST/3902.ts
+#EXTINF:-1,SeeVii-Beelink
+http://best4u.tn:8000/live/BEST/BEST/3903.ts
+#EXTINF:-1,SeeVii-Drama
+http://best4u.tn:8000/live/BEST/BEST/3904.ts
+#EXTINF:-1,SeeVii-Shamiya
+http://best4u.tn:8000/live/BEST/BEST/3905.ts
+#EXTINF:-1,MBC1
+http://best4u.tn:8000/live/BEST/BEST/19.ts
+#EXTINF:-1,MBC2
+http://best4u.tn:8000/live/BEST/BEST/20.ts
 #EXTINF:-1,MBC3
-http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
-#EXTINF:-1,MBC 4
-http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
-#EXTINF:-1,MBC 4 2
-http://63.237.48.9/ios/MBC_4/MBC_4.m3u8?v=1411929425
-#EXTINF:-1,MBC 4 3
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
-#EXTINF:-1,MBC Drama
-http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8
-#EXTINF:-1,MBC Drama 2
-http://nimplus4eu1.giniko.com/mbcdrama/mbcdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE3IDEwOjM4OjM2IEFNJmhhc2hfdmFsdWU9d251T0VZaC9DSDdQNWlTd3ZBRWkxUT09JnZhbGlkbWludXRlcz0yODgw
-#EXTINF:-1,MBC Drama plus
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
-#EXTINF:-1,MBC Masr1
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1,MBC Masr2
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1,CN
-http://199.167.151.237:1935/live/dub_1_ch1335/playlist.m3u8
-#EXTINF:-1,DW ar
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_5_av-p.m3u8?sd=10
-#EXTINF:-1,Euronews ar
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8?v=2955430278
-#EXTINF:-1,France24 ar
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1,RT Ar
-http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index1600.m3u8
-#EXTINF:-1,Z-Euronews en
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
-#EXTINF:-1,Z-France24 en
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1,Z-RT News en
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
-#EXTINF:-1,Z-RT Doc
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+http://best4u.tn:8000/live/BEST/BEST/21.ts
+#EXTINF:-1,MBC4
+http://best4u.tn:8000/live/BEST/BEST/22.ts
+#EXTINF:-1,MBCDRAMA
+http://best4u.tn:8000/live/BEST/BEST/25.ts
+#EXTINF:-1,MBCAction
+http://best4u.tn:8000/live/BEST/BEST/23.ts
+#EXTINF:-1,MBCMAX
+http://best4u.tn:8000/live/BEST/BEST/26.ts
+#EXTINF:-1,MBCBollywood
+http://best4u.tn:8000/live/BEST/BEST/24.ts
+#EXTINF:-1,MBC_Masr2
+http://best4u.tn:8000/live/BEST/BEST/28.ts
+#EXTINF:-1,MBC_MASR
+http://best4u.tn:8000/live/BEST/BEST/27.ts
+#EXTINF:-1,Rotana music
+http://best4u.tn:8000/live/BEST/BEST/43.ts
+#EXTINF:-1,Rotana_Cinema_KSA
+http://best4u.tn:8000/live/BEST/BEST/45.ts
+#EXTINF:-1,Rotana_Cinema_EGY
+http://best4u.tn:8000/live/BEST/BEST/44.ts
+#EXTINF:-1,Rotana-Masriya
+http://best4u.tn:8000/live/BEST/BEST/49.ts
+#EXTINF:-1,Rotana_Clip
+http://best4u.tn:8000/live/BEST/BEST/47.ts
+#EXTINF:-1,Rotana_Khalijiah
+http://best4u.tn:8000/live/BEST/BEST/48.ts
+#EXTINF:-1,Rotana_Classic
+http://best4u.tn:8000/live/BEST/BEST/46.ts
+#EXTINF:-1,ART_Cinema
+http://best4u.tn:8000/live/BEST/BEST/53.ts
+#EXTINF:-1,Aflam_1
+http://best4u.tn:8000/live/BEST/BEST/51.ts
+#EXTINF:-1,Aflam_2
+http://best4u.tn:8000/live/BEST/BEST/52.ts
+#EXTINF:-1,Hekayat
+http://best4u.tn:8000/live/BEST/BEST/54.ts
+#EXTINF:-1,Hekayat_2
+http://best4u.tn:8000/live/BEST/BEST/75.ts
+#EXTINF:-1,HD-FILM
+http://best4u.tn:8000/live/BEST/BEST/2293.ts
+#EXTINF:-1,HD-CLASSIC
+http://best4u.tn:8000/live/BEST/BEST/2291.ts
+#EXTINF:-1,CINEMA2
+http://best4u.tn:8000/live/BEST/BEST/2302.ts
+#EXTINF:-1,CINEMA1
+http://best4u.tn:8000/live/BEST/BEST/2301.ts
+#EXTINF:-1,CINEMA-ALWAN
+http://best4u.tn:8000/live/BEST/BEST/2296.ts
+#EXTINF:-1,FATAFEAT
+http://best4u.tn:8000/live/BEST/BEST/98.ts
+#EXTINF:-1,CBC
+http://best4u.tn:8000/live/BEST/BEST/56.ts
+#EXTINF:-1,CBC2
+http://best4u.tn:8000/live/BEST/BEST/57.ts
+#EXTINF:-1,CBC-Drama
+http://best4u.tn:8000/live/BEST/BEST/58.ts
+#EXTINF:-1,CBC-Extra
+http://best4u.tn:8000/live/BEST/BEST/59.ts
+#EXTINF:-1,CBC-Sofra
+http://best4u.tn:8000/live/BEST/BEST/60.ts
+#EXTINF:-1,AlArabiya-Hadath
+http://best4u.tn:8000/live/BEST/BEST/151.ts
+#EXTINF:-1,Arabiya
+http://best4u.tn:8000/live/BEST/BEST/150.ts
+#EXTINF:-1,Hadath
+http://best4u.tn:8000/live/BEST/BEST/154.ts
+#EXTINF:-1,CNBC-ARABIA
+http://best4u.tn:8000/live/BEST/BEST/1916.ts
+#EXTINF:-1,JAZEERA
+http://best4u.tn:8000/live/BEST/BEST/146.ts
+#EXTINF:-1,Jazeera-Documentary
+http://best4u.tn:8000/live/BEST/BEST/155.ts
+#EXTINF:-1,Ontv_live
+http://best4u.tn:8000/live/BEST/BEST/1642.ts
+#EXTINF:-1,ONTV-sport
+http://best4u.tn:8000/live/BEST/BEST/835.ts
+#EXTINF:-1,ON-E
+http://best4u.tn:8000/live/BEST/BEST/3702.ts
+#EXTINF:-1,Al Masira
+http://best4u.tn:8000/live/BEST/BEST/833.ts
+#EXTINF:-1,Moga-Comedy
+http://best4u.tn:8000/live/BEST/BEST/1534.ts
+#EXTINF:-1,Melody_Classic
+http://best4u.tn:8000/live/BEST/BEST/140.ts
+#EXTINF:-1,Mazzika
+http://best4u.tn:8000/live/BEST/BEST/291.ts
+#EXTINF:-1,DUBAITV
+http://best4u.tn:8000/live/BEST/BEST/128.ts
+#EXTINF:-1,DUBAI-ONE
+http://best4u.tn:8000/live/BEST/BEST/126.ts
+#EXTINF:-1,Abu dhabi TV
+http://best4u.tn:8000/live/BEST/BEST/1469.ts
+#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
+http://best4u.tn:8000/live/BEST/BEST/284.ts
+#EXTINF:-1,Nile_news
+http://best4u.tn:8000/live/BEST/BEST/295.ts
+#EXTINF:-1,Nile_Life
+http://best4u.tn:8000/live/BEST/BEST/144.ts
+#EXTINF:-1,Nile_Family
+http://best4u.tn:8000/live/BEST/BEST/143.ts
+#EXTINF:-1,Nile_Drama
+http://best4u.tn:8000/live/BEST/BEST/142.ts
+#EXTINF:-1,Nile_Cinema
+http://best4u.tn:8000/live/BEST/BEST/294.ts
+#EXTINF:-1,Nile_Comedy
+http://best4u.tn:8000/live/BEST/BEST/141.ts
+#EXTINF:-1,Hayat-Cinema
+http://best4u.tn:8000/live/BEST/BEST/136.ts
+#EXTINF:-1,Alhayat-Muslsalat
+http://best4u.tn:8000/live/BEST/BEST/515.ts
+#EXTINF:-1,AlNahDrama
+http://best4u.tn:8000/live/BEST/BEST/159.ts
+#EXTINF:-1,nahnour
+http://best4u.tn:8000/live/BEST/BEST/838.ts
+#EXTINF:-1,NahAl-Youm
+http://best4u.tn:8000/live/BEST/BEST/837.ts
+#EXTINF:-1,Nahar+2
+http://best4u.tn:8000/live/BEST/BEST/834.ts
+#EXTINF:-1,-Nahar
+http://best4u.tn:8000/live/BEST/BEST/156.ts
+#EXTINF:-1,DREAM1
+http://best4u.tn:8000/live/BEST/BEST/287.ts
+#EXTINF:-1,Dream2
+http://best4u.tn:8000/live/BEST/BEST/163.ts
+#EXTINF:-1,Sky_News
+http://best4u.tn:8000/live/BEST/BEST/2305.ts
+#EXTINF:-1,Cairo-Universal
+http://best4u.tn:8000/live/BEST/BEST/106.ts
+#EXTINF:-1,Cairo-Drama
+http://best4u.tn:8000/live/BEST/BEST/109.ts
+#EXTINF:-1,Cairo-cinema
+http://best4u.tn:8000/live/BEST/BEST/107.ts
+#EXTINF:-1,Panorama-Drama2
+http://best4u.tn:8000/live/BEST/BEST/41.ts
+#EXTINF:-1,Panorama-Drama
+http://best4u.tn:8000/live/BEST/BEST/40.ts
+#EXTINF:-1,Panorama-Film
+http://best4u.tn:8000/live/BEST/BEST/1555.ts
+#EXTINF:-1,Panorama-comedy
+http://best4u.tn:8000/live/BEST/BEST/844.ts
+#EXTINF:-1,Panorama-FOOD
+http://best4u.tn:8000/live/BEST/BEST/842.ts
+#EXTINF:-1,Elbalad_Drama
+http://best4u.tn:8000/live/BEST/BEST/115.ts
+#EXTINF:-1,time_cinema
+http://best4u.tn:8000/live/BEST/BEST/223.ts
+#EXTINF:-1,TIME-COMEDY
+http://best4u.tn:8000/live/BEST/BEST/849.ts
+#EXTINF:-1,STCINEMA2
+http://best4u.tn:8000/live/BEST/BEST/850.ts
+#EXTINF:-1,STCINEMA1
+http://best4u.tn:8000/live/BEST/BEST/851.ts
+#EXTINF:-1,LTC-MASR
+http://best4u.tn:8000/live/BEST/BEST/845.ts
+#EXTINF:-1,ElBalad-Drama
+http://best4u.tn:8000/live/BEST/BEST/843.ts
+#EXTINF:-1,ALMASRAWIA-AFLAM
+http://best4u.tn:8000/live/BEST/BEST/847.ts
+#EXTINF:-1,imagine_moives
+http://best4u.tn:8000/live/BEST/BEST/852.ts
+#EXTINF:-1,Althanya
+http://best4u.tn:8000/live/BEST/BEST/199.ts
+#EXTINF:-1,Mehwer
+http://best4u.tn:8000/live/BEST/BEST/130.ts
+#EXTINF:-1,SAT7-ARABIC
+http://best4u.tn:8000/live/BEST/BEST/1608.ts
+#EXTINF:-1,Al Nahar Cinema
+http://best4u.tn:8000/live/BEST/BEST/194.ts
+#EXTINF:-1,arb-Abu_Dhabi_Drama
+http://best4u.tn:8000/live/BEST/BEST/1397.ts
+#EXTINF:-1,-MASSAL-OULA
+http://best4u.tn:8000/live/BEST/BEST/1914.ts
+#EXTINF:-1,Noursat
+http://best4u.tn:8000/live/BEST/BEST/1622.ts
+#EXTINF:-1,ALHAYAT
+http://best4u.tn:8000/live/BEST/BEST/123.ts
+#EXTINF:-1,Alhayat_2
+http://best4u.tn:8000/live/BEST/BEST/157.ts
+#EXTINF:-1,Logos TV
+http://best4u.tn:8000/live/BEST/BEST/2308.ts
+#EXTINF:-1,Alkarma TV
+http://best4u.tn:8000/live/BEST/BEST/2310.ts
+#EXTINF:-1,Aghapy TV
+http://best4u.tn:8000/live/BEST/BEST/2307.ts
+#EXTINF:-1,Al_Kahera_Wel_Nes
+http://best4u.tn:8000/live/BEST/BEST/3204.ts
+#EXTINF:-1,Al_Kahera wal nas 2
+http://best4u.tn:8000/live/BEST/BEST/3203.ts
+#EXTINF:-1,Bn_sports ///
+http://best4u.tn:8000/live/BEST/BEST/803.ts
+#EXTINF:-1,Bn_HD_Sport1_FR
+http://best4u.tn:8000/live/BEST/BEST/17.ts
+#EXTINF:-1,Fr-B_Sport1_(b)
+http://best4u.tn:8000/live/BEST/BEST/2739.ts
+#EXTINF:-1,Bn_HD_Sport2_FR
+http://best4u.tn:8000/live/BEST/BEST/18.ts
+#EXTINF:-1,Fr-B_Sport2_(b)
+http://best4u.tn:8000/live/BEST/BEST/2740.ts
+#EXTINF:-1,Bn_HD_Sport3_FR
+http://best4u.tn:8000/live/BEST/BEST/336.ts
+#EXTINF:-1,Fr-B_Sport3_(b)
+http://best4u.tn:8000/live/BEST/BEST/3677.ts
+#EXTINF:-1,B_SPORT1
+http://best4u.tn:8000/live/BEST/BEST/300.ts
+#EXTINF:-1,B_Sports_HD1
+http://best4u.tn:8000/live/BEST/BEST/1.ts
+#EXTINF:-1,B_SPORT2
+http://best4u.tn:8000/live/BEST/BEST/307.ts
+#EXTINF:-1,B_Sports_HD2
+http://best4u.tn:8000/live/BEST/BEST/2.ts
+#EXTINF:-1,B_SPORT3
+http://best4u.tn:8000/live/BEST/BEST/308.ts
+#EXTINF:-1,B_Sports_HD3
+http://best4u.tn:8000/live/BEST/BEST/3.ts
+#EXTINF:-1,B_SPORT4
+http://best4u.tn:8000/live/BEST/BEST/309.ts
+#EXTINF:-1,B_Sports_HD4
+http://best4u.tn:8000/live/BEST/BEST/4.ts
+#EXTINF:-1,B_SPORT5
+http://best4u.tn:8000/live/BEST/BEST/310.ts
+#EXTINF:-1,B_Sports_HD5
+http://best4u.tn:8000/live/BEST/BEST/5.ts
+#EXTINF:-1,B_SPORT6
+http://best4u.tn:8000/live/BEST/BEST/311.ts
+#EXTINF:-1,B_Sports_HD6
+http://best4u.tn:8000/live/BEST/BEST/6.ts
+#EXTINF:-1,B_SPORT7
+http://best4u.tn:8000/live/BEST/BEST/312.ts
+#EXTINF:-1,B_Sports_HD7
+http://best4u.tn:8000/live/BEST/BEST/7.ts
+#EXTINF:-1,B_SPORT8
+http://best4u.tn:8000/live/BEST/BEST/313.ts
+#EXTINF:-1,B_Sports_HD8
+http://best4u.tn:8000/live/BEST/BEST/8.ts
+#EXTINF:-1,B_SPORT9
+http://best4u.tn:8000/live/BEST/BEST/314.ts
+#EXTINF:-1,B_Sports_HD9
+http://best4u.tn:8000/live/BEST/BEST/9.ts
+#EXTINF:-1,B_SPORT10
+http://best4u.tn:8000/live/BEST/BEST/301.ts
+#EXTINF:-1,B_Sports_HD10
+http://best4u.tn:8000/live/BEST/BEST/10.ts
+#EXTINF:-1,B_SPORT11
+http://best4u.tn:8000/live/BEST/BEST/302.ts
+#EXTINF:-1,B_Sports_HD11
+http://best4u.tn:8000/live/BEST/BEST/11.ts
+#EXTINF:-1,B_SPORT12
+http://best4u.tn:8000/live/BEST/BEST/303.ts
+#EXTINF:-1,B_Sports_HD12
+http://best4u.tn:8000/live/BEST/BEST/12.ts
+#EXTINF:-1,B_Sport_News HD
+http://best4u.tn:8000/live/BEST/BEST/299.ts
+#EXTINF:-1,Extra_Sports ///
+http://best4u.tn:8000/live/BEST/BEST/1276.ts
+#EXTINF:-1,fr-CANAL_sport
+http://best4u.tn:8000/live/BEST/BEST/152.ts
+#EXTINF:-1,FR-SFR_Sports1
+http://best4u.tn:8000/live/BEST/BEST/251.ts
+#EXTINF:-1,FR-SFR_Sports1(bk)
+http://best4u.tn:8000/live/BEST/BEST/3697.ts
+#EXTINF:-1,FR-SFR_Sport2(test)
+http://best4u.tn:8000/live/BEST/BEST/2555.ts
+#EXTINF:-1,FR-SFR_Sport3(test)
+http://best4u.tn:8000/live/BEST/BEST/2738.ts
+#EXTINF:-1,Fr-Equidia livee
+http://best4u.tn:8000/live/BEST/BEST/2633.ts
+#EXTINF:-1,fr-EQUIPE21
+http://best4u.tn:8000/live/BEST/BEST/791.ts
+#EXTINF:-1,FR_FOOT
+http://best4u.tn:8000/live/BEST/BEST/2195.ts
+#EXTINF:-1,FR-OLTV
+http://best4u.tn:8000/live/BEST/BEST/2138.ts
+#EXTINF:-1,FR-Info_Sport
+http://best4u.tn:8000/live/BEST/BEST/792.ts
+#EXTINF:-1,Fr-BFM_SPORT
+http://best4u.tn:8000/live/BEST/BEST/758.ts
+#EXTINF:-1,FR-Eurosport-HD
+http://best4u.tn:8000/live/BEST/BEST/165.ts
+#EXTINF:-1,Fr-Euro Sports 2
+http://best4u.tn:8000/live/BEST/BEST/1878.ts
+#EXTINF:-1,UK-Sky-Sport1
+http://best4u.tn:8000/live/BEST/BEST/874.ts
+#EXTINF:-1,UK-SkySports1 SD
+http://best4u.tn:8000/live/BEST/BEST/2971.ts
+#EXTINF:-1,UK-Sky-Sport2
+http://best4u.tn:8000/live/BEST/BEST/421.ts
+#EXTINF:-1,UK-SkySports2 SD
+http://best4u.tn:8000/live/BEST/BEST/2972.ts
+#EXTINF:-1,UK-Sky-Sport3
+http://best4u.tn:8000/live/BEST/BEST/420.ts
+#EXTINF:-1,UK-SkySports3 SD
+http://best4u.tn:8000/live/BEST/BEST/2973.ts
+#EXTINF:-1,UK-Sky-Sport4
+http://best4u.tn:8000/live/BEST/BEST/419.ts
+#EXTINF:-1,UK-SkySports4 SD
+http://best4u.tn:8000/live/BEST/BEST/2974.ts
+#EXTINF:-1,UK-Sky-Sport5
+http://best4u.tn:8000/live/BEST/BEST/418.ts
+#EXTINF:-1,UK-SkySports5 SD
+http://best4u.tn:8000/live/BEST/BEST/2975.ts
+#EXTINF:-1,UK-sky_sport_F1
+http://best4u.tn:8000/live/BEST/BEST/2014.ts
+#EXTINF:-1,UK-Premier Sports
+http://best4u.tn:8000/live/BEST/BEST/2153.ts
+#EXTINF:-1,UK-Racing
+http://best4u.tn:8000/live/BEST/BEST/2016.ts
+#EXTINF:-1,UK-Box_Nation
+http://best4u.tn:8000/live/BEST/BEST/1595.ts
+#EXTINF:-1,UK:Setanta
+http://best4u.tn:8000/live/BEST/BEST/1504.ts
+#EXTINF:-1,UK-BTsport-europe
+http://best4u.tn:8000/live/BEST/BEST/1468.ts
+#EXTINF:-1,UK-BT_Sport1
+http://best4u.tn:8000/live/BEST/BEST/1308.ts
+#EXTINF:-1,UK-BT_Sport2
+http://best4u.tn:8000/live/BEST/BEST/1309.ts
+#EXTINF:-1,UK-Eurosport1_HD
+http://best4u.tn:8000/live/BEST/BEST/3830.ts
+#EXTINF:-1,UK-Eurosport2_HD
+http://best4u.tn:8000/live/BEST/BEST/3829.ts
+#EXTINF:-1,UK-BT-Espn
+http://best4u.tn:8000/live/BEST/BEST/1594.ts
+#EXTINF:-1,UK-Liverpool_FC
+http://best4u.tn:8000/live/BEST/BEST/2209.ts
+#EXTINF:-1,UK-AtThe-Races
+http://best4u.tn:8000/live/BEST/BEST/396.ts
+#EXTINF:-1,UK-Motors_TV
+http://best4u.tn:8000/live/BEST/BEST/2216.ts
+#EXTINF:-1,UK-Sky_Sports-News
+http://best4u.tn:8000/live/BEST/BEST/2223.ts
+#EXTINF:-1,spt-Sport_tonight-UK
+http://best4u.tn:8000/live/BEST/BEST/1263.ts
+#EXTINF:-1,spt-Bs Sport
+http://best4u.tn:8000/live/BEST/BEST/657.ts
+#EXTINF:-1,US-Fox SPORT1
+http://best4u.tn:8000/live/BEST/BEST/2638.ts
+#EXTINF:-1,US-TSN Sport 1
+http://best4u.tn:8000/live/BEST/BEST/1257.ts
+#EXTINF:-1,US-TSN 2
+http://best4u.tn:8000/live/BEST/BEST/2642.ts
+#EXTINF:-1,US-TSN 3
+http://best4u.tn:8000/live/BEST/BEST/2641.ts
+#EXTINF:-1,US-TSN 4
+http://best4u.tn:8000/live/BEST/BEST/2640.ts
+#EXTINF:-1,US-TSN 5
+http://best4u.tn:8000/live/BEST/BEST/2639.ts
+#EXTINF:-1,US-WWE
+http://best4u.tn:8000/live/BEST/BEST/2730.ts
+#EXTINF:-1,USA:NFL_now
+http://best4u.tn:8000/live/BEST/BEST/2078.ts
+#EXTINF:-1,USA-NBCSN sport
+http://best4u.tn:8000/live/BEST/BEST/2116.ts
+#EXTINF:-1,US-Sports Net
+http://best4u.tn:8000/live/BEST/BEST/1625.ts
+#EXTINF:-1,USA-NBA
+http://best4u.tn:8000/live/BEST/BEST/2385.ts
+#EXTINF:-1,bein sport 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein sport 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein sport 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein sport 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein sport 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein sport 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein sport 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein sport 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein sport 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein sport 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
