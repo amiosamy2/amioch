@@ -1,0 +1,515 @@
+#EXTM3U
+#EXTINF:-1,ART AFLAM 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/194.ts
+#EXTINF:-1,ART AFLAM 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/193.ts
+#EXTINF:-1,ART HEKAYAT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/191.ts
+#EXTINF:-1,ART HEKAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/190.ts
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/192.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/141.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/140.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/139.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/138.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/493.ts
+#EXTINF:-1,MBC Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/137.ts
+#EXTINF:-1,MBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/135.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/134.ts
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/133.ts
+#EXTINF:-1,Rotana_Cinema_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2105.ts
+#EXTINF:-1,Rotana_Classic_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2100.ts
+#EXTINF:-1,Rotana_Music_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2097.ts
+#EXTINF:-1,Rotana_Masriya_HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2098.ts
+#EXTINF:-1,ROTANA AFLAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1893.ts
+#EXTINF:-1,ROTANA CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1873.ts
+#EXTINF:-1,ROTANA CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1894.ts
+#EXTINF:-1,ROTANA MASRIYAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1895.ts
+#EXTINF:-1,ROTANA CLIP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4331.ts
+#EXTINF:-1,ROTANA MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4332.ts
+#EXTINF:-1,LDC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1901.ts
+#EXTINF:-1,Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/546.ts
+#EXTINF:-1,TIME TAXI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/81.ts
+#EXTINF:-1,Alhayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/219.ts
+#EXTINF:-1,ALHAYAT MUSALSALAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/220.ts
+#EXTINF:-1,ANAHAR TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/235.ts
+#EXTINF:-1,ANAHAR  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/238.ts
+#EXTINF:-1,NILE DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4340.ts
+#EXTINF:-1,NILE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4338.ts
+#EXTINF:-1,NILE FAMILY AND KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4335.ts
+#EXTINF:-1,NILE CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/122.ts
+#EXTINF:-1,NILETV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/539.ts
+#EXTINF:-1,Nile-Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/541.ts
+#EXTINF:-1,Nile sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/548.ts
+#EXTINF:-1,PANORAMA FILM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/109.ts
+#EXTINF:-1,SAT 7 ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/610.ts
+#EXTINF:-1,SAT 7 KIDS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/611.ts
+#EXTINF:-1,Cairo Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/183.ts
+#EXTINF:-1,CAIRO DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/182.ts
+#EXTINF:-1,Jazeera KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/72.ts
+#EXTINF:-1,Hod Hod Arabic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/73.ts
+#EXTINF:-1,Smile of a Child
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/74.ts
+#EXTINF:-1,Moga Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/75.ts
+#EXTINF:-1,SeeVii PRIME 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/175.ts
+#EXTINF:-1,Nile Cinma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/547.ts
+#EXTINF:-1,CIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4334.ts
+#EXTINF:-1,TOKTOK CIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4339.ts
+#EXTINF:-1,CIMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/176.ts
+#EXTINF:-1,SeeVii PRIME 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/174.ts
+#EXTINF:-1,SeeVii PRIME 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/173.ts
+#EXTINF:-1,STAR CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/90.ts
+#EXTINF:-1,CINEMA PRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/172.ts
+#EXTINF:-1,Toktokaflam
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/492.ts
+#EXTINF:-1,TV CNE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/514.ts
+#EXTINF:-1,CINEMA PRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/584.ts
+#EXTINF:-1,Aljazera News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/635.ts
+#EXTINF:-1,AARABIYA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2096.ts
+#EXTINF:-1,AHADATH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2186.ts
+#EXTINF:-1,AHAYAT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1899.ts
+#EXTINF:-1,BBC ARABIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/2176.ts
+#EXTINF:-1,AMASRIYAH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4336.ts
+#EXTINF:-1,PANORAMA DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/4341.ts
+#EXTINF:-1,CBC EXTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://we-you-iptv.tv:8000/live/local1/123456/1896.ts
+#EXTINF:-1,ANahar AYoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9975.ts
+#EXTINF:-1,ANahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9974.ts
+#EXTINF:-1,ANahar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9972.ts
+#EXTINF:-1,ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9955.ts
+#EXTINF:-1,ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9954.ts
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9956.ts
+#EXTINF:-1,ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9958.ts
+#EXTINF:-1,ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9959.ts
+#EXTINF:-1,Cairo Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9979.ts
+#EXTINF:-1,Cairo Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9980.ts
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9968.ts
+#EXTINF:-1,CBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9970.ts
+#EXTINF:-1,CBC Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9971.ts
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9969.ts
+#EXTINF:-1,Melody Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8778.ts
+#EXTINF:-1,Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8637.ts
+#EXTINF:-1,Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9951.ts
+#EXTINF:-1,Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9950.ts
+#EXTINF:-1,Nile Culture
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9981.ts
+#EXTINF:-1,Nile Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9982.ts
+#EXTINF:-1,Nile Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9949.ts
+#EXTINF:-1,ALkahera WaNas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8804.ts
+#EXTINF:-1,Star Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9961.ts
+#EXTINF:-1,Star Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9962.ts
+#EXTINF:-1,Rotana Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9932.ts
+#EXTINF:-1,Rotana Khalijia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9933.ts
+#EXTINF:-1,Rotana Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9935.ts
+#EXTINF:-1,Rotana Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9934.ts
+#EXTINF:-1,Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9929.ts
+#EXTINF:-1,Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9931.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8642.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8643.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9943.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9944.ts
+#EXTINF:-1,Mbc Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9941.ts
+#EXTINF:-1,MBC BOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9946.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9945.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9957.ts
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9948.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9947.ts
+#EXTINF:-1,MBC Pro Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8638.ts
+#EXTINF:-1,MBC Pro Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8639.ts
+#EXTINF:-1,MBC Pro Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8640.ts
+#EXTINF:-1,MBC Pro Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8641.ts
+#EXTINF:-1,Dubai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/10001.ts
+#EXTINF:-1,Dubai Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/10005.ts
+#EXTINF:-1,Dubai One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/10004.ts
+#EXTINF:-1,BeIN Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13281.ts
+#EXTINF:-1,BeIN Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13282.ts
+#EXTINF:-1,BeIN Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13283.ts
+#EXTINF:-1,Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/13600.ts
+#EXTINF:-1,AMasrawia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/8807.ts
+#EXTINF:-1,OSN On Demand HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9937.ts
+#EXTINF:-1,AHayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9977.ts
+#EXTINF:-1,AHayat2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9978.ts
+#EXTINF:-1,AKaas 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9928.ts
+#EXTINF:-1,Alarab
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9926.ts
+#EXTINF:-1,Alarabiya1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9940.ts
+#EXTINF:-1,Alhayat Musalsalat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9997.ts
+#EXTINF:-1,Aljazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/14544.ts
+#EXTINF:-1,Aljazeera Doc
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9952.ts
+#EXTINF:-1,Jordan Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9936.ts
+#EXTINF:-1,Panorama Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9965.ts
+#EXTINF:-1,Panorama Drama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9966.ts
+#EXTINF:-1,Time Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9964.ts
+#EXTINF:-1,Time Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9960.ts
+#EXTINF:-1,Time Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/mO4pggAYWd/xKXg4QSscX/9963.ts
+#EXTINF:-1,Bein FataFeat HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13601.ts
+#EXTINF:-1,ANahar AYoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9975.ts
+#EXTINF:-1,ANahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9974.ts
+#EXTINF:-1,ANahar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9972.ts
+#EXTINF:-1,ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9955.ts
+#EXTINF:-1,ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9954.ts
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9956.ts
+#EXTINF:-1,ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9958.ts
+#EXTINF:-1,ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9959.ts
+#EXTINF:-1,Cairo Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9979.ts
+#EXTINF:-1,Cairo Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9980.ts
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9968.ts
+#EXTINF:-1,CBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9970.ts
+#EXTINF:-1,CBC Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9971.ts
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9969.ts
+#EXTINF:-1,Melody Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8778.ts
+#EXTINF:-1,Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8637.ts
+#EXTINF:-1,Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9951.ts
+#EXTINF:-1,Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9950.ts
+#EXTINF:-1,Nile Culture
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9981.ts
+#EXTINF:-1,Nile Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9982.ts
+#EXTINF:-1,Nile Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9949.ts
+#EXTINF:-1,ALkahera WaNas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8804.ts
+#EXTINF:-1,Star Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9961.ts
+#EXTINF:-1,Star Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9962.ts
+#EXTINF:-1,Rotana Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9932.ts
+#EXTINF:-1,Rotana Khalijia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9933.ts
+#EXTINF:-1,Rotana Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9935.ts
+#EXTINF:-1,Rotana Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9934.ts
+#EXTINF:-1,Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9929.ts
+#EXTINF:-1,Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9931.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8642.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8643.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9943.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9944.ts
+#EXTINF:-1,Mbc Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9941.ts
+#EXTINF:-1,MBC BOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9946.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9945.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9957.ts
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9948.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/9947.ts
+#EXTINF:-1,MBC Pro Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8638.ts
+#EXTINF:-1,MBC Pro Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8639.ts
+#EXTINF:-1,MBC Pro Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8640.ts
+#EXTINF:-1,MBC Pro Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8641.ts
+#EXTINF:-1,Dubai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/10001.ts
+#EXTINF:-1,Dubai Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/10005.ts
+#EXTINF:-1,Dubai One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/10004.ts
+#EXTINF:-1,Zee Alwan
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/10000.ts
+#EXTINF:-1,BeIN Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13281.ts
+#EXTINF:-1,BeIN Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13282.ts
+#EXTINF:-1,BeIN Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13283.ts
+#EXTINF:-1,Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/13600.ts
+#EXTINF:-1,AMasrawia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/36HzfHlJse/QWVCdutSZL/8807.ts
+#EXTINF:-1,Time Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/vZ5EoP9ACD/lvao3W3Rnq/9963.ts
+#EXTINF:-1,BeIN Movies 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/13281.ts
+#EXTINF:-1,BeIN Movies 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/13282.ts
+#EXTINF:-1,BeIN Movies 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/13283.ts
+#EXTINF:-1,Bein Movies 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/13600.ts
+#EXTINF:-1,AMasrawia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8807.ts
+#EXTINF:-1,OSN On Demand HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9937.ts
+#EXTINF:-1,ANahar AYoum
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9975.ts
+#EXTINF:-1,ANahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9974.ts
+#EXTINF:-1,ANahar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9972.ts
+#EXTINF:-1,ART Aflam 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9955.ts
+#EXTINF:-1,ART Aflam 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9954.ts
+#EXTINF:-1,ART CINEMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9956.ts
+#EXTINF:-1,ART Hekayat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9958.ts
+#EXTINF:-1,ART Hekayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9959.ts
+#EXTINF:-1,Cairo Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9979.ts
+#EXTINF:-1,Cairo Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9980.ts
+#EXTINF:-1,CBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9968.ts
+#EXTINF:-1,CBC Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9970.ts
+#EXTINF:-1,CBC Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9971.ts
+#EXTINF:-1,CBC Sofra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9969.ts
+#EXTINF:-1,Melody Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8778.ts
+#EXTINF:-1,Nile Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8637.ts
+#EXTINF:-1,Nile Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9951.ts
+#EXTINF:-1,Nile Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9950.ts
+#EXTINF:-1,Nile Culture
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9981.ts
+#EXTINF:-1,Nile Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9982.ts
+#EXTINF:-1,Nile Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9949.ts
+#EXTINF:-1,ALkahera WaNas 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8804.ts
+#EXTINF:-1,Star Cinema 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9961.ts
+#EXTINF:-1,Star Cinema 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9962.ts
+#EXTINF:-1,Panorama Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9930.ts
+#EXTINF:-1,Rotana Masriya
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9932.ts
+#EXTINF:-1,Rotana Khalijia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9933.ts
+#EXTINF:-1,Rotana Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9935.ts
+#EXTINF:-1,Rotana Clip
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9934.ts
+#EXTINF:-1,Rotana Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9929.ts
+#EXTINF:-1,Rotana Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9931.ts
+#EXTINF:-1,MBC 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8642.ts
+#EXTINF:-1,MBC 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8643.ts
+#EXTINF:-1,MBC 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9943.ts
+#EXTINF:-1,MBC 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9944.ts
+#EXTINF:-1,Mbc Action HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9941.ts
+#EXTINF:-1,MBC BOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9946.ts
+#EXTINF:-1,MBC DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9945.ts
+#EXTINF:-1,MBC MASR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9957.ts
+#EXTINF:-1,MBC MASR 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9948.ts
+#EXTINF:-1,MBC MAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9947.ts
+#EXTINF:-1,Dubai
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/10001.ts
+#EXTINF:-1,Dubai Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/10005.ts
+#EXTINF:-1,Dubai One
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/10004.ts
+#EXTINF:-1,Panorama Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9965.ts
+#EXTINF:-1,Panorama Drama2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9966.ts
+#EXTINF:-1,Time Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9964.ts
+#EXTINF:-1,Time Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9960.ts
+#EXTINF:-1,Time Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9963.ts
+#EXTINF:-1,AAhly Club
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/318.ts
+#EXTINF:-1,AHayat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/291.ts
+#EXTINF:-1,AHayat 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/290.ts
+#EXTINF:-1,AHayat Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/289.ts
+#EXTINF:-1,AHayat Series
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/288.ts
+#EXTINF:-1,AKahera WaNas
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/270.ts
+#EXTINF:-1,AKahera WaNas  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/269.ts
+#EXTINF:-1,AKarma TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/268.ts
+#EXTINF:-1,ANahar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/251.ts
+#EXTINF:-1,ANahar  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/250.ts
+#EXTINF:-1,ANahar Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/249.ts
+#EXTINF:-1,ANahar Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/248.ts
+#EXTINF:-1,ANahar Drama  2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://176.31.226.149:25461/live/testest/testest/247.ts
