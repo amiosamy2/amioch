@@ -1,50 +1,28 @@
 ﻿#EXTM3U
-#EXTINF:-1,BEIN SPORTS News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/6968.ts
-#EXTINF:-1,BEIN SPORTS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8299.ts
-#EXTINF:-1,BEIN SPORTS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8298.ts
-#EXTINF:-1,BEIN SPORTS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8297.ts
-#EXTINF:-1,BEIN SPORTS 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8296.ts
-#EXTINF:-1,BEIN SPORTS 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8295.ts
-#EXTINF:-1,BEIN SPORTS 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/8303.ts
-#EXTINF:-1,BEIN SPORTS Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/15383.ts
-#EXTINF:-1,BEIN SPORTS Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/15384.ts
-#EXTINF:-1,BEIN SPORTS Max 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/4eYuAJAwpm/XgdDo5jTTW/15385.ts
+#EXTINF:-1,bein sport1 sd
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein sport2 sd
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein sport3 sd
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein sport4 sd
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein sport5 sd
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein sport6 sd
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein sport7 sd
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein sport8 sd
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein sport9 sd
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein sport10 sd
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+#EXTINF:-1,bein sport11 sd
+http://sstvb1.vdmscdn.com/beinsport-11-sd/index.m3u8
+#EXTINF:-1,bein sport12 sd
+http://sstvb1.vdmscdn.com/beinsport-12-sd/index.m3u8
 #EXTINF:-1,BEINSPORT 1 FR HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4633.ts
 #EXTINF:-1,BEINSPORT 1 FR
@@ -119,46 +97,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdtea
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5465.ts
 #EXTINF:-1,EQUIDIA LIVE
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6909.ts
-#EXTINF:-1,BEIN SPORTS News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/6968.ts
-#EXTINF:-1,BEIN SPORTS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8299.ts
-#EXTINF:-1,BEIN SPORTS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8298.ts
-#EXTINF:-1,BEIN SPORTS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8297.ts
-#EXTINF:-1,BEIN SPORTS 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8296.ts
-#EXTINF:-1,BEIN SPORTS 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8295.ts
-#EXTINF:-1,BEIN SPORTS 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/ArDs3q5mD5/wSd5jTFW8G/8303.ts
 #EXTINF:-1,BEIN Sport 1
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/81.ts
 #EXTINF:-1,BEIN Sport 2
@@ -407,433 +345,69 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvs
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8302.ts
 #EXTINF:-1,BEIN SPORTS 3 FR
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8303.ts
-#EXTINF:-1, Bein Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/169.ts
-#EXTINF:-1, Bein Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/168.ts
-#EXTINF:-1, Bein Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/167.ts
-#EXTINF:-1, Bein Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/166.ts
-#EXTINF:-1, Bein Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/165.ts
-#EXTINF:-1, Bein Sport 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/164.ts
-#EXTINF:-1, Bein Sport 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/163.ts
-#EXTINF:-1, Bein Sport 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/162.ts
-#EXTINF:-1, Bein Sport 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/161.ts
-#EXTINF:-1, Bein Sport 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/160.ts
-#EXTINF:-1, Bein Sport 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/159.ts
-#EXTINF:-1, Bein Sport 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/170.ts
-#EXTINF:-1, Bein Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2456.ts
-#EXTINF:-1, Bein Sport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2457.ts
-#EXTINF:-1, Bein Sport 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2458.ts
-#EXTINF:-1, Bein Sport 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2459.ts
-#EXTINF:-1, Bein Sport 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2460.ts
-#EXTINF:-1, Bein Sport 6 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2461.ts
-#EXTINF:-1, Bein Sport 7 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2462.ts
-#EXTINF:-1, Bein Sport 8 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2463.ts
-#EXTINF:-1, Bein Sport 9 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2464.ts
-#EXTINF:-1, Bein Sport 10 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2465.ts
-#EXTINF:-1, Bein Sport 11 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2466.ts
-#EXTINF:-1, Bein Sport 12 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2467.ts
-#EXTINF:-1, Bein Sport 1 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2472.ts
-#EXTINF:-1, Bein Sport 2 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2473.ts
-#EXTINF:-1, Bein Sport 3 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2481.ts
-#EXTINF:-1, Bein Sport 4 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2474.ts
-#EXTINF:-1, Bein Sport 5 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2475.ts
-#EXTINF:-1, Bein Sport 6 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2476.ts
-#EXTINF:-1, Bein Sport 7 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2477.ts
-#EXTINF:-1, Bein Sport 8 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2478.ts
-#EXTINF:-1, Bein Sport 9 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2479.ts
-#EXTINF:-1, Bein Sport 10 Low
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/2480.ts
-#EXTINF:-1,Sky Fox Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/650.ts
-#EXTINF:-1,Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/655.ts
-#EXTINF:-1,Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/654.ts
-#EXTINF:-1,Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/653.ts
-#EXTINF:-1,Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/652.ts
-#EXTINF:-1,Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/651.ts
-#EXTINF:-1,Sky Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/646.ts
-#EXTINF:-1,Super Tennis HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/645.ts
-#EXTINF:-1,Rai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/639.ts
-#EXTINF:-1,Rai Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/560.ts
-#EXTINF:-1,SportTitalia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/638.ts
-#EXTINF:-1,Rete Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1840.ts
-#EXTINF:-1,Milan Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1860.ts
-#EXTINF:-1,Sky Roma Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/636.ts
-#EXTINF:-1,Sky Juventus Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/637.ts
-#EXTINF:-1,Sky News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/550.ts
-#EXTINF:-1,Sky RTE News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/431.ts
-#EXTINF:-1,Sky BBC News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/428.ts
-#EXTINF:-1,Sky Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/549.ts
-#EXTINF:-1,Sky Sport 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/533.ts
-#EXTINF:-1,Sky Sport 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/532.ts
-#EXTINF:-1,Sky Sport 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/531.ts
-#EXTINF:-1,Sky Sport 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/530.ts
-#EXTINF:-1,Sky Sport 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/529.ts
-#EXTINF:-1,Sky Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/548.ts
-#EXTINF:-1,Sky Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/547.ts
-#EXTINF:-1,Sky Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/546.ts
-#EXTINF:-1,Sky Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/545.ts
-#EXTINF:-1,Sky Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/544.ts
-#EXTINF:-1,Sky Sport Arena
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1558.ts
-#EXTINF:-1,Sky Sport Football
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1559.ts
-#EXTINF:-1,Sky Sports Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1560.ts
-#EXTINF:-1,Sky motorsport.tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1555.ts
-#EXTINF:-1,Sky Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/539.ts
-#EXTINF:-1,Sky Sport AU 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/438.ts
-#EXTINF:-1,Sky BT Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/543.ts
-#EXTINF:-1,Sky BT Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/542.ts
-#EXTINF:-1,Sky BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/528.ts
-#EXTINF:-1,Sky BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/527.ts
-#EXTINF:-1,Sky BT Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/453.ts
-#EXTINF:-1,Sky BT Sport Extra
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/479.ts
-#EXTINF:-1,Sky Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/541.ts
-#EXTINF:-1,Sky Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/540.ts
-#EXTINF:-1,Sky Eir Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1566.ts
-#EXTINF:-1,Sky Eir Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1567.ts
-#EXTINF:-1,Sky Sports Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1564.ts
-#EXTINF:-1,Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1563.ts
-#EXTINF:-1,Sky Sports Main Event
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1561.ts
-#EXTINF:-1,Sky Sports Premier
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1565.ts
-#EXTINF:-1,Sky Sports Premier League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1562.ts
-#EXTINF:-1,Sky Sports MixHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/513.ts
-#EXTINF:-1,Sky Setanta Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/484.ts
-#EXTINF:-1,Beinsport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/366.ts
-#EXTINF:-1,Beinsport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/365.ts
-#EXTINF:-1,Beinsport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/364.ts
-#EXTINF:-1,Bein Sport Max 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/397.ts
-#EXTINF:-1,Bein Sport Max 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/398.ts
-#EXTINF:-1,Bein Sport Max 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/399.ts
-#EXTINF:-1,Bein Sport Max 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/400.ts
-#EXTINF:-1,Bein Sport Max 8
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/401.ts
-#EXTINF:-1,Bein Sport Max 9
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/402.ts
-#EXTINF:-1,Bein Sport Max 10
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/403.ts
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/356.ts
-#EXTINF:-1,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/355.ts
-#EXTINF:-1,SFR Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/381.ts
-#EXTINF:-1,SFR Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/382.ts
-#EXTINF:-1,SFR Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/383.ts
-#EXTINF:-1,OL tv
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/373.ts
-#EXTINF:-1,Foot+ 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/351.ts
-#EXTINF:-1,InfoSport+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/353.ts
-#EXTINF:-1,Canal+ Sport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/350.ts
-#EXTINF:-1,Ma Chaine Sport (MCS) HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/352.ts
-#EXTINF:-1,Sport Klub 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/268.ts
-#EXTINF:-1,Sport Klub 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/267.ts
-#EXTINF:-1,Sport Klub 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/266.ts
-#EXTINF:-1,SuperSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/263.ts
-#EXTINF:-1,SuperSport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/262.ts
-#EXTINF:-1,SuperSport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/261.ts
-#EXTINF:-1,SuperSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/264.ts
-#EXTINF:-1,ArenaSport 1 HD Srb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/271.ts
-#EXTINF:-1,ArenaSport 2 HD Srb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/270.ts
-#EXTINF:-1,ArenaSport 3 HD Srb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/269.ts
-#EXTINF:-1,ArenaSport 4 HD Srb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/242.ts
-#EXTINF:-1,ArenaSport 5 HD Srb
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/265.ts
-#EXTINF:-1,ArenaSport 4 HD HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/280.ts
-#EXTINF:-1,ArenaSport 3 HD HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/281.ts
-#EXTINF:-1,ArenaSport 2 HD HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/282.ts
-#EXTINF:-1,ArenaSport 1 HD HR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/283.ts
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/219.ts
-#EXTINF:-1,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/218.ts
-#EXTINF:-1,K Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1383.ts
-#EXTINF:-1,K Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/1384.ts
-#EXTINF:-1,Fox Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/710.ts
-#EXTINF:-1,Fox Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/711.ts
-#EXTINF:-1,Fox Sports 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/712.ts
-#EXTINF:-1,Fox Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/713.ts
-#EXTINF:-1,Fox Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/714.ts
-#EXTINF:-1,Fox Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/743.ts
-#EXTINF:-1,EuroSport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/734.ts
-#EXTINF:-1,EuroSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/417.ts
-#EXTINF:-1,Sport 1 Voetbal HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/709.ts
-#EXTINF:-1,Sport 1 Select HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/708.ts
-#EXTINF:-1,Sport 1 Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/707.ts
-#EXTINF:-1,Sport Extra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/735.ts
-#EXTINF:-1,Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/736.ts
-#EXTINF:-1,Sky Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/759.ts
-#EXTINF:-1,Sky Sport +1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/761.ts
-#EXTINF:-1,Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/829.ts
-#EXTINF:-1,Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/826.ts
-#EXTINF:-1,Sky Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/827.ts
-#EXTINF:-1,Sky Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/828.ts
-#EXTINF:-1,Sky Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/809.ts
-#EXTINF:-1,Sky Bundesliga HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/810.ts
-#EXTINF:-1,Sky Sport Austria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/tony2/tony2/807.ts
-#EXTINF:-1,BT SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1318.ts
-#EXTINF:-1,BT FHD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1315.ts
-#EXTINF:-1,BT SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1319.ts
-#EXTINF:-1,BT FHD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1316.ts
-#EXTINF:-1,BT SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1320.ts
-#EXTINF:-1,BT FHD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1317.ts
-#EXTINF:-1,Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1365.ts
-#EXTINF:-1,Sky Sports Main Event HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1360.ts
-#EXTINF:-1,SKY SPORTS FHD F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1368.ts
-#EXTINF:-1,Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1361.ts
-#EXTINF:-1,Sky Sports Cricket FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/7947.ts
-#EXTINF:-1,SKY SPORTS Main Event FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1366.ts
-#EXTINF:-1,Sky Sports Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1362.ts
-#EXTINF:-1,SKY SPORTS Action FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1367.ts
-#EXTINF:-1,Sky Sports Golf HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1363.ts
-#EXTINF:-1,SKY SPORTS Golf FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1303.ts
-#EXTINF:-1,Sky Sports Premier League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1364.ts
-#EXTINF:-1,SKY SPORTS Premier League FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1304.ts
-#EXTINF:-1,Sky Sports Arena FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/7949.ts
-#EXTINF:-1,Sky Sports Arena HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/7948.ts
-#EXTINF:-1,Sky Sports Football FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/7951.ts
-#EXTINF:-1,Sky Sports Football HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/7950.ts
-#EXTINF:-1,Premier Sports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2089.ts
-#EXTINF:-1,Premier Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1341.ts
-#EXTINF:-1,Sky Sports News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1369.ts
-#EXTINF:-1,Sky Sports Mix
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1305.ts
-#EXTINF:-1,Racing UK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1342.ts
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2088.ts
-#EXTINF:-1,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2087.ts
-#EXTINF:-1,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3199.ts
-#EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3198.ts
-#EXTINF:-1,SKY SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3404.ts
-#EXTINF:-1,SKY SPORTS F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3405.ts
-#EXTINF:-1,CHELSEA TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3552.ts
-#EXTINF:-1,MUTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/1337.ts
-#EXTINF:-1,Liverpool TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3371.ts
-#EXTINF:-1,LFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3551.ts
-#EXTINF:-1,BoxNation
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2191.ts
-#EXTINF:-1,At The Races
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2086.ts
-#EXTINF:-1,Racing UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3386.ts
-#EXTINF:-1,eir Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2090.ts
-#EXTINF:-1,eir Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/5313.ts
-#EXTINF:-1,RTE ONE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3435.ts
-#EXTINF:-1,RTE TWO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3436.ts
-#EXTINF:-1,SKY SPORTS 1 IRELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3571.ts
-#EXTINF:-1,SKY SPORTS 2 IRELAND
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3570.ts
-#EXTINF:-1,Ginx eSports
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3367.ts
-#EXTINF:-1,SKY SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3403.ts
-#EXTINF:-1,SKY SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3402.ts
-#EXTINF:-1,SKY SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3401.ts
-#EXTINF:-1,SKY SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3400.ts
-#EXTINF:-1,BT SPORT ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3396.ts
-#EXTINF:-1,BT SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3399.ts
-#EXTINF:-1,BT SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3398.ts
-#EXTINF:-1,BT SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3397.ts
-#EXTINF:-1,BT Sport Extra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2095.ts
-#EXTINF:-1,BT Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2094.ts
-#EXTINF:-1,BT Sport Extra 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2093.ts
-#EXTINF:-1,BT Sport Extra 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2092.ts
-#EXTINF:-1,BT Sport Extra 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2091.ts
-#EXTINF:-1,BT Sport Extra 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3187.ts
-#EXTINF:-1,Eleven Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/2100.ts
-#EXTINF:-1,Skynet Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3563.ts
-#EXTINF:-1,ASTRO SPORTS HD 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3557.ts
-#EXTINF:-1,ASTRO SPORTS HD 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3556.ts
-#EXTINF:-1,ASTRO SPORTS HD 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3555.ts
-#EXTINF:-1,ASTRO SPORTS HD 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://nitrotv.for-the.biz:25461/live/Nathan/123456/3554.ts
+#EXTINF:-1,bein sport 1
+http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
+#EXTINF:-1,bein sport 2
+http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
+#EXTINF:-1,bein sport 3
+http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
+#EXTINF:-1,bein sport 4
+http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
+#EXTINF:-1,bein sport 5
+http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
+#EXTINF:-1,bein sport 6
+http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
+#EXTINF:-1,bein sport 7
+http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
+#EXTINF:-1,bein sport 8
+http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
+#EXTINF:-1,bein sport 9
+http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
+#EXTINF:-1,bein sport 10
+http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
+#EXTINF:-1,BEIN SPORTS News (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8300.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6959.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6960.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6961.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6962.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6963.ts
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6964.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6965.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6966.ts
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6967.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6968.ts
+#EXTINF:-1,BEIN SPORTS 11 (English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8298.ts
+#EXTINF:-1,BEIN SPORTS 13 (English)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8297.ts
+#EXTINF:-1,BEIN SPORTS 14 (France)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8296.ts
+#EXTINF:-1,BEIN SPORTS 15 (France)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8295.ts
+#EXTINF:-1,BEIN SPORTS 16 (France)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8294.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8303.ts
+#EXTINF:-1,BEIN SPORTS Max 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15383.ts
+#EXTINF:-1,BEIN SPORTS Max 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15384.ts
+#EXTINF:-1,BEIN SPORTS Max 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15385.ts
