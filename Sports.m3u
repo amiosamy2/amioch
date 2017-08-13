@@ -1,413 +1,317 @@
 ﻿#EXTM3U
-#EXTINF:-1,bein sport1 sd
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-#EXTINF:-1,bein sport2 sd
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
-#EXTINF:-1,bein sport3 sd
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
-#EXTINF:-1,bein sport4 sd
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
-#EXTINF:-1,bein sport5 sd
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
-#EXTINF:-1,bein sport6 sd
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
-#EXTINF:-1,bein sport7 sd
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
-#EXTINF:-1,bein sport8 sd
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
-#EXTINF:-1,bein sport9 sd
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
-#EXTINF:-1,bein sport10 sd
-http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
-#EXTINF:-1,bein sport11 sd
-http://sstvb1.vdmscdn.com/beinsport-11-sd/index.m3u8
-#EXTINF:-1,bein sport12 sd
-http://sstvb1.vdmscdn.com/beinsport-12-sd/index.m3u8
-#EXTINF:-1,BEINSPORT 1 FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4633.ts
-#EXTINF:-1,BEINSPORT 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7753.ts
-#EXTINF:-1,BEINSPORT 2 FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4634.ts
-#EXTINF:-1,BEINSPORT 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7754.ts
-#EXTINF:-1,BEINSPORT 3 FR HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/4635.ts
-#EXTINF:-1,BEINSPORT 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7755.ts
-#EXTINF:-1,BEINSPORT FR MAX 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7766.ts
-#EXTINF:-1,BEINSPORT FR MAX 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7767.ts
-#EXTINF:-1,BEINSPORT FR MAX 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7768.ts
-#EXTINF:-1,BEINSPORT FR MAX 7
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7769.ts
-#EXTINF:-1,SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5366.ts
-#EXTINF:-1,SFR SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6872.ts
-#EXTINF:-1,SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5365.ts
-#EXTINF:-1,SFR SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6873.ts
-#EXTINF:-1,SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9216.ts
-#EXTINF:-1,SFR SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9218.ts
-#EXTINF:-1,SFR SPORT 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9217.ts
-#EXTINF:-1,SFR SPORT 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9219.ts
-#EXTINF:-1,EUROSPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5371.ts
-#EXTINF:-1,EUROSPORT 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6878.ts
-#EXTINF:-1,EUROSPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5370.ts
-#EXTINF:-1,EUROSPORT  2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6879.ts
-#EXTINF:-1,INFOSPORT HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5487.ts
-#EXTINF:-1,INFOSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6892.ts
-#EXTINF:-1,L'EQUIPE 21 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/3579.ts
-#EXTINF:-1,L'EQUIPE 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/7790.ts
-#EXTINF:-1,GOLF+ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5469.ts
-#EXTINF:-1,GOLF+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6906.ts
-#EXTINF:-1,GOLF CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5396.ts
-#EXTINF:-1,GOLF CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6907.ts
-#EXTINF:-1,MOTORSPORT.TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9280.ts
-#EXTINF:-1,MOTORSPORT.TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/9281.ts
-#EXTINF:-1,EXTREME SPORTS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5490.ts
-#EXTINF:-1,EQUIDIA LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5466.ts
-#EXTINF:-1,EQUIDIA LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6908.ts
-#EXTINF:-1,EQUIDIA LIVE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/5465.ts
-#EXTINF:-1,EQUIDIA LIVE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vu.cdteam.org:9988/live/Abb72/B8I4BGYGrF/6909.ts
+#EXTINF:-1,BEIN_SPORTS_1HD 
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1,BEIN_SPORTS_2HD 
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,BEIN_SPORTS_3HD 
+http://176.31.226.149:25461/live/testest/testest/337.ts
+#EXTINF:-1,BEIN_SPORTS_4HD 
+http://176.31.226.149:25461/live/testest/testest/336.ts
+#EXTINF:-1,bein6hd
+http://176.31.226.149:25461/live/testest/testest/334.ts
+#EXTINF:-1,bein7HD
+http://176.31.226.149:25461/live/testest/testest/342.ts
 #EXTINF:-1,BEIN Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/81.ts
+http://62.210.245.19:8000/live/testapp/testapp/81.ts
 #EXTINF:-1,BEIN Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/82.ts
+http://62.210.245.19:8000/live/testapp/testapp/82.ts
 #EXTINF:-1,BEIN Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/83.ts
-#EXTINF:-1,SFR SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/84.ts
-#EXTINF:-1,SFR SPORT 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/85.ts
-#EXTINF:-1,SFR SPORT 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/86.ts
-#EXTINF:-1,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/89.ts
-#EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/90.ts
-#EXTINF:-1,Equipe 21
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.245.19:8000/live/testapp/testapp/87.ts
-#EXTINF:-1,BEIN SPORTS News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/6968.ts
-#EXTINF:-1,BEIN SPORTS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8299.ts
-#EXTINF:-1,BEIN SPORTS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8298.ts
-#EXTINF:-1,BEIN SPORTS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8297.ts
-#EXTINF:-1,BEIN SPORTS 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8296.ts
-#EXTINF:-1,BEIN SPORTS 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8295.ts
-#EXTINF:-1,BEIN SPORTS 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/8303.ts
-#EXTINF:-1,BEIN SPORTS Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15383.ts
-#EXTINF:-1,BEIN SPORTS Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15384.ts
-#EXTINF:-1,BEIN SPORTS Max 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15385.ts
-#EXTINF:-1,Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23910.ts
-#EXTINF:-1,Beinsport_12hd
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23912.ts
-#EXTINF:-1,BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23915.ts
-#EXTINF:-1,BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23914.ts
-#EXTINF:-1,BT Sport ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23916.ts
-#EXTINF:-1,BT Sport Europe HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23917.ts
-#EXTINF:-1,Sky Sport News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23923.ts
-#EXTINF:-1,Sky Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23922.ts
-#EXTINF:-1,Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23921.ts
-#EXTINF:-1,Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23920.ts
-#EXTINF:-1,Sky Sport 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23919.ts
-#EXTINF:-1,Sky Sport 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23918.ts
+http://62.210.245.19:8000/live/testapp/testapp/83.ts
+#EXTINF:-1,FR | beIN SPORTS 3HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23628.ts
+#EXTINF:-1,FR | beIN SPORTS1 HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23629.ts
+#EXTINF:-1,FR | beINS PORTS 2HD
+http://185.59.221.175:25461/live/15pUsZKUIw/4boblpukUd/23630.ts
+#EXTINF:-1,UK PREMIERE SPORT HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23924.ts
+#EXTINF:-1,UK : Sky Sport F1 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23910.ts
+#EXTINF:-1,UK | Beinsport_12hd
+http://newlook-secure.com/live/jess_1cadb0/728228/23912.ts
+#EXTINF:-1,UK | BT Sport 1 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23915.ts
+#EXTINF:-1,UK | BT Sport 2 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23914.ts
+#EXTINF:-1,UK | BT Sport ESPN
+http://newlook-secure.com/live/jess_1cadb0/728228/23916.ts
+#EXTINF:-1,UK | BT Sport Europe HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23917.ts
+#EXTINF:-1,UK | Sky Sport News
+http://newlook-secure.com/live/jess_1cadb0/728228/23923.ts
+#EXTINF:-1,UK | Sky Sport 1 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23922.ts
+#EXTINF:-1,UK | Sky Sport 2 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23921.ts
+#EXTINF:-1,UK | Sky Sport 3 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23920.ts
+#EXTINF:-1,UK | Sky Sport 4 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23919.ts
+#EXTINF:-1,UK | Sky Sport 5 HD
+http://newlook-secure.com/live/jess_1cadb0/728228/23918.ts
 #EXTINF:-1,BEIN_NEWS_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23590.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23590.ts
 #EXTINF:-1,BEIN_SPORTS_1_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23580.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23580.ts
 #EXTINF:-1,BEIN_SPORTS_2_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23581.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23581.ts
 #EXTINF:-1,BEIN_SPORTS_3_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23582.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23582.ts
 #EXTINF:-1,BEIN_SPORTS_4_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23583.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23583.ts
 #EXTINF:-1,BEIN_SPORTS_5_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23584.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23584.ts
 #EXTINF:-1,BEIN_SPORTS_6_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23585.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23585.ts
 #EXTINF:-1,BEIN_SPORTS_7_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23586.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23586.ts
 #EXTINF:-1,BEIN_SPORTS_8_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23587.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23587.ts
 #EXTINF:-1,BEIN_SPORTS_9_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23588.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23588.ts
 #EXTINF:-1,BEIN_SPORTS_10_HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://newlook-secure.com/live/jess_1cadb0/728228/23589.ts
-#EXTINF:-1,Sky Sports Premiere League HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/241.ts
-#EXTINF:-1,Sky Sports Premiere League
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/123.ts
-#EXTINF:-1,Sky Sports Cricket HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/242.ts
-#EXTINF:-1,Sky Sports Cricket
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/1.ts
-#EXTINF:-1,Sky Sports Action HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/243.ts
-#EXTINF:-1,Sky Sports Action
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/44.ts
-#EXTINF:-1,Sky Sports -THE OPEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/244.ts
-#EXTINF:-1,Sky Sports HD -THE OPEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/57.ts
-#EXTINF:-1,Sky Sports PremiereLeague HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/245.ts
-#EXTINF:-1,Sky Sports PremiereLeague
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/59.ts
-#EXTINF:-1,Sky Sport MIX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/95.ts
-#EXTINF:-1,Sky Sports F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/246.ts
-#EXTINF:-1,Sky Sports F1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/197.ts
-#EXTINF:-1,Premier Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/364.ts
-#EXTINF:-1,BT Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/362.ts
-#EXTINF:-1,BT Sports 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/250.ts
-#EXTINF:-1,BT Sport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/361.ts
-#EXTINF:-1,BT Sports 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/249.ts
-#EXTINF:-1,BT Sport 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3036.ts
-#EXTINF:-1,BT ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/363.ts
-#EXTINF:-1,eir Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/1768.ts
-#EXTINF:-1,eirSport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2013.ts
-#EXTINF:-1,eirSport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2095.ts
-#EXTINF:-1,BT Sport ESPN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/2023.ts
-#EXTINF:-1,Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/114.ts
-#EXTINF:-1,Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3046.ts
-#EXTINF:-1,Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3974.ts
-#EXTINF:-1,Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/3975.ts
-#EXTINF:-1, BeIN Sports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/253.ts
-#EXTINF:-1, BeIN Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/254.ts
-#EXTINF:-1, BeIN Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/255.ts
-#EXTINF:-1, BeIN Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/256.ts
-#EXTINF:-1, BeIN Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/257.ts
-#EXTINF:-1, BeIN Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/258.ts
-#EXTINF:-1, BeIN Sports 7 HD/SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/259.ts
-#EXTINF:-1, BeIN Sports 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/260.ts
-#EXTINF:-1, BeIN Sports 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/261.ts
-#EXTINF:-1, BeIN Sports 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/262.ts
-#EXTINF:-1, BeIN Sports 11 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/263.ts
-#EXTINF:-1, BeIN Sports 12 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/264.ts
-#EXTINF:-1, BeIN Sports 13 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/265.ts
-#EXTINF:-1, BeIN Sports 14 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/266.ts
-#EXTINF:-1,Ziggo Sport Voetbal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/360.ts
-#EXTINF:-1,Ziggo Sport Select
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/359.ts
-#EXTINF:-1,Ziggo Sport Racing
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/358.ts
-#EXTINF:-1,Ziggo Sport Golf
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/357.ts
-#EXTINF:-1,Ziggo Sport Extra 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/356.ts
-#EXTINF:-1,Ziggo Sport Extra 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/355.ts
-#EXTINF:-1,FOX SPORT 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvserver.noip.me:8000/live/dimitrio/dimitrio/354.ts
-#EXTINF:-1,BEIN SPORTS News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/6968.ts
-#EXTINF:-1,BEIN SPORTS 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8299.ts
-#EXTINF:-1,BEIN SPORTS 12
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8298.ts
-#EXTINF:-1,BEIN SPORTS 13
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8297.ts
-#EXTINF:-1,BEIN SPORTS 14
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8296.ts
-#EXTINF:-1,BEIN SPORTS 15
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8295.ts
-#EXTINF:-1,BEIN SPORTS 16
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://tv.iptvsensation.com:6500/live/c8yb8vT0Ch/4OCKfW825f/8303.ts
-#EXTINF:-1,bein sport 1
-http://sstvb1.vdmscdn.com/beinsport-1-sd/index.m3u8
-#EXTINF:-1,bein sport 2
-http://sstvb1.vdmscdn.com/beinsport-2-sd/index.m3u8
-#EXTINF:-1,bein sport 3
-http://sstvb1.vdmscdn.com/beinsport-3-sd/index.m3u8
-#EXTINF:-1,bein sport 4
-http://sstvb1.vdmscdn.com/beinsport-4-sd/index.m3u8
-#EXTINF:-1,bein sport 5
-http://sstvb1.vdmscdn.com/beinsport-5-sd/index.m3u8
-#EXTINF:-1,bein sport 6
-http://sstvb1.vdmscdn.com/beinsport-6-sd/index.m3u8
-#EXTINF:-1,bein sport 7
-http://sstvb1.vdmscdn.com/beinsport-7-sd/index.m3u8
-#EXTINF:-1,bein sport 8
-http://sstvb1.vdmscdn.com/beinsport-8-sd/index.m3u8
-#EXTINF:-1,bein sport 9
-http://sstvb1.vdmscdn.com/beinsport-9-sd/index.m3u8
-#EXTINF:-1,bein sport 10
-http://sstvb1.vdmscdn.com/beinsport-10-sd/index.m3u8
-#EXTINF:-1,BEIN SPORTS News (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6968.ts
-#EXTINF:-1,BEIN SPORTS 11 (English)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8299.ts
-#EXTINF:-1,BEIN SPORTS 12 (English)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8298.ts
-#EXTINF:-1,BEIN SPORTS 13 (English)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8297.ts
-#EXTINF:-1,BEIN SPORTS 14 (France)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8296.ts
-#EXTINF:-1,BEIN SPORTS 15 (France)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8295.ts
-#EXTINF:-1,BEIN SPORTS 16 (France)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8303.ts
-#EXTINF:-1,BEIN SPORTS Max 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15383.ts
-#EXTINF:-1,BEIN SPORTS Max 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15384.ts
-#EXTINF:-1,BEIN SPORTS Max 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15385.ts
+http://newlook-secure.com/live/jess_1cadb0/728228/23589.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://185.2.83.209:8000/live/123456/123456/169.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://185.2.83.209:8000/live/123456/123456/168.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://185.2.83.209:8000/live/123456/123456/167.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://185.2.83.209:8000/live/123456/123456/166.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://185.2.83.209:8000/live/123456/123456/165.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://185.2.83.209:8000/live/123456/123456/164.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://185.2.83.209:8000/live/123456/123456/163.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://185.2.83.209:8000/live/123456/123456/162.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://185.2.83.209:8000/live/123456/123456/161.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://185.2.83.209:8000/live/123456/123456/160.ts
+#EXTINF:-1,Bein Sport 11 HD
+http://185.2.83.209:8000/live/123456/123456/159.ts
+#EXTINF:-1,Bein Sport 12 HD
+http://185.2.83.209:8000/live/123456/123456/170.ts
+#EXTINF:-1,Bein Sport 1 SD
+http://185.2.83.209:8000/live/123456/123456/2456.ts
+#EXTINF:-1,Bein Sport 2 SD
+http://185.2.83.209:8000/live/123456/123456/2457.ts
+#EXTINF:-1,Bein Sport 3 SD
+http://185.2.83.209:8000/live/123456/123456/2458.ts
+#EXTINF:-1,Bein Sport 4 SD
+http://185.2.83.209:8000/live/123456/123456/2459.ts
+#EXTINF:-1,Bein Sport 5 SD
+http://185.2.83.209:8000/live/123456/123456/2460.ts
+#EXTINF:-1,Bein Sport 6 SD
+http://185.2.83.209:8000/live/123456/123456/2461.ts
+#EXTINF:-1,Bein Sport 7 SD
+http://185.2.83.209:8000/live/123456/123456/2462.ts
+#EXTINF:-1,Bein Sport 8 SD
+http://185.2.83.209:8000/live/123456/123456/2463.ts
+#EXTINF:-1,Bein Sport 9 SD
+http://185.2.83.209:8000/live/123456/123456/2464.ts
+#EXTINF:-1,Bein Sport 10 SD
+http://185.2.83.209:8000/live/123456/123456/2465.ts
+#EXTINF:-1,Bein Sport 11 SD
+http://185.2.83.209:8000/live/123456/123456/2466.ts
+#EXTINF:-1,Bein Sport 12 SD
+http://185.2.83.209:8000/live/123456/123456/2467.ts
+#EXTINF:-1,Bein Sport 1 Low
+http://185.2.83.209:8000/live/123456/123456/2472.ts
+#EXTINF:-1,Bein Sport 2 Low
+http://185.2.83.209:8000/live/123456/123456/2473.ts
+#EXTINF:-1,Bein Sport 3 Low
+http://185.2.83.209:8000/live/123456/123456/2481.ts
+#EXTINF:-1,Bein Sport 4 Low
+http://185.2.83.209:8000/live/123456/123456/2474.ts
+#EXTINF:-1,Bein Sport 5 Low
+http://185.2.83.209:8000/live/123456/123456/2475.ts
+#EXTINF:-1,Bein Sport 6 Low
+http://185.2.83.209:8000/live/123456/123456/2476.ts
+#EXTINF:-1,Bein Sport 7 Low
+http://185.2.83.209:8000/live/123456/123456/2477.ts
+#EXTINF:-1,Bein Sport 8 Low
+http://185.2.83.209:8000/live/123456/123456/2478.ts
+#EXTINF:-1,Bein Sport 9 Low
+http://185.2.83.209:8000/live/123456/123456/2479.ts
+#EXTINF:-1,Bein Sport 10 Low
+http://185.2.83.209:8000/live/123456/123456/2480.ts
+#EXTINF:-1,Osn Ad Sport 1 HD
+http://185.2.83.209:8000/live/123456/123456/2433.ts
+#EXTINF:-1,Osn Ad Sport 2 HD
+http://185.2.83.209:8000/live/123456/123456/2434.ts
+#EXTINF:-1,Osn AD Sport 3 HD
+http://185.2.83.209:8000/live/123456/123456/2395.ts
+#EXTINF:-1,Osn AD Sport 4 HD
+http://185.2.83.209:8000/live/123456/123456/2394.ts
+#EXTINF:-1,Osn Wwe
+http://185.2.83.209:8000/live/123456/123456/2373.ts
+#EXTINF:-1,UK: Sky Sports News
+http://185.2.83.209:8000/live/123456/123456/549.ts
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://185.2.83.209:8000/live/123456/123456/533.ts
+#EXTINF:-1,UK: Sky Sport 2 SD
+http://185.2.83.209:8000/live/123456/123456/532.ts
+#EXTINF:-1,UK: Sky Sport 3 SD
+http://185.2.83.209:8000/live/123456/123456/531.ts
+#EXTINF:-1,UK: Sky Sport 4 SD
+http://185.2.83.209:8000/live/123456/123456/530.ts
+#EXTINF:-1,UK: Sky Sport 5 SD
+http://185.2.83.209:8000/live/123456/123456/529.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://185.2.83.209:8000/live/123456/123456/548.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://185.2.83.209:8000/live/123456/123456/547.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://185.2.83.209:8000/live/123456/123456/546.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://185.2.83.209:8000/live/123456/123456/545.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://185.2.83.209:8000/live/123456/123456/544.ts
+#EXTINF:-1,UK: Sky Sport Arena
+http://185.2.83.209:8000/live/123456/123456/1558.ts
+#EXTINF:-1,UK: Sky Sport Football
+http://185.2.83.209:8000/live/123456/123456/1559.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://185.2.83.209:8000/live/123456/123456/1560.ts
+#EXTINF:-1,UK: Sky motorsport.tv
+http://185.2.83.209:8000/live/123456/123456/1555.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://185.2.83.209:8000/live/123456/123456/539.ts
+#EXTINF:-1,UK: Sky Sport AU 1
+http://185.2.83.209:8000/live/123456/123456/438.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://185.2.83.209:8000/live/123456/123456/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://185.2.83.209:8000/live/123456/123456/542.ts
+#EXTINF:-1,UK: Sky BT Sport 1 HD
+http://185.2.83.209:8000/live/123456/123456/528.ts
+#EXTINF:-1,UK: Sky BT Sport 2 HD
+http://185.2.83.209:8000/live/123456/123456/527.ts
+#EXTINF:-1,UK: Sky BT Sport 3 HD
+http://185.2.83.209:8000/live/123456/123456/453.ts
+#EXTINF:-1,UK: Sky BT Sport Extra
+http://185.2.83.209:8000/live/123456/123456/479.ts
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://185.2.83.209:8000/live/123456/123456/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://185.2.83.209:8000/live/123456/123456/540.ts
+#EXTINF:-1,UK: Sky Eir Sport 1
+http://185.2.83.209:8000/live/123456/123456/1566.ts
+#EXTINF:-1,UK: Sky Eir Sport 2
+http://185.2.83.209:8000/live/123456/123456/1567.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://185.2.83.209:8000/live/123456/123456/1564.ts
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://185.2.83.209:8000/live/123456/123456/1563.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://185.2.83.209:8000/live/123456/123456/1561.ts
+#EXTINF:-1,UK: Sky Sports Premier
+http://185.2.83.209:8000/live/123456/123456/1565.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://185.2.83.209:8000/live/123456/123456/1562.ts
+#EXTINF:-1,UK: Sky Sports MixHD
+http://185.2.83.209:8000/live/123456/123456/513.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://185.2.83.209:8000/live/123456/123456/484.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://185.2.83.209:8000/live/123456/123456/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://185.2.83.209:8000/live/123456/123456/537.ts
+#EXTINF:-1,US: Sport TSN 1
+http://185.2.83.209:8000/live/123456/123456/1451.ts
+#EXTINF:-1,US: Sport TSN 2
+http://185.2.83.209:8000/live/123456/123456/1452.ts
+#EXTINF:-1,US: Sport TSN 3
+http://185.2.83.209:8000/live/123456/123456/1453.ts
+#EXTINF:-1,US: Sport TSN 4
+http://185.2.83.209:8000/live/123456/123456/1454.ts
+#EXTINF:-1,US: Sport TSN 5
+http://185.2.83.209:8000/live/123456/123456/1455.ts
+#EXTINF:-1,US: Skynet Sports HD
+http://185.2.83.209:8000/live/123456/123456/1476.ts
+#EXTINF:-1,US: Skynet Sports 1
+http://185.2.83.209:8000/live/123456/123456/1431.ts
+#EXTINF:-1,US: Skynet Sports 2
+http://185.2.83.209:8000/live/123456/123456/1436.ts
+#EXTINF:-1,US: Skynet Sports 3
+http://185.2.83.209:8000/live/123456/123456/1472.ts
+#EXTINF:-1,US: Skynet Sports 4
+http://185.2.83.209:8000/live/123456/123456/1473.ts
+#EXTINF:-1,US: Skynet Sports 5
+http://185.2.83.209:8000/live/123456/123456/1474.ts
+#EXTINF:-1,US: Skynet Sports 6
+http://185.2.83.209:8000/live/123456/123456/1475.ts
+#EXTINF:-1,US: Sports NET 360 HD
+http://185.2.83.209:8000/live/123456/123456/1497.ts
+#EXTINF:-1,US: Sports NET PACIFIC
+http://185.2.83.209:8000/live/123456/123456/1502.ts
+#EXTINF:-1,US: Sports NET ONE HD
+http://185.2.83.209:8000/live/123456/123456/1508.ts
+#EXTINF:-1,US: Sports NET WORLD
+http://185.2.83.209:8000/live/123456/123456/1526.ts
+#EXTINF:-1,US: Sports NET ONTARIO
+http://185.2.83.209:8000/live/123456/123456/1503.ts
+#EXTINF:-1,US: Sports NET WEST HD
+http://185.2.83.209:8000/live/123456/123456/1525.ts
+#EXTINF:-1,US: Sports Tonight
+http://185.2.83.209:8000/live/123456/123456/1490.ts
+#EXTINF:-1,US: Sport Network
+http://185.2.83.209:8000/live/123456/123456/1459.ts
+#EXTINF:-1,US: Sport LTVE HD
+http://185.2.83.209:8000/live/123456/123456/1496.ts
+#EXTINF:-1,US: USA Network
+http://185.2.83.209:8000/live/123456/123456/1498.ts
+#EXTINF:-1,US: Espn Sport
+http://185.2.83.209:8000/live/123456/123456/1483.ts
+#EXTINF:-1,US: BeIN Sports US
+http://185.2.83.209:8000/live/123456/123456/1486.ts
+#EXTINF:-1,FR: Beinsport 1
+http://185.2.83.209:8000/live/123456/123456/366.ts
+#EXTINF:-1,FR: Beinsport 2
+http://185.2.83.209:8000/live/123456/123456/365.ts
+#EXTINF:-1,FR: Beinsport 3
+http://185.2.83.209:8000/live/123456/123456/364.ts
+#EXTINF:-1,FR: Bein Sport Max 4
+http://185.2.83.209:8000/live/123456/123456/397.ts
+#EXTINF:-1,FR: Bein Sport Max 5
+http://185.2.83.209:8000/live/123456/123456/398.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://185.2.83.209:8000/live/123456/123456/399.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://185.2.83.209:8000/live/123456/123456/400.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://185.2.83.209:8000/live/123456/123456/401.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://185.2.83.209:8000/live/123456/123456/402.ts
+#EXTINF:-1,FR: Bein Sport Max 10
+http://185.2.83.209:8000/live/123456/123456/403.ts
+#EXTINF:-1,FR: Eurosport 1 HD
+http://185.2.83.209:8000/live/123456/123456/356.ts
+#EXTINF:-1,FR: Eurosport 2 HD
+http://185.2.83.209:8000/live/123456/123456/355.ts
+#EXTINF:-1,FR: SFR Sport 1
+http://185.2.83.209:8000/live/123456/123456/381.ts
+#EXTINF:-1,FR: SFR Sport 2
+http://185.2.83.209:8000/live/123456/123456/382.ts
+#EXTINF:-1,FR: SFR Sport 3
+http://185.2.83.209:8000/live/123456/123456/383.ts
+#EXTINF:-1,FR: OL tv
+http://185.2.83.209:8000/live/123456/123456/373.ts
+#EXTINF:-1,FR: Foot+ 24
+http://185.2.83.209:8000/live/123456/123456/351.ts
+#EXTINF:-1,FR: InfoSport+
+http://185.2.83.209:8000/live/123456/123456/353.ts
+#EXTINF:-1,FR: Canal+ Sport
+http://185.2.83.209:8000/live/123456/123456/350.ts
+#EXTINF:-1,FR: Ma Chaine Sport (MCS) HD
+http://185.2.83.209:8000/live/123456/123456/352.ts
+#EXTINF:-1,ES: Bein Sport ES HD
+http://185.2.83.209:8000/live/123456/123456/1003.ts
+#EXTINF:-1,ES: Real Madrid
+http://185.2.83.209:8000/live/123456/123456/1037.ts
+#EXTINF:-1,ES: Barca TV
+http://185.2.83.209:8000/live/123456/123456/1021.ts
