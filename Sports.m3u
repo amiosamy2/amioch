@@ -1,188 +1,162 @@
 ﻿#EXTM3U
-#EXTINF:-1,AR | BEIN 1 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7625.ts
-#EXTINF:-1,AR | BEIN 2 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7626.ts
-#EXTINF:-1,AR | BEIN 3 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7627.ts
-#EXTINF:-1,AR | BEIN 4 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7628.ts
-#EXTINF:-1,AR | BEIN 5 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7629.ts
-#EXTINF:-1,AR | BEIN 6 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7630.ts
-#EXTINF:-1,AR | BEIN 7 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7631.ts
-#EXTINF:-1,AR | BEIN 8 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7632.ts
-#EXTINF:-1,AR | BEIN 9 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7633.ts
-#EXTINF:-1,AR | BEIN 10 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7634.ts
-#EXTINF:-1,FR | BEIN SPORT 1
-http://prod.proserver300.com:8080/live/albayrak/serif/7622.ts
-#EXTINF:-1,FR |  BEIN SPORT 2
-http://prod.proserver300.com:8080/live/albayrak/serif/7623.ts
-#EXTINF:-1,FR |  BEIN SPORT 3
-http://prod.proserver300.com:8080/live/albayrak/serif/7624.ts
-#EXTINF:-1,TR | BEIN SPORTS HD 1
-http://prod.proserver300.com:8080/live/albayrak/serif/2.ts
-#EXTINF:-1,TR | BEIN SPORTS HD 1-H.265.HVEC
-http://prod.proserver300.com:8080/live/albayrak/serif/51.ts
-#EXTINF:-1,TR | BEIN SPORTS HD 2
-http://prod.proserver300.com:8080/live/albayrak/serif/3.ts
-#EXTINF:-1,TR | BEIN SPORTS HD 3
-http://prod.proserver300.com:8080/live/albayrak/serif/4.ts
-#EXTINF:-1,TR | BEIN SPORTS HD 4
-http://prod.proserver300.com:8080/live/albayrak/serif/220.ts
-#EXTINF:-1,TR | beIN SPORTS MAX HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7600.ts
-#EXTINF:-1,TR | beIN SPORTS MAX 2 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7601.ts
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/186.ts
-#EXTINF:-1,TR | TIVIBU SPOR 2 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/187.ts
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/188.ts
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/189.ts
-#EXTINF:-1,TR | NBA TV HD ( DSMART )
-http://prod.proserver300.com:8080/live/albayrak/serif/12.ts
-#EXTINF:-1,AR | BEIN SPORT 1 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/2360.ts
-#EXTINF:-1,AR | BEIN SPORT 2 HD
-http://devcon.red:8080/live/panelpro/1P2a3N4e5L/941.ts
-#EXTINF:-1,TR | S SPORT HD ( DSMART )
-http://prod.proserver300.com:8080/live/albayrak/serif/10.ts
-#EXTINF:-1,TR | S SPORT 2 HD ( DSMART )
-http://prod.proserver300.com:8080/live/albayrak/serif/11.ts
-#EXTINF:-1,TR | TRT 3 SPOR HD
-http://prod.proserver300.com:8080/live/albayrak/serif/280.ts
-#EXTINF:-1,TR | TRT SPOR HD
-http://prod.proserver300.com:8080/live/albayrak/serif/58.ts
-#EXTINF:-1,TR I A2 HD
-http://prod.proserver300.com:8080/live/albayrak/serif/2363.ts
-#EXTINF:-1,TR | A SPOR
-http://prod.proserver300.com:8080/live/albayrak/serif/75.ts
-#EXTINF:-1,TR | NTV SPOR HD
-http://prod.proserver300.com:8080/live/albayrak/serif/79.ts
-#EXTINF:-1,NL | FOX SPORT 1 EREDIVISIE HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7311.ts
-#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
-http://prod.proserver300.com:8080/live/albayrak/serif/7312.ts
-#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
-http://prod.proserver300.com:8080/live/albayrak/serif/7313.ts
-#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
-http://prod.proserver300.com:8080/live/albayrak/serif/7314.ts
-#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
-http://prod.proserver300.com:8080/live/albayrak/serif/7315.ts
-#EXTINF:-1,BEIN Sport 1
-http://62.210.245.19:8000/live/testapp/testapp/81.ts
-#EXTINF:-1,BEIN Sport 2
-http://62.210.245.19:8000/live/testapp/testapp/82.ts
-#EXTINF:-1,BEIN Sport 3
-http://62.210.245.19:8000/live/testapp/testapp/83.ts
-#EXTINF:-1,SFR SPORT 1 HD
-http://62.210.245.19:8000/live/testapp/testapp/84.ts
-#EXTINF:-1,SFR SPORT 2 HD
-http://62.210.245.19:8000/live/testapp/testapp/85.ts
-#EXTINF:-1,SFR SPORT 3 HD
-http://62.210.245.19:8000/live/testapp/testapp/86.ts
-#EXTINF:-1,Eurosport 1
-http://62.210.245.19:8000/live/testapp/testapp/89.ts
-#EXTINF:-1,Eurosport 2
-http://62.210.245.19:8000/live/testapp/testapp/90.ts
-#EXTINF:-1,Equipe 21
-http://62.210.245.19:8000/live/testapp/testapp/87.ts
-#EXTINF:-1,FR: Bein Sport 1 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1419.ts
-#EXTINF:-1,FR: Bein Sport 2 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1420.ts
-#EXTINF:-1,FR: Bein Sport 3 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1421.ts
-#EXTINF:-1,FR: Sfr Sport 1
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2912.ts
-#EXTINF:-1,FR: Sfr Sport 2
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2913.ts
-#EXTINF:-1,FR: Sfr Sport 3
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2914.ts
-#EXTINF:-1,FR: Sfr Sport 5
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2915.ts
-#EXTINF:-1,FR: Foot 24
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/127.ts
-#EXTINF:-1,AR: Bein Sport News HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/960.ts
-#EXTINF:-1,AR: Bein Sport HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/961.ts
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1454.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1455.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1456.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1457.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1458.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1467.ts
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1459.ts
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1460.ts
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1461.ts
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1462.ts
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/972.ts
-#EXTINF:-1,AR: Bein Sport 12 HD
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/973.ts
-#EXTINF:-1,AR: Bein Sport 1 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2233.ts
-#EXTINF:-1,AR: Bein Sport 2 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2234.ts
-#EXTINF:-1,AR: Bein Sport 3 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2235.ts
-#EXTINF:-1,AR: Bein Sport 4 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2236.ts
-#EXTINF:-1,AR: Bein Sport 5 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2237.ts
-#EXTINF:-1,AR: Bein Sport 6 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2238.ts
-#EXTINF:-1,AR: Bein Sport 7 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2239.ts
-#EXTINF:-1,AR: Bein Sport 8 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2240.ts
-#EXTINF:-1,AR: Bein Sport 9 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2241.ts
-#EXTINF:-1,AR: Bein Sport 10 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2242.ts
-#EXTINF:-1,AR: Bein Sport 11 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2243.ts
-#EXTINF:-1,AR: Bein Sport 12 HD VIP
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/2244.ts
-#EXTINF:-1,BeinSport-Low_1
-http://xtream.hopto.me:9000/live/9/9/2315.ts
-#EXTINF:-1,BeinSport-Low_2
-http://xtream.hopto.me:9000/live/9/9/2316.ts
-#EXTINF:-1,BeinSport-Low_3
-http://xtream.hopto.me:9000/live/9/9/2317.ts
-#EXTINF:-1,BeinSport-Low_4
-http://xtream.hopto.me:9000/live/9/9/2318.ts
-#EXTINF:-1,BeinSport-Low_5
-http://xtream.hopto.me:9000/live/9/9/2319.ts
-#EXTINF:-1,BeinSport-Low_6
-http://xtream.hopto.me:9000/live/9/9/2320.ts
-#EXTINF:-1,BeinSport-Low_7
-http://xtream.hopto.me:9000/live/9/9/2321.ts
-#EXTINF:-1,BeinSport-Low_8
-http://xtream.hopto.me:9000/live/9/9/2322.ts
-#EXTINF:-1,BeinSport-Low_9
-http://xtream.hopto.me:9000/live/9/9/2323.ts
-#EXTINF:-1,BeinSport-Low_10
-http://xtream.hopto.me:9000/live/9/9/2324.ts
+#EXTINF:-1,BEINSPORTS-full1HD
+http://am-iptv.club:25461/live/1234/1234/4922.ts
+#EXTINF:-1,BEINSPORTS-full2HD
+http://am-iptv.club:25461/live/1234/1234/4921.ts
+#EXTINF:-1,BEINSPORTS-full3HD
+http://am-iptv.club:25461/live/1234/1234/4920.ts
+#EXTINF:-1,BEINSPORTS-full4HD
+http://am-iptv.club:25461/live/1234/1234/4919.ts
+#EXTINF:-1,BEINSPORTS-full5HD
+http://am-iptv.club:25461/live/1234/1234/4918.ts
+#EXTINF:-1,BEINSPORTS-full6HD
+http://am-iptv.club:25461/live/1234/1234/4917.ts
+#EXTINF:-1,BEINSPORTS-full7HD
+http://am-iptv.club:25461/live/1234/1234/4916.ts
+#EXTINF:-1,BEINSPORTS-full8HD
+http://am-iptv.club:25461/live/1234/1234/4915.ts
+#EXTINF:-1,BEINSPORTS-full9HD
+http://am-iptv.club:25461/live/1234/1234/4914.ts
+#EXTINF:-1,BEINSPORTS-full10HD
+http://am-iptv.club:25461/live/1234/1234/4913.ts
+#EXTINF:-1,AR:  beIN_SPORTS_1HD
+http://am-iptv.club:25461/live/1234/1234/5204.ts
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://am-iptv.club:25461/live/1234/1234/2908.ts
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://am-iptv.club:25461/live/1234/1234/2907.ts
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://am-iptv.club:25461/live/1234/1234/2906.ts
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://am-iptv.club:25461/live/1234/1234/2905.ts
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://am-iptv.club:25461/live/1234/1234/2904.ts
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://am-iptv.club:25461/live/1234/1234/2903.ts
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://am-iptv.club:25461/live/1234/1234/2902.ts
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://am-iptv.club:25461/live/1234/1234/2901.ts
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://am-iptv.club:25461/live/1234/1234/2900.ts
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://am-iptv.club:25461/live/1234/1234/2899.ts
+#EXTINF:-1,Bein Sports 1 DM
+http://am-iptv.club:25461/live/1234/1234/1219.ts
+#EXTINF:-1,Bein Sports 2 DM
+http://am-iptv.club:25461/live/1234/1234/1218.ts
+#EXTINF:-1,Bein Sports 3 DM
+http://am-iptv.club:25461/live/1234/1234/1217.ts
+#EXTINF:-1,Bein Sports 4 DM
+http://am-iptv.club:25461/live/1234/1234/1216.ts
+#EXTINF:-1,Bein Sports 5 DM
+http://am-iptv.club:25461/live/1234/1234/1215.ts
+#EXTINF:-1,Bein Sports 6 DM
+http://am-iptv.club:25461/live/1234/1234/1214.ts
+#EXTINF:-1,Bein Sports 7 DM
+http://am-iptv.club:25461/live/1234/1234/1213.ts
+#EXTINF:-1,Bein Sports 8 DM
+http://am-iptv.club:25461/live/1234/1234/1212.ts
+#EXTINF:-1,Bein Sports 9 DM
+http://am-iptv.club:25461/live/1234/1234/1211.ts
+#EXTINF:-1,Bein Sports10 DM
+http://am-iptv.club:25461/live/1234/1234/1210.ts
+#EXTINF:-1,BEIN Sports 1 vip
+http://am-iptv.club:25461/live/1234/1234/3063.ts
+#EXTINF:-1,BEIN Sports 2 vip
+http://am-iptv.club:25461/live/1234/1234/3062.ts
+#EXTINF:-1,BEIN Sports 3 vip
+http://am-iptv.club:25461/live/1234/1234/3061.ts
+#EXTINF:-1,BEIN Sports 4 vip
+http://am-iptv.club:25461/live/1234/1234/3060.ts
+#EXTINF:-1,BEIN Sports 5 vip
+http://am-iptv.club:25461/live/1234/1234/3059.ts
+#EXTINF:-1,BEIN Sports 6 vip
+http://am-iptv.club:25461/live/1234/1234/3058.ts
+#EXTINF:-1,BEIN Sports 7 vip
+http://am-iptv.club:25461/live/1234/1234/3057.ts
+#EXTINF:-1,BEIN Sports 8 vip
+http://am-iptv.club:25461/live/1234/1234/3056.ts
+#EXTINF:-1,BEIN Sports 9 vip
+http://am-iptv.club:25461/live/1234/1234/3055.ts
+#EXTINF:-1,BEIN Sports 10 vip
+http://am-iptv.club:25461/live/1234/1234/3054.ts
+#EXTINF:-1,p12netw
+http://am-iptv.club:25461/live/1234/1234/4658.ts
+#EXTINF:-1,AR: yas sport
+http://am-iptv.club:25461/live/1234/1234/5761.ts
+#EXTINF:-1,Ar:AD Sport1
+http://am-iptv.club:25461/live/1234/1234/69.ts
+#EXTINF:-1,AR:AD Sport2
+http://am-iptv.club:25461/live/1234/1234/70.ts
+#EXTINF:-1,AR: AD Sport 3
+http://am-iptv.club:25461/live/1234/1234/3064.ts
+#EXTINF:-1,AR:  AD SPORT 1
+http://am-iptv.club:25461/live/1234/1234/5205.ts
+#EXTINF:-1,AR: MBC SPORTS 1
+http://am-iptv.club:25461/live/1234/1234/421.ts
+#EXTINF:-1,AR: MBC SPORTS 2
+http://am-iptv.club:25461/live/1234/1234/422.ts
+#EXTINF:-1,UK: BT-Sports-1-HD
+http://am-iptv.club:25461/live/1234/1234/655.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://am-iptv.club:25461/live/1234/1234/656.ts
+#EXTINF:-1,UK SKY SPORTS 1 HD
+http://am-iptv.club:25461/live/1234/1234/329.ts
+#EXTINF:-1,UK SKY SPORTS 2 HD
+http://am-iptv.club:25461/live/1234/1234/330.ts
+#EXTINF:-1,UK SKY SPORTS 3 HD
+http://am-iptv.club:25461/live/1234/1234/331.ts
+#EXTINF:-1,UK SKY SPORTS 4 HD
+http://am-iptv.club:25461/live/1234/1234/332.ts
+#EXTINF:-1,UK SKY SPORTS 5 HD
+http://am-iptv.club:25461/live/1234/1234/333.ts
+#EXTINF:-1,UK: _Sky_Sports_F1_UK
+http://am-iptv.club:25461/live/1234/1234/776.ts
+#EXTINF:-1,UK: MUTV
+http://am-iptv.club:25461/live/1234/1234/5853.ts
+#EXTINF:-1,UK: Boxnation_HD
+http://am-iptv.club:25461/live/1234/1234/1347.ts
+#EXTINF:-1,BeinSport-SD2
+http://xtream.hopto.me:9000/live/9/9/2288.ts
+#EXTINF:-1,BeinSport-SD3
+http://xtream.hopto.me:9000/live/9/9/2289.ts
+#EXTINF:-1,BeinSport-SD4
+http://xtream.hopto.me:9000/live/9/9/2290.ts
+#EXTINF:-1,BeinSport-SD5
+http://xtream.hopto.me:9000/live/9/9/2291.ts
+#EXTINF:-1,BeinSport-SD6
+http://xtream.hopto.me:9000/live/9/9/2292.ts
+#EXTINF:-1,BeinSport-SD7
+http://xtream.hopto.me:9000/live/9/9/2293.ts
+#EXTINF:-1,BeinSport-SD8
+http://xtream.hopto.me:9000/live/9/9/2294.ts
+#EXTINF:-1,BeinSport-SD9
+http://xtream.hopto.me:9000/live/9/9/2295.ts
+#EXTINF:-1,BeinSport-SD10
+http://xtream.hopto.me:9000/live/9/9/2296.ts
+#EXTINF:-1,BeinSport-SD1
+http://xtream.hopto.me:9000/live/9/9/2287.ts
+#EXTINF:-1,BeinSport-HD1 Local
+http://xtream.hopto.me:9000/live/9/9/2325.ts
+#EXTINF:-1,BeinSport-HD2 Local
+http://xtream.hopto.me:9000/live/9/9/2326.ts
+#EXTINF:-1,BeinSport-HD3 Local
+http://xtream.hopto.me:9000/live/9/9/2327.ts
+#EXTINF:-1,BeinSport-HD4 Local
+http://xtream.hopto.me:9000/live/9/9/2328.ts
+#EXTINF:-1,BeinSport-HD5 Local
+http://xtream.hopto.me:9000/live/9/9/2329.ts
+#EXTINF:-1,BeinSport-HD6 Local
+http://xtream.hopto.me:9000/live/9/9/2330.ts
+#EXTINF:-1,BeinSport-HD7 Local
+http://xtream.hopto.me:9000/live/9/9/2331.ts
+#EXTINF:-1,BeinSport-HD8 Local
+http://xtream.hopto.me:9000/live/9/9/2332.ts
+#EXTINF:-1,BeinSport-HD9 Local
+http://xtream.hopto.me:9000/live/9/9/2333.ts
+#EXTINF:-1,BeinSport-HD10 Local
+http://xtream.hopto.me:9000/live/9/9/2334.ts
 #EXTINF:-1,BEIN-SPORT.HD.1
 http://xtream.hopto.me:9000/live/9/9/4420.ts
 #EXTINF:-1,BEIN-SPORT.HD.2
@@ -203,6 +177,26 @@ http://xtream.hopto.me:9000/live/9/9/4427.ts
 http://xtream.hopto.me:9000/live/9/9/4428.ts
 #EXTINF:-1,BEIN-SPORT.HD.10
 http://xtream.hopto.me:9000/live/9/9/4429.ts
+#EXTINF:-1,BeinSport-Low_1
+http://xtream.hopto.me:9000/live/9/9/2315.ts
+#EXTINF:-1,BeinSport-Low_2
+http://xtream.hopto.me:9000/live/9/9/2316.ts
+#EXTINF:-1,BeinSport-Low_3
+http://xtream.hopto.me:9000/live/9/9/2317.ts
+#EXTINF:-1,BeinSport-Low_4
+http://xtream.hopto.me:9000/live/9/9/2318.ts
+#EXTINF:-1,BeinSport-Low_5
+http://xtream.hopto.me:9000/live/9/9/2319.ts
+#EXTINF:-1,BeinSport-Low_6
+http://xtream.hopto.me:9000/live/9/9/2320.ts
+#EXTINF:-1,BeinSport-Low_7
+http://xtream.hopto.me:9000/live/9/9/2321.ts
+#EXTINF:-1,BeinSport-Low_8
+http://xtream.hopto.me:9000/live/9/9/2322.ts
+#EXTINF:-1,BeinSport-Low_9
+http://xtream.hopto.me:9000/live/9/9/2323.ts
+#EXTINF:-1,BeinSport-Low_10
+http://xtream.hopto.me:9000/live/9/9/2324.ts
 #EXTINF:-1,BeinSports.1.FULL.HD
 http://xtream.hopto.me:9000/live/9/9/10251.ts
 #EXTINF:-1,BeinSports.2.FULL.HD
@@ -229,46 +223,6 @@ http://xtream.hopto.me:9000/live/9/9/2297.ts
 http://xtream.hopto.me:9000/live/9/9/2298.ts
 #EXTINF:-1,BeinSports.13.FULL.HD
 http://xtream.hopto.me:9000/live/9/9/11097.ts
-#EXTINF:-1,BeinSport-SD1
-http://xtream.hopto.me:9000/live/9/9/2287.ts
-#EXTINF:-1,BeinSport-SD2
-http://xtream.hopto.me:9000/live/9/9/2288.ts
-#EXTINF:-1,BeinSport-SD3
-http://xtream.hopto.me:9000/live/9/9/2289.ts
-#EXTINF:-1,BeinSport-SD4
-http://xtream.hopto.me:9000/live/9/9/2290.ts
-#EXTINF:-1,BeinSport-SD5
-http://xtream.hopto.me:9000/live/9/9/2291.ts
-#EXTINF:-1,BeinSport-SD6
-http://xtream.hopto.me:9000/live/9/9/2292.ts
-#EXTINF:-1,BeinSport-SD7
-http://xtream.hopto.me:9000/live/9/9/2293.ts
-#EXTINF:-1,BeinSport-SD8
-http://xtream.hopto.me:9000/live/9/9/2294.ts
-#EXTINF:-1,BeinSport-SD9
-http://xtream.hopto.me:9000/live/9/9/2295.ts
-#EXTINF:-1,BeinSport-SD10
-http://xtream.hopto.me:9000/live/9/9/2296.ts
-#EXTINF:-1,BeinSport-HD1 Local
-http://xtream.hopto.me:9000/live/9/9/2325.ts
-#EXTINF:-1,BeinSport-HD2 Local
-http://xtream.hopto.me:9000/live/9/9/2326.ts
-#EXTINF:-1,BeinSport-HD3 Local
-http://xtream.hopto.me:9000/live/9/9/2327.ts
-#EXTINF:-1,BeinSport-HD4 Local
-http://xtream.hopto.me:9000/live/9/9/2328.ts
-#EXTINF:-1,BeinSport-HD5 Local
-http://xtream.hopto.me:9000/live/9/9/2329.ts
-#EXTINF:-1,BeinSport-HD6 Local
-http://xtream.hopto.me:9000/live/9/9/2330.ts
-#EXTINF:-1,BeinSport-HD7 Local
-http://xtream.hopto.me:9000/live/9/9/2331.ts
-#EXTINF:-1,BeinSport-HD8 Local
-http://xtream.hopto.me:9000/live/9/9/2332.ts
-#EXTINF:-1,BeinSport-HD9 Local
-http://xtream.hopto.me:9000/live/9/9/2333.ts
-#EXTINF:-1,BeinSport-HD10 Local
-http://xtream.hopto.me:9000/live/9/9/2334.ts
 #EXTINF:-1,BeinSport-Free-HD Local
 http://xtream.hopto.me:9000/live/9/9/2299.ts
 #EXTINF:-1,BeinSport-News-HD Local
@@ -391,236 +345,324 @@ http://xtream.hopto.me:9000/live/9/9/2057.ts
 http://xtream.hopto.me:9000/live/9/9/2056.ts
 #EXTINF:-1,AR:BEINSPORT10-SD
 http://xtream.hopto.me:9000/live/9/9/14.ts
-#EXTINF:-1,BeinSport 1 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/271.ts
-#EXTINF:-1,BEINSPORT HD1 backup
-http://toshiba13.dyndns.org:25461/live/amer/amer/1260.ts
-#EXTINF:-1,BeinSport 2 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/109.ts
-#EXTINF:-1,BEINSPORT HD2 backup
-http://toshiba13.dyndns.org:25461/live/amer/amer/1261.ts
-#EXTINF:-1,BeinSport 3 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/110.ts
-#EXTINF:-1,BEINSPORT HD3 backup
-http://toshiba13.dyndns.org:25461/live/amer/amer/1262.ts
-#EXTINF:-1,BeinSport 4 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/111.ts
-#EXTINF:-1,BEINSPORT HD4 backup
-http://toshiba13.dyndns.org:25461/live/amer/amer/1263.ts
-#EXTINF:-1,BeinSport 5 hd AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/112.ts
-#EXTINF:-1,BEINSPORT HD5 backup
-http://toshiba13.dyndns.org:25461/live/amer/amer/1264.ts
-#EXTINF:-1,BeinSport 6 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/113.ts
-#EXTINF:-1,BeinSport 7 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/319.ts
-#EXTINF:-1,BeinSport 8 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/320.ts
-#EXTINF:-1,BeinSport 9 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/321.ts
-#EXTINF:-1,BeinSport 10 HD AR
-http://toshiba13.dyndns.org:25461/live/amer/amer/322.ts
-#EXTINF:-1,AR-:BeinSport_1 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1912.ts
-#EXTINF:-1,AR-:BeinSport_2 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1913.ts
-#EXTINF:-1,AR-:BeinSport_3 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1914.ts
-#EXTINF:-1,AR-:BeinSport_4 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1915.ts
-#EXTINF:-1,EUROSPORT 1 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1449.ts
-#EXTINF:-1,EUROSPORT 2 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/1450.ts
-#EXTINF:-1,[FR]Infosport HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/328.ts
-#EXTINF:-1,Canal plus Sport
-http://toshiba13.dyndns.org:25461/live/amer/amer/283.ts
-#EXTINF:-1,beiN Sport 1 HD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/345.ts
-#EXTINF:-1,beiN Sport 1 SD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/1325.ts
-#EXTINF:-1,beiN Sport 2 HD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/346.ts
-#EXTINF:-1,beiN Sport 2 SD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/1326.ts
-#EXTINF:-1,beiN Sport 3 HD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/347.ts
-#EXTINF:-1,beiN Sport 3 SD FR
-http://toshiba13.dyndns.org:25461/live/amer/amer/1327.ts
-#EXTINF:-1,BEIN MAX 4
-http://toshiba13.dyndns.org:25461/live/amer/amer/1334.ts
-#EXTINF:-1,BEIN MAX 5
-http://toshiba13.dyndns.org:25461/live/amer/amer/1328.ts
-#EXTINF:-1,BEIN MAX 6
-http://toshiba13.dyndns.org:25461/live/amer/amer/1329.ts
-#EXTINF:-1,BEIN MAX 7
-http://toshiba13.dyndns.org:25461/live/amer/amer/1330.ts
-#EXTINF:-1,BEIN MAX 8
-http://toshiba13.dyndns.org:25461/live/amer/amer/1331.ts
-#EXTINF:-1,BEIN MAX 9
-http://toshiba13.dyndns.org:25461/live/amer/amer/1332.ts
-#EXTINF:-1,BEIN MAX 10
-http://toshiba13.dyndns.org:25461/live/amer/amer/1333.ts
-#EXTINF:-1,FR_SFR_SPORT_1
-http://toshiba13.dyndns.org:25461/live/amer/amer/493.ts
-#EXTINF:-1,FR_SFR_SPORT_2
-http://toshiba13.dyndns.org:25461/live/amer/amer/494.ts
-#EXTINF:-1,FR_SFR_SPORT_3
-http://toshiba13.dyndns.org:25461/live/amer/amer/495.ts
-#EXTINF:-1,FR:Foot 24/24
-http://toshiba13.dyndns.org:25461/live/amer/amer/511.ts
-#EXTINF:-1,GOLF+
-http://toshiba13.dyndns.org:25461/live/amer/amer/1307.ts
-#EXTINF:-1,OL TV
-http://toshiba13.dyndns.org:25461/live/amer/amer/555.ts
-#EXTINF:-1,FR:Lequipe 21
-http://toshiba13.dyndns.org:25461/live/amer/amer/504.ts
-#EXTINF:-1,equidia live2
-http://toshiba13.dyndns.org:25461/live/amer/amer/1232.ts
-#EXTINF:-1,FR: Equidia Live
-http://toshiba13.dyndns.org:25461/live/amer/amer/569.ts
-#EXTINF:-1,Dubai Racing 1
-http://toshiba13.dyndns.org:25461/live/amer/amer/258.ts
-#EXTINF:-1,Al Fajer Sport HD TV
-http://toshiba13.dyndns.org:25461/live/amer/amer/104.ts
-#EXTINF:-1,Dubai Sports 3 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/241.ts
-#EXTINF:-1,Dubai Sport 4 HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/242.ts
-#EXTINF:-1,Bein sport news HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/225.ts
-#EXTINF:-1,NBA HD
-http://toshiba13.dyndns.org:25461/live/amer/amer/246.ts
-#EXTINF:-1,Oman tv sport
-http://toshiba13.dyndns.org:25461/live/amer/amer/11.ts
-#EXTINF:-1,Shareja Sport TV (UE)
-http://toshiba13.dyndns.org:25461/live/amer/amer/200.ts
-#EXTINF:-1,FR: Beinsport 1 HD FR
-http://am-iptv.club:25461/live/1234/1234/4962.ts
-#EXTINF:-1,FR: Beinsport 2 HD FR
-http://am-iptv.club:25461/live/1234/1234/4961.ts
-#EXTINF:-1,FR: Beinsport 3 HD FR
-http://am-iptv.club:25461/live/1234/1234/4960.ts
-#EXTINF:-1,BEINSPORTS-full1HD
-http://am-iptv.club:25461/live/1234/1234/4922.ts
-#EXTINF:-1,BEINSPORTS-full2HD
-http://am-iptv.club:25461/live/1234/1234/4921.ts
-#EXTINF:-1,BEINSPORTS-full3HD
-http://am-iptv.club:25461/live/1234/1234/4920.ts
-#EXTINF:-1,BEINSPORTS-full4HD
-http://am-iptv.club:25461/live/1234/1234/4919.ts
-#EXTINF:-1,BEINSPORTS-full5HD
-http://am-iptv.club:25461/live/1234/1234/4918.ts
-#EXTINF:-1,BEINSPORTS-full6HD
-http://am-iptv.club:25461/live/1234/1234/4917.ts
-#EXTINF:-1,BEINSPORTS-full7HD
-http://am-iptv.club:25461/live/1234/1234/4916.ts
-#EXTINF:-1,BEINSPORTS-full8HD
-http://am-iptv.club:25461/live/1234/1234/4915.ts
-#EXTINF:-1,BEINSPORTS-full9HD
-http://am-iptv.club:25461/live/1234/1234/4914.ts
-#EXTINF:-1,BEINSPORTS-full10HD
-http://am-iptv.club:25461/live/1234/1234/4913.ts
-#EXTINF:-1,AR:  beIN_SPORTS_1HD
-http://am-iptv.club:25461/live/1234/1234/5204.ts
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://am-iptv.club:25461/live/1234/1234/2908.ts
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://am-iptv.club:25461/live/1234/1234/2907.ts
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://am-iptv.club:25461/live/1234/1234/2906.ts
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://am-iptv.club:25461/live/1234/1234/2905.ts
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://am-iptv.club:25461/live/1234/1234/2904.ts
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://am-iptv.club:25461/live/1234/1234/2903.ts
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://am-iptv.club:25461/live/1234/1234/2902.ts
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://am-iptv.club:25461/live/1234/1234/2901.ts
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://am-iptv.club:25461/live/1234/1234/2900.ts
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://am-iptv.club:25461/live/1234/1234/2899.ts
-#EXTINF:-1,Bein Sports 1 DM
-http://am-iptv.club:25461/live/1234/1234/1219.ts
-#EXTINF:-1,Bein Sports 2 DM
-http://am-iptv.club:25461/live/1234/1234/1218.ts
-#EXTINF:-1,Bein Sports 3 DM
-http://am-iptv.club:25461/live/1234/1234/1217.ts
-#EXTINF:-1,Bein Sports 4 DM
-http://am-iptv.club:25461/live/1234/1234/1216.ts
-#EXTINF:-1,Bein Sports 5 DM
-http://am-iptv.club:25461/live/1234/1234/1215.ts
-#EXTINF:-1,Bein Sports 6 DM
-http://am-iptv.club:25461/live/1234/1234/1214.ts
-#EXTINF:-1,Bein Sports 7 DM
-http://am-iptv.club:25461/live/1234/1234/1213.ts
-#EXTINF:-1,Bein Sports 8 DM
-http://am-iptv.club:25461/live/1234/1234/1212.ts
-#EXTINF:-1,Bein Sports 9 DM
-http://am-iptv.club:25461/live/1234/1234/1211.ts
-#EXTINF:-1,Bein Sports10 DM
-http://am-iptv.club:25461/live/1234/1234/1210.ts
-#EXTINF:-1,BEIN Sports 1 vip
-http://am-iptv.club:25461/live/1234/1234/3063.ts
-#EXTINF:-1,BEIN Sports 2 vip
-http://am-iptv.club:25461/live/1234/1234/3062.ts
-#EXTINF:-1,BEIN Sports 3 vip
-http://am-iptv.club:25461/live/1234/1234/3061.ts
-#EXTINF:-1,BEIN Sports 4 vip
-http://am-iptv.club:25461/live/1234/1234/3060.ts
-#EXTINF:-1,BEIN Sports 5 vip
-http://am-iptv.club:25461/live/1234/1234/3059.ts
-#EXTINF:-1,BEIN Sports 6 vip
-http://am-iptv.club:25461/live/1234/1234/3058.ts
-#EXTINF:-1,BEIN Sports 7 vip
-http://am-iptv.club:25461/live/1234/1234/3057.ts
-#EXTINF:-1,BEIN Sports 8 vip
-http://am-iptv.club:25461/live/1234/1234/3056.ts
-#EXTINF:-1,BEIN Sports 9 vip
-http://am-iptv.club:25461/live/1234/1234/3055.ts
-#EXTINF:-1,BEIN Sports 10 vip
-http://am-iptv.club:25461/live/1234/1234/3054.ts
-#EXTINF:-1,p12netw
-http://am-iptv.club:25461/live/1234/1234/4658.ts
-#EXTINF:-1,AR: yas sport
-http://am-iptv.club:25461/live/1234/1234/5761.ts
-#EXTINF:-1,Ar:AD Sport1
-http://am-iptv.club:25461/live/1234/1234/69.ts
-#EXTINF:-1,AR:AD Sport2
-http://am-iptv.club:25461/live/1234/1234/70.ts
-#EXTINF:-1,AR: AD Sport 3
-http://am-iptv.club:25461/live/1234/1234/3064.ts
-#EXTINF:-1,AR:  AD SPORT 1
-http://am-iptv.club:25461/live/1234/1234/5205.ts
-#EXTINF:-1,AR: MBC SPORTS 1
-http://am-iptv.club:25461/live/1234/1234/421.ts
-#EXTINF:-1,AR: MBC SPORTS 2
-http://am-iptv.club:25461/live/1234/1234/422.ts
-#EXTINF:-1,UK: BT-Sports-1-HD
-http://am-iptv.club:25461/live/1234/1234/655.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://am-iptv.club:25461/live/1234/1234/656.ts
-#EXTINF:-1,UK SKY SPORTS 1 HD
-http://am-iptv.club:25461/live/1234/1234/329.ts
-#EXTINF:-1,UK SKY SPORTS 2 HD
-http://am-iptv.club:25461/live/1234/1234/330.ts
-#EXTINF:-1,UK SKY SPORTS 3 HD
-http://am-iptv.club:25461/live/1234/1234/331.ts
-#EXTINF:-1,UK SKY SPORTS 4 HD
-http://am-iptv.club:25461/live/1234/1234/332.ts
-#EXTINF:-1,UK SKY SPORTS 5 HD
-http://am-iptv.club:25461/live/1234/1234/333.ts
-#EXTINF:-1,UK: _Sky_Sports_F1_UK
-http://am-iptv.club:25461/live/1234/1234/776.ts
-#EXTINF:-1,UK: MUTV
-http://am-iptv.club:25461/live/1234/1234/5853.ts
-#EXTINF:-1,UK: Boxnation_HD
-http://am-iptv.club:25461/live/1234/1234/1347.ts
+#EXTINF:-1,beINSport 1 ARB
+http://portal.geniptv.com:8080/live/julia/julia/995.ts
+#EXTINF:-1,beINSport 1 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/979.ts
+#EXTINF:-1,beINSport 2 ARB
+http://portal.geniptv.com:8080/live/julia/julia/994.ts
+#EXTINF:-1,beINSport 2 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/978.ts
+#EXTINF:-1,beINSport 3 ARB
+http://portal.geniptv.com:8080/live/julia/julia/993.ts
+#EXTINF:-1,beINSport 3 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/977.ts
+#EXTINF:-1,beINSport 4 ARB
+http://portal.geniptv.com:8080/live/julia/julia/992.ts
+#EXTINF:-1,beINSport 4 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/976.ts
+#EXTINF:-1,beINSport 5 ARB
+http://portal.geniptv.com:8080/live/julia/julia/991.ts
+#EXTINF:-1,beINSport 5 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/975.ts
+#EXTINF:-1,beINSport 6 ARB
+http://portal.geniptv.com:8080/live/julia/julia/990.ts
+#EXTINF:-1,beINSport 6 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/974.ts
+#EXTINF:-1,beINSport 7 ARB
+http://portal.geniptv.com:8080/live/julia/julia/989.ts
+#EXTINF:-1,beINSport 7 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/973.ts
+#EXTINF:-1,beINSport 8 ARB
+http://portal.geniptv.com:8080/live/julia/julia/988.ts
+#EXTINF:-1,beINSport 8 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/972.ts
+#EXTINF:-1,beINSport 9 ARB
+http://portal.geniptv.com:8080/live/julia/julia/987.ts
+#EXTINF:-1,beINSport 9 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/971.ts
+#EXTINF:-1,beINSport 10 ARB
+http://portal.geniptv.com:8080/live/julia/julia/986.ts
+#EXTINF:-1,beINSport 10 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/970.ts
+#EXTINF:-1,beINSport 11 ARB
+http://portal.geniptv.com:8080/live/julia/julia/985.ts
+#EXTINF:-1,beINSport 11 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/969.ts
+#EXTINF:-1,beINSport 12 ARB
+http://portal.geniptv.com:8080/live/julia/julia/984.ts
+#EXTINF:-1,beINSport 12 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/968.ts
+#EXTINF:-1,beINSport AlKass 1 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/967.ts
+#EXTINF:-1,beINSport AlKass 2 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/966.ts
+#EXTINF:-1,beINSport AlKass 3 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/965.ts
+#EXTINF:-1,beINSport AlKass 4 HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/964.ts
+#EXTINF:-1,beINSport News HD ARB
+http://portal.geniptv.com:8080/live/julia/julia/998.ts
+#EXTINF:-1,beIN Sports Global ARB
+http://portal.geniptv.com:8080/live/julia/julia/4977.ts
+#EXTINF:-1,beINSport 1 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6963.ts
+#EXTINF:-1,beINSport 2 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6962.ts
+#EXTINF:-1,beINSport 3 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6961.ts
+#EXTINF:-1,beINSport 4 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6960.ts
+#EXTINF:-1,beINSport 5 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6959.ts
+#EXTINF:-1,beINSport 6 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6958.ts
+#EXTINF:-1,beINSport 7 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6957.ts
+#EXTINF:-1,beINSport 8 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6956.ts
+#EXTINF:-1,beINSport 9 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6955.ts
+#EXTINF:-1,beINSport 10 HD VIP ARB
+http://portal.geniptv.com:8080/live/julia/julia/6954.ts
+#EXTINF:-1,Eurosport 1 HD AL
+http://portal.geniptv.com:8080/live/julia/julia/5511.ts
+#EXTINF:-1,Eurosport 2 HD AL
+http://portal.geniptv.com:8080/live/julia/julia/5510.ts
+#EXTINF:-1,K Sport 1 AL
+http://portal.geniptv.com:8080/live/julia/julia/676.ts
+#EXTINF:-1,K Sport 2 AL
+http://portal.geniptv.com:8080/live/julia/julia/675.ts
+#EXTINF:-1,K Sport 3 AL
+http://portal.geniptv.com:8080/live/julia/julia/674.ts
+#EXTINF:-1,K Sport 4 AL
+http://portal.geniptv.com:8080/live/julia/julia/673.ts
+#EXTINF:-1,Motors TV AL
+http://portal.geniptv.com:8080/live/julia/julia/5509.ts
+#EXTINF:-1,RTSH Sport AL
+http://portal.geniptv.com:8080/live/julia/julia/156.ts
+#EXTINF:-1,Tele Sport AL
+http://portal.geniptv.com:8080/live/julia/julia/130.ts
+#EXTINF:-1,Super Sport 1 AL
+http://portal.geniptv.com:8080/live/julia/julia/680.ts
+#EXTINF:-1,Super Sport 2 AL
+http://portal.geniptv.com:8080/live/julia/julia/679.ts
+#EXTINF:-1,Super Sport 3 AL
+http://portal.geniptv.com:8080/live/julia/julia/678.ts
+#EXTINF:-1,Super Sport 4 AL
+http://portal.geniptv.com:8080/live/julia/julia/677.ts
+#EXTINF:-1,Super Sport 5 AL
+http://portal.geniptv.com:8080/live/julia/julia/5513.ts
+#EXTINF:-1,Super Sport 6 AL
+http://portal.geniptv.com:8080/live/julia/julia/5512.ts
+#EXTINF:-1,Super Sport Kosova 1 AL
+http://portal.geniptv.com:8080/live/julia/julia/682.ts
+#EXTINF:-1,Super Sport Kosova 2 AL
+http://portal.geniptv.com:8080/live/julia/julia/681.ts
+#EXTINF:-1,Tring Sport 1 AL
+http://portal.geniptv.com:8080/live/julia/julia/672.ts
+#EXTINF:-1,Tring Sport 2 AL
+http://portal.geniptv.com:8080/live/julia/julia/671.ts
+#EXTINF:-1,Tring Sport 3 AL
+http://portal.geniptv.com:8080/live/julia/julia/670.ts
+#EXTINF:-1,Tring Sport 4 AL
+http://portal.geniptv.com:8080/live/julia/julia/669.ts
+#EXTINF:-1,Fox Sports 1 FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/354.ts
+#EXTINF:-1,Fox Sports 1 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/244.ts
+#EXTINF:-1,Fox Sports 2 FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/353.ts
+#EXTINF:-1,Fox Sports 2 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/243.ts
+#EXTINF:-1,Fox Sports 3 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/242.ts
+#EXTINF:-1,Fox Sports 3 FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/6510.ts
+#EXTINF:-1,Fox Sports 4 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/241.ts
+#EXTINF:-1,Fox Sports 5 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/240.ts
+#EXTINF:-1,Fox Sports 5 FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/6511.ts
+#EXTINF:-1,Fox Sports 6 HD NL
+http://portal.geniptv.com:8080/live/julia/julia/239.ts
+#EXTINF:-1,Ziggo Sport Extra 1 NL
+http://portal.geniptv.com:8080/live/julia/julia/238.ts
+#EXTINF:-1,Ziggo Sport Extra 2 NL
+http://portal.geniptv.com:8080/live/julia/julia/237.ts
+#EXTINF:-1,Ziggo Sport Golf NL
+http://portal.geniptv.com:8080/live/julia/julia/236.ts
+#EXTINF:-1,Ziggo Sport Racing NL
+http://portal.geniptv.com:8080/live/julia/julia/235.ts
+#EXTINF:-1,Ziggo Sport Select NL
+http://portal.geniptv.com:8080/live/julia/julia/6112.ts
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://portal.geniptv.com:8080/live/julia/julia/234.ts
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/6514.ts
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://portal.geniptv.com:8080/live/julia/julia/233.ts
+#EXTINF:-1,EuroSport 1 FHD NL
+http://portal.geniptv.com:8080/live/julia/julia/246.ts
+#EXTINF:-1,EuroSport 2 NL
+http://portal.geniptv.com:8080/live/julia/julia/245.ts
+#EXTINF:-1,Extreme Sports NL
+http://portal.geniptv.com:8080/live/julia/julia/232.ts
+#EXTINF:-1,BT Sport 1 FHD UK
+http://portal.geniptv.com:8080/live/julia/julia/5716.ts
+#EXTINF:-1,BT Sport 1 HD UK
+http://portal.geniptv.com:8080/live/julia/julia/370.ts
+#EXTINF:-1,BT Sport 1 UK
+http://portal.geniptv.com:8080/live/julia/julia/369.ts
+#EXTINF:-1,BT Sport 2 FHD UK
+http://portal.geniptv.com:8080/live/julia/julia/5715.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://portal.geniptv.com:8080/live/julia/julia/368.ts
+#EXTINF:-1,BT Sport 2 UK
+http://portal.geniptv.com:8080/live/julia/julia/367.ts
+#EXTINF:-1,BT Sport 3 FHD UK
+http://portal.geniptv.com:8080/live/julia/julia/5714.ts
+#EXTINF:-1,BT Sport 3 HD UK
+http://portal.geniptv.com:8080/live/julia/julia/366.ts
+#EXTINF:-1,BT Sport 3 UK
+http://portal.geniptv.com:8080/live/julia/julia/365.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://portal.geniptv.com:8080/live/julia/julia/1743.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://portal.geniptv.com:8080/live/julia/julia/1819.ts
+#EXTINF:-1,BT Sport Extra 1 UK
+http://portal.geniptv.com:8080/live/julia/julia/1818.ts
+#EXTINF:-1,BT Sport Extra 2 UK
+http://portal.geniptv.com:8080/live/julia/julia/1817.ts
+#EXTINF:-1,BT Sport Extra 3 UK
+http://portal.geniptv.com:8080/live/julia/julia/1816.ts
+#EXTINF:-1,BT Sport Extra 4 UK
+http://portal.geniptv.com:8080/live/julia/julia/1815.ts
+#EXTINF:-1,BT Sport Extra 5 UK
+http://portal.geniptv.com:8080/live/julia/julia/1814.ts
+#EXTINF:-1,BT Sport Mosaic 2 UK
+http://portal.geniptv.com:8080/live/julia/julia/1813.ts
+#EXTINF:-1,Eurosport 1 HD UK
+http://portal.geniptv.com:8080/live/julia/julia/1812.ts
+#EXTINF:-1,Eurosport 2 HD UK
+http://portal.geniptv.com:8080/live/julia/julia/1811.ts
+#EXTINF:-1,CANAL+ Sport HD FR
+http://portal.geniptv.com:8080/live/julia/julia/1392.ts
+#EXTINF:-1,CANAL+ Sport FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4094.ts
+#EXTINF:-1,SFR Sport 1 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/1170.ts
+#EXTINF:-1,SFR Sport 1 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4086.ts
+#EXTINF:-1,SFR Sport 2 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/1169.ts
+#EXTINF:-1,SFR Sport 2 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4085.ts
+#EXTINF:-1,SFR Sport 3 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/1168.ts
+#EXTINF:-1,SFR Sport 3 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4084.ts
+#EXTINF:-1,SFR Sport 4K FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4083.ts
+#EXTINF:-1,SFR Sport 5 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4082.ts
+#EXTINF:-1,beIN SPORTS 1 FR
+http://portal.geniptv.com:8080/live/julia/julia/417.ts
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/418.ts
+#EXTINF:-1,beIN SPORTS 1 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4093.ts
+#EXTINF:-1,beIN SPORTS 2 FR
+http://portal.geniptv.com:8080/live/julia/julia/415.ts
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/416.ts
+#EXTINF:-1,beIN SPORTS 2 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4092.ts
+#EXTINF:-1,beIN SPORTS 3 FR
+http://portal.geniptv.com:8080/live/julia/julia/413.ts
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://portal.geniptv.com:8080/live/julia/julia/414.ts
+#EXTINF:-1,beIN SPORTS 3 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4091.ts
+#EXTINF:-1,beIN SPORTS MAX 4 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4090.ts
+#EXTINF:-1,beIN SPORTS MAX 5 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4089.ts
+#EXTINF:-1,beIN SPORTS MAX 6 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4088.ts
+#EXTINF:-1,beIN SPORTS MAX 7 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/4087.ts
+#EXTINF:-1,InfoSport+ FR
+http://portal.geniptv.com:8080/live/julia/julia/4047.ts
+#EXTINF:-1,InfoSport+ FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/6536.ts
+#EXTINF:-1,Eurosport 1 FR
+http://portal.geniptv.com:8080/live/julia/julia/1389.ts
+#EXTINF:-1,Eurosport 1 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/6538.ts
+#EXTINF:-1,Eurosport 2 FR
+http://portal.geniptv.com:8080/live/julia/julia/1388.ts
+#EXTINF:-1,Eurosport 2 FHD FR
+http://portal.geniptv.com:8080/live/julia/julia/6537.ts
+#EXTINF:-1,L'Equipe 21 FR
+http://portal.geniptv.com:8080/live/julia/julia/1387.ts
+#EXTINF:-1,Equidia Life FR
+http://portal.geniptv.com:8080/live/julia/julia/1402.ts
+#EXTINF:-1,Equidia Live FR
+http://portal.geniptv.com:8080/live/julia/julia/1386.ts
+#EXTINF:-1,Paris Premiere FR
+http://portal.geniptv.com:8080/live/julia/julia/1457.ts
+#EXTINF:-1,EuroSport 1 TR
+http://portal.geniptv.com:8080/live/julia/julia/1090.ts
+#EXTINF:-1,EuroSport 2 TR
+http://portal.geniptv.com:8080/live/julia/julia/1089.ts
+#EXTINF:-1,S Sports TV TR
+http://portal.geniptv.com:8080/live/julia/julia/1100.ts
+#EXTINF:-1,beINSport 1 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/836.ts
+#EXTINF:-1,beINSport 1 FHD TR
+http://portal.geniptv.com:8080/live/julia/julia/830.ts
+#EXTINF:-1,beINSport 2 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/835.ts
+#EXTINF:-1,beINSport 3 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/834.ts
+#EXTINF:-1,beINSport 4 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/833.ts
+#EXTINF:-1,beINSport 91 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/832.ts
+#EXTINF:-1,beINSport 92 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/831.ts
+#EXTINF:-1,Smart Sport 1 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/1092.ts
+#EXTINF:-1,Smart Sport 2 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/1091.ts
+#EXTINF:-1,TiviBu Sport 1 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/1094.ts
+#EXTINF:-1,TiviBu Sport 2 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/1093.ts
+#EXTINF:-1,TiviBu Sport 3 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/2082.ts
+#EXTINF:-1,TiviBu Sport 4 HD TR
+http://portal.geniptv.com:8080/live/julia/julia/2081.ts
+#EXTINF:-1,BEIN Sport 1
+http://62.210.245.19:8000/live/testapp/testapp/81.ts
+#EXTINF:-1,BEIN Sport 2
+http://62.210.245.19:8000/live/testapp/testapp/82.ts
+#EXTINF:-1,BEIN Sport 3
+http://62.210.245.19:8000/live/testapp/testapp/83.ts
+#EXTINF:-1,SFR SPORT 1 HD
+http://62.210.245.19:8000/live/testapp/testapp/84.ts
+#EXTINF:-1,SFR SPORT 2 HD
+http://62.210.245.19:8000/live/testapp/testapp/85.ts
+#EXTINF:-1,SFR SPORT 3 HD
+http://62.210.245.19:8000/live/testapp/testapp/86.ts
+#EXTINF:-1,Eurosport 1
+http://62.210.245.19:8000/live/testapp/testapp/89.ts
+#EXTINF:-1,Eurosport 2
+http://62.210.245.19:8000/live/testapp/testapp/90.ts
+#EXTINF:-1,Equipe 21
+http://62.210.245.19:8000/live/testapp/testapp/87.ts
 #EXTINF:-1,SporTV HD +
 http://livetvhd.dyndns.tv:8000/live/wOqMX7DJFE/1WLOI5d9Vm/4146.ts
 #EXTINF:-1,SporTV HD
@@ -725,280 +767,6 @@ http://livetvhd.dyndns.tv:8000/live/wOqMX7DJFE/1WLOI5d9Vm/856.ts
 http://livetvhd.dyndns.tv:8000/live/wOqMX7DJFE/1WLOI5d9Vm/857.ts
 #EXTINF:-1,Toros TV
 http://livetvhd.dyndns.tv:8000/live/wOqMX7DJFE/1WLOI5d9Vm/839.ts
-#EXTINF:-1,PT| SPORTING TV HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33881.ts
-#EXTINF:-1,PT| SPORTS:TV 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33880.ts
-#EXTINF:-1,PT| SPORTS:TV 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33879.ts
-#EXTINF:-1,PT| SPORTS:TV 3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33878.ts
-#EXTINF:-1,PT| SPORTS:TV 4 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33877.ts
-#EXTINF:-1,PT| SPORTS:TV 5 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33876.ts
-#EXTINF:-1,PT| Sport TV1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16814.ts
-#EXTINF:-1,PT| Sport TV2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16813.ts
-#EXTINF:-1,PT: Sport TV 1
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16658.ts
-#EXTINF:-1,PT: Sport TV 2
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16657.ts
-#EXTINF:-1,PT: Sport TV 3
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16656.ts
-#EXTINF:-1,PT: Sport TV 4
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16654.ts
-#EXTINF:-1,PT: Sport TV 5
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/16653.ts
-#EXTINF:-1,AL| Tring Sport 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18807.ts
-#EXTINF:-1,AL| Tring Sport 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18806.ts
-#EXTINF:-1,AL| Tring Sport 3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18805.ts
-#EXTINF:-1,AL| Tring Sport 4 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18804.ts
-#EXTINF:-1,AL| Tring Sport News HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18808.ts
-#EXTINF:-1,AL| Kujtesa Sport 2
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18802.ts
-#EXTINF:-1,AL| Kujtesa Sport 3
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18801.ts
-#EXTINF:-1,AL| Kujtesa Sport 4
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18800.ts
-#EXTINF:-1,AL| Sport Kosova 1 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18810.ts
-#EXTINF:-1,AL| Sport Kosova 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18809.ts
-#EXTINF:-1,AL| SS Kosova 1 HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18813.ts
-#EXTINF:-1,AL| SS Kosova 2HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18812.ts
-#EXTINF:-1,AL| Super Sport 1 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18823.ts
-#EXTINF:-1,AL| Super Sport 1 HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18828.ts
-#EXTINF:-1,AL| Super Sport 2 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18822.ts
-#EXTINF:-1,AL| Super Sport 2 HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18827.ts
-#EXTINF:-1,AL| Super Sport 3 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18821.ts
-#EXTINF:-1,AL| Super Sport 3 HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18825.ts
-#EXTINF:-1,AL| Super Sport 4 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18820.ts
-#EXTINF:-1,AL| Super Sport 4 HD -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18824.ts
-#EXTINF:-1,AL| Super Sport 5 -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18819.ts
-#EXTINF:-1,AL| Supersport 1 (backup)
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18817.ts
-#EXTINF:-1,AL| Supersport 2 (backup)
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18816.ts
-#EXTINF:-1,AL| Supersport 3 (backup)
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18815.ts
-#EXTINF:-1,AL| Supersport 4 (backup)
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18814.ts
-#EXTINF:-1,AL| SuperSport 6
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18818.ts
-#EXTINF:-1,AL| SuperSport Kosova
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18811.ts
-#EXTINF:-1,AL|Super Sport 2 HD  -DIGITALB
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/18826.ts
-#EXTINF:-1,UK| SKY SPORTS 1HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34126.ts
-#EXTINF:-1,UK| SKY SPORTS 1SD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34125.ts
-#EXTINF:-1,UK| SKY SPORTS 2HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34124.ts
-#EXTINF:-1,UK| SKY SPORTS 2SD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34123.ts
-#EXTINF:-1,UK| SKY SPORTS 3HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34122.ts
-#EXTINF:-1,UK| SKY SPORTS 3SD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34121.ts
-#EXTINF:-1,UK| SKY SPORTS 4HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34120.ts
-#EXTINF:-1,UK| SKY SPORTS 5HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34119.ts
-#EXTINF:-1,UK| BT Sport 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34117.ts
-#EXTINF:-1,UK| BT SPORT 1HD 1080P
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34118.ts
-#EXTINF:-1,UK| BT Sport 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34115.ts
-#EXTINF:-1,UK| BT SPORT 2HD 1080P
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34116.ts
-#EXTINF:-1,UK| BT Sport 3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/34113.ts
-#EXTINF:-1,UK| Sky Sports Box Office PPV
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33957.ts
-#EXTINF:-1,UK| SKY SPORTS CRICKET  HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33956.ts
-#EXTINF:-1,UK| SKY SPORTS F1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33955.ts
-#EXTINF:-1,UK| SKY SPORTS MIX
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33954.ts
-#EXTINF:-1,UK| SKY SPORTS MIX FHD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33953.ts
-#EXTINF:-1,UK| SKY SPORTS MIX HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33952.ts
-#EXTINF:-1,US| WWE Network
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32540.ts
-#EXTINF:-1,NL| FOX Sports 1 Eredivisie
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33837.ts
-#EXTINF:-1,NL| FOX Sports 1 HD  Eredivisie
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33836.ts
-#EXTINF:-1,NL| FOX Sports 2 HD  Internationaal
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33835.ts
-#EXTINF:-1,NL| FOX Sports 2 Internationaal
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33834.ts
-#EXTINF:-1,NL| FOX Sports 3 Eredivisie
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33833.ts
-#EXTINF:-1,NL| FOX Sports 4 Internationaal
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33832.ts
-#EXTINF:-1,NL| FOX Sports 5 Eredivisie
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33831.ts
-#EXTINF:-1,NL| FOX Sports 6 Internationaal
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33830.ts
-#EXTINF:-1,NL| Ziggo Sport
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33749.ts
-#EXTINF:-1,NL| Ziggo Sport Extra 1
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33748.ts
-#EXTINF:-1,NL| Ziggo Sport Extra 2
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33747.ts
-#EXTINF:-1,NL| Ziggo Sport Golf
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33746.ts
-#EXTINF:-1,NL| Ziggo Sport Racing HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33745.ts
-#EXTINF:-1,NL| Ziggo Sport Select HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33744.ts
-#EXTINF:-1,NL| Ziggo Sport Voetbal
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33743.ts
-#EXTINF:-1,NL| Ziggo TV
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33742.ts
-#EXTINF:-1,NL| Edge Sport HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33849.ts
-#EXTINF:-1,NL| Eurosport 1
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33848.ts
-#EXTINF:-1,NL| Eurosport 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33847.ts
-#EXTINF:-1,NL| Extreme Sports
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33846.ts
-#EXTINF:-1,AR| BEIN SPORT 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33922.ts
-#EXTINF:-1,AR| BEIN SPORT 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33921.ts
-#EXTINF:-1,AR| BEIN SPORT 4 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33920.ts
-#EXTINF:-1,AR| BEIN SPORT 5 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33919.ts
-#EXTINF:-1,AR| BEIN SPORT 7 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33918.ts
-#EXTINF:-1,AR| BEIN SPORT 8 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33917.ts
-#EXTINF:-1,AR| BEIN SPORT 9 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33916.ts
-#EXTINF:-1,AR| BEIN MOVIES 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33924.ts
-#EXTINF:-1,AR| BEIN MOVIES HD 2
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33923.ts
-#EXTINF:-1,AR| Bein Movies3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/33915.ts
-#EXTINF:-1,AR| beIN Movie 1 HD.
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32985.ts
-#EXTINF:-1,AR| beIN Movie 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32983.ts
-#EXTINF:-1,AR| beIN Movie 3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32982.ts
-#EXTINF:-1,AR| beIN Movie 4 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32981.ts
-#EXTINF:-1,AR| beINSports 1 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32996.ts
-#EXTINF:-1,AR| beINSports 2 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32995.ts
-#EXTINF:-1,AR| beINSports 3 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32994.ts
-#EXTINF:-1,AR| beINSports 4 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32993.ts
-#EXTINF:-1,AR| beINSports 5 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32992.ts
-#EXTINF:-1,AR| beINSports 6 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32991.ts
-#EXTINF:-1,AR| beINSports 7 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32990.ts
-#EXTINF:-1,AR| beINSports 8 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32989.ts
-#EXTINF:-1,AR| beINSports 9 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32988.ts
-#EXTINF:-1,AR| beINSports 10 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32987.ts
-#EXTINF:-1,AR| beINSports 11 HD
-http://link.softclientarea.com:9100/live/ASGsKiECsf/A8b0HCtUYn/32986.ts
-#EXTINF:-1,Tring sport 1 hd
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/32.ts
-#EXTINF:-1,Super sport kosova 2 HD
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/31.ts
-#EXTINF:-1,Super sport Kosova 1 Hd
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/30.ts
-#EXTINF:-1,Super sport 4 hd
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/29.ts
-#EXTINF:-1,Super sport 3 HD
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/28.ts
-#EXTINF:-1,Super sport 2 hd
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/27.ts
-#EXTINF:-1,Super sport 1 hd
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/26.ts
-#EXTINF:-1,Tring Sport 2
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/6.ts
-#EXTINF:-1,Tring Sport 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/5.ts
-#EXTINF:-1,Super Sport 7
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/16.ts
-#EXTINF:-1,Super Sport 6
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/15.ts
-#EXTINF:-1,Super Sport 5
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/14.ts
-#EXTINF:-1,Super Sport 4
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/13.ts
-#EXTINF:-1,Super Sport 3
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/12.ts
-#EXTINF:-1,Super Sport 2
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/11.ts
-#EXTINF:-1,Super Sport 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/10.ts
-#EXTINF:-1,SS Kosova 2
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/9.ts
-#EXTINF:-1,SS Kosova 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/8.ts
-#EXTINF:-1,SPORTKLUB 2
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/20.ts
-#EXTINF:-1,SPORTKLUB 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/19.ts
-#EXTINF:-1,Sky Sport 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/17.ts
-#EXTINF:-1,Sky Bundesliga 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/18.ts
-#EXTINF:-1,M Futbol
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/2.ts
-#EXTINF:-1,TRING MAX
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/4.ts
-#EXTINF:-1,TRING SPORT NEWS
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/3.ts
-#EXTINF:-1,EuroSport
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/7.ts
-#EXTINF:-1,Arena Sport 5
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/25.ts
-#EXTINF:-1,Arena Sport 4
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/24.ts
-#EXTINF:-1,Arena Sport 3
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/23.ts
-#EXTINF:-1,Arena Sport 2
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/22.ts
-#EXTINF:-1,Arena Sport 1
-http://163.172.49.93:8000/live/zonahd/zonaaqwrfd/21.ts
 #EXTINF:-1,AR_B_SPORTS_2_HD
 http://www.q7t1.com:8000/live/dona/dona/187.ts
 #EXTINF:-1,AR_B_SPORTS_3_HD
@@ -1259,3 +1027,313 @@ http://tv.primatv.club:8899/live/playiptv/eCoaaFgtWj/705.ts
 #EXTVLCOPT:http-user-agent=iii LibVLC/3.0.0-git
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3HD Fr" tvg-logo="" group-title="09- Sports France",BeINSPORTS 3HD Fr
 http://tv.primatv.club:8899/live/playiptv/eCoaaFgtWj/706.ts
+#EXTINF:-1,Xxx | Passie XXX
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/557.ts
+#EXTINF:-1,Xxx | Brazzers TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/565.ts
+#EXTINF:-1,Xxx | SCT
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2800.ts
+#EXTINF:-1,Xxx | Sest Senso
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2821.ts
+#EXTINF:-1,Xxx | CentoXCento
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/562.ts
+#EXTINF:-1,Xxx | PINK O
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2806.ts
+#EXTINF:-1,Xxx | T Girls
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/563.ts
+#EXTINF:-1,Xxx | RedLight HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1229.ts
+#EXTINF:-1,Xxx | VOD 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2876.ts
+#EXTINF:-1,Xxx | VOD 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2874.ts
+#EXTINF:-1,Xxx | VOD 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2873.ts
+#EXTINF:-1,Xxx | VOD 4
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2872.ts
+#EXTINF:-1,Xxx | VOD 5
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2871.ts
+#EXTINF:-1,Xxx | VOD 6
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1230.ts
+#EXTINF:-1,Xxx | VOD 7
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/572.ts
+#EXTINF:-1,Xxx | VOD 8
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/573.ts
+#EXTINF:-1,Xxx | VOD 9
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2870.ts
+#EXTINF:-1,Xxx | VOD 10
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2875.ts
+#EXTINF:-1,Xxx | VOD 11
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/568.ts
+#EXTINF:-1,Xxx | VOD 12
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/579.ts
+#EXTINF:-1,Xxx | VOD 13
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/574.ts
+#EXTINF:-1,Xxx | VOD 14
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/576.ts
+#EXTINF:-1,Xxx | VOD 15
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/584.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/552.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/551.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/550.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 4
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/549.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 5
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/548.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 6
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/547.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 7
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/546.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 8
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/545.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 9
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/544.ts
+#EXTINF:-1,Xxx | Primafila Hot Club 10
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/555.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 1HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4028.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 2HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4027.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 3HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4026.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 4HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4025.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 5HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4024.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 6HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4023.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 7HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4022.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 8HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4021.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 9HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4020.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 10HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4019.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 11HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4018.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 12HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4017.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 13HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4016.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 14HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4015.ts
+#EXTINF:-1,Xxx | MOVEIS XXX 15HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/4014.ts
+#EXTINF:-1,Xxx | HOTCLUB 1 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/588.ts
+#EXTINF:-1,Xxx | HOTCLUB 2 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/587.ts
+#EXTINF:-1,Xxx | HOTCLUB 4 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2893.ts
+#EXTINF:-1,Xxx | HOTCLUB 3 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2825.ts
+#EXTINF:-1,Xxx | HOTCLUB 5 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2831.ts
+#EXTINF:-1,Xxx | HOTCLUB 6 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1240.ts
+#EXTINF:-1,Xxx | HOTCLUB 7 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2830.ts
+#EXTINF:-1,Xxx | HOTCLUB 8 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2829.ts
+#EXTINF:-1,Xxx | HOTCLUB 9 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2828.ts
+#EXTINF:-1,Xxx | Anal Casting Calls
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2827.ts
+#EXTINF:-1,Xxx | BLACKED 1 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/589.ts
+#EXTINF:-1,Xxx | BLACKED 2 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/586.ts
+#EXTINF:-1,Xxx | BLACKED 3 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/585.ts
+#EXTINF:-1,Xxx | BLACKED 4 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/597.ts
+#EXTINF:-1,Xxx | BLACKED 5 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/571.ts
+#EXTINF:-1,Xxx | BLACKED 6 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2819.ts
+#EXTINF:-1,Xxx | BLACKED 7 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2818.ts
+#EXTINF:-1,Xxx | BLACKED 8 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1235.ts
+#EXTINF:-1,Xxx | BLACKED 9 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/578.ts
+#EXTINF:-1,Xxx | BLACKED 10 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/577.ts
+#EXTINF:-1,Xxx | ADULT 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1244.ts
+#EXTINF:-1,Xxx | ADULT 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1245.ts
+#EXTINF:-1,Xxx | ASIA 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1243.ts
+#EXTINF:-1,Xxx | Asspirations
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2826.ts
+#EXTINF:-1,Xxx | Babysitter Orgy
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2824.ts
+#EXTINF:-1,Xxx | Barely Legal All By Myself
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2823.ts
+#EXTINF:-1,Xxx | Blue Is The Warmest Color
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2788.ts
+#EXTINF:-1,Xxx | Bonny & Clide
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2822.ts
+#EXTINF:-1,Xxx | Brazzers
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1242.ts
+#EXTINF:-1,Xxx | Brazzers backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2017.ts
+#EXTINF:-1,Xxx | Bride Party Orgy
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2820.ts
+#EXTINF:-1,Xxx | But Go HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/590.ts
+#EXTINF:-1,Xxx | CentoXCento backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2237.ts
+#EXTINF:-1,Xxx | DAUGHTER SWAP
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2817.ts
+#EXTINF:-1,Xxx | Dorcel
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/564.ts
+#EXTINF:-1,Xxx | DORCEL 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2816.ts
+#EXTINF:-1,Xxx | Dorcel backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2247.ts
+#EXTINF:-1,Xxx | DORCEL CLUB
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/581.ts
+#EXTINF:-1,Xxx | DORCEL M
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/591.ts
+#EXTINF:-1,Xxx | Durcel Club
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2815.ts
+#EXTINF:-1,Xxx | ENJOY PREMIUM
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2814.ts
+#EXTINF:-1,Xxx | France POIL
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2789.ts
+#EXTINF:-1,Xxx | Fucked.Friends
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2813.ts
+#EXTINF:-1,Xxx | Girls Just Wanna Have Fun
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2812.ts
+#EXTINF:-1,Xxx | HARDX
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2811.ts
+#EXTINF:-1,Xxx | Have A Wife
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2790.ts
+#EXTINF:-1,Xxx | Holland Hard
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/580.ts
+#EXTINF:-1,Xxx | Hot
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1241.ts
+#EXTINF:-1,Xxx | Hot Cooking
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2810.ts
+#EXTINF:-1,Xxx | Hustler HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/566.ts
+#EXTINF:-1,Xxx | Hustler HD backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2256.ts
+#EXTINF:-1,Xxx | JASMIN.TV HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2809.ts
+#EXTINF:-1,Xxx | LEGAL
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/575.ts
+#EXTINF:-1,Xxx | Meiden van Holland Hard NL
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2892.ts
+#EXTINF:-1,Xxx | MOFOS
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/582.ts
+#EXTINF:-1,Xxx | MOFOS 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/583.ts
+#EXTINF:-1,Xxx | Nubiles Casting
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1239.ts
+#EXTINF:-1,Xxx | PASSIEXXX
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2808.ts
+#EXTINF:-1,Xxx | Penthouse Asia 18   HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/598.ts
+#EXTINF:-1,Xxx | Penthouse Asia 18 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2891.ts
+#EXTINF:-1,Xxx | PENTHOUSE HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2807.ts
+#EXTINF:-1,Xxx | Pink Erotic 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2890.ts
+#EXTINF:-1,Xxx | Pink Erotic 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2889.ts
+#EXTINF:-1,Xxx | Pink Erotic 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2888.ts
+#EXTINF:-1,Xxx | Pink Erotic 4
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2887.ts
+#EXTINF:-1,Xxx | Pink Erotic 5
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2886.ts
+#EXTINF:-1,Xxx | Pink Erotic 6
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2885.ts
+#EXTINF:-1,Xxx | Pink Erotic 8
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2884.ts
+#EXTINF:-1,Xxx | Pink O backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2277.ts
+#EXTINF:-1,Xxx | PlayBoy
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/567.ts
+#EXTINF:-1,Xxx | Playboy TV Chat 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1237.ts
+#EXTINF:-1,Xxx | Playboy TV Chat 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1238.ts
+#EXTINF:-1,Xxx | PORN 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2883.ts
+#EXTINF:-1,Xxx | PORN 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2882.ts
+#EXTINF:-1,Xxx | PORN 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2881.ts
+#EXTINF:-1,Xxx | PORN 4
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2880.ts
+#EXTINF:-1,Xxx | Porn Mix 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/561.ts
+#EXTINF:-1,Xxx | Porn Mix 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/560.ts
+#EXTINF:-1,Xxx | Porn Mix 3
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/559.ts
+#EXTINF:-1,Xxx | PRIVATE
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2805.ts
+#EXTINF:-1,Xxx | PRIVATE HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2804.ts
+#EXTINF:-1,Xxx | Private Tv 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1236.ts
+#EXTINF:-1,Xxx | Reality Kings
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2803.ts
+#EXTINF:-1,Xxx | Redlight1 HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/558.ts
+#EXTINF:-1,Xxx | RK HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2802.ts
+#EXTINF:-1,Xxx | Robinson Crusoe On Sin Island
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2801.ts
+#EXTINF:-1,Xxx | Satisfaction
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/556.ts
+#EXTINF:-1,Xxx | SCT 4
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2879.ts
+#EXTINF:-1,Xxx | SESTO SENSO
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2799.ts
+#EXTINF:-1,Xxx | Sext O Senso*
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1234.ts
+#EXTINF:-1,Xxx | She Fuckin’ Loves It
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2798.ts
+#EXTINF:-1,Xxx | SIRINA 1
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2878.ts
+#EXTINF:-1,Xxx | SIRINA 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2877.ts
+#EXTINF:-1,Xxx | Sluty Angels
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2797.ts
+#EXTINF:-1,Xxx | Spice TV HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1233.ts
+#EXTINF:-1,Xxx | SUPERONE
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2796.ts
+#EXTINF:-1,Xxx | Swallowed Com 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2795.ts
+#EXTINF:-1,Xxx | T Girls backup
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2320.ts
+#EXTINF:-1,Xxx | The Flintstones A Xxx Parody
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2869.ts
+#EXTINF:-1,Xxx | The Flintstones: A Xxx Parody
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2794.ts
+#EXTINF:-1,Xxx | The O HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/570.ts
+#EXTINF:-1,Xxx | Venus
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1232.ts
+#EXTINF:-1,Xxx | VENUS HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2793.ts
+#EXTINF:-1,Xxx | Viki Enjoy Premium HD
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/569.ts
+#EXTINF:-1,Xxx | VIsit X TV
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/1231.ts
+#EXTINF:-1,Xxx | Young Girls Like Big Dicks
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2792.ts
+#EXTINF:-1,Xxx | Young Girls Like Big Dicks 2
+http://abc.myplay.live:8000/live/N-PRO-230/hnfvgh/2791.ts
